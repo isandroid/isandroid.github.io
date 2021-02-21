@@ -9,7 +9,7 @@ Imam berarti pemimpin. Sedangkan Mahdi berasal dari kata _hadaa-yahdii_. Kata te
 
 ### Almahdi mempunyai Gelar Khalifatullah
 
-Rasulullah saw pernah menyebut sosok **Al-Mahdi** itu sebagai [khalifatullah](/khalifatullah) yang berarti beliau diutus sebagai seorang nabi. [[^fn-hds-08d3ffc4-6670-4566-8c3f-80bc98ec9674]]
+Rasulullah saw pernah menyebut sosok **Al-Mahdi** itu sebagai [khalifatullah](/islam/khalifatullah) yang berarti beliau diutus sebagai seorang nabi. [[^fn-hds-08d3ffc4-6670-4566-8c3f-80bc98ec9674]]
 
 [^fn-hds-08d3ffc4-6670-4566-8c3f-80bc98ec9674]: [H.R. Ibnu Majah, Kitab Fitnah, Bab Keluarnya al Mahdi](/ref/hds-08d3ffc4-6670-4566-8c3f-80bc98ec9674)
 
@@ -43,7 +43,7 @@ Diriwayatkan dalam Ibnu Majah bahwa Rasulullah (saw) menyebutkan bahwa Al-Mahdi 
 
 ### Al-Mahdi adalah Isa
 
-Dalam Ibnu Majah, diriwayatkan bahwa Rasulullah saw berpesan bahwa **Imam Mahdi** tiada lain adalah [Al-Masih, Isa Ibnu Maryam](/masih-mauud) [[^fn-hds-77886c96-4f38-458f-ae4c-d8519e899527]]
+Dalam Ibnu Majah, diriwayatkan bahwa Rasulullah saw berpesan bahwa **Imam Mahdi** tiada lain adalah [Al-Masih, Isa Ibnu Maryam](/islam/masih-mauud) [[^fn-hds-77886c96-4f38-458f-ae4c-d8519e899527]]
 
 [^fn-hds-77886c96-4f38-458f-ae4c-d8519e899527]: [H.R. Ibnu Majah, Kitab Fitnah, Kerasnya zaman](/ref/hds-77886c96-4f38-458f-ae4c-d8519e899527)
 
@@ -57,7 +57,7 @@ Hadhrat Mirza Ghulam Ahmad (as) dari Qadian menyampaikan dalam buku Khotbah Ilha
 
 <p class="arab">فَأَنَا ذَالِكَ النُّوْرُ وَالْمُجَدِّدُ الْمَأْمُوْرُ وَالْعَبْدُ الْمَنْصُوْرُ وَالْمَهْدِيُّ الْمَعْهُوْدُ وَالْمَسِيْحُ الْمَوْعُوْدُ</p>
 
-“Maka, akulah cahaya itu, Mujaddid yang mendapat perintah, seorang hamba yang ditolong, Al-Mahdi yang dijanjikan (**Imam Mahdi**) dan Al-Masih yang dijanjikan [(Al-Masih Al-Mau'ud)](/masih-mauud).” 
+“Maka, akulah cahaya itu, Mujaddid yang mendapat perintah, seorang hamba yang ditolong, Al-Mahdi yang dijanjikan (**Imam Mahdi**) dan Al-Masih yang dijanjikan [(Al-Masih Al-Mau'ud)](/islam/masih-mauud).” 
 
 ### Catatan Kaki
 

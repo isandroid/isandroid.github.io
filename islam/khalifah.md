@@ -31,11 +31,11 @@ Dalam hadits riwayat Al-Bukhari diterangkan bahwa sebelum kaum Muslim mempunyai 
 
 Di dalam Alquran maupun hadits, disebutkan ada beberapa macam corak khalifah. Diantaranya,
 
-1. [khalifatullah](/khalifatullah)
+1. [khalifatullah](/islam/khalifatullah)
 
-2. [khalifaturrasul](/khalifaturrasul)
+2. [khalifaturrasul](/islam/khalifaturrasul)
 
-3. [Khalifah Kerajaan](/khalifah-kerajaan)
+3. [Khalifah Kerajaan](/islam/khalifah-kerajaan)
 
 ### Tugas Khalifah
 

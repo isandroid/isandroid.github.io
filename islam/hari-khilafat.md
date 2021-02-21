@@ -5,13 +5,13 @@ layout: default
 
 ## {{page.title}}
 
-Tanggal 27 Mei 1908 adalah masa-masa yang sangat bersejarah bagi Jemaat Ahmadiyah. Hari itu adalah hari dimana kepemimpinan [Al-Masih Al-Mau'ud](/masih-mauud) diteruskan kepada [Khalifatul Masih](/khalifatul-masih).
+Tanggal 27 Mei 1908 adalah masa-masa yang sangat bersejarah bagi Jemaat Ahmadiyah. Hari itu adalah hari dimana kepemimpinan [Al-Masih Al-Mau'ud](/islam/masih-mauud) diteruskan kepada [Khalifatul Masih](/islam/khalifatul-masih).
 
 ### Sejarah
 
 #### Kewafatan Hadhrat Masih Mau'ud (as)
 
-Tanggal 26 Mei 1908 adalah hari kewafatan Hadhrat Mirza Ghulam Ahmad (as), [Al-Masih Al-Mau'ud](/masih-mauud) dan [Al-Mahdi Al-Mau'huud](/imam-mahdi). Berkenaan dengan sejarah tersebut, Hadhrat Mirza Masroor Ahmad r.a. menyampaikan,
+Tanggal 26 Mei 1908 adalah hari kewafatan Hadhrat Mirza Ghulam Ahmad (as), [Al-Masih Al-Mau'ud](/islam/masih-mauud) dan [Al-Mahdi Al-Mau'huud](/islam/imam-mahdi). Berkenaan dengan sejarah tersebut, Hadhrat Mirza Masroor Ahmad r.a. menyampaikan,
 
 > Sementara 26 Mei 1908 adalah hari yang menyayat hati bagi para anggota Jemaat Muslim Ahmadiyah, dan mengguncang keimanan banyak orang, dan menyebabkan kegelisahan di hati beberapa orang, untuk musuh-musuh Ahmadiyah itu adalah hari yang mereka gunakan untuk menimbulkan rasa sakit dan mencoba dan membuat para anggota Jemaat Muslim Ahmadiyah menderita. [[^ft01]]
 

@@ -21,7 +21,7 @@ Al-Mau'ud berasal dari akar kata _wa-'a-da_ yang artinya berjanji. Mau'ud berart
 
 Jadi Mushlih Mau'ud berarti pembaharu atau reformer yang dijanjikan.
 
-Allah Ta'ala mengabarkan bahwa dengan perantaraan Mushlih Mau'ud, maka Jemaat akan mendapat kemajuan yang pesat. Beliau hadir untuk meneruskan missi [Hadhrat Masih Mau'ud](/masih-mauud) (as) 
+Allah Ta'ala mengabarkan bahwa dengan perantaraan Mushlih Mau'ud, maka Jemaat akan mendapat kemajuan yang pesat. Beliau hadir untuk meneruskan missi [Hadhrat Masih Mau'ud](/islam/masih-mauud) (as) 
 
 Rasulullah saw bersabda menubuwatkan bahwa Nabi Isa Ibnu Maryam yang turun ke dunia akan mempunyai istri dan mempunyai keturunan. [[^hds-8978ae42-2085-48bb-b46b-85484fd9dc84]]
 
@@ -29,17 +29,17 @@ Rasulullah saw bersabda menubuwatkan bahwa Nabi Isa Ibnu Maryam yang turun ke du
 
 ### Kronologi Turunnya Nubuwwatan Mengenai Hadhrat Mushlih Mau'ud
 
-Ketika itu, [Hadhrat Masih Mau’ud](/masih-mauud) (as) telah meminta sebuah tanda dari Allah Ta’ala dalam rangka mendukung kebenaran Islam, berupaya membuktikan keunggulan Islam di atas agama-agama lain. Serangan yang dilancarkan non-Muslim terhadap Islam telah mencapai intensitas yang sangat tinggi. Beliau juga sedang berupaya keras menagkis serangan-serangan terhadap junjungan yang mulia Rasulullah (saw). Beliau banyak bedoa kepada Allah Ta'ala agar diberikan petunjuk dan kekuatan untuk melaksanakan hal itu. 
+Ketika itu, [Hadhrat Masih Mau’ud](/islam/masih-mauud) (as) telah meminta sebuah tanda dari Allah Ta’ala dalam rangka mendukung kebenaran Islam, berupaya membuktikan keunggulan Islam di atas agama-agama lain. Serangan yang dilancarkan non-Muslim terhadap Islam telah mencapai intensitas yang sangat tinggi. Beliau juga sedang berupaya keras menagkis serangan-serangan terhadap junjungan yang mulia Rasulullah (saw). Beliau banyak bedoa kepada Allah Ta'ala agar diberikan petunjuk dan kekuatan untuk melaksanakan hal itu. 
 
-Hadhrat [Hadhrat Masih Mau’ud](/masih-mauud) (as) memohon, berdoa dan bersujud di hadapan Allah Ta’ala seraya berkata, “Wahai Tuhan, aku memohon kepada Engkau agar tunjukanlah suatu tanda Kasih Sayang Engkau, suatu tanda Kedekatan Engkau dan Kekuasaan Engkau; lalu tunjukanlah tanda ini dalam waktu dekat ini sehingga akan dapat dilihat oleh orang-orang yang meminta suatu tanda, sementara mereka sendiri masih hidup untuk dapat memberikan kesaksian.” [[^kh20150220]]
+Hadhrat [Hadhrat Masih Mau’ud](/islam/masih-mauud) (as) memohon, berdoa dan bersujud di hadapan Allah Ta’ala seraya berkata, “Wahai Tuhan, aku memohon kepada Engkau agar tunjukanlah suatu tanda Kasih Sayang Engkau, suatu tanda Kedekatan Engkau dan Kekuasaan Engkau; lalu tunjukanlah tanda ini dalam waktu dekat ini sehingga akan dapat dilihat oleh orang-orang yang meminta suatu tanda, sementara mereka sendiri masih hidup untuk dapat memberikan kesaksian.” [[^kh20150220]]
 
 [^kh20150220]: Sayyidina Amirul Mu’minin, Hadhrat Mirza Masroor Ahmad, Khalifatul Masih al-Khaamis ayyadahullaahu Ta’ala binashrihil ‘aziiz tanggal 20 Februari 2015 di Masjid Baitul Futuh, Morden, London, UK.
 
-[Hadhrat Masih Mau’ud](/masih-mauud) (as) mengambil keputusan untuk mengasingkan diri demi melakukan doa secara khusus ke hadirat Allah Ta'ala di tempat tertentu selama 40 hari.[[^khalwat]] Beliau hendak memohon Tanda khas dari Allah sebagai pendukung, pembela Islam dan pembela Nabi Muhammad (saw). Sebelum melakukan hal itu, beliau menunaikan shalat Istikharah.
+[Hadhrat Masih Mau’ud](/islam/masih-mauud) (as) mengambil keputusan untuk mengasingkan diri demi melakukan doa secara khusus ke hadirat Allah Ta'ala di tempat tertentu selama 40 hari.[[^khalwat]] Beliau hendak memohon Tanda khas dari Allah sebagai pendukung, pembela Islam dan pembela Nabi Muhammad (saw). Sebelum melakukan hal itu, beliau menunaikan shalat Istikharah.
 
 [^khalwat]: Berkhalwat adalah satu kegiatan ruhani dengan cara menyendiri di tempat terpencil selama 40 hari. Dalam kesempatan itu hampir seluruh waktu digunakan untuk berdoa. Hal ini pernah dilakukan Nabi Musa a.s.
 
-[Hadhrat Masih Mau’ud (as)](/masih-mauud) (as) telah diberitahu oleh (Allah) Yang Gaib bahwa tempat tersebut adalah Hoshiarpur. Beliau bersabda,
+[Hadhrat Masih Mau’ud (as)](/islam/masih-mauud) (as) telah diberitahu oleh (Allah) Yang Gaib bahwa tempat tersebut adalah Hoshiarpur. Beliau bersabda,
 
 > "Tuhan Yang Maha Kuasa, Terpujilah nama-Nya, telah memberitahukan kepadaku nama kota tempat aku harus tinggal selama masa menyendiri, itu adalah Hoshiarpur." [[^maktubat_5_3_h10]] [[^tadhkirah_h123]]. 
 
@@ -53,7 +53,7 @@ Wahyu dari Allah Ta'ala, dalam bahasa Urdu adalah sebagai berikut,
 
 [^tadhkirah_h123]: Tadhkirah, Neratja Press: Mei 2014, Cetakan I, hlm. 123
 
-[Hadhrat Masih Mau’ud](/masih-mauud) (as) menulis sepucuk surat kepada Hadhrat Mehr Ali Sahib (ra), sahabat beliau yang tinggal di kota Hoshiarpur itu bahwa beliau akan datang dan tinggal di sana selama dua bulan. 
+[Hadhrat Masih Mau’ud](/islam/masih-mauud) (as) menulis sepucuk surat kepada Hadhrat Mehr Ali Sahib (ra), sahabat beliau yang tinggal di kota Hoshiarpur itu bahwa beliau akan datang dan tinggal di sana selama dua bulan. 
 
 Beliau meminta kepada Hadhrat Mehr Ali Sahib (ra) agar:
 
@@ -73,17 +73,17 @@ Beliau meminta kepada Hadhrat Mehr Ali Sahib (ra) agar:
 
 Kemudian beliau (as) melakukan perjalanan disertai tiga orang pengiring, yaitu Maulvi Abdullah Sanauri Sahib (ra), Hafiz Muhammad Ali Sahib (ra) dan Fatih Muhammad Khan Sahib (ra). 
 
-[Hadhrat Masih Mau’ud](/masih-mauud) (as) sampai ke Hoshiarpur tanggal 22 Januari 1886. Dalam berkhalwat selama 40 hari di rumah tersebut, beliau (as) banyak sekali mendapatkan kabar-kabar gaib dari Allah Ta'ala. 
+[Hadhrat Masih Mau’ud](/islam/masih-mauud) (as) sampai ke Hoshiarpur tanggal 22 Januari 1886. Dalam berkhalwat selama 40 hari di rumah tersebut, beliau (as) banyak sekali mendapatkan kabar-kabar gaib dari Allah Ta'ala. 
 
 Setelah selesai melakukan konsentrasi doa selama 40 hari, maka pada tanggal 20 Februari 1886 dari Hoshiarpur beliau menerbitkan selebaran-selebaran yang kemudian dikirimkan ke berbagai daerah. 
 
-Di tahun 1889, tatkala [Hadhrat Masih Mau’ud](/masih-mauud)(as) menerima perintah dari Allah Ta'ala untuk mengambil bai’at pada tahun itu juga "Putra yang dijanjikan" itu lahir ke dunia. [[^kh20090220]]
+Di tahun 1889, tatkala [Hadhrat Masih Mau’ud](/islam/masih-mauud)(as) menerima perintah dari Allah Ta'ala untuk mengambil bai’at pada tahun itu juga "Putra yang dijanjikan" itu lahir ke dunia. [[^kh20090220]]
 
 [^kh20090220]: [Khotbah Jumat Sayyidina Amirul Mu’minin, Hadhrat Mirza Masroor Ahmad Khalifatul Masih al-Khaamis ayyadahullaahu Ta’ala binashrihil ‘aziiz tanggal 20 Pebruari 2009/Nubuwwah 1387 HS di Masjid Baitul Futuh, Morden, London, UK.](https://ahmadiyah.id/khotbah/nubuatan-tentang-mushlih-mauud)
 
 ### Isi Nubuwwatan tentang Mushlih Mau'ud
 
-Pada tanggal 20 Februari 1886, Tuhan Yang Maha Pengasih, Maha Mulia, Maha Tinggi, Maha Agung, Yang Punya Kuasa untuk melakukan semua Yang Dia Kehendaki (Maha Agung Dia dan Tinggilah Nama-Nya) telah menganugerahkan wahyu kepada [Hadhrat Masih Mau'ud](/masih-mauud) (as):
+Pada tanggal 20 Februari 1886, Tuhan Yang Maha Pengasih, Maha Mulia, Maha Tinggi, Maha Agung, Yang Punya Kuasa untuk melakukan semua Yang Dia Kehendaki (Maha Agung Dia dan Tinggilah Nama-Nya) telah menganugerahkan wahyu kepada [Hadhrat Masih Mau'ud](/islam/masih-mauud) (as):
 
 > (Urdu) Aku berikan kepadamu suatu Tanda Rahmat-Ku, sesuai dengan doamu. Aku sudah dengar permohonanmu dan memuliakan doamu dengan pengabulan-Ku melalui perantaraan rahmat-Ku dan membuat perjalananmu (perjalanan ke Hoshiarpur dan Ludhiana) menjadi sumber rahmat bagimu. Suatu Tanda kekuasaan, rahmat dan kedekatan diberikan kepadamu. Tanda kasih sayang dan keberkatan dianugerahkan kepadamu. Kamu diberi kunci keberhasilan dan kemenangan. Damai untukmu, hai sang Pemenang. Tuhan berfirman supaya mereka yang menginginkan hidup, dilepaskan dari cengkeraman maut dan mereka yang terkubur dapat keluar dari padanya, dan supaya keagungan Islam dan kebesaran Perkataan Tuhan menjadi nyata bagi orang-orang itu dan supaya kebenaran tiba dengan segala karunianya dan supaya kepalsuan enyah dengan segala keburukannya, dan supaya orang mengerti bahwa Aku adalah Tuhan Kekuasaan, Aku lakukan apa yang Aku inginkan, dan supaya mereka percaya bahwa Aku beserta engkau, dan supaya orang yang tidak percaya Tuhan, menyangkal dan menolak agama-Nya, Kitab-Nya dan Nabi Suci-Nya Muhammad Saw - Manusia Pilihan, dapat dihadapkan pada Tanda nyata dan supaya jalan orang-orang bersalah menjadi nyata. Bergembiralah, karena seorang anak laki-laki tampan dan suci [[^ft_198]] akan dianugerahkan laksana tamu kamu. Namanya Immanuel dan juga Bashir. Ia telah dianugerahi dengan suatu ruh suci, dan dia akan bebas dari segala ketidakbersihan. Ia adalah nur Allah. Berberkatlah dia yang datang dari langit. Ia akan disertai oleh kurnia [[^ft_199a]] [[^ft_199b]] yang datang bersamanya [[^ft_200]]. Ia akan mempunyai sifat keagungan, kebesaran dan kemakmuran. Ia akan datang ke dunia dan akan mengobati banyak kerusakan melalui sifat ke-Masih-annya dan melalui berkat Ruh Suci. Ia adalah Kalimat Allah karena rahmat dan kehormatan Allah melengkapinya dengan Kalimat Keagungan. Ia akan sangat cerdas, berkeyakinan dan berhati lembut serta dipenuhi dengan ilmu dunia dan ilmu ruhani. Ia akan membuat tiga menjadi empat. Hari Senin, suatu Senin yang berberkat. (Parsi)
 
@@ -105,7 +105,7 @@ Di dalam nubuwwatan diatas terdapat 52 poin nubuwwatan. Dan dalam waktu sembilan
 
 ### Proses Nubuwwatan
 
-Setelah [Hadhrat Masih Mau’ud](/masih-mauud) (as) menyiarkan selebaran kabar gaib (nubuatan) itu lahirlah seorang puteri di tengah-tengah keluarga beliau (as) yang diberi nama Ismat. Timbullah kritikan dan tuduhan yang sangat ramai mengatakan bahwa nubuatan beliau itu salah dan bohong karena yang lahir adalah seorang putri; bukan seorang putra.
+Setelah [Hadhrat Masih Mau’ud](/islam/masih-mauud) (as) menyiarkan selebaran kabar gaib (nubuatan) itu lahirlah seorang puteri di tengah-tengah keluarga beliau (as) yang diberi nama Ismat. Timbullah kritikan dan tuduhan yang sangat ramai mengatakan bahwa nubuatan beliau itu salah dan bohong karena yang lahir adalah seorang putri; bukan seorang putra.
 
 Setelah beberapa lama, lahirlah seorang putera yang diberi nama Bashir, yang kemudian disebut Basyir awal. Kemudian putera ini meninggal dalam keadaan masih kanak-kanak. Timbullah ejekan dengan suara riuh dimana-mana.
 
@@ -113,7 +113,7 @@ Tanggal 12 Januari 1989 tiga tahun setelah nubuatan itu disebarkan putera yang d
 
 ### Pemenuhan Nubuwwatan
 
-Nubuwwatan mengenai Mushlih Mau'ud ini ternyata sempurna dalam diri Hadhrat Mirza Basyiruddin Mahmud Ahmad (ra), [Khalifatul Masih](/khalifatul-masih) ke-II (ra). Beliau lahir 12-Jan-1889. Beliau diamanahi menjadi khalifah pada tanggal 14-Mar-1914 ketika berumur 25 tahun. [[^buku_khabargaib_7]] 
+Nubuwwatan mengenai Mushlih Mau'ud ini ternyata sempurna dalam diri Hadhrat Mirza Basyiruddin Mahmud Ahmad (ra), [Khalifatul Masih](/islam/khalifatul-masih) ke-II (ra). Beliau lahir 12-Jan-1889. Beliau diamanahi menjadi khalifah pada tanggal 14-Mar-1914 ketika berumur 25 tahun. [[^buku_khabargaib_7]] 
 
 [^buku_khabargaib_7]: Khabar Gaib Mushlih Mau'ud dalam Zaman Sekarang Ini, Malik Aziz Ahmad Khan, Jemaat Ahmadiyah Indonesia Jemaat Bandung: 15-11-2000, Cetakan ke-III, hlm. 7
 
@@ -121,7 +121,7 @@ Nubuwwatan mengenai Mushlih Mau'ud ini ternyata sempurna dalam diri Hadhrat Mirz
 
 Beberapa tanda yang sempurna dalam diri beliau:
 
-- Beliau (ra) keturunan langsung dari [Hadhrat Masih Mau'ud](/masih-mauud) a.s. [[^buku_khabargaib_12]]
+- Beliau (ra) keturunan langsung dari [Hadhrat Masih Mau'ud](/islam/masih-mauud) a.s. [[^buku_khabargaib_12]]
 
 - Lahir sesudah Basyir awal dengan tidak berselang lagi [[^buku_khabargaib_12]]
 
@@ -169,7 +169,7 @@ Walaupun Hadhrat Masih Mau'ud (as), Hadhrat Hakim Nuruddin dan Hadhrat Mirza Bas
 
 Hadhrat Mirza Basyiruddin Mahmud Ahmad (ra) di tahun 1944 menyampaikan dengan sumpah atas nama Allah Ta'ala bahwa beliau adalah **Mushlih Mau'ud**. Hal ini disampaikan kepada para anggota rapat-rapat di Kota Hosyiarpur, Lahore dan Delhi. [[^buku_khabargaib_49]]
 
-Di dalam Khotbah Hadhrat [Khalifatul Masih](/khalifatul-masih) ke-II (ra) tanggal 4-Peb-1944 disampaikan bahwa beliau mendapatkan kabar gaib dari Allah Ta'ala bahwa beliau adalah **Mushlih Mau'ud**, putra yang dijanjikan itu. [[^buku_khabargaib_7]] [[^alfazl_19440216]] 
+Di dalam Khotbah Hadhrat [Khalifatul Masih](/islam/khalifatul-masih) ke-II (ra) tanggal 4-Peb-1944 disampaikan bahwa beliau mendapatkan kabar gaib dari Allah Ta'ala bahwa beliau adalah **Mushlih Mau'ud**, putra yang dijanjikan itu. [[^buku_khabargaib_7]] [[^alfazl_19440216]] 
 
 Khotbah tersebut diterbitkan secara luas melalui surat kabar [Al-Fazl](https://www.alfazl.com/). Hadhrat Mirza Basyiruddin Mahmud Ahmad (ra) menyampaikan,
 

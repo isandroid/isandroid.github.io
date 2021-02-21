@@ -5,9 +5,9 @@ layout: default
 
 ## {{page.title}}
 
-Bai'at secara bahasa artinya menjual. Secara istilah, kita "menjual" jiwa kita kepada seorang Imam yang diberi wewenang oleh Allah Ta'ala untuk menerima Bai'at. Bai'at juga berarti janji setia kepada sang Imam atau [Khalifah](/khalifah).
+Bai'at secara bahasa artinya menjual. Secara istilah, kita "menjual" jiwa kita kepada seorang Imam yang diberi wewenang oleh Allah Ta'ala untuk menerima Bai'at. Bai'at juga berarti janji setia kepada sang Imam atau [Khalifah](/islam/khalifah).
 
-Jika seseorang berkeingian untuk bai'at atau bergabung dengan Jamaah yang dipimpin oleh seorang [Khalifah](/khalifah), maka hendaknya kita.
+Jika seseorang berkeingian untuk bai'at atau bergabung dengan Jamaah yang dipimpin oleh seorang [Khalifah](/islam//khalifah), maka hendaknya kita.
 
 ### Perintah Rasulullah saw untuk Berbaiat dan Taat kepada Khalifah
 
@@ -27,7 +27,7 @@ Baiat Setelah kewafatan Rasulullah saw
 
 ### Bai'at dalam Jemaat Ahmadiyah
 
-[Jemaat Ahmadiyah](https://ahmadiyah.id) dengan karunia Allah Ta'ala telah mempunyai [Khalifah](/khalifah) sebagai pemimpin atau Imam secara ruhani.
+[Jemaat Ahmadiyah](https://ahmadiyah.id) dengan karunia Allah Ta'ala telah mempunyai [Khalifah](/islam/khalifah) sebagai pemimpin atau Imam secara ruhani.
 
 Janji Baiat yang hendaknya dipenuhi untuk bergabung dalam Jamaah Muslim Ahmadiyah adalah:
 

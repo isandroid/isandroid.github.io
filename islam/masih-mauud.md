@@ -15,7 +15,7 @@ Al-Mau'ud berasal dari akar kata _wa-'a-da_ yang artinya berjanji. Mau'ud berart
 
 [^fn_kamus_wa_ada]: [Kamus Almaany dari kata _wa-'a-da_](https://www.almaany.com/id/dict/ar-id/%D9%88%D8%B9%D8%AF/)
 
-Al-Masih Al-Mau'ud berarti Al-Masih yang dijanjikan kedatangannya oleh Allah Ta'ala dan Rasulullah (saw). Kata [Al-masih](/al-masih) khusus ditujukan kepada Nabi Isa (as), yang turun diantara umat Nabi Muhammad (saw) yang akan menjadi Imam atau [khalifatullah](/khalifatullah) untuk umat Islam. [[^hds-d0f6e924-698f-471c-99ba-0baba6a5a1c2]]
+Al-Masih Al-Mau'ud berarti Al-Masih yang dijanjikan kedatangannya oleh Allah Ta'ala dan Rasulullah (saw). Kata [Al-masih](/islam/al-masih) khusus ditujukan kepada Nabi Isa (as), yang turun diantara umat Nabi Muhammad (saw) yang akan menjadi Imam atau [khalifatullah](/islam/khalifatullah) untuk umat Islam. [[^hds-d0f6e924-698f-471c-99ba-0baba6a5a1c2]]
 
 [^hds-d0f6e924-698f-471c-99ba-0baba6a5a1c2]: [H.R. Al-Bukhari, Kitab Hadits-hadits yang meriwayatkan tentang para Nabi, Bab Turunnya Isa putera Maryam](/ref/hds-d0f6e924-698f-471c-99ba-0baba6a5a1c2)
 

@@ -5,15 +5,15 @@ layout: default
 
 ## {{page.title}}
 
-**Khalifatul Masih** berasal dari dua kata, yaitu [Khalifah](/khalifah) dan [Al-Masih](/al-masih). Jadi **Khalifatul Masih** berarti khalifah atau pemimpin yang menggantikan [Al-Masih](/masih-mauud) yang ke-dua, yaitu Nabi Isa (as) yang kedatangannya dijanjikan oleh Rasulullah (saw).
+**Khalifatul Masih** berasal dari dua kata, yaitu [Khalifah](/islam/khalifah) dan [Al-Masih](/islam/al-masih). Jadi **Khalifatul Masih** berarti khalifah atau pemimpin yang menggantikan [Al-Masih](/islam/masih-mauud) yang ke-dua, yaitu Nabi Isa (as) yang kedatangannya dijanjikan oleh Rasulullah (saw).
 
 ### Para Khalifatul-Masih
 
-Para khalifah setelah wafatnya [Al-Masih Al-Mau'ud](/masih-mauud) yaitu:
+Para khalifah setelah wafatnya [Al-Masih Al-Mau'ud](/islam/masih-mauud) yaitu:
 
 1. [Hadhrat Al-Hajj Hakim Nuruddin ra](https://ahmadiyah.id/khilafat/hazrat-hakim-nuruddin)
 
-2. [Hadhrat Al-Hajj Mirza Basyiruddin Mahmud Ahmad ra](https://ahmadiyah.id/khilafat/mirza-basyiruddin-mahmud-ahmad). Beliau mempunyai gelar [Mushlih Mau'ud](/mushlih-mauud).
+2. [Hadhrat Al-Hajj Mirza Basyiruddin Mahmud Ahmad ra](https://ahmadiyah.id/khilafat/mirza-basyiruddin-mahmud-ahmad). Beliau mempunyai gelar [Mushlih Mau'ud](/islam/mushlih-mauud).
 
 3. [Hadhrat Al-Hafiiz Mirza Nasir Ahmad ra](https://ahmadiyah.id/khilafat/hazrat-mirza-nasir-ahmad)
 
@@ -25,7 +25,7 @@ Para khalifah setelah wafatnya [Al-Masih Al-Mau'ud](/masih-mauud) yaitu:
 
 #### Kemajuan Jemaat
 
-[Hadhrat Masih Mau'ud (as)](/masih-mauud) menyampaikan secara tersirat tentang terpenuhinya kemajuan jemaat di zaman Hadhrat Masih Mau'ud (as) dan sebagian lagi di masa **Khalifah Ahmadiyah**,
+[Hadhrat Masih Mau'ud (as)](/islam/masih-mauud) menyampaikan secara tersirat tentang terpenuhinya kemajuan jemaat di zaman Hadhrat Masih Mau'ud (as) dan sebagian lagi di masa **Khalifah Ahmadiyah**,
 
 > Tuhan berfirman kepadaku, bahwa banyak musibah akan terjadi dan banyak bala-bencana akan turun ke bumi ini. Sebagian akan terjadi di masa hidupku dan sebagian lagi sepeninggalku. Dia akan memberi kemajuan kepada _Jemaat_ ini, sebagian akan terjadi di tanganku dan sebagian lagi kemudian sesudah aku tiada. [[^fn-alwasiyat-2018-h5]]
 
@@ -34,7 +34,7 @@ Para khalifah setelah wafatnya [Al-Masih Al-Mau'ud](/masih-mauud) yaitu:
 
 #### Khalifah Ahmadiyah atau kekhalifahan Al-Masih akan Berlangsung Hingga Hari Kiamat
 
-[Hadhrat Masih Mau'ud (as)](/masih-mauud) bersabda,
+[Hadhrat Masih Mau'ud (as)](/islam/masih-mauud) bersabda,
 
 > Maka janganlah kamu bersedih hati karena uraianku yang aku terangkan di hadapanmu ini. Jangan hendaknya hatimu jadi kusut, karena bagimu perlu pula melihat Kudrat yang Kedua. Kedatangannya kepadamu membawa kebaikan bagimu, karena ia selamanya akan tinggal bersama kamu, dan **sampai hari kiamat silsilahnya tidak akan berakhir.** Kudrat yang Kedua itu tidak dapat datang sebelum aku pergi; akan tetapi bila aku pergi, maka Tuhan akan mengirimkan Kudrat yang Kedua itu kepadamu, yang akan tinggal bersama kamu selama-lamanya; sebagaimana janji Allah Ta’ala dalam “Barāhīn-e-Ahmadiyah”. Dan janji itu bukan untuk aku, melainkan untuk kamu, seperti firman Allah Ta’ala:
 

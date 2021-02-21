@@ -41,7 +41,7 @@ Ada dua Nubuwatan yang tercatat tentang Khalifah setelah Rasulullah saw:
 
 [^ft-hds-1f135258-4142-4c48-935d-ae9e63abddd2]: [H.R. Muslim, Kitab Kepemimpinan, Bab Manusia akan mengikuti orang-orang quraisy dan khilafah untuk orang quraisy](/ref/hds-1f135258-4142-4c48-935d-ae9e63abddd2)
 
-- Rasulullah saw menubuwatkan bahwa [kekhalifahan](/khilafat) setelah beliau hanya berlangsung selama 30 tahun. [[^ft-hds-c034adf3-3702-467d-9be0-f4871abddd5c]] Dan nubuwwatan ini yang terbukti sempurna bahwa Kekhalifahan Rasyidah ini berlangsung sekira dari tahun 632 M hingga 661 M.
+- Rasulullah saw menubuwatkan bahwa [kekhalifahan](/islam/khilafat) setelah beliau hanya berlangsung selama 30 tahun. [[^ft-hds-c034adf3-3702-467d-9be0-f4871abddd5c]] Dan nubuwwatan ini yang terbukti sempurna bahwa Kekhalifahan Rasyidah ini berlangsung sekira dari tahun 632 M hingga 661 M.
 
 [^ft-hds-c034adf3-3702-467d-9be0-f4871abddd5c]: [H.R. At-Tirmidzi, Kitab Fitnah, Bab Kekhilafahan](/ref/hds-c034adf3-3702-467d-9be0-f4871abddd5c)
 
