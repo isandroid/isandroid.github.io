@@ -1,6 +1,7 @@
 ---
 title: Bai'at
 layout: default
+Tags: baiat
 ---
 
 ## {{page.title}}
