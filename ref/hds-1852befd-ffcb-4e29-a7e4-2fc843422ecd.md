@@ -2,9 +2,6 @@
 title: Hadits - Imam Mahdi akan Menguasai Arab
 layout: default
 ---
-
-[Beranda](/) > [Referensi](/ref) > [{{page.title}}]({{page.url}})
-
 ## {{page.title}}
 
 Diriwayatkan,

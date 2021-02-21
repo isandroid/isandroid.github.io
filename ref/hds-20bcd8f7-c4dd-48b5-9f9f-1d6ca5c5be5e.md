@@ -2,9 +2,6 @@
 title: Hadits - Tidak Boleh Ada Dua Khalifah dalam Satu Masa
 layout: default
 ---
-
-[Beranda](/) > [Referensi](/ref) > [{{page.title}}]({{page.url}})
-
 ## {{page.title}}
 
 Diriwayatkan, 

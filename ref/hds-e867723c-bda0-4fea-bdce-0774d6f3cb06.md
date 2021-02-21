@@ -2,9 +2,6 @@
 title: Hadits - Masa Kekhalifahan dan Kerajaan
 layout: default
 ---
-
-[Beranda](/) > [Referensi](/ref) > [{{page.title}}]({{page.url}})
-
 ## {{page.title}}
 
 Rasulullah saw bersabda,

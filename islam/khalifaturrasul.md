@@ -2,7 +2,6 @@
 title: khalifaturrasul
 layout: default
 ---
-[Beranda](/) > [{{page.title}}]({{page.url}})
 
 ## {{page.title}}
 

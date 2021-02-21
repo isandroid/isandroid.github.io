@@ -2,9 +2,6 @@
 title: Hadits - Imam Mahdi dari Keturunan Ahlul-Bait
 layout: default
 ---
-
-[Beranda](/) > [Referensi](/ref) > [{{page.title}}]({{page.url}})
-
 ## {{page.title}}
 
 Diriwayatkan, 

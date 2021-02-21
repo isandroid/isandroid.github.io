@@ -2,9 +2,6 @@
 title: Atsar - Khalifah Umar Menentukan Zakat Madu
 layout: default
 ---
-
-[Beranda](/) > [Referensi](/ref) > [{{page.title}}]({{page.url}})
-
 ## {{page.title}}
 
 Diriwayatkan,

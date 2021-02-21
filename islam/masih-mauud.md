@@ -2,7 +2,6 @@
 title: Al-Masih Al-Mau'ud
 layout: default
 ---
-[Beranda](/) > [{{page.title}}]({{page.url}})
 
 ## {{page.title}}
 

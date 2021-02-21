@@ -2,7 +2,6 @@
 title: Khalifah Bani Israil
 layout: default
 ---
-[Beranda](/) > [{{page.title}}]({{page.url}})
 
 ## {{page.title}}
 

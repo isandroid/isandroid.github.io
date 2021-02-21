@@ -2,7 +2,6 @@
 title: Khalifah Kerajaan
 layout: default
 ---
-[Beranda](/) > [{{page.title}}]({{page.url}})
 
 ## {{page.title}}
 

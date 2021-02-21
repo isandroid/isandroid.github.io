@@ -2,7 +2,6 @@
 title: Hari Khilafat
 layout: default
 ---
-[Beranda](/) > [{{page.title}}]({{page.url}})
 
 ## {{page.title}}
 

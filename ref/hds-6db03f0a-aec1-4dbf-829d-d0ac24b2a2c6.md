@@ -2,9 +2,6 @@
 title: Hadits - Meneruskan Tugas Rasulullah saw
 layout: default
 ---
-
-[Beranda](/) > [Referensi](/ref) > [{{page.title}}]({{page.url}})
-
 ## {{page.title}}
 
 Diriwayatkan, 

@@ -3,8 +3,6 @@ title: Referensi Internal
 layout: default
 ---
 
-[Beranda](/) > [Referensi](/ref)
-
 # {{ page.title }}
 
 {% assign pages = site.pages | sort: 'title' %}

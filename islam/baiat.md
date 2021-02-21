@@ -2,7 +2,6 @@
 title: Bai'at
 layout: default
 ---
-[Beranda](/) > [{{page.title}}]({{page.url}})
 
 ## {{page.title}}
 

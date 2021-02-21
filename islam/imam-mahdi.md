@@ -2,7 +2,6 @@
 title: Imam Mahdi
 layout: default
 ---
-[Beranda](/) > [{{page.title}}]({{page.url}})
 
 ## {{page.title}}
 

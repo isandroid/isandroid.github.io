@@ -2,9 +2,6 @@
 title: Hadits - Mujaddid Tiap 100 Tahun
 layout: default
 ---
-
-[Beranda](/) > [Referensi](/ref) > [{{page.title}}]({{page.url}})
-
 ## {{page.title}}
 
 Diriwayatkan, 
