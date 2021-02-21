@@ -1,0 +1,16 @@
+---
+title: Hadits - Imam Mahdi dari Keturunan Ahlul-Bait
+layout: default
+---
+
+[Beranda](/) > [Referensi](/ref) > [{{page.title}}]({{page.url}})
+
+## {{page.title}}
+
+Diriwayatkan, 
+
+<p class="arab">عَنْ عَلِيٍّ قَالَ قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ الْمَهْدِيُّ مِنَّا أَهْلَ الْبَيْتِ يُصْلِحُهُ اللَّهُ فِي لَيْلَةٍ</p>
+
+> ...dari Ali dia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Al Mahdi dari (keturunan) kami, yaitu ahli bait yang Allah memperbaiki (keadaannya) dalam semalam." 
+
+> [H.R. Ibnu Majah, Kitab Fitnah, Bab Keluarnya Al-Mahdi](https://www.hadits.id/hadits/majah/4075)
