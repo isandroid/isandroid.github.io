@@ -1,5 +1,6 @@
-title: Slate theme
-description: Slate is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+title: Pustaka Isa
+description: Pustaka Pribadi Isa Mujahid Islam
+show_downloads: false
+google_analytics: 
 theme: jekyll-theme-slate
+lang: id_ID
