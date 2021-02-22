@@ -110,4 +110,14 @@ Semoga allah memberkahimu dan senantiasa memberkahimu dan mengumpulkan kalian be
 
 [^hds-03c2bae2-44cf-42ad-b656-96924c4c053e]: [H.R. Abu Dawud, Kitab Nikah, Apa yang diucapkan untuk orang yang menikah](/ref/hds-03c2bae2-44cf-42ad-b656-96924c4c053e.html)
 
+#### Menikah adalah Sunnah Rasulullah saw
+
+Rasulullah saw bersabda,
+
+<p class="arab">النِّكَاحُ مِنْ سُنَّتِي فَمَنْ لَمْ يَعْمَلْ بِسُنَّتِي فَلَيْسَ مِنِّي</p>
+
+Menikah adalah sunnahku, barangsiapa tidak mengamalkan sunnahku berarti bukan dari golonganku. (H.R. Ibnu Majah) [[^hds-2299a72a-0db2-4979-b0f3-a831bd53dd13]]
+
+[^hds-2299a72a-0db2-4979-b0f3-a831bd53dd13]: [H.R. Ibnu Majah, Kitab Nikah, Bab Keutamaan menikah](/ref/hds-2299a72a-0db2-4979-b0f3-a831bd53dd13.md)
+
 ### Catatan Kaki
