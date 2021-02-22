@@ -38,14 +38,14 @@
     <div id="main_content_wrap" class="outer">
       <section id="main_content" class="inner">
         {% include breadcrumbs.html %}
-        {{ content }}
+        {{ content | replace: '<a href="http', '<a rel="nofollow noopener noreferrer" target="_blank" href="http' }}
       </section>
     </div>
 
     <!-- FOOTER  -->
     <div id="footer_wrap" class="outer">
       <footer class="inner">
-        <p>Dipublikasi oleh <a href="https://pages.github.com">GitHub</a></p>
+        <p>Dipublikasi oleh <a href="https://pages.github.com" rel="nofollow noopener noreferrer" target="_blank">GitHub</a></p>
       </footer>
     </div>
   </body>
