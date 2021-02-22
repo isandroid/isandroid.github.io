@@ -654,9 +654,7 @@ Hadhrat Masih Mau'ud a.s. bersabda,
 > 
 > Seorang yang tidak punya dosa tetap saja perlu berdoa kepada Allah Swt agar mendapat kekuatan mengingat fitrat manusia sendiri tidak ada memiliki keunggulan tersebut dan selalu bergantung kepada-Nya, tidak mempunyai kekuatan sendiri karena bergantung pada bantuan kekuatan dari Tuhan serta tidak ada padanya nur sendiri yang sempurna melainkan apa yang dikaruniakan Allah kepadanya.
 > 
-> Fitrat yang sempurna dibekali dengan daya tarik yang mampu menarik kekuatan dari atas kepada dirinya yang berasal dari khazanah kekuatan yang ada pada Tuhan. Para malaikat memperoleh kekuatan dari khazanah tersebut sebagaimana juga para manusia sempurna yang mendapatkan kekuatan agar bebas dosa serta mendapatkan rahmat dari sumber tadi melalui saluran penghambaan kepada Ilahi. Karena itu dari antara manusia, ia dianggap suci dari dosa secara sempurna bila mampu menarik ke dalam dirinya kekuatan Ilahi melalui _istighfar_ serta terus menyibukkan dirinya dengan berdoa memohon agar nur tetap turun kepadanya. [[^butuh_referensi]]
-
-[^butuh_referensi]: referensi?
+> Fitrat yang sempurna dibekali dengan daya tarik yang mampu menarik kekuatan dari atas kepada dirinya yang berasal dari khazanah kekuatan yang ada pada Tuhan. Para malaikat memperoleh kekuatan dari khazanah tersebut sebagaimana juga para manusia sempurna yang mendapatkan kekuatan agar bebas dosa serta mendapatkan rahmat dari sumber tadi melalui saluran penghambaan kepada Ilahi. Karena itu dari antara manusia, ia dianggap suci dari dosa secara sempurna bila mampu menarik ke dalam dirinya kekuatan Ilahi melalui _istighfar_ serta terus menyibukkan dirinya dengan berdoa memohon agar nur tetap turun kepadanya. [[^iai223-230]]
 
 Hadhrat Masih Mau'ud a.s. bersabda,
 
