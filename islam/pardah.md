@@ -1,0 +1,459 @@
+---
+title: Pardah
+layout: default
+---
+
+# {{page.title}}
+
+## Dasar Dalil Pardah
+
+Allah Ta'ala berfirman,
+
+## QS An-Nur [24]: 31
+
+<p class="quran">قُلۡ لِّلۡمُؤۡمِنِیۡنَ یَغُضُّوۡا مِنۡ اَبۡصَارِہِمۡ وَ یَحۡفَظُوۡا فُرُوۡجَہُمۡ ؕ ذٰلِکَ اَزۡکٰی لَہُمۡ ؕ اِنَّ اللّٰہَ خَبِیۡرٌۢ بِمَا یَصۡنَعُوۡنَ ﴿۳۱﴾</p>
+
+> "Katakanlah kepada orang-orang mukmin laki-laki, hendaklah mereka merundukkan pandangannya dan menjaga kemaluan mereka. Yang demikian itu lebih suci bagi mereka. Sesungguhnya, Allah mengetahui apa yang mereka perbuat."
+
+### QS An-Nur [24]: 32
+
+<p class="quran">وَ قُلۡ لِّلۡمُؤۡمِنٰتِ یَغۡضُضۡنَ مِنۡ اَبۡصَارِہِنَّ وَ یَحۡفَظۡنَ فُرُوۡجَہُنَّ وَ لَا یُبۡدِیۡنَ زِیۡنَتَہُنَّ اِلَّا مَا ظَہَرَ مِنۡہَا وَ لۡیَضۡرِبۡنَ بِخُمُرِہِنَّ عَلٰی جُیُوۡبِہِنَّ ۪ وَ لَا یُبۡدِیۡنَ زِیۡنَتَہُنَّ اِلَّا لِبُعُوۡلَتِہِنَّ اَوۡ اٰبَآئِہِنَّ اَوۡ اٰبَآءِ بُعُوۡلَتِہِنَّ اَوۡ اَبۡنَآئِہِنَّ اَوۡ اَبۡنَآءِ بُعُوۡلَتِہِنَّ اَوۡ اِخۡوَانِہِنَّ اَوۡ بَنِیۡۤ اِخۡوَانِہِنَّ اَوۡ بَنِیۡۤ اَخَوٰتِہِنَّ اَوۡ نِسَآئِہِنَّ اَوۡ مَا مَلَکَتۡ اَیۡمَانُہُنَّ اَوِ التّٰبِعِیۡنَ غَیۡرِ اُولِی الۡاِرۡبَۃِ مِنَ الرِّجَالِ اَوِ الطِّفۡلِ الَّذِیۡنَ لَمۡ یَظۡہَرُوۡا عَلٰی عَوۡرٰتِ النِّسَآءِ ۪ وَ لَا یَضۡرِبۡنَ بِاَرۡجُلِہِنَّ لِیُعۡلَمَ مَا یُخۡفِیۡنَ مِنۡ زِیۡنَتِہِنَّ ؕ وَ تُوۡبُوۡۤا اِلَی اللّٰہِ جَمِیۡعًا اَیُّہَ الۡمُؤۡمِنُوۡنَ لَعَلَّکُمۡ تُفۡلِحُوۡنَ ﴿۳۲﴾</p>
+
+> "Dan katakanlah kepada orang-orang mukmin perempuan, _hendaknya_ mereka pun merundukkan pandangan mereka dan menjaga kemaluannya, dan janganlah mereka menampakkan kecantikannya, kecuali apa yang dengan sendirinya nampak dari-nya, dan _hendaknya_ mereka mengenakan kudungan (khimar) hingga menutupi dadanya, dan janganlah mereka menampakkan kecantikannya, kecuali kepada suami mereka, atau kepada bapaknya, mertuanya, anak lelakinya, atau anak lelaki suaminya, saudara laki-lakinya, keponakan dari saudara lelakinya, atau keponakan saudara perempuannya, atau _teman-temannya yang perempuan_, apa yang dimiliki oleh tangan kanannya, pelayan-pelayan lelaki yang tidak mempunyai keinginan terhadap perempuan, atau anak-anak yang belum mengetahui tentang aurataurat perempuan. Dan janganlah mereka itu menghentakkan kaki mereka, sehingga dapat diketahui apa yang mereka sembunyikan dari perhiasan mereka. Dan bertobatlah kamu sekalian kepada Allah, hai orang-orang yang beriman! Supaya kamu memperoleh kejayaan."
+
+### QS Al-Ahzab [33]: 33
+
+<p class="quran">یٰنِسَآءَ النَّبِیِّ لَسۡتُنَّ کَاَحَدٍ مِّنَ النِّسَآءِ اِنِ اتَّقَیۡتُنَّ فَلَا تَخۡضَعۡنَ بِالۡقَوۡلِ فَیَطۡمَعَ الَّذِیۡ فِیۡ قَلۡبِہٖ مَرَضٌ وَّ قُلۡنَ قَوۡلًا مَّعۡرُوۡفًا ﴿ۚ۳۳﴾</p>
+
+> "Wahai istri-istri Nabi! Kamu tidak seperti salah seorang dari wanita _lain_ jika kamu bertakwa. Maka janganlah kamu lembut dalam bertutur kata sehingga orang yang dalam hatinya ada penyakit berkeinginan buruk (merasa tergoda), dan ucapkanlah perkataan yang baik."
+
+### QS Al-Ahzab [33]: 34
+
+<p class="quran">وَ قَرۡنَ فِیۡ بُیُوۡتِکُنَّ وَ لَا تَبَرَّجۡنَ تَبَرُّجَ الۡجَاہِلِیَّۃِ الۡاُوۡلٰی وَ اَقِمۡنَ الصَّلٰوۃَ وَ اٰتِیۡنَ الزَّکٰوۃَ وَ اَطِعۡنَ اللّٰہَ وَ رَسُوۡلَہٗ ؕ اِنَّمَا یُرِیۡدُ اللّٰہُ لِیُذۡہِبَ عَنۡکُمُ الرِّجۡسَ اَہۡلَ الۡبَیۡتِ وَ یُطَہِّرَکُمۡ تَطۡہِیۡرًا ﴿ۚ۳۴﴾</p>
+
+> "Dan tinggallah di rumah-rumahmu _dengan terhormat_, dan janganlah memamerkan kecantikan seperti _cara_ pamer jahiliyah dahulu, dan a dirikanlah shalat dan bayarlah zakat, dan taatilah Allah beserta Rasul-Nya. Sesungguhnya Allah menghendaki supaya Dia menghilangkan segala kekotoran dari dirimu, hai ahlul-bait, dan Dia menyucikanmu sesuci-sucinya."
+
+QS.33: 33-34 membicarakan semacam “pardah” terbatas, yang secara khusus diwajibkan untuk para istri Rasulullah Saw dan yang dengan sendirinya berlaku untuk semua kaum wanita Muslim, dan kesimpulannya mengisyaratkan kepada kenyataan, bahwa pusat terutama bagi kegiatan wanita adalah rumah tangganya.
+
+### QS An-Nur [24]: 59
+
+<p class="quran">یٰۤاَیُّہَا الَّذِیۡنَ اٰمَنُوۡا لِیَسۡتَاۡذِنۡکُمُ الَّذِیۡنَ مَلَکَتۡ اَیۡمَانُکُمۡ وَ الَّذِیۡنَ لَمۡ یَبۡلُغُوا الۡحُلُمَ مِنۡکُمۡ ثَلٰثَ مَرّٰتٍ ؕ مِنۡ قَبۡلِ صَلٰوۃِ الۡفَجۡرِ وَ حِیۡنَ تَضَعُوۡنَ ثِیَابَکُمۡ مِّنَ الظَّہِیۡرَۃِ وَ مِنۡۢ بَعۡدِ صَلٰوۃِ الۡعِشَآءِ ۟ؕ ثَلٰثُ عَوۡرٰتٍ لَّکُمۡ ؕ لَیۡسَ عَلَیۡکُمۡ وَ لَا عَلَیۡہِمۡ جُنَاحٌۢ بَعۡدَہُنَّ ؕ طَوّٰفُوۡنَ عَلَیۡکُمۡ بَعۡضُکُمۡ عَلٰی بَعۡضٍ ؕ کَذٰلِکَ یُبَیِّنُ اللّٰہُ لَکُمُ الۡاٰیٰتِ ؕ وَ اللّٰہُ عَلِیۡمٌ حَکِیۡمٌ ﴿۵۹﴾</p>
+
+> "Hai orang-orang yang beriman, hendaklah orang-orang yang dimiliki tangan kananmu, dan mereka yang belum baligh di antara kamu meminta izin kepadamu dalam tiga waktu _sebelum mereka masuk ke kamar pribadimu_. Sebelum shalat Subuh, dan apabila kamu membuka pakaianmu waktu tengah hari, dan sesudah shalat Isya. _Inilah tiga waktu_ aurat bagimu. Selain _waktu-waktu_ itu tidak ada dosa bagimu dan tidak pula bagi mereka, karena beberapa di antara kamu harus melayani yang lainnya dan keluar masuk _dengan bebas menurut keperluannya_. Demikianlah Allah menjelaskan bagimu perintah-perintah itu; karena Allah Maha Mengetahui, Mahabijaksana."
+
+
+### QS An-Nur [24]: 60
+
+<p class="quran">وَ اِذَا بَلَغَ الۡاَطۡفَالُ مِنۡکُمُ الۡحُلُمَ فَلۡیَسۡتَاۡذِنُوۡا کَمَا اسۡتَاۡذَنَ الَّذِیۡنَ مِنۡ قَبۡلِہِمۡ ؕ کَذٰلِکَ یُبَیِّنُ اللّٰہُ لَکُمۡ اٰیٰتِہٖ ؕ وَ اللّٰہُ عَلِیۡمٌ حَکِیۡمٌ ﴿۶۰﴾</p>
+
+> "Dan apabila anak-anak dari antara kamu telah mencapai kedewasaan, maka hendaklah mereka _juga_ meminta izin, sebagaimana orang-orang sebelum mereka meminta izin. Demikianlah Allah menerangkan bagimu perintah-perintah-Nya; dan Allah Maha Mengetahui, Mahabijaksana."
+
+### QS Al-Ahzab [33]: 54
+
+<p class="quran">یٰۤاَیُّہَا الَّذِیۡنَ اٰمَنُوۡا لَا تَدۡخُلُوۡا بُیُوۡتَ النَّبِیِّ اِلَّاۤ اَنۡ یُّؤۡذَنَ لَکُمۡ اِلٰی طَعَامٍ غَیۡرَ نٰظِرِیۡنَ اِنٰٮہُ ۙ وَ لٰکِنۡ اِذَا دُعِیۡتُمۡ فَادۡخُلُوۡا فَاِذَا طَعِمۡتُمۡ فَانۡتَشِرُوۡا وَ لَا مُسۡتَاۡنِسِیۡنَ لِحَدِیۡثٍ ؕ اِنَّ ذٰلِکُمۡ کَانَ یُؤۡذِی النَّبِیَّ فَیَسۡتَحۡیٖ مِنۡکُمۡ ۫ وَ اللّٰہُ لَا یَسۡتَحۡیٖ مِنَ الۡحَقِّ ؕ وَ اِذَا سَاَلۡتُمُوۡہُنَّ مَتَاعًا فَسۡـَٔلُوۡہُنَّ مِنۡ وَّرَآءِ حِجَابٍ ؕ ذٰلِکُمۡ اَطۡہَرُ لِقُلُوۡبِکُمۡ وَ قُلُوۡبِہِنَّ ؕ وَ مَا کَانَ لَکُمۡ اَنۡ تُؤۡذُوۡا رَسُوۡلَ اللّٰہِ وَ لَاۤ اَنۡ تَنۡکِحُوۡۤا اَزۡوَاجَہٗ مِنۡۢ بَعۡدِہٖۤ اَبَدًا ؕ اِنَّ ذٰلِکُمۡ کَانَ عِنۡدَ اللّٰہِ عَظِیۡمًا ﴿۵۴﴾</p>
+
+> Wahai orang-orang yang beriman! Janganlah memasuki rumah-rumah Nabi, kecuali jika diizinkan kepadamu untuk makan, tanpa menunggu makanannya matang, tetapi apabila kamu dipanggil maka masuklah, lalu apabila kamu telah selesai makan maka pergilah dan jangan kamu terus duduk mengobrol. Sesungguhnya itu akan menyusahkan Nabi dan ia merasa malu untuk meminta kamu pergi kepada kamu, tetapi Allah tidak merasa malu untuk menyatakan yang benar. Dan apabila kamu meminta sesuatu dari mereka, yakni istriistri Nabi, maka mintalah kepada mereka dari _'belakang tirai_'. Hal itu lebih suci bagi hati kamu dan juga bagi hati mereka. Dan tidaklah pantas bagimu untuk menyusahkan Rasulullah, dan janganlah kamu menikahi istriistrinya sepeninggalnya untuk selama-lamanya. Sesungguhnya hal itu suatu keburukan yang sangat besar di sisi Allah.
+
+### QS Al-Ahzab [33]: 60
+
+<p class="quran">یٰۤاَیُّہَا النَّبِیُّ قُلۡ لِّاَزۡوَاجِکَ وَ بَنٰتِکَ وَ نِسَآءِ الۡمُؤۡمِنِیۡنَ یُدۡنِیۡنَ عَلَیۡہِنَّ مِنۡ جَلَابِیۡبِہِنَّ ؕ ذٰلِکَ اَدۡنٰۤی اَنۡ یُّعۡرَفۡنَ فَلَا یُؤۡذَیۡنَ ؕ وَ کَانَ اللّٰہُ غَفُوۡرًا رَّحِیۡمًا ﴿۶۰﴾</p>
+
+> Wahai Nabi! Katakanlah kepada istri-istri engkau dan anak-anak perempuan engkau serta istri-istri orang mukmin, hendaklah mereka mengulurkan jilbabnya _dari atas kepala mereka sampai menutupi dadanya_. Hal itu lebih memudahkan mereka agar dapat dikenal dengan demikian mereka tidak diganggu. Dan Allah Maha Pengampun, Maha Penyayang.
+
+### QS An-Nur [24]: 61
+
+<p class="quran">وَ الۡقَوَاعِدُ مِنَ النِّسَآءِ الّٰتِیۡ لَا یَرۡجُوۡنَ نِکَاحًا فَلَیۡسَ عَلَیۡہِنَّ جُنَاحٌ اَنۡ یَّضَعۡنَ ثِیَابَہُنَّ غَیۡرَ مُتَبَرِّجٰتٍۭ بِزِیۡنَۃٍ ؕ وَ اَنۡ یَّسۡتَعۡفِفۡنَ خَیۡرٌ لَّہُنَّ ؕ وَ اللّٰہُ سَمِیۡعٌ عَلِیۡمٌ ﴿۶۱﴾</p>
+
+> "Wanita-wanita yang usianya telah lanjut, tidak berkeinginan lagi untuk menikah, maka tiada dosa bagi mereka, jika mereka melepaskan pakaian _luar_ mereka tanpa memperlihatkan kecantikan _mereka_. Tetapi jika mereka menjaga diri _sekalipun dari berbuat demikian_, maka itu lebih baik bagi mereka. Dan Allah Maha Mendengar, Maha Mengetahui."
+
+Ayat ini membahas “pardah” bagi wanita di usia tua.
+
+### Hadits Al-Bukhari Mengenai Menutup Wajah
+
+<p class="arab">...عَنْ حَدِيثِ، عَائِشَةَ ـ رضى الله عنها ـ زَوْجِ النَّبِيِّ صلى الله عليه وسلم حِينَ قَالَ لَهَا أَهْلُ الإِفْكِ مَا قَالُوا، فَبَرَّأَهَا اللَّهُ مِمَّا قَالُوا وَكُلٌّ حَدَّثَنِي طَائِفَةً مِنَ الْحَدِيثِ، وَبَعْضُ حَدِيثِهِمْ يُصَدِّقُ بَعْضًا، وَإِنْ كَانَ بَعْضُهُمْ أَوْعَى لَهُ مِنْ بَعْضٍ الَّذِي حَدَّثَنِي عُرْوَةُ عَنْ عَائِشَةَ ـ رضى الله عنها ـ أَنَّ عَائِشَةَ ـ رضى الله عنها ـ زَوْجَ النَّبِيِّ صلى الله عليه وسلم قَالَتْ كَانَ رَسُولُ اللَّهِ صلى الله عليه وسلم إِذَا أَرَادَ أَنْ يَخْرُجَ أَقْرَعَ بَيْنَ أَزْوَاجِهِ، فَأَيَّتُهُنَّ خَرَجَ سَهْمُهَا خَرَجَ بِهَا رَسُولُ اللَّهِ صلى الله عليه وسلم مَعَهُ، قَالَتْ عَائِشَةُ فَأَقْرَعَ بَيْنَنَا فِي غَزْوَةٍ غَزَاهَا، فَخَرَجَ سَهْمِي، فَخَرَجْتُ مَعَ رَسُولِ اللَّهِ صلى الله عليه وسلم بَعْدَ مَا نَزَلَ الْحِجَابُ، فَأَنَا أُحْمَلُ فِي هَوْدَجِي وَأُنْزَلُ فِيهِ فَسِرْنَا حَتَّى إِذَا فَرَغَ رَسُولُ اللَّهِ صلى الله عليه وسلم مِنْ غَزْوَتِهِ تِلْكَ وَقَفَلَ، وَدَنَوْنَا مِنَ الْمَدِينَةِ قَافِلِينَ آذَنَ لَيْلَةً بِالرَّحِيلِ، فَقُمْتُ حِينَ آذَنُوا بِالرَّحِيلِ، فَمَشَيْتُ حَتَّى جَاوَزْتُ الْجَيْشَ، فَلَمَّا قَضَيْتُ شَأْنِي أَقْبَلْتُ إِلَى رَحْلِي، فَإِذَا عِقْدٌ لِي مِنْ جَزْعِ ظَفَارِ قَدِ انْقَطَعَ فَالْتَمَسْتُ عِقْدِي وَحَبَسَنِي ابْتِغَاؤُهُ وَأَقْبَلَ الرَّهْطُ الَّذِينَ كَانُوا يَرْحَلُونَ لِي، فَاحْتَمَلُوا هَوْدَجِي، فَرَحَلُوهُ عَلَى بَعِيرِي الَّذِي كُنْتُ رَكِبْتُ، وَهُمْ يَحْسِبُونَ أَنِّي فِيهِ، وَكَانَ النِّسَاءُ إِذْ ذَاكَ خِفَافًا لَمْ يُثْقِلْهُنَّ اللَّحْمُ، إِنَّمَا تَأْكُلُ الْعُلْقَةَ مِنَ الطَّعَامِ فَلَمْ يَسْتَنْكِرِ الْقَوْمُ خِفَّةَ الْهَوْدَجِ حِينَ رَفَعُوهُ، وَكُنْتُ جَارِيَةً حَدِيثَةَ السِّنِّ، فَبَعَثُوا الْجَمَلَ وَسَارُوا، فَوَجَدْتُ عِقْدِي بَعْدَ مَا اسْتَمَرَّ الْجَيْشُ، فَجِئْتُ مَنَازِلَهُمْ، وَلَيْسَ بِهَا دَاعٍ وَلاَ مُجِيبٌ، فَأَمَمْتُ مَنْزِلِي الَّذِي كُنْتُ بِهِ وَظَنَنْتُ أَنَّهُمْ سَيَفْقِدُونِي فَيَرْجِعُونَ إِلَىَّ فَبَيْنَا أَنَا جَالِسَةٌ فِي مَنْزِلِي غَلَبَتْنِي عَيْنِي فَنِمْتُ، وَكَانَ صَفْوَانُ بْنُ الْمُعَطَّلِ السُّلَمِيُّ ثُمَّ الذَّكْوَانِيُّ مِنْ وَرَاءِ الْجَيْشِ، فَأَدْلَجَ فَأَصْبَحَ عِنْدَ مَنْزِلِي، فَرَأَى سَوَادَ إِنْسَانٍ نَائِمٍ، فَأَتَانِي فَعَرَفَنِي حِينَ رَآنِي، وَكَانَ يَرَانِي قَبْلَ الْحِجَابِ، فَاسْتَيْقَظْتُ بِاسْتِرْجَاعِهِ حِينَ عَرَفَنِي فَخَمَّرْتُ وَجْهِي بِجِلْبَابِي،..‏.‏</p>
+
+> dari cerita 'Aisyah radliallahu 'anha istri Nabi shallallahu 'alaihi wasallam, tatkala orang yang memfitnahnya menyebarkan ghosip tentangnya dengan segala yang mereka katakana, Allah menjelaskan akan terbebasnya dirinya dari tuduhan tersebut. Sekelompok orang menceritakan tentangku sehimpunan-sehimpunan, sebagian mereka menerima cerita kejadian tersebut dari sebagian yang lain, sehingga kisah tersebut seolah-olah menjadi kuat, hingga saya hafal perkataan dari setiap yang mereka ceritakan kepadaku dan sebagian cerita membenarkan yang lain. Dari Urwah ia menceritakan kepadaku dari Aisyah istri Nabi shallallahu 'alaihi wasallam berkata; bahwa apabila Rasulullah shallaallahu 'alaihi wa sallam hendak berpergian, beliau mengundi di antara isteri-isterinya. Barang siapa yang keluar undiannya, dialah yang ikut pergi bersama Rasulullah shallaallahu 'alaihi wa sallam." Aisyah berkata; "Kemudian beliau mengundi di antara kami pada suatu peperangan dan keluarlah undian anak panahku, sehingga aku pergi bersama Rasulullah shallaallahu 'alaihi wa sallam. Kejadian tersebut setelah diturunkannya ayat tentang hijab. Lalu saya dibawa di sekedupku. Di tengah perjalanan, saya turun hingga Rasulullah shallaallahu 'alaihi wa sallam telah selesai dari sebuah peperangan dan beliau pun kembali ke Madinah. Pada suatu malam saya berada bersama kelompok kaum muslimin. Tatkala mereka tertidur, saya bangun dan berjalan hingga aku mendahului mereka. Setelah saya selesai menunaikan urusanku, saya kembali bergabung dengan kelompok kaum muslimin. Tatkala saya meraba dadaku, ternyata kalungku yang berasal dari Zhafar, Yaman, putus. Maka saya kembali dan mencari kalungku, pencarian itu membuatku terlambat. Dan, sekelompok orang yang membawa sekedupku telah berangkat, mereka berjalan dengan meletakkan sekedupku di atas untaku yang biasa saya kendarai. Mereka mengira bila aku sudah berada di dalamnya." Aisyah berkata; "Tatkala itu, isteri-isteri beliau kurus-kurus dan ringan, karena tidak pernah makan daging. Tetapi, mereka hanya memakan makanan ringan. Sehingga, tidak ada orang yang curiga terhadap beratnya sekedup tersebut, ketika mereka berjalan dan mengangkatnya. Terlebih, kala itu aku masih kecil. Akhirnya mereka pun membawa unta-untanya dan berjalan (meneruskan perjalanan). Saya mendapatkan kalungku tatkala bala tentara telah berlalu. Sehingga, ketika saya mendatangi tempat duduk mereka, tidak ada seorang pun yang memanggil dan tidak ada pula orang yang menjawab. Lalu saya kembali ke tempat dudukku yang semula saya jadikan tempat duduk. Saya berharap akan ada suatu kaum (dari tentara kaum muslimin) yang menemukanku dan kembali menjemputku. Tatkala saya duduk di tempat dudukku, saya merasa ngantuk dan tertidur. Sedangkan Shafwan bin Mu'atthal Assulami dan orang-orang Dzakwan tinggal di belakang pasukan (memeriksa bila ada yang ketinggalan). Mereka berjalan diawal malam dan di pagi harinya mereka sampai di tempat dudukku. Shafwan bin Al Mu'atthal Assulami melihat ada seseorang yang masih tertidur, maka dia mendatangiku dan dia telah mengenaliku tatkala dia melihatku. Karena, dia telah melihatku sebelum diwajibkan memakai hijab atasku. Seketika saya terbangun dan saya mendengar dia beristirja' (mengucapkan, inna lillahi wa inna ilaihi raaji'un) tatkala ia mengetahuiku. _'Saya langsung menutupi wajahku dengan jilbabku_'..." (H.R. Al-Bukhari). [[^bukhari4381]]
+
+[^bukhari4381]: [Hadits Al-Bukhari, Kitab Tafsir Quran, Bab Surat An Nuur ayat 13 (dengan basmallah)](https://www.hadits.id/hadits/bukhari/4381)
+
+### Berihram dengan menutup Wajah
+
+<p class="arab">عَنْ عَائِشَةَ قَالَتْ كَانَ الرُّكْبَانُ يَمُرُّونَ بِنَا وَنَحْنُ مَعَ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ مُحْرِمَاتٌ فَإِذَا حَاذَوْا بِنَا سَدَلَتْ إِحْدَانَا جِلْبَابَهَا مِنْ رَأْسِهَا عَلَى وَجْهِهَا فَإِذَا جَاوَزُونَا كَشَفْنَاهُ</p>
+
+> Dari Aisyah ia berkata; orang-orang yang berkendaraan melewati Kami sementara Kami sedang berihram bersama Rasulullah shallAllahu wa'alaihi wa sallam kemudian apabila mereka dekat dengan Kami maka salah seorang diantara Kami menutupkan jilbabnya dari kepala ke wajahnya, kemudian apabila mereka telah melewati Kami maka Kami membukanya. (H.R. Abu Dawud). [[^dawud1562]]
+
+[^dawud1562]: [H.R. Abu Dawud, Kitab Manasik, Bab Wanita yang ihram menutup wajahnya](https://www.hadits.id/hadits/dawud/1562)
+
+### Larangan Berihram dengan Menutup Wajah 
+
+<p class="arab">عَنْ ابْنِ عُمَرَ عَنْ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ الْمُحْرِمَةُ لَا تَنْتَقِبُ وَلَا تَلْبَسُ الْقُفَّازَيْنِ</p>
+
+> Dari Ibnu Umar dari Nabi shallallahu 'alaihi wasallam: "Wanita yang berihram tidak boleh memakai niqab (penutup wajah) dan tidak boleh memakai kaos tangan." (H.R. Abu Dawud) [[^dawud1554]]
+
+[^dawud1554]: [Hadits Sunan Abu Dawud, Kitab Manasik, Bab Apa yang dikenakan oleh orang yang ihram](https://www.hadits.id/hadits/dawud/1554)
+
+### Menjaga agar Wanita Memelihara Auratnya Ketika Keluar Rumah
+
+<p class="arab">عَنْ عَبْدِ اللَّهِ عَنْ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ الْمَرْأَةُ عَوْرَةٌ فَإِذَا خَرَجَتْ اسْتَشْرَفَهَا الشَّيْطَانُ</p>
+
+> Dari Abdullah dari Nabi shallallahu 'alaihi wasallam bersabda: "Wanita itu adalah aurat. Jika dia keluar maka setan akan memperindahnya (di mata laki-laki)." (H.R. Tirmidzi) [[^tirmidzi1093]]
+
+[^tirmidzi1093]: [Hadits Jami' At-Tirmidzi Kitab Penyusuan, Bab Dimakruhkan menemui wanita yang ditinggal pergi suami](https://www.hadits.id/hadits/tirmidzi/1093)
+
+### Tidak Boleh Berdua-duaan dengan Wanita bukan Mahram
+
+<p class="arab">رُوِيَ عَنْ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ لَا يَخْلُوَنَّ رَجُلٌ بِامْرَأَةٍ إِلَّا كَانَ ثَالِثَهُمَا الشَّيْطَانُ</p>
+
+> Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Tidaklah seorang laki-laki berduaan dengan seorang wanita kecuali ketiganya adalah setan." (H.R. Tirmidzi). [[^tirmidzi1091]]
+
+<!-- <ref name=":1"> -->
+
+[^tirmidzi1091]: [Hadits Jami' At-Tirmidzi, Kitab Penyusuan, Dimakruhkan menemui wanita yang ditinggal pergi suami](https://www.hadits.id/hadits/tirmidzi/1091)
+
+<p class="arab">عَنْ عُقْبَةَ بْنِ عَامِرٍ أَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ إِيَّاكُمْ وَالدُّخُولَ عَلَى النِّسَاءِ فَقَالَ رَجُلٌ مِنْ الْأَنْصَارِ يَا رَسُولَ اللَّهِ أَفَرَأَيْتَ الْحَمْوَ قَالَ الْحَمْوُ الْمَوْتُ</p>
+
+> Dari 'Uqbah bin 'Amir bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Janganlah kalian menemui para wanita." Ada seorang Anshar bertanya; "Wahai Rasulullah, bagaimana pendapat anda dengan saudara ipar?" Beliau menjawab: "Saudara ipar adalah kematian." (H.R. Tirmidzi). [[^tirmidzi1091]]
+
+Penjelasan: Walaupun Ipar sendiri, akan tetapi tetap berhati-hati jika hanya wanita hanya tinggal dengan iparnya yang laki-laki.
+
+### Menemui Wanita Hendaknya Beserta Mahramnya
+
+<p class="arab">سَمِعْتُ ابْنَ عَبَّاسٍ يَقُولُا سَمِعْتُ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَخْطُبُ يَقُولُ لَا يَخْلُوَنَّ رَجُلٌ بِامْرَأَةٍ إِلَّا وَمَعَهَا ذُو مَحْرَمٍ وَلَا تُسَافِرْ الْمَرْأَةُ إِلَّا مَعَ ذِي مَحْرَمٍ فَقَامَ رَجُلٌ فَقَالَ يَا رَسُولَ اللَّهِ إِنَّ امْرَأَتِي خَرَجَتْ حَاجَّةً وَإِنِّي اكْتُتِبْتُ فِي غَزْوَةِ كَذَا وَكَذَا قَالَ انْطَلِقْ فَحُجَّ مَعَ امْرَأَتِكَ</p>
+
+> Saya mendengar Ibnu Abbas berkata; Saya mendengar Nabi shallallahu 'alaihi wasallam berkhutbah seraya bersabda: "Janganlah sekali-kali seorang laki-laki berduaan dengan seorang wanita kecuali wanita itu disertai mahramnya. Dan seorang wanita juga tidak boleh bepergian sendirian, kecuali ditemani oleh mahramnya." Tiba-tiba berdirilah seorang laki-laki dan bertanya, "Ya, Rasulullah, sesungguhnya isteriku hendak menunaikan ibadah haji, sedangkan aku ditugaskan pergi berperang ke sana dan ke situ; bagaimana itu?" Rasulullah shallallahu 'alaihi wasallam pun menjawab: "Pergilah kamu haji bersama isterimu." (H.R. Muslim) [[^muslim2391]]
+
+<!-- <ref name=":2"> -->
+
+[^muslim2391]: [Hadits Shahih Muslim, Kitab Haji, Bab Perjalanan seorang wanita bersama mahramnya untuk haji dan selainnya](https://www.hadits.id/hadits/muslim/2391)
+
+### Laki-laki Tidak Menjabat Tangan Wanita yang Bukan Mahram
+
+<p class="arab">عَنْ أُمَيْمَةَ بِنْتِ رُقَيْقَةَ أَنَّهَا قَالَتْ أَتَيْتُ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فِي نِسْوَةٍ مِنْ الْأَنْصَارِ نُبَايِعُهُ فَقُلْنَا يَا رَسُولَ اللَّهِ نُبَايِعُكَ عَلَى أَنْ لَا نُشْرِكَ بِاللَّهِ شَيْئًا وَلَا نَسْرِقَ وَلَا نَزْنِيَ وَلَا نَأْتِيَ بِبُهْتَانٍ نَفْتَرِيهِ بَيْنَ أَيْدِينَا وَأَرْجُلِنَا وَلَا نَعْصِيكَ فِي مَعْرُوفٍ قَالَ فِيمَا اسْتَطَعْتُنَّ وَأَطَقْتُنَّ قَالَتْ قُلْنَا اللَّهُ وَرَسُولُهُ أَرْحَمُ بِنَا هَلُمَّ نُبَايِعْكَ يَا رَسُولَ اللَّهِ فَقَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ إِنِّي لَا أُصَافِحُ النِّسَاءَ إِنَّمَا قَوْلِي لِمِائَةِ امْرَأَةٍ كَقَوْلِي لِامْرَأَةٍ وَاحِدَةٍ أَوْ مِثْلُ قَوْلِي لِامْرَأَةٍ وَاحِدَةٍ</p>
+
+> Dari Umaimah binti Ruqaiqah bahwa ia berkata; saya datang kepada Nabi shallallahu 'alaihi wasallam diantara beberapa wanita Anshar, kami berbai'at kepadanya dan berkata; wahai Rasulullah, kami berbai'at kepadamu untuk tidak mensekutukan Allah dengan sesuatu, tidak mencuri, tidak berzina, tidak melakukan kedustaan yang diadakan diantara kedua tangan dan kaki kami, tidak mendurhakaimu dalam perkara yang baik. Beliau bersabda: "Dalam perkara yang kalian mampu." Ia berkata; maka kami katakan; Allah dan RasulullahNya lebih sayang kepada kami. Mari kami baiat engkau wahai Rasulullah. Kemudian Rasulullah shallallahu 'alaihi wasallam bersabda: "Sesungguhnya saya tidak bersalaman dengan wanita. Sesungguhnya perkataanku kepada seratus orang wanita seperti perkataanku kepada satu orang wanita atau seperti perkataanku kepada satu orang wanita." (H.R. Ibnu Majah) [[^majah4110]]
+
+<!-- <ref name=":4"> --> 
+
+[^majah4110]: [Hadits Sunan An-Nasa'i Kitab Baiah, Baiat wanita](https://www.hadits.id/hadits/nasai/4110)
+
+<p class="arab">سَمِعْتُ أُمَيْمَةَ بِنْتَ رُقَيْقَةَ تَقُولُ جِئْتُ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فِي نِسْوَةٍ نُبَايِعُهُ فَقَالَ لَنَا فِيمَا اسْتَطَعْتُنَّ وَأَطَقْتُنَّ إِنِّي لَا أُصَافِحُ النِّسَاءَ</p>
+
+> Aku mendengar Umaimah binti Ruqaiqah, ia berkata; "Aku bersama beberapa wanita lain menemui Nabi untuk berbai'at." Rasulullah shallallahu 'alaihi wasallam bersabda kepada kami: 'Apa yang kalian mampu untuk melaksanakannya. Sesungguhnya aku tidak berjabat tangan dengan kaum wanita.' (H.R. Ibnu Majah) [[^majah2865]]
+
+<!-- <ref name=":3"> --> 
+
+[^majah2865]: [Hadits Sunan Ibnu Majah, Kitab Jihad, bab Baiatnya kaum wanita](https://www.hadits.id/hadits/majah/2865)
+
+### Memisahkan Pintu laki-laki dan Wanita
+
+<p class="arab">عَنْ ابْنِ عُمَرَ قَالَ قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ لَوْ تَرَكْنَا هَذَا الْبَابَ لِلنِّسَاءِ قَالَ نَافِعٌ فَلَمْ يَدْخُلْ مِنْهُ ابْنُ عُمَرَ حَتَّى مَاتَ</p>
+
+> Dari Ibnu Umar dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Sebaiknya pintu ini kita peruntukkan bagi kaum wanita." Nafi' berkata; Maka Ibnu Umar tidak pernah lagi masuk lewat pintu itu sampai beliau meninggal dunia. (H.R. Abu Dawud) [[^dawud484]]
+
+[^dawud484]: [Hadits Sunan Abu Dawud Kitab Shalat, Bab Ketatnya aturan dalam hal itu](https://www.hadits.id/hadits/dawud/484)
+
+Penjelasan: Pintu yang dimaksud adalah pintu tempat shalat (masjid).
+
+### Menghindari Pertemuan yang Bukan mahram (ketika Shalat)
+
+<p class="arab">عَنْ أَبِي هُرَيْرَةَ قَالَ قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ خَيْرُ صُفُوفِ الرِّجَالِ أَوَّلُهَا وَشَرُّهَا آخِرُهَا وَخَيْرُ صُفُوفِ النِّسَاءِ آخِرُهَا وَشَرُّهَا أَوَّلُهَا</p>
+
+> Dari Abu Hurairah dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Sebaik baik shaf laki laki adalah shaf yang pertama dan sejelek jeleknya adalah shaf yang terakhir. Sebaik baik shaf wanita adalah yang terakhir dan sejelek jeleknya adalah shaf yang pertama." (H.R. Abu Dawud) [[^dawud580]]
+
+[^dawud580]: [Hadits Sunan Abu Dawud, Kitab Shalat, Shaf wanita, dan larangan untuk menghindari shaf pertama.](https://www.hadits.id/hadits/dawud/580)
+
+Penjelasan: Agar yang bukan mahram tidak berdekatan ketika shalat, maka Rasulullah saw memerintahkan mereka untuk saling menjauh.
+
+<p class="arab">أَنَّ أُمَّ سَلَمَةَ زَوْجَ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ أَخْبَرَتْهَا أَنَّ النِّسَاءَ فِي عَهْدِ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ كُنَّ إِذَا سَلَّمْنَ مِنْ الْمَكْتُوبَةِ قُمْنَ وَثَبَتَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ وَمَنْ صَلَّى مِنْ الرِّجَالِ مَا شَاءَ اللَّهُ فَإِذَا قَامَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَامَ الرِّجَالُ</p>
+
+> Bahwa Ummu Salamah isteri Nabi shallallahu 'alaihi wasallam mengabarkan kepadanya, bahwa para wanita di zaman Rasulullah shallallahu 'alaihi wasallam jika mereka telah selesai dari shalat fardlu, maka mereka segera beranjak pergi. Sedangkan Rasulullah shallallahu 'alaihi wasallam dan kaum laki-laki yang shalat bersama beliau tetap diam di tempat sampai waktu yang Allah kehendaki. Ketika Rasulullah shallallahu 'alaihi wasallam berdiri dan beranjak pergi maka mereka pun mengikutinya." (H.R. Bukhari) [[^bukhari819]]
+
+[^bukhari819]: [Hadits Shahih Al-Bukhari, Kitab Adzan, Perginya Para Wanita Ke Masjid Pada Malam Hari dan Akhir Malam Yang Masih Gelap](https://www.hadits.id/hadits/bukhari/819)
+
+Penjelasan: Rasulullah saw agaknya memberi kesempatan kepada para wanita punya untuk pergi terlebih dahulu sehingga seseorang yang berlalu pulang dari kalangan laki-laki tidak bertemu dengan para wanita.
+
+### Larangan Melihat Aurat Saudaranya
+
+<p class="arab">عَنْ عَبْدِ الرَّحْمَنِ بْنِ أَبِي سَعِيدٍ الْخُدْرِيِّ عَنْ أَبِيهِ عَنْ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ لَا يَنْظُرُ الرَّجُلُ إِلَى عُرْيَةِ الرَّجُلِ وَلَا الْمَرْأَةُ إِلَى عُرْيَةِ الْمَرْأَةِ وَلَا يُفْضِي الرَّجُلُ إِلَى الرَّجُلِ فِي ثَوْبٍ وَاحِدٍ وَلَا تُفْضِي الْمَرْأَةُ إِلَى الْمَرْأَةِ فِي ثَوْبٍ</p>
+
+> Dari 'Abdurrahman bin Abu Sa'id Al Khudri dari Bapaknya dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Seorang laki-laki tidak boleh untuk melihat aurat laki-laki lain, dan seorang wanita tidak boleh melihat aurat wanita yang lain. Seorang laki-laki tidak boleh tidur dengan laki-laki lain dalam satu selimut, dan seorang wanita tidak boleh tidur dengan wanita lain dalam satu selimut." (H.R. Abu Dawud) [[^dawud3502]]
+
+<!-- <ref name=":5"> -->
+
+[^dawud3502]: [Hadits Sunan Abu Dawud, Kitab Pemandian Umum, Penjelasan tentang bertelanjang](https://www.hadits.id/hadits/dawud/3502)
+
+<p class="arab">عَنْ أُمِّ سَلَمَةَ قَالَتْ كُنْتُ عِنْدَ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ وَعِنْدَهُ مَيْمُونَةُ فَأَقْبَلَ ابْنُ أُمِّ مَكْتُومٍ وَذَلِكَ بَعْدَ أَنْ أُمِرْنَا بِالْحِجَابِ فَقَالَ النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ احْتَجِبَا مِنْهُ فَقُلْنَا يَا رَسُولَ اللَّهِ أَلَيْسَ أَعْمَى لَا يُبْصِرُنَا وَلَا يَعْرِفُنَا فَقَالَ النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ أَفَعَمْيَاوَانِ أَنْتُمَا أَلَسْتُمَا تُبْصِرَانِهِ</p>
+
+> Dari Ummu Salamah ia berkata, "Aku berada di sisi Rasulullah shallallahu 'alaihi wasallam ketika Maimunah sedang bersamanya. Lalu masuklah Ibnu Ummi Maktum -yaitu ketika perintah hijab telah turun-. Maka Nabi shallallahu 'alaihi wasallam pun bersabda: "Berhijablah kalian berdua darinya." Kami bertanya, "Wahai Rasulullah, bukankah ia buta sehingga tidak bisa melihat dan mengetahui kami?" Nabi shallallahu 'alaihi wasallam balik bertanya: "Apakah kalian berdua buta? Bukankah kalian berdua dapat melihat dia?" (H.R. Abu Dawud) [[^dawud3585]]
+
+[^dawud3585]: [Hadits Sunan Abu Dawud, Kitab Pakaian, Bab Firman Allah "Katakanlah kepada wanita yang beriman: "Hendaklah mereka menahan pandangannya…"](https://www.hadits.id/hadits/dawud/3585)
+
+### Aurat Wanita
+
+<p class="arab">عَنْ عَائِشَةَ رَضِيَ اللَّهُ عَنْهَا أَنَّ أَسْمَاءَ بِنْتَ أَبِي بَكْرٍ دَخَلَتْ عَلَى رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ وَعَلَيْهَا ثِيَابٌ رِقَاقٌ فَأَعْرَضَ عَنْهَا رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ وَقَالَ يَا أَسْمَاءُ إِنَّ الْمَرْأَةَ إِذَا بَلَغَتْ الْمَحِيضَ لَمْ تَصْلُحْ أَنْ يُرَى مِنْهَا إِلَّا هَذَا وَهَذَا وَأَشَارَ إِلَى وَجْهِهِ وَكَفَّيْهِ</p>
+
+> Dari 'Aisyah radliallahu 'anha, bahwa Asma binti Abu Bakr masuk menemui Rasulullah shallallahu 'alaihi wasallam dengan mengenakan kain yang tipis, maka Rasulullah shallallahu 'alaihi wasallam pun berpaling darinya. Beliau bersabda: "Wahai Asma', sesungguhnya seorang wanita jika telah baligh tidak boleh terlihat darinya kecuali ini dan ini -beliau menunjuk wajah dan kedua telapak tangannya-." (H.R. Abu Dawud) [[^dawud3580]]
+
+<!-- <ref name=":6"> -->
+
+[^dawud3580]: [Hadits Sunan Abu Dawud, Kitab Pakaian, Perhiasan yang boleh ditampakkan oleh wanita](https://www.hadits.id/hadits/dawud/3580)
+
+### Wanita yang Tidak Masuk Surga
+
+<p class="arab">عَنْ أَبِي هُرَيْرَةَ قَالَ قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ صِنْفَانِ مِنْ أَهْلِ النَّارِ لَمْ أَرَهُمَا قَوْمٌ مَعَهُمْ سِيَاطٌ كَأَذْنَابِ الْبَقَرِ يَضْرِبُونَ بِهَا النَّاسَ وَنِسَاءٌ كَاسِيَاتٌ عَارِيَاتٌ مُمِيلَاتٌ مَائِلَاتٌ رُءُوسُهُنَّ كَأَسْنِمَةِ الْبُخْتِ الْمَائِلَةِ لَا يَدْخُلْنَ الْجَنَّةَ وَلَا يَجِدْنَ رِيحَهَا وَإِنَّ رِيحَهَا لَيُوجَدُ مِنْ مَسِيرَةِ كَذَا وَكَذَا</p>
+
+> Dari Abu Hurairah dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Ada dua golongan penduduk neraka yang keduanya belum pernah aku lihat. (1) Kaum yang memiliki cambuk seperti ekor sapi, yang dipergunakannya untuk memukul orang. (2) Wanita-wanita berpakaian, tetapi sama juga dengan bertelanjang (karena pakaiannya terlalu minim, terlalu tipis atau tembus pandang, terlalu ketat, atau pakaian yang merangsang pria karena sebagian auratnya terbuka), berjalan dengan berlenggok-lenggok, mudah dirayu atau suka merayu, rambut mereka (disasak) bagaikan punuk unta. Wanita-wanita tersebut tidak dapat masuk surga, bahkan tidak dapat mencium bau surga. Padahal bau surga itu dapat tercium dari begini dan begini." (H.R. Muslim) [[^muslim3971]]
+
+<!-- <ref name=":7"> --> 
+
+[^muslim3971]: [Hadits Shahih Muslim, Kitab Pakaian dan perhiasan, Wanita berpakaian tetapi telanjang](https://www.hadits.id/hadits/muslim/3971)
+
+## Pengertian Pardah
+
+Pardah ialah pembatasan pergaulan hidup bebas antara kaum pria dan wanita, dan hendaknya tidak disalahartikan dengan pengertian burkah (pakaian luar yang menyelubungi seluruh badan ala perempuan Muslim di Pakistan). [[^fai_52]]
+
+[^fai_52]: Filsafat Ajaran Islam, Hadhrat Mirza Ghulam Ahmad a.s., Penerbit: Neratja Press, Cetakan ke-5: Jakarta, Januari 2016. hlm. 52
+
+Secara bahasa di India, Pakistan dan lain-lain, pardah/parda/purdah diartikan sebagai pemisahan wanita dari pandangan pria atau orang asing, yang dilakukan oleh sebagian Muslim dan Hindu. Arti berikutnya adalah layar, tirai, atau kerudung yang digunakan untuk tujuan ini. [[^dictionary_com_purdah]]
+
+[^dictionary_com_purdah]: https://www.dictionary.com/browse/purdah the seclusion of women from the sight of men or strangers, practiced by some Muslims and Hindus. a screen, curtain, or veil used for this purpose.
+
+Berdasarkan [Wikipedia](https://wikipedia.org/), Pardah atau Purdah diserap dari bahasa Persia: پرده, artinya "tirai" adalah praktik keagamaan dan sosial yang mengharuskan pemisahan perempuan dari laki-laki di tempat umum yang dilakukan oleh beberapa komunitas Muslim dan Hindu di Asia Selatan. Ada dua manifestasi purdah: pemisahan secara fisik dari lawan jenis dan keharusan agar perempuan menutupi tubuhnya dari kepala hingga kaki. Perempuan yang mempraktikkan purdah disebut _'pardanashin_' atau _'purdahnishan_'.
+
+Pemisahan secara fisik perempuan dari laki-laki dalam pertemuan atau perhelatan di tempat umum dilakukan dengan menggunakan tembok, tirai, dan layar pemisah. Perempuan yang menolak menjalankan purdah biasanya mengalami penolakan ketika melakukan kegiatan pribadi, sosial dan ekonomi di luar rumah. Busana purdah yang lazim dipakai adalah burkak, yang biasanya meliputi atau tidak meliputi yashmak, yaitu cadar yang menutupi wajah dengan bagian terbuka di bagian mata atau tidak. [[^wikipedia_purdah]] 
+
+[^wikipedia_purdah]: https://id.wikipedia.org/wiki/Purdah
+
+## Teknis Pelaksanaan Pardah
+
+Poin-poin pelaksanaan pardah diantaranya:
+
+- Orang-orang Muslim, pria atau wanita, harus menundukkan mata mereka, bila mereka berhadapan satu sama lain. (QS An-Nur [24]: 31-32)
+
+- Menjaga farji (QS An-Nur [24]: 32). Farji bisa diartikan kemaluan atau panca indra.
+
+- Untuk kaum wanita agar tidak menampakkan kecantikan kecuali apa yang dengan sendirinya nampak. (QS An-Nur [24]: 32)
+
+- Untuk kaum wanita jika keluar rumah hendaknya memakai Jilbab (QS Al-Ahzab [33]: 60) dan jika ada di rumah cukup menggunakan Khimar (QS An-Nur [24]: 32)
+
+- Untuk kaum wanita agar tidak memamerkan kecantikan secara berlebihan (seperti kaum jahiliyah dahulu) (QS Al-Ahzab [33]: 34)
+
+- Untuk kaum wanita agar mengenakan kudungan hingga menutupi dada agar dapat dikenali dan tidak diganggu (QS An-Nur [24]: 32, QS Al-Ahzab [33]: 60)
+
+- Untuk kaum wanita agar tidak lembut dalam bertutur kata sehingga menimbulkan orang yang dalam hatinya ada penyakit mempunyai berkeinginan buruk untuk menggoda. (QS Al-Ahzab [33]: 33) Perintah ini menghendaki supaya kaum wanita berlaku dengan sikap hormat dan menjaga kesederhanaan, bila berbicara dengan para pria asing; dan mereka diminta juga mencurahkan perhatian sepenuhnya melaksanakan kewajibannya yang berat dan penting berkenaan dengan hal-hal yang bertalian dengan kesejahteraan sesama jenisnya dan pengaturan urusan rumah tangganya, dan pemeliharaan dan pembimbingan anak-anaknya dan hal-hal semacamnya.
+
+- Untuk kaum wanita meskipun kaum wanita boleh keluar rumah bila diperlukan akan tetapi lingkungan kegiatan mereka terpokok dan terutama adalah di dalam rumah (QS Al-Ahzab [33]: 34)
+
+- Untuk suami-istri sedapat mungkin mempunyai kamar tidur terpisah dari anggota-anggota keluarga lainnya. Untuk anak-anak yang belum balig atau para pembantu harus meminta izin masuk ke dalam kamar orang tuanya/majikannya dalam tiga waktu, yaitu sebelum shalat Subuh, waktu tengah hari dan sesudah shalat Isya (QS An-Nur [24]: 59)
+
+- Bagi kaum wanita yang sudah uzur diberikan kelonggaran untuk tidak memakai penutup kepala. Akan tetapi merupakan hal yang baik jika penutup kepala tetap dipakai (QS An-Nur [24]: 61).
+
+- Laki-laki dan perempuan tidak boleh berdua-duaan tanpa ada mahramnya. [[^tirmidzi1091]] [[^muslim2391]]
+
+- Laki-laki dan perempuan tidak yang bukan mahram tidak diperkenankan berjabat tangan. [[^majah4110]] [[^majah2865]]
+
+- Memisahkan tamu ketika pernikahan (Akad dan Walimah) untuk menghindari dan memelihara pandangan antara bukan mahram (QS An-Nur [24]: 31-32), menghindari berjabat tangan kepada yang bukan mahram. [[^majah4110]] [[^majah2865]]
+
+- Walaupun wanita dan wanita merupakan mahram dan laki-laki dan laki-laki adalah mahram, akan tetapi mereka tidak boleh saling melihat aurat antar mereka (wanita melihat aurat wanita dan laki-laki melihat aurat laki-laki) dan mereka tidak boleh tidur dalam satu selimut. [[^dawud3502]]
+
+## Tujuan Pardah
+
+Tujuan diperintahkan pardah adalah:
+
+- Mensucikan hati (QS An-Nur [24]: 31 dan QS Al-Ahzab [33]: 34).
+
+- Agar mendapatkan kejayaan/kemenangan (QS An-Nur [24]: 32). Jika seorang Mukmin mengamalkan perintah Alquran ini, mereka akan mendapatkan kesuksesan hidup di dunia maupun di akhirat nanti.
+
+- Mencegah kejahatan. Al-Qur’an mengajarkan bahwa setiap sifat baik akarnya harus dikuasai dan tetap diawasi. Dan mengenai kejahatan, Al-Qur’an mengajarkan untuk menghapuskannya sama sekali. Dengan demikian akan menutup dan menghalangi segala jalan menuju kepada kejahatan itu. Oleh sebab melalui mata semua pikiran jahat masuk ke dalam hati manusia, maka orang-orang mukmin pria dan wanita telah diperintahkan untuk merundukkan pandangan mereka, bila kebetulan mereka bertemu satu sama lain. (QS An-Nur [24]: 31-32)
+
+## Beberapa Hal yang Berkaitan dengan Pardah
+
+### Jilbab
+
+Kata bahasa Arab yang dipakai dalam QS Al-Ahzab [33]: 60 ialah Jalābīb, yang bentuk tunggalnya Jilbāb, yang berarti pakaian luar atau kain selubung. Bila wanita-wanita Islam keluar rumah, mereka dikehendaki untuk memakai Jilbāb, yaitu kain luar atau kain selubung, yang harus menutupi kepala dan dada mereka dengan cara demikian rupa, sehingga kain itu terurai dari kepala sampai ke dada, menutupi seluruh badan.
+
+Jilbab adalah pakaian itu akan menutupi kepala, muka, dan dada. Bentuk dan potongan jilbab yang harus dikenakan seorang wanita bila ia keluar rumah dan yang menutupi seluruh badannya, dapat terdiri dari bermacam-macam corak sesuai dengan adat-istiadat, kebiasaan, kedudukan dalam masyarakat, tradisi-tradisi keluarga, dan tata cara berbagai golongan masyarakat Muslim. [[^tfs_q024032]]
+
+<!-- <ref name=":0"> -->
+
+[^tfs_q024032]: Tafsir QS An-Nur [24]: 32 nomer 2044, hlm 1243. Aquran dengan Terjemah dan Tafsir yang diterbitkan Jemaat Ahmadiyah Indonesia.
+
+Jika wanita keluar, maka mereka harus memakai Jilbab. Memakai kain luar/jilbab dimaksudkan menyelamatkan seorang wanita Muslim dari siksaan batin, bila ia ditatap dengan tidak sopan atau diganggu atau diberi kesusahan dengan jalan lain apa pun oleh orang-orang yang akhlaknya meragukan.
+
+Jika wanita di dalam rumah atau bersama mahramnya, para wanita tidak diharuskan memakai Jilbāb pada saat itu, sebab hal itu akan amat menyulitkan mereka (QS An-Nur [24]: 32) akan tetapi perintahnya, mereka tetap menggunakan Khimar (QS Al-Ahzab [33]: 60).
+
+Perintah bertalian dengan “pardah” di dalam rumah akan berlaku juga di toko-toko, sawah ladang, dan sebagainya di mana wanita dari golongan tertentu dari masyarakat Muslim terpaksa bekerja untuk mencari nafkah. Di sana seorang wanita tidak akan disuruh menutupi mukanya. Ia hanya berkewajiban menundukkan pandangannya dan menutupi  perhiasannya dan barang-barang kecantikan lainnya, seperti yang dikenakan oleh wanita-wanita di dalam rumah mereka, bila kaum laki-laki sanak keluarga yang dekat datang mengunjungi mereka.
+
+### Khimar
+
+Khimar adalah pakaian yang harus ia pakai di dalam rumah bila sanak keluarganya datang berkunjung (QS Al-Ahzab [33]: 60). Khimar adalah pakaian yang bentuknya berupa kain kudungan yang melintang hingga menutupi dada wanita. Kepala dan dada akan tertutup, sedang muka dapat tetap terbuka [[^tfs_q024032]]
+
+### Hijab atau Tabir
+
+Allah Ta'ala mengisyaratkan agar pergaulan antarat laki-laki dan perempuan itu hendaknya ada pembatas/hijab sesuai yang dicontohkan oleh Rasulullah saw dan keluarganya terhadap tamu-tamu (QS Al-Ahzab [33]: 54)
+
+### Burkah
+
+Menurut Wikipedia Burka, Burqa atau Burkak (bahasa Arab: برقعة, _burqʿah_) adalah sebuah pakaian yang menutupi seluruh tubuh yang dikenakan oleh sebagian perempuan Muslim di Afganistan, Pakistan, dan India utara. Kini pakaian ini jarang terlihat dikenakan di luar Afganistan. Burkak dikenakan menutupi pakaian sehari-hari (sering kali pakaian panjang atau salwar kameez) dan dilepaskan ketika si perempuan kembali ke rumahnya ke tengah keluarganya. [[^wikipedia_Burkak]]
+
+[^wikipedia_Burkak]: https://id.wikipedia.org/wiki/Burkak
+
+### Kecantikan atau Keindahan Wanita
+
+Sebagai ikhtiar tambahan kaum wanita harus menjaga supaya _Zīnah_ mereka, yaitu keindahan pribadi, pakaian dan perhiasan-perhiasan agar tidak dipamerkan. Kata _Zīnah_ yang dipergunakan dalam QS An-Nur [24]: 32 meliputi kecantikan alami maupun kecantikan buatan. Yaitu kecantikan dirinya, pakaian, dan perhiasan-perhiasan. Ungkapan “_kecuali apa yang dengan sendirinya nampak darinya_” melingkupi segala sesuatu yang tak dapat ditutupi oleh seorang wanita seperti suaranya, cara berjalan, dan bentuk badannya, dan juga beberapa bagian badannya yang terpaksa harus terbuka menurut kedudukannya dalam masyarakat, tradisi-tradisi keluarganya, kesibukannya, dan adat kebiasaan masyarakat. Izin untuk membiarkan terbuka bagian-bagian badannya tertentu akan tunduk kepada perubahan-perubahan tertentu. Dengan demikian kata “_janganlah mereka menampakkan kecantikannya_” akan mempunyai pemahaman yang berlainan, bertalian dengan wanita dari bagian-bagian dan tingkatan-tingkatan masyarakat yang berlain-lainan; dan arti serta mafhum akan berubah pula dengan berubahnya adat-istiadat dan cara hidup dan pekerjaan-pekerjaan suatu kaum. Kata-kata, “_dan janganlah mereka itu menghentakkan kaki mereka, sehingga dapat diketahui apa yang mereka sembunyikan dari perhiasan mereka._” menunjukkan, bahwa tari-menari di muka umum, yang telah begitu membudaya di negeri-negeri tertentu, sama sekali tidak diizinkan oleh Islam.
+
+### Aurat
+
+Aurat adalah bagian dari tubuh manusia yang wajib ditutupi dari pandangan orang lain dengan pakaian. Aurat wanita menurut Rasulullah saw adalah seluruh tubuh, kecuali wajah dan telapak tangannya.[[^dawud3580]] Menampakkan aurat bagi umat Islam dianggap melanggar syariat. Wanita yang tidak menjaga auratnya bisa tidak masuk ke dalam surga. [[^muslim3971]]
+
+### Tabarruj
+
+Bertabarruj disebut dalam QS Al-Ahzab [33]: 34. Tabarruj artinya menampakkan kecantikan kepada yang bukan mahram atau menampakkan bagian yang indah (aurat) dan segala yang mengundang syahwat lelaki (non mahram).
+
+### Ikhtilath
+
+Ikhtilath adalah pertemuan antara laki-laki dan perempuan yang bukan mahrom di satu tempat dan ada interaksi.
+
+### Farji
+
+Hadhrat Masih Mau'ud a.s. bersabda, "Kata فُرُوجَ (furuuj, lubang-lubang tubuh) berarti semua bagian tubuh yang digunakan untuk kinerja seksual, lalu telinga, hidung, dan wajah semua termasuk." (Tiryaqul Qulub, h. 20) [[^ahmadiyah_id_berjuang]]
+
+[^ahmadiyah_id_berjuang]: https://ahmadiyah.id/khotbah/berjuang-untuk-mencapai-akhlak-mulia-ajaran-islam
+
+## Nasehat-Nasehat Pardah
+
+Hadhrat Masih Mau'ud a.s. bersabda,
+
+> Untuk itulah Allah Ta’ala tidak mengajarkan kepada kita agar memandangi perempuan-perempuan bukan mahram ---walau tanpa sengaja--- dan memperhatikan segala keindahan mereka serta menyaksikan liuk-lenggang mereka menari dan sebagainya, asal kita memandang dengan pandangan yang suci. Dan Dia tidak pula mengajarkan kepada kita agar mendengarkan nyanyian gadis-gadis bukan mahram, dan agar kita mendengarkan cerita-cerita tentang kecantikan mereka, asal kita mendengarkannya dengan pikiran yang bersih.
+>
+> Justru kepada kita ditekankan agar sekali-kali jangan memandang perempuan-perempuan bukan mahram dan keindahan-keindahan mereka, baik dengan pandangan yang suci mau pun dengan pandangan berahi. Jangan mendengarkan suara-suara merdu mereka serta kisah-kisah kecantikan mereka, baik dengan pikiran yang suci bersih mau pun dengan pikiran kotor. Bahkan kita hendaknya merasa jijik mendengarkan serta memandang mereka seperti melihat bangkai, agar kita tidak jatuh tergelincir. Sebab pasti suatu waktu pandangan yang tanpa kendali kan menggelincirkan. Oleh sebab itu dikarenakan Allah Ta’ala menghendaki supaya mata, hati, dan resiko-resiko kita semuanya tetap terpelihara suci, untuk itulah Dia telah memberikan ajaran yang mulia.
+>
+> Memang, tidak ada keraguan lagi bahwa tidak adanya ikatan (penjagaan) dapat menimbulkan ketergelinciran. Apabila kita letakkan roti-roti lembut di depan seekor anjing lapar dan kita berharap anjing itu tidak akan menghiraukan roti tersebut, maka dengan mempunyai pikiran seperti itu sesungguhnya kita melakukan suatu kekeliruan. Jadi, Allah Ta’ala telah menghendaki agar kekuatan nafsu itu tidak memperoleh kesempatan melakukan gerakan-gerakan tersembunyi, begitu pula tidak dihadapkan kepada kesempatan apa pun yang dapat menimbulkan bahaya-bahaya buruk.
+> 
+> Ini jugalah yang merupakan falsafah pardah menurut Islam, dan inilah petunjuk syariat. Di dalam Kitab Allah, yang dimaksudkan dengan pardah bukanlah mengurung perempuan-perempuan seperti para tahanan dalam penjara. Itu adalah tanggapan orang-orang yang tidak mengetahui tata-cara Islami. Justru yang dimaksudkan adalah perempuan-perempuan dan laki-laki keduanya dicegah memandang secara bebas dan memamerkan keindahan masing-masing. Sebab di situ terdapat suatu kebaikan bagi kaum laki-laki dan kaum perempuan kedua-duanya.
+> 
+> Akhirnya, hendaknya diingat, bahwa sikap menghindarkan diri dengan memandang secara redup dan melihat bendabenda yang dibenarkan untuk dipandang, dalam bahasa Arab sikap demikian disebut Ghaḍḍu Bashar. Dan setiap orang bertakwa yang ingin tetap memelihara hatinya dengan suci, hendaknya ia jangan melayangkan pandangannya dengan liar ke sana ke mari seperti binatang-binatang, melainkan wajib baginya menerapkan kebiasaan Ghaḍḍu Bashar. Dan ini adalah suatu kebiasaan beberkat yang mengakibatkan keadaan thabi’i tersebut berubah masuk ke dalam warna suatu akhlak yang kokoh, dan tidak akan menimbulkan perbedaan di dalam keperluan-keperluan pergaulan hidupnya. Inilah akhlak yang disebut ihshaan dan ‘iffat. [[^fai_51-53]]
+
+[^fai_51-53]: Filsafat Ajaran Islam, Hadhrat Mirza Ghulam Ahmad a.s., Penerbit: Neratja Press, Cetakan ke-5: Jakarta, Januari 2016. hlm. 51-53
+
+Hadhrat Masih Mau'ud a.s. bersabda,
+
+> “Seperti halnya orang-orang Eropa, orang-orang juga menekankan agar tidak menerapkan pardah (tabir/pembatas pergaulan).  Namun hal itu sama-sekali tidak tepat. Justru kebebasan kaum perempuan seperti itulah yang menjadi akar timbulnya kefasikan dan dosa.
+>
+> Di negara-negara dimana kebebasan seperti itu diterapkan, cobalah kalian nilai kondisi akhlak mereka. Jika melalui kebebasan kaum perempuan dan melalui sistim tanpa pardah itu tingkat kesucian mereka dari dosa semakin meningkat, maka kita akan mengakui bahwa kita  memang keliru. Namun hal ini sangat jelas bahwa apabila ada laki-laki dan perempuan yang masih muda, lalu terdapat kebebasan serta sistim tanpa pardah, maka betapa hubungan-hubungan antara keduanya menjadi sangat berbahaya.
+>
+> Memandang dengan pandangan berahi, dan dikuasai oleh dorongan-dorongan nafsu, merupakan ciri khas manusia. Lalu, jika dalam kondisi pemberlakuan sistim pardah saja terjadi hal-hal yang tidak seimbang dan timbul kefasikan serta dosa, maka apa lagi yang tidak akan terjadi dalam kondisi yang penuh kebebasan?
+>
+> Perhatikanlah kondisi kaum laki-laki, bagaimana mereka telah menjadi seperti kuda tanpa kendali.  Tidak ada lagi rasa takut terhadap Allah, dan tidak pula mereka percaya pada akhirat. Mereka telah menjadikan kelezatan-kelezatan duniawi sebagai berhala mereka.
+> 
+> Jadi, yang paling pertama adalah penting agar sebelum memberlakukan kebebasan serta sistim tanpa pardah, kondisi akhlak kaum laki-laki harus kalian perbaiki. Jika kondisi akhlak tersebut sudah benar, dan di kalangan kaum laki-laki paling tidak sudah terbentuk kekuatan untuk tidak dikalahkan oleh dorongan-dorongan nafsu, maka pada saat itu silahkan kalian timbulkan perdebatan, apakah pardah itu diperlukan  ataukah tidak?
+>
+> Jika tidak, maka dalam kondisi seperti yang berlaku saat ini, kalau ditekankan bahwa sudah timbul kebebasan dan tidak ada lagi sistim pardah, berarti sama halnya seperti meletakkan kambingkambing di hadapan segerombolan singa.
+> 
+> Apa yang sudah terjadi pada diri orang-orang ini? Yakni, mereka tidak memperhatikan dampak suatu permasalahan. Paling tidak, gunakanlah hati nurani kalian, apakah kondisi kaum laki-laki sudah mengalami ishlah (perbaikan) atau belum, sehingga kaum perempuan dapat diletakkan di hadapan mereka tanpa sistim pardah?
+>
+> Betapa bagusnya cara yang diterapkan Quran Syarif, yaitu Kitab yang telah memberi ajaran dengan memperhatikan dorongan-dorongan fitrat manusia serta dengan mempertimbangkan kelemahan-kelemahan pada fitrat tersebut, "Qul lilmu'miniina yaghudhdhuu min abshaarihim wa yahfazhuu furuujahum dzaalika azkaa lahum (katakanlah kepada mukmin laki-laki agar menundukkan pandangan mereka dan menjaga furuuj  mereka, demikian itu lebih suci bagi mereka -- An-Nuur, 31). Ini adalah amal yang akan mengakibatkan tazkiyya (pensucian) pada jiwa-jiwa mereka.
+>
+> Yang dimaksud dengan furuuj tidak hanya berarti kemaluan, melainkan semua lubang, termasuk juga telinga dan sebagainya, dan disitu sudah dilarang mendengar nyanyian perempuan yang bukan mahram.
+> 
+> Dan ingatlah, berdasarkan ribuan dan ribuan pengalaman telah terbukti bahwa hal-hal  yang telah dilarang oleh Allah Ta’ala akhirnya manusia akan terpaksa menghentikan diri dari hal-hal tersebut.
+>
+> Simaklah masalah poligami  dan talak (perceraian) .... Saya sangat menyayangkan bahwa orang-orang [Hindu] Arya sangat menekankan pada sistim tanpa pardah. Dan mereka menginginkan hal yang bertentangan dengan perintah-perintah Quran Syarif. Padahal ini merupakan ihsan (kebaikan) besar Islam terhadap orang-orang Hindu,  bahwa Islam telah mengajarkan peradaban  kepada mereka, dan ajarannya sedemikian rupa sehingga pintu-pintu yang membawa kepada kekacauan jadi tertutup....
+> 
+> Demikian juga halnya hubunganhubungan antara laki-laki dan perempuan. Yakni, apapun bentuknya, tetapi gejolak dan dorongan fitrat itu sedemikian rupa, tatkala sedikit saja terangsang maka langsung kesana-kemari keluar dari batas-batas kewajaran. Oleh karena itu penting bahwa dalam hubungan-hubungan antara laki-laki dan perempuan kebebasan tanpa batas dan sebagainya itu sama-sekali jangan diizinkan. Cobalah simak kalbu kalian masing masing (warga Hindu Arya). Apakah kalbu kalian sudah suci seperti yang dimiliki Raja Ram Chandra serta Khrisna dan sebagainya? Lalu, tatkala kesucian kalbu itu saja belum lagi kalian miliki, maka dengan memberlakukan sistim tanpa pardah, mengapa kalian meletakkan kambing-kambing di hadapan gerombolan singa?
+> 
+> Berlandaskan pada kedengkian, kebencian, permusuhan  dan sebagainya, mengapa kalian dengan sengaja menentang ajaran-ajaran suci Islam yang justru melalui itu kesucian kalian dari dosa menjadi tetap terpelihara?
+>
+> Akal artinya adalah, dari mana saja manusia menemukan hal yang baik  maka diambilnya. Sebab hal yang baik itu seperti emas dan mutiara serta permata. Dan dimana pun benda-benda ini terletak (berada), akhirnya tetap saja merupakan emas dan sebagainya. Oleh karena itu mutlak bagi kalian bahwa karena tidak suka terhadap Islam jangan kalian sampai meninggalkan hal yang baik. Jika tidak, ingatlah, tidak ada ruginya sedikit pun pada Islam. Jika ada kemudharatan yang timbul dari itu hanya akan mengena pada kalian.
+> 
+> Ya, jika kalian benar-benar yakin bahwa kalian telah menjadi orang-orang yang bertakwa, dan kalian sepenuhnya telah menguasai dorongan-dorongan nafsu, serta  potensi-potensi kalian sarna-sekali tidak akan melakukan gerakan-gerakan yang bertentangan dengan keridhaan dan perintah-perintah Parmesyer (Tuhan), maka  kami tidak akan melarang kalian. Silahkan berlakukan sistim tanpa pardah itu.
+> 
+> Namun, sejauh yang terpikir oleh saya, sampai saat ini kalian masih belum memperoleh kondisi tersebut. Dan dari antara kalian sekian banyak orang yang telah menjadi pemimpin dan berusaha keras melakukan perbaikan pada umat kalian, permisalan mereka adalah seperti  kuburan putih yang di dalamnya tidak lain hanyalah tulang-belulang belaka, dan tidak lebih dari itu. Sebab yang ada hanya ucapan-ucapan mereka  saja, sedangkan amal  dan sebagainya tidak ada sama-sekali.
+>
+> Perintah yang diberikan Islam agar laki-laki menerapkan pardah terhadap perempuan, dan perempuan menerapkan pardah terhadap laki-laki, tujuannya supaya nafs (jiwa)   manusia tetap terhindar dari batas ketergelinciran dan keterkecohan. Sebab pada permulaan kondisinya memang demikian, yakni nafs (jiwa) itu tunduk ke arah keburukan-keburukan, dan sedikit saja timbul rangsangan maka nafs (jiwa) itu jatuh terjun ke dalam keburukan sedemikian rupa, seperti orang yang kelaparan selama beberapa hari bergegas menuju makanan lezat.
+> 
+> Merupakan kewajiban manusia untuk memperbaiki nafs (jiwa) itu. Dan berdasarkan kondisi-kondisi perbaikan terhadapnya nafs (jiwa) itu telah diberi empat nama:
+> 
+> Pertama nafs zakiyyah, yang tidak tahu-menahu sedikit pun tentang kebaikan dan keburukan. Dan kondisi ini tetap bertahan sampai masa kanak-kanak.
+> 
+> Kemudian nafs ammaarah, yang senantiasa condong ke arah keburukan dan yang membuat manusia terlibat dalam berbagai macam kefasikan serta dosa. Dan tujuannya yang besar adalah bagaimana supaya manusia setiap saat melakukan keburukan. Kadang-kadang manusia itu mencuri, ada yang mencaci-maki, atau sedikit saja bertentangan dengan kehendaknya maka dia siap untuk memukul. Jika kecenderungannya dominan ke arah syahwat maka mengalirlah banjir kefasikan dan dosa.
+> 
+> Yang lainnya adalah nafs lawwaamah. Yakni disitu keburukan-keburukan belum sepenuhnya hilang, namun, ya, di dalam kalbu orang yang melakukan keburukan itu terasa suatu penyesalan  dan hasrat serta sikap menyalahkan diri. Dan ketika suatu keburukan terjadi maka di dalam kalbunya dia berkeinginan untuk membalasnya dengan kebaikan. Dan dia berupaya bagaimana supaya terhindar dari dosa, dia terus-menerus memanjatkan doa supaya hidupnya menjadi suci.
+> 
+> Setelah menempuh kondisi-kondisi demikian, ketika manusia menjadi benar-benar suci dari dosa  maka namanya menjadi nafs muthmainnah. Dan dalam kondisi ini, dia menganggap suatu keburukan itu sebagai keburukan seperti halnya Allah Ta’ala menganggap suatu keburukan sebagai keburukan.
+> 
+> Masalahnya adalah, dunia sebenarnya kandang dosa. Di dalamnya manusia terperangkap dalam kedurhakaan-kedurhakaan lalu melupakan Tuhan. Dalam kondisi nafs ammaarah  di kaki manusia terdapat rantai-rantai. Sedangkan dalam kondisi nafs lawwaamah sebagian rantai masih terbelit di kaki dan sebagian lagi telah terlepas.   
+> 
+> Namun dalam kondisi nafs muthmainnah rantai-rantai itu sudah tidak ada sama-sekali. Kesemuanya sudah terlepas. Dan itulah masa ketika manusia secara penuh rujuk (kembali) kepada Allah Ta’ala. Dan hamba-hamba Allah yang kamil (sempurna) adalah mereka yang pergi meninggalkan dunia ini dengan nafs muthmainnah.  Selama kondisi itu belum diraih oleh manusia, selama itu pula dia belum akan mengetahui secara pasti, apakah dia bakal masuk surga atau neraka.
+> 
+> Jadi, tatkala manusia tanpa meraih nafs muthmainnah saja tidak dapat memperoleh kesucian penuh, dan tidak pula dia dapat masuk ke dalam surga, maka sekarang, tidak peduli apakah itu Arya atau Kristen, apakah memang suatu hal yang bijak jika sebelum meraih nafs [muthmainnah] itu mereka akan membiarkan serigala-serigala dan domba- domba berada di satu tempat yang sama? Apakah mereka berharap bahwa dengan demikian mereka akan menjalani kehidupan yang suci dan kehidupan tanpa keburukan?
+> 
+> Inilah rahasia yang terkandung di dalam sistim pardah Islami. Dan saya telah menerangkan hal ini secara khusus untuk orang-orang Islam yang tidak tahu-menahu tentang hukum-hukum serta hakikat Islam. Dan saya harap orang-orang [Hindu] Arya akan sangat sedikit mengambil manfaat dari ini, sebab mereka membenci setiap kebaikan yang berasal dari Islam.”  (Malfuzat, jld. VII, hlm. 134-138)
+
+Pada tanggal 17 Oktober 1904, sesudah shalat Maghrib di Qadian, Hadhrat Masih Mau'ud a.s. bersabda berkenaan dengan masalah Pardah. Sebagian orang membawa istri-istri mereka ke Lahore untuk berobat, dan akhirnya diketahui bahwa tidak ada perkembangan juga setelah ditangani oleh dokter-dokter perempuan. Oleh karena itu Hadhrat Masih Mau'ud a.s. bersabda:
+
+> Kaum perempuan mengalami beberapa penyakit yang pengobatannya membutuhkan udara segar. Oleh karena itu beberapa tokoh yang sangat ketat sekali menerapkan pardah (sistim pembatasan bagi kaum perempuan – pent.) saya menentangnya. Sebagian perempuan kadang-kadang perlu dibawa jalan-jalan di udara bebas. Lihat, Hadhrat Aisyah Shiddiqah r.a. biasa pergi ke luar di udara bebas untuk buang hajat. Apakah para istri tokoh-tokoh masa sekarang ini jauh lebih hebat dari beliau (s.a.w.)?” Malfuzat, jld. VII, hlm. 212-213
+
+Hadhrat Masih Mau'ud a.s. bersabda tentang Pardah Islam,
+
+> “Belakangan ini banyak dilancarkan kritik terhadap masalah pardah. Akan tetapi orang-orang ini tidak mengetahui bahwasanya yang dimaksud dengan “pardah Islam” itu bukanlah penjara, melainkan suatu penghalang (pembatasan) supaya  laki-laki dan perempuan yang bukan mahram tidak dapat melihat satu sama lainnya. Kalau pardah ditegakkan maa manusia tidak akan tergelincir.
+>
+> Seorang yang bersikap adil dapat mengatakan, bahwa di kalangan orang-orang dimana laki-laki dan perempuan yang bukan mahram tanpa sungkan serta tanpa segan dapat berjumpa atau berjalan-jalan, bagaimana mungkin secara mutlak mereka tidak akan tergelincir oleh dorongan nafsu?
+>
+> Kadang-kadang kita mendengar serta melihat bangsa-bangsa, yang menganggap bahwa laki-laki dan perempuan yang bukan mahram hidup bersama di satu rumah dalam kondisi pintu tertutup bukanlah suatu hal yang tercela. Seolah-olah ini merupakan suatu peradaban.
+>
+> Untuk membendung akibat-akibat buruk itulah maka Pembuat Syariat Islam melarang melakukan hal-hal yang dapat mengakibatkan ketergelinciran. Mengenai peristiwa-peristiwa seperti itu dikatakan, bahwa dimana ada berkumpul seorang laki-laki dan perempuan yang bukan mahram maka yang ketiganya adalah setan.  Perhatikanlah akibat-akibat buruk yang ditanggung oleh Eropa karena ajaran yang memutuskan tali hubungan dengan Tuhan itu.
+> 
+> Di beberapa tempat berlangsung kehidupan kotor yang benar-benar memalukan. Ini adalah akibat dari ajaran-ajaran tadi. Jika kalian ingin melindungi suatu benda dari  pengkhianatan maka jagalah dia. Akan tetapi jika kalian tidak menjaganya serta menganggap bahwa mereka adalah orang-orang yang beradab, maka ingatlah bahwa benda itu pasti hancur.
+>
+> Betapa sucinya ajaran Islam yang telah memisahkan laki-laki dan perempuan sehingga terhindar dari ketergelinciran, dan ia tidak mengharamkan serta mencemarkan kehidupan manusia – yang karena melakukan hal itulah Eropa telah menyaksikan hari-hari yang penuh dengan peperangan dan aksi bunuh-diri. Sebagian perempuan-perempuan baik telah menjalani kehidupan kotor. Ini adalah suatu dampak nyata karena adanya izin untuk memandang perempuan yang bukan mahram.” Malfuzat, jld I, hlm. 34-35 / Pidato Pertama Hadhrat Masih Mau’ud a.s. pada Jalsah Salanah, 25 Desember 1897
+
+Berkenaan dengan suara wanita dan memandang wanita yang bukan mahram, Hadhrat Masih Mau'ud a.s. bersabda,
+
+> Demikian pula mereka menjaga diri dari hal-hal yang bersifat fasiq (durhaka) dan jahat, serta dari pandangan-pandangan yang tidak suci serta dari suara-suara tidak suci yang berasal dari sajian nyanyian-nyanyian. Timbulnya pikiran buruk setelah mendengar suara dari pihak bukan-mahram merupakan perzinahan telinga. Oleh karena itu Islam telah  memberlakukan ketentuan pardah (tabir).
+> 
+> Ucapan Al-Masih a.s. (Nabi Isa a.s.) agar tidak memandang dengan pandangan zina bukanlah suatu ajaran sempurna. Sebaliknya ajaran sempurna yang menyelamatkan [manusia] dari sumber dosa adalah: "Katakanlah kepada orang laki-laki yang beriman: 'Hendaklah mereka menahan pandangannya'.” – QS An-Nur [24]: 31.
+>
+> Yakni, dengan pandangan apa pun hendaknya jangan dilihat, sebab kalbu tidak berada dalam ikhtiar kita. Betapa ini merupakan suatu ajaran yang sempurna. Malfuzat, jld. II, hlm. 199-200
+
+Hadhrat Masih Mau’ud _as_ memberitahukan mengenai cara dan mutu Hijab (pardah):
+
+> “Allah _Ta’ala_ berfirman, ‘Katakanlah kepada wanita‑wanita yang beriman supaya mereka menahan pandangan mereka dari laki‑laki yang bukan mahram. Dan begitu pula hendaknya memelihara telinga mereka, yaitu janganlah mereka men­dengar suara yang dapat membangkitkan syahwat, tutuplah bagian-bagian tubuh mereka yang merupakan aurat dan jangan menampakkan bagian keindahan mereka kepada yang bukan mahram. Dan kenakanlah kain kudungan demikian rupa sehingga menutup kepala sampai ke dadanya, yakni kedua daun telinga, kepala dan kedua belah pelipis tertutup kudungan semuanya. Dan janganlah menghentak-hentakkan kedua kaki seperti para penari. Inilah upaya yang dengan mengikutinya akan dapat menyelamatkan dari ketergelinciran.’" [[^fai_31-32]]
+
+[^fai_31-32]: [Filsafat Ajaran Islam h. 31-32](https://ahmadiyah.id/khotbah/berjuang-untuk-mencapai-akhlak-mulia-ajaran-islam)
+
+Hadhrat Khalifatul  Masih V atba bersabda tentang kewajiban melaksanakan perintah Al-Quran berkenaan Busana Muslimah (Hijab atau Pardah),
+
+> Allah Ta’ala, berfirman bahwa jika kalian mengaku beriman kepada Allah, dan mendakwakan beriman kepada Rasul-Nya, dan mendakwakan telah menerima dan telah menyatakan beriman kepada Hadhrat Masih Mau'ud a.s., dan jika kalian mendakwakan mengutamakan tuntutan agama di atas semua kekhawatiran duniawi, maka kalian harus mematuhi setiap perintah dan keputusan Allah dan Rasul-Nya. Apapun yang Imam Zaman beritahukan kepada kalian untuk melakukannya, kalian harus melaksanakannya. Dan kalian harus mengikuti semua petunjuk yang diberikan kepada kalian oleh Khalifahe-waqt. Dan jika kalian tidak melakukan ini, janji kalian dan membuat pernyataan besar bahwa kalian akan melakukan ini dan itu, akan menjadi tidak berarti. Allah mengetahui kondisi hati kalian. Dia tahu betul apa yang kalian katakan dan apa yang kalian lakukan. [[^kht20130524]]
+
+[^kht20130524]: [Khotbah Jumat Sayyidina Amirul Mu’minin Hadhrat Mirza Masroor Ahmad Khalifatul Masih al-Khaamis ayyadahullahu Ta’ala binashrihil ‘aziiz tanggal 24 Hijrah 1392 HS/Mei 2013 di Masjid an-Nur, Calgary, Kanada](https://ahmadiyah.id/wp-content/uploads/2017/02/mei-24-2013.pdf)
+
+Hadhrat Khalifatul  Masih V atba bersabda,
+
+> "Hijab (pardah) adalah hal penting terbesar diantara ajaran-ajaran yang Allah Ta’ala jelaskan guna menjaga kesucian dan kehormatan wanita. Jika ada wanita Ahmadi yang lemah dalam persyaratan yang disebutkan di atas, maka sangat disayangkan ia tidak hidup sesuai dengan janjinya. Seharusnya ketakutan terhadap masyarakat ataupun kenikmatan duniawi tidak membawa seorang Ahmadi jauh dari agamanya." [[^kht20160930]]
+
+[^kht20160930]: [Khotbah Jumat Sayyidina Amirul Mu’minin, Hadhrat Mirza Masrur Ahmad, Khalifatul Masih al-Khaamis ayyadahuLlahu Ta’ala binashrihil ‘aziiz 30 September 2016 di Baitul Futuh, UK.](https://www.alislam.org/archives/sermons/summary/FST20160930-ID.pdf)
+
+Hadhrat Khalifatul Masih V atba bersabda dalam Pidato Ijtima Lajnah Imaillah UK 2019,
+
+> "Terdapat juga perempuan yang mengenakan mantel atas nama pardah, tetapi mantel mereka begitu sempit sehingga tidak ubahnya seperti kemeja kulit yang ketat. Mantel yang memperlihatkan bentuk tubuh seperti itu tidak sesuai untuk perempuan atau gadis Muslim. Mantel yang dikenakan harus menutupi tubuh dan kain penutup kepala harus dikenakan dengan benar.
+>
+> Perhatikanlah selalu cara berpakaian kalian, supaya tidak ada yang bisa mempertanyakan kesopanan kalian, dan berbanggalah bahwa pardah merupakan sarana untuk memelihara kehormatan dan kesucian perempuan Muslim. Setiap laki-laki dan perempuan Ahmadi wajib berada dalam batasan-batasan yang telah ditetapkan dalam Islam. Batasan-batasan tersebut tidak ditetapkan oleh manusia melainkan Allah Taala lah yang menetapkan batasan-batasan tersebut.
+> 
+> Sebagian orang beranggapan bahwa Ahmadiyah lebih ketat daripada Islam. Hal ini keliru, karena Ahmadiyah dan Islam adalah satu, bukan dua hal yang berbeda. Standar pardah yang diajarkan Islam telah diatur dengan jelas di dalam Al-Qur’an. Jadi bacalah Al-Qur’an dengan penuh tadabur agar kalian paham mengenai standar etika berpakaian." [[^pidato_huzur_li_2019]]
+
+[^pidato_huzur_li_2019]: [Pidato Hazrat Mirza Masroor Ahmad pada Ijtima Lajnah Imaillah UK 2019](https://ahmadiyah.id/kehidupan-muslimah-dalam-masyarakat-modern.html)
+
+Berkenaan dengan "Khianat Mata", Hadhrat Khalifatul  Masih V atba bersabda,
+
+> Kemudian di dalam Al-Quran terdapat penggunaan kata-kata خَا ئِنَةٌ ا لْأ عْيُن (khaa-inatul ’ayun – [pandangan] mata yang khianat), yang maksudnya ialah menyoroti dengan pandangan tajam pada sesuatu yang tidak diizinkan, atau melihat suatu benda dengan sengaja sedemikian rupa yang dilarang untuk melihatnya. Dan ini disebut “khianat mata”. Pada khutbah yang lalu saya telah menyampaikan khutbah mengenai pardah. Maka di kalangan para wanita timbul keluhan (pengaduan) bahwa “Berkenaan dengan kami/para wanita banyak yang telah disampaikan, tetapi sebaliknya kepada kaum pria berkenaan dengan pardah tidak disampaikan apa-apa, sebab berkenaan dengan pardah kepada kaum priapun seyogianya disampaikan”. [[^kht20040206]]
+
+[^kht20040206]: [Khotbah Jumat Sayyidina Amirul Mu’minin, Hadhrat Mirza Masroor Ahmad, Khalifatul Masih al-Khaamis–ayyadahul-Laahu Ta’aalaa binashrihil-‘Aziiz 6 Februari 2004 di Baitul Futuh Morden, London](https://ahmadiyah.id/khotbah/2004-02-06-khianat-dan-pentingnya-menjaga-amanat)
+
+Hadhrat Khalifatul  Masih V atba bersabda,
+
+> "Satu lagi kegiatan lawan mencemarkan nama Islam dengan membangkitkan masalah Pardah. Adalah kewajiban anak-anak perempuan dan kaum Ibu Jema’at untuk menulis artikel-artikel tentang pardah dan kirim ke berbagai Surat Kabar setempat. Anak-anak perempuan dan Kaum Ibu di UK dan Germany telah melaksanakan hal itu dengan menulis artikel-artikel yang sangat baik sekali. Beritahu kepada dunia bahwa Pardah adalah untuk menjaga kehormatan kaum wanita. Pardah dipakai demi menegakkan kehormatan kaum wanita. Sudah menjadi watak kaum wanita bahwa mereka menghendaki agar kehormatan mereka dijaga melalui Pardah. Mereka mencintai Pardah. Kaum wanita mempunyai martabat dan demi memeliharanya mereka pertahankan penggunaan Pardah. Islam telah berjaya dalam membela kedudukan terhormat dan martabat kaum wanita. Pardah bukan paksaan terhadap kaum wanita untuk menggunakannya. Namun mereka sendiri sangat berkepentingan dengan Pardah bahkan Pardah untuk menegakkan identitas kaum wanita Islam. Saya ingin katakan kepada para wanita Ahmady agar jangan merasa risau dengan adanya pardah dipermasalahkan di tengah-tengah masyarakat. Jika kalian merasa risau dengan adanya propaganda anti pardah atau kalian terpengaruh oleh fesyen dan mengikuti tren lalu meninggalkan  pardah, maka tidak akan ada lagi jaminan terhadap kehormatan dan martabat kalian. Kehormatan dan martabat kalian sangat erat kaitannya dengan iman. Sudah pernah saya ceritakan peristiwa yang telah terjadi dikalangan orang-orang perempuan  Ahmady. Diantaranya seorang pegawai gadis Ahmady yang mendapat notice (peringatan) dari Bosnya bahwa, jika kamu datang ke kantor dengan memakai pardah akan saya keluarkan dari pekerjaan. Peringatan itu diberi waktu sebulan lamanya. Jika dalam tempo sebulan ia tidak meninggalkan pardah maka ia akan dibuang kerja (di keluarkan dari pekerjaan). Maka gadis Jema’at itu berdo’a kepada Allah swt_, Ya Allah aku memakai Pardah ini karena Engkau dan demi menta’ati perintah Engkau, ya Allah tolonglah daku, jika tempat kerja ini tidak baik bagiku, tolong sediakan tempat lain yang lebih baik bagiku.!!_ Selama satu bulan Bosnya itu terus-menerus mengancam sang gadis itu, katanya, tengoklah sekarang tinggal beberapa hari lagi kamu akan dikeluarkan dari pekrjaan ini karena kamu tidak mau melepaskan Pardah. Sang gadis Jema’at itu terus berdo’a kepada Allah swt setiap hari bahkan setiap waktu. Namun apa yang terjadi? Setelah waktu satu bulan berlalu, Bosnya itulah yang dipecat oleh atasannya karena suatu hal tertentu atau dia dipindahkan ke tempat lain dan gadis Jema’at itu selamat tidak dikeluarkan dan tetap didalam pekerjaannya karena Bosnya yang baru tidak mempermasalahkan Pardah. Jadi, jika niat manusia baik, Allah swt-pun menolongnya. Jika ia mempunyai hubungan erat dengan Allah swt maka Dia menjaganya sedemikian rupa hebatnya sehingga manusia lain-pun tercengang keheranan melihatnya sambil memuji keagungan Tuhan. [[^kht20100423]]
+
+[^kht20100423]: [Khutbah Jum’ah Hazrat Amirul Mu’minin Khalifatul Masih V atba. tanggal 23 April 2010  dari Masjid Noor, Swizerland](https://ahmadiyah.id/khotbah/upaya-menjadi-orang-bersyukur-kepada-allah-swt)
+
+### Catatan Kaki
