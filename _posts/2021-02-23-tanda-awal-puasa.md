@@ -36,7 +36,7 @@ Hendaknya, orang yang menyaksikan Hilal atau Bulan Baru, hendaknya ia bersaksi a
 
 Setelah orang badui tersebut bersumpah, maka Rasulullah saw memerintahkan kepada Hadhrat Bilal (ra) untuk mengumumkan kepada orang-orang agar besok mulai puasa Ramadhan. [[^hds-943da873-c75f-43f2-92c4-8b22ad52ce4e]]
 
-[^hds-943da873-c75f-43f2-92c4-8b22ad52ce4e]: [H.R. Abu Dawud, Kitab Puasa, Bab Kesaksian satu orang laki-laki untuk hilal Ramadan](ref/hds-943da873-c75f-43f2-92c4-8b22ad52ce4e)
+[^hds-943da873-c75f-43f2-92c4-8b22ad52ce4e]: [H.R. Abu Dawud, Kitab Puasa, Bab Kesaksian satu orang laki-laki untuk hilal Ramadan](/ref/hds-943da873-c75f-43f2-92c4-8b22ad52ce4e)
 
 ### Apa itu Hisab
 
