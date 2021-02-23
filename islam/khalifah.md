@@ -1,6 +1,7 @@
 ---
 title: Khalifah
 layout: default
+description: penjelasan tentang khalifah, gelar khalifah, khalifah sebelum umat islam, jenis-jenis khalifah, tugas khalifah, pemilihan khalifah, baiat kepada khalifah, dua khalifah dalam satu waktu
 ---
 
 ## {{page.title}}

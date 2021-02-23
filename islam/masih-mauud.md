@@ -1,6 +1,7 @@
 ---
 title: Al-Masih Al-Mau'ud
 layout: default
+description: penjelasan tentang almasih almau'ud, almasih yang dijanjikan Rasulullah saw
 ---
 
 ## {{page.title}}

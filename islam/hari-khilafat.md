@@ -1,6 +1,7 @@
 ---
 title: Hari Khilafat
 layout: default
+description: Penjelasan tentang hari khilafat, sejarah hari khilafat, yang dirayakan jemaat ahmadiyah setiap tanggal 27 mei
 ---
 
 ## {{page.title}}

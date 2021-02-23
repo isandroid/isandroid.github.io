@@ -1,6 +1,7 @@
 ---
 title: Khalifatul Masih
 layout: default
+description: penjelasan tentang khalifatul masih, khalifah ahmadiyah, khalifah setelah isa ibnu maryam yang dijanjikan
 ---
 
 ## {{page.title}}

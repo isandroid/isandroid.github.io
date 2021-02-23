@@ -1,6 +1,7 @@
 ---
 title: khalifaturrasul
 layout: default
+description: penjelasan tentang khalifah yang menggantikan seorang nabi atau rasul
 ---
 
 ## {{page.title}}

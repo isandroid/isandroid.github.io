@@ -1,6 +1,7 @@
 ---
 title: Khalifah Kerajaan
 layout: default
+description: penjelasan tentang khalifah yang bercorak kerajaan atau dinasti
 ---
 
 ## {{page.title}}

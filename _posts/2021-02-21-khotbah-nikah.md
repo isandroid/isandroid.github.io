@@ -2,6 +2,7 @@
 title: Khotbah Nikah
 layout: default
 tags: khotbah nikah
+description: contoh khotbah nikah sederhana
 ---
 
 # {{page.title}}

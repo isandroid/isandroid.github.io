@@ -1,6 +1,7 @@
 ---
 title: Istighfar
 layout: default
+description: penjelasan tentang istigfar, fungsi istigfar, istighfar para nabi, ayat-ayat istigfar, 
 ---
 
 ## Istighfar

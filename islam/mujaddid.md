@@ -1,6 +1,7 @@
 ---
 title: Mujaddid
 layout: default
+description: penjelasan tentang mujaddid, pembaharu, reformer
 ---
 
 ## {{page.title}}

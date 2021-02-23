@@ -2,6 +2,7 @@
 layout: default
 title:  "Ketaatan Kepada Khilafat dan Khalifah"
 tags: tafsirquran khilafat khilafah khalifah
+description: penjelasan tentang ketaatan kepada khilafat, ketaatan kepada khalifah
 ---
 
 ## Ketaatan Kepada Khilafat dan Khalifah

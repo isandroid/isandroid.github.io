@@ -1,6 +1,7 @@
 ---
 title: Imam Mahdi
 layout: default
+description: penjelasan tentang imam mahdi, almahdi, al-mahdi al-ma'hud
 ---
 
 ## {{page.title}}

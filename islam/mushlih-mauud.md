@@ -1,6 +1,7 @@
 ---
 title: Mushlih Mau'ud
 layout: default
+description: penjelasan tentang muhslih mau'ud, pembaharu yang dijanjikan, reformer yang dijanjikan
 ---
 
 ## {{page.title}}

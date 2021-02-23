@@ -1,6 +1,7 @@
 ---
 title: Khilafat
 layout: default
+description: penjelasan tentang khilafat, khilafah, kekhalifahan, sistem kekhalifahan, pentingnya khilafat, nubuwwatan khilafat
 ---
 
 ## {{page.title}}

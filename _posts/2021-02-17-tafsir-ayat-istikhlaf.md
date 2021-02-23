@@ -2,6 +2,7 @@
 layout: default
 title:  "Tafsir Ayat Istikhlaf"
 tags: tafsirquran khilafat khilafah
+description: tafsir alquran surat an-nur 24 ayat 56
 ---
 
 ## Tafsir Ayat Istikhlaf

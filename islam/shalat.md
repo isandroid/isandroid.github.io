@@ -1,6 +1,7 @@
 ---
 title: Shalat
 layout: default
+description: penjelasan tentang shalat
 ---
 
 ## {{page.title}}

@@ -1,6 +1,7 @@
 ---
 title: Islam
 layout: default
+description: halaman indeks
 ---
 
 # {{ page.title }}

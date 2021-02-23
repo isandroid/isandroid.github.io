@@ -1,6 +1,7 @@
 ---
 title: Pardah
 layout: default
+description: penjelasan tentang pardah, pembatasan pergaulan laki-laki dan perempuan, mahram, muhrim, aurat, cadar, jilbab, khimar, burkah, tabarruj, ikhtilath, farji
 ---
 
 # {{page.title}}

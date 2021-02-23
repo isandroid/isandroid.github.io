@@ -1,6 +1,7 @@
 ---
 title: Al-Masih
 layout: default
+description: penjelasan tentang al-masih, isa ibnu maryam, yesus
 ---
 
 ## {{page.title}}

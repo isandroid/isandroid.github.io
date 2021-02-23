@@ -1,6 +1,7 @@
 ---
 title: khalifatullah
 layout: default
+description: penjelasan tentang khalifatullah, para nabi, para rasul
 ---
 
 ## {{page.title}}

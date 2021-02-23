@@ -1,6 +1,7 @@
 ---
 title: Kudrat Kedua
 layout: default
+description: penjelasan tentang khalifah itu adalah kudrat kedua setelah kenabian
 ---
 
 ## {{page.title}}

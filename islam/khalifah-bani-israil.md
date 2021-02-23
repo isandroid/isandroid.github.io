@@ -1,6 +1,7 @@
 ---
 title: Khalifah Bani Israil
 layout: default
+description: penjelasan tentang khalifah bani israil
 ---
 
 ## {{page.title}}

@@ -2,6 +2,7 @@
 title: Bai'at
 layout: default
 Tags: baiat
+description: penjelasan tentang baiat, janji baiat, perintah baiat, contoh dan sunnah baiat, 10 syarat baiat dalam jemaat ahmadiyah, 10 janji baiat dalan jemaat ahmadiyah
 ---
 
 ## {{page.title}}

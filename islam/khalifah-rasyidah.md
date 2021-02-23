@@ -1,6 +1,7 @@
 ---
 title: Khalifah Rasyidah
 layout: default
+description: penjelasan tentang khalifah rasyidah, khalifah rasyidin, khulafaur-rasyidin
 ---
 
 ## {{page.title}}
