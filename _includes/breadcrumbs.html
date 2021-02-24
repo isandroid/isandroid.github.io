@@ -1,14 +1,19 @@
 {% assign crumbs = page.url | remove:'/index.html' | split: '/' %}
 <div itemscope itemtype="https://schema.org/BreadcrumbList" id="breadcrumbs">
-<span itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
-  <a itemprop="item" href="/"><span itemprop="name">Beranda</span></a>
-  <meta itemprop="position" content="0" />
-</span>{% for crumb in crumbs offset: 1 %}{% if forloop.last %} › 
-<span itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
-  <span itemprop="item" href="/"><span itemprop="name">{{ page.title }}</span></span>
-  <meta itemprop="position" content="{{ forloop.index }}" />
-</span>{% else %} › <span itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem"><a itemscope itemtype="https://schema.org/WebPage" itemprop="item" itemid="{% assign crumb_limit = forloop.index | plus: 1 %}{% for crumb in crumbs limit: crumb_limit %}{{ crumb | append: '/' | replace:'without-plugin/','without-plugins/' }}{% endfor %}" href="{% assign crumb_limit = forloop.index | plus: 1 %}{% for crumb in crumbs limit: crumb_limit %}{{ crumb | append: '/' | replace:'without-plugin/','without-plugins/' }}{% endfor %}">
-    <span itemprop="name">{{ crumb | remove:'.html' | capitalize }}</span></a>
-  <meta itemprop="position" content="{{ forloop.index }}" />
-</span>{% endif %}{% endfor %}
+  <span itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+    <a itemprop="item" href="/"><span itemprop="name">Beranda</span></a>
+    <meta itemprop="position" content="0" />
+  </span>{% for crumb in crumbs offset: 1 %}{% if forloop.last %} › 
+  <span itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+    <span itemprop="item">
+      <span itemprop="name">{{ page.title }}</span>
+    </span>
+    <meta itemprop="position" content="{{ forloop.index }}" />
+  </span>{% else %} › 
+  <span itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+    <a itemscope itemtype="https://schema.org/WebPage" itemprop="item" itemid="{% assign crumb_limit = forloop.index | plus: 1 %}{% for crumb in crumbs limit: crumb_limit %}{{ crumb | append: '/' | replace:'without-plugin/','without-plugins/' }}{% endfor %}" href="{% assign crumb_limit = forloop.index | plus: 1 %}{% for crumb in crumbs limit: crumb_limit %}{{ crumb | append: '/' | replace:'without-plugin/','without-plugins/' }}{% endfor %}">
+      <span itemprop="name">{{ crumb | remove:'.html' | capitalize }}</span>
+    </a>
+    <meta itemprop="position" content="{{ forloop.index }}" />
+  </span>{% endif %}{% endfor %}
 </div>
