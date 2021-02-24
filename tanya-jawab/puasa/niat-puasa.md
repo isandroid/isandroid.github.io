@@ -1,7 +1,8 @@
 ---
 title: Bagaimana Niat Puasa?
-layout: default
+layout: faq
 ---
+
 <div itemscope itemprop="mainEntity" itemtype="https://schema.org/Question" markdown="1">
 <h3 itemprop="name">Apakah Niat itu Perlu?</h3>
 <div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer" markdown="1">
