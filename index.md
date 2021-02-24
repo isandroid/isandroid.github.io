@@ -13,6 +13,8 @@ Selamat datang di pustaka pribadi milik Isa Mujahid Islam. Semoga bisa memberika
 
 - [Tag-tag Blog](/tag)
 
+- [Tanya-Jawab Puasa](/tanya-jawab/puasa)
+
 ### Blog
 
 <ul>

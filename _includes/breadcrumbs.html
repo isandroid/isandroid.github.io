@@ -1,11 +1,13 @@
 {% assign crumbs = page.url | remove:'/index.html' | split: '/' %}
 <div itemscope itemtype="https://schema.org/BreadcrumbList" id="breadcrumbs">
   <span itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
-    <a itemprop="item" href="/"><span itemprop="name">Beranda</span></a>
+    <a itemscope itemtype="https://schema.org/WebPage" itemprop="item" itemid="/" href="/">
+      <span itemprop="name">Beranda</span>
+    </a>
     <meta itemprop="position" content="0" />
   </span>{% for crumb in crumbs offset: 1 %}{% if forloop.last %} › 
   <span itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
-    <span itemscope itemtype="https://schema.org/WebPage" itemprop="item" itemid="{% assign crumb_limit = forloop.index | plus: 1 %}{% for crumb in crumbs limit: crumb_limit %}{{ crumb | append: '/' | replace:'without-plugin/','without-plugins/' }}{% endfor %}">
+    <span itemscope itemtype="https://schema.org/WebPage" itemprop="item" itemid="{% assign crumb_limit = forloop.index | plus: 1 %}{% for crumb in crumbs limit: crumb_limit %}{{ crumb | append: '/' | replace:'without-plugin/','without-plugins/' | remove_last: '/' }}{% endfor %}">
       <span itemprop="name">{{ page.title }}</span>
     </span>
     <meta itemprop="position" content="{{ forloop.index }}" />
