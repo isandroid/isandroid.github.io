@@ -20,6 +20,6 @@ Dalam Kamus Almaany, kata _mujaddid_ (مجدّد) disamakan dengan kata _Mushlih
 
 Diriwayatkan dari Abu Dawud, Rasulullah saw bersabda bahwa tiap seratus tahun diutus **mujaddid** untuk memperbaiki dan memelihara agama Islam dari kerusakan. [[^hds-2fea9c66-a792-4c16-8c8f-e9becda7e090]] 
 
-[^hds-2fea9c66-a792-4c16-8c8f-e9becda7e090]: [H.R. Abu Dawud, Kitab Peperangan Besar, Peristiwa dalam satu abad](ref-hds-2fea9c66-a792-4c16-8c8f-e9becda7e090)
+[^hds-2fea9c66-a792-4c16-8c8f-e9becda7e090]: [H.R. Abu Dawud, Kitab Peperangan Besar, Peristiwa dalam satu abad](/ref/hds-2fea9c66-a792-4c16-8c8f-e9becda7e090)
 
 ### Catatan Kaki
