@@ -4,7 +4,7 @@ layout: faq
 ---
 
 <div itemscope itemprop="mainEntity" itemtype="https://schema.org/Question" markdown="1">
-<h3 itemprop="name">Bagaimana doa buka puasa yang benar atau Sahih?</h3>
+<h3 itemprop="name" id="doa-buka-puasa-yang-benar-sahih">Bagaimana doa buka puasa yang benar atau Sahih?</h3>
 <div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer" markdown="1">
 <div itemprop="text" markdown="1">
 Doa buka puasa yang dicontohkan atau disunnahkan oleh Rasulullah (saw) adalah:

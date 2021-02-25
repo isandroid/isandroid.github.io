@@ -55,13 +55,14 @@ doa buka puasa yang benar
 doa berbuka puasa yang shahih
 doa buka puasa yang shahih
 
+mengapa perempuan yang sedang haid tidak boleh melaksanakan salat dan puasa
+mengapa perempuan yang sedang haid tidak boleh melaksanakan shalat dan puasa
+
 --- belum ---
 
 puasa arafah kapan
 puasa yang diharamkan
 yang termasuk puasa wajib adalah
-mengapa perempuan yang sedang haid tidak boleh melaksanakan salat dan puasa
-mengapa perempuan yang sedang haid tidak boleh melaksanakan shalat dan puasa
 yang termasuk rukun puasa adalah
 
 kapan puasa arafah 2020

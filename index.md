@@ -3,13 +3,15 @@ title: Beranda
 layout: default
 ---
 
-Selamat datang di pustaka pribadi milik Isa Mujahid Islam. Semoga bisa memberikan manfaat untuk kita semua.
+Selamat datang di pustaka daring pribadi milik Isa Mujahid Islam. Situs ini dibuat sebagai tempat untuk mengumpulkan bahan-bahan rujukan pribadi. Walaupun begitu, siapapun yang ingin mengambil manfaat dari situs ini, saya persilakan.
+
+Situs ini masih terus dalam pengembangan. Masih banyak kekurangan dimana-mana. Saya secara pribadi menerima masukan yang membangun demi sempurnanya situs ini.
 
 ### Menu Istimewa
 
 - [Islam](/islam)
 
-- [Referensi](/ref)
+- [Referensi Internal](/ref)
 
 - [Tag-tag Blog](/tag)
 

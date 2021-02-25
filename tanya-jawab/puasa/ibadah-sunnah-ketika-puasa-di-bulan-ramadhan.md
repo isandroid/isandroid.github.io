@@ -4,7 +4,7 @@ layout: faq
 ---
 
 <div itemscope itemprop="mainEntity" itemtype="https://schema.org/Question" markdown="1">
-<h3 itemprop="name">Apa contoh ibadah sunnah yang dilakukan pada saat puasa di bulan ramadan?</h3>
+<h3 itemprop="name" id="contoh-ibadah-sunnah-saat-puasa">Apa contoh ibadah sunnah yang dilakukan pada saat puasa di bulan ramadan?</h3>
 <div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer" markdown="1">
 <div itemprop="text" markdown="1">
 Beberapa ibadah sunnah yang disunnahkan oleh Rasulullah saw adalah:

@@ -25,7 +25,7 @@
 <meta name="twitter:creator" content="@Isa Mujahid Islam" />
 <meta name="google-site-verification" content="axYmCzFKvYf0k574bQ6rSFmv5xuDDmVMjU7oOOTr20M" />
 <script type="application/ld+json">
-{"@type":"WebPage","publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"https://pustaka.isa.web.id/assets/images/logo.jpg"},"name":"Isa Mujahid Islam"},"headline":"Apa Hal yang Membatalkan Puasa?","url":"https://pustaka.isa.web.id/tanya-jawab/puasa/yang-membatalkan-puasa.html","author":{"@type":"Person","name":"Isa Mujahid Islam"},"description":"Pustaka Pribadi Isa Mujahid Islam","@context":"https://schema.org"}</script>
+{"@type":"WebPage","publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"https://pustaka.isa.web.id/assets/images/logo.jpg"},"name":"Isa Mujahid Islam"},"url":"https://pustaka.isa.web.id/tanya-jawab/puasa/yang-membatalkan-puasa.html","author":{"@type":"Person","name":"Isa Mujahid Islam"},"description":"Pustaka Pribadi Isa Mujahid Islam","headline":"Apa Hal yang Membatalkan Puasa?","@context":"https://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
   
@@ -41,6 +41,30 @@
     gtag('config', 'G-G2Y182KL54');
   </script>
   
+
+  <!-- HEADER LINK ANCHOR -->
+  <link href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+
+<style type="text/css">
+	.header-link {
+	  position: absolute;
+	  left: -0.5em;
+	  opacity: 0;
+
+	  \-webkit-transition: opacity 0.2s ease-in-out 0.1s;
+	  \-moz-transition: opacity 0.2s ease-in-out 0.1s;
+	  \-ms-transition: opacity 0.2s ease-in-out 0.1s;
+	}
+
+	h2:hover .header-link,
+	h3:hover .header-link,
+	h4:hover .header-link,
+	h5:hover .header-link,
+	h6:hover .header-link {
+	  opacity: 1;
+	}
+</style>  
   </head>
 
   <body>
@@ -84,7 +108,7 @@
   </span>
 </div>
         <div itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
-  <h3 itemprop="name">Hal apa saja yang membatalkan puasa?</h3>
+  <h3 itemprop="name" id="yang-membatalkan-puasa">Hal apa saja yang membatalkan puasa?</h3>
   <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
     <div itemprop="text">
 
@@ -112,6 +136,9 @@
         <li>
           <p>Menerima suntikan obat,</p>
         </li>
+        <li>
+          <p>Keluar dari Islam (murtad).</p>
+        </li>
       </ul>
 
       <p>Penjelasan Selengkapnya, silakan baca <a href="/2021/02/23/yang-membatalkan-puasa.html">di sini</a></p>
@@ -120,7 +147,7 @@
 </div>
 
 <div itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
-  <h3 itemprop="name">Apa Hukuman bagi yang membatalkan puasa secara sengaja?</h3>
+  <h3 itemprop="name" id="apa-hukuman-bagi-yang-membatalkan-puasa-secara-sengaja">Apa Hukuman bagi yang membatalkan puasa secara sengaja?</h3>
   <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
     <div itemprop="text">
 
@@ -144,7 +171,7 @@
 </div>
 
 <div itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question">
-  <h3 itemprop="name">Bagaimana cara mengganti puasa suami istri yang berhubungan pada siang hari?</h3>
+  <h3 itemprop="name" id="bagaimana-cara-mengganti-puasa-suami-istri-yang-berhubungan-pada-siang-hari">Bagaimana cara mengganti puasa suami istri yang berhubungan pada siang hari?</h3>
   <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
     <div itemprop="text">
       <p>Bagi suami-istri yang melakukan hubungan suami istri ketika puasa, maka Rasulullah (saw) memberi petunjuk untuk melaksanakan salah satu dari antara hal berikut:</p>
@@ -166,7 +193,6 @@
   </div>
 </div>
 
-
       </section>
     </div>
     <!-- FOOTER  -->
@@ -176,4 +202,18 @@
       </footer>
     </div>
   </body>
+  <!-- HEADER LINK ANCHOR -->
+  <script>
+$(function() {
+  return $("h2, h3, h4, h5, h6").each(function(i, el) {
+    var $el, icon, id;
+    $el = $(el);
+    id = $el.attr('id');
+    icon = '<i class="fa fa-link"></i>';
+    if (id) {
+      return $el.prepend($("<a />").addClass("header-link").attr("href", "#" + id).html(icon));
+    }
+  });
+});
+</script>
 </html>

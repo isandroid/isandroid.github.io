@@ -4,7 +4,7 @@ layout: faq
 ---
 
 <div itemscope itemprop="mainEntity" itemtype="https://schema.org/Question" markdown="1">
-<h3 itemprop="name">Mengapa perempuan yang sedang haid tidak boleh melaksanakan salat dan puasa?</h3>
+<h3 itemprop="name" id="kenapa-perempuan-haid-tidak-boleh-salat-puasa">Kenapa perempuan yang sedang haid tidak boleh melaksanakan salat dan puasa?</h3>
 <div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer" markdown="1">
 <div itemprop="text" markdown="1">
 Wanita atau perempuan yang mengalami haid, secara syariat sedang dalam keadaan tidak suci atau kotor. [[^majah_thaharah]] Islam telah melarang orang yang sedang haid dan nifas untuk tidak melaksanakan: 
@@ -33,7 +33,7 @@ Wanita atau perempuan yang mengalami haid, secara syariat sedang dalam keadaan t
 [^majah_thaharah]: <https://www.hadits.id/hadits/majah/636>
 
 <div itemscope itemprop="mainEntity" itemtype="https://schema.org/Question" markdown="1">
-<h3 itemprop="name">Apa yang boleh dilakukan wanita haid</h3>
+<h3 itemprop="name" id="yang-boleh-dilakukan-wanita-haid">Apa yang boleh dilakukan wanita haid?</h3>
 <div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer" markdown="1">
 <div itemprop="text" markdown="1">
 Beberapa yang boleh dilakukan wanita haid diantaranya:

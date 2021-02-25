@@ -4,7 +4,7 @@ layout: faq
 ---
 
 <div itemscope itemprop="mainEntity" itemtype="https://schema.org/Question" markdown="1">
-<h3 itemprop="name">Hal apa saja yang membatalkan puasa?</h3>
+<h3 itemprop="name" id="yang-membatalkan-puasa">Hal apa saja yang membatalkan puasa?</h3>
 <div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer" markdown="1">
 <div itemprop="text" markdown="1">
 
@@ -24,6 +24,8 @@ Beberapa hal yang membatalkan puasa, yaitu:
 
 - Menerima suntikan obat,
 
+- Keluar dari Islam (murtad).
+
 Penjelasan Selengkapnya, silakan baca [di sini](/2021/02/23/yang-membatalkan-puasa.html)
 </div>
 </div>
@@ -31,7 +33,7 @@ Penjelasan Selengkapnya, silakan baca [di sini](/2021/02/23/yang-membatalkan-pua
 
 
 <div itemscope itemprop="mainEntity" itemtype="https://schema.org/Question" markdown="1">
-<h3 itemprop="name">Apa Hukuman bagi yang membatalkan puasa secara sengaja?</h3>
+<h3 itemprop="name" id="apa-hukuman-bagi-yang-membatalkan-puasa-secara-sengaja">Apa Hukuman bagi yang membatalkan puasa secara sengaja?</h3>
 <div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer" markdown="1">
 <div itemprop="text" markdown="1">
 
@@ -49,7 +51,7 @@ Penjelasan selengkapnya, silakan baca [di sini](/2021/02/23/yang-membatalkan-pua
 </div>
 
 <div itemscope itemprop="mainEntity" itemtype="https://schema.org/Question" markdown="1">
-<h3 itemprop="name">Bagaimana cara mengganti puasa suami istri yang berhubungan pada siang hari?</h3>
+<h3 itemprop="name" id="bagaimana-cara-mengganti-puasa-suami-istri-yang-berhubungan-pada-siang-hari">Bagaimana cara mengganti puasa suami istri yang berhubungan pada siang hari?</h3>
 <div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer" markdown="1">
 <div itemprop="text" markdown="1">
 Bagi suami-istri yang melakukan hubungan suami istri ketika puasa, maka Rasulullah (saw) memberi petunjuk untuk melaksanakan salah satu dari antara hal berikut:
@@ -64,4 +66,3 @@ Penjelasan selengkapnya, silakan baca [di sini](/2021/02/23/yang-membatalkan-pua
 </div>
 </div>
 </div>
-
