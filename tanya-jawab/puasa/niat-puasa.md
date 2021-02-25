@@ -7,7 +7,7 @@ layout: faq
 <h3 itemprop="name">Apakah Niat itu Perlu?</h3>
 <div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer" markdown="1">
 <div itemprop="text" markdown="1">
-Rasulullah saw bersabda bahwa segala amal itu akan diberikan balasan atau ganjaran tergantung kepada niatnya. [[^hds-dc58f8af-183c-465d-9af7-fe9ef8ca3d9a]] Dan manusia akan dikumpulkan sesuai dengan niat mereka masing-masing. [[^hds-0942d331-3ad5-4a79-851b-b6e9521d5c49]]
+Rasulullah saw bersabda bahwa segala amal itu akan diberikan balasan atau ganjaran tergantung kepada niatnya. [[^hds-dc58f8af-183c-465d-9af7-fe9ef8ca3d9a]] Dan manusia akan dikumpulkan sesuai dengan niat mereka masing-masing. [[^hds-0942d331-3ad5-4a79-851b-b6e9521d5c49]] Jadi niat merupakan salah satu dari syarat bahwa puasa bisa sah.
 </div>
 </div>
 </div>
