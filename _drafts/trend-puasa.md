@@ -47,34 +47,33 @@ hal-hal yang dapat membatalkan puasa
 hal-hal yang membatalkan puasa beserta penjelasannya
 apa saja yang dapat membatalkan puasa
 
---- belum ---
-kapan puasa 2020
-kapan puasa
 puasa sunnah yang dilaksanakan enam hari setelah hari raya idul fitri adalah puasa
+
+cara mengganti puasa suami istri yang berhubungan pada siang hari
+
 doa buka puasa yang benar
 doa berbuka puasa yang shahih
-kapan mulai puasa 2020
+doa buka puasa yang shahih
+
+--- belum ---
+
 puasa arafah kapan
 puasa yang diharamkan
 yang termasuk puasa wajib adalah
 mengapa perempuan yang sedang haid tidak boleh melaksanakan salat dan puasa
-yang termasuk rukun puasa adalah
-kapan mulai puasa
-kapan puasa syawal 2020
-puasa kapan
-doa buka puasa yang shahih
 mengapa perempuan yang sedang haid tidak boleh melaksanakan shalat dan puasa
+yang termasuk rukun puasa adalah
+
 kapan puasa arafah 2020
 puasa dzulhijjah kapan
 yang termasuk syarat wajib puasa adalah
-sekarang puasa apa
+
 apa saja syarat wajib puasa
 sebutkan 3 contoh ibadah sunnah yang dilakukan pada saat puasa di bulan ramadan
 kapan puasa tahun 2020
 kapan puasa arafah
 kapan kita puasa
 yang termasuk syarat sah puasa adalah
-cara mengganti puasa suami istri yang berhubungan pada siang hari
 bagaimana hukum puasa bagi orang yang sudah sangat tua
 hari yang diharamkan puasa
 hari ini puasa apa

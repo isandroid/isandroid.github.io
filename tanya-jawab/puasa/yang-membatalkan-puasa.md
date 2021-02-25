@@ -24,11 +24,11 @@ Beberapa hal yang membatalkan puasa, yaitu:
 
 - Menerima suntikan obat,
 
+Penjelasan Selengkapnya, silakan baca [di sini](/2021/02/23/yang-membatalkan-puasa.html)
 </div>
 </div>
 </div>
 
-**Selengkapnya**, silakan baca [di sini](/2021/02/23/yang-membatalkan-puasa.html)
 
 <div itemscope itemprop="mainEntity" itemtype="https://schema.org/Question" markdown="1">
 <h3 itemprop="name">Apa Hukuman bagi yang membatalkan puasa secara sengaja?</h3>
@@ -43,8 +43,25 @@ Jika seseorang sengaja membatalkan puasa, maka sebenarnya ia tidak bisa menggant
 
 - Memberi makan enam puluh orang miskin,
 
+Penjelasan selengkapnya, silakan baca [di sini](/2021/02/23/yang-membatalkan-puasa.html#berhubungan-suami-istri)
 </div>
 </div>
 </div>
 
-**Selengkapnya**, silakan baca [di sini](/2021/02/23/yang-membatalkan-puasa.html#berhubungan-suami-istri)
+<div itemscope itemprop="mainEntity" itemtype="https://schema.org/Question" markdown="1">
+<h3 itemprop="name">Bagaimana cara mengganti puasa suami istri yang berhubungan pada siang hari?</h3>
+<div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer" markdown="1">
+<div itemprop="text" markdown="1">
+Bagi suami-istri yang melakukan hubungan suami istri ketika puasa, maka Rasulullah (saw) memberi petunjuk untuk melaksanakan salah satu dari antara hal berikut:
+
+- Membebaskan seorang budak,
+
+- Berpuasa dua bulan berturut-turut,
+
+- Memberi makan enam puluh orang miskin,
+
+Penjelasan selengkapnya, silakan baca [di sini](/2021/02/23/yang-membatalkan-puasa.html#berhubungan-suami-istri)
+</div>
+</div>
+</div>
+
