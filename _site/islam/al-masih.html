@@ -25,7 +25,7 @@
 <meta name="twitter:creator" content="@Isa Mujahid Islam" />
 <meta name="google-site-verification" content="axYmCzFKvYf0k574bQ6rSFmv5xuDDmVMjU7oOOTr20M" />
 <script type="application/ld+json">
-{"@type":"WebPage","publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"https://pustaka.isa.web.id/assets/images/logo.jpg"},"name":"Isa Mujahid Islam"},"url":"https://pustaka.isa.web.id/islam/al-masih.html","author":{"@type":"Person","name":"Isa Mujahid Islam"},"description":"penjelasan tentang al-masih, isa ibnu maryam, yesus","headline":"Al-Masih","@context":"https://schema.org"}</script>
+{"@type":"WebPage","publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"https://pustaka.isa.web.id/assets/images/logo.jpg"},"name":"Isa Mujahid Islam"},"headline":"Al-Masih","url":"https://pustaka.isa.web.id/islam/al-masih.html","author":{"@type":"Person","name":"Isa Mujahid Islam"},"description":"penjelasan tentang al-masih, isa ibnu maryam, yesus","@context":"https://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
   
@@ -41,6 +41,30 @@
     gtag('config', 'G-G2Y182KL54');
   </script>
   
+
+  <!-- HEADER LINK ANCHOR -->
+  <link href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+
+<style type="text/css">
+	.header-link {
+	  position: absolute;
+	  left: -0.5em;
+	  opacity: 0;
+
+	  \-webkit-transition: opacity 0.2s ease-in-out 0.1s;
+	  \-moz-transition: opacity 0.2s ease-in-out 0.1s;
+	  \-ms-transition: opacity 0.2s ease-in-out 0.1s;
+	}
+
+	h2:hover .header-link,
+	h3:hover .header-link,
+	h4:hover .header-link,
+	h5:hover .header-link,
+	h6:hover .header-link {
+	  opacity: 1;
+	}
+</style>
   </head>
 
   <body>
@@ -109,4 +133,18 @@
       </footer>
     </div>
   </body>
+  <!-- HEADER LINK ANCHOR -->
+  <script>
+$(function() {
+  return $("h2, h3, h4, h5, h6").each(function(i, el) {
+    var $el, icon, id;
+    $el = $(el);
+    id = $el.attr('id');
+    icon = '<i class="fa fa-link"></i>';
+    if (id) {
+      return $el.prepend($("<a />").addClass("header-link").attr("href", "#" + id).html(icon));
+    }
+  });
+});
+</script>
 </html>

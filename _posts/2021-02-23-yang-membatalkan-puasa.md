@@ -9,7 +9,7 @@ description: penjelasan tentang makna puasa
 
 Beberapa hal yang membatalkan puasa adalah:
 
-#### [Sengaja Makan dan minum Ketika Puasa](#makan-minum)
+#### Sengaja Makan dan minum Ketika Puasa {#makan-minum}
 
 Allah Ta'ala berfirman, 
 
@@ -19,13 +19,13 @@ Allah Ta'ala berfirman,
 
 Sudah jelas didalam Alquran bahwa makan dan minum ketika puasa tidak diperbolehkan; harus menunggu sampai malam (matahari tenggelam).
 
-#### [Muntah dengan Disengaja](#muntah-disengaja)
+#### Muntah dengan Disengaja {#muntah-disengaja}
 
 Dalam hadits yang diriwayatkan Abu Dawud diterangkan bahwa seseorang yang muntah dengan disengaja, maka ia wajib mengganti puasanya. [[^hds-e5c60bbb-73b8-42c9-8d7f-f7b841ee9426]]
 
 [^hds-e5c60bbb-73b8-42c9-8d7f-f7b841ee9426]: [H.R. Abu Dawud, Kitab Puasa, Bab Orang yang berpuasa muntah dengan sengaja](/ref/hds-e5c60bbb-73b8-42c9-8d7f-f7b841ee9426)
 
-#### [Berhubungan Suami-Istri Ketika Puasa](#berhubungan-suami-istri)
+#### Berhubungan Suami-Istri Ketika Puasa {#berhubungan-suami-istri}
 
 Allah Ta'ala berfirman,
 
@@ -45,7 +45,7 @@ Jadi jelas bahwa berhubungan suami-istri ketika puasa akan membatalkan puasa dan
 
 [^hds-30c34724-efe2-4b21-b872-ea0404803a21]: [H.R. Al-Bukhari, Kitab Kafarat sumpah, Membayar kaffarat sepuluh orang miskin, dekat maupun jauh](/ref/hds-30c34724-efe2-4b21-b872-ea0404803a21)
 
-#### [Keluar darah Haid atau Nifas](#haid-dan-nifas)
+#### Keluar darah Haid atau Nifas {#haid-dan-nifas} 
 
 Dalam hadits riwayat Bukhari diterangkan bahwa Rasulullah (saw) bersabda bahwa apabila seorang wanita sedang mengalami haidh maka dia tidak boleh melaksanakan shalat dan tidak juga melaksanakan puasa. [[^hds-ae007516-7437-4763-9569-bbb97de919f6]] Akan tetapi bagi wanita, tetap diperintahkan mengganti puasa Ramadhan di bulan lainnya tetapi tidak diperintahkan mengganti shalat yang ditinggalkan itu. [[^hds-91b4745a-e632-43ad-a2ef-f934b543f6a3]]
 
@@ -53,19 +53,19 @@ Dalam hadits riwayat Bukhari diterangkan bahwa Rasulullah (saw) bersabda bahwa a
 
 [^hds-91b4745a-e632-43ad-a2ef-f934b543f6a3]: [H.R. Muslim, Kitab Haid, Bab Wanita haid wajib mengqadla puasa, dan bukan shalat](/ref/hds-ae007516-7437-4763-9569-bbb97de919f6)
 
-#### [Menghirup Air Terlalu Dalam Ketika Berwudhu](#menghirup-air-terlalu-dalam)
+#### Menghirup Air Terlalu Dalam Ketika Berwudhu {#menghirup-air-terlalu-dalam}
 
 Menyempurnakan wudhu adalah perkara yang disunnahkan. Akan tetapi ada satu sunnah wudhu yang Rasulullah (saw) melarang untuk melakukannya ketika puasa karena bisa membatalkan puasa, yaitu memasukkan air ke hidung (istinsyaq) [[^hds-4d471468-16ab-4e5b-9b92-dba89aac5cce]]
 
 [^hds-4d471468-16ab-4e5b-9b92-dba89aac5cce]: [H.R. At-Tirmidzi, Kitab Puasa, Bab Dimakruhkan orang yang puasa berlebihan memasukkan air ke hidung](/ref/hds-4d471468-16ab-4e5b-9b92-dba89aac5cce)
 
-#### [Menerima Tranfusi Darah](#menerima-transfusi-darah)
+#### Menerima Tranfusi Darah {#menerima-transfusi-darah}
 
 Berdasarkan hadits mengenai larangan memasukkan sesuatu ke dalam mulut atau hidung, maka diqiyaskan (diasumsikan) bahwa apapun yang masuk ke dalam tubuh bisa membatalkan puasa, termasuk menerima transfusi (darah, obat maupun infus).
 
 Kita mengetahui bahwa orang yang harus mendapatkan transfusi darah adalah merupakan orang yang sedang sakit. Dan orang yang sakit diperintahkan membatalkan puasanya dan menggantinya nanti di lain hari.
 
-#### [Menerima suntikan obat](#menerima-suntikan)
+#### Menerima suntikan obat {#menerima-suntikan}
 
 Hukum menerima suntikan adalah sama dengan hukum menerima transfusi darah
 
