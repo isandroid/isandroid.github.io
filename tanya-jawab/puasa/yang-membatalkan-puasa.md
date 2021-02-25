@@ -24,10 +24,11 @@ Beberapa hal yang membatalkan puasa, yaitu:
 
 - Menerima suntikan obat,
 
-Selengkapnya, silakan baca [di sini](/2021/02/23/yang-membatalkan-puasa.html)
 </div>
 </div>
 </div>
+
+**Selengkapnya**, silakan baca [di sini](/2021/02/23/yang-membatalkan-puasa.html)
 
 <div itemscope itemprop="mainEntity" itemtype="https://schema.org/Question" markdown="1">
 <h3 itemprop="name">Apa Hukuman bagi yang membatalkan puasa secara sengaja?</h3>
@@ -42,7 +43,8 @@ Jika seseorang sengaja membatalkan puasa, maka sebenarnya ia tidak bisa menggant
 
 - Memberi makan enam puluh orang miskin,
 
-Selengkapnya, silakan baca [di sini](/2021/02/23/yang-membatalkan-puasa.html#berhubungan-suami-istri)
 </div>
 </div>
 </div>
+
+**Selengkapnya**, silakan baca [di sini](/2021/02/23/yang-membatalkan-puasa.html#berhubungan-suami-istri)

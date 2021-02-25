@@ -2,7 +2,7 @@
 title: Ceramah Hari 21 - Perkara yang Membatalkan Puasa
 layout: default
 tags: puasa ramadhan
-description: penjelasan tentang makna puasa
+description: penjelasan tentang hal-hal yang membatalkan puasa
 ---
 
 ## {{ page.title }}

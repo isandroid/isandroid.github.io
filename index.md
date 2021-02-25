@@ -18,7 +18,8 @@ Selamat datang di pustaka pribadi milik Isa Mujahid Islam. Semoga bisa memberika
 ### Blog
 
 <ul>
-  {% for post in site.posts %}
+  {% assign sorted = site.posts | sort: 'title' %}
+  {% for post in sorted %}
     <li class="spasi">
       <a href="{{ post.url }}">{{ post.title }}</a>
     </li>

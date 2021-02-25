@@ -6,6 +6,8 @@ description: halaman indeks tanya-jawab
 
 # {{ page.title }}
 
+- [Tanya-Jawab Puasa](/tanya-jawab/puasa/)
+
 {% assign pages = site.pages | sort: 'title' %}
 
 <ul>
