@@ -60,11 +60,13 @@ mengapa perempuan yang sedang haid tidak boleh melaksanakan shalat dan puasa
 
 apa saja syarat wajib puasa
 yang termasuk syarat sah puasa adalah
+
+yang termasuk puasa wajib adalah
+
 --- belum ---
 
 puasa arafah kapan
 puasa yang diharamkan
-yang termasuk puasa wajib adalah
 yang termasuk rukun puasa adalah
 
 kapan puasa arafah 2020
@@ -85,11 +87,15 @@ menu berbuka puasa yang sehat
 
 --- user questions ---
 
+### sudah ###
+
 - umay: Batasan sakit seperti apa untuk orang tidak wajib puasa? Misal, apakah sakit karena terpukul (sengaja/tidak), itu boleh tidak puasa?
+
+### Belum ###
 
 - saima: puasa qodho
 
-- saima: Apa saja keringanan bagi yang hamil / menyusui untuk tidak berpuasa . Karena masih ada pro kontra secara medis ada yg di perbolehkan puasa ada yang tidak.  Sehingga menimbulkan pemikiran bagi beberapa org , bahwa yang melewatkan puasa itu sangat merugi bahkan sedang hamil / menyusui sekalipun .
+- saima: Apa saja keringanan bagi yang hamil / menyusui untuk tidak berpuasa . Karena masih ada pro kontra secara medis ada yg di perbolehkan puasa ada yang tidak.  Sehingga menimbulkan pemikiran bagi beberapa org, bahwa yang melewatkan puasa itu sangat merugi bahkan sedang hamil / menyusui sekalipun .
 
 - saima: Jika ibu hamil / menyusui sudah bayar fidyah, apakah masih harus mengganti puasanya di kemudian hari ?
 
@@ -97,4 +103,4 @@ menu berbuka puasa yang sehat
 
 PERTANYAAN:
 
-Bagaimana ya enaknya menjelaskan bahwa praktik Puasa itu mensyaratkan la‘allakum tattaqūn, i.e. kematangan mental dan fisik❔
+Bagaimana ya enaknya menjelaskan bahwa praktik Puasa itu mensyaratkan la‘allakum tattaqūn, i.e. kematangan mental dan fisik?
