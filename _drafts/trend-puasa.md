@@ -84,6 +84,13 @@ kapan puasa asyura 2020
 makanan yang cocok dijual saat bulan puasa
 menu berbuka puasa yang sehat
 
+--- dibutuhkan google ---
+
+rukun puasa
+pengertian puasa
+macam-macam puasa
+puasa ayyamul bidh adalah
+puasa rajab
 
 --- user questions ---
 
@@ -91,13 +98,13 @@ menu berbuka puasa yang sehat
 
 - umay: Batasan sakit seperti apa untuk orang tidak wajib puasa? Misal, apakah sakit karena terpukul (sengaja/tidak), itu boleh tidak puasa?
 
+- saima: Apa saja keringanan bagi yang hamil/menyusui untuk tidak berpuasa . Karena masih ada pro kontra secara medis ada yg di perbolehkan puasa ada yang tidak.  Sehingga menimbulkan pemikiran bagi beberapa org, bahwa yang melewatkan puasa itu sangat merugi bahkan sedang hamil / menyusui sekalipun .
+
+- saima: Jika ibu hamil / menyusui sudah bayar fidyah, apakah masih harus mengganti puasanya di kemudian hari ?
+
 ### Belum ###
 
 - saima: puasa qodho
-
-- saima: Apa saja keringanan bagi yang hamil / menyusui untuk tidak berpuasa . Karena masih ada pro kontra secara medis ada yg di perbolehkan puasa ada yang tidak.  Sehingga menimbulkan pemikiran bagi beberapa org, bahwa yang melewatkan puasa itu sangat merugi bahkan sedang hamil / menyusui sekalipun .
-
-- saima: Jika ibu hamil / menyusui sudah bayar fidyah, apakah masih harus mengganti puasanya di kemudian hari ?
 
 - rahmat ali: Anak-anak dan usia dibawah 18 tahun tidak sedikit ada yang bersemangat untuk berpuasa full Ramadhan.
 

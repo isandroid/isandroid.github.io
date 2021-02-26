@@ -13,7 +13,7 @@ Allah Ta'ala berfirman,
 
 Artinya: “Hai orang-orang yang beriman, puasa diwajibkan atasmu sebagaimana telah diwajibkan atas orang-orang sebelummu, supaya kamu terpelihara dari keburukan rohani dan jasmani.” [(QS Albaqarah [2]: 184 dengan basmallah)](https://www.alislam.org/quran/2:184)
 
-### Definisi Puasa
+### Pengertian Puasa
 
 Dalam bahasa arab, puasa itu memakai dua macam kata:
 
