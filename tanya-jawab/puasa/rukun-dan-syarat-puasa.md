@@ -23,7 +23,7 @@ Yang merupakan rukun puasa itu adalah:
 - Penjelasan tentang hal-hal yang membatalkan puasa, silakan baca [di sini](/2021/02/23/yang-membatalkan-puasa.html)
 
 <div itemscope itemprop="mainEntity" itemtype="https://schema.org/Question" markdown="1">
-<h3 itemprop="name" id="apa-syarat-wajib-puasa">Apa syarat wajib puasa</h3>
+<h3 itemprop="name" id="apa-syarat-wajib-puasa">Apa saja syarat wajib puasa?</h3>
 <div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer" markdown="1">
 <div itemprop="text" markdown="1">
 Syarat-syarat yang menjadikan puasa itu menjadi wajib bagi seseorang adalah sebagai berikut,
@@ -40,10 +40,10 @@ Syarat-syarat yang menjadikan puasa itu menjadi wajib bagi seseorang adalah seba
 </div>
 
 <div itemscope itemprop="mainEntity" itemtype="https://schema.org/Question" markdown="1">
-<h3 itemprop="name" id="apa-syarat-sah-puasa">Apa syarat sah puasa?</h3>
+<h3 itemprop="name" id="apa-syarat-sah-puasa">Apa yang termasuk syarat sah puasa?</h3>
 <div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer" markdown="1">
 <div itemprop="text" markdown="1">
-Hal-hal yang menentukan puasa kita sah atau tidak secara hukum syariat adalah sebagai berikut,
+Hal-hal yang menentukan puasa kita sah atau tidak adalah sebagai berikut,
 
 1. Beragama Islam
 

@@ -58,6 +58,8 @@ doa buka puasa yang shahih
 mengapa perempuan yang sedang haid tidak boleh melaksanakan salat dan puasa
 mengapa perempuan yang sedang haid tidak boleh melaksanakan shalat dan puasa
 
+apa saja syarat wajib puasa
+yang termasuk syarat sah puasa adalah
 --- belum ---
 
 puasa arafah kapan
@@ -69,12 +71,10 @@ kapan puasa arafah 2020
 puasa dzulhijjah kapan
 yang termasuk syarat wajib puasa adalah
 
-apa saja syarat wajib puasa
 sebutkan 3 contoh ibadah sunnah yang dilakukan pada saat puasa di bulan ramadan
 kapan puasa tahun 2020
 kapan puasa arafah
 kapan kita puasa
-yang termasuk syarat sah puasa adalah
 bagaimana hukum puasa bagi orang yang sudah sangat tua
 hari yang diharamkan puasa
 hari ini puasa apa
