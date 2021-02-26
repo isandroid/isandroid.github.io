@@ -15,8 +15,11 @@ Situs ini masih terus dalam pengembangan. Masih banyak kekurangan dimana-mana. S
 
 - [Tag-tag Blog](/tag)
 
+- [Artikel-artikel Puasa](/islam/puasa)
+
 - [Tanya-Jawab Puasa](/tanya-jawab/puasa)
 
+<!--
 ### Blog
 
 <ul>
@@ -27,3 +30,4 @@ Situs ini masih terus dalam pengembangan. Masih banyak kekurangan dimana-mana. S
     </li>
   {% endfor %}
 </ul>
+-->

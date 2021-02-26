@@ -93,3 +93,8 @@ menu berbuka puasa yang sehat
 
 - saima: Jika ibu hamil / menyusui sudah bayar fidyah, apakah masih harus mengganti puasanya di kemudian hari ?
 
+- rahmat ali: Anak-anak dan usia dibawah 18 tahun tidak sedikit ada yang bersemangat untuk berpuasa full Ramadhan.
+
+PERTANYAAN:
+
+Bagaimana ya enaknya menjelaskan bahwa praktik Puasa itu mensyaratkan la‘allakum tattaqūn, i.e. kematangan mental dan fisik❔
