@@ -3,12 +3,11 @@ tagline: Pustaka Isa
 description: Pustaka Pribadi Isa Mujahid Islam
 url: https://pustaka.isa.web.id
 author: Isa Mujahid Islam
-google_analytics: 
 theme: jekyll-theme-slate
 lang: ID
 twitter:
-  username: benbalter
-  card: 152m1
+  username: 152m1
+  card: summary
 logo: /assets/images/logo.jpg
 social:
   name: Isa Mujahid Islam
