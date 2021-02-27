@@ -1,6 +1,6 @@
 ---
 title: Ceramah Hari 03 - Makna Ramadhan
-layout: default
+layout: post
 tags: puasa ramadhan
 description: penjelasan tentang makna bulan ramadhan
 ---

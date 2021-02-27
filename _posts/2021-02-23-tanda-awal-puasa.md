@@ -1,6 +1,6 @@
 ---
 title: Ceramah Hari 01 - Tanda Awal Puasa
-layout: default
+layout: post
 tags: puasa hilal ramadhan
 description: penjelasan tentang tanda masuknya bulan ramadhan, hilal, hisab dan puasa di hari yang meragukan
 ---

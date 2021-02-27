@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang }}">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width,maximum-scale=2">
+    <link rel="stylesheet" type="text/css" media="screen" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+    <link rel="stylesheet" type="text/css" media="screen" href="{{ '/assets/css/font-tambahan.css' }}">
+    <!-- ICON -->
+    <link rel="shortcut icon" type="image/png" href="/assets/images/favicon.png"/>
+  {% seo %}
+  
+  <!-- ANALYTICS -->
+  {% include google-analytics.html %}
+
+  <!-- HEADER LINK ANCHOR -->
+  {% include header-link-head.html %}
+  </head>
+
+  <body>
+
+    <!-- HEADER -->
+    <div id="header_wrap" class="outer">
+        <header class="inner">
+          <h1 id="project_title">{{ site.title }}</h1>
+          <h2 id="project_tagline">{{ site.description }}</h2>
+        </header>
+    </div>
+
+    <!-- MAIN CONTENT -->
+    <div id="main_content_wrap" class="outer">
+      <section id="main_content" class="inner">
+        {% include breadcrumbs-post.html %}
+        {{ content | replace: '<a href="http', '<a rel="nofollow noopener noreferrer" target="_blank" href="http' }}
+      </section>
+    </div>
+
+    <!-- FOOTER  -->
+    <div id="footer_wrap" class="outer">
+      <footer class="inner">
+        <p>Dipublikasi oleh <a href="https://pages.github.com" rel="nofollow noopener noreferrer" target="_blank">GitHub</a></p>
+      </footer>
+    </div>
+  </body>
+  <!-- HEADER LINK ANCHOR -->
+  {% include header-link-footer.html %}
+</html>

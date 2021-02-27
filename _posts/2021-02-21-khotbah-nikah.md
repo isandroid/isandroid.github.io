@@ -1,6 +1,6 @@
 ---
 title: Khotbah Nikah
-layout: default
+layout: post
 tags: khotbah nikah
 description: contoh khotbah nikah sederhana
 ---
@@ -119,6 +119,6 @@ Rasulullah saw bersabda,
 
 Menikah adalah sunnahku, barangsiapa tidak mengamalkan sunnahku berarti bukan dari golonganku. (H.R. Ibnu Majah) [[^hds-2299a72a-0db2-4979-b0f3-a831bd53dd13]]
 
-[^hds-2299a72a-0db2-4979-b0f3-a831bd53dd13]: [H.R. Ibnu Majah, Kitab Nikah, Bab Keutamaan menikah](/ref/hds-2299a72a-0db2-4979-b0f3-a831bd53dd13.md)
+[^hds-2299a72a-0db2-4979-b0f3-a831bd53dd13]: [H.R. Ibnu Majah, Kitab Nikah, Bab Keutamaan menikah](/ref/hds-2299a72a-0db2-4979-b0f3-a831bd53dd13)
 
 ### Catatan Kaki

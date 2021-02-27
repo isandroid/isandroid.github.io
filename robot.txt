@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://pustaka.isa.web.id/sitemap.xml
+Disallow: googled8994a3814777e3d.html

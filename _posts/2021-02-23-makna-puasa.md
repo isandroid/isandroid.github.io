@@ -1,6 +1,6 @@
 ---
 title: Ceramah Hari 02 - Makna Puasa
-layout: default
+layout: post
 tags: puasa ramadhan
 description: penjelasan tentang makna puasa
 ---

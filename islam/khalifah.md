@@ -78,7 +78,7 @@ Ketika seorang khalifah wafat, maka khalifah berikutnya akan dipilih. Berkenaan 
 
 ### Perintah untuk Baiat, Taat dan Setia kepada Khalifah
 
-Dalam riwayat Muslim, Rasulullah saw memerintahkan kepada Kaum Muslimin untuk taat kepada khalifah dengan cara berbaiat kepada mereka dan melaksanakan janji [bai'at](/baiat) semaksimal mungkin. Kita akan mempertanggungjawabkan amal kita, Khalifah akan mempertanggungjawabkan kepemimpinan mereka.[[^fn-hds-d561c0fb-bbce-43d5-b129-6be81c89f766]]
+Dalam riwayat Muslim, Rasulullah saw memerintahkan kepada Kaum Muslimin untuk taat kepada khalifah dengan cara berbaiat kepada mereka dan melaksanakan janji [bai'at](/islam/baiat) semaksimal mungkin. Kita akan mempertanggungjawabkan amal kita, Khalifah akan mempertanggungjawabkan kepemimpinan mereka.[[^fn-hds-d561c0fb-bbce-43d5-b129-6be81c89f766]]
 
 [^fn-hds-d561c0fb-bbce-43d5-b129-6be81c89f766]: [H.R. Muslim, Kitab Kepemimpinan, Bab Wajibnya memenuhi isi Bai’at](/ref/hds-d561c0fb-bbce-43d5-b129-6be81c89f766)
 

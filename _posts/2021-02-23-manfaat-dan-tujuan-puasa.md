@@ -1,6 +1,6 @@
 ---
 title: Ceramah Hari 04 - Manfaat dan Tujuan Puasa
-layout: default
+layout: post
 tags: puasa ramadhan
 description: penjelasan tentang hal-hal yang membatalkan puasa
 ---

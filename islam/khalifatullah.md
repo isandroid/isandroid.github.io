@@ -18,7 +18,7 @@ Dalam satu riwayat yang ditulis oleh [Ahmad](/ref/atr-262db43c-6af3-44b9-9f28-5d
 
 ### Kemenangan Para Nabi
 
-[Hadhrat Masih Mau'ud (as)](/masih-mauud) bersabda,
+[Hadhrat Masih Mau'ud (as)](/islam/masih-mauud) bersabda,
 
 > Ini adalah Sunnah Ilahi. Semenjak Dia menciptakan manusia di atas bumi ini, Dia senantiasa memperlihatkan Sunnah Ilahi ini. Yaitu Dia selalu menolong Nabi-nabi-Nya dan Rasul-rasul-Nya dan memberi kemenangan kepada mereka, sebagaimana firman-Nya:
 
