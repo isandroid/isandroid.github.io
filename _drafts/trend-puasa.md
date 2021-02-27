@@ -104,8 +104,6 @@ puasa rajab
 
 ### Belum ###
 
-- saima: puasa qodho
-
 - rahmat ali: Anak-anak dan usia dibawah 18 tahun tidak sedikit ada yang bersemangat untuk berpuasa full Ramadhan.
 
 PERTANYAAN:

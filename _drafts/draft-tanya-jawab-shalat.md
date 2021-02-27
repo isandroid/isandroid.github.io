@@ -1,0 +1,32 @@
+- Umur berapa diwajibkan shalat?
+- Bagaimana jika meninggalkan shalat?
+	- https://www.hadits.id/hadits/tirmidzi/2545
+- Bagaimana cara wudhu?
+	- Q.S. Al-Maidah (005) ayat 7 (dengan basmallah sebagai ayat pertama)
+- Bagaimana cara berwudhu Rasulullah saw?
+	- https://www.hadits.id/hadits/bukhari/1798
+	- menuangkan air ke telapak tangannya (untuk membasuh kedua telapak tangannya) tiga kali. 
+	- berkumur-kumur 
+	- membasuh hidung lalu mengeluarkan (air) darinya. 
+	- Kemudian membasuh mukanya tiga kali 
+	- membasuh lengannya yang kanan hingga ke siku dan lengannya yang kiri hingga ke siku tiga kali 
+	- mengusap kepalanya,
+	- membasuh kaki kanannya tiga kali dan (kaki) kiri tiga kali
+- Apa sunnah Rasulullah saw dalam berwudhu?
+	- Disunnahkan untuk Mencuci Sela-sela Jari-Jemari sebelum berwudhu.
+	- Disunnahkan untuk Berkumur-kumur.
+	- Disunnahkan untuk Menghirup Air ke dalam Hidung. 
+	- Melakukan gerakan wudhu masing-masing tiga kali.
+	- Disunnahkan mencuci Jenggot.
+	- Disunnahkan mengusap kepalanya dengan tangan. Mulai dari bagian depan ke belakang lalu mengembalikannya lagi (ke arah depan).
+	- Disunnahkan untuk mengusap bagian luar kedua telinga dengan kedua ibu jari dan bagian dalam kedua telinga dengan kedua jari telunjuknya.
+	- Disunnahkan bersiwak (mengosok gigi) setiap akan shalat.
+	- Disunnahkan Memanjangkan Bagian Wudhu. Misalnya membasuh kedua tangannya hingga hampir mencapai lengan, membasuh kedua kakinya hingga meninggi sampai pada kedua betisnya.
+	- Disunnahkan untuk mendahulukan anggota wudhu yang Kanan.
+	- Disunnahkan berdoa setelah berwudhu.
+- Apa keutamaan Wudhu?
+	- Lenyap kesalahan-kesalahan dan dosa.
+	- Menyempurnakan wudhu bisa mengangkat derajat.
+	- Anggota Wudhu akan Bercahaya di Hari Kiamat.
+	- Masuk Surga karena menyempurnakan Wudhu.
+	- Jika Meninggal dalam keadaan sudi (berwudhu) maka meninggal dalam keadaan fitrah.
