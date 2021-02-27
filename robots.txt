@@ -3,3 +3,7 @@ Allow: /
 
 Sitemap: https://pustaka.isa.web.id/sitemap.xml
 Disallow: /googled8994a3814777e3d.html
+Disallow: /islam/index.html
+Disallow: /ref/index.html
+Disallow: /tanya-jawab/index.html
+Disallow: /tanya-jawab/puasa/index.html
