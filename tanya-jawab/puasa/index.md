@@ -4,7 +4,7 @@ layout: default
 description: halaman indeks tanya-jawab puasa
 ---
 
-# {{ page.title }}
+## {{ page.title }}
 
 {% assign pages = site.pages | sort: 'title' %}
 

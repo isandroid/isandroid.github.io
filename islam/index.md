@@ -4,7 +4,7 @@ layout: default
 description: halaman indeks
 ---
 
-# {{ page.title }}
+## {{ page.title }}
 
 {% assign pages = site.pages | sort: 'title' %}
 

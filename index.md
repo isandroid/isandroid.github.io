@@ -9,15 +9,15 @@ Situs ini masih terus dalam pengembangan. Masih banyak kekurangan dimana-mana. S
 
 ### Menu Istimewa
 
-- [Islam](/islam)
+- [Islam](/islam/)
 
-- [Referensi Internal](/ref)
+- [Referensi Internal](/ref/)
 
 - [Tag-tag Blog](/tag)
 
 - [Artikel-artikel Puasa](/islam/puasa)
 
-- [Tanya-Jawab Puasa](/tanya-jawab/puasa)
+- [Tanya-Jawab Puasa](/tanya-jawab/puasa/)
 
 <!--
 ### Blog

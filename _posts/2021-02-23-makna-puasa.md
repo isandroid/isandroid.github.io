@@ -5,7 +5,7 @@ tags: puasa ramadhan
 description: penjelasan tentang makna puasa
 ---
 
-# {{page.title}}
+## {{page.title}}
 
 Allah Ta'ala berfirman,
 

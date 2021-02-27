@@ -3,7 +3,7 @@ title: Referensi Internal
 layout: default
 ---
 
-# {{ page.title }}
+## {{ page.title }}
 
 {% assign pages = site.pages | sort: 'title' %}
 

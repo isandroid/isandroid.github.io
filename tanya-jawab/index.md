@@ -4,7 +4,7 @@ layout: default
 description: halaman indeks tanya-jawab
 ---
 
-# {{ page.title }}
+## {{ page.title }}
 
 - [Tanya-Jawab Puasa](/tanya-jawab/puasa/)
 

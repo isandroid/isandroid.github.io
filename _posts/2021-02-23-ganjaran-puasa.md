@@ -5,7 +5,7 @@ tags: puasa ramadhan
 description: penjelasan tentang ganjaran bagi orang yang melakukan puasa
 ---
 
-# {{ page.title }}
+## {{ page.title }}
 
 Kita mengetahui bahwa setara standar, Allah Ta’ala akan membalas amal-kebaikan dengan berlipat ganda, seperti firman-Nya yaitu,
 
