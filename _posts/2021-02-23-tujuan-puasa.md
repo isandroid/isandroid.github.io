@@ -27,6 +27,8 @@ Hadhrat Khalifatul Masih Awwal r.a. Bersabda:
 
 > Tujuan Ramadhan yang sebenarnya adalah dalam bulan ini seseorang siap untuk meninggalkan segala sesuatu demi Allah Taala. Laparnya adalah tanda dan lambang bahwa dia siap untuk meninggalkan segala haknya demi Tuhan. Makan minum adalah hak seseorang. Hubungan suami istri adalah haknya. Oleh karena itu, barangsiapa meninggalkan hal-hal ini, maka ia memberitahukan bahwa saya siap untuk meninggalkan hak saya demi Allah Taala. Meninggalkan yang tidak hak memang perkara yang sangat rendah dan tidak dapat diharapkan dari seorang mukmin supaya dia merampas hak seseorang. Yang dapat diharapkan dari seorang mukmin adalah dia meninggalkan haknya demi keridhaan Allah Taala. Akan tetapi, seandainya Ramadhan tiba dan berlalu begitu saja serta kita senantiasa mengatakan bahwa bagaimana kita meninggalkan hak kita, artinya kita tidak meraih apa-apa dari Ramadhan. Karena Ramadhan tiba untuk menjelaskan bahwa kita hendaknya meninggalkan hak-hak kita demi keridhaan Allah Taala”. [[^alfadhl_19260330_5-6]]
 
+[^alfadhl_19260330_5-6]: Al-Fadhl, 30 Maret 1926, halaman 5-6
+
 Hadhrat Masih Mau’ud ‘alaihis salaam bersabda, 
 
 > "Tujuan puasa adalah bahwa manusia meninggalkan satu jenis makanan yang hanya memelihara tubuh jasmani dan meraih makanan lain yang merupakan sumber ketenteraman dan kebahagiaan rohaniah. Mereka yang berpuasa hanya demi Allah, bukan karena adat kebiasaan, hendaknya terus sibuk dalam tahmid (memuji Allah), tasbih (subhanallah) dan tahlil (Laa illaha illallaah) kepada Allah Ta’ala, yang melaluinya mereka akan mendapatkan makanan yang lain." [[^malfuzhat_9_123]] [[^kht_20140725]]
