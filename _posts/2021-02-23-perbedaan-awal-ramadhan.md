@@ -1,7 +1,7 @@
 ---
 title: Perbedaan Awal Ramadhan di Beberapa Tempat
 layout: post
-tags: puasa [hilal](/hilal) ramadhan
+tags: puasa hilal ramadhan
 description: penjelasan tentang adanya kemungkinan perbedaan masuknya bulan ramadhan di beberapa tempat
 ---
 
