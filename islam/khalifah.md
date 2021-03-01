@@ -46,13 +46,17 @@ Dalam hadits riwayat Abu Dawud para khalifah melanjutkan tugas-tugas dan kebiasa
 
 [^fn-hds-12c9102d-6417-42ed-99b6-196f5d99f2a4]: [H.R. Abu Dawud, Kitab Pajak, Kepemimpinan dan Fai, Bab Harta ghanimah yang diambil Rasulullah Shallallahu ‘alaihi wa Sallam sebelum dibagikan](/ref/hds-12c9102d-6417-42ed-99b6-196f5d99f2a4)
 
+Dalam riwayat An-Nasai, Khalifah Umar bin Khottob berkenan meneruskan menjaga lembah Salabah yang dulu pernah dijaga Rasulullah (saw).[[^fn-atr-bacc769d-32ba-49e0-9fa3-e5ad7579ea98]]
+
+Para Khalifah rasyidah itu meneruskan tampuk kepemimpinan Rasulullah (saw) yang mana mereka diwarisi kekuasaan pemerintahan terhadap satu wilayah tertentu.
+
 #### (2) Menjadi pemimpin dan pembimbing umat.
 
 #### (3) Menyelesaikan perselisihan-perselisihan atau perpecahan dalam umat.
 
 #### (4) Memberikan keputusan tentang perkara-perkara agama yang belum pernah terjadi di masa Nabi. 
 
-Misalnya, dalam riwayat An-Nasai, Khalifah Umar bin Khottob menentukan besaran zakat madu.[[^fn-atr-bacc769d-32ba-49e0-9fa3-e5ad7579ea98]] Juga dalam riwayat Abu Dawud, Khalifah Umar bin Khotob juga menentukan Diyat yang belum pernah ditentukan di zaman Rasulullah saw. [[^fn-atr-265b78e8-6b75-437f-81f8-27bc9b850cc7]]
+Dalam riwayat Abu Dawud, Khalifah Umar bin Khotob juga menentukan besaran Diyat yang berubah. Dan itu belum pernah berlangsung di masa Rasulullah (saw). [[^fn-atr-265b78e8-6b75-437f-81f8-27bc9b850cc7]]
 
 [^fn-atr-bacc769d-32ba-49e0-9fa3-e5ad7579ea98]: [H.R. An-Nasa’i, Kitab Zakat, Zakat madu](/ref/atr-bacc769d-32ba-49e0-9fa3-e5ad7579ea98)
 
@@ -78,9 +82,9 @@ Ketika seorang khalifah wafat, maka khalifah berikutnya akan dipilih. Berkenaan 
 
 ### Perintah untuk Baiat, Taat dan Setia kepada Khalifah
 
-Dalam riwayat Muslim, Rasulullah saw memerintahkan kepada Kaum Muslimin untuk taat kepada khalifah dengan cara berbaiat kepada mereka dan melaksanakan janji [bai'at](/islam/baiat) semaksimal mungkin. Kita akan mempertanggungjawabkan amal kita, Khalifah akan mempertanggungjawabkan kepemimpinan mereka.[[^fn-hds-d561c0fb-bbce-43d5-b129-6be81c89f766]]
+Dalam riwayat Muslim, Rasulullah saw memerintahkan kepada Kaum Muslimin untuk taat kepada khalifah dengan cara berbaiat kepada mereka dan melaksanakan janji [bai'at](/islam/baiat) semaksimal mungkin. Kita akan mempertanggungjawabkan amal kita, Khalifah akan mempertanggungjawabkan kepemimpinan mereka.[[^fn-hds-90c0141f-33ae-4e3e-a021-8fed02b51f94]]
 
-[^fn-hds-d561c0fb-bbce-43d5-b129-6be81c89f766]: [H.R. Muslim, Kitab Kepemimpinan, Bab Wajibnya memenuhi isi Bai’at](/ref/hds-d561c0fb-bbce-43d5-b129-6be81c89f766)
+[^fn-hds-90c0141f-33ae-4e3e-a021-8fed02b51f94]: [H.R. Al-Bukhari, Kitab Hadits-hadits yang meriwayatkan tentang para Nabi, Bab Bani Israil](/ref/hds-90c0141f-33ae-4e3e-a021-8fed02b51f94)
 
 Walaupun keputusan khalifah terasa sangat menyakitkan, dalam riwayat Abu Dawud disebutkan bahwa Rasulullah saw bersabda bahwa mau-tidak-mau kita harus tetap senantiasa taat.[[^fn-hds-7435667a-a85a-483e-8a9a-84b51cfc19f7]]
 

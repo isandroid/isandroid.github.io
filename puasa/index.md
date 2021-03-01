@@ -1,11 +1,11 @@
 ---
-title: Ceramah Hari 02 - Makna Puasa
-layout: post
-tags: puasa ramadhan
-description: penjelasan tentang makna puasa
+title: Puasa
+layout: default
+description: arti dan makna puasa, hal-hal yang berkaitan dengan puasa ramadhan dan lain-lain
+permalink: /puasa
 ---
 
-## {{page.title}}
+## {{ page.title }}
 
 Allah Ta'ala berfirman,
 
@@ -15,7 +15,7 @@ Artinya: “Hai orang-orang yang beriman, puasa diwajibkan atasmu sebagaimana te
 
 ### Pengertian Puasa
 
-Dalam bahasa arab, puasa itu memakai dua macam kata:
+Apa itu puasa? Puasa dalam bahasa arab ada dua macam kata:
 
 1. Ash Showm(un) (صَوْمٌ)
 
@@ -108,5 +108,90 @@ Tn. Rahmat Ali, HA. OT. (r.a.) dalam karyanya, Rahasia Rukun Islam, menjelaskan 
 - Tempat yang tinggi, artinya berpuasa adalah satu ibadah yang sangat tinggi derajatnya hingga tak ada bandingannya dalam semua ibadah-ibadah [[^rrri_135-136]]
 
 [^rrri_135-136]:  Muhammad Rahmat Ali, HA. OT., Rahasia-Rahasia Rokoen Islam, Djakarta:Neraca Trading Company, 1949, hlm. 135-136
+
+### Tanya-Jawab
+
+[Tanya-Jawab tentang Puasa](/tanya-jawab/puasa/)
+
+### Serial Ceramah Puasa
+
+{% for tag in site.tags %}
+{% if tag contains "puasa" %}
+  <ul>
+  	{% assign sorted2 = tag[1] | sort: 'title' %}
+    {% for post in sorted2 %}
+      <li class="spasi"><a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+  </ul>
+{% endif %}
+{% endfor %}
+
+### Hal-hal yang Berkaitan dengan Puasa
+
+- [Puasa](/puasa/)
+
+	- Hukum Puasa
+
+		- Hal-hal yang Tidak Membatalkan Puasa
+
+		- Sengaja Membatalkan Puasa
+
+		- Utang Puasa
+
+		- Mengqodho Puasa
+
+		- Keringanan Puasa
+
+			- Orang Sakit
+
+			- Musafir
+
+			- Orang yang Tidak Kuat Berpuasa
+
+			- ibu Hamil dan Menyusui
+
+			- Berperang di Jalan Allah
+
+			- Pelajar yang Sedang Ujian
+
+			- Fidyah
+
+		- Hal-hal yang Menghilangkan Pahala Puasa
+
+	- [Hilal](/hilal)
+
+	- [Hisab](/hisab)
+
+	- Sunnah-sunnah Puasa Ramadhan
+
+	- Sahur
+
+	- Berbuka Puasa
+
+	- [Ramadhan](/ramadhan)
+
+	- Shalat Tarawih
+
+	- I'tikaf
+
+	- Nuzulul Quran
+
+	- Lailatul Qodar
+
+	- Zakat Fitrah
+
+	- Idul Fitri
+
+	- Puasa Sunnah
+
+- Sedekah
+
+- Shalat Witir
+
+- Tahajjud
+
+- Umrah
+
+- Akhlak Mulia
 
 ### Catatan Kaki

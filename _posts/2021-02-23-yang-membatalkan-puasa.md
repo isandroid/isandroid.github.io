@@ -1,7 +1,7 @@
 ---
-title: Ceramah Hari 21 - Perkara yang Membatalkan Puasa
+title: Hukum Puasa - Hal-hal yang Membatalkan Puasa
 layout: post
-tags: puasa ramadhan
+tags: puasa
 description: penjelasan tentang hal-hal yang membatalkan puasa
 ---
 

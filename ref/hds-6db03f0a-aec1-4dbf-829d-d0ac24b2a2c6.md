@@ -1,6 +1,8 @@
 ---
 title: Hadits - Meneruskan Tugas Rasulullah saw
 layout: default
+kode: 6db03f0a-aec1-4dbf-829d-d0ac24b2a2c6
+description: abu bakar melakukan apa yang diperintahkan oleh rasulullah (saw) ketika menjadi khalifah
 ---
 ## {{page.title}}
 

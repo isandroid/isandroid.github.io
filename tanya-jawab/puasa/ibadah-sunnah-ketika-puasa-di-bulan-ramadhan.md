@@ -9,25 +9,25 @@ layout: faq
 <div itemprop="text" markdown="1">
 Beberapa ibadah sunnah yang disunnahkan oleh Rasulullah saw adalah:
 
-(1) Makan Sahur [[^hds01]],
+- Makan Sahur [[^hds01]],
 
-(2) Sahur Mendekati Shubuh [[^hds01]],
+- Sahur Mendekati Shubuh [[^hds01]],
 
-(3) Menyegerakan dalam Berbuka Puasa [[^hds03]],
+- Menyegerakan dalam Berbuka Puasa [[^hds03]],
 
-(4) Berbuka dengan Kurma atau Air Putih [[^hds04]],
+- Berbuka dengan Kurma atau Air Putih [[^hds04]],
 
-(5) Berdoa Ketika Berbuka [[^hds05]],
+- Berdoa Ketika Berbuka [[^hds05]],
 
-(6) Banyak Bersedekah [[^hds06]],
+- Banyak Bersedekah [[^hds06]],
 
-(7) Memperlihatkan Akhlak yang Baik [[^hds07]],
+- Memperlihatkan Akhlak yang Baik [[^hds07]],
 
-(8) Banyak membaca Alquran [[^hds08]],
+- Banyak membaca Alquran [[^hds08]],
 
-(9) Shalat Tarawih [[^hds09]],
+- Shalat Tarawih [[^hds09]],
 
-(10) Melaksanakan I'tikaf [[^hds10]],
+- Melaksanakan I'tikaf [[^hds10]],
 
 </div>
 </div>

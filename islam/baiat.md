@@ -13,7 +13,7 @@ Jika seseorang berkeingian untuk bai'at atau bergabung dengan Jamaah yang dipimp
 
 ### Perintah Rasulullah saw untuk Berbaiat dan Taat kepada Khalifah
 
-Diriwayatkan dari [Muslim](/ref/hds-d561c0fb-bbce-43d5-b129-6be81c89f766), bahwa hendaknya kaum Muslimin bisa mentaati khalifah dengan cara berbaiat kepada mereka dan mentaatinya semaksimal mungkin. Kita akan mempertanggungjawabkan amal kita, Khalifah akan mempertanggungjawabkan kepemimpinan mereka.
+Diriwayatkan dari [Al-Bukhari](/ref/hds-90c0141f-33ae-4e3e-a021-8fed02b51f94), bahwa hendaknya kaum Muslimin bisa mentaati khalifah dengan cara berbaiat kepada mereka dan mentaatinya semaksimal mungkin. Kita akan mempertanggungjawabkan amal kita, Khalifah akan mempertanggungjawabkan kepemimpinan mereka.
 
 ### Bai'at Merupakan Sunnah Rasulullah saw
 

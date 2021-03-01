@@ -1,7 +1,7 @@
 ---
 title: Tanya-Jawab Puasa
 layout: default
-description: halaman indeks tanya-jawab puasa
+description: halaman tanya-jawab hal-hal tentang puasa
 ---
 
 ## {{ page.title }}
@@ -16,7 +16,7 @@ description: halaman indeks tanya-jawab puasa
    {% endfor %}
 </ul>
 
-### Tidak ada Pertanyaan yang ditemukan?
+### Tidak Menemukan Pertanyaan yang cocok?
 
 Ajukan pertanyaan anda dengan [klik di sini](https://docs.google.com/forms/d/e/1FAIpQLSd7EzKOkw_kIod9LPxTKA7zM8uQEfGL-FBWbQOtfzH7v8xEog/viewform)
 

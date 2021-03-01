@@ -1,7 +1,7 @@
 ---
-title: Ceramah Hari 05 - Ganjaran Puasa
+title: Ganjaran Puasa
 layout: post
-tags: puasa ramadhan
+tags: puasa
 description: penjelasan tentang ganjaran bagi orang yang melakukan puasa
 ---
 

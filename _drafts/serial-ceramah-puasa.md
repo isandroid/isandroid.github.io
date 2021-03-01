@@ -1,10 +1,4 @@
----
-title: Puasa
-layout: default
-description: artikel-artikel tentang puasa
----
-
-### Artikel Puasa
+### Serial Ceramah Puasa
 
 {% for tag in site.tags %}
 {% if tag contains "puasa" %}

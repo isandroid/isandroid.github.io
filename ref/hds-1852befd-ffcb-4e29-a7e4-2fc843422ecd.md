@@ -1,6 +1,8 @@
 ---
 title: Hadits - Imam Mahdi akan Menguasai Arab
 layout: default
+description: nubuwwatan bahwa imam mahdi adalah masih kerabat rasulullah (saw), namanya seperti nama rasulullah (saw) dan akan menguasai orang-orang arab
+kode: 1852befd-ffcb-4e29-a7e4-2fc843422ecd
 ---
 ## {{page.title}}
 

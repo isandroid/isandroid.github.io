@@ -2,6 +2,7 @@
 title: Hadits - Puasa - Puasa menjadi Perisai
 layout: default
 kode: abcea4fa-fd14-4567-a21d-4f9c2254b2da
+description: perintah bagi orang yang sudah mampu menikah untuk segera menikah. dan bagi yang belum mampu menikah untuk berpuasa terlebih dahulu
 ---
 ## {{page.title}}
 

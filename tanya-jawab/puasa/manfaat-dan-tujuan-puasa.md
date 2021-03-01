@@ -15,9 +15,9 @@ Beberapa manfaat puasa adalah:
 
 - Meningkatnya Akhlak dan Ruhani,
 
-- Memperoleh Kesehatan Jasmani
+- Memperoleh Kesehatan Jasmani,
 
-- Meraih Ketakwaan sebagai tujuan utama puasa
+- Meraih Ketakwaan sebagai tujuan utama puasa.
 
 Penjelasan selengkapnya bisa dibaca [di sini](/2021/02/23/manfaat-dan-tujuan-puasa.html)
 </div>

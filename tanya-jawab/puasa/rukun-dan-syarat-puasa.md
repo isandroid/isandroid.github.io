@@ -9,9 +9,9 @@ layout: faq
 <div itemprop="text" markdown="1">
 Yang merupakan rukun puasa itu adalah: 
 
-1. Niat
+- Niat
 
-2. Melaksanakan puasa dan menahan diri dari yang membatalkannya 
+- Melaksanakan puasa dan menahan diri dari yang membatalkannya 
 </div>
 </div>
 </div>
@@ -28,13 +28,13 @@ Yang merupakan rukun puasa itu adalah:
 <div itemprop="text" markdown="1">
 Syarat-syarat yang menjadikan puasa itu menjadi wajib bagi seseorang adalah sebagai berikut,
 
-1. Laki-laki dan perempuan yang baligh (dewasa secara jasmani dan ruhani), 
+- Laki-laki dan perempuan yang baligh (dewasa secara jasmani dan ruhani), 
 
-2. Berakal, 
+- Berakal, 
 
-3. Sehat dan kuat berpuasa, 
+- Sehat dan kuat berpuasa, 
 
-4. Mengetahui masuknya bulan Ramadhan baik dengan ru'ya, hisab maupun khabar yang diketahui orang banyak.
+- Mengetahui masuknya bulan Ramadhan baik dengan ru'ya, hisab maupun khabar yang diketahui orang banyak.
 </div>
 </div>
 </div>
@@ -45,15 +45,15 @@ Syarat-syarat yang menjadikan puasa itu menjadi wajib bagi seseorang adalah seba
 <div itemprop="text" markdown="1">
 Hal-hal yang menentukan puasa kita sah atau tidak adalah sebagai berikut,
 
-1. Beragama Islam
+- Beragama Islam,
 
-2. _Tamyiiz_ (bisa membedakan yang baik dan yang buruk) atau _Balligh_ (dewasa secara jasmani dan ruhani)
+- _Tamyiiz_ (bisa membedakan yang baik dan yang buruk) atau _Balligh_ (dewasa secara jasmani dan ruhani),
 
-3. Suci dari Haid (datang bulan) dan suci dari Nifas (bagi wanita setelah melahirkan)
+- Suci dari Haid (datang bulan) dan suci dari Nifas (bagi wanita setelah melahirkan),
 
-4. Puasa ketika hari diperbolehkan untuk berpuasa
+- Puasa ketika hari diperbolehkan untuk berpuasa,
 
-5. Tidak ada hal yang membatalkan puasa.
+- Tidak ada hal yang membatalkan puasa.
 </div>
 </div>
 </div>
