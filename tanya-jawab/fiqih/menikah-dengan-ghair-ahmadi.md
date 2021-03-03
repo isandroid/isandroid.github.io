@@ -52,6 +52,12 @@ Jadi, dengan menghadiri pernikahan mereka sama artinya:
 [^prn_39]: Buku Pedoman Rishta Natah,  Majelis Amilah Jamaat Ahmadiyah Indonesia, 2004, hlm. 39
 
 - Mengikuti jejak mereka yang tidak mentaati perintah [Imam Mahdi](/islam/imam-mahdi) dan [Khalifah](/islam/khalifah),
+
+- Huzur V (aba) menyatakan, maka sehubungan dengan hal itu Jamaat harus melakukan/melaksanakan prosedur yang telah ditetapkan untuk mengeluarkannya serta orang-orang (Ahmadi) yang mempunyai kaitan dengan perkawinannya. [[^prn_40]] Ketika berurusan dengan masalah seperti itu dan harus memastikan siapa (saja) yang (ikut) melaksanakan upacara pernikahan tersebut. Jika dia seorang ahmadi maka artinya dia juga bersikap menentang aturan (ketentuan) serta tata cara yang telah ditetapkan oleh Jamaat dan kepadanya dapat dikenakan sangsi yang direkomendasi. [[^prn_39]]
+
+[^prn_39]: Buku Pedoman Rishta Natah,  Majelis Amilah Jamaat Ahmadiyah Indonesia, 2004, hlm. 39
+
+[^prn_40]: Buku Pedoman Rishta Natah,  Majelis Amilah Jamaat Ahmadiyah Indonesia, 2004, hlm. 40
 </div>
 </div>
 </div>
