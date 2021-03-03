@@ -62,4 +62,20 @@ Jadi, dengan menghadiri pernikahan mereka sama artinya:
 </div>
 </div>
 
+<div itemscope itemprop="mainEntity" itemtype="https://schema.org/Question" markdown="1">
+<h3 itemprop="name">Apa sanksi yang akan didapat jika melanggar?</h3>
+<div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer" markdown="1">
+<div itemprop="text" markdown="1">
+- Sanksi sepenuhnya diserahkan kepada Hadhrat Khalifatul Masih
+
+- Sanksi yang paling ringan biasanya diberikan bimbingan secara khusus
+
+- Sanksi yang paling berat adalah dikeluarkan dari Jemaat
+
+</div>
+</div>
+</div>
+
+Selengkapnya, simak [di sini](/2021/02/03/ahmadi-menikah-dengan-ghair-ahmadi.html)
+
 ### Catatan Kaki

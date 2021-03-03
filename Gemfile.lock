@@ -55,6 +55,9 @@ GEM
       jekyll (>= 3.8, < 5.0)
     jekyll-sitemap (1.4.0)
       jekyll (>= 3.7, < 5.0)
+    jekyll-toc (0.17.0)
+      jekyll (>= 3.9)
+      nokogiri (~> 1.10)
     jekyll-watch (2.2.1)
       listen (~> 3.0)
     json (2.5.1)
@@ -119,6 +122,7 @@ DEPENDENCIES
   jekyll-feed
   jekyll-sitemap
   jekyll-theme-slate!
+  jekyll-toc
   rubocop (~> 0.50)
   w3c_validators (~> 1.3)
 

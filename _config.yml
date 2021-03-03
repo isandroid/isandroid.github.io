@@ -20,5 +20,11 @@ google_analytics: G-G2Y182KL54
 plugins:
   - jekyll-sitemap
   - jekyll-feed
+  - jekyll-toc
 feed:
   path: atom.xml
+defaults:
+  - scope:
+      path: ""
+    values:
+      toc: true

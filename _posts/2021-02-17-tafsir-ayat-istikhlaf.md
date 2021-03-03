@@ -21,4 +21,4 @@ Ayat istikhlaf adalah penamaan dari Alquran surah An-Nur (24) ayat 56 [[^ft-qrn-
 
 [^ft-kh-20110520]: [Khotbah Jum’at Sayyidina Amirul Mu’minin Hadhrat Mirza Masroor Ahmad Khalifatul Masih al-Khaamis ayyadahulloohu ta’ala binashrihil ‘aziiz tanggal 20 1390 HS/Mei 2011 di Mesjid Baitul Futuh, London.](https://www.alislam.org/archives/sermons/summary/FST20110527-ID.pdf)
 
-### Catatan Kaki:
+### Catatan Kaki
