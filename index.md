@@ -13,6 +13,8 @@ Situs ini masih terus dalam pengembangan. Masih banyak kekurangan dimana-mana. S
 
 - [Referensi Internal](/ref/)
 
+- [Buku-Buku](/buku/)
+
 - [Tag-tag Blog](/tag)
 
 - [Artikel-artikel Puasa](/puasa)
