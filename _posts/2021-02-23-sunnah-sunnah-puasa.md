@@ -2,7 +2,7 @@
 title: Sunnah-sunnah dalam Puasa
 layout: post
 tags: puasa
-description: penjelasan tentang sunnah-sunnah dalam pelaksanaan puasa
+description: penjelasan tentang contoh ibadah sunnah dalam pelaksanaan puasa
 ---
 
 ## {{ page.title }}
@@ -123,57 +123,74 @@ Ibnu 'Uyainah menambahkan:
 Diriwayatkan dalam Hadits Sunan Abu Dawud,
 
 <p class="arab">
-عَنْ مُعَاذِ بْنِ زُهْرَةَ أَنَّهُ بَلَغَهُ أَنَّ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ كَانَ إِذَا أَفْطَرَ قَالَ:
 اللَّهُمَّ لَكَ صُمْتُ وَعَلَى رِزْقِكَ أَفْطَرْتُ
 </p>
 
-Dari Hushain dari Mu'adz bin Zuhrah, bahwa telah sampai kepadanya bahwa Nabi shallallahu 'alaihi wasallam apabila berbuka beliau mengucapkan: allaahumma laka shumtu wa 'alaa rizqika afthartu (Ya Allah, untukMu aku berpuasa, dan dengan rejeki-Mu aku berbuka). (H.R. Abu Dawud) []
+_allaahumma laka shumtu wa 'alaa rizqika afthartu_ (Ya Allah, untukMu aku berpuasa, dan dengan rejeki-Mu aku berbuka). (H.R. Abu Dawud) [[^hds-601ca775-f1a4-4841-82b4-9d03d719a163]]
+
+[^hds-601ca775-f1a4-4841-82b4-9d03d719a163]: [H.R. Abu Dawud, Kitab Puasa, Doa saat buka puasa](/ref/hds-601ca775-f1a4-4841-82b4-9d03d719a163)
 
 Dalam riwayat yang lain, 
 
 <p class="arab">
-حَدَّثَنَا مَرْوَانُ يَعْنِي ابْنَ سَالِمٍ الْمُقَفَّعَ قَالَ رَأَيْتُ ابْنَ عُمَرَ يَقْبِضُ عَلَى لِحْيَتِهِ فَيَقْطَعُ مَا زَادَ عَلَى الْكَفِّ وَقَالَ كَانَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : 
-إِذَا أَفْطَرَ قَالَ ذَهَبَ الظَّمَأُ وَابْتَلَّتْ الْعُرُوقُ وَثَبَتَ الْأَجْرُ إِنْ شَاءَ اللَّهُ
+ذَهَبَ الظَّمَأُ وَابْتَلَّتْ الْعُرُوقُ وَثَبَتَ الْأَجْرُ إِنْ شَاءَ اللَّهُ
 </p>
-Telah menceritakan kepada kami Marwan bin Salim Al Muqaffa', ia berkata; saya melihat Ibnu Umar menggenggam jenggotnya dan memotong jenggot yang melebihi telapak tangan. Dan ia berkata; dahulu Rasulullah shallallahu 'alaihi wasallam apabila berbuka beliau mengucapkan: dzahabazh zhamaa'u wabtallatil 'uruuqu wa tsabatil ajru in syaa-allaah (Telah hilang dahaga, dan telah basah tenggorokan, dan telah tetap pahala insya Allah). (H.R. Abu Daud) []
+
+_dzahabazh zhamaa'u wabtallatil 'uruuqu wa tsabatil ajru in syaa-allaah_ (Telah hilang dahaga, dan telah basah tenggorokan, dan telah tetap pahala insya Allah). (H.R. Abu Daud) [[^hds-648a1e90-9d4b-4394-87b5-8d4fa59a6d37]]
+
+[^hds-648a1e90-9d4b-4394-87b5-8d4fa59a6d37]: [H.R. Abu Dawud, Kitab Puasa, Doa saat buka puasa](/ref/hds-648a1e90-9d4b-4394-87b5-8d4fa59a6d37)
 
 ### Banyak Bersedekah
 
 Diriwayatkan dalam Hadits Sahih al-Bukhari,
 
 <p class="arab">
-أَنَّ ابْنَ عَبَّاسٍ رَضِيَ اللَّهُ عَنْهُمَا قَالَ كَانَ النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ أَجْوَدَ النَّاسِ بِالْخَيْرِ وَكَانَ أَجْوَدُ مَا يَكُونُ فِي رَمَضَانَ حِينَ يَلْقَاهُ جِبْرِيلُ وَكَانَ جِبْرِيلُ عَلَيْهِ السَّلَام يَلْقَاهُ كُلَّ لَيْلَةٍ فِي رَمَضَانَ حَتَّى يَنْسَلِخَ يَعْرِضُ عَلَيْهِ النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ الْقُرْآنَ فَإِذَا لَقِيَهُ جِبْرِيلُ عَلَيْهِ السَّلَام كَانَ أَجْوَدَ بِالْخَيْرِ مِنْ الرِّيحِ الْمُرْسَلَةِ
+كَانَ النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ أَجْوَدَ النَّاسِ بِالْخَيْرِ وَكَانَ أَجْوَدُ مَا يَكُونُ فِي رَمَضَانَ حِينَ يَلْقَاهُ جِبْرِيلُ وَكَانَ جِبْرِيلُ عَلَيْهِ السَّلَام يَلْقَاهُ كُلَّ لَيْلَةٍ فِي رَمَضَانَ حَتَّى يَنْسَلِخَ يَعْرِضُ عَلَيْهِ النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ الْقُرْآنَ فَإِذَا لَقِيَهُ جِبْرِيلُ عَلَيْهِ السَّلَام كَانَ أَجْوَدَ بِالْخَيْرِ مِنْ الرِّيحِ الْمُرْسَلَةِ
 </p>
 
-Bahwa Ibnu 'Abbas radliallahu 'anhuma berkata: "Nabi shallallahu 'alaihi wasallam adalah orang yang paling lembut (dermawan) dalam segala kebaikan. Dan kelembutan Beliau yang paling baik adalah saat bulan [Ramadhan](/ramadhan) ketika Jibril alaihissalam datang menemui Beliau. Dan Jibril Alaihissalam datang menemui Beliau pada setiap malam di bulan [Ramadhan](/ramadhan) (untuk membacakan Al Qur'an) hingga Al Qur'an selesai dibacakan untuk Nabi shallallahu 'alaihi wasallam. Apabila Jibril Alaihissalam datang menemui Beliau, maka Beliau adalah orang yang paling lembut dalam segala kebaikan melebihi lembutnya angin yang berhembus". (HR. Bukhari) []
-Memperlihatkan Akhlak yang Baik
+Bahwa Ibnu 'Abbas radliallahu 'anhuma meriwayatkan,
+
+> "Nabi shallallahu 'alaihi wasallam adalah orang yang paling lembut (dermawan) dalam segala kebaikan. Dan kelembutan Beliau yang paling baik adalah saat bulan [Ramadhan](/ramadhan) ketika Jibril alaihissalam datang menemui Beliau. Dan Jibril Alaihissalam datang menemui Beliau pada setiap malam di bulan [Ramadhan](/ramadhan) (untuk membacakan Al Qur'an) hingga Al Qur'an selesai dibacakan untuk Nabi shallallahu 'alaihi wasallam. Apabila Jibril Alaihissalam datang menemui Beliau, maka Beliau adalah orang yang paling lembut dalam segala kebaikan melebihi lembutnya angin yang berhembus". (HR. Bukhari) [[^da595175-e0fd-471f-8fcd-33682608c7ba]]
+
+[^da595175-e0fd-471f-8fcd-33682608c7ba]: [H.R. Al-Bukhari, Kitab Shaum,  Bab Di bulan ramadan Nabi Shallallahu 'alaihi wa Sallam lebih banyak beramal kebaikan](/ref/hds-da595175-e0fd-471f-8fcd-33682608c7ba)
+
+### Memperlihatkan Akhlak yang Baik
+
 Dalam satu hadits Qudsi, Allah Ta'ala berfirman kepada Rasulullah saw,
 
 <p class="arab">
 عَنْ أَبِي هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ أَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ الصِّيَامُ جُنَّةٌ فَلَا يَرْفُثْ وَلَا يَجْهَلْ وَإِنْ امْرُؤٌ قَاتَلَهُ أَوْ شَاتَمَهُ فَلْيَقُلْ إِنِّي صَائِمٌ مَرَّتَيْنِ ...
 </p>
 
-Dari Abu Hurairah radliallahu 'anhu; Bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Shaum itu benteng, maka (orang yang melaksanakannya) janganlah berbuat kotor (rafats) dan jangan pula berbuat bodoh. Apabila ada orang yang mengajaknya berkelahi atau menghinanya maka katakanlah aku sedang shaum (beliau saw mengulang ucapannya dua kali)..."  (H.R. Bukhari) []
+Dari Abu Hurairah radliallahu 'anhu; Bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Shaum itu benteng, maka (orang yang melaksanakannya) janganlah berbuat kotor (rafats) dan jangan pula berbuat bodoh. Apabila ada orang yang mengajaknya berkelahi atau menghinanya maka katakanlah aku sedang berpuasa (beliau [saw] mengulang ucapannya dua kali)..."  (H.R. Bukhari) [[^838ac083-f03f-41f6-9ab7-01d86a406685]]
+
+[^838ac083-f03f-41f6-9ab7-01d86a406685]: [H.R. Al-Bukhari, Kitab Shaum, Keutamaan puasa](/ref/hds-838ac083-f03f-41f6-9ab7-01d86a406685)
 
 ### Banyak membaca Alquran
 
 Diriwayatkan bahwa Rasulullah saw bersama malaikat jibril membaca Alquran sekali atau dua kali di bulan [Ramadhan](/ramadhan).
 
 <p class="arab">
-أَنَّ ابْنَ عَبَّاسٍ رَضِيَ اللَّهُ عَنْهُمَا قَالَ كَانَ النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ أَجْوَدَ النَّاسِ بِالْخَيْرِ وَكَانَ أَجْوَدُ مَا يَكُونُ فِي رَمَضَانَ حِينَ يَلْقَاهُ جِبْرِيلُ وَكَانَ جِبْرِيلُ عَلَيْهِ السَّلَام يَلْقَاهُ كُلَّ لَيْلَةٍ فِي رَمَضَانَ حَتَّى يَنْسَلِخَ يَعْرِضُ عَلَيْهِ النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ الْقُرْآنَ
+عَنْ أَبِي هُرَيْرَةَ قَالَ كَانَ يَعْرِضُ عَلَى النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ الْقُرْآنَ كُلَّ عَامٍ مَرَّةً فَعَرَضَ عَلَيْهِ مَرَّتَيْنِ فِي الْعَامِ الَّذِي قُبِضَ فِيهِ
 </p>
 
-Artinya: bahwa Ibnu 'Abbas radliallahu 'anhuma berkata: "Nabi shallallahu 'alaihi wasallam adalah orang yang paling lembut (dermawan) dalam segala kebaikan. Dan kelembutan Beliau yang paling baik adalah saat bulan [Ramadhan](/ramadhan) ketika Jibril alaihissalam datang menemui Beliau. Dan Jibril Alaihissalam datang menemui Beliau pada setiap malam di bulan [Ramadhan](/ramadhan) (untuk membacakan Al Qur'an) hingga Al Qur'an selesai dibacakan untuk Nabi shallallahu 'alaihi wasallam (H.R. Bukhari) []
+...dari Abu Hurairah ia berkata; "Biasa Jibril mengecek bacaan Al Quran Nabi shallallahu 'alaihi wasallam sekali pada setiap tahunnya. Namun pada tahun wafatnya Rasulullah shallallahu 'alaihi wasallam, Jibril melakukannya dua kali... (H.R. Bukhari) [[^bd0680f9-be48-4871-b1e1-d40d81725818]]
+
+[^bd0680f9-be48-4871-b1e1-d40d81725818]: [H.R. Al-Bukhari, Kitab Keutamaan Al Quran, Jibril membacakan Al-Qur'an kepada Nabi Shallallahu 'alaihi wa Sallam](/ref/hds-bd0680f9-be48-4871-b1e1-d40d81725818)
+
+Untuk meneladaninya, maka hendaknya kita membaca Alquran di bulan [Ramadhan](/ramadhan) dan mengkhatamkannya sekali atau dua kali.
 
 ### Shalat Tarawih
 
 Diriwayatkan dalam Hadits Sunan an-Nasa'i
 
 <p class="arab">
-أَنَّ عَائِشَةَ زَوْجَ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ أَخْبَرَتْهُ أَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ كَانَ يُرَغِّبُ النَّاسَ فِي قِيَامِ رَمَضَانَ مِنْ غَيْرِ أَنْ يَأْمُرَهُمْ بِعَزِيمَةِ أَمْرٍ فِيهِ فَيَقُولُ مَنْ قَامَ رَمَضَانَ إِيمَانًا وَاحْتِسَابًا غُفِرَ لَهُ مَا تَقَدَّمَ مِنْ ذَنْبِهِ
+كَانَ يُرَغِّبُ النَّاسَ فِي قِيَامِ رَمَضَانَ مِنْ غَيْرِ أَنْ يَأْمُرَهُمْ بِعَزِيمَةِ أَمْرٍ فِيهِ فَيَقُولُ مَنْ قَامَ رَمَضَانَ إِيمَانًا وَاحْتِسَابًا غُفِرَ لَهُ مَا تَقَدَّمَ مِنْ ذَنْبِهِ
 </p>
 
-Bahwa 'Aisyah istri Nabi shallallahu 'alaihi wasallam, bahwa Rasulullah shallallahu 'alaihi wasallam menganjurkan manusia untuk melakukan qiyamur-[Ramadhan](/ramadhan) tanpa menyuruh mereka dengan perintah yang mengharuskan dalam hal itu, lalu bersabda: "Barangsiapa yang melakukan qiyamur-[Ramadhan](/ramadhan) dengan penuh keimanan dan mengharap pahala, maka akan diampuni dari dosanya yang telah berlalu." (H.R. an-Nasa'i) []
+(Rasulullah shallallahu 'alaihi wasallam) menganjurkan manusia untuk melakukan _qiyamur-Ramadhan_ (shalat tarawih) tanpa menyuruh mereka dengan perintah yang mengharuskan dalam hal itu, lalu bersabda: "Barangsiapa yang melakukan _qiyamur-Ramadhan_ dengan penuh keimanan dan mengharap pahala, maka akan diampuni dari dosanya yang telah berlalu." (H.R. an-Nasa'i) [[^ce45122b-f0a0-4fbe-8134-92c551f4ac71]]
+
+[^ce45122b-f0a0-4fbe-8134-92c551f4ac71]: [H.R. An-Nasa'i, Kitab Puasa, Bab Ganjaran bagi yang shalat malam ramadhan dan puasa karena iman dan ihtisab](/ref/hds-ce45122b-f0a0-4fbe-8134-92c551f4ac71)
 
 ### I'tikaf
 
@@ -183,6 +200,8 @@ Diriwayatkan dalam Sahih al-Bukhari,
 عَنْ عَائِشَةَ رَضِيَ اللَّهُ عَنْهَا زَوْجِ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ أَنَّ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ كَانَ يَعْتَكِفُ الْعَشْرَ الْأَوَاخِرَ مِنْ رَمَضَانَ حَتَّى تَوَفَّاهُ اللَّهُ ثُمَّ اعْتَكَفَ أَزْوَاجُهُ مِنْ بَعْدِهِ
 </p>
 
-Telah menceritakan kepada kami 'Abdullah bin Yusuf berkata, telah menceritakan kepada kami Al Laits dari 'Uqail dari Ibnu Syihab dari 'Urwah bin Az Zubair dari 'Aisyah radliallahu 'anha, isteri Nabi shallallahu 'alaihi wasallam bahwa Nabi shallallahu 'alaihi wasallam beri'tikaf pada sepuluh hari yang akhir dari [Ramadhan](/ramadhan) hingga wafatnya kemudian isteri-isteri Beliau beri'tikaf setelah kepergian Beliau. (HR. Bukhari) []
+...dari 'Aisyah radliallahu 'anha, isteri Nabi shallallahu 'alaihi wasallam bahwa Nabi shallallahu 'alaihi wasallam beri'tikaf pada sepuluh hari yang akhir dari Ramadhan hingga wafatnya kemudian isteri-isteri Beliau beri'tikaf setelah kepergian Beliau. (HR. Bukhari) [[^2a09d40c-bf97-4f2a-af8e-27265b66a657]]
+
+[^2a09d40c-bf97-4f2a-af8e-27265b66a657]: [H.R. Al-Bukhari, Kitab I'tikaf, Bab Iktikaf di sepuluh hari terkahir](/ref/hds-2a09d40c-bf97-4f2a-af8e-27265b66a657)
 
 ### Catatan Kaki
