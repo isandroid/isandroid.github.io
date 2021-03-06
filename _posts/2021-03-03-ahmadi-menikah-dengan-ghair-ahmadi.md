@@ -27,6 +27,22 @@ Dengan latar belakang seperti itulah sekiranya wanita-wanita Ahmadi menikah deng
 
 Dari penjelasan diatas, seorang Ahmadi yang menikah dengan non-Ahmadi tidak otomatis diberi fatwa keluar dari Islam. Akan tetapi, karena ia melanggar aturan organisasi, maka bisa saja ia diberikan hukuman dikeluarkan dari organisasi.
 
+Mengapa hal ini terjadi? Mari kita simak latar belakangnya.
+
+### Latar Belakang
+
+Pada tahun 1835, Hadhrat Mirza Ghulam Ahmad lahir. Pada tahun 1880, beliau menulis buku Barahin Ahmadiyah bagian 1 dan 2. Pada tahun 1882, beliau menulis buku Barahin Ahmadiyah bagian 3. Pada tahun 1884, beliau menulis buku Barahin Ahmadiyah bagian 4. Pada buku Barahin Ahmadiyah bagian 4 ini, beliau menulis bahwa Nabi Isa as akan datang lagi ke dunia ini. Pada tanggal 1 Desember 1888, beliau menerbitkan pengumuman baiat. Pada tanggal 23 Maret 1889, beliau mengambil baiat pertama di Ludhiana. Pada tahun 1890, Allah Ta'ala mengabarkan kepada beliau bahwa Al-Masih Ibnu Maryam utusan Allah telah wafat dan engkau datang dalam corak beliau sesuai janji. Dari sinilah pangkal mengapa Ahmadi tidak boleh menikah dengan ghair Ahmadi.
+
+Kemudian, beliau menyebarkan Wahyu tersebut kepada orang-orang. Pada tahun yang sama, tanggal 28 Ramadan 1890, muncul fatwa pertama terhadap beliau dari Maulwi Abdullah Sahib dan Maulwi Abdul Aziz Sahib popular dengan Mufti Ludhiana dalam selebaran:
+
+> “Orang ini adalah murtad dan orang Islam haram menjalin silaturahmi dengan orang seperti ini. Demikian pula, orang-orang yang percaya kepadanya, mereka juga kafir dan pernikahan mereka tidak sah. Siapa yang ingin, nikahilah perempuan-perempuan mereka dengan paksa.” (Isya’atus Sunnah, jilid 13, nomor 5)
+
+Namun, beliau tetap bersabar dengan munculnya fatwa tersebut.
+
+Dua tahun sesudahnya, tahun 1893, Qadhi Ubaidullah bin Shibghatallah Sahib memberikan fatwa:
+
+> “Orang yang mengikutinya, dia juga kafir dan murtad, dan secara syariat menikahi orang murtad adalah tidak sah, dan perempuannya menjadi haram, dan orang yang menggauli perempuannya adalah zina dan dalam keadaan demikian anak-anak yang lahir, mereka adalah anak zina.” (Fatwa Dar Takfir ‘Uruj Jismi-o-Nuzul Hadhrat Isa ‘alaihissalaam, cetakan Madras, tahun 1311 H)
+
 ### Fatwa Pendiri Jemaat Ahmadiyah
 
 Hadhrat [Masih Mau'ud](/islam/masih-mauud) (as), pendiri Jemaat [Ahmadiyah](https://ahmadiyah.id) tidak memberikan restu jika ada Ahmadi menikah dengan non-Ahmadi. Beliau menjelaskan, 
@@ -37,7 +53,7 @@ Hadhrat [Masih Mau'ud](/islam/masih-mauud) (as), pendiri Jemaat [Ahmadiyah](http
 
 Latar belakangnya adalah banyaknya pengalaman wanita Ahmadi yang menikah dengan laki-laki non-Ahmadi mendapatkan tekanan atau penganiayaan pasca pernikahan karena perbedaan kepercayaan.
 
-Hadhrat [Masih Mau'ud](/islam/masih-mauud) (as) bersabda, 
+Hadhrat [Masih Mau'ud](/islam/masih-mauud) (as) pada tanggal  7 Juni 1898, beliau menerbitkan selebaran penting kepada jemaat yang berisi fatwa:
 
 >“Oleh karena berkat karunia Allah, kasih-sayang dan dengan anugerah suci-Nya, jumlah anggota Jemaat kita terus bertambah banyak. Dan kini, jumlahnya telah mencapai ribuan orang dan tidak lama lagi dengan karunia Tuhan akan sampai pada jumlah ratusan ribu orang”—dan kini, telah sampai puluhan juta— “Oleh karena itu, merupakan hal yang sepatutnya bahwa demi untuk kebaikan, untuk meningkatkan kesatuan di antara sesama mereka dan juga untuk melindungi mereka dari akibat buruk dan pengaruh buruk keluarga mereka, maka berkaitan dengan pernikahan anakanak laki dan anak perempuan harus dilakukan penanganan yang terbaik. 
 >
