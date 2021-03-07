@@ -5,3 +5,5 @@ source 'https://rubygems.org'
 gemspec
 
 gem 'jekyll-sitemap'
+#gem 'jekyll-theme-minimal'
+#gem 'kramdown-parser-gfm'

@@ -1,11 +1,15 @@
 ---
 title: Referensi Internal
 layout: default
+pagination:
+  enabled: true
+  per_page: 3
 ---
 
 ## {{ page.title }}
 
 {% assign pages = site.pages | sort: 'title' %}
+
 
 <ul>
     {% for item in pages %}
