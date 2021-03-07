@@ -126,9 +126,9 @@ Tn. Rahmat Ali, HA. OT. (r.a.) dalam karyanya, Rahasia Rukun Islam, menjelaskan 
 {% endif %}
 {% endfor %}
 
-### Hal-hal yang Berkaitan dengan Puasa
+### Istilah-istilah yang Berkaitan dengan Puasa
 
-- [Puasa](/puasa/)
+- [Puasa](/puasa/) atau [Shaum](/puasa/)
 
 	- Hukum Puasa
 
@@ -138,7 +138,7 @@ Tn. Rahmat Ali, HA. OT. (r.a.) dalam karyanya, Rahasia Rukun Islam, menjelaskan 
 
 		- Utang Puasa
 
-		- Mengqodho Puasa
+		- Mengqodho Puasa atau Mengganti Puasa
 
 		- Keringanan Puasa
 
@@ -158,19 +158,23 @@ Tn. Rahmat Ali, HA. OT. (r.a.) dalam karyanya, Rahasia Rukun Islam, menjelaskan 
 
 		- Hal-hal yang Menghilangkan Pahala Puasa
 
-	- [Hilal](/hilal)
+	- [_Hilal_](/hilal)
 
-	- [Hisab](/hisab)
-
-	- Sunnah-sunnah Puasa Ramadhan
+	- [_Hisab_](/hisab)
 
 	- [Sahur](/sahur)
 
-	- Berbuka Puasa
+		- Imsak
+
+	- Berbuka Puasa atau _Iftar_
+
+		- Takjil
 
 	- [Ramadhan](/ramadhan)
 
-	- Shalat Tarawih
+	- _Qiyaamur-Ramadhan_ atau Shalat Tarawih
+
+		- Shalat Witir
 
 	- I'tikaf
 
@@ -180,13 +184,15 @@ Tn. Rahmat Ali, HA. OT. (r.a.) dalam karyanya, Rahasia Rukun Islam, menjelaskan 
 
 	- Zakat Fitrah
 
+		- Muzakki
+
+		- Mustahiq
+
 	- Idul Fitri
 
 	- Puasa Sunnah
 
 - Sedekah
-
-- Shalat Witir
 
 - Tahajjud
 
