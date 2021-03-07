@@ -25,7 +25,21 @@ Rasulullah saw pernah memberikan contoh,
 
 Saya mendengar Abdullah bin Abu Aufa berkata; kami berjalan bersama Rasulullah shallallahu 'alaihi wasallam sementara beliau sedang berpuasa, kemudian tatkala matahari telah tenggelam beliau berkata; wahai Bilal, turun dan aduklah untuk kami. Ia berkata; wahai Rasulullah, seandainya anda menunggu hingga masuk sore hari dengan sempurna! Beliau berkata: "Turun dan aduklah untuk kami!" Ia berkata; wahai Rasulullah, sesungguhnya anda masih berada pada siang hari. Beliau berkata: "Turun dan aduklah untuk kami!" Kemudian ia turun dan mengaduk. Lalu Rasulullah shallallahu 'alaihi wasallam minum kemudian bersabda: "Apabila kalian melihat malam telah datang dari sini, maka orang yang berpuasa telah berbuka." Beliau menunjuk dengan jarinya ke arah timur. (H.R. Abu Dawud) []
 
-### Menyegerakan Berbuka: Mendapat Kebaikan dari Allah Ta’ala
+### Menyegerakan Berbuka Puasa (Takjil) 
+
+Menyegerakan berbuka puasa disebut dengan **takjil**. [[^kbbi_takjil]] Namun jika takjil diasumsikan dengan makanan untuk berbuka puasa, sebenarnya hal itu tidak sesuai dengan arti takjil sendiri dalam bahasa arab. 
+
+Takjil merupakan kata masdar (kata benda) dari kata _'ajjala_ (عَجَّلَ). [[^almaany_ar_ar_tajil]] kata _'ajjala_ berarti cepat-cepat, bergegas, mempercepat, mendesak, berlari, bersegera [[^almaany_ar_id_ajjala]]
+
+[^almaany_ar_id_ajjala]: <https://www.almaany.com/id/dict/ar-id/%D8%AA%D8%B9%D8%AC%D9%8A%D9%84/>
+
+[^almaany_ar_ar_tajil]: <https://www.almaany.com/ar/dict/ar-ar/%D8%AA%D8%B9%D8%AC%D9%8A%D9%84/> 
+
+[^kbbi_takjil]: [Kamus Besar Bahasa Indonesia kata Takjil](https://kbbi.kemdikbud.go.id/entri/takjil)
+
+Berikut ini keberkahan ketika menyegerakan berbuka puasa: 
+
+#### Mendapat Kebaikan dari Allah Ta’ala
 
 Dalam Hadits Sahih al-Bukhari diriwayatkan,
 
@@ -35,7 +49,7 @@ Dalam Hadits Sahih al-Bukhari diriwayatkan,
 
 Telah menceritakan kepada kami Abu Bakr bin Abu Syaibah berkata, telah menceritakan kepada kami Muhammad bin Bisyr dari Muhammad bin Amru dari Abu Salamah dari Abu Hurairah ia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Manusia akan tetap dalam kebaikan selama mereka bersegera dalam berbuka. Maka segerakanlah berbuka, sebab orang-orang Yahudi mengakhirkannya. " (H.R. Ibnu Majah) []
 
-### Menyegerakan Berbuka: Mendapat Cinta dari Allah Ta’ala
+#### Mendapat Cinta dari Allah Ta’ala
 
 Berdasarkan Hadits Qudsi di dalam Jami' at-Tirmidzi diriwayatkan,
 

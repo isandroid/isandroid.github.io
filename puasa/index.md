@@ -140,7 +140,7 @@ Tn. Rahmat Ali, HA. OT. (r.a.) dalam karyanya, Rahasia Rukun Islam, menjelaskan 
 
 	- [Berbuka Puasa](/iftar) atau [_Iftar_](/iftar)
 
-		- Takjil
+		- [Takjil](/iftar#menyegerakan-berbuka-puasa-takjil)
 
 	- [Ramadhan](/ramadhan)
 
