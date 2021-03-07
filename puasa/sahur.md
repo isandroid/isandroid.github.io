@@ -27,7 +27,7 @@ Orang-orang yang sabar, yang benar, yang taat, dan yang berinfak di jalan Allah 
 
 Dan di waktu sahur mereka memohon ampunan (Allah) (QS AL-Dzariyat [51]: 19) 
 
-Jadi, di hari-hari lain selain Ramadhan, Allah Ta'ala memerintahkan kita bahwa sebelum fajar tiba, kita diperintahkan banyak-banyak [beristigfar](/islam/istighfar) atau [memohon ampun](/islam/istighfar) kepada Allah.
+Jadi, di hari-hari lain selain [Ramadhan](/ramadhan), Allah Ta'ala memerintahkan kita bahwa sebelum fajar tiba, kita diperintahkan banyak-banyak [beristigfar](/islam/istighfar) atau [memohon ampun](/islam/istighfar) kepada Allah.
 
 ### Keberkahan Sahur
 
@@ -49,7 +49,7 @@ Dalam Hadits Sunan an-Nasai diriwayatkan,
 
 ...Aku pernah masuk menemui Nabi shallallahu 'alaihi wasallam saat beliau sedang makan sahur, lalu beliau bersabda: "Sesungguhnya itu adalah berkah yang Allah berikan kepada kalian, maka janganlah kalian meninggalkannya." (H.R. An-Nasai) [[^b3d62e12-7fad-4bfa-8029-5e12b37b3fe0]]
 
-[^b3d62e12-7fad-4bfa-8029-5e12b37b3fe0]: [H.R. An-Nasa'i, Kitab Puasa, Keutamaan sahur](/ref/hds-b3d62e12-7fad-4bfa-8029-5e12b37b3fe0)
+[^b3d62e12-7fad-4bfa-8029-5e12b37b3fe0]: [H.R. An-Nasa'i, Kitab [Puasa](/puasa), Keutamaan sahur](/ref/hds-b3d62e12-7fad-4bfa-8029-5e12b37b3fe0)
 
 Berkennaan dengan dua hadits di atas, keduanya membicarakan mengenai keberkahan. Menurut kamus Al-Maany, بَرَكة (berkah) berarti kemakmuran, kebaikan, kebahagiaan, peningkatan derajat ruhani [[^almaany_barokatun]].
 
@@ -63,7 +63,7 @@ Dalam Hadits Sunan Ibnu Majah diriwayatkan,
 اسْتَعِينُوا بِطَعَامِ السَّحَرِ عَلَى صِيَامِ النَّهَارِ وَبِالْقَيْلُولَةِ عَلَى قِيَامِ اللَّيْلِ
 </p>
 
-Nabi shallallahu 'alaihi wasallam bersabda: "Manfaatkanlah makan sahur untuk menolongmu puasa di siang hari, dan tidur siang untuk bangun malam. " (H.R. Ibnu Majah) [[^16a9a1a3-8868-423d-b6e3-ef3b7e38dc11]]
+Nabi shallallahu 'alaihi wasallam bersabda: "Manfaatkanlah makan sahur untuk menolongmu [puasa](/puasa) di siang hari, dan tidur siang untuk bangun malam. " (H.R. Ibnu Majah) [[^16a9a1a3-8868-423d-b6e3-ef3b7e38dc11]]
 
 [^16a9a1a3-8868-423d-b6e3-ef3b7e38dc11]: [H.R. Ibnu Majah, Kitab Puasa, Bab Sahur](/ref/hds-16a9a1a3-8868-423d-b6e3-ef3b7e38dc11)
 
@@ -89,7 +89,7 @@ Azan Shubuh bukan batas untuk berhenti Sahur. Menurut Alquran QS Albaqarah (2):1
 ...وَكُلُوا وَاشْرَبُوا حَتَّىٰ يَتَبَيَّنَ لَكُمُ الْخَيْطُ الْأَبْيَضُ مِنَ الْخَيْطِ الْأَسْوَدِ مِنَ الْفَجْرِ ۖ ثُمَّ أَتِمُّوا الصِّيَامَ إِلَى اللَّيْلِ ۚ ...
 </p>
 
-Artinya “...Makan dan minumlah kalian (sahur) sampai tampak kepada kalian benang putih terpisah dari benang hitam (cahaya di cakrawala) pada waktu fajar. Setelah itu sempurnakanlah puasa dari pagi sampai malam...”. [(Al-Baqarah: 188)](/ref/qrn-002-188)
+Artinya “...Makan dan minumlah kalian (sahur) sampai tampak kepada kalian benang putih terpisah dari benang hitam (cahaya di cakrawala) pada waktu fajar. Setelah itu sempurnakanlah [puasa](/puasa) dari pagi sampai malam...”. [(Al-Baqarah: 188)](/ref/qrn-002-188)
 
 Jadi batas berhentinya sahur itu adalah ketika sudah terbit fajar. Ini juga disebutkan seperti penjelasan Hadits Sahih Bukhari berikut:
 
