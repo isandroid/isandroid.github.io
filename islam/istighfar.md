@@ -211,7 +211,7 @@ Allah Ta'ala juga memerintahkan kepada orang yang bertaqwa untuk senantiasa memo
 
 Dan di waktu subuh mereka memohon ampunan-Nya. (QS Adz-Dzariyat [51]: 19)
 
-Selain itu, hendaknya kita beristighfar di waktu sebelum subuh atau waktu sahur karena di dalam kamus Almaany, kata _wa bil ashaari_ (وَبِٱلْأَسْحَار) berarti "dan di waktu sahur" karena kata _al-ashaari_ (أَسْحَار) diserap dari kata _saharo_ (سَحَر) yang berarti waktu sebelum fajar atau waktu sahur. [[^kms_almaany_ashaar]] 
+Selain itu, hendaknya kita beristighfar di waktu sebelum subuh atau waktu [sahur](/sahur) karena di dalam kamus Almaany, kata _wa bil ashaari_ (وَبِٱلْأَسْحَار) berarti "dan di waktu [sahur](/sahur)" karena kata _al-ashaari_ (أَسْحَار) diserap dari kata _saharo_ (سَحَر) yang berarti waktu sebelum fajar atau waktu [sahur](/sahur). [[^kms_almaany_ashaar]] 
 
 [^kms_almaany_ashaar]: [Kamus Almaany dari kata _ashaar_](https://www.almaany.com/id/dict/ar-id/%D8%A3%D9%8E%D8%B3%D9%92%D8%AD%D9%8E%D8%A7%D8%B1/?page=2)
 

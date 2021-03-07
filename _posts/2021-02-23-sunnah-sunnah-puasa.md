@@ -19,18 +19,18 @@ Jadi itu menunjukkan bahwa ibadah sunnah akan melengkapi kekurangan-kekurangan d
 
 ### Makan Sahur
 
-Rasulullah saw terbiasa untuk makan sahur ketika akan melaksanakan puasa. Diriwayatkan, 
+Rasulullah saw terbiasa untuk makan [sahur](/sahur) ketika akan melaksanakan puasa. Diriwayatkan, 
 
 <p class="arab">
 عَنْ أَنَسِ بْنِ مَالِكٍ عَنْ زَيْدِ بْنِ ثَابِتٍ قَالَ تَسَحَّرْنَا مَعَ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ثُمَّ قُمْنَا إِلَى الصَّلَاةِ ...
 </p>
 
 ...dari Zaid bin Tsabit berkata, 
-> "Kami pernah makan sahur bersama Rasulullah shallallahu 'alaihi wasallam, kemudian kami menegakkan shalat. " ... (H.R. Bukhari) [[^6f1a39af-3b99-4625-aea4-caedae0f6fc6]]
+> "Kami pernah makan [sahur](/sahur) bersama Rasulullah shallallahu 'alaihi wasallam, kemudian kami menegakkan shalat. " ... (H.R. Bukhari) [[^6f1a39af-3b99-4625-aea4-caedae0f6fc6]]
 
 [^6f1a39af-3b99-4625-aea4-caedae0f6fc6]: [H.R. Al-Bukhari, Kitab Shaum, Berapa waktu antara sahur hingga shalat subuh](/ref/hds-6f1a39af-3b99-4625-aea4-caedae0f6fc6)
 
-Pada satu waktu Rasulullah saw tidak mempunyai makanan untuk dimakan, tetapi beliau tetap melaksanakan [puasa](/puasa). Puasa [Ramadhan](/ramadhan) hukumnya wajib dilaksanakan walaupun kita tidak mendapati sesuatu pun untuk makan sahur karena hukum sahur adalah sunnah. Diriwayatkan dalam Sahih Muslim,
+Pada satu waktu Rasulullah saw tidak mempunyai makanan untuk dimakan, tetapi beliau tetap melaksanakan [puasa](/puasa). Puasa [Ramadhan](/ramadhan) hukumnya wajib dilaksanakan walaupun kita tidak mendapati sesuatu pun untuk makan sahur karena hukum [sahur](/sahur) adalah sunnah. Diriwayatkan dalam Sahih Muslim,
 
 <p class="arab">
 عَنْ عَائِشَةَ أُمِّ الْمُؤْمِنِينَ قَالَتْ دَخَلَ عَلَيَّ النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ذَاتَ يَوْمٍ فَقَالَ هَلْ عِنْدَكُمْ شَيْءٌ فَقُلْنَا لَا قَالَ فَإِنِّي إِذَنْ صَائِمٌ
@@ -62,7 +62,7 @@ Diriwayatkan dalam Sahih al-Bukhari,
 
 Dari Zaid bin Tsabit radliallahu 'anhu bertanya kepada Rasulullah (saw): 
 
-> "Berapa antara adzan (Shubuh) dan sahur?". 
+> "Berapa antara adzan (Shubuh) dan [sahur](/sahur)?". 
 
 Nabi (saw) menjawab: 
 

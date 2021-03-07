@@ -35,7 +35,7 @@ Niat adalah sesuatu yang ada di dalam hati. Sah atau tidaknya puasa tergantung a
 <h3 itemprop="name" id="apa-lafaz-niat-puasa">Apa lafadz niat puasa?</h3>
 <div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer" markdown="1">
 <div itemprop="text" markdown="1">
-Dari riwayat-riwayat mengenai niat, Rasulullah (saw) tidak mengungkapkan secara zahir (dengan bacaan khusus) untuk niat puasa ini. Oleh karena itu, cukup diungkapkan di dalam hati bahwa saya bermaksud berpuasa atau saya sedang sahur  dengan tujuan puasa.
+Dari riwayat-riwayat mengenai niat, Rasulullah (saw) tidak mengungkapkan secara zahir (dengan bacaan khusus) untuk niat puasa ini. Oleh karena itu, cukup diungkapkan di dalam hati bahwa saya bermaksud berpuasa atau saya sedang [sahur](/sahur)  dengan tujuan puasa.
 </div>
 </div>
 </div>

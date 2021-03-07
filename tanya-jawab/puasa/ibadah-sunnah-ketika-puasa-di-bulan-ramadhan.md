@@ -9,9 +9,9 @@ layout: faq
 <div itemprop="text" markdown="1">
 Beberapa ibadah sunnah yang disunnahkan oleh Rasulullah (saw) adalah:
 
-- Makan Sahur [[^6f1a39af-3b99-4625-aea4-caedae0f6fc6]],
+- Makan [sahur](/sahur) [[^6f1a39af-3b99-4625-aea4-caedae0f6fc6]],
 
-- Sahur Mendekati Shubuh [[^6f1a39af-3b99-4625-aea4-caedae0f6fc6]],
+- [Sahur](/sahur) Mendekati Shubuh [[^6f1a39af-3b99-4625-aea4-caedae0f6fc6]],
 
 - Menyegerakan dalam Berbuka Puasa [[^04819b77-a60d-4049-94e5-ca9fbadfd7a1]],
 

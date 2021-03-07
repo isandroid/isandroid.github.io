@@ -10,6 +10,6 @@ description: Rasulullah saw melakukan sahur mendekati waktu shalat shubuh dan ja
 عَنْ زَيْدِ بْنِ ثَابِتٍ رَضِيَ اللَّهُ عَنْهُ قَالَ تَسَحَّرْنَا مَعَ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ثُمَّ قَامَ إِلَى الصَّلَاةِ قُلْتُ كَمْ كَانَ بَيْنَ الْأَذَانِ وَالسَّحُورِ قَالَ قَدْرُ خَمْسِينَ آيَةً
 </p>
 
->...dari Zaid bin Tsabit radliallahu 'anhu berkata: "Kami pernah makan sahur bersama Nabi shallallahu 'alaihi wasallam kemudian Beliau pergi untuk melakanakan shalat. Aku bertanya: "Berapa antara adzan (Shubuh) dan sahur?". Dia menjawab: "Sebanyak ukuran bacaan lima puluh ayat".
+>...dari Zaid bin Tsabit radliallahu 'anhu berkata: "Kami pernah makan [sahur](/sahur) bersama Nabi shallallahu 'alaihi wasallam kemudian Beliau pergi untuk melakanakan shalat. Aku bertanya: "Berapa antara adzan (Shubuh) dan [sahur](/sahur)?". Dia menjawab: "Sebanyak ukuran bacaan lima puluh ayat".
 
 > [H.R. Al-Bukhari, Kitab Shaum, Berapa waktu antara sahur hingga shalat subuh](https://www.hadits.id/hadits/bukhari/1787)
