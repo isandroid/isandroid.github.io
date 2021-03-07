@@ -9,6 +9,8 @@ Situs ini masih terus dalam pengembangan. Masih banyak kekurangan dimana-mana. S
 
 ### Menu Istimewa
 
+- [Quran-um-Majid](/quran/) (Dalam proses)
+
 - [Islam](/islam/)
 
 - [Referensi Internal](/ref/)
@@ -17,7 +19,7 @@ Situs ini masih terus dalam pengembangan. Masih banyak kekurangan dimana-mana. S
 
 - [Tag-tag Blog](/tag)
 
-- [Hal-Hal tentang Puasa](/puasa)
+- [Hal-Hal tentang Puasa](/puasa) (Dalam proses)
 
 - [Tanya-Jawab tentang Puasa](/tanya-jawab/puasa/)
 
