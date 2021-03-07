@@ -19,7 +19,7 @@ Beberapa manfaat puasa adalah:
 
 - Meraih Ketakwaan sebagai tujuan utama puasa.
 
-Penjelasan selengkapnya bisa dibaca [di sini](/2021/02/23/manfaat-dan-tujuan-puasa.html)
+Penjelasan selengkapnya bisa dibaca [di sini](/2021/02/23/manfaat-puasa.html)
 </div>
 </div>
 </div>

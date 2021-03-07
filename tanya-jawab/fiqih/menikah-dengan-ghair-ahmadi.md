@@ -20,7 +20,7 @@ description: tanya jawab seputar masalah Ahmadi yang menikah dengan ghair Ahmadi
 
 - Menikah sesama Ahmadi merupakan bukti ketaatan kita kepada [Imam Mahdi](/islam/imam-mahdi) dan [Khalifah](/islam/khalifah) [[^ketaatan]],
 
-[^ketaatan]: [Ketaatan kepada Khilafat](/2021-02-18-ketaatan-kepada-khilafat-dan-khalifah) 
+[^ketaatan]: [Ketaatan kepada Khilafat](/2021/02/18/ketaatan-kepada-khilafat-dan-khalifah) 
 
 - Bentuk cinta terhadap keyakinannya, bangga dan bersyukur karena dirinya adalah seorang Ahmadi [[^islamrahmah_id]],
 
@@ -76,6 +76,6 @@ Jadi, dengan menghadiri pernikahan mereka sama artinya:
 </div>
 </div>
 
-Selengkapnya, simak [di sini](/2021/02/03/ahmadi-menikah-dengan-ghair-ahmadi.html)
+Selengkapnya, simak [di sini](/2021/03/03/ahmadi-menikah-dengan-ghair-ahmadi.html)
 
 ### Catatan Kaki

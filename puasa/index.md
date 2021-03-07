@@ -128,7 +128,7 @@ Tn. Rahmat Ali, HA. OT. (r.a.) dalam karyanya, Rahasia Rukun Islam, menjelaskan 
 
 ### Istilah-istilah yang Berkaitan dengan Puasa
 
-- [Puasa](/puasa/) atau [Shaum](/puasa/)
+- [Puasa](/puasa) atau [Shaum](/puasa)
 
 	- Hukum Puasa
 
