@@ -17,9 +17,11 @@ Situs ini masih terus dalam pengembangan. Masih banyak kekurangan dimana-mana. S
 
 - [Tag-tag Blog](/tag)
 
-- [Artikel-artikel Puasa](/puasa)
+- [Hal-Hal tentang Puasa](/puasa)
 
-- [Tanya-Jawab Puasa](/tanya-jawab/puasa/)
+- [Tanya-Jawab tentang Puasa](/tanya-jawab/puasa/)
+
+- [Utang](/utang)
 
 ### Blog
 

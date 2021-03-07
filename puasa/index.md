@@ -111,9 +111,9 @@ Tn. Rahmat Ali, HA. OT. (r.a.) dalam karyanya, Rahasia Rukun Islam, menjelaskan 
 
 ### Tanya-Jawab
 
-[Tanya-Jawab tentang Puasa](/tanya-jawab/puasa/)
+- [Tanya-Jawab tentang Puasa](/tanya-jawab/puasa/)
 
-### Serial Ceramah Puasa
+### Artikel tentang Puasa
 
 {% for tag in site.tags %}
 {% if tag contains "puasa" %}
@@ -126,37 +126,9 @@ Tn. Rahmat Ali, HA. OT. (r.a.) dalam karyanya, Rahasia Rukun Islam, menjelaskan 
 {% endif %}
 {% endfor %}
 
-### Istilah-istilah yang Berkaitan dengan Puasa
+### Hal-Hal yang Berkaitan dengan Puasa
 
 - [Puasa](/puasa) atau [Shaum](/puasa)
-
-	- Hukum Puasa
-
-		- Hal-hal yang Tidak Membatalkan Puasa
-
-		- Sengaja Membatalkan Puasa
-
-		- Utang Puasa
-
-		- Mengqodho Puasa atau Mengganti Puasa
-
-		- Keringanan Puasa
-
-			- Orang Sakit
-
-			- Musafir
-
-			- Orang yang Tidak Kuat Berpuasa
-
-			- ibu Hamil dan Menyusui
-
-			- Berperang di Jalan Allah
-
-			- Pelajar yang Sedang Ujian
-
-			- Fidyah
-
-		- Hal-hal yang Menghilangkan Pahala Puasa
 
 	- [_Hilal_](/hilal)
 
@@ -164,9 +136,9 @@ Tn. Rahmat Ali, HA. OT. (r.a.) dalam karyanya, Rahasia Rukun Islam, menjelaskan 
 
 	- [Sahur](/sahur)
 
-		- Imsak
+		- [Imsak](/sahur#kapan-sahur-harus-dihentikan-imsak)
 
-	- Berbuka Puasa atau _Iftar_
+	- [Berbuka Puasa](/iftar) atau [_Iftar_](/iftar)
 
 		- Takjil
 
@@ -188,9 +160,41 @@ Tn. Rahmat Ali, HA. OT. (r.a.) dalam karyanya, Rahasia Rukun Islam, menjelaskan 
 
 		- Mustahiq
 
-	- Idul Fitri
-
 	- Puasa Sunnah
+
+	- Hukum Puasa
+
+		- [Hal-Hal yang Membatalkan Puasa](/2021/02/23/yang-membatalkan-puasa.html)
+
+		- Hal-hal yang Tidak Membatalkan Puasa
+
+		- Sengaja Membatalkan Puasa
+
+		- [Utang Puasa](/utang#utang-puasa)
+
+		- Mengqodho Puasa atau Mengganti Puasa
+
+		- Keringanan Puasa
+
+		- Hal-hal yang Menghilangkan Pahala Puasa
+
+			- Orang Sakit
+
+			- Musafir
+
+			- Orang yang Tidak Kuat Berpuasa
+
+			- ibu Hamil dan Menyusui
+
+			- Berperang di Jalan Allah
+
+			- Pelajar yang Sedang Ujian
+
+			- Fidyah
+
+### Hal-Hal yang Bersinggungan dengan Puasa
+
+- Idul Fitri
 
 - Sedekah
 

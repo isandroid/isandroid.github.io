@@ -49,7 +49,7 @@ Dalam Hadits Sunan an-Nasai diriwayatkan,
 
 ...Aku pernah masuk menemui Nabi shallallahu 'alaihi wasallam saat beliau sedang makan sahur, lalu beliau bersabda: "Sesungguhnya itu adalah berkah yang Allah berikan kepada kalian, maka janganlah kalian meninggalkannya." (H.R. An-Nasai) [[^b3d62e12-7fad-4bfa-8029-5e12b37b3fe0]]
 
-[^b3d62e12-7fad-4bfa-8029-5e12b37b3fe0]: [H.R. An-Nasa'i, Kitab [Puasa](/puasa), Keutamaan sahur](/ref/hds-b3d62e12-7fad-4bfa-8029-5e12b37b3fe0)
+[^b3d62e12-7fad-4bfa-8029-5e12b37b3fe0]: [H.R. An-Nasa'i, Kitab Puasa, Keutamaan sahur](/ref/hds-b3d62e12-7fad-4bfa-8029-5e12b37b3fe0)
 
 Berkennaan dengan dua hadits di atas, keduanya membicarakan mengenai keberkahan. Menurut kamus Al-Maany, بَرَكة (berkah) berarti kemakmuran, kebaikan, kebahagiaan, peningkatan derajat ruhani [[^almaany_barokatun]].
 
@@ -81,9 +81,11 @@ Dari Zaid bin Tsabit radliallahu 'anhu berkata: "Kami pernah makan sahur bersama
 
 Sunnahnya, kita berhenti makan sahur sekira bacaan 50 ayat Alquran, yakni sekira 10 menit sebelum Shubuh.
 
-### Kapan Sahur Harus Dihentikan
+### Kapan Sahur Harus Dihentikan (Imsak)
 
-Azan Shubuh bukan batas untuk berhenti Sahur. Menurut Alquran QS Albaqarah (2):188 dijelaskan, Allah Ta'ala berfirman:
+Menghentikan sahur untuk memulai ibadah puasa dikenal dengan Imsak yang artinya "menahan". [[^almaany_imsaak]] Azan Shubuh bukan batas untuk berhenti Sahur. Menurut Alquran QS Albaqarah (2):188 dijelaskan, Allah Ta'ala berfirman:
+
+[^almaany_imsaak]: [Kamus Almaany kata _imsaak_](https://www.almaany.com/id/dict/ar-id/%D8%A7%D9%85%D8%B3%D8%A7%D9%83/) 
 
 <p class="arab">
 ...وَكُلُوا وَاشْرَبُوا حَتَّىٰ يَتَبَيَّنَ لَكُمُ الْخَيْطُ الْأَبْيَضُ مِنَ الْخَيْطِ الْأَسْوَدِ مِنَ الْفَجْرِ ۖ ثُمَّ أَتِمُّوا الصِّيَامَ إِلَى اللَّيْلِ ۚ ...
@@ -91,7 +93,7 @@ Azan Shubuh bukan batas untuk berhenti Sahur. Menurut Alquran QS Albaqarah (2):1
 
 Artinya “...Makan dan minumlah kalian (sahur) sampai tampak kepada kalian benang putih terpisah dari benang hitam (cahaya di cakrawala) pada waktu fajar. Setelah itu sempurnakanlah [puasa](/puasa) dari pagi sampai malam...”. [(Al-Baqarah: 188)](/ref/qrn-002-188)
 
-Jadi batas berhentinya sahur itu adalah ketika sudah terbit fajar. Ini juga disebutkan seperti penjelasan Hadits Sahih Bukhari berikut:
+Jadi batas berhentinya sahur (imsak) itu adalah ketika sudah terbit fajar. Hal ini selaras Hadits Sahih Bukhari berikut:
 
 <p class="arab">
 عَنْ عَبْدِ اللَّهِ بْنِ مَسْعُودٍ أَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ لَا يَمْنَعَنَّ أَحَدَكُمْ أَذَانُ بِلَالٍ مِنْ سُحُورِهِ فَإِنَّهُ يُؤَذِّنُ لِيَنْتَبِهَ نَائِمُكُمْ وَلِيَرْجِعَ قَائِمُكُمْ وَلَيْسَ الْفَجْرُ أَنْ يَقُولَ هَكَذَا وَلَكِنْ هَكَذَا يَعْتَرِضُ فِي أُفُقِ السَّمَاءِ
@@ -104,5 +106,7 @@ Dari Abdullah bin Mas'ud bahwa Rasulullah shallallahu 'alaihi wasallam bersabda:
 Fajar (dalam bahasa Arab ditulis فَجْرٌ fajrun) berarti cahaya kemerah-merahan di langit menjelang matahari terbit [[^kbbi_fajar]]
 
 [^kbbi_fajar]: [KBBI kata Fajar](https://kbbi.kemdikbud.go.id/entri/fajar)
+
+Walaupun demikian, sesuai sunnah Rasulullah (saw), beberapa menit sebelum Shalat Shubuh (sekira bacaan 50 ayat Alquran), beliau (saw) telah menghentikan sahur. [[^6f1a39af-3b99-4625-aea4-caedae0f6fc6]]
 
 ### Catatan Kaki
