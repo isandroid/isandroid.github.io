@@ -1,5 +1,4 @@
 
-<!--- 
 Hadhrat Masih Mau'ud a.s. bersabda,
 Kemudian beliau bersabda: “Duduk
 persoalannya adalah, bahwa mengamalkan
@@ -105,6 +104,3 @@ Siratul Mahdi jilid 1, bagian som, halaman 637, riwayat 697
 
 https://www.alislam.org/archives/sermons/summary/FSS20160603-ID.pdf
 hlm 23
-
-
--->
