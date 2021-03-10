@@ -1,6 +1,6 @@
 ---
 title: Tanya-Jawab Puasa
-layout: default
+layout: faq
 description: halaman tanya-jawab hal-hal tentang puasa
 ---
 
