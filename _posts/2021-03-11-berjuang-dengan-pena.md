@@ -19,6 +19,81 @@ Menyampaikan kebenaran itu merupakan tugas para utusan Allah Ta'ala. Sebagai uma
 
 [^bukhari_3202]: [H.R. Al-Bukhari, Kitab Hadits-hadits yang meriwayatkan tentang para Nabi, Bab Bani Israil](https://www.hadits.id/hadits/bukhari/3202)
 
+### Keutamaan Pena
+
+Allah Ta'ala sangat menghargai data. Oleh karena itu, dalam satu riwayat, yang pertama kali Dia cipatakan adalah "pena" untuk menulis data rincian takdir ciptaan-Nya. Rasulullah (saw) bersabda,
+
+<p class="arab">
+إِنَّ أَوَّلَ مَا خَلَقَ اللَّهُ الْقَلَمَ فَقَالَ لَهُ اكْتُبْ قَالَ رَبِّ وَمَاذَا أَكْتُبُ قَالَ اكْتُبْ مَقَادِيرَ كُلِّ شَيْءٍ حَتَّى تَقُومَ السَّاعَةُ
+</p>
+
+"Pertama kali yang Allah ciptakan adalah pena, lalu Allah berfirman kepadanya: 
+
+> "Tulislah!" 
+
+pena itu menjawab, 
+
+> "Wahai Rabb, apa yang harus aku tulis?" 
+
+Allah menjawab: 
+
+> "Tulislah semua takdir yang akan terjadi hingga datangnya hari kiamat." 
+
+(H.R. Abu Dawud) [[^dawud_4078]]
+
+[^dawud_4078]: [H.R. Abu Dawud, Kitab Sunnah, Bab Penjelasan tentang takdir](https://www.hadits.id/hadits/dawud/4078)
+
+Dalam beberapa hadits tertera istilah, "telah digariskan oleh pena" itu berarti sesuatu yang telah ditentukan takdirnya oleh Allah Ta'ala. [[^tirmidzi_3036]] Dan "Pena telah kering" itu berarti takdir sudah menjadi ketentuan Alllah dan tidak bisa diubah kembali. [[^tirmidzi_2566]]. Selain itu pena juga digunakan dalam merekam amal perbuatan [[^tirmidzi_1343]]. 
+
+[^tirmidzi_3036]: [H.R. At-Tirmidzi, Kitab Tafsir al Quran, Bab Diantara surat Hud](https://www.hadits.id/hadits/tirmidzi/3036)
+
+[^tirmidzi_2566]: [H.R. At-Tirmidzi, Kitab Iman, Bab Umat ini akan terpecah belah](https://www.hadits.id/hadits/tirmidzi/2566)
+
+[^tirmidzi_1343]: [At-Tirmidzi, Kitab Hukum Hudud, Bab Orang yang tidak terkena hukuman](https://www.hadits.id/hadits/tirmidzi/1343)
+
+Pena atau tulisan bisa berfungsi mengingatkan kembali apa yang pernah kita lihat atau apa yang pernah kita dengarkan. Diriwayatkan,
+
+<p class="arab">
+عَنْ زَيْدِ بْنِ ثَابِتٍ قَالَ دَخَلْتُ عَلَى رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ وَبَيْنَ يَدَيْهِ كَاتِبٌ فَسَمِعْتُهُ يَقُولُ ضَعْ الْقَلَمَ عَلَى أُذُنِكَ فَإِنَّهُ أَذْكَرُ لِلْمُمْلِي
+</p>
+
+dari Zaid bin Tsabit ia berkata; Aku masuk menemui Rasulullah shallallahu 'alaihi wasallam, sementara di hadapan beliau terdapat seorang juru tulis, aku mendengar beliau (saw) bersabda; 
+
+> "Letakkanlah pena di atas telingamu karena itu dapat menguatkan ingatan orang yang mendikte." (H.R. At-Tirmidzi) [[^tirmizi_2638]]
+
+[^tirmizi_2638]: [H.R. At-Tirmidzi, Kitab Meminta zin dan Adab, Bab Tata urut alquran](https://www.hadits.id/hadits/tirmidzi/2638)
+
+### Pena dalam peristiwa Isra' dan Mi'raj
+
+Dalam satu riwayat dikisahkan dalam Kitab Sahih Muslim,
+
+<p class="arab">
+أَخْبَرَنِي ابْنُ حَزْمٍ أَنَّ ابْنَ عَبَّاسٍ وَأَبَا حَبَّةَ الْأَنْصَارِيَّ كَانَا يَقُولَانِ قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ثُمَّ عَرَجَ بِي حَتَّى ظَهَرْتُ لِمُسْتَوًى أَسْمَعُ فِيهِ صَرِيفَ الْأَقْلَامِ
+</p>
+
+telah mengabarkan kepada kami Ibnu Hazm bahwa Ibnu Abbas dan Abu Habbah al-Anshari keduanya berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: 
+
+> "Kemudian Jibril naik bersamaku hingga aku menaiki tempat datar di mana aku mendengar suara pena." 
+
+(H.R. Muslim) [[^muslim_237]]
+
+[^muslim_237]: [Muslim, Kitab Iman, Isra' Rasulullah Shallallahu 'alaihi wa Sallam ke langit](https://www.hadits.id/hadits/muslim/237)
+
+Dalam kitab Sahih Bukhari tertulis,
+
+<p class="arab">
+أَنَّ ابْنَ عَبَّاسٍ وَأَبَا حَبَّةَ الْأَنْصَارِيَّ كَانَا يَقُولَانِ قَالَ النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ثُمَّ عُرِجَ بِي حَتَّى ظَهَرْتُ لِمُسْتَوَى أَسْمَعُ فِيهِ صَرِيفَ الْأَقْلَامِ
+</p>
+
+Ibnu 'Abbas dan Abu Habbah Al Anshari keduanya berkata, "Nabi shallallahu 'alaihi wasallam bersabda: 
+
+> "Kemudian aku dimi'rajkan hingga sampai ke suatu tempat yang aku dapat mendengar suara pena yang menulis." 
+
+(H.R. Bukhari) [[^bukhari_336]]
+
+[^bukhari_336]: [Al-Bukhari, Kitab Shalat, Bab Bagaimana shalat diwajibkam pada malam Isra'](https://www.hadits.id/hadits/bukhari/336)
+
+
 ### Bertablig dengan Pena
 
 Seseorang mengatakan kepada Hadhrat Masih Mau'ud as: "Orang-orang menyebut Tuan sebagai orang yang polos, sebab buku-buku dibagikan secara cuma-cuma". 
