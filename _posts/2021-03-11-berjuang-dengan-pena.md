@@ -1,8 +1,8 @@
 ---
-title: Bertablig Dengan Pena
+title: Berjuang Dengan Pena
 layout: post
 tags: tablig
-description: Penjelasan mengapa harus bertablig dengan Pena
+description: Penjelasan mengapa harus berjuang untuk bertablig atau menyampaikan kebenaran melalui Pena atau tulisan
 ---
 
 ## {{ page.title }}
