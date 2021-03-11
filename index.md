@@ -3,6 +3,8 @@ title: Beranda
 layout: default
 ---
 
+{{ node.url }}
+
 Selamat datang di pustaka daring pribadi milik Isa Mujahid Islam. Situs ini dibuat sebagai tempat untuk mengumpulkan bahan-bahan rujukan pribadi. Walaupun begitu, siapapun yang ingin mengambil manfaat dari situs ini, saya persilakan.
 
 Situs ini masih terus dalam pengembangan. Masih banyak kekurangan dimana-mana. Saya secara pribadi menerima masukan yang membangun demi sempurnanya situs ini.

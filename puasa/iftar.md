@@ -20,10 +20,38 @@ Menurut ayat diatas, akhir pelaksanaan puasa itu adalah ketika malam. Di dalam I
 Rasulullah saw pernah memberikan contoh,
 
 <p class="arab">
-سَمِعْتُ عَبْدَ اللَّهِ بْنَ أَبِي أَوْفَى يَقُولُ سِرْنَا مَعَ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ وَهُوَ صَائِمٌ فَلَمَّا غَرَبَتْ الشَّمْسُ قَالَ يَا بِلَالُ انْزِلْ فَاجْدَحْ لَنَا قَالَ يَا رَسُولَ اللَّهِ لَوْ أَمْسَيْتَ قَالَ انْزِلْ فَاجْدَحْ لَنَا قَالَ يَا رَسُولَ اللَّهِ إِنَّ عَلَيْكَ نَهَارًا قَالَ انْزِلْ فَاجْدَحْ لَنَا فَنَزَلَ فَجَدَحَ فَشَرِبَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ثُمَّ قَالَ إِذَا رَأَيْتُمْ اللَّيْلَ قَدْ أَقْبَلَ مِنْ هَا هُنَا فَقَدْ أَفْطَرَ الصَّائِمُ وَأَشَارَ بِأُصْبُعِهِ قِبَلَ الْمَشْرِقِ
+إِذَا رَأَيْتُمْ اللَّيْلَ قَدْ أَقْبَلَ مِنْ هَا هُنَا فَقَدْ أَفْطَرَ الصَّائِمُ وَأَشَارَ بِأُصْبُعِهِ قِبَلَ الْمَشْرِقِ
 </p>
 
-Saya mendengar Abdullah bin Abu Aufa berkata; kami berjalan bersama Rasulullah shallallahu 'alaihi wasallam sementara beliau sedang berpuasa, kemudian tatkala matahari telah tenggelam beliau berkata; wahai Bilal, turun dan aduklah untuk kami. Ia berkata; wahai Rasulullah, seandainya anda menunggu hingga masuk sore hari dengan sempurna! Beliau berkata: "Turun dan aduklah untuk kami!" Ia berkata; wahai Rasulullah, sesungguhnya anda masih berada pada siang hari. Beliau berkata: "Turun dan aduklah untuk kami!" Kemudian ia turun dan mengaduk. Lalu Rasulullah shallallahu 'alaihi wasallam minum kemudian bersabda: "Apabila kalian melihat malam telah datang dari sini, maka orang yang berpuasa telah berbuka." Beliau menunjuk dengan jarinya ke arah timur. (H.R. Abu Dawud) []
+"Apabila kalian melihat malam telah datang dari sini, maka orang yang berpuasa telah berbuka." Beliau menunjuk dengan jarinya ke arah timur. (H.R. Abu Dawud) [[^66900daf-995c-4822-b75d-5a5a03da570f]]
+
+[^66900daf-995c-4822-b75d-5a5a03da570f]: [H.R. Abu Dawud, Kitab Puasa, Bab Waktu berbuka puasa](/ref/hds-66900daf-995c-4822-b75d-5a5a03da570f)
+
+Berikut ini keberkahan ketika menyegerakan berbuka puasa: 
+
+### (1) Mendapat Kebaikan dari Allah Ta’ala
+
+Dalam Hadits Sahih al-Bukhari diriwayatkan bahwa Rasulullah (saw) bersabda,
+
+<p class="arab">
+لَا يَزَالُ النَّاسُ بِخَيْرٍ مَا عَجَّلُوا الْفِطْرَ عَجِّلُوا الْفِطْرَ فَإِنَّ الْيَهُودَ يُؤَخِّرُونَ
+</p>
+
+"Manusia akan tetap dalam kebaikan selama mereka bersegera dalam berbuka. Maka segerakanlah berbuka, sebab orang-orang Yahudi mengakhirkannya." (H.R. Ibnu Majah) [[^16fed5d3-f2c9-4be1-aa7d-0a41db9531fa]]
+
+[^16fed5d3-f2c9-4be1-aa7d-0a41db9531fa]: [H.R. Sunan Ibnu Majah, Kitab Puasa, Bersegera untuk berbuka](/ref/hds-16fed5d3-f2c9-4be1-aa7d-0a41db9531fa)
+
+### (2) Mendapat Cinta dari Allah Ta’ala
+
+Berdasarkan Hadits Qudsi di dalam Jami' at-Tirmidzi diriwayatkan bahwa Rasulullah (saw) menyampaikan wahyu dari Allah Ta'ala,
+
+<p class="arab">
+قَالَ اللَّهُ عَزَّ وَجَلَّ أَحَبُّ عِبَادِي إِلَيَّ أَعْجَلُهُمْ فِطْرًا
+</p>
+
+Allah 'azza wajalla berfirman: "Hambaku yang paling Aku sukai adalah dia yang selalu menyegerakan berbuka." (HR. Tirmidzi) [[^4ea5982a-9fe1-41f6-83f4-a0e6675d1ecc]]
+
+[^4ea5982a-9fe1-41f6-83f4-a0e6675d1ecc]: [H.R. At-Tirmidzi, Kitab Puasa, Bab Menyegerakan berbuka puasa](/ref/hds-4ea5982a-9fe1-41f6-83f4-a0e6675d1ecc)
 
 ### Menyegerakan Berbuka Puasa (Takjil) 
 
@@ -37,34 +65,16 @@ Takjil merupakan kata masdar (kata benda) dari kata _'ajjala_ (عَجَّلَ). 
 
 [^kbbi_takjil]: [Kamus Besar Bahasa Indonesia kata Takjil](https://kbbi.kemdikbud.go.id/entri/takjil)
 
-Berikut ini keberkahan ketika menyegerakan berbuka puasa: 
-
-#### Mendapat Kebaikan dari Allah Ta’ala
-
-Dalam Hadits Sahih al-Bukhari diriwayatkan,
-
-<p class="arab">
-عَنْ أَبِي هُرَيْرَةَ قَالَ قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ لَا يَزَالُ النَّاسُ بِخَيْرٍ مَا عَجَّلُوا الْفِطْرَ عَجِّلُوا الْفِطْرَ فَإِنَّ الْيَهُودَ يُؤَخِّرُونَ
-</p>
-
-Telah menceritakan kepada kami Abu Bakr bin Abu Syaibah berkata, telah menceritakan kepada kami Muhammad bin Bisyr dari Muhammad bin Amru dari Abu Salamah dari Abu Hurairah ia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Manusia akan tetap dalam kebaikan selama mereka bersegera dalam berbuka. Maka segerakanlah berbuka, sebab orang-orang Yahudi mengakhirkannya. " (H.R. Ibnu Majah) []
-
-#### Mendapat Cinta dari Allah Ta’ala
-
-Berdasarkan Hadits Qudsi di dalam Jami' at-Tirmidzi diriwayatkan,
-
-<p class="arab">
-عَنْ أَبِي هُرَيْرَةَ قَالَ قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ اللَّهُ عَزَّ وَجَلَّ أَحَبُّ عِبَادِي إِلَيَّ أَعْجَلُهُمْ فِطْرًا
-</p>
-
-Dari Abu Hurairah dia berkata, Rasulullah Shallallaahu 'alaihi wasallam: Allah 'azza wajalla berfirman: " Hambaku yang paling Aku sukai adalah dia yang selalu menyegerakan berbuka." (HR. Tirmidzi) []
-
 ### Pahala Memberi Makanan untuk Orang yang Berbuka Puasa
 
-Dalam Hadits Jami' at-Tirmidzi diriwayatkan,
+Di bulan Ramadhan, ada anjuran untuk memberi makan orang lain yang berbuka puasa. Hal ini diriwayatkan dalam Hadits Jami' at-Tirmidzi bahwa Rasulullah shallallahu 'alaihi wasallam bersabda,
 
 <p class="arab">
-عَنْ زَيْدِ بْنِ خَالِدٍ الْجُهَنِيِّ قَالَ قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ مَنْ فَطَّرَ صَائِمًا كَانَ لَهُ مِثْلُ أَجْرِهِ غَيْرَ أَنَّهُ لَا يَنْقُصُ مِنْ أَجْرِ الصَّائِمِ شَيْئًا قَالَ أَبُو عِيسَى هَذَا حَدِيثٌ حَسَنٌ صَحِيحٌ
+مَنْ فَطَّرَ صَائِمًا كَانَ لَهُ مِثْلُ أَجْرِهِ غَيْرَ أَنَّهُ لَا يَنْقُصُ مِنْ أَجْرِ الصَّائِمِ شَيْئًا
 </p>
 
-Dari Zaid bin Khalid Al Juhani berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Barangsiapa yang memberi makan orang yang berbuka, dia mendapatkan seperti pahala orang yang berpuasa tanpa mengurangi pahala orang yang berpuasa sedikitpun" (H.R. Tirmidzi) []
+"Barangsiapa yang memberi makan orang yang berbuka, dia mendapatkan seperti pahala orang yang berpuasa tanpa mengurangi pahala orang yang berpuasa sedikitpun" (H.R. Tirmidzi) [[^a1ec0f6d-dbe7-46af-850d-7885e51884c2]]
+
+[^a1ec0f6d-dbe7-46af-850d-7885e51884c2]: [H.R. At-Tirmidzi, Kitab Puasa, Bab Keutamaan memberi makan orang yang puasa](/ref/hds-a1ec0f6d-dbe7-46af-850d-7885e51884c2)
+
+### Catatan Kaki
