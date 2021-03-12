@@ -65,6 +65,28 @@ Takjil merupakan kata masdar (kata benda) dari kata _'ajjala_ (عَجَّلَ). 
 
 [^kbbi_takjil]: [Kamus Besar Bahasa Indonesia kata Takjil](https://kbbi.kemdikbud.go.id/entri/takjil)
 
+### Berdoa Ketika Berbuka
+
+Rasulullah (saw) mencontohkan berdoa ketika berbuka puasa. Doa tersebut adalah:
+
+<p class="arab">
+اللَّهُمَّ لَكَ صُمْتُ وَعَلَى رِزْقِكَ أَفْطَرْتُ
+</p>
+
+_allaahumma laka shumtu wa 'alaa rizqika afthartu_ (Ya Allah, untukMu aku berpuasa, dan dengan rejeki-Mu aku berbuka). (H.R. Abu Dawud) [[^hds-601ca775-f1a4-4841-82b4-9d03d719a163]]
+
+[^hds-601ca775-f1a4-4841-82b4-9d03d719a163]: [H.R. Abu Dawud, Kitab Puasa, Doa saat buka puasa](/ref/hds-601ca775-f1a4-4841-82b4-9d03d719a163)
+
+Dalam riwayat yang lain, 
+
+<p class="arab">
+ذَهَبَ الظَّمَأُ وَابْتَلَّتْ الْعُرُوقُ وَثَبَتَ الْأَجْرُ إِنْ شَاءَ اللَّهُ
+</p>
+
+_dzahabazh zhamaa'u wabtallatil 'uruuqu wa tsabatil ajru in syaa-allaah_ (Telah hilang dahaga, dan telah basah tenggorokan, dan telah tetap pahala insya Allah). (H.R. Abu Daud) [[^hds-648a1e90-9d4b-4394-87b5-8d4fa59a6d37]]
+
+[^hds-648a1e90-9d4b-4394-87b5-8d4fa59a6d37]: [H.R. Abu Dawud, Kitab Puasa, Doa saat buka puasa](/ref/hds-648a1e90-9d4b-4394-87b5-8d4fa59a6d37)
+
 ### Pahala Memberi Makanan untuk Orang yang Berbuka Puasa
 
 Di bulan Ramadhan, ada anjuran untuk memberi makan orang lain yang berbuka puasa. Hal ini diriwayatkan dalam Hadits Jami' at-Tirmidzi bahwa Rasulullah shallallahu 'alaihi wasallam bersabda,
