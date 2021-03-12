@@ -25,7 +25,9 @@ cetakan: ke-sembilan
 
 Hendaknya hal ini difahami dengan jelas, baiat hanya berupa ikrar dengan mulut tidaklah  mempunyai arti apa-apa jika tidak ditunjang oleh suatu kebulatan tekad hendak melaksanakan janji itu sepenuh-penuhnya. Oleh karena itu, barangsiapa mengamalkan ajaranku seutuhnya ia masuk rumah yang mengenainya ada janji dari Allah (swt): 
 
-(bahasa arab)
+<p class="arab">
+إِنِّيْ أُحَافِظُ كُلَّ مَنْ فِى الدَّارِ
+</p>
 
 "Tiap-tiap orang yang berada di dalam dinding pagar rumahmu akan Kuselamatkan" 
 
@@ -96,9 +98,11 @@ Barangsiapa yang memuliakan Alquran akan memperoleh kemuliaan di langit. Barangs
 
 bahwa di bawah bentangan langit ini tidak ada rasul lain yang semartabat dengan beliau dan tidak ada Kitab lain yang sederajat dengan Alquran; bahwa Tuhan tidak menghendaki siapapun hidup untuk selama-lamanya; akan tetapi, bagi Nabi yang penuh dengan keberkatan itu Dia menghendaki demikian, untuk menghidupkan beliau selama-lamanya, Dia meletakkan dasar untuk mengalirkan hikmah Syariat dan keberkatan rohani terus hingga hari Kiamat. Dan pada akhirnya, dari arus berkat rohaninya Dia mengutus untuk umat manusia seorang Masih Mau'ud (Juru Selamat Yang Dijanjikan) ke dunia ini, yang kedatangannya sangat diperlukan guna menyempurnakan bangunan Islam. Sebab, hal demikian itu perlu karena dunia ini jangan berakhir sebelum silsilah Muhammad saw, diberi seorang Masih rohani seperti halnya telah diberikan kepada silsilah Musa (as) Maksud itulah yang diisyaratkan oleh ayat di bawah ini: 
 
-(arab)
+<p class="quran">
+اِہۡدِ نَا الصِّرَاطَ الۡمُسۡتَقِیۡمَ ۙ صِرَاطَ الَّذِیۡنَ اَنۡعَمۡتَ عَلَیۡہِمۡ ...
+</p>
 
-"Tuntunlah kami pada jalan yang lurus; jalan orang orang yang telah Engkau beri nikmat".
+"Tuntunlah kami pada jalan yang lurus; jalan orang orang yang telah Engkau beri nikmat...".
 
 Musa (as) mendapati harta pusaka yang telah hilang semenjak berabad-abad yang lampau, sedangkan Muhammad (saw) telah menemukan kembali harta pusaka yang telah hilang dari silsilah Musa (as) itu. 
 
@@ -252,7 +256,9 @@ Karena itu berhati-hatilah jangan melangkah selangkah pun bertentangan dengan aj
 
 sendiri. Jalan keselamatan yang hakiki dibuka hanya oleh Alquran, sedangkan semua yang lainnya hanya bayangannya semata. Karena itu, hendaknya mempelajari Alquran dengan seksama dan hendaknya kamu mencintai begitu rupa mendalammya seperti layaknya kamu tidak pernah mencintai apapun sebesar itu. Sebab, sebagaimana Tuhan berfirman kepadaku : 
 
-(arab)
+<p class="arab">
+اَلْخَيْرُ كُلُّهُ فِى الْقُرْءَانِ
+</p>
 
 "Segala macam kebaikan terkandung di dalam Alquran". 
 
@@ -263,11 +269,13 @@ Hal itu benar adanya. Sayang sungguh orang orang yang mengutamakan sesuatu yang 
 andaikata diberikan kepada kaum Yahudi sebagai ganti Kitab Taurat, maka banyak daripada firkah-firkah atau aliran-aliran mereka tidak akan memungkiri Hari Kiamat. Karena itu, hargailah nikmat yang dilimpahkan kepadamu ini. Nikmat ini sangat berharga sekali. Nikmat ini merupakan harta pusaka yang besar nilainya. Sekiranya Alquran tidak diturunkan maka dunia ini tak lain layaknya hanya seperti segumpal daging yang menjijikan. Sesungguhnya Alquran itu Kitab yang bila dibandingkan dengan segala sumber petunjuk lainnya, sumber-sumber lainnya itu tidak berarti apa-apa. Kitab Injil dibawa oleh Rohulkudus yang menampakkan diri dalam bentuk seekor burung dara, hewan yang tidak berdaya dan lemah - seekor kucing pun dapat menerkamnya. Oleh karena itulah hari demi hari agama Nasrani kian menjadi lemah dan rohaniyatnya sudah tidak hadir lagi di dalamnya. Akan tetapi, Rohulkudus Alquran menampakkan diri dalam bentuk yang gagah perkasa, wujudnya terbentang dari ufuk ke ufuk dan melingkupi seluruh bumi dan bentangan bumi. 
 Alquran dapat membuat manusia jadi insan suci dalam jangka waktu seminggu. Alquran dapat membuat dirimu seperti para nabi, asalkan kamu secara lahiriah atau pada dasarnya tidak berpaling daripadanya. Selain Alquran, Kitab mana lagi yang semenjak mula mengajarkan kepada pembacanya doa ini. 
 
-(arab)
+<p class="quran">
+اِہۡدِ نَا الصِّرَاطَ الۡمُسۡتَقِیۡمَ ۙ صِرَاطَ الَّذِیۡنَ اَنۡعَمۡتَ عَلَیۡہِمۡ ...
+</p>
 
 #### halaman-36
 
-“Tuntunlah kami pada jalan yang lurus, jalan orang orang yang telah engkau beri nikmat." 
+“Tuntunlah kami pada jalan yang lurus, jalan orang orang yang telah engkau beri nikmat..." 
 
 Maksudnya, tunjukkanlah kepada kamu jalan jalan kenikmatan yang ditunjukkan kepada orang-orang dahulu seperti para Nabi, para Rasul, para Siddiq, para Syuhada, dan para Salihin. Karena itu, julangkanlah tekadmu tinggi-tinggi dan jangan menolak seruan Alquran bilamana ia menghendaki kamu beramal untuk meraih nikmat-nikmat yang telah diberikan kepada orang-orang dahulu. Allah (swt)., pada hakikatnya, cenderung melimpahkan karunia lebih banyak dari itu. Tuhan telah menjadikan ahli waris harta pusaka mereka, baik secara rohani maupun secara jasmani, tetapi sampai hari Kiamat kekayaan-kekayaan itu tidak akan diwariskan kepada umat lain. Tuhan tidak sekali-kali akan memahrumkan kamu dari limpahan nikmat wahyu, ilham mukallimat, dan mukhatibat. Dia akan menyempurnakan terhadapmu semua nikmat yang telah diberikan kepada orang-orang dahulu itu. Akan tetapi barangsiapa yang karena keangkuhannya berdusta tentang Tuhan dengan mengatakan bahwa wahyu Ilahi telah turun kepadanya padahal tidak, atau mengatakan bahwa ia telah mendapat kehormatan menikmati hubungan dengan Tuhan yaitu mukallimat dan mukhatibat padahal tidak, maka aku berkata dengan meminta kesaksian dari Tuhan dan malaikat-malaikat Nya bahwa dia pasti akan binasa; sebab, dia telah berdusta dan kicu menipu terhadap Khaliknya serta memperlihatkan sikap yang lancang lagi gegabah. 
 
@@ -309,15 +317,21 @@ Tetapi, kalau ada sebuah Hadis yang mengandung nubuatan atau khabar gaib dan par
 
 demikian kamu akan menjadi seteru Islam dan Allah Taala berfirman: 
 
-(arab)
+<p class="quran">
+...فَلَا یُظۡہِرُ عَلٰی غَیۡبِہٖۤ اَحَدًا ﴿ۙ۲۷﴾ اِلَّا مَنِ ارۡتَضٰی مِنۡ رَّسُوۡلٍ ...
+</p>
 
-"Maka Dia (Allah) tidak akan menerangkan kegaiban Nya kepada seseorang kecuali kepada seseorang rasul yang diridhai-Nya". 
+"Maka Dia (Allah) tidak akan menerangkan kegaiban Nya kepada seseorang kecuali kepada seseorang rasul yang diridhai-Nya". (QS Jin [72]: [27](https://www.alislam.org/quran/72:27)-[28](https://www.alislam.org/quran/72:28))
 
 Karena itu, terhadap siapakah khabar gaib atau nubuatan yang benar itu dapat dinisbahkan kecuali kepada seorang yang benar? Apakah pada ketika semacam itu tidak menyalahi kesadaran iman dengan mengatakan bahwa muhadisnya salah? Munasabahkah atau pada tempatnyakah kita mengatakan dalam membenarkan suatu Hadis yang dhoif atas kesaksian peristiwa yang sebenarnya Tuhan sendiri telah keliru? Jikalau ada Hadis yang dhoif tetapi tidak bertentangan dengan Alquran, Sunnah, dan Hadis-hadis lainnya yang sepakat dengan Alquran, hendaknya kamu mengamalkan Hadis-hadis tersebut. Akan tetapi, kamu hendaknya berhati-hati dalam mengikuti Hadis-hadis itu sebab ada fakta bahwa banyak Hadis yang mauzu'ah - yang dibuat-buat dan menimbulkan kericuhan di dalam tubuh agama Islam. Tiap-tiap firqah atau aliran berpegang pada Hadis yang sesuai dengan akidah masing-masing sehingga dalam perkara sembahyang - yang begitu jelas dan tetap (mutawatir) - disebabkan oleh perselisihan antar Hadis, sembahyang yang dilakukan umum 
 
 #### halaman-44
 
 dengan cara berlainan. Ada yang menyebut "Amin' dengan suara nyaring, ada yang mengucapkannya di dalam hati. Ada yang membaca Fatihah bersama sama dengan imam, ada pula yang menganggap bahwa pembacaan itu akan mengacaukan sembahyangnya. Ada yang melipat kedua tangannya di atas dada, sedangkan yang lainnya meletakkan di atas pusarnya. Lantaran yang sesungguhnya dari perbedaan ini terletak dalam Hadis-hadis, dan hal ini cocok dengan firman Ilahi: 
+
+<p class="quran">
+...کُلُّ حِزۡبٍۭ بِمَا لَدَیۡہِمۡ فَرِحُوۡنَ ﴿۵۴﴾
+</p>
 
 "Tiap-tiap golongan merasa senang dengan apa yang ada di tangannya."
 
@@ -361,7 +375,9 @@ karena itu, bukalah matamu dan pelajarilah Hukum Tuhan yang berlaku di atas perm
 
 Tetapi, soal yang penting ialah bagaimanakah kamu memperoleh nikmat itu? Soal itu dijawab oleh Allah (swt). di dalam Alquran : 
 
-(arab)
+<p class="quran">
+وَ اسۡتَعِیۡنُوۡا بِالصَّبۡرِ وَ الصَّلٰوۃِ ؕ ...
+</p>
 
 "Mintalah pertolongan dari Tuhan dengan bersabar dan shalat.” 
 
@@ -406,7 +422,9 @@ datanglah kepada Tuhan dan tinggalkanlah segala hal yang bertentangan dengan keh
 Wahai, para ulama Islam! Janganlah Anda tergesa-gesa mencap diriku pendusta sebab 
 banyak sekali rahasia yang orang-orang tidak dapat memahaminya dengan segera. Janganlah cepat cepat menolak sesuatu, sesaat Anda mendengarnya sebab sikap semacam itu tidak sejalan dengan jiwa ketakwaan. Sekiranya tidak terdapat kesalahan-kesalahan pada diri Anda dan sekiranya Anda tidak memutar-balikkan beberapa Hadis - bertentangan dengan maksud yang sebenarnya - niscaya kedatangan Masih Yang Dijanjikan sebagai Hakim itu tidak akan berguna. Selain itu, menurut kepercayaan Anda sekalian, Masih ibnu Maryam akan turun dari langit untuk mengemban tugas yaitu beliau bersama-sama Imam Mahdi melancarkan perang untuk mengislamkan orang orang dengan jalan kekerasan. Di manakah ada tertulis di dalam Alquranul Karim bahwa untuk kepentingan agama tindakan kekerasan dibenarkan? Malahan Allah Taala di dalam Alquranul Karim berfirman : 
 
-(arab)
+<p class="quran">
+لَاۤ اِکۡرَاہَ فِی الدِّیۡنِ ۟ۙ...
+</p>
 
 "Tidak ada paksaan di dalam urusan agama." 
 
@@ -418,9 +436,11 @@ menyatakan bahwa dalam urusan agama tidak ada paksaan.
 
 Mengenai hal ini jelas, apabila Rasulullah (saw) mengangkat senjata, yaitu berperang, beliau berbuat demikian bukanlah untuk menyebarkan agama melainkan : (1) sebagai tindak hukuman yang setimpal terhadap mereka yang telah membunuh sejumlah besar orang muslimin dan telah mengusir banyak orang muslimin lainnya dari kampung halaman mereka. Kita baca di dalam Alquranul Karim Allah Taala berfirman:
 
-(arab)
+<p class="quran">
+اُذِنَ لِلَّذِیۡنَ یُقٰتَلُوۡنَ بِاَنَّہُمۡ ظُلِمُوۡا ؕ وَ اِنَّ اللّٰہَ عَلٰی نَصۡرِہِمۡ لَقَدِیۡرُ
+</p>
 
-"Izin telah diberikan kepada mereka yang diperangi sebab mereka telah dianiaya dan sesungguhnya, Allah mempunyai kekuasaan menolong mereka." 
+"Izin telah diberikan kepada mereka yang diperangi sebab mereka telah dianiaya dan sesungguhnya, Allah mempunyai kekuasaan menolong mereka." ([QS Al-Hajj [22]: 40](https://www.alislam.org/quran/22:40))
 
 Atau, (2) peperangan ini bersifat mempertahankan diri terhadap mereka yang berusaha mati-matian untuk menghancur-leburkan Islam. Atau, (3) mereka berjuang untuk memperoleh kebebasan dan kemerdekaan. Selain peperangan-peperangan yang dilancarkan demi ketiga maksud dan tujuan tersebut di atas, Rasulullah (saw), dan para Khulafaur Rasyidin tidak pernah melancarkan peperangan dengan maksud yang lain. Pada hakikatnya, 
 
