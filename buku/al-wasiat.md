@@ -51,9 +51,7 @@ kucantumkan juga:
 
 (arab)
 
-Terjemah:
-
-“Waktu yang ditetapkan tentang ajal engkau telah mendekat.
+Terjemah: “Waktu yang ditetapkan tentang ajal engkau telah mendekat.
 Dan tidak Kami tinggalkan suatu sebutan pun yang akan
 menghinakan engkau. Tinggal sedikit lagi jangka waktu yang
 ditetapkan Tuhan tentang engkau. Akan Kami jauhkan dan
@@ -957,30 +955,848 @@ Kuasa dan Maha Pemurah! Berikanlah pekuburan ini khusus
 [^44]:  Pekuburan Ahli Surga. [Penterjemah]
 
 ### halaman-26
+
+‫‪kepada‬‬ ‫‪orang-orang‬‬ ‫‪dari‬‬ ‫‪Jemaatku‬‬ ‫‪yang‬‬ ‫‪berhati‬‬ ‫‪suci,‬‬ ‫‪dan‬‬
+‫‪yang‬‬ ‫‪benar-benar‬‬ ‫‪telah‬‬ ‫‪menjadi‬‬ ‫‪milik‬‬ ‫‪Engkau‬‬ ‫‪dan‬‬ ‫‪yang‬‬ ‫‪di‬‬
+‫‪dalam‬‬ ‫‪amalan-amalannya‬‬ ‫‪tidak‬‬ ‫‪tercampur‬‬ ‫‪dengan‬‬ ‫‪kecintaan‬‬
+‫‪kepada‬‬ ‫‪keduniawian.‬‬ ‫‪Aamin.‬‬
+
+‫‪Lagi‬‬ ‫‪aku‬‬ ‫‪berdoa‬‬ ‫‪untuk‬‬ ‫‪yang‬‬ ‫‪ketiga‬‬ ‫‪kalinya:‬‬ ‫‪“Wahai‬‬
+‫‪Tuhanku‬‬ ‫‪Yang‬‬ ‫‪Mahakuasa‬‬ ‫‪dan‬‬ ‫‪Maha‬‬ ‫!‪Pemurah‬‬ ‫‪Wahai‬‬
+‫‪Tuhanku‬‬ ‫‪Yang‬‬ ‫‪Maha‬‬ ‫‪Pengampun‬‬ ‫‪dan‬‬ ‫‪Maha‬‬ ‫!‪Penyayang‬‬
+‫‪Anugerahkanlah‬‬ ‫‪pekuburan‬‬ ‫‪ini‬‬ ‫‪di‬‬ ‫‪sini‬‬ ‫‪hanya‬‬ ‫‪bagi‬‬ ‫‪mereka‬‬
+‫‪yang‬‬ ‫‪memiliki‬‬ ‫‪iman‬‬ ‫‪yang‬‬ ‫‪sejati‬‬ ‫‪kepada‬‬ ‫‪Pesuruh‬‬ ‫‪Engkau‬‬ ‫‪ini‬‬
+‫‪dan‬‬ ‫‪yang‬‬ ‫‪tidak‬‬ ‫‪menaruh‬‬ ‫‪sifat‬‬ ‫‪kemunafikan,‬‬ ‫‪hawa‬‬ ‫‪nafsu,‬‬
+‫‪keragu-raguan‬‬ ‫‪dan‬‬ ‫‪buruk‬‬ ‫‪sangka‬‬ ‫[[^45]]‬‬ ‫‪di‬‬ ‫‪dalam‬‬ ‫‪hatinya.‬‬ ‫‪Dan‬‬
+
+[^45]: ‫Buruk‬‬ ‫‪sangka‬‬ ‫‪adalah‬‬ ‫‪suatu‬‬ ‫‪penyakit‬‬ ‫‪yang‬‬ ‫‪sangat‬‬ ‫‪cepat‬‬ ‫‪membakar‬‬ ‫‪iman,‬‬
+	‫‪laksana‬‬ ‫‪api‬‬ ‫‪yang‬‬ ‫‪bernyala-nyala‬‬ ‫‪membakar‬‬ ‫‪daun-daun‬‬ ‫‪kering.‬‬ ‫‪Orang-orang‬‬
+	‫‪yang‬‬ ‫‪berburuk‬‬ ‫‪sangka‬‬ ‫‪terhadap‬‬ ‫‪rasul-rasul‬‬ ‫‪Allah,‬‬ ‫‪Tuhan‬‬ ‫‪Sendiri‬‬ ‫‪yang‬‬ ‫‪akan‬‬
+	‫‪menjadi‬‬ ‫‪musuhnya,‬‬ ‫‪dan‬‬ ‫‪Tuhan‬‬ ‫‪akan‬‬ ‫‪bangkit‬‬ ‫‪berperang‬‬ ‫‪melawan‬‬ ‫‪dia.‬‬ ‫‪Tuhan‬‬
+	‫‪begitu‬‬ ‫‪banyak‬‬ ‫‪memiliki‬‬ ‫‪ghairat‬‬ ‫‪terhadap‬‬ ‫‪orang-orang‬‬ ‫‪suci‬‬ ‫‪pilihan-Nya,‬‬ ‫‪yang‬‬
+	‫‪tidak‬‬ ‫‪akan‬‬ ‫‪didapat‬‬ ‫‪bandingannya‬‬ ‫‪pada‬‬ ‫‪siapa‬‬ ‫‪pun.‬‬ ‫‪Ketika‬‬ ‫‪serangan‬‬ ‫‪bertubi-‬‬
+	‫‪tubi‬‬ ‫‪menimpa‬‬ ‫‪diriku,‬‬ ‫‪maka‬‬ ‫‪ghairat‬‬ ‫‪Tuhan‬‬ ‫‪itulah‬‬ ‫‪yang‬‬ ‫‪bergejolak‬‬ ‫‪untukku.‬‬
+	‫‪Sebagaimana‬‬ ‫‪firman-Nya:‬‬
+
+	(arab)
+
+	‫‪Artinya:‬‬ ‫‪“Aku‬‬ ‫‪berdiri‬‬ ‫‪bersama‬‬ ‫‪Rasul‬‬ ‫‪ini.‬‬ ‫‪Aku‬‬ ‫‪mencela‬‬ ‫‪orang‬‬ ‫‪yang‬‬ ‫‪mencelanya‬‬
+	dan Aku menganugerahkan kepadanya suatu hal yang kekal. Engkau
+	mempunyai martabat di Langit dan di pemandangan orang-orang yang
+	mempunyai mata. Kami memperlihatkan Tanda-tanda untuk engkau dan akan
+	Kami runtuhkan perumahan-perumahan yang sedang didirikan oleh mereka.
+	Mereka berkata: “Mengapa Engkau jadikan di bumi ini orang yang akan
+	mengadakan keributan di atasnya?” Tuhan berkata, Aku mengetahui segala
+	yang tidak kamu ketahui. Aku akan menghinakan orang yang bermaksud
+	hendak menghinakan engkau. Janganlah takut, karena Rasul-rasul-Ku tidak
+	takut dekat Aku. Telah tiba perintah Allah, sebab itu jangan kamu tergesa-
+	gesa. Khabar-suka yang diterima oleh para Nabi. Hai Ahmad-Ku! Engkau
+	adalah tujuan-Ku dan beserta-Ku. Engkau kepada-Ku adalah seperti Tauhid-Ku
+	dan Ketunggalan-Ku. Engkau kepada-Ku adalah di suatu martabat yang tidak
+	diketahui oleh manusia. Engkau terpandang di hadirat-Ku. Aku pilih engkau
+	bagi diri-Ku. Bila engkau marah kepada seseorang. Aku pun marah pula
+	kepadanya, dan apa yang engkau cintai Aku pun cinta pula kepadanya. Aku
+	dahulukan engkau atas segala sesuatu. Segala pujian bagi Allah yang telah
+	menjadikan engkau Al-Masih anak Maryam. Dia tidak akan ditanya tentang
+	perbuatan-Nya, sedang mereka akan ditanya tentang segala perbuatan
+	mereka. Ini suatu perjanjian yang mesti ditepati. Allah akan memelihara
+	engkau dari musuh-musuh dan akan diserang-Nya orang yang menyerang
+	dan menganiaya engkau. Ini disebabkan manusia telah durhaka dan
+	melewati batas. Apakah Allah tidak cukup untuk hamba Nya ini? Hai gunung-
+	gunung dan burung-burung! Ingatlah Aku bersama hamba-Ku ini dengan
+	perasaan asyik dan terharu! Allah sudah menetapkan bahwa Aku dan Rasul-
+	rasul-Ku-lah yang akan menang. Sesudah menangnya mereka dengan cepat
+	akan dikalahkan. Sesungguhnya Allah bersama orang-orang yang mutaki dan
+	orang-orang yang berbuat kebaikan. Sebenarnya orang-orang mukmin itu
+	bagi mereka adalah tingkatan kebenaran di pandangan Tuhan. Selamatlah
+	bagi mereka, ini adalah ucapan dari Tuhan Yang Maha Pengasih. Pada hari
+	ini nyalah kamu, hai orang-orang berdosa!” [Dikutip oleh Penterjemah dari
+	Tadhkirah terjemah bahasa Inggris.]
+
 ### halaman-27
+
+yang menjalankan tuntutan iman dan itaat yang sebenar-
+benarnya. Dan dalam hatinya telah menyerahkan jiwanya
+untuk Engkau dan dalam jalan Engkau, yang Engkau ridha
+kepada mereka dan Engkau tahu, bahwa mereka betul-betul
+fana dalam mencintai Engkau, dan perhubungan mereka dan
+Rasul Engkau adalah perhubungan yang bersemangat dan
+kecintaan yang disertai kesetiaan, penuh kehormatan dan
+Iman yang dicerahkan [[^46]] . Amin Ya Rabbal’alamin!”
+
+[^46]: Disini Hadhrat Masih Mau’ud as. telah menggunakan ungkapan Inshirahi Iman,
+	atau ‘Iman yang dicerahkan’ yang berarti sebuah keimanan yang diliputi
+	dengan keterbukaan hati yang sungguh-sungguh dan tanpa disertai paksaan
+	atau motif tersembunyi apa pun. [Penterjemah]
+
 ### halaman-28
+
+Karena aku telah menerima banyak sekali kabar suka
+berkenaan dengan pekuburan ini, dan bukan saja Tuhan berfirman 
+bahwa ini adalah _Behishti_ [[^47]], melainkan Dia bahkan berfirman:
+
+(arab)
+
+Yakni segala macam Rahmat telah diturunkan dalam
+pekuburan ini, dan tiada suatu Rahmat pun yang tidak
+diterima oleh orang-orang yang berkubur di sini; sebab itu
+Tuhan mencondongkan hatiku dengan wahyu khafi-Nya, [[^48]]
+supaya diadakan syarat-syarat untuk pekuburan ini. Dan
+hanya orang-orang yang memenuhi syarat-syarat tersebut
+dengan benar dan penuh kejujuran, yang dapat memasukinya.
+‫Syarat-syarat itu ada tiga, yang harus dipenuhi oleh semua.
+
+Pertama, tanah pekuburan yang ada ini dari aku, sebagai
+sumbanganku. Tetapi untuk keluasan lahannya harus dibeli
+tanah sedikit lagi, yang harganya menurut taksiran seribu
+rupees. Supaya indah kelihatannya haruslah menanam
+pohon-pohon dan menggali sebuah sumur. Sebelah utara
+pekuburan ini ada jalan lalu-lintas yang umumnya digenangi
+air; sebab itu di sana harus diadakan jembatan. Untuk
+ongkos-ongkos keperluan ini dibutuhkan dua ribu rupees.
+Jadi jumlah tiga ribu rupees, yang akan dibelanjakan untuk
+menyelesaikan semua pekerjaan itu.
+
+(1) Syarat pertama ialah, tiap-tiap orang yang hendak
+dikubur di pekuburan ini hendaklah ia memberikan
+sumbangan menurut keadaannya untuk menutupi
+keperluan-keperluan tadi. Candah (iuran) ini hanya
+diminta dari orang-orang ini, tidak dari orang lain,
+untuk sementara Candah ini harus disampaikan
+
+[^47]: Tempat tinggal orang-orang yang akan masuk surga.[Penterjemah]
+
+[^48]: Wahyu non-verbal berupa Ilham samawi. [Penterjemah]
+
+
 ### halaman-29
+
+kepada saudara kita yang mulia Maulvi Nuruddin
+Sahib. Tetapi jika Allah menghendaki, maka silsilah
+ini akan berjalan terus sepeninggal kita semua.
+Dalam hal ini haruslah ada suatu Anjuman [[^49]]
+(Badan) yang akan mengatur bagaimana pantasnya
+pembelanjaan uang yang terkumpul, yang dalam
+sewaktu-waktu dari Candah ini guna meninggikan
+kalimah Islam dan guna penyiaran Tauhid Ilahi. [[^20]]
+
+(2) Syarat Kedua, ialah di antara semua Jemaat yang
+dapat dikubur di pekuburan ini hanyalah orang yang
+berwasiat, bahwa sesudah ia meninggal, sepersepuluh
+dari harta peninggalannya akan dipergunakan
+untuk penyiaran Islam dan pentablighan dan
+penyebarluasan Ilmu Al-Quran sesuai petunjuk
+silsilah ini. Kepada tiap-tiap orang yang benar dan
+sempurna imannya ada kelonggaran, bahwa ia boleh
+menuliskan lebih dari itu dalam wasiatnya, tetapi
+kurang dari itu tidak boleh . Pemasukan uang ini akan
+diserahkan kepada sebuah Badan yang terpercaya
+dan berpengetahuan. Mereka dengan persetujuan
+bersama menurut petunjuk-petunjuk yang tersebut di
+atas akan membelanjakannya guna kemajuan Islam,
+penyiaran ilmu Al-Quran dan kitab-kitab agama serta
+untuk mubaligh-mubaligh silsilah ini.
+
+Perjanjian Allah Ta’ala ialah, bahwa Dia akan memberi
+kemajuan kepada silsilah ini, sebab itu ada harapan,
+bahwa untuk menyiarkan Islam harta serupa ini akan
+banyak terkumpul. Dan tiap urusan yang termasuk
+dalam bahan-bahan penyiaran Islam, yang bukan
+waktu sekarang untuk menerangkan segalanya,
+
+[^49]: Sebuah Badan Administrasi dalam Jemaat. [Penterjemah]
+
 ### halaman-30
+
+semuanya itu akan diselenggarakan dengan harta
+ini. Dan bila pengurus-pengurus yang mengurus
+pekerjaan ini meninggal dunia, maka pengganti-
+pengganti mereka pun berkewajiban seperti itu
+juga; yaitu menyelenggarakan semua pekerjaan ini
+menurut petunjuk-petunjuk Silsilah Ahmadiyah. [[^51]]
+Dari harta ini ada juga hak anak-anak yatim, hak
+orang-orang miskin dan hak orang-orang yang baru
+masuk Islam, yang tidak mempunyai pencaharian
+cukup, yang masuk dalam Jemaat Ahmadiyah.
+Dibolehkan mengembangkan harta itu dengan
+jalan perniagaan. Janganlah menyangka bahwa ini
+hanya lamunan belaka; bahkan ini adalah rencana
+dan Dzat Yang Mahakuasa, Yang Merajai bumi dan
+langit itu. Aku tidak memikirkan bagaimana harta
+itu dapat terkumpul dan bagaimana Jemaat serupa
+ini bisa terjadi, yang dengan semangat keimanannya
+dapat mempertunjukkan usaha segagah ini. Yang
+jadi pikiranku ialah orang-orang yang diserahi harta
+ini kemudian hari sesudah zaman kita, jangan-
+jangan mereka tergelincir karena melihat harta yang
+begitu banyaknya dan hati mereka lekat pada dunia.
+Sebab itu aku mendoa, mudah-mudahan selamanya
+diperoleh orang-orang yang jujur dalam silsilah ini,
+yang bekerja hanya semata-mata untuk Allah. Ya,
+dibolehkan bagi mereka yang tidak punya penghasilan
+untuk diberi dari harta ini sebagai bantuan belanja.
+
+(3) Syarat ketiga ialah orang yang akan dikubur dalam
+pekuburan ini hendaknya orang-orang mutaki,
+menjauhi segala yang haram, tidak berbuat Syirik [[^52]]
+
+[^51]: Silsilah Ahmadiyah ialah Jemaat secara keseluruhan yang diwakili oleh Hadhrat Masih Mau’ud as. dan para Khalifah yang menggantikan beliau. [Penterjemah]
+
+[^52]: Syirik ialah menyekutukan sesuatu dengan Allah. [Penterjemah]
+
 ### halaman-31
+
+dan Bid’ah [[^53]], muslim yang benar dan bersih.
+
+(4) Tiap orang-orang saleh yang tidak memiliki harta dan
+tidak dapat memberikan sumbangkan harta (kepada
+Jemaat), kalau benar terbukti bahwa ia selalu
+mewakafkan hidupnya untuk agama serta ia seorang
+yang saleh, maka ia dapat dikebumikan di pekuburan
+ini.
+
+[^53]: Bid’ah ialah mengada-adakan sesuatu yang berkenaan dengan keimanan dan keagamaan yang tidak dicontohkan oleh Rasulullah Saw. [Penterjemah]
+
 ### halaman-32
+
+(kosong)
+
 ### halaman-33
+
+#### BEBERAPA PETUNJUK
+
+(1) Tiap saudara yang hendak berwasiat menurut syarat-
+syarat tersebut di atas, wasiatnya itu baru diurus sesudah
+ia meninggal. Tetapi mestilah ia menulis wasiatnya dan
+menyerahkannya kepada orang yang dipercaya oleh
+Jemaat untuk mengurus wasiat. Begitu pula harus dicetak
+dan diumumkan, karena menulis wasiat waktu akan
+meninggal, acapkali menghadapi kesukaran. Dan karena
+tanda-tanda dan bahaya-bahaya dari Langit sudah dekat
+harinya, sebab itu menurut pandangan Allah Ta’ala,
+orang yang menulis wasiatnya di waktu aman mempunyai
+martabat tinggi. Dalam menuliskan wasiat ini, orang
+yang hartanya menghasilkan keuntungan yang tetap,
+ganjarannya pun tetap pula seperti Amal-jariyah. [[^54]]
+
+(2) Tiap saudara yang berada di tempat lain yang jauh dari
+Qadian tapi dalam bahagian negara ini juga, ia menjalani
+syarat-syarat tersebut di atas, maka sesudah ia meninggal,
+ahli-warisnya harus meletakkan jenazahnya itu di dalam
+sebuah peti dan mengantarkannya ke Qadian. Kalau ada
+saudara yang meninggal dunia sebelum pekuburan ini
+selesai, yakni sebelum jembatan dan sebagainya selesai,
+sedang ia patut dikuburkan di pekuburan ini menurut
+syarat-syarat, maka seharusnya ia dikuburkan dahulu
+sebagai amanat di tempatnya dengan memakai peti.
+Kemudian bila pekuburan ini telah selesai dengan segala
+keperluannya, barulah jenazahnya itu dibawa ke Qadian.
+
+[^54]: Sedekah atau amal ibadah lainnya yang pengaruh dan pahalanya terus mengalir tanpa putus. [Penterjemah]
+
 ### halaman-34
+
+Tetapi saudara yang dikuburkan dengan tidak memakai
+peti, tidak munasabah rasanya dikeluarkan lagi dari
+kuburannya. [[^55]]
+
+Hendaklah diketahui, bahwa ini adalah kehendak Allah
+Ta’ala bahwa orang-orang yang memiliki keimanan yang
+sempurna semuanya harus dikebumikan di satu tempat yang
+sama, supaya keturunan yang akan datang ketika melihat
+terkumpulnya mereka di satu tempat itu dapat memperkuat
+iman mereka. Juga supaya jasa-jasa mereka [[^56]] yaitu
+pengkhidmat terhadap agama yang dilakukan oleh mereka
+semata-mata karena Allah, hidup selamanya dalam ingatan
+orang-orang.
+
+Bilakhir, kita berdoa agar mudah-mudahan Allah Ta’ala
+menolong tiap-tiap yang mukhlis dalam pekerjaan ini, dan
+menimbulkan semangat iman pada mereka, dan menyudahi
+mereka dengan Husnul Khatimah. Amin!
+
+Adalah patut, bahwa tiap-tiap saudara dari kalangan
+Jemaat kita yang menerima buku ini agar menyiarkannya
+kepada teman kerabat dan handai-taulannya, dan sedapat
+mungkin menyiarkannya dan menyimpannya dengan baik
+untuk keturunan yang akan datang. Begitu pula hendaknya ia
+menerangkannya kepada orang-orang yang antipati dengan
+
+[^55]: Orang-orang yang berpikiran bodoh hendaknya jangan menganggap bahwa
+	pekuburan ini serta aturannya termasuk pekerjaan bid’ah. Karena aturan
+	ini adalah berdasarkan kepada wahyu lIahi, dan tidak ada campur tangan
+	manusia di dalamnya. Jangan ada yang menyangka, bagaimana seseorang
+	akan menjadi ahli Surga dengan hanya berkubur dalam pekuburan ini saja.
+	Karena bukanlah tujuannya bahwa tanah ini dapat menjadikan orang menjadi
+	ahli Surga, melainkan tujuan perkataan Allah ialah: “Hanya ahli Surga saja
+	yang dikuburkan di sini”. (Penulis).
+
+[^56]: Almarhum/Almarhumah. [Penterjemah]
+
+
 ### halaman-35
+
+cara lemah-lembut dan sopan-santun serta tinggal sabar atas
+celaan orang-orang yang mencela, dan terus-teruslah berdoa.
+
+Dan sebagai penutup doa kami ialah, Alhamdulillahi Rabbil ‘Alamin!
+
+Yang lemah,
+Penulis
+
+Hamba yang senantiasa membutuhkan Allah Ta’ala, Dzat
+Tempat Berlindung Yang Kekal.
+
+Mirza Ghulam Ahmad
+
+Semoga Allah senantiasa melindunginya dan menolongnya.
+
+20 Desember 1905
+
 ### halaman-36
+
+(syair urdu)
+
 ### halaman-37
+
+Awas! Hai orang-orang yang sangat waspada dan suci secara alami
+
+Dalam keserakahanmu terhadap dunia ini, janganlah merusak imanmu.
+
+Janganlah kamu ikatkan hatimu ke tempat persinggahan sementara ini,
+
+Karena dibalik kesenangannya, tersembunyi ratusan kesengsaraan.
+
+Kalau saja kamu memiliki telinga untuk mendengar;
+
+Maka kamu akan menangkap suara dari nyanyian dalam
+kuburan:
+
+“Wahai calon mangsaku; Jangan menderita atas urusan dunia yang kotor ini.”
+
+Semua orang yang terpikat oleh dunia yang malang ini,
+Adalah sandera kesengsaraan, ujian dan godaan.
+
+Selamatlah dia yang selalu memikirkan kematiannya
+Yaitu yang membebaskan diri dari dunia ini dan bergegas
+mengikuti jalan kebenaran.
+
+Bahkan sebelum kematiannya, ia memulai perjalanannya menuju sang Sahabat;
+
+Ia mengucapkan selamat tinggal kepada dunia dan segala yang ada di dalamnya.
+
+Ia siap untuk berangkat menuju akhirat; Sambil membuang segala hal yang bersifat duniawi.
+
+Karena urusan kehidupan ini sangat rahasia dan misterius;
+
+Maka lebih baik bagimu memisahkan dirimu dari tempat ini.
+
 ### halaman-38
+
+Anakku sayang! Neraka yang Al-Qur’an Suci katakan,
+Ialah tidak lain melainkan keserakahan akan dunia ini.
+
+Karena pada akhirnya seseorang harus mengucapkan selamat
+tinggal kepada dunia ini;
+
+Dan, cepat atau lambat, harus menempuh perjalanan ini.
+
+Maka mengapa orang yang bijak harus mengikatkan hatinya
+kepada kebun;
+
+Yang bunga-bunganya menjadi mangsa angin musim gugur?
+
+Hanyalah kebodohan, mengikatkan hati kepada wanita yang
+tunasusila ini,
+
+Karena ia adalah musuh keimanan, kebenaran, dan kesucian.
+
+Apa gunanya memiliki kekasih yang bermuka dua seperti ini,
+
+Siapa yang membunuhmu pada saat damai dan saat perang?
+
+Mengapa kamu tidak jatuh cinta kepada kekasih;
+
+Yang cintanya dapat membebaskan kamu dari belenggu rantai
+berat?
+
+Pergilah, dan pikirkanlah tujuan akhirmu, wahai pemberontak!
+
+Dengarkan Sa’di, jika kamu tak mau mendengarkanku.
+
+Saat kematianmu akan menjadi saat yang membahagiakan;
+
+Asalkan kamu mati dalam kebajikan.
+
 ### halaman-39
+
+#### Lampiran Risalah Al-WASIAT 
+
+[[^57]]
+
+Ada beberapa hal penting yang patut diumumkan
+bersangkutan dengan risalah Al-Wasiat, yang dicantumkan
+di bawah ini.
+
+(1) Pertama, sebelum Pengurus Anjuman Karpardaz
+Masaleh Qabristan (Badan Urusan Pekuburan) [[^58]]
+mengumumkan bahwa pekuburan dengan segala
+keperluannya telah selesai, tidak dibolehkan membawa
+jenazah yang memenuhi syarat-syarat risalah Al-Wasiat
+untuk dikuburkan ke Qadian. Pembuatan jembatan dan
+keperluan-keperluan lainnya harus selesai lebih dahulu.
+Sementara itu jenazah dengan memakai peti dikubur di
+pekuburan lain sebagai titipan.
+
+(2) Setiap orang yang berikrar hendak memenuhi syarat-
+syarat yang tertuang dalam risalah Al-Wasiat, ia harus
+membuat pernyataan tertulis, disaksikan oleh 2 orang
+saksi, dan menyerahkan dokumen pernyataannya kepada
+Badan Anjuman ini dalam keadaan ia sadar jasmani
+dan rohani. Dan dengan jelas dituliskan, bahwa ia
+mewasiatkan atau mewakafkan 1/10 dari semua harta-
+bendanya yang bergerak dan yang tidak bergerak untuk
+penyiaran tujuan-tujuan Silsilah Ahmadiyah, dan
+mestilah diumumkan sekurang-kurangnya dalam dua
+buah surat kabar.
+
+[^57]: (1). Surat kabar Al-Hakam, Vol. 10, No.2, tanggal 17 Januari 1906. [Penterjemah].
+	(2). Majalah Review of Religions, Januari 1906. [Penterjemah]
+
+[^58]: Badan Administrasi yang bertanggungjawab mengurus harta warisan dan urusan-
+	urusan terkait lainnya. Badan tersebut merupakan bagian dari Sadr Anjuman
+	Ahmadiyah, Badan induk dalam Jemaat. [Penterjemah]
+
 ### halaman-40
+
+(3) Kewajiban Badan ini ialah memeriksa pertelaan wasiat
+itu menurut Undang-undang Negara dan Undang-
+undang Syari’at [[^59]] dengan cara memuaskan, kemudian
+memberikan kepada yang berwasiat sepucuk surat
+tanda-bukti yang ditandatangani dan dibubuhi cap.
+Dan bila satu jenazah dibawa ke pekuburan ini menurut
+Undang-undang tersebut di atas, maka surat tanda-bukti
+tadi harus diperlihatkan kepada Badan ini. Kemudian
+barulah jenazah itu dikuburkan di tempat ini menurut
+petunjuk dan pilihan tempat Badan ini.
+
+(4) Dalam pekuburan ini anak-anak yang belum baligh
+tidak akan dikuburkan (di pekuburan ini), kecuali dalam
+keadaan luar biasa yang ditetapkan oleh Badan ini;
+karena mereka memang ahli Surga. Begitu pula sanak-
+keluarga jenazah yang telah berkubur dalam pekuburan
+ini tidak dibolehkan di kubur di sini, kecuali kalau ia
+sendiri memenuhi syarat-syarat risalah Al-Wasiat itu.
+
+(5) Tiap jenazah yang meninggal bukan di tanah Qadian,
+tidak boleh dibawa ke Qadian dengan tidak memakai
+peti. Juga harus memberitahukan sekurang-kurangnya
+sebulan sebelumnya, supaya kalau ada halangan yang
+tiba-tiba bertalian dengan pekuburan, maka Badan ini
+dapat membereskannya dan memberi izin membawa
+jenazah itu.
+
+(6) Kalau seorang saudara —mudah-mudahan jangan ada,
+—meninggal karena terserang Pes, sedang ia memenuhi
+semua syarat risalah Al-Wasiat, maka mestilah ia
+dikuburkan untuk sementara sebagai amanat di sebuah
+tempat yang terpisah, dengan memakai peti dua tahun
+lamanya. Sesudah dua tahun lewat barulah jenazah itu
+boleh dibawa pada ketika di tempatnya dan di Qadian
+
+[^59]: Berhubungan dengan Syariat Islam. [Penterjemah]
+
 ### halaman-41
+
+tidak berjangkit Pes.
+
+(7) Haruslah diperhatikan, bahwa tidak cukup kiranya
+hanya dengan memberikan sepersepuluh dari hartanya
+yang bergerak dan yang tidak bergerak, malah perlu
+orang yang berwasiat itu hendaknya sekuat-tenaganya
+menjalankan hukum-hukum Islam, selalu berikhtiar
+dalam hal ketakwaan dan kesucian, muslim yang
+mengakui hanya satu Tuhan saja dan beriman dengan
+sebenar-benarnya kepada Rasul-Nya, juga tidak suka
+merampas hak-hak orang lain.
+
+(8) Kalau seorang saudara berwasiat sepersepuluh dari
+harta bendanya, dan kebetulan meninggal, umpamanya
+terbenam dalam sungai atau meninggal di suatu negara
+yang dari sana jenazahnya tidak dapat dibawa, maka
+wasiatnya tetap berlaku, dan dalam pandangan Allah
+sama juga seperti ia dikubur dalam pekuburan ini. Dan
+seharusnya dibuat sebuah nisan terbuat dari bata atau
+batu, yang bertuliskan keterangan tentang kejadian itu
+serta harus dipancangkan di atas pekuburan ini sebagai
+kenang-kenangan untuknya.
+
+(9) Badan yang memegang kas ini tidak berwenang
+membelanjakun uang untuk keperluan lain selain tujuan-
+tujuan Silsilah Ahmadiyah. Di antara tujuan-tujuan itu
+yang paling utama ialah penyiaran Islam. Boleh juga
+Badan ini, dengan persetujuan semua, mengembangkan
+uang ini dengan jalan perniagaan.
+
+(10) Semua anggota Badan ini hendaklah anggota-anggota
+Jemaat Ahmadiyah, orang yang mutaki dan jujur.
+Jika di kemudian hari tentang seseorang dirasa tidak
+mutaki atau tidak jujur atau penipu dan menaruh nafsu
+keduniaan dalam dirinya, maka wajiblah Badan ini,
+dengan tidak bertanggguh lagi, mengeluarkan orang
+yang demikian dari Badan ini, serta pilihlah yang lain
+
 ### halaman-42
+
+sebagai gantinya.
+
+(11) Jika timbul perkara mengenai harta Wasiat, maka segala
+ongkos perkara itu harus dibayar dari harta wasiat itu
+juga.
+
+(12) Jika seseorang berwasiat, kemudian karena kelemahan
+imannya ingkar dari wasiatnya atau berpaling dari
+Jemaat ini, maka meskipun menurut Undang-undang
+Negara, Badan ini telah menguasai hartanya, tetapi juga
+tidak boleh Badan ini menahan harta itu, bahkan semua
+harta itu harus dipulangkan, karena Tuhan tidak berhajat
+kepada harta seseorang, dan menurut pandangan Tuhan
+harta yang demikian itu makruh dan patut ditolak.
+
+(13) Karena Badan Anjuman ini pengganti Khalifah yang
+ditetapkan Allah [[^60]], sebab itu haruslah Badan ini bersih
+dari corak-corak keduniaan. Dan semua urusannya
+harus bersih dan berlandaskan kepada keadilan.
+
+(14) Untuk membantu dan memperkuat Badan ini,
+dibolehkan mendirikan Badan cabangnya di luar negeri,
+yang tunduk di bawah petunjuk Anjuman Qadian. Jika
+Badan itu berada di sebuah negeri, yang dari sana tidak
+dapat membawa jenazah, maka kebumikanlah jenazah
+itu di sana. Dan untuk mengambil pahala, hendaklah
+orang ini sebelum wafatnya mewakafkan 1/10 dari
+hartanya. Dan yang menguasai harta itu ialah Badan
+yang ada di negeri itu. Sebaiknya, uang itu dibelanjakan
+untuk keperluan-keperluan agama di negeri itu juga.
+Boleh juga kalau dirasa perlu uang itu diberikan kepada
+Badan Pusat di Qadian. [[^61]]
+
+[^60]: Hadhrat Masih Mau’ud as. dan para Khalifahnya. [Penterjemah]
+
+[^61]: Hadhrat Masih Mau’ud as. telah menggunakan istilah “Headquarter” (Pusat)
+	dan telah menjelaskannya dalam bahasa Urdu. Kami tidak terjemahan kata
+	Markaz Muqami dalam ungkapan bahasa Urdu yang artinya pusat setempat.
+	[Penterjemah]
+
+
 ### halaman-43
+
+(15) Adalah wajib bagi Badan ini untuk selamanya tetap di
+Qadian, karena Tuhan telah memberi berkat kepada
+tempat ini. Dan boleh juga, kalau dirasa perlu, di masa
+depan mendirikan beberapa gedung yang cukup untuk
+pekerjaan ini.
+
+(16) Sekurang-kurangnya dua di antara anggota Badan ini
+selamanya haruslah orang yang tahu benar akan ilmu
+Quran dan Hadits dan yang berpendidikan ilmu Arabi
+dan yang menekuni kitab-kitab Silsilah Ahmadiyah .
+
+(17) Sekiranya ada, mudah-mudahan tidak ada, seseorang
+yang berwasiat sesuai dengan risalah Al-Wasiat
+kena penyakit lepra, yang keadaan jasmaninya tidak
+mengizinkan dibawa ke pekuburan ini, maka orang ini
+menurut keadaan yang nyata tidak munasabah dibawa
+ke pekuburan ini. Tetapi kalau ia tetap teguh dalam
+wasiatnya, maka ia akan mendapat martabat sama
+seperti orang yang berkubur di sini.
+
+(18) Kalau ada seorang yang tidak mempunyai harta bergerak
+ataupun tidak bergerak, tetapi terbukti bahwa ia seorang
+fakir, saleh, mutaki, mukmin yang benar, tidak ada
+dalam dirinya kemunafikan, maka ia pun dengan izinku
+atau sepeninggalku oleh kesepakatan suara Badan ini
+boleh dikuburkan dalam pekuburan ini.
+
+(19) Kalau ada seseorang yang ditolak oleh wahyu khas dari
+Allah Ta’ala, maka walaupun ia menyerahkan harta
+wasiat, tidak juga akan masuk dalam pekuburan ini.
+
+(20) Perihal aku dan anak istriku telah dikecualikan oleh
+Allah Swt . Selain itu tiap lelaki atau perempuan haruslah
+menjalankan syarat-syarat ini. Orang yang mengeritik
+adalah munafik adanya.
+
+Inilah syarat-syarat penting yang sudah dituliskan di
+atas. Di masa depan, yang akan dikubur dalam Pekuburan
+
 ### halaman-44
+
+Ahli Surga ini hanya orang yang memenuhi syarat-syarat
+tadi. Boleh jadi ada sementara orang yang bertabiat buruk-
+sangka akan menjadikan kami sasaran kecaman dalam
+urusan ini, dan menyangka bahwa aturan ini berlandaskan
+pada tujuan-tujuan nafsu atau mengatakannya bid’ah; tetapi
+ingatlah, bahwa ini adalah perbuatan Allah Ta’ala. Apa yang
+dikehendaki-Nya dikerjakan-Nya. Tidak syak bahwa Dia
+mau memisahkan antara orang-orang munafik dan orang-
+orang mukmin dengan aturan ini . Kami sendiri merasa,
+bahwa orang-orang yang baru saja diberitahu tentang aturan
+Ilahi ini, dengan tidak bertangguh lagi mereka terus berpikir
+hendak memberi sepersepuluh dari hartanya di jalan Allah,
+malah lebih dari itu mereka memperlihatkan semangatnya;
+mereka ini membubuhi cap atas keimanannya. Allah Ta’ala
+berfirman:
+
+(arab) [[^62]]
+
+Maksudnya: “Apakah manusia menyangka bahwa Aku
+akan ridha dengan hanya kata mereka, bahwa kami
+sudah beriman, padahal mereka belum diuji?”
+
+Padahal ujian itu belum seberapa. Ujian kepada para
+sahabat ra. dahulu adalah berupa tuntutan jiwa. Mereka
+mengorbankan kepalanya di jalan Allah. Kemudian alangkah
+jauhnya dari kenyataan, pikiran yang mengatakan bahwa
+mengapa tidak diizinkan kepada tiap orang agar dikubur
+dalam pekuburan ini? Kalau benar demikian kebiasannya,
+mengapa di tiap zaman Allah Ta’ala mengadakan ujian?
+Dia di tiap zaman selalu menghendaki supaya ada pemisah
+antara yang buruk dengan yang baik. Sebab itu sekarang
+
+[^62]: Akulah Allah Yang Maha Mengetahui. Apakah manusia menyangka bahwa
+mereka akan dibiarkan berkata, “Kami telah beriman,” dan mereka tidak akan
+diuji?” QS. Al-Ankabut, 29:2-3. [Penterjemah]
+
 ### halaman-45
+
+pun diperbuat-Nya juga seperti itu. Allah Ta’ala di zaman
+Rasulullah Saw pun mengadakan juga beberapa ujian yang
+ringan-ringan; seperti ada aturan, seseorang tidak boleh
+minta nasihat apa jua kepada Rasulullah Saw sebelum
+menghaturkan Nadhrana (hadiah). [[^63]] Aturan ini pun jadi
+juga ujian bagi orang-orang munafik. Kami sendiri merasa,
+bahwa dengan ujian sekarang pun orang-orang yang sangat
+mukhlis, yang benar-benar telah mendahulukan agama
+daripada dunia, akan terpisah dari orang-orang yang lain .
+Dan akan terbuktilah, bahwa ikrar bai’at mereka, betul-betul
+telah diperlihatkan mereka buktinya dan kebenarannya.
+Memang aturan ini amat berat dirasakan orang munafik.
+Dengan ini akan terbukalah aib mereka, dan sesudah mereka
+meninggal, biar lelaki atau perempuan, sekali-kali tidak akan
+bisa dikubur di pekuburan ini
+
+(arab) [[^64]]
+
+Tetapi orang-orang yang memperlihatkan kegiatannya
+dalam pekerjaan ini akan dihitung dalam golongan
+orang-orang suci, dan rahmat-rahmat Allah
+melimpah kekal ke atas mereka selamanya
+
+Sebagai penutup, patut pula diperhatikan, bahwa hari-
+hari musibat telah datang mendekat. Satu gempa hebat yang
+akan membolak-balikkan bumi telah mendekat. Jadi orang
+yang membuktikan ketidakcintaannya kepada dunia sebelum
+menyaksikan azab itu dan membuktikan pula bagaimana ia
+menjalankan perintahku ini, merekalah dalam pandangan
+Allah mukmin yang sebenarnya, dan dalam daftar Tuhan
+mereka akan dicatat sebagai Sabiqunal Awwalun orang-
+
+[^63]: Apa pun yang diberikan sebagai hadiah kepada seorang orang suci, khususnya Rasulullah Saw. .[Penterjemah]
+
+[^64]: Dalam hati mereka ada penyakit, lalu Allah menambah penyakit mereka. QS. Al- Baqarah, 2:11. [Penterjemah]
+
+
 ### halaman-46
+
+orang yang paling di muka dan yang paling terdahulu, Aku
+berbta dengan sungguh-sungguh, bahwa zaman itu telah
+dekat ketika seorang munafik yang karena cinta kepada dunia
+telah menolak perintahku ini; Tatkala datang azab, mereka
+akan berkata dengan menyesal dan sedih: Alangkah baiknya
+kalau semua harta, baik yang bergerak maupun yang tidak
+bergerak, aku berikan di jalan Allah, supaya aku terhindar
+dari azab ini. Ingatlah! Sesudah menyaksikan azab ini,
+iman tidak berguna sedikit juga, dan sedekah akan percuma
+belaka. Lihatlah! Aku memperingatkan kamu tentang azab
+yang sudah dekat benar. Sediakanlah dengan segera bekal
+yang nanti ada gunanya. Aku tidak mau mengambil harta
+apa jua pun dari kamu dan mengumpulkannya dalam
+tanganku; bahkan kamu akan menyerahkan harta itu kepada
+sebuah Badan guna penyiaran agama, yang buahnya kamu
+akan merasa kehidupan Surga. Banyak yang akan menolak
+perintahku ini karena cintanya kepada dunia, akan tetapi
+akan lekas mereka dipisahkan dari dunia dan pada saat yang
+penghabisan mereka akan berkata:
+
+(arab) [[^65]]
+
+(arab) [[^66]]
+
+Penulis
+
+Mirza Ghulam Ahmad
+
+Al-Masih yang dijanjikan Kedatangannya oleh Allah Ta’ala.
+
+6 Januari 1906
+
+
+[^65]: “Inilah yang dijanjikan oleh Tuhan Yang Maha Pemurah, dan Rasul-rasul itu benar semuanya.” [Penterjemah]
+
+[^66]: “Selamat sejahtera bagi siapa saja yang mengikuti Petunjuk.” [Penterjemah]
+
+
 ### halaman-47
+
+Dengan Nama Allah Yang Maha Pemurah, Maha Penyayang
+Kami memujinya, dan menyampaikan shalawat kepada Rasul-Nya yang Mulia
+Notulen Rapat Pertama
+
+MAJLIS MU’TAMIDIN
+SADR ANJUMAN AHMADIYAH
+
+Diselenggarakan tanggal 29 Januari 1906
+
+Yang hadir:
+- Hadhrat Maulvi Nuruddin Sahib  (Ketua),
+- Khan Sahib Muhammad Ali Khan Sahib,
+- Sahibzadah Bashiruddin Mahmud Ahmad Sahib,
+- Maulvi Sayid Muhammad Ahsan Sahib,
+- Khwaja Kemaluddin Sahib
+- Dr. Sayid Muhammad Husein Sahib
+- Sekretaris.
+
+Karena dirasa sangat perlu untuk menerbitkan beberapa
+petunjuk dan memberikan beberapa keputusan, serta tidak
+cukup waktu untuk memberitahukan kepada saudara-
+saudara yang berada di luar, oleh karena itu dengan seizin
+Hadhrat Masih Mau’ud as dengan tujuan pengesahan
+peraturan-peraturan, pertemuan ini diselenggarakan.
+
+Beberapa keputusan telah diambil seperti tercantum di
+bawah ini:
+
+(1) Ditetapkan, bahwa karangan “Al-Wasiat” yang dianjurkan
+............. disetujui.
+
+(2) Ditetapkan, bahwa karangan “Al-Wasiat” akan dicetak
+untuk sementara 800 copy. Begitu juga akan dicetak
+dalam surat-kabar “Al-Hakam” dan “Badar”.
+
+(3) Ditetapkan, akan dikirim petunjuk-petunjuk yang
+
 ### halaman-48
+
+tersebut di bawah ini kepada orang-orang yang berwasiat
+supaya oleh mereka dijalankan, dan supaya petunjuk-
+petunjuk ini dicetak di bawah Formulir Al-Wasiat.
+
+(3a) Jika perlu, orang-orang yang berwasiat boleh meminta
+Formulir Al-Wasiat dan menyalinnya di atas kertas
+biasa, dan dimana-mana tempat yang dikosongkan
+supaya diisi sendiri menurut keadaan masing-
+masing; kertasnya haruslah yang kuat.
+
+(3b) Sedapat mungkin, wasiat hendaknya didaftarkan,
+dan formulir wasiat sedapat mungkin harus ada
+tandatangan bersama para ahli-waris [[^67]] sebagai saksi;
+begitu pula dua saksi dari orang yang terkemuka di
+Negeri atau di desa itu.
+
+(3c) Orang yang berwasiat, [[^68]] begitu pula saksi-saksi, baik
+pandai menulis atau tidak, harus menandatangani
+atau memberi cap jempol. Yang pandai menulis
+selain menandatangani harus pula membubuhi cap
+jempol kiri, dan untuk isteri cap jempol kanan.
+
+(3d) Kalau yang berwasiat pandai menulis, maka haruslah
+wasiatnya itu ditulis sendiri.
+
+(3e) Di atas formulir wasiat tidak perlu dibubuhi meterai.
+
+(3f) Orang yang berwasiat, kalau mempunyai keadaan
+yang agak luar biasa, dan dalam hal itu dibutuhkan
+pertimbangan yang berhubungan dengan Undang-
+undang Negara, maka ia boleh menulis surat kepada
+penasehat Badan ini urusan Undang-undang Negara,
+untuk menanyakan hal itu.
+
+(4) Di Punjab, orang-orang yang memiliki tanah yang dalam
+
+[^67]: Mulanya diizinkan bagi beberapa individu (seperti anggota keluarga) untuk
+	membuat perjanjian wasiat secara kolektif. Belakangan kebiasaan ini sudah
+	dihentikan. [Penterjemah]
+
+[^68]: Orang yang membuat perjanjian wasiat. [Penerbit]
+
 ### halaman-49
+
+berwasiatnya banyak menghadapi kesulitan-kesulitan,
+maka bagi mereka baiklah seberapa harta yang akan
+diwasiatkannya, ia hibahkan saja di masa hidupnya. Dan
+di atas formulir hibah itu ia harus menyuruh ahli warisnya
+kalau ada menandatangani untuk membuktikan bahwa
+ahli warisnya menyetujui hibah itu. Formulir hibah harus
+didaftarkan. Dan kekuasaan atas harta yang dihibahkan
+itu dipindahkan kepada Majlis Mu’tamidin Sadr Anjuman
+Ahmadiyah Qadian. Tetapi dalam keadaan ini sewaktu-
+waktu kalau ada pula harta yang baru diperolehnya,
+maka harus seperti ini pula diperlakukannya.
+
+(5) Jika dalam keputusan hibah tersebut dalam No.4 di atas
+masih ada kesulitan, maka seberapa harta yang akan
+diwasiyatkan atau akan dihibahkan, taksirlah harganya
+menurut harga pasar atau terus dijual, kemudian
+seharganya itu atau penjualannya itu diserahkan kepada
+pengurus Majlis Urusan Pekuburan. Tetapi dalam
+keadaan ini bila saja ia memiliki harta yang baru, maka
+tentang ini pun sewaktu-waktu harus diperlakukan
+serupa itu juga.
+
+(6) Saudara yang tidak berharta-benda, tetapi mempunyai
+penghasilan maka haruslah menyerahkan sepersepuluh
+dari penghasilannya tiap-tiap bulan kepada Badan ini.
+Ada kelonggaran bagi mereka, yaitu beberapa Candah
+(sumbangan) yang hingga kini dikirim mereka kepada
+Silsilah ini, itu akan dicampurkan ke dalam sepersepuluh
+ini atau akan dipisahkannya. Jika Candah-nya, yang
+sekarang ini akan disatukan dengan yang sepersepuluh
+itu maka sebagaimana biasa ia mengirimkan Candah,
+kirimkanlah begitu terus; tetapi sesudah mengurangi
+Candah yang biasa itu seberapa sisanya kirimkalnlah atas
+nama Sekretaris Maal Majlis Pengurus Pekuburan. Surat-
+menyurat selanjutnya rujukanlah kepada sekretaris
+
 ### halaman-50
+
+Majlis ini. Tetapi hendaknya mereka mewasiatkan, bahwa
+sepeninggal mereka sekurang-kurangnya sepersepuluh
+dari harta peninggalannya jadi milik Badan ini.
+
+CATATAN:
+
+(i) Saudara yang masih memerlukan penjelasan yang lebih
+lanjut tentang wasiat atau hibah yang bersangkutan
+dengan Undang-undang Negara, dapat mengadakan
+surat menyurat lebih dahulu dengan Majlis Urusan
+pekuburan sebelum menuliskan wasiat atau hibahnya.
+
+(ii) Dalam keadaan yang luar biasa boleh juga langsung
+berkirim surat kepada Majlis Mu’tamidin.
+
+(7) Semua uang yang bersangkutan dengan Candah
+Pekuburan atau yang dikirimkan menurut pengumuman
+Al-Wasiat yang lersebul di atas, hendaklah dikirimkan
+hanya atas alamat Sekretaris Maal Majlis Urusan
+Pekuburan. Hendaknya tidak dikirimkan atas nama
+seseorang atau atas alamat yang lain.
+
+MUHAMMAAD ALI, Sekretaris, 29 Januari 1906
+
+NURUDDIN, 1 Juli 1906
+
+Mirza Ghulam Ahmad
 
 
 ### Catatan Kaki
