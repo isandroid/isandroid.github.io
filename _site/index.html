@@ -94,54 +94,15 @@
   </span>
 </div>
         
-<p>Selamat datang di pustaka daring pribadi milik Isa Mujahid Islam. Situs ini dibuat sebagai tempat untuk mengumpulkan bahan-bahan rujukan pribadi. Walaupun begitu, siapapun yang ingin mengambil manfaat dari situs ini, saya persilakan.</p>
+<h3 id="pencarian-di-pustaka">Pencarian di Pustaka</h3>
 
-<p>Situs ini masih terus dalam pengembangan. Masih banyak kekurangan dimana-mana. Saya secara pribadi menerima masukan yang membangun demi sempurnanya situs ini.</p>
+<script async="" src="https://cse.google.com/cse.js?cx=5be36aec44e237de2"></script>
 
-<h3 id="hitungan-mundur-bulan-ramadhan-perkiraan">Hitungan Mundur Bulan Ramadhan (perkiraan)</h3>
+<div class="gcse-searchbox"></div>
 
-<!-- Display the countdown timer in an element -->
-<h4 id="ramadhan" style="color:green;"></h4>
+<p>hasil pencarian:</p>
 
-<p>Keterangan:</p>
-
-<ul>
-  <li>Waktu diatas adalah perhitungan qomariyah 1 Ramadhan 1442 H</li>
-  <li>Waktu terbenam matahari (Maghrib) di Jakarta</li>
-  <li>Malam harinya memulai ibadah shalat Tarawih</li>
-  <li>Keesokan harinya (setelah fajar) dilaksanakan ibadah puasa.</li>
-</ul>
-
-<script>
-// Set the date we're counting down to
-var countDownDate = new Date("Apr 12, 2021 17:56:01").getTime();
-
-// Update the count down every 1 second
-var x = setInterval(function() {
-
-  // Get today's date and time
-  var now = new Date().getTime();
-
-  // Find the distance between now and the count down date
-  var distance = countDownDate - now;
-
-  // Time calculations for days, hours, minutes and seconds
-  var days = Math.floor(distance / (1000 * 60 * 60 * 24));
-  var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
-  var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
-  var seconds = Math.floor((distance % (1000 * 60)) / 1000);
-
-  // Display the result in the element with id="ramadhan"
-  document.getElementById("ramadhan").innerHTML = days + "d " + hours + "h "
-  + minutes + "m " + seconds + "s ";
-
-  // If the count down is finished, write some text
-  if (distance < 0) {
-    clearInterval(x);
-    document.getElementById("ramadhan").innerHTML = "EXPIRED";
-  }
-}, 1000);
-</script>
+<div class="gcse-searchresults"></div>
 
 <h3 id="menu-istimewa">Menu Istimewa</h3>
 
@@ -171,14 +132,6 @@ var x = setInterval(function() {
     <p><a href="/utang">Utang</a></p>
   </li>
 </ul>
-
-<h3 id="pencarian">Pencarian</h3>
-
-<script async="" src="https://cse.google.com/cse.js?cx=5be36aec44e237de2"></script>
-
-<div class="gcse-searchbox"></div>
-
-<div class="gcse-searchresults"></div>
 
 <!--
 ### Blog
@@ -244,6 +197,52 @@ var x = setInterval(function() {
   
 </ul>
 -->
+
+<h3 id="hitungan-mundur-bulan-ramadhan-perkiraan">Hitungan Mundur Bulan Ramadhan (perkiraan)</h3>
+
+<!-- Display the countdown timer in an element -->
+<h4 id="ramadhan" style="color:green;"></h4>
+
+<p>Keterangan:</p>
+
+<ul>
+  <li>Waktu diatas adalah perhitungan qomariyah 1 Ramadhan 1442 H</li>
+  <li>Waktu terbenam matahari (Maghrib) di Jakarta</li>
+  <li>Malam harinya memulai ibadah shalat Tarawih</li>
+  <li>Keesokan harinya (setelah fajar) dilaksanakan ibadah puasa.</li>
+</ul>
+
+<script>
+// Set the date we're counting down to
+var countDownDate = new Date("Apr 12, 2021 17:56:01").getTime();
+
+// Update the count down every 1 second
+var x = setInterval(function() {
+
+  // Get today's date and time
+  var now = new Date().getTime();
+
+  // Find the distance between now and the count down date
+  var distance = countDownDate - now;
+
+  // Time calculations for days, hours, minutes and seconds
+  var days = Math.floor(distance / (1000 * 60 * 60 * 24));
+  var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+  var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
+  var seconds = Math.floor((distance % (1000 * 60)) / 1000);
+
+  // Display the result in the element with id="ramadhan"
+  document.getElementById("ramadhan").innerHTML = days + "d " + hours + "h "
+  + minutes + "m " + seconds + "s ";
+
+  // If the count down is finished, write some text
+  if (distance < 0) {
+    clearInterval(x);
+    document.getElementById("ramadhan").innerHTML = "EXPIRED";
+  }
+}, 1000);
+</script>
+
 
       </section>
     </div>
