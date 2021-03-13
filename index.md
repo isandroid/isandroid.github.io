@@ -70,6 +70,15 @@ var x = setInterval(function() {
 
 - [Utang](/utang)
 
+### Pencarian
+
+<script async src="https://cse.google.com/cse.js?cx=5be36aec44e237de2"></script>
+
+<div class="gcse-searchbox"></div>
+
+<div class="gcse-searchresults"></div>
+
+<!--
 ### Blog
 
 <ul>
@@ -80,3 +89,4 @@ var x = setInterval(function() {
     </li>
   {% endfor %}
 </ul>
+-->
