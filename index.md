@@ -5,9 +5,46 @@ layout: default
 
 {{ node.url }}
 
-Selamat datang di pustaka daring pribadi milik Isa Mujahid Islam. Situs ini dibuat sebagai tempat untuk mengumpulkan bahan-bahan rujukan pribadi. Walaupun begitu, siapapun yang ingin mengambil manfaat dari situs ini, saya persilakan.
+### Pencarian di Pustaka
 
-Situs ini masih terus dalam pengembangan. Masih banyak kekurangan dimana-mana. Saya secara pribadi menerima masukan yang membangun demi sempurnanya situs ini.
+<script async src="https://cse.google.com/cse.js?cx=5be36aec44e237de2"></script>
+
+<div class="gcse-searchbox"></div>
+
+hasil pencarian:
+
+<div class="gcse-searchresults"></div>
+
+### Menu Istimewa
+
+- [Quran-um-Majid](/quran/) (Dalam proses)
+
+- [Islam](/islam/)
+
+- [Referensi Internal](/ref/)
+
+- [Buku-Buku](/buku/)
+
+- [Tag-tag Blog](/tag)
+
+- [Hal-Hal tentang Puasa](/puasa) (Dalam proses)
+
+- [Tanya-Jawab tentang Puasa](/tanya-jawab/puasa/)
+
+- [Utang](/utang)
+
+<!--
+### Blog
+
+<ul>
+  {% assign sorted = site.posts | sort: 'title' %}
+  {% for post in sorted %}
+    <li class="spasi">
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
+-->
 
 ### Hitungan Mundur Bulan Ramadhan (perkiraan)
 
@@ -51,32 +88,3 @@ var x = setInterval(function() {
   }
 }, 1000);
 </script>
-
-### Menu Istimewa
-
-- [Quran-um-Majid](/quran/) (Dalam proses)
-
-- [Islam](/islam/)
-
-- [Referensi Internal](/ref/)
-
-- [Buku-Buku](/buku/)
-
-- [Tag-tag Blog](/tag)
-
-- [Hal-Hal tentang Puasa](/puasa) (Dalam proses)
-
-- [Tanya-Jawab tentang Puasa](/tanya-jawab/puasa/)
-
-- [Utang](/utang)
-
-### Blog
-
-<ul>
-  {% assign sorted = site.posts | sort: 'title' %}
-  {% for post in sorted %}
-    <li class="spasi">
-      <a href="{{ post.url }}">{{ post.title }}</a>
-    </li>
-  {% endfor %}
-</ul>
