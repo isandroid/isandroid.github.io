@@ -25,6 +25,8 @@ layout: default
 
 - [Utang](/utang)
 
+- [Pardah](/islam/pardah)
+
 <!--
 ### Blog
 
