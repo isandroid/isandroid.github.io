@@ -3,17 +3,13 @@ title: Beranda
 layout: default
 ---
 
-{{ node.url }}
+### Pencarian Internal Pustaka
 
-### Pencarian di Pustaka
+- [Pencarian (didukung oleh Google)](/cari)
 
-<script async src="https://cse.google.com/cse.js?cx=5be36aec44e237de2"></script>
+- [Pencarian dalam artikel Blog](/cari-blog)
 
-<div class="gcse-searchbox"></div>
-
-hasil pencarian:
-
-<div class="gcse-searchresults"></div>
+- [Pencarian dalam Halaman](/cari-halaman)
 
 ### Menu Istimewa
 
@@ -32,6 +28,8 @@ hasil pencarian:
 - [Tanya-Jawab tentang Puasa](/tanya-jawab/puasa/)
 
 - [Utang](/utang)
+
+- [Pardah](/islam/pardah)
 
 <!--
 ### Blog
