@@ -1,6 +1,7 @@
 ---
 title: Cari
 layout: default
+permalink: /cari
 ---
 
 ### Pencarian di Pustaka

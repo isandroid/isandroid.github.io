@@ -3,9 +3,13 @@ title: Beranda
 layout: default
 ---
 
-### Pencarian di Pustaka
+### Pencarian Internal Pustaka
 
-- [Pencarian](/cari)
+- [Pencarian (didukung oleh Google)](/cari)
+
+- [Pencarian dalam artikel Blog](/cari-blog)
+
+- [Pencarian dalam Halaman](/cari-halaman)
 
 ### Menu Istimewa
 

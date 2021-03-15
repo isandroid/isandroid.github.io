@@ -1,7 +1,7 @@
 ---
 title: 30 Dalil Wafatnya Nabi Isa (as)
 layout: post
-tags: wafat-nabi-isa
+tags: wafat-nabi-isa tafsirquran
 description: tiga puluh dalil-dalil tentang telah wafatnya nabi isa (as) israili
 ---
 
