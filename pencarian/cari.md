@@ -1,6 +1,6 @@
 ---
 title: Cari
-layout: default
+layout: pencarian
 permalink: /cari
 ---
 

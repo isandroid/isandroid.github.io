@@ -1,6 +1,6 @@
 ---
 title: Beranda
-layout: default
+layout: beranda
 ---
 
 ### Pencarian Internal Pustaka

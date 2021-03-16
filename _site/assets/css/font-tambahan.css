@@ -29,33 +29,3 @@
     text-align: right;
     direction: rtl;
 }
-.spasi {
-    padding-top: 0.5em;
-    padding-bottom: 0.5em;
-}
-
-/* kontainer */
-
-#toc_container {
-  background-color: #fff;
-  margin: 5px 0;
-  padding: 10px 30px;
-  border: 1px solid #e8e8e8;
-  border-radius: 3px;
-}
-
-.toc_title {
-    text-align: center;
-    font-weight: 700;
-    margin: 0;
-    padding: 0;
-}
-
-#toc_container li, #toc_container ul, #toc_container ul li{
-    margin-top: 0.4em;
-    list-style: outside none none !important;
-}
-
-form {
-  padding: 0;
-}

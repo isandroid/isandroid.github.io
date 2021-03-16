@@ -1,6 +1,6 @@
 ---
 title: Cari dalam Blog Pustaka
-layout: default
+layout: pencarian
 permalink: /cari-blog
 ---
 

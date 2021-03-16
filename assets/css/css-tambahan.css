@@ -1,0 +1,12 @@
+/* untuk ul atau ol agar tautannya tidak terlalu dekat */
+
+.spasi {
+    padding-top: 0.5em;
+    padding-bottom: 0.5em;
+}
+
+/* untuk form pencarian agar tidak overlapping */
+
+form {
+  padding: 0;
+}

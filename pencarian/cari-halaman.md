@@ -1,6 +1,6 @@
 ---
 title: Pencarian dalam Halaman Pustaka
-layout: default
+layout: pencarian
 permalink: /cari-halaman
 ---
 

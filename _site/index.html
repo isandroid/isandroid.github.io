@@ -3,10 +3,12 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <!-- <meta name="viewport" content="width=device-width,maximum-scale=2"> -->
     <meta name="viewport" content="width=device-width, maximum-scale=5">
     <link rel="stylesheet" type="text/css" media="screen" href="/assets/css/style.css?v=">
-    <link rel="stylesheet" type="text/css" media="screen" href="/assets/css/font-tambahan.css">
+
+    <!-- CSS TAMBAHAN -->
+    <link rel="stylesheet" type="text/css" media="screen" href="/assets/css/css-tambahan.css">
+
     <!-- ICON -->
     <link rel="shortcut icon" type="image/png" href="/assets/images/favicon.png"/>
   <!-- Begin Jekyll SEO tag v2.7.1 -->
@@ -26,7 +28,7 @@
 <meta name="twitter:creator" content="@Isa Mujahid Islam" />
 <meta name="google-site-verification" content="axYmCzFKvYf0k574bQ6rSFmv5xuDDmVMjU7oOOTr20M" />
 <script type="application/ld+json">
-{"@type":"WebSite","url":"https://pustaka.isa.web.id/","headline":"Beranda","sameAs":["https://twitter.com/152m1","https://www.linkedin.com/in/isa-mujahid-islam-b712b740/","https://github.com/isandroid"],"author":{"@type":"Person","name":"Isa Mujahid Islam"},"publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"https://pustaka.isa.web.id/assets/images/logo.jpg"},"name":"Isa Mujahid Islam"},"description":"Pustaka Pribadi Isa Mujahid Islam","name":"Isa Mujahid Islam","@context":"https://schema.org"}</script>
+{"@type":"WebSite","headline":"Beranda","sameAs":["https://twitter.com/152m1","https://www.linkedin.com/in/isa-mujahid-islam-b712b740/","https://github.com/isandroid"],"url":"https://pustaka.isa.web.id/","name":"Isa Mujahid Islam","publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"https://pustaka.isa.web.id/assets/images/logo.jpg"},"name":"Isa Mujahid Islam"},"author":{"@type":"Person","name":"Isa Mujahid Islam"},"description":"Pustaka Pribadi Isa Mujahid Islam","@context":"https://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
   
@@ -42,33 +44,6 @@
     gtag('config', 'G-G2Y182KL54');
   </script>
   
-
-  <!-- HEADER LINK ANCHOR -->
-  <link href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
-<script
-  src="https://code.jquery.com/jquery-3.6.0.slim.min.js"
-  integrity="sha256-u7e5khyithlIdTpu22PHhENmPcRdFiHRjhAuHcs05RI="
-  crossorigin="anonymous"></script>
-
-<style type="text/css">
-	.header-link {
-	  position: absolute;
-	  left: -0.5em;
-	  opacity: 0;
-
-	  \-webkit-transition: opacity 0.2s ease-in-out 0.1s;
-	  \-moz-transition: opacity 0.2s ease-in-out 0.1s;
-	  \-ms-transition: opacity 0.2s ease-in-out 0.1s;
-	}
-
-	h2:hover .header-link,
-	h3:hover .header-link,
-	h4:hover .header-link,
-	h5:hover .header-link,
-	h6:hover .header-link {
-	  opacity: 1;
-	}
-</style>
 
   <!--BING VERIFICATION-->
   <meta name="msvalidate.01" content="96783BE143177BFB99ED886CCCE831D7" />
@@ -87,15 +62,6 @@
     <!-- MAIN CONTENT -->
     <div id="main_content_wrap" class="outer">
       <section id="main_content" class="inner">
-        
-<div itemscope itemtype="https://schema.org/BreadcrumbList" id="breadcrumbs">
-  <span itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
-    <a itemscope itemtype="https://schema.org/WebPage" itemprop="item" itemid="/" href="/">
-      <span itemprop="name">Beranda</span>
-    </a>
-    <meta itemprop="position" content="0" />
-  </span>
-</div>
         <h3 id="pencarian-internal-pustaka">Pencarian Internal Pustaka</h3>
 
 <ul>
@@ -271,18 +237,4 @@ var x = setInterval(function() {
       </footer>
     </div>
   </body>
-  <!-- HEADER LINK ANCHOR -->
-  <script>
-$(function() {
-  return $("h2, h3, h4, h5, h6").each(function(i, el) {
-    var $el, icon, id;
-    $el = $(el);
-    id = $el.attr('id');
-    icon = '<i class="fa fa-link"></i>';
-    if (id) {
-      return $el.prepend($("<a />").addClass("header-link").attr("href", "#" + id).html(icon));
-    }
-  });
-});
-</script>
 </html>
