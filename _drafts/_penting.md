@@ -1,6 +1,5 @@
 - Beristigfar di waktu Sahur
 
-- Hal-Hal Berkenaan dengan Sedekah
 - Hukum Puasa
 - Niat Puasa
 - Puasa di Masa Pandemi
@@ -11,3 +10,5 @@
 - mustahiq - Orang yang Berhak Menerima Sedekah
 
 
+
+- Hal-hal yang Harus Diperhatikan ketika Bersedekah

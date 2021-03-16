@@ -1,7 +1,7 @@
 ---
 title: Shalat Tarawih
 layout: default
-description: penjelasan mengenai tarawih atau qiyaamur-ramadhan
+description: penjelasan mengenai pengertian tarawih atau qiyaamur-ramadhan, tarawih di masa rasulullah (saw), tarawih di masa khalifah abu bakar (ra), tarawih di masa khalifah umar bin khottob (ra) dan jumlah rakataat shalat tarawih
 permalink: /tarawih
 ---
 
