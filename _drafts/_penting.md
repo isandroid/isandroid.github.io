@@ -6,9 +6,8 @@
 - Keutamaan Menimba Ilmu
 - tahajjud - Keutamaan Shalat Tahajjud
 - witir - Keutamaan Shalat Witir
-- tarawih - Keutamaan Shalat Tarawih
 - mustahiq - Orang yang Berhak Menerima Sedekah
 
 
-
+- tarawih - Keutamaan Shalat Tarawih
 - Hal-hal yang Harus Diperhatikan ketika Bersedekah
