@@ -117,7 +117,7 @@ Shalat berasal dari bahasa arab, yaitu dari kata (صَلَّى - يُصَلِّ�
 
 - Shalat Jenazah
 
-- Shalat Tahajjud
+- [Shalat Tahajud](/shalat/tahajud)
 
 - Shalat Witir
 
