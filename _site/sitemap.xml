@@ -429,13 +429,13 @@
 <loc>https://pustaka.isa.web.id/quran/</loc>
 </url>
 <url>
+<loc>https://pustaka.isa.web.id/puasa</loc>
+</url>
+<url>
 <loc>https://pustaka.isa.web.id/islam/shalat/</loc>
 </url>
 <url>
 <loc>https://pustaka.isa.web.id/islam/</loc>
-</url>
-<url>
-<loc>https://pustaka.isa.web.id/puasa</loc>
 </url>
 <url>
 <loc>https://pustaka.isa.web.id/</loc>
@@ -537,7 +537,7 @@
 <loc>https://pustaka.isa.web.id/shalat/tahajud</loc>
 </url>
 <url>
-<loc>https://pustaka.isa.web.id/tarawih</loc>
+<loc>https://pustaka.isa.web.id/shalat/tarawih</loc>
 </url>
 <url>
 <loc>https://pustaka.isa.web.id/utang</loc>

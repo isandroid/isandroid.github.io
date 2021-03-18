@@ -1,7 +1,7 @@
 ---
 title: Sahur
 layout: default
-description: definisi sahur, keberkahan sahur, waktu-waktu sahur yang disunnahkan rasulullah (saw) dan kapan sahur hendaknya dihentikan  
+description: definisi sahur, keberkahan sahur, waktu-waktu sahur yang disunnahkan rasulullah (saw) dan kapan sahur hendaknya dihentikan
 permalink: /sahur
 ---
 

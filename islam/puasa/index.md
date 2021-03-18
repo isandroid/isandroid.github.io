@@ -144,7 +144,7 @@ Tn. Rahmat Ali, HA. OT. (r.a.) dalam karyanya, Rahasia Rukun Islam, menjelaskan 
 
 	- [Ramadhan](/ramadhan)
 
-	- [_Qiyaamur-Ramadhan_](/tarawih) atau [Shalat Tarawih](/tarawih)
+	- [_Qiyaamur-Ramadhan_](/shalat/tarawih) atau [Shalat Tarawih](/shalat/tarawih)
 
 		- Shalat Witir
 
