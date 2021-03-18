@@ -414,12 +414,6 @@
 <loc>https://pustaka.isa.web.id/buku/</loc>
 </url>
 <url>
-<loc>https://pustaka.isa.web.id/puasa</loc>
-</url>
-<url>
-<loc>https://pustaka.isa.web.id/islam/shalat/</loc>
-</url>
-<url>
 <loc>https://pustaka.isa.web.id/islam/</loc>
 </url>
 <url>
@@ -436,6 +430,12 @@
 </url>
 <url>
 <loc>https://pustaka.isa.web.id/tanya-jawab/</loc>
+</url>
+<url>
+<loc>https://pustaka.isa.web.id/shalat/</loc>
+</url>
+<url>
+<loc>https://pustaka.isa.web.id/puasa</loc>
 </url>
 <url>
 <loc>https://pustaka.isa.web.id/</loc>
