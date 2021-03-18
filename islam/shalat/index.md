@@ -121,7 +121,7 @@ Shalat berasal dari bahasa arab, yaitu dari kata (صَلَّى - يُصَلِّ�
 
 - [Shalat Witir](/shalat/witir)
 
-- Shalat Tarawih
+- [Shalat Tarawih](/shalat/tarawih)
 
 - Shalat Hari Raya
 
