@@ -218,9 +218,9 @@ dari Ali bin Abu Thalib radliallahu 'anhu bahwa Rasulullah shallAllahu wa'alaihi
 
 ### Jumlah Raka’at Shalat Witir
 
-Ada persoalan mengenai shalat Tarawih: "Tatkala Tarawih itu sendiri merupakan Tahajjud, maka apa pendapat Tuan mengenai shalat duapuluh raka'at? Sebab Tahajjud dan witir itu sebelas raka'at." Hadhrat Masih Mau'ud a.s. menjelaskan:
+Ada persoalan mengenai shalat Tarawih: "Tatkala Tarawih itu sendiri merupakan [Tahajud](/shalat/tahajud), maka apa pendapat Tuan mengenai shalat duapuluh raka'at? Sebab [Tahajud](/shalat/tahajud) dan witir itu sebelas raka'at." Hadhrat Masih Mau'ud a.s. menjelaskan:
 
-> “Sunnah yang selalu dilakukan oleh Rasulullah saw. adalah yang delapan raka'at, dan itu beliau kerjakan pada waktu Tahajjud, dan itulah yang paling afdhal (utama), namun mengerjakan pada bagian awal malam adalah dibenarkan.
+> “Sunnah yang selalu dilakukan oleh Rasulullah saw. adalah yang delapan raka'at, dan itu beliau kerjakan pada waktu [Tahajud](/shalat/tahajud), dan itulah yang paling afdhal (utama), namun mengerjakan pada bagian awal malam adalah dibenarkan.
 >
 > Di dalam sebuah riwayat dikatakan bahwa. Rasulullah saw. mengerjakannya di bagian awal malam. Yang duapuluh raka'at dikerjakan belakangan, namun sunnah Rasulullah saw. adalah yang telah dipaparkan pertama tadi.”. [[^malfuzat_x_113]]
 

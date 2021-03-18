@@ -7,7 +7,9 @@ permalink: /shalat/tahajud
 
 ## {{ page.title }}
 
-Tahajud adalah satu ibadah nafal yang cantum dalam Alquran. 
+Tahajud adalah satu ibadah nafal yang cantum dalam Alquran. Tahajud, dalam istilah lain dikenal juga dengan _qiyaamul-lail_ yang berarti berdiri di malam hari, yakni untuk melaksanakan shalat malam.
+
+Allah Azza wa Jalla telah mewajibkan shalat malam pada permulaan surah Al-Muzammil. Rasulullah dan para sahabatnya menegakkan shalat malam dengan sekuat tenaga hingga telapak kaki mereka membengkak. Kemudian Allah Azza wa Jalla  memberikan keringanan pada akhir turunnya surah Al Muzammil, sehingga shalat malam yang semula hukumnya wajib menjadi sunnah. [[^nasai_1583]]
 
 ### Tahajud Akan Meninggikan Derajat
 
@@ -89,7 +91,7 @@ Diriwayatkan,
 أَنَّ عَبْدَ اللَّهِ بْنَ عُمَرَ رَضِيَ اللَّهُ عَنْهُمَا قَالَ إِنَّ رَجُلًا قَالَ يَا رَسُولَ اللَّهِ كَيْفَ صَلَاةُ اللَّيْلِ قَالَ مَثْنَى مَثْنَى فَإِذَا خِفْتَ الصُّبْحَ فَأَوْتِرْ بِوَاحِدَةٍ
 </p>
 
-bahwa 'Abdullah bin 'Umar radliallahu 'anhu berkata; Ada seseorang bertanya: "Wahai Rasulullah shallallahu 'alaihi wasallam, bagaimana cara shalat malam?" Beliau shallallahu 'alaihi wasallam menjawab: " Dua dua (raka'at) dan jika kamu khawatir masuk waktu Shubuh witirlah dengan satu raka'at". (H.R. Bukhari) [[^bukhari_1069]]
+bahwa 'Abdullah bin 'Umar radliallahu 'anhu berkata; Ada seseorang bertanya: "Wahai Rasulullah shallallahu 'alaihi wasallam, bagaimana cara shalat malam?" Beliau shallallahu 'alaihi wasallam menjawab: " Dua dua (raka'at) dan jika kamu khawatir masuk waktu Shubuh [witirlah](/shalat/witir) dengan satu raka'at". (H.R. Bukhari) [[^bukhari_1069]]
 
 [^bukhari_1069]: [H.R. Al-Bukhari, Kitab Jum'at, Bab Bagaimana Cara Shalat Nabi Shallallahu 'alaihi wa salam dan Berapa Raka'at Shalat Malam Yang Beliau Biasa Laksanakan?](https://www.hadits.id/hadits/bukhari/1069)
 
@@ -97,11 +99,23 @@ Abdul Aziz Sialkoti [secara keliru] menjelaskan di Lailpur bahwa Rasulullah saw.
 
 > “Sama-sekali bukan keyakinan saya bahwa Rasulullah saw. bangun dan hanya membaca Quran Syarif saja. Saya suatu kali memang telah menerangkan bahwa jika seseorang dalam keadaan sakit atau karena sebab-sebab tertentu dia tidak dapat menunaikan nafal-nafal Tahajjud maka dia boleh saja bangun lalu membaca istighfar, shalawat, dan Al-Fatihah.
 >
-> Rasulullah saw. selalu mengerjakan nafal-nafal. Beliau sering sekali melakukan  11 rakaat, yakni 8 raka'at nafal, dan 3 raka’at witir. Kadang-kadang semua itu beliau lakukan sekaligus, dan kadang-kadang beliau kerjakan dua raka'at kemudian  beliau tidur, lalu bangun lagi dan mengerjakan dua raka'at, kemudian tidur.
+> Rasulullah saw. selalu mengerjakan nafal-nafal. Beliau sering sekali melakukan  11 rakaat, yakni 8 raka'at nafal, dan 3 raka’at [witir](/shalat/witir). Kadang-kadang semua itu beliau lakukan sekaligus, dan kadang-kadang beliau kerjakan dua raka'at kemudian  beliau tidur, lalu bangun lagi dan mengerjakan dua raka'at, kemudian tidur.
 >
 > Ringkasnya, dengan  cara diselingi tidur lalu bangun mengerjakan nafal-nafal, seperti yang di amalkan saat ini. Yaitu pengamalan yang terus-menerus berlangsung selama 14 abad ini.”. [[^malfuzat_vi_182_183]]
 
 [^malfuzat_vi_182_183]: Malfuzat, jld. VI, hlm. 182-183
+
+### Sikat Gigi Sebelum Tahajud
+
+Diriwayatkan,
+
+<p class="arab">
+عَنْ حُذَيْفَةَ قَالَ كَانَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ إِذَا قَامَ مِنْ اللَّيْلِ يَشُوصُ فَاهُ بِالسِّوَاكِ
+</p>
+
+dari Hudzaifah berkata: "Rasulullah shallallahu 'alaihi wasallam apabila hendak melaksanakan shalat malam beliau menggosok mulutnya dengan siwak." (H.R. An-Nasai) [[^nasai_2]]
+
+[^nasai_2]: [H.R. An-Nasa'i, Kitab Thaharah, Bab Bersiwak jika shalat malam](https://www.hadits.id/hadits/nasai/2)
 
 ### Batas Waktu Tahajud
 
@@ -109,11 +123,31 @@ Abdul Aziz Sialkoti [secara keliru] menjelaskan di Lailpur bahwa Rasulullah saw.
 عَنْ ابْنِ عُمَرَ عَنْ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ إِذَا طَلَعَ الْفَجْرُ فَقَدْ ذَهَبَ كُلُّ صَلَاةِ اللَّيْلِ وَالْوِتْرُ فَأَوْتِرُوا قَبْلَ طُلُوعِ الْفَجْرِ
 </p>
 
-...dari Ibnu Umar dari Nabi Shallahu 'alaihi wa sallam beliau bersabda: "Jika fajar telah terbit, dan telah habis waktu untuk mengerjakan shalat malam serta shalat witir, maka kerjakanlah shalat witir sebelum terbitnya fajar (matahari)." (H.R. Tirmidzi) [[^tirmidzi_431]]
+...dari Ibnu Umar dari Nabi Shallahu 'alaihi wa sallam beliau bersabda: "Jika fajar telah terbit, dan telah habis waktu untuk mengerjakan shalat malam serta shalat [witir](/shalat/witir), maka kerjakanlah shalat [witir](/shalat/witir) sebelum terbitnya fajar (matahari)." (H.R. Tirmidzi) [[^tirmidzi_431]]
 
 [^tirmidzi_431]: [H.R. At-Tirmidzi, Kitab Shalat, Bab Bergegas witr sebelum subuh](https://www.hadits.id/hadits/tirmidzi/431)
 
 ### Pentingnya Tahajud
+
+Diriwayatkan,
+
+<p class="arab">
+قَالَتْ عَائِشَةُ رَضِيَ اللَّهُ عَنْهَا لَا تَدَعْ قِيَامَ اللَّيْلِ فَإِنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ كَانَ لَا يَدَعُهُ وَكَانَ إِذَا مَرِضَ أَوْ كَسِلَ صَلَّى قَاعِدًا
+</p>
+
+Aisyah radliallahu 'anha berkata; "Janganlah kamu meninggalkan shalat malam (qiyamul lail), karena Rasulullah shallallahu 'alaihi wasallam tidak pernah meninggalkannya, bahkan apabila beliau sedang sakit atau kepayahan, beliau shalat dengan duduk." (H.R. Abu Dawud) [[^dawud_1112]]
+
+[^dawud_1112]: [Abu Dawud, Kitab Shalat, Qiyamullail (shalat malam)](https://www.hadits.id/hadits/dawud/1112)
+
+Ketika Rasulullah (saw) sudah dalam usia lanjut, beliau tetap melaksanakan tahajud. Diriwayatkan,
+
+<p class="arab">
+عَنْ عَائِشَةَ رَضِيَ اللَّهُ عَنْهَا قَالَتْ مَا رَأَيْتُ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَقْرَأُ فِي شَيْءٍ مِنْ صَلَاةِ اللَّيْلِ جَالِسًا حَتَّى إِذَا كَبِرَ قَرَأَ جَالِسًا فَإِذَا بَقِيَ عَلَيْهِ مِنْ السُّورَةِ ثَلَاثُونَ أَوْ أَرْبَعُونَ آيَةً قَامَ فَقَرَأَهُنَّ ثُمَّ رَكَعَ
+</p>
+
+...dari 'Aisyah radliallahu 'anha berkata: "Tidak pernah aku melihat Nabi shallallahu 'alaihi wasallam membaca surat dalam shalat malam dalam keadaan duduk kecuali ketika Beliau sudah berusia lanjut, ketika usia tua itu Beliau membaca dalam keadaan duduk. Namun bila surat yang dibacanya tinggal tersisa sekitar tiga puluh atau empat puluh ayat, maka Beliau berdiri dan melanjutkan bacaannya itu dengan berdiri. Kemudian Beliau ruku'". (H.R. Bukhari) [[^bukhari_1080]]
+
+[^bukhari_1080]: [H.R. Al-Bukhari, Kitab Jum'at, Qiyamul Lail (Shalat Malam) Nabi Shallallahu 'alaihi wa salam pada Bulan Ramadlan dan Bulan-bulan lainnya](https://www.hadits.id/hadits/bukhari/1080)
 
 Hadhrat Masih Mau'ud (as) menjelaskan,
 
@@ -140,5 +174,15 @@ Hadhrat Masih Mau'ud (as) bersabda,
 [^malfuzat_i_45]: Malfuzat, jld I, hlm. 45 
 
 [^pidato_jalsah_18971225]: Pidato Pertama Hadhrat Masih Mau’ud a.s. pada Jalsah Salanah, 25 Desember 1897
+
+### Jika Berhalangan Tahajud
+
+<p class="arab">
+... وَكَانَ إِذَا شَغَلَهُ عَنْ قِيَامِ اللَّيْلِ نَوْمٌ أَوْ مَرَضٌ أَوْ وَجَعٌ صَلَّى مِنْ النَّهَارِ اثْنَتَيْ عَشْرَةَ رَكْعَةً ...
+</p>
+
+(Hadhrat Aisyah menceritakan mengenai) Rasulullah (saw) jika berhalangan untuk shalat malam karena ketiduran atau sakit, maka beliau mengerjakan shalat dua belas rakaat pada siang harinya. [[^nasai_1583]]
+
+[^nasai_1583]: [H.R. An-Nasa'i, Kitab Qiyamul lail dan shalat sunnah siang hari, Bab Shalat malam](https://www.hadits.id/hadits/nasai/1583)
 
 ### Catatan Kaki
