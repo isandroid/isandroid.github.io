@@ -146,7 +146,7 @@ Tn. Rahmat Ali, HA. OT. (r.a.) dalam karyanya, Rahasia Rukun Islam, menjelaskan 
 
 	- [_Qiyaamur-Ramadhan_](/shalat/tarawih) atau [Shalat Tarawih](/shalat/tarawih)
 
-		- Shalat Witir
+		- [Shalat Witir](/shalat/witir)
 
 	- I'tikaf
 
@@ -198,7 +198,7 @@ Tn. Rahmat Ali, HA. OT. (r.a.) dalam karyanya, Rahasia Rukun Islam, menjelaskan 
 
 - Sedekah
 
-- Tahajjud
+- [Shalat Tahajud](/shalat/tahajud)
 
 - Umrah
 
