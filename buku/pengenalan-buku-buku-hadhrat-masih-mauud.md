@@ -16,7 +16,7 @@ cetakan:
 - Pengarang: {{ page.pengarang }}
 - Penerjemah: {{ page.penerjemah }}
 
-### Brahin-i-Ahmadiyya
+### 01 Brahin-i-Ahmadiyya
 
 Jilid pertama dan kedua buku Brahin-i-Ahmadiyya diterbitkan
 dalam tahun 1880 Masehi. Jilid ketiga dalam tahun 1882 dan
@@ -215,7 +215,7 @@ Bukan hanya aku yang menyeru manusia kepadaku,
 sesungguhnya abad ini juga telah menyeruku (yaitu
 kedatanganku adalah kebutuhan masa ini).
 
-### Purani Tahrirain 
+### 02 Purani Tahrirain 
 
 (Tulisan-tulisan lama)
 
@@ -258,7 +258,7 @@ tersebut). Kesemua ini diterbitkan dalam majalah Aftab pada
 tanggal 18 Pebruari 1879. Semua surat-surat itu dijawab oleh
 Hazrat Ahmad a.s.
 
-### Surma Chashm Arya
+### 03 Surma Chashm Arya
 
 Hazrat Ahmad a.s. suatu waktu berpergian ke Hoshiarpur
 berdasarkan petunjuk Allah s.w.t. Disini beliau menerima wahyu
@@ -293,7 +293,7 @@ keagamaan). Buku ditutup dengan tawaran hadiah sebesar 500
 rupee bagi siapa saja yang bisa membantah bukti-bukti yang
 dikemukakan oleh Hazrat Ahmad a.s.
 
-### Shahna-i-Haq 
+### 04 Shahna-i-Haq 
 
 (Rangkuman Kebenaran)
 
@@ -321,7 +321,7 @@ sekali.
 Di akhir buku itu dicantumkan juga surat dari Alex R. Webb dari
 Amerika Serikat berikut jawaban dari Hazrat Ahmad a.s.
 
-### Sabz Ishtihar 
+### 05 Sabz Ishtihar 
 
 (Selebaran Hijau)
 
@@ -364,7 +364,7 @@ Allah s.w.t. akan membantu mereka melalui doa-doa yang beliau
 panjatkan asalkan mereka menyiapkan jiwa raganya untuk
 selalu bertindak sesuai tuntunan ilahi.
 
-### Fath-i-Islam 
+### 06 Fath-i-Islam 
 
 (Kemenangan Islam)
 
@@ -439,7 +439,7 @@ menyuratinya untuk memperoleh jawaban. Beliau menyatakan
 bahwa ia akan menerbitkan keberatan dan sanggahan mereka
 berikut jawaban beliau dalam bentuk sebuah buku.
 
-### Aasmani Faisla 
+### 07 Aasmani Faisla 
 
 (Keputusan Samawi)
 
@@ -516,7 +516,7 @@ bahwa para pengikutnya agar mencari kedekatan dengan
 dirinya, mendengarkan khotbah-khotbah keruhanian dan
 melaksanakan doa bersama.
 
-### Ludhiana Debate
+### 08 Ludhiana Debate
 
 Perdebatan Ludhiana terjadi antara Hazrat Ahmad a.s. dengan
 Maulvi Abu Saeed Muhammad Hussain selama duabelas hari
@@ -584,7 +584,7 @@ melalui kejadian-kejadian yang luar biasa.”
 
 Ungkapan ini mengakhiri perdebatan tersebut.
 
-### Delhi Debate
+### 09 Delhi Debate
 
 Perdebatan ini terjadi antara Hazrat Ahmad a.s. dan Maulvi
 Muhammad Bashir Bhopali dalam bulan Oktober 1891.
@@ -617,7 +617,7 @@ bahwa karena telah wafat maka tidak mungkin nabi Isa a.s.
 sendiri yang akan datang untuk memperbaiki dunia, khususnya
 umat Muslim.
 
-### Izalai Auham 
+### 10 Izalai Auham 
 
 (Hilangnya Kecurigaan)
 
@@ -730,7 +730,7 @@ a.s.) serta mengingatkan bahwa wafatnya nabi Isa a.s.
 merupakan syarat mendasar bagi pengakuan seseorang sebagai
 Masih Maud.
 
-### Nishan-i-Aasman-i-Shahadatul Mulhimin 
+### 11 Nishan-i-Aasman-i-Shahadatul Mulhimin 
 
 (Tanda-tanda Samawi)
 
@@ -829,7 +829,7 @@ membiarkan usahanya menjadi sia-sia. Selanjutnya beliau
 membicarakan beberapa buku yang akan dikarangnya setelah
 buku ini.
 
-### Aaina-i-Kamalat-i-Islam 
+### 12 Aaina-i-Kamalat-i-Islam 
 
 (Cermin Keunggulan Islam)
 
@@ -993,7 +993,7 @@ mendengarkan himbauannya.
 Beliau disini juga menjelaskan rincian silsilah dirinya serta
 catatan biografis dari beberapa ‘sahabat seiman.’
 
-### Barakatud Dua 
+### 13 Barakatud Dua 
 
 (Berkat dari Doa)
 
@@ -1072,7 +1072,7 @@ sistem fisikal dan hal ini harus selalu diingat.
 7. Kita tidak boleh mengabaikan kasyaf dan wahyu para orang
 suci. Mereka juga memberikan pencerahan pada masalah-masalah keruhanian.
 
-### Hujjatul Islam 
+### 14 Hujjatul Islam 
 
 (Bukti Meyakinkan tentang Islam)
 
@@ -1119,7 +1119,7 @@ untuk menyusun tafsir Al-Qur’an dalam bahasa Arab. Hal ini
 sebelumnya telah dimintakan kepada yang bersangkutan dan
 buku ini merupakan pengingat kedua.
 
-### Sach-Chai Ka Izhar 
+### 15 Sach-Chai Ka Izhar 
 
 (Ekspresi Kebenaran)
 
@@ -1151,7 +1151,7 @@ menjadi bukti bahwa kabar ghaib tentang yang bersangkutan
 akan bertobat dan berhenti menghujat beliau sebagai kafir telah
 menjadi kenyataan.
 
-### Syahadatul Qur’an 
+### 16 Syahadatul Qur’an 
 
 (Kesaksian Al-Qur’an)
 
@@ -1195,7 +1195,7 @@ beliau menentang pemerintah. Sebagai contoh beliau
 kemukakan berita yang dilansir surat kabar Ishaatus Sunah
 yang diterbitkan oleh Maulvi Mohammad Hussain.
 
-### Tohfi Baghdad 
+### 17 Tohfi Baghdad 
 
 (Sebuah hadiah untuk Baghdad)
 
@@ -1226,7 +1226,7 @@ pengakuan beliau.
 Buku ini ditulis dalam bahasa Arab dan ditulis dalam bulan Juli
 tahun 1893.
 
-### Hamamatul Bushra 
+### 18 Hamamatul Bushra 
 
 (Merpati pembawa kabar gembira)
 
@@ -1270,7 +1270,7 @@ menghanguskan keimanan mereka yang memusuhi itu. Beliau
 menjelaskan bagaimana hal ini terjadi. Surat Mohammad bin
 Ahmad yang menjadi dasar buku ini juga dicantumkan.
 
-### Itmamul Hujja 
+### 19 Itmamul Hujja 
 
 (Memberikan bukti yang komprehensif dan meyakinkan)
 
@@ -1304,7 +1304,7 @@ Rusul Baba termasuk salah seorang musuh paling keras dari
 Hazrat Ahmad a.s. Ia meninggal tanggal 8 Desember 1902 karena
 wabah pes.
 
-### Karamatus Sadiqeen 
+### 20 Karamatus Sadiqeen 
 
 (Mukjizat Kebenaran)
 
@@ -1329,7 +1329,7 @@ tantangan tersebut. Melihat situasi demikian Hazrat Ahmad a.s.
 menulis Karamatus Sadiqeen yang ditulis dalam bahasa Arab.
 Buku ini berisi juga empat syair pujaan dan tafsir surah AlFatiha.
 
-### Jang-i-Muqaddas 
+### 21 Jang-i-Muqaddas 
 
 (Perang Suci)
 
@@ -1422,7 +1422,7 @@ Hazrat Ahmad a.s. selanjutnya menyatakan bahwa ketika
 nubuwatan ini nanti terjadi maka yang buta akan melihat, yang
 lumpuh akan berjalan dan yang tuli akan mendengar
 
-### Sirrul Khilafa 
+### 22 Sirrul Khilafa 
 
 (Rahasia Khilafat)
 
@@ -1517,7 +1517,7 @@ sejalan dengan fitrat kita.
 Beliau berdoa agar Allah s.w.t. memberikan keridhoan-Nya
 karena beliau selalu mengikuti Rasulullah s.a.w.
 
-### Anwarul Islam 
+### 23 Anwarul Islam 
 
 (Cahaya Islam)
 
@@ -1582,7 +1582,7 @@ tidak tergugah hatinya pada agama Islam. Atham tidak
 menjawab tantangan tersebut sehingga terbukti kepada dunia
 bahwa kabar ghaib tersebut telah terpenuhi.
 
-### Nurul Haq 
+### 24 Nurul Haq 
 
 (Cahaya Kebenaran)
 
@@ -1727,7 +1727,7 @@ ulama tadi.
 Kedua bagian buku Nurul Haq ini ditulis dalam bahasa Arab dan
 diterbitkan pada tahun 1894.
 
-### Minanur Rahman 
+### 25 Minanur Rahman 
 
 (Karunia Tuhan yang Maha Pengasih)
 
@@ -1760,7 +1760,7 @@ bulan Desember 1895 namun karena satu dan lain sebab
 ternyata tidak terbit dalam masa hayat beliau. Buku itu baru
 dicetak tahun 1915.
 
-### Zia ul Haq 
+### 26 Zia ul Haq 
 
 (Cahaya Kebenaran)
 
@@ -1784,7 +1784,7 @@ contoh-contoh yang menyatakan bahwa Abdulla Atham
 terpesona dan ketakutan, serta di dalam hati kecilnya ia mulai
 mempercayai kebenaran agama Islam.
 
-### Sath-Bachan 
+### 27 Sath-Bachan 
 
 (Perkataan yang benar)
 
@@ -1852,7 +1852,7 @@ menyatakan bahwa itu adalah suatu bukti lain tentang masih
 hidupnya nabi Isa a.s. ketika diturunkan dari kayu salib dan
 urap ini dibubuhkan pada luka-lukanya.
 
-### Arya Dharm 
+### 28 Arya Dharm 
 
 (Agama Arya)
 
@@ -1905,7 +1905,7 @@ Usulan itu ditandatangani oleh lebih dari empatribu orang dan
 cukup banyak nama-nama mereka yang dicantumkan dalam
 buku tersebut. Usulan tersebut bertanggal 23 September 1895.
 
-### Islami Usul ki Philosophy 
+### 29 Islami Usul ki Filasafy 
 
 (Filsafat Ajaran Islam)
 
@@ -1947,7 +1947,7 @@ jumlah ribuan dimana salah satu edisi ada yang mencapai
 seratus ribu buku. Buku itu menjadi salah satu yang terkenal
 dalam literatur Ahmadiyah.
 
-### Nurul Qur’an I and II
+### 30 Nurul Qur’an I and II
 
 Hazrat Ahmad a.s. ingin menerbitkan sebuah majalah kwartalan
 yang terbit tiap empat bulan. Nama majalah itu adalah Noorul
@@ -2030,7 +2030,7 @@ memberikan jalan kebenaran dan kitab itu tidak menuntun
 manusia untuk melakukan hal-hal baik yang sangat penting bagi
 kehidupan di dunia maupun di akhirat.
 
-### Anjam-i-Atham 
+### 31 Anjam-i-Atham 
 
 (Akhir Atham)
 
@@ -2194,7 +2194,7 @@ menerimanya dan akan membuktikan kebenarannya
 mengatasi serangan-serangan berat dari musuhnya.
 Damailah bagi mereka yang mencari kebenaran.’
 
-### Siraj-i-Munir 
+### 32 Siraj-i-Munir 
 
 (Lampu yang Terang)
 
@@ -2229,7 +2229,7 @@ orang Kristen yang dapat membuktikan bahwa nabi Isa a.s.
 memiliki tanda-tanda sebagaimana telah dipertunjukkan beliau
 maka beliau akan memberi hadiah 1.000 rupee.
 
-### Istifta 
+### 33 Istifta 
 
 (Meminta fatwa tentang masalah keagamaan)
 
@@ -2270,7 +2270,7 @@ menterjemahkan hal-hal di atas ke dalam bahasa Inggris untuk
 disebarkan di Eropah karena mereka (orang Eropah) memiliki
 keberanian lebih dalam mencari kebenaran.
 
-### Hujjatullah 
+### 34 Hujjatullah 
 
 (Bukti meyakinkan dari Tuhan)
 
@@ -2298,7 +2298,7 @@ Prosa dan syair itu diterbitkan tanggal 17 Maret 1897 dan beliau
 memberikan mereka jangka waktu yang sama untuk
 menjawabnya.
 
-### Tohfa-i-Qaisariyya 
+### 35 Tohfa-i-Qaisariyya 
 
 (Anugerah bagi seorang Ratu)
 
@@ -2331,7 +2331,7 @@ Beliau mengadakan pertemuan untuk mendoakan Ratu dimana
 doa untuk itu disusun dalam bahasa Urdu, Punjabi, Parsi, Arab
 dan Inggris.
 
-### Sirajud Din Isai Ke Char Savalon Ka Jawab 
+### 36 Sirajud Din Isai Ke Char Savalon Ka Jawab 
 
 (Menjawab empat pertanyaan Sirajud Din)
 
@@ -2383,7 +2383,7 @@ yang terbuka. Hal itu membuktikan bahwa Al-Qur’an adalah
 Perkataan Tuhan dan janji-janji yang dikemukakan Al-Qur’an
 adalah sama dengan janji-janji Tuhan.
 
-### Najmul Huda 
+### 37 Najmul Huda 
 
 (Bintang Petunjuk)
 
@@ -2421,7 +2421,7 @@ bulan Ramadhan. Begitu juga dengan kematian Lekhram yang
 merupakan bukti lain akan kebenaran kabar ghaib yang diterima
 beliau dari Allah s.w.t.
 
-### Zararatul Imam 
+### 38 Zararatul Imam 
 
 (Kebutuhan akan seorang Imam)
 
@@ -2476,7 +2476,7 @@ Buku ini juga mencantumkan sebuah surat dari Maulvi Abdul
 Karim kepada salah sahabatnya. Tercantum juga catatan tentang
 pajak penghasilan dan sebuah tanda baru dari Tuhan.
 
-### Ayyamus Sulh 
+### 39 Ayyamus Sulh 
 
 (Hari-hari Kedamaian)
 
@@ -2582,7 +2582,7 @@ mengatakan bahwa beliau melihat kasyaf yang menunjukkan
 wabah itu sedang menyebar ke Punjab, tetapi sebenarnya bisa
 dielakkan jika umat mau berpaling kepada hal-hal yang baik.
 
-### Masih Hindustan Main 
+### 40 Masih Hindustan Main 
 
 (Jesus di India)
 
@@ -2640,7 +2640,7 @@ Kristen atau pun Yahudi, ia akan meyakini bahwa pandangan
 yang mengatakan nabi Isa a.s. terbang ke langit sebagai suatu
 kebohongan dan karangan saja.
 
-### Raaz-i-Haqiqat 
+### 41 Raaz-i-Haqiqat 
 
 (Rahasia Kebenaran)
 
@@ -2669,7 +2669,7 @@ yang berada di Khanyar, Srinagar, yang katanya makam Yuz
 Asaf, ternyata adalah makam nabi Isa a.s. sehingga hal itu telah
 tambah menguatkan pengakuan beliau
 
-### Tohfa-i-Ghaznaviyya 
+### 42 Tohfa-i-Ghaznaviyya 
 
 (Hadiah bagi kaum Ghaznavi)
 
@@ -2731,7 +2731,7 @@ dalam bahasa Arab. Di halaman-halaman itu beliau menyampaikan
 argumentasi tentang wafatnya nabi Isa a.s. dan tentang
 kebenaran pengakuan beliau.
 
-### Haqiqatul Mahdi 
+### 43 Haqiqatul Mahdi 
 
 (Kebenaran wujud Mahdi)
 
@@ -2754,7 +2754,7 @@ negeri agar penduduk disana bisa menilai keyakinan dan
 pandangan siapa dari antara mereka berdua yang dianggap sehat
 dan bisa diterima akal.
 
-### Tiryaqul Qulub 
+### 44 Tiryaqul Qulub 
 
 (Penyejuk Hati)
 
@@ -2829,7 +2829,7 @@ Di dalamnya ada kesembuhan bagi umat, kedamaian bagi
 hati serta akan menghilangkan kegalauan keadaan dan
 kunamakan Tiryaqul Qulub (penyejuk hati).’
 
-### Khutba Ilhamiya 
+### 45 Khutba Ilhamiya 
 
 (Khotbah Ilham)
 
@@ -2899,7 +2899,7 @@ membahas kondisi dunia dan beliau mencoba meyakinkan
 pembacanya bahwa kedatangan beliau merupakan kebutuhan
 zaman.
 
-### Roidad-i-Jalsa-i-Dua 
+### 46 Roidad-i-Jalsa-i-Dua 
 
 (Minuta pertemuan Doa)
 
@@ -2918,7 +2918,7 @@ untuk dikirim kepada mereka yang terluka dalam perang itu.
 Karena pertemuan diadakan untuk memanjatkan doa maka
 disebut sebagai Pertemuan Doa.
 
-### Lujja-tun-Nur 
+### 47 Lujja-tun-Nur 
 
 (Samudra Cahaya)
 
@@ -2976,7 +2976,7 @@ beliau akan mencapai seluruh penjuru dunia.
 Buku ini ditulis dalam bahasa Arab pada tahun 1900 dan
 terjemah bahasa Parsinya diterbitkan tahun 1910.
 
-### Government Angrezi Aur Jihad 
+### 48 Government Angrezi Aur Jihad 
 
 (Pemerintah Inggris dan Jihad)
 
@@ -3088,7 +3088,7 @@ agama agar mereka memperlihatkan tanda-tanda samawi atau
 nubuwatan yang harus dipenuhi. Hal itu akan menyelesaikan
 kebenaran pengakuan beliau atau membuktikan sebaliknya.
 
-### Tohfa-i-Golarhvyiyya 
+### 49 Tohfa-i-Golarhvyiyya 
 
 (Hadiah bagi Golarhvi)
 
@@ -3202,7 +3202,7 @@ bahasa Urdu. Selain itu ada suplemen dalam buku tersebut yang
 menguraikan tentang bukti-bukti yang menyatakan beliau
 adalah Masih Maud.
 
-### Arba’een 1, 2, 3, 4 
+### 50 Arba’een 1, 2, 3, 4 
 
 (Empatpuluh brosur, 1 - 4)
 
@@ -3250,7 +3250,7 @@ tidak bisa memperlihatkan mukjizat apa pun. Setelah bertemu
 dengan beliau, apakah mereka masih bisa secara jujur
 mengatakan hal yang sama?
 
-### Arba’een No. 2
+### 51 Arba’een No. 2
 
 Hazrat Ahmad a.s. mengatakan bahwa mengingat manusia
 diciptakan untuk mengenal Tuhan dan menyembah-Nya maka
@@ -3301,12 +3301,12 @@ suatu yang palsu. Beliau bersedih hati karena umat tidak
 berusaha memahami dan mereka mengalami begitu banyak
 kerugian kehidupan ruhani mereka.
 
-### Arba’een No. 3
+### 52 Arba’een No. 3
 
 Edisi ini mengulang selebaran yang menawarkan hadiah 500
 rupee sebagaimana muncul di buku Tohfa-i-Golarhviyya.
 
-### Arba’een No. 4
+### 53 Arba’een No. 4
 
 Hazrat Ahmad a.s. mengawali edisi ini dengan memberikan
 intisari dari Arba’een No. 3 yang dilanjutkan dengan kutipan
@@ -3388,7 +3388,7 @@ bahasa Urdu. Kutipan itu mengungkapkan nubuwatan tentang
 nabi-nabi palsu dan diambil dari kitab Ulangan (Deuteronomy)
 pasal 18 ayat 18-20. Ajakan itu bertanggal 29 Desember 1900.
 
-### Ijaz-i-Ahmadi 
+### 54 Ijaz-i-Ahmadi 
 
 (Mukjizat Ahmad)
 
@@ -3448,7 +3448,7 @@ Pada penutupan buku diumumkan penawaran hadiah 10.000
 rupee bagi siapa pun yang mampu mengarang syair seperti
 disebutkan di atas.
 
-### REVIEW 
+### 55 REVIEW 
 
 (Rangkuman)
 
@@ -3495,7 +3495,7 @@ AlQur’an. Sebagaimana beliau ditugaskan Allah s.w.t. untuk
 menyebarkan ajaran Al-Qur’an, maka sunnah menggambarkan 
 kepada umat cara pelaksanaannya.
 
-### Mawahibur Rahman 
+### 56 Mawahibur Rahman 
 
 (Hadiah dari Tuhan)
 
@@ -3566,7 +3566,7 @@ menyeru para pengikut beliau untuk patuh mengikutinya,
 karena Ahmadiyah bukanlah suatu yang baru, ia adalah Jemaat
 yang sederhana dan murni Islam.
 
-### Naseem-i-Dawat 
+### 57 Naseem-i-Dawat 
 
 (Ajakan yang sejuk)
 
@@ -3638,7 +3638,7 @@ Ahmad a.s. memberikan perbandingan ajaran Kristen, agama
 Arya dan ajaran Al-Qur’an. Perbandingan ini meliputi tiga bab
 dan sangat mendetil.
 
-### Sanatum Dharam
+### 58 Sanatum Dharam
 
 Dalam buku yang diterbitkan tanggal 8 Maret 1903 ini, Hazrat
 Ahmad mencoba membantu para pengikut Sanatan Dharam
@@ -3651,7 +3651,7 @@ Di bagian epilog buku itu Hazrat Ahmad a.s. mengulang dengan
 kata-kata lain apa yang telah beliau kemukakan dalam buku
 Naseem-i-Dawat mengenai dasar tentang beralih agama.
 
-### Tazkiratush Shahadatain 
+### 59 Tazkiratush Shahadatain 
 
 (Narasi tentang dua orang Sahid)
 
@@ -3836,7 +3836,7 @@ diriku, aku menyerahkan semua permasalahanku kepada
 Allah s.w.t. dan segera kalian akan merasakan
 akibatnya.’
 
-### Seeratul Abdal 
+### 60 Siratul Abdal 
 
 (Ciri-ciri orang saleh)
 
@@ -3864,7 +3864,7 @@ bahwa beliau memiliki semua ciri-ciri itu dan beliau adalah
 mujaddid sebenarnya yang diutus Tuhan untuk membawa
 kembali manusia kembali ke pintu-Nya.
 
-### Islam Aur Mulk Ke Dusrey Mazahab 
+### 61 Islam Aur Mulk Ke Dusrey Mazahab 
 
 (Islam dan berbagai agama di negeri ini)
 
@@ -3921,7 +3921,7 @@ beliau sebagai Masih Maud dan mengutip bukti-bukti kebenaran
 pengakuannya serta menyebutkan beberapa kabar ghaib yang
 telah terpenuhi sampai saat itu.
 
-### ISLAM
+### 62 ISLAM
 
 Buku ini juga merupakan pidato yang disampaikan Hazrat
 Ahmad a.s. pada tanggal 2 November di Sialkot dan dikenal
