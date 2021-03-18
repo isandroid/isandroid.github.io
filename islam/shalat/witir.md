@@ -3,7 +3,7 @@ title: Shalat Witir
 layout: default
 description: arti 
 permalink: /shalat/witir
-published: false
+published: true
 ---
 
 ## {{ page.title }}
@@ -70,7 +70,21 @@ Ali bin Abu Thalib berkata, "Shalat witir tidak wajib dan tidak pula seperti sha
 
 [^majah_1159]: [H.R. Ibnu Majah, Kitab Mendirikan shalat dan sunah yang ada di dalamnya, Bab Shalat witir](https://www.hadits.id/hadits/majah/1159)
 
-### Witir Boleh Dilakukan di Awal Malam
+### Rasulullah (saw) Menekankan untuk Shalat Witir
+
+Diriwayatkan,
+
+<p class="arab">
+عَنْ عَبْدِ اللَّهِ بْنِ بُرَيْدَةَ عَنْ أَبِيهِ قَالَ سَمِعْتُ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَقُولُ الْوِتْرُ حَقٌّ فَمَنْ لَمْ يُوتِرْ فَلَيْسَ مِنَّا الْوِتْرُ حَقٌّ فَمَنْ لَمْ يُوتِرْ فَلَيْسَ مِنَّا الْوِتْرُ حَقٌّ فَمَنْ لَمْ يُوتِرْ فَلَيْسَ مِنَّا
+</p>
+
+...dari Abdullah bin Buraidah dari ayahnya, ia berkata; saya mendengar Rasulullah shallAllahu wa'alaihi wa sallam bersabda: 
+
+> "Shalat witir adalah sebuah hak, barang siapa yang tidak melakukan shalat witir maka ia bukan dari golongan Kami, shalat witir adalah sebuah hak, barang siapa yang tidak melakukan shalat witir maka bukan dari golongan Kami, (beliau mengulangnya tiga kali)" (H.R. Abu Dawud) [[^dawud_1209]]
+
+[^dawud_1209]: [H.R. Abu Dawud, Kitab Shalat, Bagi yang tidak melaksanakan shalat witir](https://www.hadits.id/hadits/dawud/1209)
+
+### Witir Boleh Dilakukan di Awal Malam hingga Akhir Malam
 
 Diriwayatkan,
 
@@ -78,13 +92,117 @@ Diriwayatkan,
 عَنْ جَابِرٍ قَالَ قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ مَنْ خَافَ أَنْ لَا يَقُومَ مِنْ آخِرِ اللَّيْلِ فَلْيُوتِرْ أَوَّلَهُ وَمَنْ طَمِعَ أَنْ يَقُومَ آخِرَهُ فَلْيُوتِرْ آخِرَ اللَّيْلِ فَإِنَّ صَلَاةَ آخِرِ اللَّيْلِ مَشْهُودَةٌ وَذَلِكَ أَفْضَلُ
 </p>
 
-Dari Jabir ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: 
+dari Jabir ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: 
 
-> "Barangsiapa yang khawatir tidak bisa bangun di akhir malam, hendaklah ia melakukan witir di awal malam. Dan siapa yang berharap mampu bangun di akhir malam, hendaklah ia witir di akhir malam, karena shalat di akhir malam disaksikan (oleh para malaikat) dan hal itu adalah lebih afdlal (utama)." (H.R. Muslim) []
+> "Barangsiapa yang khawatir tidak bisa bangun di akhir malam, hendaklah ia melakukan witir di awal malam. Dan siapa yang berharap mampu bangun di akhir malam, hendaklah ia witir di akhir malam, karena shalat di akhir malam disaksikan (oleh para malaikat) dan hal itu adalah lebih afdlal (utama)." (H.R. Muslim) [[^muslim_1255]]
+
+[^muslim_1255]: [Muslim Kitab Shalatnya musafir dan penjelasan tentang qashar, Bab Barangsiapa khawatir tidak bangun di akhir malam hendaklah shalat witir di awal malam](https://www.hadits.id/hadits/muslim/1255)
+
+Rasulullah (saw) biasa witir di akhir waktu malam atau waktu sahur. Diriwayatkan,
+
+<p class="arab">
+عَنْ عَائِشَةَ قَالَتْ كُلَّ اللَّيْلِ أَوْتَرَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ وَانْتَهَى وِتْرُهُ إِلَى السَّحَرِ
+</p>
+
+...dari 'Aisyah ia berkata, "Sepanjang malam Rasulullah shallallahu 'alaihi wasallam melaksanakan shalat witir dan berhenti pada waktu sahur." (H.R. Bukhari) [[^bukhari_941]]
+
+[^bukhari_941]: [H.R. Al-Bukhari, Kitab Jum'at, Bab Waktu-waktu Pelaksanaan Shalat Witir](https://www.hadits.id/hadits/bukhari/941)
+
+### Tidak Ada Dua Witir dalam Satu Malam
+
+Diriwayatkan,
+
+<p class="arab">
+عَنْ قَيْسِ بْنِ طَلْقِ بْنِ عَلِيٍّ عَنْ أَبِيهِ قَالَ سَمِعْتُ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَقُولُ لَا وِتْرَانِ فِي لَيْلَةٍ
+</p>
+
+...dari Qais bin Thalq bin Ali dari ayahnya dia berkata, saya mendengar Rasulullah Shallahu 'alaihi wa sallam bersabda: "Tidak ada dua kali witir dalam satu malam." (H.R. Tirmidzi) [[^tirmidzi_432]]
+
+[^tirmidzi_432]: [At-Tirmidzi, Kitab Shalat, Takada dua witr dalam semalam](https://www.hadits.id/hadits/tirmidzi/432)
+
+### Bacaan yang Disunnahkan Rasulullah (saw) ketika Witir
+
+<p class="arab">
+عَنْ ابْنِ عَبَّاسٍ قَالَ كَانَ النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَقْرَأُ فِي الْوِتْرِ بِسَبِّحِ اسْمَ رَبِّكَ الْأَعْلَى وَقُلْ يَا أَيُّهَا الْكَافِرُونَ وَقُلْ هُوَ اللَّهُ أَحَدٌ فِي رَكْعَةٍ رَكْعَةٍ
+</p>
+
+...dari Ibnu Abbas dia berkata, adalah Nabi Shallahu 'alaihi wa sallam dalam shalat witirnya membaca _SABBIHISMA RABBIKAL A'LA_ dan _QUL YAA AYYUHAL KAAFIRUUN_ dan _QUL HUWALLAHU AHAD_ dalam setiap raka'atnya. (H.R. Tirmidzi) [[^tirmidzi_424]]
+
+[^tirmidzi_424]: [At-Tirmidzi, Kitab Shalat, Bacaan saat witir](https://www.hadits.id/hadits/tirmidzi/424)
+
+Untuk rakaat ketiga (bacaan setelah surat Al-Ikhlas), diriwayatkan,
+
+<p class="arab">
+عَنْ عَبْدِ الْعَزِيزِ بْنِ جُرَيْجٍ قَالَ سَأَلْتُ عَائِشَةَ أُمَّ الْمُؤْمِنِينَ بِأَيِّ شَيْءٍ كَانَ يُوتِرُ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فَذَكَرَ مَعْنَاهُ قَالَ وَفِي الثَّالِثَةِ بِقُلْ هُوَ اللَّهُ أَحَدٌ وَالْمُعَوِّذَتَيْنِ
+</p>
+
+dari Abdul Aziz bin Juraij berkata; aku bertanya kepada Aisyah ummul mukminin radhiyAllahu; surat apakah yang dibaca Rasulullah shallAllahu wa'alaihi wa sallam ketika melakukan witir? Kemudian ia menyebutkan maknanya; dan pada raka'at yang ketiga beliau membaca "Qul Huwallaahu Ahad" dan "Mu'awwidzatain" (Surat Al Falaq dan An Naas). (H.R. Abu Dawud) [[^dawud_1213]]
+
+[^dawud_1213]: [Abu Dawud, Kitab Shalat, Bab Apa yang dibaca dalam shalat witir](https://www.hadits.id/hadits/dawud/1213)
+
+### Jika Lupa Shalat Witir
+
+Jika di malam hari kita lupa melaksanakan witir, maka hendaklah dilaksanakan sesuai riwayat berikut ini,
+
+<p class="arab">
+عَنْ أَبِي سَعِيدٍ قَالَ قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ مَنْ نَامَ عَنْ الْوِتْرِ أَوْ نَسِيَهُ فَلْيُصَلِّ إِذَا أَصْبَحَ أَوْ ذَكَرَهُ
+</p>
+
+...dari Abu Sa'id ia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Barangsiapa kehilangan shalat witir karena tidur atau lupa, hendaklah ia kerjakan ketika bangun (subuh) atau teringat." (H.R. Ibnu Majah) [[^majah_1178]]
+
+[^majah_1178]: [Ibnu Majah, Kitab Mendirikan shalat dan sunah yang ada di dalamnya, Bab Orang yang tidak mengerjakan shalat witir karena tertidur atau lupa](https://www.hadits.id/hadits/majah/1178)
 
 ### Witir Boleh Ditambah dengan Bacaan Qunut
 
 #### Qunut dilakukan di Rakaat Terakhir Witir
+
+Diriwayatkan,
+
+<p class="arab">
+عَنْ عَلِيِّ بْنِ أَبِي طَالِبٍ رَضِيَ اللَّهُ عَنْهُ أَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ كَانَ يَقُولُ فِي آخِرِ وِتْرِهِ ...
+</p>
+
+dari Ali bin Abu Thalib radliallahu 'anhu bahwa Rasulullah shallAllahu wa'alaihi wa sallam di akhir (rakaat) shalat witirnya... (H.R. Abu Dawud) [[^dawud_1215]]
+
+[^dawud_1215]: [Abu Dawud, Kitab Shalat, Bab Qunut dalam shalat witir](https://www.hadits.id/hadits/dawud/1215 )
+
+#### Qunut Boleh Dilakukan Setelah Ruku’
+
+Diriwayatkan,
+
+<p class="arab">
+عَنْ مُحَمَّدٍ قَالَ سَأَلْتُ أَنَسَ بْنَ مَالِكٍ عَنْ الْقُنُوتِ فَقَالَ قَنَتَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ بَعْدَ الرُّكُوعِ
+</p>
+
+Telah menceritakan kepada kami Muhammad bin Basysyar berkata, telah menceritakan kepada kami Abdul Wahhab berkata, telah menceritakan kepada kami Ayyub dari Muhammad ia berkata, "Aku bertanya kepada Anas bin Malik tentang qunut, maka ia pun menjawab, "Rasulullah shallallahu 'alaihi wasallam melakukan qunut setelah rukuk. " (H.R. Ibnu Majah) [[^majah_1174]]
+
+[^majah_1174]: [H.R. Ibnu Majah, Kitab Mendirikan shalat dan sunah yang ada di dalamnya, Bab Qunut sebelum dan sesudah rukuk](https://www.hadits.id/hadits/majah/1174)
+
+#### Qunut Boleh Dilakukan Sebelum Ruku’
+
+Diriwayatkan,
+
+<p class="arab">
+عَنْ أُبَيِّ بْنِ كَعْبٍ أَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ كَانَ يُوتِرُ فَيَقْنُتُ قَبْلَ الرُّكُوعِ
+</p>
+
+Telah menceritakan kepada kami Ali bin Maimun Ar-Raqqi berkata, telah menceritakan kepada kami Makhlad bin Yazid dari Sufyan dari Zubaid Al Yami dari Sa'id bin 'Abdurrahman bin Abza dari Bapaknya dari Ubai bin Ka'b berkata, "Rasulullah shallallahu 'alaihi wasallam melaksanakan shalat witir dan qunut sebelum rukuk. " (H.R. Ibnu Majah) [[^majah_1172]]
+
+[^majah_1172]: [H.R. Ibnu Majah, Kitab Mendirikan shalat dan sunah yang ada di dalamnya, Bab Qunut sebelum dan sesudah rukuk](https://www.hadits.id/hadits/majah/1172)
+
+#### Bacaan Qunut 
+
+Diriwayatkan,
+
+<p class="arab">
+قَالَ الْحَسَنُ بْنُ عَلِيٍّ رَضِيَ اللَّهُ عَنْهُمَا عَلَّمَنِي رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ كَلِمَاتٍ أَقُولُهُنَّ فِي الْوِتْرِ اللَّهُمَّ اهْدِنِي فِيمَنْ هَدَيْتَ وَعَافِنِي فِيمَنْ عَافَيْتَ وَتَوَلَّنِي فِيمَنْ تَوَلَّيْتَ وَبَارِكْ لِي فِيمَا أَعْطَيْتَ وَقِنِي شَرَّ مَا قَضَيْتَ فَإِنَّكَ تَقْضِي وَلَا يُقْضَى عَلَيْكَ وَإِنَّهُ لَا يَذِلُّ مَنْ وَالَيْتَ تَبَارَكْتَ رَبَّنَا وَتَعَالَيْتَ
+</p>
+
+Al Hasan bin Ali radliallahu 'anhuma berkata, Rasulullah Shallahu 'alaihi wa sallam mengajariku beberapa kalimat yang saya ucapkan dalam shalat witir, yaitu: 
+
+> ALLAHUMMAHDINI FIIMAN HADAIT, WA'AAFINI FIIMAN 'AFAIT, WATAWALLANII FIIMAN TAWALLAIT, WABAARIK LII FIIMA A'THAIT, WAQINII SYARRAMA QADLAIT, FAINNAKA TAQDLI WALAA YUQDLA 'ALAIK, WAINNAHU LAA YADZILLU MAN WAALAIT, TABAARAKTA RABBANA WATA'AALAIT (H.R. Tirmizi) [[^tirmidzi_426]]
+
+[^tirmidzi_426]: [H.R. At-Tirmidzi, Kitab Shalat, Bab Qunut saat witr](https://www.hadits.id/hadits/tirmidzi/426)
 
 Diriwayatkan,
 
@@ -96,37 +214,7 @@ dari Ali bin Abu Thalib radliallahu 'anhu bahwa Rasulullah shallAllahu wa'alaihi
 
 > "ALLAAHUMMA INNII A'UUDZU BIRIDHAAKA MIN SAKHATHIKA WA BIMU'AAFAATIK, MIN 'UQUUBATIK, WA A'UUDZU BIKA MINKA LAA UHSHII TSANAA-AN 'ALAIK, ANTA KAMAA ATSNAITA 'ALAA NAFSIK." 
 
-(Ya Allah, aku berlindung dengan keridhaanMU dari murkaMu dan kepada ampunanMu dari adzabMu, dan aku berlindung kepadaMu dariMu, aku tidak dapat menghitung pujian kepadaMu, Engkau sebagaimana yang telah Engkau puji diri-Mu). (H.R. Abu Dawud) [](https://www.hadits.id/hadits/dawud/1215 )
-
-#### Qunut Boleh Dilakukan Setelah Ruku’
-
-Diriwayatkan,
-
-<p class="arab">
-عَنْ مُحَمَّدٍ قَالَ سَأَلْتُ أَنَسَ بْنَ مَالِكٍ عَنْ الْقُنُوتِ فَقَالَ قَنَتَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ بَعْدَ الرُّكُوعِ
-</p>
-
-Telah menceritakan kepada kami Muhammad bin Basysyar berkata, telah menceritakan kepada kami Abdul Wahhab berkata, telah menceritakan kepada kami Ayyub dari Muhammad ia berkata, "Aku bertanya kepada Anas bin Malik tentang qunut, maka ia pun menjawab, "Rasulullah shallallahu 'alaihi wasallam melakukan qunut setelah rukuk. " (H.R. Ibnu Majah) [](https://www.hadits.id/hadits/majah/1174)
-
-#### Qunut Boleh Dilakukan Sebelum Ruku’
-
-Diriwayatkan,
-
-<p class="arab">
-عَنْ أُبَيِّ بْنِ كَعْبٍ أَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ كَانَ يُوتِرُ فَيَقْنُتُ قَبْلَ الرُّكُوعِ
-</p>
-
-Telah menceritakan kepada kami Ali bin Maimun Ar-Raqqi berkata, telah menceritakan kepada kami Makhlad bin Yazid dari Sufyan dari Zubaid Al Yami dari Sa'id bin 'Abdurrahman bin Abza dari Bapaknya dari Ubai bin Ka'b berkata, "Rasulullah shallallahu 'alaihi wasallam melaksanakan shalat witir dan qunut sebelum rukuk. " (H.R. Ibnu Majah) []( https://www.hadits.id/hadits/majah/1172)
-
-### Bacaan Qunut 
-
-Diriwayatkan,
-
-<p class="arab">
-قَالَ الْحَسَنُ بْنُ عَلِيٍّ رَضِيَ اللَّهُ عَنْهُمَا عَلَّمَنِي رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ كَلِمَاتٍ أَقُولُهُنَّ فِي الْوِتْرِ اللَّهُمَّ اهْدِنِي فِيمَنْ هَدَيْتَ وَعَافِنِي فِيمَنْ عَافَيْتَ وَتَوَلَّنِي فِيمَنْ تَوَلَّيْتَ وَبَارِكْ لِي فِيمَا أَعْطَيْتَ وَقِنِي شَرَّ مَا قَضَيْتَ فَإِنَّكَ تَقْضِي وَلَا يُقْضَى عَلَيْكَ وَإِنَّهُ لَا يَذِلُّ مَنْ وَالَيْتَ تَبَارَكْتَ رَبَّنَا وَتَعَالَيْتَ
-</p>
-
-Al Hasan bin Ali radliallahu 'anhuma berkata, Rasulullah Shallahu 'alaihi wa sallam mengajariku beberapa kalimat yang saya ucapkan dalam shalat witir, yaitu ALLAHUMMAHDINI FIIMAN HADAIT, WA'AAFINI FIIMAN 'AFAIT, WATAWALLANII FIIMAN TAWALLAIT, WABAARIK LII FIIMA A'THAIT, WAQINII SYARRAMA QADLAIT, FAINNAKA TAQDLI WALAA YUQDLA 'ALAIK, WAINNAHU LAA YADZILLU MAN WAALAIT, TABAARAKTA RABBANA WATA'AALAIT (H.R. Tirmizi) [](https://www.hadits.id/hadits/tirmidzi/426)
+(Ya Allah, aku berlindung dengan keridhaanMU dari murkaMu dan kepada ampunanMu dari adzabMu, dan aku berlindung kepadaMu dariMu, aku tidak dapat menghitung pujian kepadaMu, Engkau sebagaimana yang telah Engkau puji diri-Mu). (H.R. Abu Dawud) [[^dawud_1215]]
 
 ### Jumlah Raka’at Shalat Witir
 
