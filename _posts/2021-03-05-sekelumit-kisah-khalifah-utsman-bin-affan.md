@@ -1,7 +1,7 @@
 ---
 title: Sekelumit Kisah Khalifah 'Utsman bin Affan (ra)
 layout: post
-tags: nikah
+tags: khalifah
 description: penyebaran islam hingga anak-bendua hindustan, nubuwwatan penentangan terhadap khalifah utsman, Sifat Pengampun dan Kebijaksanaan khalifah Utsman
 ---
 
