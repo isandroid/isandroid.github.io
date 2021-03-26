@@ -3,6 +3,7 @@ title: Hadits - Puasa - Keutamaan Berbuka dengan Kurma dan Air
 layout: default
 kode: 7219cc7b-dbeb-4a78-ae53-5b1dab70ca7a
 description: rasulullah (saw) terbiasa berbuka dengan kurma karena beberkah dan beliau (saw) berbuka dengan air karena suci dan mensucikan
+permalink: /ref/hds-7219cc7b-dbeb-4a78-ae53-5b1dab70ca7a
 ---
 ## {{page.title}}
 

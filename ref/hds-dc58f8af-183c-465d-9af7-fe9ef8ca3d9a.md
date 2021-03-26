@@ -2,6 +2,8 @@
 title: Hadits - Amalan itu Sesuai dengan Niat
 layout: default
 kode: dc58f8af-183c-465d-9af7-fe9ef8ca3d9a
+permalink: /ref/hds-dc58f8af-183c-465d-9af7-fe9ef8ca3d9a
+description: amalan akan dibalas atau diganjar sesuai dengan niatnya
 ---
 ## {{page.title}}
 

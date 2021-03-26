@@ -2,6 +2,8 @@
 title: Hadits - Puasa - Pahalanya Tiada Bandingannya
 layout: default
 kode: ee382abb-c859-4ac3-b9bd-9c13b740fe9c
+permalink: /ref/hds-ee382abb-c859-4ac3-b9bd-9c13b740fe9c
+description: pahala puasa itu tidak ada bandingannya dengan ibadah-ibadah lainnya
 ---
 ## {{page.title}}
 

@@ -3,6 +3,7 @@ title: Hadits - Puasa - Alquran dan Puasa Memberi Syafaat
 layout: default
 kode: af705ad4-baae-4cae-9da9-790b5cd52c02
 description: Puasa dan tilawat alquran kelak pada hari kiamat akan memberi syafa'at kepada seorang hamba
+permalink: /ref/hds-af705ad4-baae-4cae-9da9-790b5cd52c02
 ---
 ## {{page.title}}
 

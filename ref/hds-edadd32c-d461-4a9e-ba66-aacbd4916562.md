@@ -2,6 +2,8 @@
 title: Hadits - Puasa - Puasa Menjadi Pemisah dari Api Neraka
 layout: default
 kode: edadd32c-d461-4a9e-ba66-aacbd4916562
+description: puasa akan menjauhkan manusia dari neraka sejauh 70.000 musim 
+permalink: /ref/hds-edadd32c-d461-4a9e-ba66-aacbd4916562
 ---
 ## {{page.title}}
 

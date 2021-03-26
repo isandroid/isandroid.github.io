@@ -3,6 +3,7 @@ title: Hadits - Keutamaan Amalan Sunnah
 layout: default
 description: hal pertama yang Allah hisab adalah shalatnya dan ibadah sunnah akan melengkapi kekurangan-kekurangan dari ibadah wajib
 kode: b0b81ea9-28f8-4fc5-bf2a-f5e9a0daecbc
+permalink: /ref/hds-b0b81ea9-28f8-4fc5-bf2a-f5e9a0daecbc
 ---
 ## {{page.title}}
 

@@ -3,6 +3,7 @@ title: Atsar - Khalifah Umar Menentukan Zakat Madu
 layout: default
 description: Khalifah Umar bin Khottob berkenan menjaga lembah Salabah yang dulu pernah dijaga oleh Rasulullah (saw)
 kode: bacc769d-32ba-49e0-9fa3-e5ad7579ea98
+permalink: /ref/atr-bacc769d-32ba-49e0-9fa3-e5ad7579ea98
 ---
 ## {{page.title}}
 

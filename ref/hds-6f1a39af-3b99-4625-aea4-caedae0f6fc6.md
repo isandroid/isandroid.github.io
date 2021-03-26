@@ -3,6 +3,7 @@ title: Hadits - Puasa - Rasulullah saw melakukan sahur
 layout: default
 kode: 6f1a39af-3b99-4625-aea4-caedae0f6fc6
 description: Rasulullah saw melakukan sahur mendekati waktu shalat shubuh dan jarak sahur dan azan shubuh adalah sekira bacaan 50 ayat alquran
+permalink: /ref/hds-6f1a39af-3b99-4625-aea4-caedae0f6fc6
 ---
 ## {{page.title}}
 

@@ -1,6 +1,9 @@
 ---
-title: Hadits - Masa Kekhalifahan dan Kerajaan
+title: Hadits - Khalifah - Masa Kekhalifahan dan Kerajaan
 layout: default
+kode: e867723c-bda0-4fea-bdce-0774d6f3cb06
+permalink: /ref/hds-e867723c-bda0-4fea-bdce-0774d6f3cb06
+description: beberapa tahapan khilafat tau kekhalifahan, khilafah ‘ala minhajin-nubuwwah, mulkan ‘adhan dan mulkan jabbariyyah
 ---
 ## {{page.title}}
 

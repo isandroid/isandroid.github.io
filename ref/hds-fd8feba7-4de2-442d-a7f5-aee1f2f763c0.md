@@ -1,6 +1,9 @@
 ---
 title: Hadits - Imam Mahdi dari Keturunan Ahlul-Bait
 layout: default
+kode: fd8feba7-4de2-442d-a7f5-aee1f2f763c0
+description: imam mahdi berasal dari keturunan ahlul bait, yaitu keluarga rasulullah (saw)
+permalink: /ref/hds-fd8feba7-4de2-442d-a7f5-aee1f2f763c0
 ---
 ## {{page.title}}
 

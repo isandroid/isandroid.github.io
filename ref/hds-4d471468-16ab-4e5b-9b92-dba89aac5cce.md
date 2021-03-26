@@ -3,6 +3,7 @@ title: Hadits - Puasa - Memasukkan air ke hidung ketika Wudhu
 layout: default
 kode: 4d471468-16ab-4e5b-9b92-dba89aac5cce
 description: perintah menyempurnakan wudhu dengan memasukkan air ke dalam hidung kecuali sedang berpuasa
+permalink: /ref/hds-4d471468-16ab-4e5b-9b92-dba89aac5cce
 ---
 ## {{page.title}}
 

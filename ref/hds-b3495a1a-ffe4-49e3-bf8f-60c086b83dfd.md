@@ -3,6 +3,7 @@ title: Hadits - Puasa - Ramadhan Menghapus Dosa
 layout: default
 kode: b3495a1a-ffe4-49e3-bf8f-60c086b83dfd
 description: shalat jumat akan menghapus dosa seminggu sebelumnya dan puasa akan menghapus dosa setahun sebelumnya jika seseorang menjauhi dosa besar
+permalink: /ref/hds-b3495a1a-ffe4-49e3-bf8f-60c086b83dfd
 ---
 ## {{page.title}}
 

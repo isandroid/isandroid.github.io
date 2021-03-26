@@ -1,8 +1,9 @@
 ---
-title: Hadits - Niat Puasa
+title: Hadits - Puasa - Niat Puasa
 layout: default
 kode: 20cab9fe-b117-4d58-89e1-0ff1259aaaab
 description: perintah rasulullah (saw) memerintahkan untuk niat puasa sebelum fajar tiba 
+permalink: /ref/hds-20cab9fe-b117-4d58-89e1-0ff1259aaaab
 ---
 ## {{page.title}}
 

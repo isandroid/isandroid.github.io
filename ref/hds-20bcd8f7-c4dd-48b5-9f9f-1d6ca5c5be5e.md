@@ -1,8 +1,9 @@
 ---
-title: Hadits - Tidak Boleh Ada Dua Khalifah dalam Satu Masa
+title: Hadits - Khalifah - Tidak Boleh Ada Dua Khalifah dalam Satu Masa
 layout: default
 description: bila ada dua khalifah, maka abaikan dan jangan taati dari khalifah yang paling terakhir dari keduanya
 kode: 20bcd8f7-c4dd-48b5-9f9f-1d6ca5c5be5e
+permalink: /ref/hds-20bcd8f7-c4dd-48b5-9f9f-1d6ca5c5be5e
 ---
 ## {{page.title}}
 

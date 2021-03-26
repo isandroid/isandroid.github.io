@@ -3,6 +3,7 @@ title: Hadits - Puasa - Menyegerakan Berbuka Puasa
 layout: default
 kode: 16fed5d3-f2c9-4be1-aa7d-0a41db9531fa
 description: rasulullah (saw) menyampaikan bahwa menyegerakan berbuka puasa mempunyai dampak baik bagi manusia
+permalink: /ref/hds-16fed5d3-f2c9-4be1-aa7d-0a41db9531fa
 ---
 ## {{page.title}}
 
