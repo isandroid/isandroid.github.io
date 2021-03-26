@@ -19,7 +19,7 @@ Utang adalah uang yang dipinjam dari orang lain atau kewajiban membayar kembali 
 
 Dalam Kamus Besar Bahasa Indonesia akan kita temukan kata "Hutang" yang dirujukkan pada kata utang. Kata "hutang" tidak diberi makna, yang diberi makna hanyalah utang. Jadi kata yang lebih baku dalam Bahasa Indonesia adalah Utang. [[^kemendikbud_lamanbahasa_575]]
 
-[^kemendikbud_lamanbahasa_575]: <http://badanbahasa.kemdikbud.go.id/lamanbahasa/petunjuk_praktis/575>
+[^kemendikbud_lamanbahasa_575]: [Petunjuk Praktis Bahasa tentang Utang](http://badanbahasa.kemdikbud.go.id/lamanbahasa/petunjuk_praktis/575)
 
 ## Berhutang
 
@@ -333,7 +333,7 @@ Diriwayatkan,
 
 “Barangsiapa yang memberi penangguhan kepada orang yang kesulitan membayar hutang, maka baginya setiap hari ada pahala sedekah senilai hutang yang ia berikan, sebelum hutang itu lunas. Jika hutang itu belum lunas, lalu dia memberi penangguhan lagi maka baginya setiap hari ada pahala sedekah senilai itu.” (HR. Ahmad) [[^3a96cffe33b926e2db48a2c37c6e14ee]]
 
-[^3a96cffe33b926e2db48a2c37c6e14ee]: <https://dorar.net/h/3a96cffe33b926e2db48a2c37c6e14ee>
+[^3a96cffe33b926e2db48a2c37c6e14ee]: [H.R. Ahmad Syakir](https://dorar.net/h/3a96cffe33b926e2db48a2c37c6e14ee)
 
 #### Orang yang Memberikan Utang Akan Mendapat Pertolongan Allah
 
