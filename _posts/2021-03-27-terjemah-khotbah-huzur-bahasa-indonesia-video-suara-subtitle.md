@@ -12,15 +12,17 @@ published: true
 Menyimak khotbah Huzur merupakan bentuk ketaatan dan kecintaan anggota Jemaat terhadap imamnya. Didalamnya terdapat _tarbiyat-tarbiyat_ segar atau pendidikan yang langsung diberikan oleh Khalifah Islam saat ini, yakni Hadhrat Khalifatul Masih.
 
 Para Ahmadi di Indonesia terbiasa mengikuti kegiatan Menyimak Khotbah Huzur yang diterjemahkan secara langsung ke dalam bahasa Indonesia. Namun kadang kala  seseorang ingin mendengarkan kembali terjemahan tersebut.
-{% endcomment %}
 
 Mln. Mahmud Wardi, sebagai penterjemah resmi khotbah Huzur ke dalam bahasa Indonesia menyarankan agar para Ahmadi Indonesia menyimak **terjemahan ulang** yang lebih lengkap dan minim dari kesalahan daripada terjemahan **terjemahan secara live**
 
 Banyak para Ahmadi yang belum memahami bagaimana cara memutar **terjemahan khotbah Huzur lengkap** dan **terjemahan khotbah Huzur resmi** dari pusat. Kali ini akan kami jelaskan bagaimana cara membuka dan mengeset terjemahan resmi dari pusat.
+{% endcomment %}
+
+Berikut ini akan dijelaskan bagaimana cara memperoleh Khotbah Jumat 'versi lengkap'
 
 ### Terjemah Versi Dubbing
 
-Untuk mendengarkan dan menonton Khotbah Huzur versi terjemahan dubbing, maka bisa mengikuti petunjuk berikut:
+Untuk mendengarkan dan menonton Khotbah Huzur dengan terjemahan _dubbing_, maka bisa mengikuti petunjuk berikut:
 
 1. Buka channel resmi <i class="fa fa-youtube-play" aria-hidden="true"></i> [Youtube _Friday Sermon_](https://www.youtube.com/c/FridaySermon)
 
@@ -72,7 +74,7 @@ Untuk mendengarkan dan menonton video Khotbah Huzur bersubtitle Indonesia, maka 
 
 ### Terjemah Versi Audio
 
-Untuk mendengarkan Audio Dubbing (tanpa video) dari Khotbah Huzur dalam Bahasa Indonesia, maka bisa mengikuti petunjuk berikut:
+Untuk mendengarkan suara (Audio _Dubbing_ tanpa video) dari Khotbah Huzur dalam Bahasa Indonesia, maka bisa mengikuti petunjuk berikut:
 
 1. Buka [Friday Sermon](https://www.alislam.org/friday-sermon) dari situs Alislam.org 
 
