@@ -8,11 +8,13 @@ published: true
 
 ### {{ page.title }}
 
+{% comment %}
 Menyimak khotbah Huzur merupakan bentuk ketaatan dan kecintaan anggota Jemaat terhadap imamnya. Didalamnya terdapat _tarbiyat-tarbiyat_ segar atau pendidikan yang langsung diberikan oleh Khalifah Islam saat ini, yakni Hadhrat Khalifatul Masih.
 
 Para Ahmadi di Indonesia terbiasa mengikuti kegiatan Menyimak Khotbah Huzur yang diterjemahkan secara langsung ke dalam bahasa Indonesia. Namun kadang kala  seseorang ingin mendengarkan kembali terjemahan tersebut.
+{% endcomment %}
 
-Mln. Mahmud Wardi, sebagai penterjemah resmi khotbah Huzur ke dalam bahasa Indonesia menyarankan agar para Ahmadi Indonesia menyimak terjemahan ulang yang lebih lengkap dan minim dari kesalahan. Beliau dan tim menterjemahkan ulang khotbah Huzur, lalu di kirim ke MTA Internasional di hari Sabtu. MTA Internasional yang akan mengunggah terjemahan lengkap tersebut ke Channel Youtube. 
+Mln. Mahmud Wardi, sebagai penterjemah resmi khotbah Huzur ke dalam bahasa Indonesia menyarankan agar para Ahmadi Indonesia menyimak **terjemahan ulang** yang lebih lengkap dan minim dari kesalahan daripada terjemahan **terjemahan secara live**
 
 Banyak para Ahmadi yang belum memahami bagaimana cara memutar **terjemahan khotbah Huzur lengkap** dan **terjemahan khotbah Huzur resmi** dari pusat. Kali ini akan kami jelaskan bagaimana cara membuka dan mengeset terjemahan resmi dari pusat.
 
@@ -27,7 +29,7 @@ Untuk mendengarkan dan menonton Khotbah Huzur versi terjemahan dubbing, maka bis
 3. Pilih playlist "Friday Sermon (Indonesian)...". Biasanya playlist dibuat pertahun. Misalnya,  
 
 	- [Friday Sermon (Indonesian) 2021](https://www.youtube.com/watch?v=zCE0DQUqh70&list=PLKH6S85ViM4vDdl_RLsJ25ESS4GIUIb7A) 
-
+{% comment %}
 	- [Friday Sermon (Indonesian) 2020](https://www.youtube.com/watch?v=y1f8z13jpXQ&list=PLKH6S85ViM4sXyC3BLbdJFGUeMDDigYwI)
 
 	- [Friday Sermon (Indonesian) 2019](https://www.youtube.com/watch?v=ZJ4i-IzmBSE&list=PLKH6S85ViM4vgh6UNew92zFiqSFyw96FH) 
@@ -41,6 +43,7 @@ Untuk mendengarkan dan menonton Khotbah Huzur versi terjemahan dubbing, maka bis
 	- [Friday Sermon (Indonesian) 2015](https://www.youtube.com/watch?v=Msddj4KFWAs&list=PLKH6S85ViM4uNfni5YkvivXhYkv5Wlio4)
 
 	- [Friday Sermon (Indonesian) 2014](https://www.youtube.com/watch?v=MvnAddcL2og&list=PLBFD3997AB789B9FB)
+{% endcomment %}
 
 4. Terakhir, _scroll_ (gulirkan) ke atas atau ke bawah, pilih video terjemah khotbah Huzur yang sesuai dengan waktu/tanggal khotbah Huzur yang kita ingin tonton dan dengarkan dalam suara Bahasa Indonesia.
 
@@ -55,10 +58,11 @@ Untuk mendengarkan dan menonton video Khotbah Huzur bersubtitle Indonesia, maka 
 3. Pilih playlist yang berawalan **"Friday Sermon..."**. Biasanya playlist dibuat pertahun. Misalnya,
 
 	- [Friday Sermon 2021](https://www.youtube.com/watch?v=Ew15J4QmNS0&list=PLUhmFB1mvuoVv3g1oOkCQ5yD3Q19YVRY6)
-
+{% comment %}
 	- [Friday Sermon 2020](https://www.youtube.com/watch?v=N0OQoyoTPKU&list=PLUhmFB1mvuoWhC5zCZ3HJeUIy-Z68Vvyw)
 
 	- [Friday Sermon 2019](https://www.youtube.com/watch?v=QW7pwJSM_00&list=PLUhmFB1mvuoVKUdE788jcj4ALErhSBc-A&index=58)
+{% endcomment %}
 
 4. Buka video sesuai dengan tanggal khotbah yang diinginkan. 
 
