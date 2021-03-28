@@ -1,5 +1,5 @@
 ---
-title: Khotbah Huzur dalam format Video, Suara dan Subtitle
+title: Terjemah Khotbah Huzur dalam Bahasa Indonesia dalam format Video, Suara dan Subtitle
 layout: post
 tags: tips_dan_trik khalifah
 description: tips dan trik bagaimana mencari video khotbah huzur yang resmi dalam format video, suara maupun subtitle
