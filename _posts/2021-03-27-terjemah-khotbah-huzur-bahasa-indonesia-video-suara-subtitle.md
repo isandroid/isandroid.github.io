@@ -22,11 +22,11 @@ Banyak para Ahmadi yang belum memahami bagaimana cara memutar **terjemahan khotb
 
 Untuk mendengarkan dan menonton Khotbah Huzur versi terjemahan dubbing, maka bisa mengikuti petunjuk berikut:
 
-1. Buka channel resmi [Youtube _Friday Sermon_](https://www.youtube.com/c/FridaySermon)
+1. Buka channel resmi <i class="fa fa-youtube-play" aria-hidden="true"></i> [Youtube _Friday Sermon_](https://www.youtube.com/c/FridaySermon)
 
 2. Klik Tab "[Playlist](https://www.youtube.com/c/FridaySermon/playlists)"
 
-3. Pilih playlist "Friday Sermon (Indonesian)...". Biasanya playlist dibuat pertahun. Misalnya,  
+3. Pilih playlist **"Friday Sermon (Indonesian)..."**. Biasanya playlist dibuat pertahun. Misalnya,  
 
 	- [Friday Sermon (Indonesian) 2021](https://www.youtube.com/watch?v=zCE0DQUqh70&list=PLKH6S85ViM4vDdl_RLsJ25ESS4GIUIb7A) 
 {% comment %}
@@ -51,7 +51,7 @@ Untuk mendengarkan dan menonton Khotbah Huzur versi terjemahan dubbing, maka bis
 
 Untuk mendengarkan dan menonton video Khotbah Huzur bersubtitle Indonesia, maka bisa mengikuti petunjuk berikut:
 
-1. Buka Akun Youtube Resmi [mtaOnline1](https://www.youtube.com/user/mtaOnline1)
+1. Buka Akun <i class="fa fa-youtube-play" aria-hidden="true"></i> Youtube Resmi [mtaOnline1](https://www.youtube.com/user/mtaOnline1)
 
 2. Klik Tab "[Playlist](https://www.youtube.com/user/mtaOnline1/playlists)"
 
@@ -76,15 +76,15 @@ Untuk mendengarkan Audio Dubbing (tanpa video) dari Khotbah Huzur dalam Bahasa I
 
 1. Buka [Friday Sermon](https://www.alislam.org/friday-sermon) dari situs Alislam.org 
 
-2. Klik **"tanggal"** yang ada di atas judul Khotbah Jumat
+2. Klik **"tanggal"** yang ada di atas judul Khotbah Jumat. Misalnya **"MARCH 26, 2021"**
 
-3. Klik **"Tahun"** yang ada di pojok kanan atas. Misalnya, pilih tahun **"2021"**
+3. Klik **"Tahun"** yang ada di pojok kanan atas. Misalnya, pilih tahun **"2021 <i class="fa fa-chevron-down" aria-hidden="true"></i> "**
 
-4. Lalu pilih tanggal yang khotbah Huzur yang kita .
+4. Lalu pilih tanggal yang khotbah Huzur yang kita inginkan.
 
-5. Klik **"More Languages..."**
+5. Klik **" <i class="fa fa-globe" aria-hidden="true"></i> More Languages..."**
 
-6. Dibawah tulisan **"Audio"** maka pilihlah **"Indonesian"**
+6. Dibawah tulisan **" <i class="fa fa-volume-up" aria-hidden="true"></i> Audio"** maka pilihlah **"Indonesian"**
 
 7. Tekan tombol Play <i class="fa fa-play" aria-hidden="true"></i>
 
