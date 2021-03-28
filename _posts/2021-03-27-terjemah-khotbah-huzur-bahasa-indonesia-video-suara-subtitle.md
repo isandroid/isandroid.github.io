@@ -68,9 +68,47 @@ Untuk mendengarkan dan menonton video Khotbah Huzur bersubtitle Indonesia, maka 
 
 4. Buka video sesuai dengan tanggal khotbah yang diinginkan. 
 
-5. Pada pojok kanan video, Klik tombol gerigi <i class="fa fa-cog" aria-hidden="true"></i>. Pilih menu **"Subtitle/CC"** lalu pilih **"Indonesia"**
+5. Untuk tahap ini, Kita akan mengaktifkan _subtitle_. Ada beberapa pilihan.
 
-5. Maka setelah itu akan tampil Khotbah Huzur dengan subtitle Bahasa Indonesia
+#### Jika Memakai Komputer/Laptop (*Web Browser*)
+
+- klik di bagian tengah video. 
+
+- Maka di pojok-kanan-bawah video akan muncul beberapa (*icon*) tombol. 
+
+- Klik tombol gerigi <i class="fa fa-cog" aria-hidden="true"></i>. 
+
+- Pilih menu **"Subtitle/CC"** lalu pilih **"Indonesia"**
+
+#### Jika Memakai Aplikasi Youtube di Smartphone
+
+- klik di bagian tengah video. 
+
+- Maka di pojok kanan-atas video muncul beberapa (*icon*) tombol. 
+
+- Pastikan tombol "cc" berwarna putih susu (mengaktifkan _subtitle_)
+
+- Klik simbol <i class="fa fa-ellipsis-v" aria-hidden="true"></i> (titik-tiga-vertikal) di bagian pojok-kanan-atas 
+
+- Klik menu **"Subtitle"** atau **"Captions"** 
+
+- lalu pilih **"Indonesia"**
+
+#### Jika Memakai Web Browser di Smartphone
+
+- klik di bagian tengah video. 
+
+- Maka di pojok-kanan-atas video akan muncul (*icon*) tombol gerigi <i class="fa fa-cog" aria-hidden="true"></i>. 
+
+- Klik tombol gerigi <i class="fa fa-cog" aria-hidden="true"></i> tersebut. 
+
+- Pada Setelan Pemutaran, Klik menu **"Teks"** 
+
+- Pilih menu **"Indonesia"**
+
+- Terakhir klik tombol "OKE" (di pojok-kanan-bawah)
+
+Jika berhasil, maka akan tampil Khotbah Huzur dengan subtitle Bahasa Indonesia (yang muncul di bagian dasar video)
 
 ### Terjemah Versi Audio
 

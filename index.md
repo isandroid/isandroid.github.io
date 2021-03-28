@@ -5,31 +5,31 @@ layout: beranda
 
 ### Pencarian Internal Pustaka
 
-- [Pencarian (didukung oleh Google)](/cari)
+<i class="fa fa-search" aria-hidden="true"></i> [Pencarian (didukung oleh Google)](/cari)
 
-- [Pencarian dalam artikel Blog](/cari-blog)
+<i class="fa fa-search" aria-hidden="true"></i> [Pencarian dalam artikel Blog](/cari-blog)
 
-- [Pencarian dalam Halaman](/cari-halaman)
+<i class="fa fa-search" aria-hidden="true"></i> [Pencarian dalam Halaman](/cari-halaman)
 
 ### Menu Istimewa
 
-- [Quran-um-Majid](/quran/) (Dalam proses)
+<i class="fa fa-book" aria-hidden="true"></i> [Quran-um-Majid](/quran/) (Dalam proses)
 
-- [Islam](/islam/)
+<i class="fa fa-moon-o" aria-hidden="true"></i> [Islam](/islam/)
 
-- [Referensi Internal](/ref/)
+<i class="fa fa-bookmark" aria-hidden="true"></i> [Referensi Internal](/ref/)
 
-- [Buku-Buku](/buku/)
+<i class="fa fa-book" aria-hidden="true"></i> [Buku-Buku](/buku/)
 
-- [Tag-tag Blog](/tag)
+<i class="fa fa-tags" aria-hidden="true"></i> [Tag-tag Blog](/tag)
 
-- [Hal-Hal tentang Puasa](/puasa) (Dalam proses)
+<i class="fa fa-flag-o" aria-hidden="true"></i> [Hal-Hal tentang Puasa](/puasa) (Dalam proses)
 
-- [Tanya-Jawab tentang Puasa](/tanya-jawab/puasa/)
+<i class="fa fa-question-circle" aria-hidden="true"></i> [Tanya-Jawab tentang Puasa](/tanya-jawab/puasa/)
 
-- [Utang](/utang)
+<i class="fa fa-money" aria-hidden="true"></i> [Utang](/utang)
 
-- [Pardah](/islam/pardah)
+<i class="fa fa-users" aria-hidden="true"></i> [Pardah](/islam/pardah)
 
 <!--
 ### Blog
