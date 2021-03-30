@@ -68,9 +68,9 @@ Diriwayatkan dalam Hadits Sahih Al-Bukhori terdapat riwayat, Nabi shallallahu 'a
 
 Diriwayatkan dalam Sahih Bukhari, Nabi shallallahu 'alaihi wasallam bersabda: 
 
-> "...dan barangsiapa yang melaksanakan shaum Ramadhan karena iman kepada Allah dan mengharapkan pahala (hanya dari-Nya) maka akan diampuni dosa-dosa yang telah lalu". (H.R. Bukhari) [[^hds-e92da030-4ba8-4701-bcd7-180b617f6919]]
+> "...dan barangsiapa yang melaksanakan shaum Ramadhan karena iman kepada Allah dan mengharapkan pahala (hanya dari-Nya) maka akan diampuni dosa-dosa yang telah lalu". (H.R. Bukhari) [[^hds-dd6a689d-b2e8-4d17-897d-a46a09558039]]
 
-[^hds-e92da030-4ba8-4701-bcd7-180b617f6919]: [H.R. Muslim, Kitab Thaharah, Bab Shalat lima waktu, jumat hingga jumat berikutnya dan ramadan hingga ramadan](/ref/hds-e92da030-4ba8-4701-bcd7-180b617f6919)
+[^hds-dd6a689d-b2e8-4d17-897d-a46a09558039]: [H.R. Muslim, Kitab Thaharah, Bab Shalat lima waktu, jumat hingga jumat berikutnya dan ramadan hingga ramadan](/ref/hds-dd6a689d-b2e8-4d17-897d-a46a09558039)
 
 Dalam hadits riwayat Muslim, Rasulullah saw bersabda, 
 
