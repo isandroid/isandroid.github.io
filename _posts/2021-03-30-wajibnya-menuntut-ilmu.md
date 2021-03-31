@@ -46,7 +46,9 @@ Rasulullah SAW bersabda,
 عَنْ أَبِي هُرَيْرَةَ قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم :‏ "‏ مَنْ سَلَكَ طَرِيقًا يَلْتَمِسُ فِيهِ عِلْمًا سَهَّلَ اللَّهُ لَهُ طَرِيقًا إِلَى الْجَنَّةِ ‏"
 </p>
 
-Dari Abu Hurairah dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Barangsiapa berjalan di suatu jalan untuk mencari ilmu, niscaya Allah akan memudahkan baginya jalan ke surga." [(HR. Tirmidzi)](https://www.hadits.id/hadits/tirmidzi/2570)  
+Dari Abu Hurairah dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Barangsiapa berjalan di suatu jalan untuk mencari ilmu, niscaya Allah akan memudahkan baginya jalan ke surga." (HR. Tirmidzi) [[^tirmidzi_2570]]
+
+[^tirmidzi_2570]: [At-Tirmidzi, Kitab Ilmu, Bab Memburu ilmu](https://www.hadits.id/hadits/tirmidzi/2570)  
 
 Murid saja akan mudah menuju Surga, apalagi gurunya?
 
@@ -58,7 +60,9 @@ Dalam Hadits Riwayat Tirmudzi tertulis bahwa Rasulullah saw bersabda,
 عَنْ أَنَسِ بْنِ مَالِكٍ قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏:  "‏ مَنْ خَرَجَ فِي طَلَبِ الْعِلْمِ فَهُوَ فِي سَبِيلِ اللَّهِ حَتَّى يَرْجِعَ ‏"‏
 </p>
 
-Artinya : dari Anas bin Malik dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Barangsiapa keluar dalam rangka menuntut ilmu maka dia berada di jalan Allah sampai dia kembali."  [(H.R. Tirmidzi)](https://www.hadits.id/hadits/tirmidzi/2571)
+Artinya : dari Anas bin Malik dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Barangsiapa keluar dalam rangka menuntut ilmu maka dia berada di jalan Allah sampai dia kembali."  (H.R. Tirmidzi) [[^tirmidzi_2571]]
+
+[^tirmidzi_2571]: [At-Tirmidzi, Kitab Ilmu, Bab Memburu ilmu](https://www.hadits.id/hadits/tirmidzi/2571)
 
 ### Keutamaan Ilmu: Sebagai Amal Jariyah
 
@@ -68,7 +72,9 @@ Rasulullah shallallahu 'alaihi wa sallam bersabda,
 عَنْ أَبِي هُرَيْرَةَ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏: "‏ إِذَا مَاتَ الإِنْسَانُ انْقَطَعَ عَنْهُ عَمَلُهُ إِلاَّ مِنْ ثَلاَثَةٍ إِلاَّ مِنْ صَدَقَةٍ جَارِيَةٍ أَوْ عِلْمٍ يُنْتَفَعُ بِهِ أَوْ وَلَدٍ صَالِحٍ يَدْعُو لَهُ ‏"
 </p>
 
-dari Abu Hurairah, bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Apabila salah seorang manusia meninggal dunia, maka terputuslah segala amalannya kecuali tiga perkara; sedekah jariyah, ilmu yang bermanfa'at baginya dan anak shalih yang selalu mendoakannya." [(HR. Muslim)](https://www.hadits.id/hadits/muslim/3084)
+dari Abu Hurairah, bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Apabila salah seorang manusia meninggal dunia, maka terputuslah segala amalannya kecuali tiga perkara; sedekah jariyah, ilmu yang bermanfa'at baginya dan anak shalih yang selalu mendoakannya." (HR. Muslim) [[^muslim_3084]]
+
+[^muslim_3084]: [Muslim, Kitab Wasiat, Bab Amalan yang bisa sampai kepada mayit setelah meninggal](https://www.hadits.id/hadits/muslim/3084)
 
 Jadi jadikan ilmu kita bermanfaat bagi yang lainnya, sehingga ketika kita sudah tiada pun, kita masih dapat merasakan aliran ganjaran dari ilmu yang bermanfaat tersebut.
 
@@ -112,13 +118,15 @@ Selaras dengan itu, Rasulullah (saw) menyampaikan,
 
 ### Keutamaan Ilmu: Allah Akan Memberi Kebaikan Kepada Orang yang Berilmu 
 
-Rasulullah (saw) bersabda,
+Diriwayatkan,
 
 <p class="arab">
-مَنْ يُرِدِ اللَّهُ بِهِ خَيْرًا يُفَقِّهْهُ فِى الدِّينِ
+عَنْ أَبِي هُرَيْرَةَ قَالَ قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ مَنْ يُرِدْ اللَّهُ بِهِ خَيْرًا يُفَقِّهْهُ فِي الدِّينِ
 </p>
 
-"Barangsiapa yang Allah kehendaki mendapatkan kebaikan, maka Allah akan memahamkan dia tentang agama." [(H.R. Ibnu Majah)](https://sunnah.com/urn/1302240)
+dari Abu Hurairah ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Barangsiapa dikehendaki Allah untuk mendapat kebaikan, maka Allah akan memberikan pemahaman kepadanya tentang agama." (H.R. Ibnu Majah) [[^majah_216]]
+
+[^majah_216]: [Ibnu Majah, Kitab Mukadimah, Bab Keutamaan ulama dan dorongan untuk menuntut ilmu](https://www.hadits.id/hadits/majah/216)
 
 ### Keutamaan Ilmu: Ilmu Menjadi Investasi Ganjaran
 
