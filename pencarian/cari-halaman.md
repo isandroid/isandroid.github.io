@@ -2,6 +2,7 @@
 title: Pencarian dalam Halaman Pustaka
 layout: pencarian
 permalink: /cari-halaman
+published: false
 ---
 
 ## {{ page.title }}
