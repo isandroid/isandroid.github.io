@@ -6,11 +6,11 @@ layout: beranda
 ### Pencarian Internal Pustaka
 
 <i class="fa fa-search" aria-hidden="true"></i> [Pencarian (didukung oleh Google)](/cari)
-
+{% comment %}
 <i class="fa fa-search" aria-hidden="true"></i> [Pencarian dalam artikel Blog](/cari-blog)
 
 <i class="fa fa-search" aria-hidden="true"></i> [Pencarian dalam Halaman](/cari-halaman)
-
+{% endcomment %}
 ### Menu Istimewa
 
 <i class="fa fa-book" aria-hidden="true"></i> [Quran-um-Majid](/quran/) (Dalam proses)
