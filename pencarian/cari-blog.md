@@ -2,6 +2,7 @@
 title: Cari dalam Blog Pustaka
 layout: pencarian
 permalink: /cari-blog
+published: false
 ---
 
 ## {{ page.title }}
