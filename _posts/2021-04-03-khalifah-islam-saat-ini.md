@@ -2,7 +2,7 @@
 title: Mencari Khalifah Islam Saat Ini
 layout: post
 tags: khalifah khilafat
-description: 
+description: khalifah islam saat ini yaitu khalifah ahmadiyah hadhrat mirza masroor ahmad
 published: true
 ---
 
