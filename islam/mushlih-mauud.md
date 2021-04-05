@@ -6,9 +6,7 @@ description: penjelasan tentang muhslih mau'ud, pembaharu yang dijanjikan, refor
 
 ## {{page.title}}
 
-<p align="center">
-	<img src="/assets/images/mushlih-mauud.webp" alt="Mushlih Mau'ud" width="350" height="350">
-</p>
+![/assets/images/mushlih-mauud.webp](/assets/images/mushlih-mauud.webp)
 
 Mushlih Mau'ud berasal dari kata bahasa arab. Mushlih berasal dari kata _sho-la-ha_ yang artinya menjadi baik, benar, berbudi luhur, tidak memihak, cocok, pantas, menyesuaikan, mencocokkan, membenahi, diperbaiki, bermanfaat [[^kms_sholaha]]
 

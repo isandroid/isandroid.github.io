@@ -8,6 +8,14 @@ description: penjelasan tentang khalifatul masih, khalifah ahmadiyah, khalifah s
 
 **Khalifatul Masih** berasal dari dua kata, yaitu [Khalifah](/islam/khalifah) dan [Al-Masih](/islam/al-masih). Jadi **Khalifatul Masih** berarti khalifah atau pemimpin yang menggantikan [Al-Masih](/islam/masih-mauud) yang ke-dua, yaitu Nabi Isa (as) yang kedatangannya dijanjikan oleh Rasulullah (saw).
 
+Al-Qur'an, yang diyakini umat Islam sebagai Firman Allah, telah menjanjikan umat Islam yang baik dan benar dengan ganjaran 'Khilafat' di mana seorang [Khalifah](/islam/khalifah) (Penerus spiritual), ditunjuk oleh Allah untuk melanjutkan pekerjaan seorang Nabi. Ini adalah jabatan terpilih di mana Ruh Kudus mengawasi proses pemilihan. Khalifah Islam adalah manusia yang diutus Tuhan di muka bumi.
+
+Saat ini Jemaat Muslim Ahmadiyah adalah satu-satunya organisasi Islam di dunia yang bersatu di tangan satu pemimpin, yang dikenal sebagai [Khalifah](/islam/khalifah). **Khalifatul Masih** adalah penerus Hadhrat [Masih Mau'ud](/islam/masih-mauud), Hazrat Mirza Ghulam Ahmad dari Qadian (as). Setelah kewafatnya di tahun 1908, lembaga [Khilafat](/islam/khalifah) didirikan kembali dalam Islam pada tanggal 27 Mei 1908. Pada tahun 2008 Jemaat Muslim Ahmadiyah merayakan 100 tahun Khilafat.
+
+Lembaga [Khilafat](/islam/khalifah) adalah sumber persatuan, semangat, organisasi, kemajuan Komunitas dan fokusnya pada perdamaian. Hazrat Mirza Masroor Ahmad adalah Khalifah kelima dari Jemaat Muslim Ahmadiyah. Meskipun Khilafat sama sekali bukan institusi turun-temurun, Yang Mulia Mirza Masroor Ahmad juga adalah cicit dari Pendiri Jemaat Muslim Ahmadiyah. [[^khalifatulmasih]]
+
+[^khalifatulmasih]: [Tentang Hazrat Mirza Masroor Ahmad (atba)](https://www.khalifatulmasih.org/about-his-holiness/)
+
 ### Para Khalifatul-Masih
 
 Para khalifah setelah wafatnya [Al-Masih Al-Mau'ud](/islam/masih-mauud) yaitu:
