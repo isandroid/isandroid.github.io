@@ -47,13 +47,13 @@ Kita mengetahui bahwa akhir khalifah Islam, yaitu kekhalifahan yang diridhoi ole
 
 Pernah Rasulullah (saw) menubuwwatkan khalifah setelah beliau ada dua belas khalifah [[^1f135258-4142-4c48-935d-ae9e63abddd2]]. Akan tetapi karena ada "ketidakbersyukuran" terhadap kekhalifahan tersebut, maka Allah (swt) hanya memberikan karunia empat khalifah rasyidah setelah Rasulullah (saw). Setelah itu kekhalifahan mengambil corak kerajaan sehingga kepemimpinannya cukup berbeda dengan Khalifah Rasyidah.
 
-_khilafah 'ala minhajin-nubuwwah_ (di akhir zaman) dikenal dengan [Khalifatul Masih](islam/khalifatul-masih). Silakan simak lebih dalam mengenai Khalifatul masih [di sini](islam/khalifatul-masih).
+_khilafah 'ala minhajin-nubuwwah_ (di akhir zaman) dikenal dengan [Khalifatul Masih](/islam/khalifatul-masih). Silakan simak lebih dalam mengenai Khalifatul masih [di sini](/islam/khalifatul-masih).
 
 [^1f135258-4142-4c48-935d-ae9e63abddd2]: [H.R. Muslim, Kitab Kepemimpinan, Bab Manusia akan mengikuti orang-orang quraisy dan khilafah untuk orang quraisy](/ref/hds-1f135258-4142-4c48-935d-ae9e63abddd2)
 
 ### Khalifah Islam Sekarang
 
-Ketika seseorang mencari siapa khalifah Islam saat ini, maka khalifah yang sesuai dengan dengan nubuwwatan Rasulullah (saw) dan sesuai dengan kondisi sekarang adalah corak khilafah 'ala minhajin-nubuwwah. Jadi jawaban yang cocok untuk pertanyaan siapakah khalifah islam saat ini adalah [kekhalifahan Ahmadiyah](islam/khalifatul-masih).
+Ketika seseorang mencari siapa khalifah Islam saat ini, maka khalifah yang sesuai dengan dengan nubuwwatan Rasulullah (saw) dan sesuai dengan kondisi sekarang adalah corak khilafah 'ala minhajin-nubuwwah. Jadi jawaban yang cocok untuk pertanyaan siapakah khalifah islam saat ini adalah [kekhalifahan Ahmadiyah](/islam/khalifatul-masih).
 
 ### Mengapa Khalifah Ahmadiyah?
 
