@@ -36,13 +36,14 @@ Huzur V (atba) menjelaskan,
 
 > "Dalam setahun terakhir, kita menghadapi penyakit mematikan yang sangat berbahaya. Tidak ada negara yang terbebas dari pandemi ini dan beberapa negara terdampak lebih parah dibanding negara lain. Namun, tampaknya mayoritas dunia tidak ingin mempertimbangkan kemungkinan bahwa boleh jadi ini merupakan tanda dari Allah Ta’ala tentang bagaimana kita harus memenuhi kewajiban dan tanggung jawab kita. Mereka tidak ingin menganggap bahwa Allah Ta’ala mencoba membangunkan kita, membimbing kita dan menyadarkan kita akan kewajiban kita." [[^khotbah_20210101]]
 
-[^khotbah_20210101]: [Khotbah Jumat Hadhrat Mirza Masroor Ahmad (atba) 1 Januari 2021](https://ahmadiyah.id/siaran-pers/pemimpin-ahmadiyah-berbicara-dampak-pandemi-covid-19)
 {% endcomment %}
 ### Mengintrospeksi Diri
 
 Huzur V (atba) menjelaskan,
 
 > ...Setelah menerima Hadhrat Masih Mau’ud (as), kita harus jujur bertanya pada diri sendiri apakah kondisi akhlak kita sudah sedemikian rupa sehingga kita memenuhi tanggung jawab kepada Allah? Apakah kita telah memenuhi hak-hak manusia semata-mata karena Allah? Atau apakah kita masih perlu memperbaiki diri sendiri dan meningkatkan kecintaan kita terhadap sesama di dalam hati kita?” [[^khotbah_20210101]]
+
+[^khotbah_20210101]: [Khotbah Jumat Hadhrat Mirza Masroor Ahmad (atba) 1 Januari 2021](https://ahmadiyah.id/siaran-pers/pemimpin-ahmadiyah-berbicara-dampak-pandemi-covid-19)
 
 ### Melakukan Aksi Sosial
 
