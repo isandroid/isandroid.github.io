@@ -61,7 +61,7 @@ Beberapa alasan mengapa yang paling cocok untuk kekhalifahan saat ini adalah:
 
 - [Khalifah Ahmadiyah](https://ahmadiyah.id/ahmadiyah/khilafat) ada di dalam umat Islam.
 
-- [Khalifah Ahmadiyah](https://ahmadiyah.id/ahmadiyah/khilafat) berdiri dengan corak khilafah 'ala minhajin-nubuwwah. Kekhilafahan yang diawali dengan kedatangan Khalifatullah Al-mahdi, yakni didahului dengan kedatangan seorang utusan Allah, yaitu Imam Mahdi.
+- [Khalifah Ahmadiyah](https://ahmadiyah.id/ahmadiyah/khilafat) berdiri dengan corak khilafah 'ala minhajin-nubuwwah. Kekhalifahan yang diawali dengan kedatangan Khalifatullah Al-mahdi, yakni didahului dengan kedatangan seorang utusan Allah, yaitu Imam Mahdi.
 
 - [Khalifah Ahmadiyah](https://ahmadiyah.id/ahmadiyah/khilafat) tidak memerlukan teritori atau wilayah kekuasaan dalam menegakkan kekhalifahan.
 
@@ -81,7 +81,7 @@ Beberapa alasan mengapa yang paling cocok untuk kekhalifahan saat ini adalah:
 
 - [Khalifah Ahmadiyah](https://ahmadiyah.id/ahmadiyah/khilafat) menampilkan pengkhidmatan kemanusiaan lewat sayap organisasinya, [Humanity First](https://humanityfirst.org/).
 
-Itulah kelebihan-kelebihan kekhilafahan Ahmadiyah.
+Itulah kelebihan-kelebihan [kekhalifahan](/islam/khilafat) Ahmadiyah.
 
 ### Perintah Bergabung dengan Khilafat Ahmadiyah
 
@@ -97,7 +97,7 @@ Rasulullah (saw) juga memberikan nasehat kepada umatnya bahwa dengan memegang te
 
 ### Tegaknya Kekhalifahan Merupakan Janji Allah Ta'ala
 
-Ketika Allah Ta'ala telah berjanji, maka tiada makhluknya yang dapat menghalangi kuasa-Nya. Allah Ta'ala telah berjanji tentang akan tegaknya [khalifah](/islam/khalifah) bagi umat Islam. Allah Ta'ala memberikan karunia [khilafat](/islam/khilafah) kepada: Orang-orang yang beriman dan orang-orang yang beramal shaleh.
+Ketika Allah Ta'ala telah berjanji, maka tiada makhluknya yang dapat menghalangi kuasa-Nya. Allah Ta'ala telah berjanji tentang akan tegaknya [khalifah](/islam/khalifah) bagi umat Islam. Allah Ta'ala memberikan karunia [khilafat](/islam/khilafat) kepada: Orang-orang yang beriman dan orang-orang yang beramal shaleh.
 
 Maksud kedatangan para utusan Allah adalah menegakkan tauhid. Oleh karena itu, kedatangan [khalifah](/islam/khalifah) itu hanya meneruskan kembali apa yang dibawa oleh utusan Allah tersebut. Jadi tujuan utama tegaknya [Kekhalifahan Ahmadiyah](/islam/khalifatul-masih) adalah meneruskan tugas [Khalifatullah](/islam/khalifatullah) [Al-Mahdi](/islam/imam-mahdi), yaitu menegakkan tauhid. Khalifah juga berperan sebagai menyambung tali Allah Ta'ala dengan umat manusia.
 
