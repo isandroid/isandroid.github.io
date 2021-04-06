@@ -1,5 +1,5 @@
 ---
-title: Hukum Puasa
+title: Hukum Puasa - Syarat Wajib dan Syarat Sah Puasa
 layout: post
 tags: puasa
 description: hukum puasa, syarat wajib puasa, syarat sah puasa
