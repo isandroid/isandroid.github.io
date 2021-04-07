@@ -2,7 +2,7 @@
 title: Sosialisasi Vaksin Covid-19
 layout: post
 tags: covid-19
-description: bagaimana hukum meminta maaf sebelum puasa ramadhan
+description: penjelasan tentang vaksinasi covid-19
 published: true
 ---
 
