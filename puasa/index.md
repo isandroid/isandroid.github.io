@@ -204,4 +204,16 @@ Tn. Rahmat Ali, HA. OT. (r.a.) dalam karyanya, Rahasia Rukun Islam, menjelaskan 
 
 - Akhlak Mulia
 
+### Artikel tentang Puasa
+
+{% for tag in site.tags %}
+{% if tag[0] == 'puasa' %}
+<ul>
+  {% for post in tag[1] %}
+    <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+  {% endfor %}
+</ul>
+{% endif %}
+{% endfor %}
+
 ### Catatan Kaki
