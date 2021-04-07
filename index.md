@@ -90,3 +90,15 @@ var x = setInterval(function() {
   }
 }, 1000);
 </script>
+
+### Artikel tentang Puasa
+
+{% for tag in site.tags %}
+{% if tag[0] == 'puasa' %}
+<ul>
+  {% for post in tag[1] %}
+    <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+  {% endfor %}
+</ul>
+{% endif %}
+{% endfor %}
