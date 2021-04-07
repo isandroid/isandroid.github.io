@@ -56,17 +56,9 @@ ibu Cahyani, Puskesmas Bawang II, Petugas Promosi Kesehatan menyampaikan tentang
 - (Hidung) Tidak merasakan bau dan (Lidah tidak bisa merasakan) rasa
 
 
-Beberapa poin yang disampaikan:
+### Beberapa Poin Sosialisasi yang Disampaikan
 
-- Vaksinasi yang diprioritaskan (untuk warga masyarakat) adalah warga lanjut usia atau lansia. 
-
-
-Mengapa para lansia diprioritaskan:
-
-- Ini karena pertahanan tubuh mereka lebih lemah 
-
-- Lebih cenderung mempunyai punya penyakit penyerta.
-
+- Vaksinasi yang diprioritaskan (untuk warga masyarakat) adalah warga lanjut usia atau lansia karena (1) pertahanan tubuh mereka lebih lemah (2) Lebih cenderung mempunyai punya penyakit penyerta.
 
 - Vaksinasi di Desa Winong mempunyai sasaran sekira 300-an lansia
 
@@ -118,11 +110,11 @@ Mengapa para lansia diprioritaskan:
 
 - Biaya sekali suntik vaksin sebenarnya mencapai Rp 250-300 ribu. Akan tetapi pemerintah menggratiskannya.
 
-### Yang Boleh dan Tidak Boleh Divaksin
+### Yang Boleh Divaksin
 
-- Vaksin untuk ibu hamil tidak diperbolehkan, tetapi vaksin untuk ibu menyusui diperbolehkan.
+- Vaksin untuk ibu menyusui diperbolehkan.
 
-- Boleh divaksin maksimal tensi 180/110 mmHg
+- Seseorang boleh divaksin maksimal tensi 180/110 mmHg
 
 - Penyintas covid-19 (yang pernah terkena Covid-19) dapat divaksinasi setelah 3 bulan
 
@@ -134,27 +126,17 @@ Mengapa para lansia diprioritaskan:
 
 - Penderita jantung boleh divaksin asalkan keadaan tubuh dalam keadaan stabil
 
+### Tidak Boleh Divaksin
 
-### Target Vaksinasi Warga
+- Vaksin untuk ibu hamil tidak diperbolehkan
 
-- 1,4 juta - Tenaga Kesehatan
+- Sakit jantung
 
-- 17,4 juta - Petugas Publik
+- Sakit ginjal kronis atau sedang cuci darah
 
-- 21,5 juta - Lansia
+- Sakit Liver
 
-- 63,9 juta  - Masyarakat rentan (daerah dengan resiko penularan tinggi)
-
-- 77,4 juta - Masyarakat lain (pendekatan klaster sesuai dengan kesediaan vaksin)
-
-
-###  Tahap Vaksinasi
-
-1. Vaksin ke-1: Tubuh dikenalkan terhadap penyakit (yang akan dilawan)
-
-2. Vaksin ke-2: Tubuh mendapatkan Kekebalan baru sekira 60% 
-
-- Setelah divaksin, kita tidak sepenuhnya kebal terhadap Covid-19. Untuk melengkapi 40%-nya, agar kita tidak terjangkit Covid-19 adalah kita harus tetap menerapkan protokol kesehatan.
+- Punya riwayat alergi berat (sesak nafas, bengkak, urtikaria seluruh badan atau reaksi berat lainnya)
 
 ### Vaksin Ditunda Jika
 
@@ -168,27 +150,39 @@ Mengapa para lansia diprioritaskan:
 
 - Baru divaksinasi lain kurang dari satu bulan sebelumnya
 
-### Tidak Boleh Divaksin:
+### Target Vaksinasi Warga
 
-- Sakit jantung
+- 1,4 juta - Tenaga Kesehatan
 
-- Sakit ginjal kronis atau sedang cuci darah
+- 17,4 juta - Petugas Publik
 
-- Sakit Liver
+- 21,5 juta - Lansia
 
-- Punya riwayat alergi berat (sesak nafas, bengkak, urtikaria seluruh badan atau reaksi berat lainnya)
+- 63,9 juta  - Masyarakat rentan (daerah dengan resiko penularan tinggi)
+
+- 77,4 juta - Masyarakat lain (pendekatan klaster sesuai dengan kesediaan vaksin)
+
+###  Tahap Vaksinasi
+
+1. Vaksin ke-1: Tubuh dikenalkan terhadap penyakit (yang akan dilawan)
+
+2. Vaksin ke-2: Tubuh mendapatkan Kekebalan baru sekira 60% 
+
+- Setelah divaksin, kita tidak sepenuhnya kebal terhadap Covid-19. Untuk melengkapi 40%-nya, agar kita tidak terjangkit Covid-19 adalah kita harus tetap menerapkan protokol kesehatan.
 
 ### Proses Vaksinasi
 
-- Meja1: Pendaftaran, bawa KTP
+- Meja-1: Pendaftaran, bawa KTP
 
-- Meja2: Skrining 
+- Meja-2: Skrining 
 
-- Meja3: Vaksinasi
+- Meja-3: Vaksinasi
 
-- Meja4: Pencatatan dan Observasi (menunggu 30 menit baru pulang [menunggu apakah ada reaksi2])
+- Meja-4: Pencatatan dan Observasi 
 
-### Reaksi yang mungkin terjadi Setelah Vaksinasi 
+Yang sudah divaksin harus menunggu selama 30 menit. Hal ini untuk mengetahui reaksi-reaksi yang mungkin terjadi setelah vaksinasi.
+
+### Reaksi yang Mungkin Terjadi Setelah Vaksinasi 
 
 - Nyeri
 
@@ -218,19 +212,23 @@ Mengapa para lansia diprioritaskan:
 
 - Jangan tegang. Jika (tangan) tegang, maka otot menjadi keras sehingga obat susah masuk atau ketika disuntik akan terasa lebih nyeri/pegal
 
-- Jika ada hal-hal yang dirasakan setelah vaksinasi: Segera Hubungi petugas puskesmas 
+- Jika ada hal-hal yang dirasakan setelah vaksinasi: Segera Hubungi petugas puskesmas
+
+- Jika (warga winong) harus dirawat (karena hal-hal pasca vaksinasi) maka rujukannya adalah ke RSI kelas III. Biaya ditanggung pemerintah. 
 
 ### Amanat
 
-- Diinformasikan tentang vaksin Covid-19 kepada masyarakat
+- Diinformasikan tentang vaksin Covid-19 kepada warga masyarakat
 
 - Sosialisasikan tentang 3M atau 5M
 
 - Mengajak masyarakat minimal 70 % untuk bisa ikut vaksinasi
 
-- Perangi Hoax yang beredar di masyarakat cari info yang benar
+- Perangi Hoax yang beredar di masyarakat tentang vaksin Covid-19
 
-- Lindungi lansia terhadap Covid-19 (mungkin saja kita dalam keadaan sehat karena kebal Covid-19, tapi kita berpotensi menularkan Covid-19 kepada mereka)
+- cari info yang benar tentang vaksin Covid-19
+
+- Lindungi lansia terhadap Covid-19. Mmungkin saja kita dalam keadaan sehat karena kebal Covid-19, tapi kita berpotensi menularkan Covid-19 kepada para lansia.
 
 ### Sumber Referensi tentang Vaksin:
 
@@ -238,7 +236,7 @@ Mengapa para lansia diprioritaskan:
 
 - <s.id/infovaksin> atau <https://linktr.ee/covid19.go.id>
 
-- <covid19.go.id>
+- <https://covid19.go.id>
 
 ### Peraturan Presiden No. 14 tahun 2021
 
