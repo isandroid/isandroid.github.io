@@ -230,11 +230,11 @@ Yang sudah divaksin harus menunggu selama 30 menit. Hal ini untuk mengetahui rea
 
 - Lindungi lansia terhadap Covid-19. Mmungkin saja kita dalam keadaan sehat karena kebal Covid-19, tapi kita berpotensi menularkan Covid-19 kepada para lansia.
 
-### Sumber Referensi tentang Vaksin:
+### Sumber Resmi Sebagai Referensi tentang Vaksin Covid-19:
 
 - WA ke 0859-21-600-500 atau <https://wa.me/6285921600500?text=halo>
 
-- <s.id/infovaksin> atau <https://linktr.ee/covid19.go.id>
+- <https://s.id/infovaksin> atau <https://linktr.ee/covid19.go.id>
 
 - <https://covid19.go.id>
 
