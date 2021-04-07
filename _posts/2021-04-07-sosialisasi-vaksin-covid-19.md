@@ -41,7 +41,9 @@ Makna gerakan 5M protokol kesehatan adalah sebagai pelengkap aksi 3M.
 
 ### Sekilas tentang Covid-19
 
-ibu Cahyani, Puskesmas Bawang II, Petugas Promosi Kesehatan menyampaikan tentang Vaksinasi Covid-19. Gejala Penyakit Covid-19 antara lain:
+ibu Cahyani, Petugas Promosi Kesehatan dari Puskesmas Bawang 2 menyampaikan tentang Vaksinasi Covid-19. 
+
+Gejala Penyakit Covid-19 antara lain:
 
 - Demam
 
@@ -206,7 +208,9 @@ Yang sudah divaksin harus menunggu selama 30 menit. Hal ini untuk mengetahui rea
 
 - Sindrom syok toksis
 
-- Pingsan (karena takut dll)
+- Pingsan (karena takut dll) [[^efek_samping_vaksin]]
+
+[^efek_samping_vaksin]: [Youtube: Apakah Ada Efek Samping Vaksin](https://www.youtube.com/watch?v=Qw4eQMZj5Aw)
 
 ### Yang Harus Dilakukan Ketika Vaksniasi
 
@@ -228,7 +232,7 @@ Yang sudah divaksin harus menunggu selama 30 menit. Hal ini untuk mengetahui rea
 
 - cari info yang benar tentang vaksin Covid-19
 
-- Lindungi lansia terhadap Covid-19. Mmungkin saja kita dalam keadaan sehat karena kebal Covid-19, tapi kita berpotensi menularkan Covid-19 kepada para lansia.
+- Lindungi lansia terhadap Covid-19. Mungkin saja kita dalam keadaan sehat karena kebal Covid-19, tapi kita berpotensi menularkan Covid-19 kepada para lansia.
 
 ### Sumber Resmi Sebagai Referensi tentang Vaksin Covid-19:
 
@@ -237,6 +241,12 @@ Yang sudah divaksin harus menunggu selama 30 menit. Hal ini untuk mengetahui rea
 - <https://s.id/infovaksin> atau <https://linktr.ee/covid19.go.id>
 
 - <https://covid19.go.id>
+
+### Referensi Resmi Tambahan
+
+- [Buku Saku Info Vaksin](https://drive.google.com/file/d/1Xr3A5v63-xDCGzeG6lukuceG48C5yS5X/view) << bisa didownload!
+
+- [Materi mengenai vaksin](https://drive.google.com/drive/folders/1A8q8vu6eiDmtRhhAhd_P9QhTYSegEAXP?usp=sharing) << bisa didownload!
 
 ### Peraturan Presiden No. 14 tahun 2021
 

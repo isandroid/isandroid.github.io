@@ -204,4 +204,10 @@ Tn. Rahmat Ali, HA. OT. (r.a.) dalam karyanya, Rahasia Rukun Islam, menjelaskan 
 
 - Akhlak Mulia
 
+### Materi Dars Ramadhan
+
+- [34 Seri Materi Dars Ramadhan](https://docs.google.com/document/d/1FKeOFcPy1o5fXQpJdWs6KDrDjzjvNlGoAdWr1VwTbHA/edit?usp=sharing)
+
+- Mohon kirimkan email (gmail) anda [ke sini](https://wa.me/6281213130862) Jika ingin mengakses file tersebut. 
+
 ### Catatan Kaki

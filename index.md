@@ -35,19 +35,6 @@ layout: beranda
 
 <i class="fa fa-video-camera" aria-hidden="true"></i> [Tutorial Mendapatkan Terjemah Khotbah Huzur dalam Bahasa Indonesia 'Versi Lengkap'](/2021/03/27/terjemah-khotbah-huzur-bahasa-indonesia-video-suara-subtitle.html)
 
-<!--
-### Blog
-
-<ul>
-  {% assign sorted = site.posts | sort: 'title' %}
-  {% for post in sorted %}
-    <li class="spasi">
-      <a href="{{ post.url }}">{{ post.title }}</a>
-    </li>
-  {% endfor %}
-</ul>
--->
-
 ### Hitungan Mundur Bulan Ramadhan (perkiraan)
 
 <!-- Display the countdown timer in an element -->
@@ -94,11 +81,12 @@ var x = setInterval(function() {
 ### Artikel tentang Puasa
 
 {% for tag in site.tags %}
-{% if tag[0] == 'puasa' %}
-<ul>
-  {% for post in tag[1] %}
-    <li><a href="{{ post.url }}">{{ post.title }}</a></li>
-  {% endfor %}
-</ul>
+{% if tag contains "puasa" %}
+  <ul>
+    {% assign sorted2 = tag[1] | sort: 'title' %}
+    {% for post in sorted2 %}
+      <li class="spasi"><a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+  </ul>
 {% endif %}
 {% endfor %}
