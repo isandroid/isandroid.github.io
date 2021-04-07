@@ -240,7 +240,7 @@ Mengapa para lansia diprioritaskan:
 
 - <covid19.go.id>
 
-## Peraturan Presiden No. 14 tahun 2021
+### Peraturan Presiden No. 14 tahun 2021
 
 Jika menolak vaksin dengan sengaja maka: 
 
