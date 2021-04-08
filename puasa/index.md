@@ -9,29 +9,33 @@ permalink: /puasa
 
 ### Serial Daras Puasa
 
-1. Tanda Awal Puasa: [_Hilal_](/hilal) atau [_Hisab_](/hisab)
+1. Tanda Awal Puasa: 
 
-1. [Makna Puasa](/2021/02/23/makna-puasa.html)
+	1.a. [_Hilal_](/hilal) atau [_Hisab_](/hisab)
 
-1. [Puasa di Masa Pandemi Covid-19](/2021/02/23/puasa-di-masa-pandemi-covid-19.html)
+	1.b. [Perbedaan Awal Ramadhan di Beberapa Tempat](/2021/02/23/perbedaan-awal-ramadhan)
 
-1. [Niat Puasa](/2021/02/23/niat-puasa.html)
+1. [Puasa di Masa Pandemi Covid-19](/2021/02/23/puasa-di-masa-pandemi-covid-19)
+
+1. [Niat Puasa](/2021/02/23/niat-puasa)
+
+1. [Makna Puasa](/2021/02/23/makna-puasa)
 
 1. [Makna Ramadhan](/ramadhan)
 
-1. [Manfaat Puasa](/2021/02/23/manfaat-puasa.html)
+1. [Manfaat Puasa](/2021/02/23/manfaat-puasa)
 
-1. [Tujuan Puasa](/2021/02/23/tujuan-puasa.html)
+1. [Tujuan Puasa](/2021/02/23/tujuan-puasa)
 
-1. [Ganjaran Puasa](/2021/02/23/ganjaran-puasa.html)
+1. [Ganjaran Puasa](/2021/02/23/ganjaran-puasa)
 
-1. [Sunnah-Sunnah Puasa](/2021/02/23/sunnah-sunnah-puasa.html)
+1. [Sunnah-Sunnah Puasa](/2021/02/23/sunnah-sunnah-puasa)
 
 1. [Sahur dan Imsak](/sahur)
 
 1. [Berbuka Puasa atau _Iftar_](/iftar)
 
-1. [Sunnah Bersedekah di Bulan Puasa](/2021/02/23/sedekah-di-bulan-puasa.html)
+1. [Sunnah Bersedekah di Bulan Puasa](/2021/02/23/sedekah-di-bulan-puasa)
 
 1. [Hal-hal yang Harus Diperhatikan dalam Sedekah](/2021/02/23/hal-hal-yang-harus-diperhatikan-ketika-sedekah.html)
 
@@ -43,23 +47,19 @@ permalink: /puasa
 
 1. [Hal-Hal berkenaan dengan Shalat Tahajud](/shalat/tahajud)
 
-1. Keutamaan Umrah di Bulan Ramadhan
+1. [Keutamaan Akhlak Mulia (Bagian I)](/2021/02/23/keutamaan-keutamaan-akhlak-mulia-01) -- ref
 
-1. Keutamaan Akhlak Mulia (Bagian I)
+1. [Keutamaan Akhlak Mulia (Bagian II)](/2021/02/23/keutamaan-keutamaan-akhlak-mulia-02) -- ref
 
-1. Keutamaan Akhlak Mulia (Bagian II)
-
-1. I’tikaf
-
-1. Hal-hal Berkenaan dengan I'tikaf
+1. [I’tikaf](/itikaf)
 
 1. [Hukum Puasa](/2021/02/23/hukum-puasa.html)
 
-1. [Hukum: Perkara yang Membatalkan Puasa](/2021/02/23/yang-membatalkan-puasa.html)
+1. [Hukum Puasa: Perkara yang Membatalkan Puasa](/2021/02/23/yang-membatalkan-puasa)
 
-1. Hukum: Sengaja Membatalkan Puasa
+1. [Hukum Puasa: Sengaja Membatalkan Puasa](/2021/02/23/hukum-puasa-sengaja-membatalkan-puasa.html) -- ref
 
-1. Hukum: Perkara yang Tidak Membatalkan Puasa
+1. Hukum Puasa: Perkara yang Tidak Membatalkan Puasa
 
 1. Nuzul-ul-Quran di Bulan Ramadhan
 
@@ -82,6 +82,9 @@ permalink: /puasa
 1. Fidyah
 
 1. Puasa Sunnah
+
+1. [Keutamaan Umrah di Bulan Ramadhan](/2021/02/23/keutaman-umrah-di-bulan-ramadhan) -- ref
+
 
 ### Tanya-Jawab Puasa
 
