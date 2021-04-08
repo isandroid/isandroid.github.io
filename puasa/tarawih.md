@@ -19,7 +19,9 @@ Secara istilah, Shalat taraawih adalah shalat sunah yang dikerjakan umat Islam s
 
 _Qiyam-ur-Ramadhan_ artinya berdiri di bulan Ramadhan. Yang dimaksud berdiri adalah mendirikan shalat. Jadi, arti _Qiyam-ur-Ramadhan_ adalah mendirikan shalat malam di bulan [Ramadhan](/ramadhan).
 
-Dalam Hadits Sahih al-Bukhari Rasulullah shallallahu 'alaihi wasallam bersabda mengenai _Qiyaamur-Ramadhan_,
+### Keutamaan Tarawih
+
+Dalam Hadits Sahih al-Bukhari Rasulullah shallallahu 'alaihi wasallam bersabda mengenai keutaman _Qiyaamur-Ramadhan_ atau Tarawih,
 
 <p class="arab">
 مَنْ قَامَ رَمَضَانَ إِيمَانًا وَاحْتِسَابًا غُفِرَ لَهُ مَا تَقَدَّمَ مِنْ ذَنْبِهِ

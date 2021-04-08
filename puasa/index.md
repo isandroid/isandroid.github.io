@@ -7,109 +7,83 @@ permalink: /puasa
 
 ## {{ page.title }}
 
-Allah Ta'ala berfirman,
+### Serial Daras Puasa
 
-<p class="quran">یٰۤاَیُّہَا الَّذِیۡنَ اٰمَنُوۡا کُتِبَ عَلَیۡکُمُ الصِّیَامُ کَمَا کُتِبَ عَلَی الَّذِیۡنَ مِنۡ قَبۡلِکُمۡ لَعَلَّکُمۡ تَتَّقُوۡنَ ﴿۱۸۴﴾ۙ</p>
+1. Tanda Awal Puasa: [_Hilal_](/hilal) atau [_Hisab_](/hisab)
 
-Artinya: “Hai orang-orang yang beriman, puasa diwajibkan atasmu sebagaimana telah diwajibkan atas orang-orang sebelummu, supaya kamu terpelihara dari keburukan rohani dan jasmani.” [(QS Albaqarah [2]: 184 dengan basmallah)](https://www.alislam.org/quran/2:184)
+1. [Makna Puasa](/2021/02/23/makna-puasa.html)
 
-### Pengertian Puasa
+1. [Puasa di Masa Pandemi Covid-19](/2021/02/23/puasa-di-masa-pandemi-covid-19.html)
 
-Apa itu puasa? Puasa dalam bahasa arab ada dua macam kata:
+1. [Niat Puasa](/2021/02/23/niat-puasa.html)
 
-1. Ash Showm(un) (صَوْمٌ)
+1. [Makna Ramadhan](/ramadhan)
 
-2. Shiyaam(un) (صِيَامٌ)
+1. [Manfaat Puasa](/2021/02/23/manfaat-puasa.html)
 
-Kedua kata diatas berakar pada kata: 
+1. [Tujuan Puasa](/2021/02/23/tujuan-puasa.html)
 
-- shoo-ma (صَامَ)
+1. [Ganjaran Puasa](/2021/02/23/ganjaran-puasa.html)
 
-#### Kata Showmun
+1. [Sunnah-Sunnah Puasa](/2021/02/23/sunnah-sunnah-puasa.html)
 
-Dalam Kamus Bahasa Arab Al-Ma'any [[^almaany_showmun]] disebutkan mengenai kata shoum(un): Artinya:
+1. [Sahur dan Imsak](/sahur)
 
-- Menahan diri dari setiap tindakan atau perkataan 
+1. [Berbuka Puasa atau _Iftar_](/iftar)
 
-- Diam
+1. [Sunnah Bersedekah di Bulan Puasa](/2021/02/23/sedekah-di-bulan-puasa.html)
 
-[^almaany_showmun]: [Kamus Almmany - arab-arab - kata _showmun_](https://www.almaany.com/ar/dict/ar-ar/%D8%B5%D9%8E%D9%88%D9%85/)
+1. [Hal-hal yang Harus Diperhatikan dalam Sedekah](/2021/02/23/hal-hal-yang-harus-diperhatikan-ketika-sedekah.html)
 
-#### Kata Shiyaam
+1. [_Mustahiq_ atau Orang yang Berhak Menerima Sedekah](/2021/04/08/orang-yang-berhak-menerima-sedekah.html)
 
-Kemudian dari Kamus Bahasa Arab Al-Ma'any [[^almaany_shiyaamun]] ditemukan beberapa arti kata shiyaam(un), artinya:
+1. [Hal-Hal berkenaan dengan Shalat Tarawih](/shalat/tarawih)
 
-[^almaany_shiyaamun]: [Kamus Almmany - arab-arab - kata _shiyaamun_](https://www.almaany.com/ar/dict/ar-ar/%D8%B5%D9%8A%D8%A7%D9%85/)
+1. [Hal-Hal berkenaan dengan Shalat Witir](/shalat/witir)
 
-- Saya menerima bulan puasa dan pengampunan
+1. [Hal-Hal berkenaan dengan Shalat Tahajud](/shalat/tahajud)
 
-- Menahan dari nafsu makan dan berhubungan badan dari subuh hingga matahari terbenam
+1. Keutamaan Umrah di Bulan Ramadhan
 
-### Kata Shooma
+1. Keutamaan Akhlak Mulia (Bagian I)
 
-Dari Kamus Al-Ma'any tertulis beberapa arti kata _shooma_ [[^almaany_shooma]], artinya:
+1. Keutamaan Akhlak Mulia (Bagian II)
 
-[^almaany_shooma]: [Kamus Almmany - arab-arab - kata _shooma_](https://www.almaany.com/ar/dict/ar-ar/%D8%B5%D9%8E%D8%A7%D9%85%D9%8E/)
+1. I’tikaf
 
-- Diam, berpuasa
+1. Hal-hal Berkenaan dengan I'tikaf
 
-- Dia harus menahan (diri) dari makanan dan minuman mulai fajar hingga matahari terbenam
+1. [Hukum Puasa](/2021/02/23/hukum-puasa.html)
 
-- Puasa (dalam pengertian syariat): Menahan dari makanan dan minuman dari fajar hingga matahari terbenam dengan niat
+1. [Hukum: Perkara yang Membatalkan Puasa](/2021/02/23/yang-membatalkan-puasa.html)
 
-- Dia berpuasa (Bahasa) Persia: Dia berdiri dan tidak sombong atau marah atau arogan
+1. Hukum: Sengaja Membatalkan Puasa
 
-### Kata Puasa dalam Alquran
+1. Hukum: Perkara yang Tidak Membatalkan Puasa
 
-Dalam Alquran dengan pencarian dengan akar kata dan showmun didapatkan beberapa ayat:
+1. Nuzul-ul-Quran di Bulan Ramadhan
 
-- [QS Al Baqarah (002): 184](/ref/qrn-002-184)
+1. Hukum: Hutang Puasa
 
-- [QS Al Baqarah (002): 185](/ref/qrn-002-185)
+1. Hukum: Perkara yang Menghilangkan Berkah Puasa
 
-- [QS Al Baqarah (002): 186](/ref/qrn-002-186)
+1. Lailatul-Qodr
 
-- [QS Al Baqarah (002): 188](/ref/qrn-002-188)
+1. Pengorbanan: Zakat Fitrah
 
-- [QS Al Baqarah (002): 197](/ref/qrn-002-197)
+1. Pengorbanan: Eid Fund
 
-- [QS An Nisa (004): 093](/ref/qrn-004-093)
+1. Idul Fitri
 
-- [QS Al Maidah (005): 090](/ref/qrn-005-090)
+1. Keringanan Puasa
 
-- [QS Al Maidah (005): 096](/ref/qrn-005-096)
+1. Musafir
 
-- [QS Maryam (019): 027](/ref/qrn-019-027)
+1. Fidyah
 
-- [QS Al-Ahzab (033): 036](/ref/qrn-033-036)
+1. Puasa Sunnah
 
-- [QS Al Mujadalah (058): 005](/ref/qrn-058-005)
-
-### Arti Puasa dalam Kamus Indonesia
-
-Menurut Kamus Besar Bahasa Indonesia, puasa artinya meniadakan makan, minum, dan sebagainya dengan sengaja (terutama bertalian dengan keagamaan) atau salah satu rukun Islam berupa ibadah menahan diri atau berpantang makan, minum, dan segala yang membatalkannya mulai terbit fajar sampai terbenam matahari [[^kbbi_puasa]]
-
-[^kbbi_puasa]: [KBBI dalam kata puasa](https://kbbi.kemdikbud.go.id/entri/puasa)
-
-### Makna Puasa
-
-Berdasarkan Tafsir Alquran dari [QS Al Baqarah (002) ayat 184](/ref/qrn-002-184), Puasa adalah peraturan agama, dalam bentuk atau dengan perincian bagaimana pun  terdapat pada tiap-tiap agama. “Oleh kebanyakan agama, pada kebudayaan yang tarafnya rendah, pertengahan atau lebih tinggi sekalipun, puasa itu umumnya diwajibkan; dan, walaupun bila tidak diharuskan, puasa itu dilakukan seberapa jauh oleh perorangan, sebagai jawaban kepada dorongan tabi’i (alaminya)” – (Ensiklopedia Britanica). Ini adalah pengalaman umum para wali dan ahli kasyaf bahwa pemutusan hubungan jasmani atau pertalian duniawi sampai batas tertentu itu, sangat perlu untuk kemajuan rohani dan mengandung pengaruh mensucikan yang kuat sekali kepada alam pikiran. Tetapi, Islam telah memperkenalkan orientasi dan arti rohani baru dalam peraturan puasa ini. Menurut Islam, puasa merupakan lambang pengorbanan yang sempurna. Orang puasa bukan hanya menjauhi makan-minum, yang merupakan sarana hidup yang utama, dan tanpa itu orang tak dapat hidup, tetapi pula menjauhi istrinya sendiri, yang merupakan sarana untuk mendapat keturunan. Jadi, orang yang berpuasa membuktikan kesediannya yang sungguh-sungguh, bila diperlukan, mengorbankan segala-galanya untuk kepentingan Tuhan dan Khalik-nya. [[^tafsir_002_184]]
-
-[^tafsir_002_184]: Tafsir Alquran dengan Terjemah dan Tafsir Singkat terbitan Jemaat Ahmadiyah Indonesia, QS Al Baqarah ayat 184
-
-Tn. Rahmat Ali, HA. OT. (r.a.) dalam karyanya, Rahasia Rukun Islam, menjelaskan makna dari kata puasa. Yaitu:
-
-- Diam, artinya berdiam dari perkataan yang tidak ada faedahnya.
-
-- Berhenti, artinya berhenti dari segala pekerjaan- pekerjaan yang terlarang atau yang tidak ada faedahnya.
-
-- Berdiri, artinya mendirikan ruhaniyat – atau mempertinggi kualitas ruhani kita -- yaitu dengan memperkuat hati dan menajamkan fikiran.
-
-- Tempat yang tinggi, artinya berpuasa adalah satu ibadah yang sangat tinggi derajatnya hingga tak ada bandingannya dalam semua ibadah-ibadah [[^rrri_135-136]]
-
-[^rrri_135-136]:  Muhammad Rahmat Ali, HA. OT., Rahasia-Rahasia Rokoen Islam, Djakarta:Neraca Trading Company, 1949, hlm. 135-136
-
-### Tanya-Jawab
+### Tanya-Jawab Puasa
 
 - [Tanya-Jawab tentang Puasa](/tanya-jawab/puasa/)
 
@@ -204,10 +178,10 @@ Tn. Rahmat Ali, HA. OT. (r.a.) dalam karyanya, Rahasia Rukun Islam, menjelaskan 
 
 - Akhlak Mulia
 
+{% comment %}
 ### Materi Dars Ramadhan
 
 - [34 Seri Materi Dars Ramadhan](https://docs.google.com/document/d/1FKeOFcPy1o5fXQpJdWs6KDrDjzjvNlGoAdWr1VwTbHA/edit?usp=sharing)
 
 - Mohon kirimkan email (gmail) anda [ke sini](https://wa.me/6281213130862) Jika ingin mengakses file tersebut. 
-
-### Catatan Kaki
+{% endcomment %}
