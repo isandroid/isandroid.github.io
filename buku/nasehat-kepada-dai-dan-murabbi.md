@@ -139,5 +139,4 @@ Percayalah bahwa Allah akan selalu menolong kita. Dengan perantaraannya kita dap
 
 2. Jikapun keluar protes dari musuh, maka Tuhanlah yang akan memberikan jawaban
 
-
 ### Catatan Kaki
