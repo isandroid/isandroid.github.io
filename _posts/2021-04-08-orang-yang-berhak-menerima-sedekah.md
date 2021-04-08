@@ -10,6 +10,8 @@ published: true
 
 Dalam istilah agama, kita mengenal istilah مُسْتَحِقّ (*mustahiq*), yang artinya: orang yang berjasa, orang yang berhak menerima, orang yang pantas menerima, orang yang patut untuk ..., orang yang dapat dipilih, yang dibayar, dapat dibayar [[^almaany_mustahiq]]
 
+*Mustahiq* secara istilah bisa diartikan orang-orang yang berhak menerima zakat atau sedekah.
+
 [^almaany_mustahiq]: [Kamus Almaany Arab-Indonesia kata *Mustahiq*](https://www.almaany.com/id/dict/ar-id/%D9%85%D9%8F%D8%B3%D9%92%D8%AA%D9%8E%D8%AD%D9%90%D9%82%D9%91/)
 
 ### Delapan Orang yang Berhak Menerima Sedekah atau Zakat
