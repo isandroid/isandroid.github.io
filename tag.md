@@ -6,10 +6,10 @@ layout: default
 ## Tag-Tag Blog
 
 {% for tag in site.tags %}
-  <h6>{{ tag[0] }}</h6>
-  <ul>
+  <h5>{{ tag[0] }}</h5>
+  <ol>
     {% for post in tag[1] %}
-      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+      <li class="spasi"><a href="{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
-  </ul>
+  </ol>
 {% endfor %}
