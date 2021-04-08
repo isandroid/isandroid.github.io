@@ -190,7 +190,7 @@ Pokoknya, zakat hendaknya diberikan melalui pusat. Inilah cara yang berlaku pada
 
 2.Uang dapat diberikan kepada seorang guru (ustadz) yang mengajarkan Alquran dari pos zakat sebagai upah (gaji). Demikian pula, uang saku dapat diberikan kepada para pelajar yang miskin dari pos zakat. 
 
-Pendek kata, dikarenakan keadaan berubah setelah Rasulullah saw.. dan Khulafa Al-Rasyidin, maka sebagian imam terpaksa memberikan fatwa jaiz karena perubahan keadaan/situasi yang membuat keterpaksaan. Hadhrat Masih Mau’ud as. dan Hadhrat Khalifatul Masih II ra. juga telah memilih segi keterpaksaan. Bukan segi kejaizan secara mutlak. Inilah sebabnya Hadhrat Khalifatul Masih II ra. telah memperlihatkan ketidaksukaan atas kelalaian orang-orang muslim dalam “Tafsir Kabir” dan menetapkannya sebagai sebab utama kemunduran bangsa. (Tafsir Kabir, surah Al-Baqarah, halaman 131)
+Pendek kata, dikarenakan keadaan berubah setelah Rasulullah (saw) dan Khulafa Al-Rasyidin, maka sebagian imam terpaksa memberikan fatwa jaiz karena perubahan keadaan/situasi yang membuat keterpaksaan. Hadhrat Masih Mau’ud as. dan Hadhrat Khalifatul Masih II ra. juga telah memilih segi keterpaksaan. Bukan segi kejaizan secara mutlak. Inilah sebabnya Hadhrat Khalifatul Masih II ra. telah memperlihatkan ketidaksukaan atas kelalaian orang-orang muslim dalam “Tafsir Kabir” dan menetapkannya sebagai sebab utama kemunduran bangsa. (Tafsir Kabir, surah Al-Baqarah, halaman 131)
 {% endcomment %}
 
 ### Catatan Kaki
