@@ -61,9 +61,9 @@ permalink: /puasa
 
 1. [Hukum Puasa: Perkara yang Tidak Membatalkan Puasa](/2021/02/23/yang-tidak-membatalkan-puasa) -- ref
 
-1. Nuzul-ul-Quran di Bulan Ramadhan
+1. [Nuzulul-Quran di Bulan Ramadhan](/nuzulul-quran) -- ref
 
-1. Hukum: Hutang Puasa
+1. [Hukum Puasa: Utang Puasa](/2021/02/23/utang-puasa) -- ref
 
 1. Hukum: Perkara yang Menghilangkan Berkah Puasa
 
