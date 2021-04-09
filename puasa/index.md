@@ -59,17 +59,17 @@ permalink: /puasa
 
 1. [Hukum Puasa: Sengaja Membatalkan Puasa](/2021/02/23/hukum-puasa-sengaja-membatalkan-puasa.html) -- ref
 
-1. [Hukum Puasa: Perkara yang Tidak Membatalkan Puasa](/2021/02/23/yang-tidak-membatalkan-puasa) -- ref
-
 1. [Nuzulul-Quran di Bulan Ramadhan](/nuzulul-quran) -- ref
+
+1. [Hukum Puasa: Perkara yang Tidak Membatalkan Puasa](/2021/02/23/yang-tidak-membatalkan-puasa) -- ref
 
 1. [Hukum Puasa: Utang Puasa](/2021/02/23/utang-puasa) -- ref
 
-1. Hukum: Perkara yang Menghilangkan Berkah Puasa
+1. [Hukum Puasa: Perkara yang Menghilangkan Berkah Puasa](/2021/02/23/hukum-puasa-perkara-yang-menghilangkan-berkah-puasa) -- ref
 
-1. Lailatul-Qodr
+1. [Lailatul-Qodr](/lailatul-qodar) -- ref
 
-1. Pengorbanan: Zakat Fitrah
+1. [Pengorbanan: Zakat Fitrah](/zakat-fitrah) -- ref
 
 1. Pengorbanan: Eid Fund
 
