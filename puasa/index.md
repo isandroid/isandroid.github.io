@@ -59,7 +59,7 @@ permalink: /puasa
 
 1. [Hukum Puasa: Sengaja Membatalkan Puasa](/2021/02/23/hukum-puasa-sengaja-membatalkan-puasa.html) -- ref
 
-1. Hukum Puasa: Perkara yang Tidak Membatalkan Puasa
+1. [Hukum Puasa: Perkara yang Tidak Membatalkan Puasa](/2021/02/23/yang-tidak-membatalkan-puasa) -- ref
 
 1. Nuzul-ul-Quran di Bulan Ramadhan
 
