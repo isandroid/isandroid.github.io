@@ -123,17 +123,17 @@ permalink: /puasa
 
 		- [Shalat Witir](/shalat/witir)
 
-	- I'tikaf
+	- [I’tikaf](/itikaf)
 
-	- Nuzulul Quran
+	- [Nuzulul Quran](/nuzulul-quran)
 
-	- Lailatul Qodar
+	- [Lailatul Qodar](/lailatul-qodar)
 
-	- Zakat Fitrah
+	- [Zakat Fitrah](/zakat-fitrah)
 
 		- Muzakki
 
-		- Mustahiq
+		- [Mustahiq](/2021/04/08/orang-yang-berhak-menerima-sedekah.html)
 
 	- Puasa Sunnah
 
@@ -141,17 +141,17 @@ permalink: /puasa
 
 		- [Hal-Hal yang Membatalkan Puasa](/2021/02/23/yang-membatalkan-puasa.html)
 
-		- Hal-hal yang Tidak Membatalkan Puasa
+		- [Hal-hal yang Tidak Membatalkan Puasa](/2021/02/23/yang-tidak-membatalkan-puasa)
 
-		- Sengaja Membatalkan Puasa
+		- [Sengaja Membatalkan Puasa](/2021/02/23/hukum-puasa-sengaja-membatalkan-puasa.html)
 
 		- [Utang Puasa](/utang#utang-puasa)
 
 		- Mengqodho Puasa atau Mengganti Puasa
 
-		- Keringanan Puasa
+		- [Hal-hal yang Menghilangkan Pahala Puasa](/2021/02/23/hukum-puasa-perkara-yang-menghilangkan-berkah-puasa)
 
-		- Hal-hal yang Menghilangkan Pahala Puasa
+		- Keringanan Puasa
 
 			- Orang Sakit
 
@@ -169,7 +169,7 @@ permalink: /puasa
 
 ### Hal-Hal yang Bersinggungan dengan Puasa
 
-- Idul Fitri
+- (Idul Fitri](/idul-fitri)
 
 - Sedekah
 
