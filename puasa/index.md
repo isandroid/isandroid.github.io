@@ -53,7 +53,7 @@ permalink: /puasa
 
 1. [I’tikaf](/itikaf)
 
-1. [Hukum Puasa](/2021/02/23/hukum-puasa.html)
+1. [Hukum Puasa: Syarat Wajib dan Syarat Sah Puasa](/2021/02/23/hukum-puasa.html)
 
 1. [Hukum Puasa: Perkara yang Membatalkan Puasa](/2021/02/23/yang-membatalkan-puasa)
 
@@ -65,23 +65,21 @@ permalink: /puasa
 
 1. [Hukum Puasa: Utang Puasa](/2021/02/23/utang-puasa) -- ref
 
-1. [Hukum Puasa: Perkara yang Menghilangkan Berkah Puasa](/2021/02/23/hukum-puasa-perkara-yang-menghilangkan-berkah-puasa) -- ref
-
 1. [Lailatul-Qodr](/lailatul-qodar) -- ref
+
+1. [Hukum Puasa: Perkara yang Menghilangkan Berkah Puasa](/2021/02/23/hukum-puasa-perkara-yang-menghilangkan-berkah-puasa) -- ref
 
 1. [Pengorbanan: Zakat Fitrah](/zakat-fitrah) -- ref
 
-1. Pengorbanan: Eid Fund
+1. [Pengorbanan: Eid Fund](/eid-fund) -- ref
 
-1. Idul Fitri
+1. [Idul Fitri](/idul-fitri) -- ref
 
-1. Keringanan Puasa
+1. [Hukum Puasa: Keringanan Puasa](/2021/02/23/hukum-puasa-keringanan-puasa) -- ref
 
-1. Musafir
+1. [Hukum Puasa: Perjalanan ketika Puasa](/2021/02/23/hukum-puasa-musafir-perjalanan-ketika-puasa) -- ref
 
-1. Fidyah
-
-1. Puasa Sunnah
+1. [Fidyah](/fidyah) -- ref
 
 1. [Keutamaan Umrah di Bulan Ramadhan](/2021/02/23/keutaman-umrah-di-bulan-ramadhan) -- ref
 
