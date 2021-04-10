@@ -17,13 +17,13 @@ layout: beranda
 
 <i class="fa fa-moon-o" aria-hidden="true"></i> [Islam](/islam/)
 
+<i class="fa fa-flag-o" aria-hidden="true"></i> [Puasa](/puasa) (proses pelengkapan referensi...)
+
 <i class="fa fa-bookmark" aria-hidden="true"></i> [Referensi Internal](/ref/)
 
 <i class="fa fa-book" aria-hidden="true"></i> [Buku-Buku](/buku/)
 
 <i class="fa fa-tags" aria-hidden="true"></i> [Tag-tag Blog](/tag)
-
-<i class="fa fa-flag-o" aria-hidden="true"></i> [Hal-Hal tentang Puasa](/puasa) (Dalam proses)
 
 <i class="fa fa-question-circle" aria-hidden="true"></i> [Tanya-Jawab tentang Puasa](/tanya-jawab/puasa/)
 
@@ -78,6 +78,7 @@ var x = setInterval(function() {
 }, 1000);
 </script>
 
+{% comment %}
 ### Artikel tentang Puasa
 
 {% for tag in site.tags %}
@@ -90,3 +91,4 @@ var x = setInterval(function() {
   </ul>
 {% endif %}
 {% endfor %}
+{% endcomment %}

@@ -11,10 +11,12 @@ published: true
 Kita mengetahui bahwa diutusnya Yang Mulia Rasulullah saw adalah untuk menyempurnakan akhlak seperti sabda beliau (saw),
 
 <p class="arab">
-إِنَّمَا بُعِثْتُ لِأُتَمِّمَ مَكَارِمَ وَ فِيْ رِوَايَةٍ ( صَالِحَ ) الْأَخْلَاقِ
+عَنْ أَبِي هُرَيْرَةَ أَنَّ رَسُولَ اللهِ صلى الله عليه وسلم قَالَ‏:‏ إِنَّمَا بُعِثْتُ لِأُتَمِّمَ صَالِحَ الأَخْلاقِ
 </p>
 
-Dari Abu Hurairah, dari Nabi (saw), bersabda, "Saya diutus untuk menyempurnakan akhlak yang baik. Dalam riwayat yang lain, “perbaikan akhlak” (H.R. Al-Albany) []
+Dari Abu Hurairah, dari Nabi (saw), bersabda, "Saya diutus untuk menyempurnakan perbaikan akhlak” (H.R. Al-Albany) [[^alalbany_2302710]]
+
+[^alalbany_2302710]: [H.R. Al-Albany, dalam Kitab Al-Adab Al-Mufrad, Bab Berurusan dengan manusia dan akhlak yang baik](https://sunnah.com/urn/2302710)
 
 Jadi, jika kita menyempurnakan akhlak dalam diri kita, maka kedatangan diutusnya Rasulullah saw bisa sempurna dalam diri kita.
 
@@ -26,7 +28,9 @@ Dalam Hadits Sahih al-Bukhari diriwayatkan,
 عَنْ أَبِي هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ أَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ الصِّيَامُ جُنَّةٌ فَلَا يَرْفُثْ وَلَا يَجْهَلْ وَإِنْ امْرُؤٌ قَاتَلَهُ أَوْ شَاتَمَهُ فَلْيَقُلْ إِنِّي صَائِمٌ مَرَّتَيْنِ وَالَّذِي نَفْسِي بِيَدِهِ لَخُلُوفُ فَمِ الصَّائِمِ أَطْيَبُ عِنْدَ اللَّهِ تَعَالَى مِنْ رِيحِ الْمِسْكِ يَتْرُكُ طَعَامَهُ وَشَرَابَهُ وَشَهْوَتَهُ مِنْ أَجْلِي الصِّيَامُ لِي وَأَنَا أَجْزِي بِهِ وَالْحَسَنَةُ بِعَشْرِ أَمْثَالِهَا
 </p>
 
-dari Abu Hurairah radliallahu 'anhu; Bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Shaum itu benteng, maka (orang yang melaksanakannya) janganlah berbuat kotor (rafats) dan jangan pula berbuat bodoh. Apabila ada orang yang mengajaknya berkelahi atau menghinanya maka katakanlah aku sedang shaum (ia mengulang ucapannya dua kali). Dan demi Dzat yang jiwaku berada di tanganNya, sungguh bau mulut orang yang sedang shaum lebih harum di sisi Allah Ta'ala dari pada harumnya minyak misik, karena dia meninggalkan makanannya, minuman dan nafsu syahwatnya karena Aku. Shaum itu untuk Aku dan Aku sendiri yang akan membalasnya dan setiap satu kebaikan dibalas dengan sepuluh kebaikan yang serupa". (HR Bukhari) []
+dari Abu Hurairah radliallahu 'anhu; Bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Shaum itu benteng, maka (orang yang melaksanakannya) janganlah berbuat kotor (rafats) dan jangan pula berbuat bodoh. Apabila ada orang yang mengajaknya berkelahi atau menghinanya maka katakanlah aku sedang shaum (ia mengulang ucapannya dua kali). Dan demi Dzat yang jiwaku berada di tanganNya, sungguh bau mulut orang yang sedang shaum lebih harum di sisi Allah Ta'ala dari pada harumnya minyak misik, karena dia meninggalkan makanannya, minuman dan nafsu syahwatnya karena Aku. Shaum itu untuk Aku dan Aku sendiri yang akan membalasnya dan setiap satu kebaikan dibalas dengan sepuluh kebaikan yang serupa". (HR Bukhari) [[^838ac083-f03f-41f6-9ab7-01d86a406685]]
+
+[^838ac083-f03f-41f6-9ab7-01d86a406685]: [H.R. Al-Bukhari, Kitab Shaum, Keutamaan puasa](/ref/hds-838ac083-f03f-41f6-9ab7-01d86a406685)
 
 Puasa merupakan benteng kita dari nafsu, sehingga diharapkan akhlak mulia kita muncul tanpa penghalang. 
 
@@ -46,7 +50,9 @@ Diriwayatkan,
 عَنْ جَابِرٍ أَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ إِنَّ مِنْ أَحَبِّكُمْ إِلَيَّ وَأَقْرَبِكُمْ مِنِّي مَجْلِسًا يَوْمَ الْقِيَامَةِ أَحَاسِنَكُمْ أَخْلَاقًا... 
 </p>
 
-Dari Jabir bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Sesungguhnya di antara orang yang paling aku cintai dan yang tempat duduknya lebih dekat kepadaku pada hari kiamat ialah orang yang paling bagus akhlaknya.... (H.R. At-Tirmidzi) []
+Dari Jabir bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Sesungguhnya di antara orang yang paling aku cintai dan yang tempat duduknya lebih dekat kepadaku pada hari kiamat ialah orang yang paling bagus akhlaknya.... (H.R. At-Tirmidzi) [[^tirmidzi_1941]]
+
+[^tirmidzi_1941]: [H.R. At-Tirmidzi, Kitab Berbakti dan menyambung silaturrahim, Bab Akhlak mulia](https://www.hadits.id/hadits/tirmidzi/1941)
 
 ### Akhlak: mendapatkan Ganjaran Amal yang Sangat Besar 
 
@@ -56,7 +62,9 @@ Kita mengetahui bahwa pahala puasa di bulan Ramadhan dilipatgandakan. Apalagi ak
 عَنْ أَبِي الدَّرْدَاءِ عَنْ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ مَا مِنْ شَيْءٍ أَثْقَلُ فِي الْمِيزَانِ مِنْ حُسْنِ الْخُلُقِ 
 </p>
 
-Dari Abu Darda dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Tidak ada yang lebih berat dalam timbangan amal selain akhlak yang baik."  (H.R. Abu Dawud)  []
+Dari Abu Darda dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Tidak ada yang lebih berat dalam timbangan amal selain akhlak yang baik..."  (H.R. Abu Dawud)  [[^dawud_4166]]
+
+[^dawud_4166]: [H.R. Abu Dawud, Kitab Adab, Bab Akhlak yang baik](https://www.hadits.id/hadits/dawud/4166)
 
 ### Dengan Akhlak Mulia Bisa Mendapatkan Derajat Ahli Shalat dan Ahli Puasa
 
@@ -66,17 +74,21 @@ Diriwayatkan,
 عَنْ عَائِشَةَ رَحِمَهَا اللَّهُ قَالَتْ سَمِعْتُ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَقُولُ إِنَّ الْمُؤْمِنَ لَيُدْرِكُ بِحُسْنِ خُلُقِهِ دَرَجَةَ الصَّائِمِ الْقَائِمِ
 </p>
 
-Dari 'Aisyah ia berkata, "Aku mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Sesungguhnya seorang mukmin akan mendapatkan kedudukan ahli puasa dan shalat dengan ahlak baiknya." (H.R. Abu Dawud) []
+Dari 'Aisyah ia berkata, "Aku mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Sesungguhnya seorang mukmin akan mendapatkan kedudukan ahli puasa dan shalat dengan akhlak baiknya." (H.R. Abu Dawud) [[^dawud_4165]]
+
+[^dawud_4165]: [H.R. Abu Dawud, Kitab Adab, Akhlak yang baik](https://www.hadits.id/hadits/dawud/4165)
 
 ### Akhlak yang Baik Paling Banyak Memasukkan Orang ke Surga
 
 Diriwayatkan,
 
 <p class="arab">
-عَنْ أَبِي هُرَيْرَةَ قَالَ سُئِلَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ عَنْ أَكْثَرِ مَا يُدْخِلُ النَّاسَ الْجَنَّةَ فَقَالَ تَقْوَى اللَّهِ وَحُسْنُ الْخُلُقِ... 
+عَنْ أَبِي هُرَيْرَةَ قَالَ سُئِلَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ عَنْ أَكْثَرِ مَا يُدْخِلُ النَّاسَ الْجَنَّةَ فَقَالَ تَقْوَى اللَّهِ وَحُسْنُ الْخُلُقِ وَسُئِلَ عَنْ أَكْثَرِ مَا يُدْخِلُ النَّاسَ النَّارَ فَقَالَ الْفَمُ وَالْفَرْجُ
 </p>
 
-Dari Abu Hurairah ia berkata; Rasulullah shallallahu 'alaihi wasallam pernah ditanya tentang sesuatu yang paling banyak memasukkan seseorang ke dalam surga, maka beliau pun menjawab: "Takwa kepada Allah dan akhlak yang mulia…." (H.R. At-Tirmidzi) []
+...dari Abu Hurairah ia berkata; Rasulullah shallallahu 'alaihi wasallam pernah ditanya tentang sesuatu yang paling banyak memasukkan seseorang ke dalam surga, maka beliau pun menjawab: "Takwa kepada Allah dan akhlak yang mulia." Dan beliau juga ditanya tentang sesuatu yang paling banyak memasukkan orang ke dalam neraka, maka beliau menjawab: "Mulut dan kemaluan." (H.R. At-Tirmidzi) [[^tirmidzi_1927]]
+
+[^tirmidzi_1927]: [H.R. At-Tirmidzi, Kitab Berbakti dan menyambung silaturrahim, Bab Berbuat baik](https://www.hadits.id/hadits/tirmidzi/1927)
 
 ### Berakhlaklah walau itu Hal Kecil
 
@@ -86,4 +98,8 @@ Rasulullah saw bersabda,
 عَنْ أَبِي هُرَيْرَةَ قَالَ قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ الْإِيمَانُ بِضْعٌ وَسَبْعُونَ أَوْ بِضْعٌ وَسِتُّونَ شُعْبَةً فَأَفْضَلُهَا قَوْلُ لَا إِلَهَ إِلَّا اللَّهُ وَأَدْنَاهَا إِمَاطَةُ الْأَذَى عَنْ الطَّرِيقِ وَالْحَيَاءُ شُعْبَةٌ مِنْ الْإِيمَانِ
 </p>
 
-dari Abu Hurairah dia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Iman itu ada tujuh puluh tiga sampai tujuh puluh sembilan, atau enam puluh tiga sampai enam puluh sembilan cabang. Yang paling utama adalah perkataan, LAA ILAAHA ILLALLAHU (Tidak ada tuhan yang berhak disembah selain Allah). Dan yang paling rendah adalah menyingkirkan gangguan dari jalan. Dan malu itu adalah sebagian dari iman." (H.R. Muslim) []
+dari Abu Hurairah dia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Iman itu ada tujuh puluh tiga sampai tujuh puluh sembilan, atau enam puluh tiga sampai enam puluh sembilan cabang. Yang paling utama adalah perkataan, LAA ILAAHA ILLALLAHU (Tidak ada tuhan yang berhak disembah selain Allah). Dan yang paling rendah adalah menyingkirkan gangguan dari jalan. Dan malu itu adalah sebagian dari iman." (H.R. Muslim) [[^muslim_51]]
+
+[^muslim_51]: [H.R. Muslim, Kitab Iman, Penjelasan tentang jumlah cabang keimanan, yang paling utama dan yang paling rendah, dan keutamaan malu](https://www.hadits.id/hadits/muslim/51)
+
+### Catatan Kaki

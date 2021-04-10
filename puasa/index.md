@@ -47,7 +47,7 @@ permalink: /puasa
 
 1. [Hal-Hal berkenaan dengan Shalat Tahajud](/shalat/tahajud)
 
-1. [Keutamaan Akhlak Mulia (Bagian I)](/2021/02/23/keutamaan-keutamaan-akhlak-mulia-01) -- ref
+1. [Keutamaan Akhlak Mulia (Bagian I)](/2021/02/23/keutamaan-keutamaan-akhlak-mulia-01)
 
 1. [Keutamaan Akhlak Mulia (Bagian II)](/2021/02/23/keutamaan-keutamaan-akhlak-mulia-02) -- ref
 
