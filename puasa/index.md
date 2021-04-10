@@ -49,7 +49,7 @@ permalink: /puasa
 
 1. [Keutamaan Akhlak Mulia (Bagian I)](/2021/02/23/keutamaan-keutamaan-akhlak-mulia-01)
 
-1. [Keutamaan Akhlak Mulia (Bagian II)](/2021/02/23/keutamaan-keutamaan-akhlak-mulia-02) -- ref
+1. [Keutamaan Akhlak Mulia (Bagian II)](/2021/02/23/keutamaan-keutamaan-akhlak-mulia-02)
 
 1. [I’tikaf](/itikaf)
 
