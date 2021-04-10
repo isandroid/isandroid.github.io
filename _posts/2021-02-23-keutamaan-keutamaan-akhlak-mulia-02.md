@@ -14,7 +14,7 @@ Sebagai kaum Muslimin, seseorang yang seharusnya dijadikan teladan akhlak adalah
 لَقَدْ كَانَ لَكُمْ فِي رَسُولِ اللَّهِ أُسْوَةٌ حَسَنَةٌ لِمَنْ كَانَ يَرْجُو اللَّهَ وَالْيَوْمَ الْآخِرَ وَذَكَرَ اللَّهَ كَثِيرًا
 </p>
 
-Sesungguhnya telah ada pada (diri) Rasûlullâh itu suri teladan yang baik bagimu (yaitu) bagi orang yang mengharap (rahmat) Allâh dan (kedatangan) hari kiamat dan dia banyak menyebut Allâh (al-Ahzâb [33]:22) 
+Sesungguhnya telah ada pada (diri) Rasûlullâh itu suri teladan yang baik bagimu (yaitu) bagi orang yang mengharap (rahmat) Allâh dan (kedatangan) hari kiamat dan dia banyak menyebut Allâh ([QS al-Ahzâb [33]:22](https://www.alislam.org/quran/app/33:22)) 
 
 ### Akhlak Rasulullah saw adalah Alquran
 
@@ -24,7 +24,9 @@ Diriwayatkan mengenai Akhlak Rasulullah saw,
 ...قَالَ قَتَادَةُ وَكَانَ أُصِيبَ يَوْمَ أُحُدٍ فَقُلْتُ يَا أُمَّ الْمُؤْمِنِينَ أَنْبِئِينِي عَنْ خُلُقِ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَتْ أَلَسْتَ تَقْرَأُ الْقُرْآنَ قُلْتُ بَلَى قَالَتْ فَإِنَّ خُلُقَ نَبِيِّ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ كَانَ الْقُرْآنَ...
 </p>
 
-...Qatadah berkata; Hisyam bin Amir gugur ketika perang Uhud- lantas aku (Saad) bertanya; "Wahai Ummul mukminin, beritahukanlah kepadaku tentang akhlak Rasulullah shallallahu 'alaihi wasallam!.' 'Aisyah menjawab; "Bukankah engkau telah membaca Alquran?" Aku menjawab; "Benar, " Aisyah berkata; "Akhlak Nabi shallallahu 'alaihi wasallam adalah Al Quran." … (H.R. Muslim) []
+...Qatadah berkata; Hisyam bin Amir gugur ketika perang Uhud- lantas aku (Saad) bertanya; "Wahai Ummul mukminin, beritahukanlah kepadaku tentang akhlak Rasulullah shallallahu 'alaihi wasallam!.' 'Aisyah menjawab; "Bukankah engkau telah membaca Alquran?" Aku menjawab; "Benar, " Aisyah berkata; "Akhlak Nabi shallallahu 'alaihi wasallam adalah Al Quran." … (H.R. Muslim) [[^muslim_1233]]
+
+[^muslim_1233]: [H.R. Muslim, Kitab Shalatnya musafir dan penjelasan tentang qashar, Bab Shalat malam; orang yang meninggalkannya karena tidur atau sakit](https://www.hadits.id/hadits/muslim/1233)
 
 ### Akhlak Kasih Sayang
 
@@ -114,7 +116,9 @@ Diriwayatkan,
 عَنْ أَبِي هُرَيْرَةَ قَالَ قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ أَكْمَلُ الْمُؤْمِنِينَ إِيمَانًا أَحْسَنُهُمْ خُلُقًا
 </p>
 
-Dari Abu Hurairah ia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Kaum mukminin yang paling baik imannya adalah yang paling baik akhlaknya." (H.R. Abu Dawud) []
+Dari Abu Hurairah ia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Kaum mukminin yang paling baik imannya adalah yang paling baik akhlaknya." (H.R. Abu Dawud) [[^dawud_4062]]
+
+[^dawud_4062]: [H.R. Abu Dawud, Kitab Sunnah, Bab Dalil bahwa iman bertambah dan berkurang](https://www.hadits.id/hadits/dawud/4062)
 
 Diriwayatkan,
 
