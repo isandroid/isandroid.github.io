@@ -92,15 +92,16 @@ permalink: /puasa
 
 {% for tag in site.tags %}
 {% if tag contains "puasa" %}
-  <ul>
+  <ol>
   	{% assign sorted2 = tag[1] | sort: 'title' %}
     {% for post in sorted2 %}
       <li class="spasi"><a href="{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
-  </ul>
+  </ol>
 {% endif %}
 {% endfor %}
 
+{% comment %}
 ### Hal-Hal yang Berkaitan dengan Puasa
 
 - [Puasa](/puasa) atau [Shaum](/puasa)
@@ -135,6 +136,8 @@ permalink: /puasa
 
 		- [Mustahiq](/2021/04/08/orang-yang-berhak-menerima-sedekah.html)
 
+	- Fidyah
+
 	- Puasa Sunnah
 
 	- Hukum Puasa
@@ -153,25 +156,29 @@ permalink: /puasa
 
 		- Keringanan Puasa
 
-			- Orang Sakit
+			- [Orang Sakit](/2021/02/23/hukum-puasa-keringanan-puasa#pasien)
 
-			- Musafir
+			- [Musafir](/2021/02/23/hukum-puasa-musafir-perjalanan-ketika-puasa)
 
-			- Orang yang Tidak Kuat Berpuasa
+			- [Orang yang Tidak Kuat Berpuasa](/2021/02/23/hukum-puasa-keringanan-puasa#orang-yang-tidak-kuat-berpuasa-lemah)
 
-			- ibu Hamil dan Menyusui
+			- [Ibu Hamil dan Menyusui](/2021/02/23/hukum-puasa-keringanan-puasa#ibu-hamil-dan-menyusui)
 
-			- Berperang di Jalan Allah
+			- [Sedang Berperang](/2021/02/23/hukum-puasa-keringanan-puasa#orang-yang-berperang)
 
-			- Pelajar yang Sedang Ujian
-
-			- Fidyah
+			- [Pelajar yang Sedang Ujian](/2021/02/23/hukum-puasa-keringanan-puasa#pelajar-yang-sedang-ujian)
 
 ### Hal-Hal yang Bersinggungan dengan Puasa
 
-- (Idul Fitri](/idul-fitri)
+- [Idul Fitri](/idul-fitri)
 
 - Sedekah
+
+	- [Sunnah Bersedekah di Bulan Puasa](/2021/02/23/sedekah-di-bulan-puasa)
+
+	- [Hal-hal yang Harus Diperhatikan dalam Sedekah](/2021/02/23/hal-hal-yang-harus-diperhatikan-ketika-sedekah.html)
+
+	- [_Mustahiq_ atau Orang yang Berhak Menerima Sedekah](/2021/04/08/orang-yang-berhak-menerima-sedekah.html)
 
 - [Shalat Tahajud](/shalat/tahajud)
 
@@ -179,10 +186,23 @@ permalink: /puasa
 
 - Akhlak Mulia
 
-{% comment %}
+	- [Keutamaan Akhlak Mulia (Bagian I)](/2021/02/23/keutamaan-keutamaan-akhlak-mulia-01)
+
+	- [Keutamaan Akhlak Mulia (Bagian II)](/2021/02/23/keutamaan-keutamaan-akhlak-mulia-02)
+
 ### Materi Dars Ramadhan
 
 - [34 Seri Materi Dars Ramadhan](https://docs.google.com/document/d/1FKeOFcPy1o5fXQpJdWs6KDrDjzjvNlGoAdWr1VwTbHA/edit?usp=sharing)
 
 - Mohon kirimkan email (gmail) anda [ke sini](https://wa.me/6281213130862) Jika ingin mengakses file tersebut. 
 {% endcomment %}
+
+### Masukan dan Saran kepada Penulis
+
+- Silakan kirimkan masukan dan saran kepada penulis:
+
+	- via email ke <isa.mujahid@ahmadiyya.or.id>
+
+	- via Telegram ke <https://t.me/isamujahidislam>
+
+	- via Whatsapp ke <https://wa.me/6281213130862>
