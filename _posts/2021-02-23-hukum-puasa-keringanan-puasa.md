@@ -14,7 +14,7 @@ Puasa merupakan kewajiban bagi seorang Mukmin, akan tetapi Allah Ta’ala member
 أَيَّاماً مَعْدُودَاتٍ فَمَنْ كَانَ مِنْكُمْ مَرِيضاً أَوْ عَلَى سَفَرٍ فَعِدَّةٌ مِنْ أَيَّامٍ أُخَرَ وَعَلَى الَّذِينَ يُطِيقُونَهُ فِدْيَةٌ طَعَامُ مِسْكِينٍ فَمَنْ تَطَوَّعَ خَيْراً فَهُوَ خَيْرٌ لَهُ وَأَنْ تَصُومُوا خَيْرٌ لَكُمْ إِنْ كُنْتُمْ تَعْلَمُونَ
 </p>
 
-Yaitu beberapa hari yang telah ditentukan bilangannya, maka barangsiapa di antara kamu sakit atau dalam perjalanan, maka hendaklah ia berpuasa sebanyak itu pada hari-hari lain, dan bagi orang-orang yang tidak sanggup berpuasa hendaklah membayar fidyah, yaitu memberi makan seorang miskin. Dan barangsiapa berbuat kebaikan dengan rela hati maka hal itu lebih baik baginya. Dan berpuasa itu lebih baik bagimu jika kamu mengetahui. (QS Al-Baqarah [2]: 185)
+Yaitu beberapa hari yang telah ditentukan bilangannya, maka barangsiapa di antara kamu sakit atau dalam perjalanan, maka hendaklah ia berpuasa sebanyak itu pada hari-hari lain, dan bagi orang-orang yang tidak sanggup berpuasa hendaklah membayar fidyah, yaitu memberi makan seorang miskin. Dan barangsiapa berbuat kebaikan dengan rela hati maka hal itu lebih baik baginya. Dan berpuasa itu lebih baik bagimu jika kamu mengetahui. ([QS Al-Baqarah [2]: 185](/ref/qrn-002-185))
 
 Dari ayat tersebut ada beberapa golongan yang mendapatkan rukhshah atau keringanan dari Allah Ta’ala untuk tidak berpuasa (sebagian atau seluruhnya) di bulan Ramadhan. Golongan tersebut diantaranya:
 
@@ -26,15 +26,21 @@ Hadhrat Masih Mau'ud a.s. bersabda:
 
 > "Pada hakikatnya ialah bahwa mengamalkan kelonggaran serta keringanan Al-Quran juga merupakan ketakwaan. Allah telah memberikan izin dan keringanan kepada orang yang sakit dan yang dalam perjalanan untuk melakukan itu pada hari-hari yang lain, karena itu seyogianya mengamalkan perintah itu. Saya telah membaca bahwa kebanyakan orang-orang besar/ulama-ulama besar telah mengakui hal itu bahwa jika ada yang berpuasa pada saat perjalanan atau dalam keadaan sakit maka ini merupakan maksiat, karena tujuan adalah untuk meraih ridha Ilahi bukan bergantung pada keinginan kita dan keridhaan Allah berada dalam kesetiaan. Apa yang diperintahkan agar ditaati dan dari diri sendiri jangan ditafsirkan.
 >
-> Dia telah memerintahkan “maka barangsiapa di antara sakit atau dalam perjalanan maka berpuasalah pada hari-hari lain). Di dalam itu tidak ada batasan bahwa perjalanan itu seperti itu atau penyakitnya seperti itu. Saya tidak berpuasa dalam perjalanan dan demikian pula dalam kondisi sakit juga. Sehubungan dengan itu hari inipun saya tidak berpuasa". [] []
+> Dia telah memerintahkan “maka barangsiapa di antara sakit atau dalam perjalanan maka berpuasalah pada hari-hari lain). Di dalam itu tidak ada batasan bahwa perjalanan itu seperti itu atau penyakitnya seperti itu. Saya tidak berpuasa dalam perjalanan dan demikian pula dalam kondisi sakit juga. Sehubungan dengan itu hari inipun saya tidak berpuasa". [[^alhakam_II_4_19070121]] [[^khotbah_20031024]]
+
+[^alhakam_II_4_19070121]: Al-Hakam Jilid 11 no. 4 tanggal 21 Januari 1907
+
+[^khotbah_20031024]: [Khotbah Jumat Hadhrat Mirza Masroor Ahmad, Hadhrat Khalifatul Masih al-Khaamis ayyadahullaahu Ta’ala binashrihil ‘aziiz tanggal 24 Oktober 2003 di Masjid Fadhl, London, UK.](http://ahmadiyah.id/khotbah/ramadhan-dan-keberkahannya)
 
 Hadhrat Masih Mau'ud a.s. bersabda:
 
-> "Barangsiapa yang berpuasa di bulan Ramadhan dalam kondisi sakit dan dalam perjalanan maka dia jelas-jelas melakukan pembangkangan terhadap perintah Allah. Allah berfirman dengan jelas bahwa orang yang sakit dan yang musafir jangan berpuasa. Laksanakanlah puasa setelah sembuh dari sakit dan sesudah selesai dari perjalanan. Seyogianya mengamalkan perintah Tuhan itu, sebab keselamatan adalah dengan karunia dan tidak ada yang dapat memperoleh keselamatan dengan menunjukkan kekuatan amal-amalnya. Tuhan tidak berfirman, "Apabila penyakit itu sedikit atau banyak, perjalanan itu panjang atau pendek", bahkan itu merupakan perintah yang umum dan seyogianya mengamalkannya. Seorang orang yang sakit dan orang yang dalam perjalan jika melaksanakan puasa maka mereka akan terkena fatwa pembangkangan terhadap perintah Allah". [] []
+> "Barangsiapa yang berpuasa di bulan Ramadhan dalam kondisi sakit dan dalam perjalanan maka dia jelas-jelas melakukan pembangkangan terhadap perintah Allah. Allah berfirman dengan jelas bahwa orang yang sakit dan yang musafir jangan berpuasa. Laksanakanlah puasa setelah sembuh dari sakit dan sesudah selesai dari perjalanan. Seyogianya mengamalkan perintah Tuhan itu, sebab keselamatan adalah dengan karunia dan tidak ada yang dapat memperoleh keselamatan dengan menunjukkan kekuatan amal-amalnya. Tuhan tidak berfirman, "Apabila penyakit itu sedikit atau banyak, perjalanan itu panjang atau pendek", bahkan itu merupakan perintah yang umum dan seyogianya mengamalkannya. Seorang orang yang sakit dan orang yang dalam perjalan jika melaksanakan puasa maka mereka akan terkena fatwa pembangkangan terhadap perintah Allah". [[^khotbah_20031024]]
 
 Hadhrat Khalifatul Masih V atba bersabda,
 
-> “...Dan dikarenakan penyakit yang permanen/tetap, ada perintah juga untuk membayar fidyah.” [] 
+> “...Dan dikarenakan penyakit yang permanen/tetap, ada perintah juga untuk membayar fidyah.” [[^khotbah_20090828]] 
+
+[^khotbah_20090828]: [Khotbah Jumat Hadhrat Khalifatul Masih V atba tanggal 28 Agustus 2009/Zhuhur 1388 HS di Baitul Futuh, London, U.K.](http://ahmadiyah.id/khotbah/bulan-ramadhan-yang-berberkat-dan-kewafatan-maulana-dost-muhammad-rh)
 
 ### Musafir
 
@@ -44,7 +50,7 @@ Mereka yang melakukan perjalanan, tidak seperti perjalanan rutin dan bukan pula 
 
 ### Orang yang Tidak kuat Berpuasa (Lemah)
 
-Dalam surat Albaqarah (2) ayat 185 tersebut disebut kata, wa ‘alal-ladziina yuthiiquunahuu diartikan “dan bagi orang-orang yang tidak sanggup berpuasa.” Dari kalimat tersebut ada manusia yang lemah. Mereka diberikan alternatif mengganti puasa mereka dengan fidyah.
+Dalam surat Albaqarah (2) ayat 185 tersebut disebut kata, *wa ‘alal-ladziina yuthiiquunahuu* diartikan “dan bagi orang-orang yang tidak sanggup berpuasa.” Dari kalimat tersebut ada manusia yang lemah. Mereka diberikan alternatif mengganti puasa mereka dengan fidyah.
 
 ### Ibu Hamil dan Menyusui 
 
@@ -54,7 +60,9 @@ Diriwayatkan,
 عَنْ أَنَسِ بْنِ مَالِكٍ رَجُلٌ مِنْ بَنِي عَبْدِ اللَّهِ بْنِ كَعْبٍ قَالَ أَغَارَتْ عَلَيْنَا خَيْلُ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فَأَتَيْتُ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فَوَجَدْتُهُ يَتَغَدَّى فَقَالَ ادْنُ فَكُلْ فَقُلْتُ إِنِّي صَائِمٌ فَقَالَ ادْنُ أُحَدِّثْكَ عَنْ الصَّوْمِ أَوْ الصِّيَامِ إِنَّ اللَّهَ تَعَالَى وَضَعَ عَنْ الْمُسَافِرِ الصَّوْمَ وَشَطْرَ الصَّلَاةِ وَعَنْ الْحَامِلِ أَوْ الْمُرْضِعِ الصَّوْمَ أَوْ الصِّيَامَ وَاللَّهِ لَقَدْ قَالَهُمَا النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ كِلْتَيْهِمَا أَوْ إِحْدَاهُمَا فَيَا لَهْفَ نَفْسِي أَنْ لَا أَكُونَ طَعِمْتُ مِنْ طَعَامِ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ 
 </p>
 
-dari Anas bin Malik seorang lelaki dari bani Abdullah bin Ka'ab berkata, Pasukan Rasulullah Shallallaahu 'alaihi wasallam menyerbu kaum kami secara diam-diam, lalu saya mendatangi beliau dan ternyata beliau sedang makan siang, lantas beliau bersabda: " Mendekat dan makanlah." saya menjawab, saya sedang berpuasa, beliau bersabda lagi: "Mendekatlah niscaya akan saya jelaskan kepadamu tentang puasa, sesungguhnya Allah Ta'ala tidak mewajibkan puasa atas musafir dan memberi keringanan separoh shalat untuknya juga memberi keringan bagi wanita hamil dan menyusui untuk tidak berpuasa". Sungguh Nabi Shallallaahu 'alaihi wasallam telah menyebut keduanya (yaitu wanita hamil dan menyusui), sangat disayangkan jika diriku tidak memakan makanannya Nabi Shalallahu 'alaihi wa salam. (HR. Tirmidzi) [].
+dari Anas bin Malik seorang lelaki dari bani Abdullah bin Ka'ab berkata, Pasukan Rasulullah Shallallaahu 'alaihi wasallam menyerbu kaum kami secara diam-diam, lalu saya mendatangi beliau dan ternyata beliau sedang makan siang, lantas beliau bersabda: " Mendekat dan makanlah." saya menjawab, saya sedang berpuasa, beliau bersabda lagi: "Mendekatlah niscaya akan saya jelaskan kepadamu tentang puasa, sesungguhnya Allah Ta'ala tidak mewajibkan puasa atas musafir dan memberi keringanan separoh shalat untuknya juga memberi keringan bagi wanita hamil dan menyusui untuk tidak berpuasa". Sungguh Nabi Shallallaahu 'alaihi wasallam telah menyebut keduanya (yaitu wanita hamil dan menyusui), sangat disayangkan jika diriku tidak memakan makanannya Nabi Shalallahu 'alaihi wa salam. (HR. Tirmidzi) [[^tirmidzi_649]].
+
+[^tirmidzi_649]: [At-Tirmidzi, Kitab Puasa, Bab Wanita hamil dan menyusui, dirukhsahkan "tidak puasa"](https://www.hadits.id/hadits/tirmidzi/649)
 
 ### Orang yang Berperang
 
@@ -64,7 +72,9 @@ Ada keringanan bagi orang yang sedang berperang untuk tidak berpuasa. Diriwayatk
 أَنَّ عُمَرَ بْنَ الْخَطَّابِ قَالَ غَزَوْنَا مَعَ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فِي رَمَضَانَ غَزْوَتَيْنِ يَوْمَ بَدْرٍ وَالْفَتْحِ فَأَفْطَرْنَا فِيهِمَا
 </p>
 
-Dari Umar bin Al Khaththab, dia berkata, kami berperang bersama Rasulullah Shalallahu 'alaihi wa salam pada bulan Ramadhan sebanyak dua kali, yaitu perang Badar dan Fathu Makkah, kami juga berbuka (tidak berpuasa) pada keduanya. (HR. Tirmidzi). []
+Dari Umar bin Al Khaththab, dia berkata, kami berperang bersama Rasulullah Shalallahu 'alaihi wa salam pada bulan Ramadhan sebanyak dua kali, yaitu perang Badar dan Fathu Makkah, kami juga berbuka (tidak berpuasa) pada keduanya. (HR. Tirmidzi). [[^tirmidzi_648]]
+
+[^tirmidzi_648]: [At-Tirmidzi, Kitab Puasa, Bab Orang yang berperang dirukhsahkan tidak puasa](https://www.hadits.id/hadits/tirmidzi/648)
 
 ### Pelajar yang Sedang Ujian
 
@@ -72,4 +82,8 @@ Untuk para pelajar yang sedang dalam ujian semester/kelulusan, mereka membutuhka
 
 Huzur II r.a. bersabda:
 
-> “Di dalam Alquran hanya ada penjelasan tentang larangan berpuasa bagi orang yang sakit dan musafir. Bagi perempuan yang sedang menyusui dan hamil tidak ada perintah seperti ini. Akan tetapi, Rasulullah saw menetapkannya dalam batas sakit. Demikian pula anak-anak yang tubuhnya masih berkembang atau kesehatannya melemah karena sibuk mempersiapkan ujian, termasuk dalam batas sakit. Pada hari-hari itu otak mereka terbebani sehingga sebagian orang menjadi gila. Kesehatan seseorang terkadang menjadi rusak. Jadi, apa gunanya berpuasa sekali dan mahrum untuk selamanya”. []
+> “Di dalam Alquran hanya ada penjelasan tentang larangan berpuasa bagi orang yang sakit dan musafir. Bagi perempuan yang sedang menyusui dan hamil tidak ada perintah seperti ini. Akan tetapi, Rasulullah saw menetapkannya dalam batas sakit. Demikian pula anak-anak yang tubuhnya masih berkembang atau kesehatannya melemah karena sibuk mempersiapkan ujian, termasuk dalam batas sakit. Pada hari-hari itu otak mereka terbebani sehingga sebagian orang menjadi gila. Kesehatan seseorang terkadang menjadi rusak. Jadi, apa gunanya berpuasa sekali dan mahrum untuk selamanya”. [[^alfadhl_18_88_30-31]]
+
+[^alfadhl_18_88_30-31]: Al-Fadhl, jilid 18, nomor 88, halaman 30-31
+
+### Catatan Kaki
