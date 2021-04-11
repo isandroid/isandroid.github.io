@@ -67,7 +67,7 @@ permalink: /puasa
 
 1. [Lailatul-Qodr](/lailatul-qodar)
 
-1. [Hukum Puasa: Perkara yang Menghilangkan Berkah Puasa](/2021/02/23/hukum-puasa-perkara-yang-menghilangkan-berkah-puasa) -- ref
+1. [Hukum Puasa: Perkara yang Menghilangkan Pahala Puasa](/2021/02/23/hukum-puasa-perkara-yang-menghilangkan-pahala-puasa)
 
 1. [Pengorbanan: Zakat Fitrah](/zakat-fitrah) -- ref
 
@@ -201,8 +201,8 @@ permalink: /puasa
 
 - Silakan kirimkan masukan dan saran kepada penulis:
 
-	- via email ke <isa.mujahid@ahmadiyya.or.id>
+	- via email: [klik di sini](mailto:isa.mujahid@ahmadiyya.or.id)
 
-	- via Telegram ke <https://t.me/isamujahidislam>
+	- via Telegram: [klik di sini](https://t.me/isamujahidislam)
 
-	- via Whatsapp ke <https://wa.me/6281213130862>
+	- via Whatsapp: [klik di sini](https://wa.me/6281213130862)
