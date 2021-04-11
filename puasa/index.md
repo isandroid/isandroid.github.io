@@ -65,7 +65,7 @@ permalink: /puasa
 
 1. [Hukum Puasa: Utang Puasa](/2021/02/23/utang-puasa)
 
-1. [Lailatul-Qodr](/lailatul-qodar) -- ref
+1. [Lailatul-Qodr](/lailatul-qodar)
 
 1. [Hukum Puasa: Perkara yang Menghilangkan Berkah Puasa](/2021/02/23/hukum-puasa-perkara-yang-menghilangkan-berkah-puasa) -- ref
 
