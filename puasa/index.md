@@ -55,13 +55,13 @@ permalink: /puasa
 
 1. [Hukum Puasa: Syarat Wajib dan Syarat Sah Puasa](/2021/02/23/hukum-puasa.html)
 
-1. [Hukum Puasa: Perkara yang Membatalkan Puasa](/2021/02/23/yang-membatalkan-puasa)
+1. [Hukum Puasa: Perkara yang Membatalkan Puasa](/2021/02/23/hukum-puasa-yang-membatalkan-puasa)
 
-1. [Hukum Puasa: Sengaja Membatalkan Puasa](/2021/02/23/hukum-puasa-sengaja-membatalkan-puasa.html) -- ref
+1. [Hukum Puasa: Sengaja Membatalkan Puasa](/2021/02/23/hukum-puasa-sengaja-membatalkan-puasa.html)
 
-1. [Nuzulul-Quran di Bulan Ramadhan](/nuzulul-quran) -- ref
+1. [Nuzulul-Quran di Bulan Ramadhan](/nuzulul-quran)
 
-1. [Hukum Puasa: Perkara yang Tidak Membatalkan Puasa](/2021/02/23/yang-tidak-membatalkan-puasa) -- ref
+1. [Hukum Puasa: Perkara yang Tidak Membatalkan Puasa](/2021/02/23/hukum-puasa-yang-tidak-membatalkan-puasa)
 
 1. [Hukum Puasa: Utang Puasa](/2021/02/23/utang-puasa) -- ref
 
@@ -139,13 +139,13 @@ permalink: /puasa
 
 	- Hukum Puasa
 
-		- [Hal-Hal yang Membatalkan Puasa](/2021/02/23/yang-membatalkan-puasa.html)
+		- [Hal-Hal yang Membatalkan Puasa](/2021/02/23/hukum-puasa-yang-membatalkan-puasa.html)
 
-		- [Hal-hal yang Tidak Membatalkan Puasa](/2021/02/23/yang-tidak-membatalkan-puasa)
+		- [Hal-hal yang Tidak Membatalkan Puasa](/2021/02/23/hukum-puasa-yang-tidak-membatalkan-puasa)
 
 		- [Sengaja Membatalkan Puasa](/2021/02/23/hukum-puasa-sengaja-membatalkan-puasa.html)
 
-		- [Utang Puasa](/utang#utang-puasa)
+		- [Utang Puasa](/2021/02/23/utang-puasa)
 
 		- Mengqodho Puasa atau Mengganti Puasa
 
