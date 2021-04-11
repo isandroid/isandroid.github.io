@@ -51,7 +51,7 @@ permalink: /puasa
 
 1. [Keutamaan Akhlak Mulia (Bagian II)](/2021/02/23/keutamaan-keutamaan-akhlak-mulia-02)
 
-1. [I’tikaf](/itikaf)
+1. [Hal-Hal Berkenaan dengan I’tikaf](/itikaf)
 
 1. [Hukum Puasa: Syarat Wajib dan Syarat Sah Puasa](/2021/02/23/hukum-puasa.html)
 
@@ -63,7 +63,7 @@ permalink: /puasa
 
 1. [Hukum Puasa: Perkara yang Tidak Membatalkan Puasa](/2021/02/23/hukum-puasa-yang-tidak-membatalkan-puasa)
 
-1. [Hukum Puasa: Utang Puasa](/2021/02/23/utang-puasa) -- ref
+1. [Hukum Puasa: Utang Puasa](/2021/02/23/utang-puasa)
 
 1. [Lailatul-Qodr](/lailatul-qodar) -- ref
 
