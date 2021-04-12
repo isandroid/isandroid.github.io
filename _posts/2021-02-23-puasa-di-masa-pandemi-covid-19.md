@@ -19,7 +19,7 @@ Pandemi Covid-19 berdampak sangat dalam di seluruh sisi kehidupan, bukan saja di
 >
 > Walhasil, dengan memperhatikan berbagai pendapat yang berbeda, kesimpulannya adalah tidak ada kerugiannya tetap berpuasa. Ya, jika ada sedikit saja keraguan (karena adanya penyakit atau gejala-gejala Covid-19), maka tinggalkan puasa. [[^khotbah_20200424]]
 
-Selain itu, Apa saja nasehat-nasehat khalifah ketika pandemi covid-19 ini agar kita tetap bertahan? Simak uraian berikut. 
+Selain itu, Apa saja nasehat-nasehat khalifah dan Amir Nasional ketika pandemi covid-19 ini agar kita tetap bertahan? Simak uraian berikut. 
 
 ### Fokus kepada Ibadah
 
@@ -28,6 +28,28 @@ Huzur V (atba) menasehatkan,
 > (Ketika ada perintah *lockdown*) Kita pun hendaknya tetap meningkatkan upaya-upaya untuk tetap melaksanakan shalat berjamaah dan daras (di rumah). Ajarkanlah hal-hal mendasar kepada anak-anak. [[^khotbah_20200424]]
 
 [^khotbah_20200424]: [Khotbah Jumat Hadhrat Mirza Masroor Ahmad, Khalifatul Masih al-Khaamis (atba) pada 24 April 2020 di Masjid Mubarak, Tilford, UK](https://ahmadiyah.id/puasa-ramadhan-di-tengah-suasana-pandemik-corona.html)
+
+Amir Nasional Jemaat Ahmadiyah Indonesia memberikan arahan ibadah di bulan Ramadhan 1442 H/2021 M, yaitu:
+
+1. Sebagaimana anjuran pemerintah bahwa Shalat Fardhu lima waktu, Shalat Jum’at, Shalat Tarawih, Tadarus Al-Qur’an, iktikaf dan Shalat ‘Idul Fitri dilaksanakan dengan pembatasan. Jumlah kehadiran paling banyak 50 persen dari kapasitas Masjid dan atau Shalat Center dengan menerapkan protokol kesehatan secara ketat.
+
+2. Pengurus dan atau satgas yang ditunjuk memastikan penerapan protokol kesehatan tersebut, seperti:
+
+	- Melakukan disinfektan secara teratur di area masjid.
+
+	- Menyediakan sarana cuci tangan dan atau hand sanitizer di pintu masuk masjid.
+
+	- Memeriksa suhu dan memastikan jamaah selalu menggunakan masker.
+
+	- Menjaga jarak shaf minimal 1,5 meter.
+
+	- Tidak berkerumun sebelum dan setelah shalat berjamaah.
+
+3. Jika dikarenakan kapasitas Masjid dan atau Shalat Center tidak memungkinkan untuk menampung jamaah, maka pengurus harus mengaturkan agar pelaksanaannya dilaksanakan di rumah masing- masing.
+
+4. Memperbanyak dan meningkatkan kualitas ibadah serta senantiasa memanjatkan do’a-do’a untuk keselamatan dan keamanan bangsa serta untuk kemajuan jemaat. [[^surat_105_AMIR_IV_2021_11_Syahadat_1399HS]]
+
+[^surat_105_AMIR_IV_2021_11_Syahadat_1399HS]: Surat Pengurus Besar JAI No. 105/AMIR/IV/2021 11 Syahadat 1399 HS tentang Petunjuk Pelaksanaan Ibadah di Bulan Ramadhan
 
 {% comment %}
 ### Menyadari Kewajiban dan Tanggung Jawab kita
