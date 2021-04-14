@@ -69,7 +69,7 @@ permalink: /puasa
 
 1. [Hukum Puasa: Perkara yang Menghilangkan Pahala Puasa](/2021/02/23/hukum-puasa-perkara-yang-menghilangkan-pahala-puasa)
 
-1. [Pengorbanan: Zakat Fitrah](/zakat-fitrah) -- ref
+1. [Pengorbanan: Zakat Fitrah](/zakat-fitrah)
 
 1. [Pengorbanan: Eid Fund](/eid-fund) -- ref
 

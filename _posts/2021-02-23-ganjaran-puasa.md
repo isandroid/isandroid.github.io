@@ -92,6 +92,8 @@ Diriwayatkan dalam Hadits Jami' At-Tirmidzi, Rasulullah Shallallaahu 'alaihi was
 
 [^hds-821ce1c1-99bf-4fa0-b55e-4b7074e48607]: [H.R. At-Tirmidzi, Kitab Puasa, Bab Keutamaan bulan ramadhan](/ref/hds-821ce1c1-99bf-4fa0-b55e-4b7074e48607)
 
+Berkenaan dengan tafsir "**syetan di belenggu di bulan Ramadhan**", Silakan disimak [di sini](/2021/04/14/apa-arti-setan-dibelenggu-di-bulan-ramadhan.html).
+
 ### Puasa Menjadi Perisai dari Azab Api Neraka
 
 Dari Hadits Sunan Ibnu Majah diriwayatkan bahwa Rasulullah shallallahu 'alaihi wasallam bersabda, 
