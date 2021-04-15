@@ -27,14 +27,7 @@ layout: beranda
 
 <i class="fa fa-question-circle" aria-hidden="true"></i> [Tanya-Jawab tentang Puasa](/tanya-jawab/puasa/)
 
-### Artikel Istimewa
-
-<i class="fa fa-money" aria-hidden="true"></i> [Utang](/utang)
-
-<i class="fa fa-users" aria-hidden="true"></i> [Pardah](/islam/pardah)
-
-<i class="fa fa-video-camera" aria-hidden="true"></i> [Tutorial Mendapatkan Terjemah Khotbah Huzur dalam Bahasa Indonesia 'Versi Lengkap'](/2021/03/27/terjemah-khotbah-huzur-bahasa-indonesia-video-suara-subtitle.html)
-
+{% comment %}
 ### Hitungan Mundur Bulan Ramadhan (perkiraan)
 
 <!-- Display the countdown timer in an element -->
@@ -78,7 +71,6 @@ var x = setInterval(function() {
 }, 1000);
 </script>
 
-{% comment %}
 ### Artikel tentang Puasa
 
 {% for tag in site.tags %}

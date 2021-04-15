@@ -71,7 +71,7 @@ permalink: /puasa
 
 1. [Pengorbanan: Zakat Fitrah](/zakat-fitrah)
 
-1. [Pengorbanan: Eid Fund](/eid-fund) -- ref
+1. [Pengorbanan: Eid Fund](/eid-fund)
 
 1. [Idul Fitri](/idul-fitri) -- ref
 

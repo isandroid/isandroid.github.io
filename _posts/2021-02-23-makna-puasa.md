@@ -58,8 +58,6 @@ Dari Kamus Al-Ma'any tertulis beberapa arti kata _shooma_ [[^almaany_shooma]], a
 
 - Puasa (dalam pengertian syariat): Menahan dari makanan dan minuman dari fajar hingga matahari terbenam dengan niat
 
-- Dia berpuasa (Bahasa) Persia: Dia berdiri dan tidak sombong atau marah atau arogan
-
 ### Kata Puasa dalam Alquran
 
 Dalam Alquran dengan pencarian dengan akar kata dan showmun didapatkan beberapa ayat:

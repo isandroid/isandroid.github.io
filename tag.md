@@ -3,7 +3,7 @@ title: Tag-tag
 layout: default
 ---
 
-## Tag-Tag Blog
+### Tag-Tag Blog
 
 {% for tag in site.tags %}
   <h5>{{ tag[0] }}</h5>
@@ -13,3 +13,9 @@ layout: default
     {% endfor %}
   </ol>
 {% endfor %}
+
+### Artikel Istimewa
+
+<i class="fa fa-money" aria-hidden="true"></i> [Utang](/utang)
+
+<i class="fa fa-users" aria-hidden="true"></i> [Pardah](/islam/pardah)

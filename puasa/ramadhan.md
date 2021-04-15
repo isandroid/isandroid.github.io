@@ -27,10 +27,6 @@ Artinya:
 
 - Hujan datang sebelum musim gugur dan bumi menjadi panas
 
-- Berkedip, Tunggu sebentar dan kemudian pergi
-
-- Dia mengawasinya di (suatu) lahan, yang merupakan tanah yang terlindungi dari panasnya matahari.
-
 - Puasa Ramadhan
 
 ### Makna Ramadhan
