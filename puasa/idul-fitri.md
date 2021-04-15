@@ -9,7 +9,9 @@ permalink: /idul-fitri
 
 ### Mengapa Idul Fitri Dirayakan?
 
-Seperti namanya, secara bahasa Idul Fitri berarti "hari raya berbuka puasa." Ini adalah perayaan yang menandai akhir bulan suci Ramadhan dan dilaksanakan pada 1 Syawal. Hari yang menggembirakan ini berfungsi sebagai hadiah bagi mereka yang merayakan puasa dan menyibukkan diri dalam beribadah kepada Allah selama bulan Ramadhan yang beberkah. []
+Seperti namanya, secara bahasa Idul Fitri berarti "hari raya berbuka puasa." Ini adalah perayaan yang menandai akhir bulan suci Ramadhan dan dilaksanakan pada 1 Syawal. Hari yang menggembirakan ini berfungsi sebagai hadiah bagi mereka yang merayakan puasa dan menyibukkan diri dalam beribadah kepada Allah selama bulan Ramadhan yang beberkah. [[^alislam_faq_ramadhan_idulfitri]]
+
+[^alislam_faq_ramadhan_idulfitri]: [Alislam.org: Pertanyaan tentang ramadhan dan idul fitri](https://www.alhakam.org/question-related-to-ramadan-and-eid-ul-fitr/)
 
 ### Apa yang Dilakukan ketika Hari Idul Fitri?
 
@@ -19,13 +21,17 @@ Di akhir Ramadhan, seseorang hendaknya memulai hari mereka dengan menjalankan sh
 عَنْ أَنَسِ بْنِ مَالِكٍ قَالَ كَانَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ لَا يَغْدُو يَوْمَ الْفِطْرِ حَتَّى يَأْكُلَ تَمَرَاتٍ ... وَيَأْكُلُهُنَّ وِتْرًا
 </p>
 
-Dari Anas bin Malik berkata, "Pada hari raya Rasulullah shallallahu 'alaihi wasallam tidak berangkat untuk melaksanakan shalat hingga beliau makan beberapa butir kurma." ... "Beliau makan beberapa kurma dengan bilangan ganjil." (H.R. Bukhari) []
+Dari Anas bin Malik berkata, "Pada hari raya Rasulullah shallallahu 'alaihi wasallam tidak berangkat untuk melaksanakan shalat hingga beliau makan beberapa butir kurma." ... "Beliau makan beberapa kurma dengan bilangan ganjil." (H.R. Bukhari) [[^bukhari_900]]
+
+[^bukhari_900]: [H.R. Al-Bukhari, Kitab Jum'at, Bab Makan Sebelum Keluar Shalat pada Hari Raya Fithri](https://www.hadits.id/hadits/bukhari/900)
 
 <p class="arab">
  عَنْ جَابِرِ بْنِ عَبْدِ اللَّهِ رَضِيَ اللَّهُ عَنْهُمَا قَالَ كَانَ النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ إِذَا كَانَ يَوْمُ عِيدٍ خَالَفَ الطَّرِيقَ
 </p>
 
-Dari Jabir bin 'Abdullah radliallahu 'anhuma, ia berkata, "Jika Rasulullah shallallahu 'alaihi wasallam shalat 'Id, beliau mengambil jalan yang berbeda (antara berangkat dan kembali)." (H.R. Bukhari) []
+Dari Jabir bin 'Abdullah radliallahu 'anhuma, ia berkata, "Jika Rasulullah shallallahu 'alaihi wasallam shalat 'Id, beliau mengambil jalan yang berbeda (antara berangkat dan kembali)." (H.R. Bukhari) [[^bukhari_933]]
+
+[^bukhari_933]: [H.R. Al-Bukhari, Kitab Jum'at, Bab Melewati Jalan Yang Berbeda Antara Berangkat dan Kembali dari Shalat Hari Raya](https://www.hadits.id/hadits/bukhari/933)
 
 ### Bagaimana Cara Melaksanakan Shalat Id?
 
@@ -39,13 +45,17 @@ Diriwayatkan,
 عَنْ كَثِيرِ بْنِ عَبْدِ اللَّهِ عَنْ أَبِيهِ عَنْ جَدِّهِ أَنَّ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ كَبَّرَ فِي الْعِيدَيْنِ فِي الْأُولَى سَبْعًا قَبْلَ الْقِرَاءَةِ وَفِي الْآخِرَةِ خَمْسًا قَبْلَ الْقِرَاءَةِ
 </p>
 
-Dari Katsir bin Abdullah dari ayahnya dari kakeknya bahwa Nabi Shallahu 'alaihi wa sallam bertakbir dalam dua shalat Ied, pada raka'at pertama tujuh kali sebelum membaca ayat dan pada raka'at kedua lima kali sebelum membaca ayat. (H.R. Tirmidzi) []
+Dari Katsir bin Abdullah dari ayahnya dari kakeknya bahwa Nabi Shallahu 'alaihi wa sallam bertakbir dalam dua shalat Ied, pada raka'at pertama tujuh kali sebelum membaca ayat dan pada raka'at kedua lima kali sebelum membaca ayat. (H.R. Tirmidzi) [[^tirmidzi_492]]
+
+[^tirmidzi_492]: [H.R. At-Tirmidzi, Kitab Jum'at, Bab Bertakbir ketika kedua hari raya](https://www.hadits.id/hadits/tirmidzi/492)
 
 <p class="arab">
 عَنْ عَبْدِ اللَّهِ بْنِ عُمَرَ أَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ كَانَ يُصَلِّي فِي الْأَضْحَى وَالْفِطْرِ ثُمَّ يَخْطُبُ بَعْدَ الصَّلَاةِ
 </p>
 
-dari 'Abdullah bin 'Umar bahwa Rasulullah shallallahu 'alaihi wasallam melaksanakan shalat 'Idul Adlha dan 'Idul Fitri kemudian berkhutbah setelah shalat." (H.R. Bukhari) []
+dari 'Abdullah bin 'Umar bahwa Rasulullah shallallahu 'alaihi wasallam melaksanakan shalat 'Idul Adlha dan 'Idul Fitri kemudian berkhutbah setelah shalat." (H.R. Bukhari) [[^bukhari_904]]
+
+[^bukhari_904]: [H.R. Al-Bukhari, Kitab Jum'at, Bab Berjalan Kaki atau Berkendaraan Menuju Shalat Hari Raya dan Shalat Dilaksanakan Sebelum Khuthbah Tanpa Adzan dan Iqamah](https://www.hadits.id/hadits/bukhari/904)
 
 ### Apakah Shalat Idul Fitri itu Wajib?
 
@@ -59,4 +69,6 @@ Mengingat pentingnya Idul Fitri, Hazrat Khalifatul Masih V atba bersabda,
 
 > “Hari ini, baik tua maupun muda, pria atau wanita telah berkumpul bersama karena hari ini adalah sangat penting. Islam telah menetapkan hari Idul Fitri sebagai hari kebahagiaan di mana kaum Islam harus bergabung bersama dengan orang yang mereka cintai…
 >
-> “Hari ini, jika Muslim Ahmadi ingin merayakan Idul Fitri dalam arti yang sebenarnya, maka mereka hendaknya berusaha mendapatkan berkah Idul Fitri yang sejati dengan membawa reformasi akhlak, mereka juga harus melakukan segala upaya untuk membebaskan dunia dari ketidakadilan dan harus terlibat dengan sungguh-sungguh dalam doa untuk membebaskan dunia Muslim dari kekacauan dan masalah yang sedang terjadi. " (Khotbah Idul Fitri, Masjid Baitul Futuh, London, 19 Juli 2015) []
+> “Hari ini, jika Muslim Ahmadi ingin merayakan Idul Fitri dalam arti yang sebenarnya, maka mereka hendaknya berusaha mendapatkan berkah Idul Fitri yang sejati dengan membawa reformasi akhlak, mereka juga harus melakukan segala upaya untuk membebaskan dunia dari ketidakadilan dan harus terlibat dengan sungguh-sungguh dalam doa untuk membebaskan dunia Muslim dari kekacauan dan masalah yang sedang terjadi. " (Khotbah Idul Fitri, Masjid Baitul Futuh, London, 19 Juli 2015) [[^alislam_faq_ramadhan_idulfitri]]
+
+### Catatan Kaki

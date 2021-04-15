@@ -73,7 +73,7 @@ permalink: /puasa
 
 1. [Pengorbanan: Eid Fund](/eid-fund)
 
-1. [Idul Fitri](/idul-fitri) -- ref
+1. [Idul Fitri](/idul-fitri)
 
 1. [Hukum Puasa: Keringanan Puasa](/2021/02/23/hukum-puasa-keringanan-puasa)
 
