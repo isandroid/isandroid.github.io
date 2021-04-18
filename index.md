@@ -17,7 +17,7 @@ layout: beranda
 
 <i class="fa fa-moon-o" aria-hidden="true"></i> [Islam](/islam/)
 
-<i class="fa fa-flag-o" aria-hidden="true"></i> [Puasa](/puasa) (proses pelengkapan referensi...)
+<i class="fa fa-flag-o" aria-hidden="true"></i> [Puasa](/puasa)
 
 <i class="fa fa-bookmark" aria-hidden="true"></i> [Referensi Internal](/ref/)
 
