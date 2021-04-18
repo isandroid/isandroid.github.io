@@ -209,4 +209,42 @@ Ini berdasarkan riwayat,
 
 [^dawud_749]: [H.R. Abu Dawud, Kitab Shalat, Bab Doa dalam shalat](https://www.hadits.id/hadits/dawud/749)
 
+### QS Al-Insyiqooq [84] ayat 9 (dengan basmallah)
+
+Ketika dibacakan ayat,
+
+<p class="quran">
+فَسَوۡفَ یُحَاسَبُ حِسَابًا یَّسِیۡرًا ۙ﴿۹﴾
+</p>
+
+"Maka segera ia akan dihisab dengan penghisaban yang mudah."
+
+maka bacalah doa,
+
+<p class="arab">
+اللَّهُمَّ حَاسِبْنِي حِسَابًا يَسِيرًا
+</p>
+
+"Yaa Allah, hisablah aku dengan hisab yang mudah"
+
+Ini sesuai dengan riwayat-riwayat berikut,
+
+<p class="arab">
+عَنْ عَائِشَةَ قَالَتْ سَمِعْتُ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَقُولُ فِي بَعْضِ صَلَاتِهِ اللَّهُمَّ حَاسِبْنِي حِسَابًا يَسِيرًا فَلَمَّا انْصَرَفَ قُلْتُ يَا نَبِيَّ اللَّهِ مَا الْحِسَابُ الْيَسِيرُ قَالَ أَنْ يَنْظُرَ فِي كِتَابِهِ فَيَتَجَاوَزَ عَنْه إِنَّهُ مَنْ نُوقِشَ الْحِسَابَ يَوْمَئِذٍ يَا عَائِشَةُ هَلَكَ وَكُلُّ مَا يُصِيبُ الْمُؤْمِنَ يُكَفِّرُ اللَّهُ عَزَّ وَجَلَّ بِهِ عَنْه حَتَّى الشَّوْكَةُ تَشُوكُهُ
+</p>
+
+...dari Aisyah (ra) berkata; Saya telah mendengar Nabi Shallallahu'alaihiwasallam pada sebagian shalatnya membaca: "Ya Allah hisablah aku dengan hisab yang mudah." Ketika beliau berpaling saya bekata; "Wahai Nabi Allah, apa yang dimaksud dengan hisab yang mudah?." Beliau bersabda: "Seseorang yang Allah melihat kitabnya lalu memaafkannya. Karena orang yang diperdebatkan hisabnya pada hari itu, pasti celaka wahai Aisyah, dan setiap musibah yang menimpa orang beriman Allah akan menghapus (dosanya) karenanya, bahkan sampai duri yang menusuknya." (H.R. Ahmad) [[^ahmad_23082]]
+
+[^ahmad_23082]: [H.R. Ahmad, hadits nomor 23082](https://carihadis.com/Musnad_Ahmad/23082)
+
+dan riwayat,
+
+<p class="arab">
+حَدَّثَتْنِي عَائِشَةُ أَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ لَيْسَ أَحَدٌ يُحَاسَبُ يَوْمَ الْقِيَامَةِ إِلَّا هَلَكَ فَقُلْتُ يَا رَسُولَ اللَّهِ أَلَيْسَ قَدْ قَالَ اللَّهُ تَعَالَى { فَأَمَّا مَنْ أُوتِيَ كِتَابَهُ بِيَمِينِهِ فَسَوْفَ يُحَاسَبُ حِسَابًا يَسِيرًا } فَقَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ إِنَّمَا ذَلِكِ الْعَرْضُ وَلَيْسَ أَحَدٌ يُنَاقَشُ الْحِسَابَ يَوْمَ الْقِيَامَةِ إِلَّا عُذِّبَ
+</p>
+
+telah menceritakan kepadaku 'Aisyah, bahwasanya Rasulullah shallallahu 'alaihi wasallam bersabda: "Tidak seorang pun yang di (paparkan) hisabnya melainkan akan celaka." Maka saya bertanya; 'Wahai Rasulullah, Bukankah Allah berfirman; 'barangsiapa yang diberi kitabnya dari sebelah kanan, maka ia menghadapi hisab yang mudah?'  Rasulullah shallallahu 'alaihi wasallam bersabda: "Yang dimaksudkan ayat itu adalah saat amal diperlihatkan, dan tidaklah seseorang hisabnya diperdebatkan, melainkan ia akan disiksa." (H.R. Bukhari) [[^bukhari_6056]]
+
+[^bukhari_6056]: [H.R. Al-Bukhari, Kitab Hal-hal yang melunakkan hati, Bab Siapa yang hisabnya diperdebatkan, ia disiksa](https://www.hadits.id/hadits/bukhari/6056)
+
 ### Catatan Kaki
