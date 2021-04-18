@@ -77,7 +77,7 @@ permalink: /puasa
 
 1. [Hukum Puasa: Keringanan Puasa](/2021/02/23/hukum-puasa-keringanan-puasa)
 
-1. [Hukum Puasa: Perjalanan ketika Puasa](/2021/02/23/hukum-puasa-musafir-perjalanan-ketika-puasa) -- ref
+1. [Hukum Puasa: Perjalanan ketika Puasa](/2021/02/23/hukum-puasa-musafir-perjalanan-ketika-puasa)
 
 1. [Hal-Hal yang Berkaitan dengan Fidyah](/fidyah) -- ref
 
