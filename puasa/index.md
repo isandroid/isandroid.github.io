@@ -81,12 +81,12 @@ permalink: /puasa
 
 1. [Hal-Hal yang Berkaitan dengan Fidyah](/fidyah)
 
-1. [Keutamaan Umrah di Bulan Ramadhan](/2021/02/23/keutaman-umrah-di-bulan-ramadhan) -- ref
+1. [Keutamaan Umrah di Bulan Ramadhan](/2021/02/23/keutaman-umrah-di-bulan-ramadhan)
 
 
 ### Tanya-Jawab Puasa
 
-- [Tanya-Jawab tentang Puasa](/tanya-jawab/puasa/)
+[Tanya-Jawab tentang Puasa](/tanya-jawab/puasa/)
 
 ### Artikel tentang Puasa
 
