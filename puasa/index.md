@@ -79,7 +79,7 @@ permalink: /puasa
 
 1. [Hukum Puasa: Perjalanan ketika Puasa](/2021/02/23/hukum-puasa-musafir-perjalanan-ketika-puasa)
 
-1. [Hal-Hal yang Berkaitan dengan Fidyah](/fidyah) -- ref
+1. [Hal-Hal yang Berkaitan dengan Fidyah](/fidyah)
 
 1. [Keutamaan Umrah di Bulan Ramadhan](/2021/02/23/keutaman-umrah-di-bulan-ramadhan) -- ref
 
