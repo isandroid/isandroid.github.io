@@ -66,6 +66,12 @@ Diriwayatkan dalam Hadits Sahih Al-Bukhori terdapat riwayat, Nabi shallallahu 'a
 
 ### Diampuni Dosa-dosanya
 
+Allah Ta'ala berfirman bahwa orang yang berpuasa akan diberikan ganjaran yang besar dan ampunan dari Allah Ta'ala,
+
+<p class="quran">اِنَّ الۡمُسۡلِمِیۡنَ وَ الۡمُسۡلِمٰتِ وَ الۡمُؤۡمِنِیۡنَ وَ الۡمُؤۡمِنٰتِ وَ الۡقٰنِتِیۡنَ وَ الۡقٰنِتٰتِ وَ الصّٰدِقِیۡنَ وَ الصّٰدِقٰتِ وَ الصّٰبِرِیۡنَ وَ الصّٰبِرٰتِ وَ الۡخٰشِعِیۡنَ وَ الۡخٰشِعٰتِ وَ الۡمُتَصَدِّقِیۡنَ وَ الۡمُتَصَدِّقٰتِ وَ الصَّآئِمِیۡنَ وَ الصّٰٓئِمٰتِ وَ الۡحٰفِظِیۡنَ فُرُوۡجَہُمۡ وَ الۡحٰفِظٰتِ وَ الذّٰکِرِیۡنَ اللّٰہَ کَثِیۡرًا وَّ الذّٰکِرٰتِ ۙ اَعَدَّ اللّٰہُ لَہُمۡ مَّغۡفِرَۃً وَّ اَجۡرًا عَظِیۡمًا ﴿۳۶﴾</p>
+
+Sesungguhnya laki-laki dan perempuan yang berserah diri, laki-laki dan perempuan yang beriman, laki-laki dan perempuan yang patuh, laki-laki dan perempuan yang benar, laki-laki dan perempuan yang sabar, laki-laki dan perempuan yang merendahkan diri, laki-laki dan perempuan yang bersedekah, **laki-laki dan perempuan yang berpuasa,** laki-laki dan perempuan yang menjaga kesuciannya, serta laki-laki dan perempuan yang banyak mengingat Allah, **Allah menyediakan bagi mereka semua ampunan dan ganjaran yang besar.** [QS Al-Ahzab [33] ayat 36](/ref/qrn-033-036)
+
 Diriwayatkan dalam Sahih Bukhari, Nabi shallallahu 'alaihi wasallam bersabda: 
 
 > "...dan barangsiapa yang melaksanakan shaum Ramadhan karena iman kepada Allah dan mengharapkan pahala (hanya dari-Nya) maka akan diampuni dosa-dosa yang telah lalu". (H.R. Bukhari) [[^hds-dd6a689d-b2e8-4d17-897d-a46a09558039]]
@@ -77,6 +83,40 @@ Dalam hadits riwayat Muslim, Rasulullah saw bersabda,
 > "...Ramadhan ke Ramadhan berikutnya adalah penghapus untuk dosa antara keduanya apabila dia menjauhi dosa besar." (H.R. Muslim) [[^hds-b3495a1a-ffe4-49e3-bf8f-60c086b83dfd]]
 
 [^hds-b3495a1a-ffe4-49e3-bf8f-60c086b83dfd]: [H.R. Muslim, Kitab Thaharah, Bab Shalat lima waktu, jumat hingga jumat berikutnya dan ramadhan hingga ramadhan](/ref/hds-b3495a1a-ffe4-49e3-bf8f-60c086b83dfd)
+
+### Dikabulkan doa-doanya
+
+Allah Ta'ala berfirman diantara ayat-ayat puasa, bahwa Dia akan dekat dengan hamba-Nya dan mengabulkan doa-doa.
+
+<p class="quran">
+وَ اِذَا سَاَلَکَ عِبَادِیۡ عَنِّیۡ فَاِنِّیۡ قَرِیۡبٌ ؕ اُجِیۡبُ دَعۡوَۃَ الدَّاعِ اِذَا دَعَانِ ۙ فَلۡیَسۡتَجِیۡبُوۡا لِیۡ وَ لۡیُؤۡمِنُوۡا بِیۡ لَعَلَّہُمۡ یَرۡشُدُوۡنَ ﴿۱۸۷﴾
+</p>
+
+Artinya: Dan apabila hamba-hamba-Ku bertanya kepada engkau tentang Aku maka *katakanlah* sesungguhnya Aku
+dekat. Aku mengabulkan doadoa orang yang berdoa apabila ia berdoa kepada-Ku, karena itu hendaklah mereka menyambut seruan-Ku dan beriman kepadaKu supaya mereka mendapat petunjuk. ([QS Al-Baqarah [2]: 187 dengan basmallah](/ref/qrn-002-187))
+
+Keterangan: Ketika orang-orang beriman menyadari keberkatan bulan Ramadhan
+dan berpuasa di dalamnya, mereka tentu saja berhasrat memperoleh sebanyak
+mungkin faedah rohani daripadanya. Kepada kerinduan jiwa orang mukmin
+itulah ayat ini memberikan jawaban. 
+
+Kata-kata “beriman kepada-Ku,” tidak mengacu kepada beriman
+kepada wujud Tuhan; sebab, hal itu telah termasuk dalam anak kalimat
+sebelumnya, “hendaklah mereka menyambut seruan-Ku; karena, mustahil
+orang akan menyambut seruan Tuhan dan menaati perintah-Nya, tanpa
+percaya akan adanya wujud Tuhan. Jadi, kata-kata, beriman kepada-Ku,
+tertuju kepada kepercayaan bahwa Allah Swt mendengar dan mengabulkan
+doa hamba-hamba-Nya.
+
+Selain itu, Rasulullah (saw) bersabda,
+
+<p class="arab">
+عَنْ أَبِي هُرَيْرَةَ قَالَ قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ثَلَاثَةٌ لَا تُرَدُّ دَعْوَتُهُمْ الْإِمَامُ الْعَادِلُ وَالصَّائِمُ حَتَّى يُفْطِرَ وَدَعْوَةُ الْمَظْلُومِ يَرْفَعُهَا اللَّهُ دُونَ الْغَمَامِ يَوْمَ الْقِيَامَةِ وَتُفْتَحُ لَهَا أَبْوَابُ السَّمَاءِ وَيَقُولُ بِعِزَّتِي لَأَنْصُرَنَّكِ وَلَوْ بَعْدَ حِينٍ
+</p>
+
+…dari Abu Hurairah ia berkata, Rasulullah shallallahu ‘alaihi wasallam bersabda: “Ada tiga orang yang tidak akan ditolak do’anya; imam yang adil, orang yang berpuasa hingga berbuka dan do’a orang yang teraniaya. Allah akan mengangkatnya di bawah naungan awan pada hari kiamat, pintu-pintu langit akan dibukakan untuknya seraya berfirman: “Demi keagungan-Ku, sungguh Aku akan menolongmu meski setelah beberapa saat.” (H.R. Ibnu Majah) [[^bf6f5816-eb71-4017-96a3-0d16a2291180]]
+
+[^bf6f5816-eb71-4017-96a3-0d16a2291180]: [H.R. Ibnu Majah, Kitab Puasa, Orang yang berpuasa, doanya tidak ditolak](/ref/hds-bf6f5816-eb71-4017-96a3-0d16a2291180)
 
 ### Syetan dan Jin (dalam diri orang yang melakukan puasa) Dibelenggu
 
