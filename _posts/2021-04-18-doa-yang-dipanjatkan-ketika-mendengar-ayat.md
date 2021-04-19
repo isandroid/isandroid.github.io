@@ -45,7 +45,7 @@ Ketika dibaca ayat ini:
 اَلَیۡسَ ذٰلِکَ بِقٰدِرٍ عَلٰۤی اَنۡ یُّحۡیِۦَ الۡمَوۡتٰی ﴿٪۴۱﴾
 </p>
 
-“Maka perkataan yang manakah sesudah itu, yang akan mereka imani?”
+“Bukankah Dia berkuasa menghidupkan yang mati?”
 
 maka bacalah doa:
 
