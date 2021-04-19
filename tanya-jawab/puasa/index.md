@@ -40,7 +40,7 @@ Yang merupakan rukun puasa itu adalah:
 </div>
 </div>
 
-- Penjelasan tentang hal-hal yang membatalkan puasa, silakan baca [di sini](/2021/02/23/yang-membatalkan-puasa.html)
+- Penjelasan tentang hal-hal yang membatalkan puasa, silakan baca [di sini](/2021/02/23/hukum-puasa-yang-membatalkan-puasa.html)
 
 <div itemscope itemprop="mainEntity" itemtype="https://schema.org/Question" markdown="1">
 <h3 itemprop="name" id="apa-syarat-wajib-puasa">Apa saja syarat wajib puasa?</h3>
@@ -157,7 +157,7 @@ Beberapa hal yang membatalkan puasa, yaitu:
 
 - Keluar dari Islam (murtad).
 
-Penjelasan Selengkapnya, silakan baca [di sini](/2021/02/23/yang-membatalkan-puasa.html)
+Penjelasan Selengkapnya, silakan baca [di sini](/2021/02/23/hukum-puasa-yang-membatalkan-puasa.html)
 </div>
 </div>
 </div>
@@ -175,7 +175,7 @@ Jika seseorang sengaja membatalkan puasa, maka sebenarnya ia tidak bisa menggant
 
 - Memberi makan enam puluh orang miskin,
 
-Penjelasan selengkapnya, silakan baca [di sini](/2021/02/23/yang-membatalkan-puasa.html#berhubungan-suami-istri)
+Penjelasan selengkapnya, silakan baca [di sini](/2021/02/23/hukum-puasa-yang-membatalkan-puasa.html#berhubungan-suami-istri)
 </div>
 </div>
 </div>
@@ -192,7 +192,7 @@ Bagi suami-istri yang melakukan hubungan suami istri ketika puasa, maka Rasulull
 
 - Memberi makan enam puluh orang miskin,
 
-Penjelasan selengkapnya, silakan baca [di sini](/2021/02/23/yang-membatalkan-puasa.html#berhubungan-suami-istri)
+Penjelasan selengkapnya, silakan baca [di sini](/2021/02/23/hukum-puasa-yang-membatalkan-puasa.html#berhubungan-suami-istri)
 </div>
 </div>
 </div>

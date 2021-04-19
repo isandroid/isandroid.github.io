@@ -35,7 +35,7 @@ permalink: /puasa
 
 1. [Berbuka Puasa atau _Iftar_](/iftar)
 
-1. [Sunnah Bersedekah di Bulan Puasa](/2021/02/23/sedekah-di-bulan-puasa)
+1. [Sunnah Bersedekah di Bulan Puasa](/2021/02/23/sunnah-sedekah-di-bulan-puasa)
 
 1. [Hal-hal yang Harus Diperhatikan dalam Sedekah](/2021/02/23/hal-hal-yang-harus-diperhatikan-ketika-sedekah.html)
 
