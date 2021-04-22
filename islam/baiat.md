@@ -27,6 +27,19 @@ Baiat Setelah kewafatan Rasulullah saw
 
 * [Baiat di Saqifah](/ref/hds-9b5219ee-e217-4c79-8c94-3b6a7e5add57) (memilih Abu Bakar (ra) sebagai Khalifah)
 
+### Artikel tentang Baiat
+
+{% for tag in site.tags %}
+{% if tag contains "baiat" %}
+  <ol>
+  	{% assign sorted2 = tag[1] | sort: 'title' %}
+    {% for post in sorted2 %}
+      <li class="spasi"><a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+  </ol>
+{% endif %}
+{% endfor %}
+
 ### Bai'at dalam Jemaat Ahmadiyah
 
 [Jemaat Ahmadiyah](https://ahmadiyah.id) dengan karunia Allah Ta'ala telah mempunyai [Khalifah](/islam/khalifah) sebagai pemimpin atau Imam secara ruhani.
