@@ -14,16 +14,16 @@ Huzur V atba bersabda,
 
 Pada umumnya, kewajiban setiap ahmadi adalah harus berupaya untuk menyampaikan tablig suci itu di daerahnya masing-masing yang dia inginkan. Tapi Al Qur’an Karim menyebutkan satu golongan yang khusus juga, yang akan menyampaikan syi’ar Qur'an Karim. Pertama-tama, mereka (golongan itu) menuntut ilmu agama dan mewakafkan dirinya untuk menyebarkan ilmunya. Allah Ta'ala berfirman, 
 
-<p class=”quran”>
-وَلۡتَکُنۡ مِّنۡکُمۡ اُمَّۃٌ یَّدۡعُوۡنَ اِلَی الۡخَیۡرِ وَ یَاۡمُرُوۡنَ بِالۡمَعۡرُوۡفِ وَ یَنۡہَوۡنَ عَنِ الۡمُنۡکَرِ ؕ وَ اُولٰٓئِکَ ہُمُ الۡمُفۡلِحُوۡنَ ﴿۱۰۵﴾
+<p class="quran">
+وَلۡتَکُنۡ مِّنۡکُمۡ اُمَّۃٌ یَّدۡعُوۡنَ اِلَی الۡخَیۡرِ وَ یَاۡمُرُوۡنَ بِالۡمَعۡرُوۡفِ وَ یَنۡہَوۡنَ عَنِ الۡمُنۡکَرِ ؕ وَ اُولٰٓئِکَ ہُمُ الۡمُفۡلِحُوۡنَ ﴿۱۰۵﴾
 </p>
 
 “Dan hendaklah ada di antara kamu segolongan umat yang menyeru kepada kebajikan, menyuruh kepada yang ma'ruf dan mencegah dari yang munkar, merekalah orang-orang yang beruntung." (QS Ali Imran [3] : 105) 
 
 Selanjutnya Allah Ta’ala berfirman, 
 
-<p class=”quran”>
-وَ مَا کَانَ الۡمُؤۡمِنُوۡنَ لِیَنۡفِرُوۡا کَآفَّۃً ؕ فَلَوۡ لَا نَفَرَ مِنۡ کُلِّ فِرۡقَۃٍ مِّنۡہُمۡ طَآئِفَۃٌ لِّیَتَفَقَّہُوۡا فِی الدِّیۡنِ وَ لِیُنۡذِرُوۡا قَوۡمَہُمۡ اِذَا رَجَعُوۡۤا اِلَیۡہِمۡ لَعَلَّہُمۡ یَحۡذَرُوۡنَ ﴿۱۲۲﴾٪
+<p class="quran">
+وَ مَا کَانَ الۡمُؤۡمِنُوۡنَ لِیَنۡفِرُوۡا کَآفَّۃً ؕ فَلَوۡ لَا نَفَرَ مِنۡ کُلِّ فِرۡقَۃٍ مِّنۡہُمۡ طَآئِفَۃٌ لِّیَتَفَقَّہُوۡا فِی الدِّیۡنِ وَ لِیُنۡذِرُوۡا قَوۡمَہُمۡ اِذَا رَجَعُوۡۤا اِلَیۡہِمۡ لَعَلَّہُمۡ یَحۡذَرُوۡنَ ﴿۱۲۲﴾٪
 </p>
 
 Artinya: “tidak sepatutnya bagi mukminin itu pergi semuanya (ke medan perang). mengapa tidak pergi dari tiap-tiap golongan di antara mereka beberapa orang untuk memperdalam pengetahuan mereka tentang agama dan untuk memberi peringatan kepada kaumnya apabila mereka telah kembali kepadanya, supaya mereka itu dapat menjaga dirinya”. (At-Taubah [9]: 122) 
@@ -35,8 +35,8 @@ Begitu juga talim dan tarbiyat didalam intern kita sendiri pun adalah tugas yang
 Dengan karunia Allah Ta'ala, pada hari ini banyak sekali yang pengorbanannya patut mendapatkan penghormatan. Tapi dalam golongan ini hendaknya genap 100 persen dari orang-orang yang melakukan pengorbanan itu, yang suri tauladannya bisa menjadi penerang jalan (penunjuk jalan) bagi setiap anggota Ahmadi. Jangan berikan peluang (kepada orang-orang) untuk mengajukan keberatan/protes terhadap seorang Murabbi, Muballig, muallim, atau wakif zindegi manapun. Meskipun tidak mungkin sempurna 100 persen, karena (pada tabiat) sebagian orang terdapat kebiasaan suka memprotes, sehingga terus-menerus memprotes, dan memang mereka ingin memprotes, tapi sikap seorang muballigh harus sedemikian rupa sehingga setiap protes yang dilemparkan kepadanya menjadi tamparan bagi yang melontarkannya. 
 Hazrat Masih Mau’ud menerjemahkan ayat : 
 
-<p class=”quran”>
-… یَّدۡعُوۡنَ اِلَی الۡخَیۡرِ وَ یَاۡمُرُوۡنَ بِالۡمَعۡرُوۡفِ وَ یَنۡہَوۡنَ عَنِ الۡمُنۡکَرِ ؕ...
+<p class="quran">
+… یَّدۡعُوۡنَ اِلَی الۡخَیۡرِ وَ یَاۡمُرُوۡنَ بِالۡمَعۡرُوۡفِ وَ یَنۡہَوۡنَ عَنِ الۡمُنۡکَرِ ؕ...
 </p>
 
 Sebagai berikut,"Mereka yang menyeru kepada kebaikan, dan menggunakan *amar ma'ruf* dan *nahii munkar* sebagai strateginya. Sekarang perhatikanlah, siapakah yang bisa menyeru kepada kebaikan? Dialah tentunya yang memiliki perhatian untuk mengamalkan kebaikan-kebaikan itu. Seorang yang bodoh dan jahil masih bisa dimaafkan ketika berbuat suatu kesalahan, tapi sangatlah menakutkan jika seorang yang berilmu, yang biasa memberikan nasihat kepada orang lain, tapi dia tidak meinperhatikan kelemahan-kelemahannya sendiri. Jadi orang memiliki ilmu agama, hendaknya banyak merenung, sebagaimana Hazrat Masih Mau’ud (as) bersabda," Jadikanlah *amar ma'ruf* dan *nahii anil munkar* sebagai strategi kita! Perintah untuk mengamalkan yang ma'ruf bisa disampaikan, dan keburukan bisa dicegah, jika dia memiliki keberanian yang sangat besar, kerendah hatian, kepedulian terhadap semangat (*jazbaat*) orang lain, terbiasa menghadapi kesulitan, dan berupaya untuk sebisa mungkin menjadikan rumah tangga sebagai pemandangan surgawi, karena didalamnya (rumah tangga), istri seorang wakif zindegi memiliki peranan penting. Untuk itu, seorang istri waqif zindegi juga jangan pernah menuntut sesuatu yang bisa merepotkan sang suami, yakni seorang *wakif zindegi*. Yang terpenting adalah harus lebih banyak berdoa, beribadah, dan mengamalkan nawafil, karena dengan mengharapkan kekuatan tangan kita saja tidak akan bisa mencondongkan seseorang kepada kebaikan, tidak juga bisa mencegah seseorang dari melakukan keburukan. Untuk itu perlu pertolongan Allah Ta'ala. Sedangkan dengan doalah pertolongan (Allah "Ta'ala) bisa diraih.
