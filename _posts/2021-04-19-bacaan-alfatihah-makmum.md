@@ -19,7 +19,7 @@ Rasulullah (saw) memerintahkan kita semua untuk membaca QS Al-Fatihah ketika sha
 
 dari 'Ubadah bin Ash Shamit dari Nabi Shallallahu'alaihi wasallam, beliau Shallallallahu'alaihi wasallam bersabda: "Tidak sah shalat seseorang yang tidak membaca Al Fatihah." (H.R. An-Nasai) [[^nasai_901]]
 
-[^nasai_901]: [H.R. An-Nasa'i, Kitab Iftitah (Pembukaan), Bab Kewajiban membaca alfatihah ketika shalat](hadits.id/hadits/nasai/901)
+[^nasai_901]: [H.R. An-Nasa'i, Kitab Iftitah (Pembukaan), Bab Kewajiban membaca alfatihah ketika shalat](https://www.hadits.id/hadits/nasai/901)
 
 Pernah satu kali makmum ada yang membaca ayat Alquran mengikuti bacaan Rasulullah (saw), termasuk mengikuti membaca surat Alfatihah. Namun Rasulullah (saw) melarang membaca yang lainnya kecuali membaca surat Al-Fatihah. Diriwayatkan,
 
