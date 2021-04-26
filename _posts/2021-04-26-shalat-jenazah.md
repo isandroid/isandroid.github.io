@@ -39,7 +39,21 @@ maka Imam hendaknya berdiri di hadapan punggangnya.
 
 - Sesudah berbaris menghadap Kiblat, lalu mengucapkan takbir pertama (Allahu akbar) serta angkat kedua tangan lalu diletakkan di atas pusat, kemudian membaca apa yang biasa dibaca dalam shalat sehari-hari, disambung dengan Al-Fatihah dan ayat, baru diucapkan takbir lagi.
 
-- Setelah takbir kedua, hendaklah membaca Salawat kepada Nabi Muhammad (saw) kemudian takbir yang ketiga kalinya.
+- Setelah takbir kedua, hendaklah membaca Salawat kepada Nabi Muhammad (saw)
+
+<p class="arab">
+اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ كَمَا صَلَّيْتَ عَلَى إِبْرَاهِيْمَ وَعَلَى آلِ إِبْرَاهِيْمَ إِنَّكَ حَمِيْدٌ مَجِيْدٌ
+</p>
+
+<p class="arab">
+اللَّهُمَّ بَارِكْ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ كَمَا بَارَكْتَ عَلَى إِبْرَاهِيْمَ وَعَلَى آلِ إِبْرَاهِيْمَ إِنَّكَ حَمِيْدٌ مَجِيْدٌ
+</p>
+
+"Yaa Allah berilah shalawat kepada Muhammad dan kepada keluarga Muhammad sebagaimana Engkau telah memberi shalawat kepada Ibrahiim dan kepada keluarga Ibrahim, sesungguhnya Engkah Maha Terpuji dan Maha Mulia. Yaa Allah berilah barokah kepada Muhammad dan keluarga Muhammad sebagaimana Engkau telah memberi barokah kepada Ibrahim dan kepada keluarga Ibrahim, sesungguhnya Engkah Maha Terpuji dan Maha Mulia" (H.R. Bukhari) [[^bukhari_3119]]
+
+[^bukhari_3119]: [H.R. Al-Bukhari, Kitab Hadits-hadits yang meriwayatkan tentang para Nabi, Bab Firman Allah "Dan Allah telah mengangkat nabi Ibrahim sebagai kekasih-Nya"](https://www.hadits.id/hadits/bukhari/3119)
+
+- Kemudian takbir yang ketiga kalinya.
 
 - Setelah takbir yang ketiga, hendaklah membaca do'a:
 
