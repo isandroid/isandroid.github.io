@@ -18,7 +18,7 @@ Allah Ta'ala telah memberikan keleluasaan kepada manusia untuk melaksanakan jual
 
 Namun bagaimana jika yang diperjual-belikan itu adalah rambut manusia? Dan sebenarnya untuk apa rambut manusia diperjual belikan? 
 
-Berdasarkan pantauan lewat media detik.com [[^detik_d-2776186]] bahwa rambut-rambut yang dikumpulkan oleh para pengumpul rambut akan disetorkan pada pabrik rambut palsu (rambut imitasi) atau wig. Oleh karena itu kita mengetahui bahwa rambut yang dijual-belikan itu akan dibuat produk menjadi rambut-palsu atau wig. Dan produk tersebut digunakan untuk "menyambung rambut".
+Berdasarkan pantauan lewat media detik.com [[^detik_d-2776186]] bahwa rambut-rambut yang dikumpulkan oleh para pengumpul rambut akan disetorkan pada pabrik rambut palsu (rambut imitasi). Oleh karena itu kita mengetahui bahwa rambut yang dijual-belikan itu akan dibuat produk menjadi rambut-palsu atau wig dan produk tersebut digunakan untuk "menyambung rambut".
 
 ### Allah Ta'ala Memberikan Laknat Bagi Penyambungan Rambut
 
@@ -82,7 +82,7 @@ Rasulullah (saw) menyebut menyambung rambut itu sebagai *Az-Zuur* yang berarti k
 
 ### Kesimpulan
 
-Jadi, jual-beli sesuatu yang mengakibatkan laknat Allah Ta'ala, laknat Rasulullah (saw) dan mengakibatkan azab tentu saja hal itu mendatangkan buruk walaupun tidak dijelaskan secara rinci dalam hadits-hadits diatas. Oleh karena itu menjual atau membeli rambut juga merupakan hal yang sangat tidak disukai Allah dan Rasul-Nya sehingga wajiblah bagi kita (sebagai kaum Muslimin) untuk menghindarinya.
+Jadi, jual-beli sesuatu yang mengakibatkan laknat Allah Ta'ala, laknat Rasulullah (saw) dan mengakibatkan azab tentu saja hal itu mendatangkan buruk walaupun tidak dijelaskan secara rinci dalam hadits-hadits diatas. Oleh karena itu menjual atau membeli rambut juga merupakan hal yang sangat tidak disukai Allah dan Rasul-Nya sehingga kita (sebagai kaum Muslimin) sekuat mungkin bisa menghindari.
 
 ### Catatan Kaki
 
