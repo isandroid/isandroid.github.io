@@ -34,7 +34,7 @@ Allah Ta'ala telah memberikan laknat untuk menyambung rambut. Dalam satu riwayat
 
 ### Rasulullah (saw) Memberikan Laknat Bagi Penyambungan Rambut
 
-Selain Allah Ta'ala memberikan laknat, Rasulullah (saw) pun sama-sama memberikan laknat bagi orang yang menyambung rambut. Diriwayatkan,
+Selain Allah Ta'ala memberikan laknat pada penyambung rambut, Rasulullah (saw) pun sama-sama memberikan laknat bagi orang yang menyambung rambut. Diriwayatkan,
 
 <p class="arab">
 عَنْ أَسْمَاءَ بِنْتِ أَبِي بَكْرٍ قَالَتْ لَعَنَ النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ الْوَاصِلَةَ وَالْمُسْتَوْصِلَةَ
@@ -54,9 +54,11 @@ dari Asma' binti Abu Bakr radliallahu 'anhuma bahwa seorang wanita datang kepada
 
 [^bukhari_5479]: [H.R. Al-Bukhari, Kitab Pakaian, Bab Menyambung rambut](https://www.hadits.id/hadits/bukhari/5479)
 
+Jadi menurut hadits diatas, Rasulullah (saw) menyatakan ketidaksukaannya yang sangat terhadap menyambung rambut.
+
 ### Bani Israil Pernah Diazab Karena Menyambung Rambut
 
-Jadi menurut hadits diatas, Rasulullah (saw) menyatakan ketidaksukaannya yang sangat terhadap menyambung rambut. Selain itu, kita telah diberikan pelajaran bahwa kaum Bani Israil pernah diazab akibat menyambung rambut. Oleh karena itu, jangan kaum Muslimin pun ikut terkena azab dari hal yang sama. Diriwayatkan,
+Selain itu, kita telah diberikan pelajaran bahwa kaum Bani Israil pernah diazab akibat menyambung rambut. Oleh karena itu, jangan kaum Muslimin pun ikut terkena azab dari hal yang sama. Diriwayatkan,
 
 <p class="arab">
 سَمِعْتُ مُعَاوِيَةَ وَهُوَ عَلَى الْمِنْبَرِ بِالْمَدِينَةِ وَأَخْرَجَ مِنْ كُمِّهِ قُصَّةً مِنْ شَعْرٍ فَقَالَ يَا أَهْلَ الْمَدِينَةِ أَيْنَ عُلَمَاؤُكُمْ سَمِعْتُ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَنْهَى عَنْ مِثْلِ هَذِهِ وَقَالَ إِنَّمَا هَلَكَتْ بَنُو إِسْرَائِيلَ حِينَ اتَّخَذَ نِسَاؤُهُمْ مِثْلَ هَذَا
@@ -74,13 +76,13 @@ Rasulullah (saw) menyebut menyambung rambut itu sebagai *Az-Zuur* yang berarti k
 قَدِمَ مُعَاوِيَةُ بْنُ أَبِي سُفْيَانَ الْمَدِينَةَ آخِرَ قَدْمَةٍ قَدِمَهَا فَخَطَبَنَا فَأَخْرَجَ كُبَّةً مِنْ شَعَرٍ فَقَالَ مَا كُنْتُ أُرَى أَنَّ أَحَدًا يَفْعَلُ هَذَا غَيْرَ الْيَهُودِ وَإِنَّ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ سَمَّاهُ الزُّورَ يَعْنِي الْوِصَالَ فِي الشَّعَرِ
 </p>
 
-...Mu'awiyah bin Abu Sufyan mengunjungi Madinah pada kunjungannya yang terakhir lalu dia memberikan khathbah sambil memegang jambul rambutnya lalu berkata; "Aku belum pernah melihat seorang pun yang melakukan hal seperti ini kecuali orang Yahudi dan sesungguhnya Nabi Shallallu 'alaihi wa salam menamakannya dengan az-Zuur (kepalsuan) yaitu menyambung rambut dengan rambut palsu". (H.R. Bukhari) [[^bukhari_3229]]
+...Mu'awiyah bin Abu Sufyan mengunjungi Madinah pada kunjungannya yang terakhir lalu dia memberikan khotbah sambil memegang jambul rambutnya lalu berkata; "Aku belum pernah melihat seorang pun yang melakukan hal seperti ini kecuali orang Yahudi dan sesungguhnya Nabi Shallallu 'alaihi wa salam menamakannya dengan az-Zuur (kepalsuan) yaitu menyambung rambut dengan rambut palsu". (H.R. Bukhari) [[^bukhari_3229]]
 
 [^bukhari_3229]: [H.R. Al-Bukhari, Kitab Hadits-hadits yang meriwayatkan tentang para Nabi, Bab Hadits Gua](https://www.hadits.id/hadits/bukhari/3229)
 
 ### Kesimpulan
 
-Jadi, jual-beli sesuatu yang mengakibatkan laknat Allah Ta'ala, laknat Rasulullah (saw) dan mengakibatkan azab tentu saja hal itu mendatangkan buruk, walaupun tidak dijelaskan secara rinci dalam hadits-hadits diatas. Oleh karena itu menjual atau membeli rambut juga merupakan hal yang sangat disukai Allah dan Rasul-Nya sehingga wajiblah bagi kita (sebagai kaum Muslimin) untuk menghindarinya.
+Jadi, jual-beli sesuatu yang mengakibatkan laknat Allah Ta'ala, laknat Rasulullah (saw) dan mengakibatkan azab tentu saja hal itu mendatangkan buruk walaupun tidak dijelaskan secara rinci dalam hadits-hadits diatas. Oleh karena itu menjual atau membeli rambut juga merupakan hal yang sangat tidak disukai Allah dan Rasul-Nya sehingga wajiblah bagi kita (sebagai kaum Muslimin) untuk menghindarinya.
 
 ### Catatan Kaki
 
