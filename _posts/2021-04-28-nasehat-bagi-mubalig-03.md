@@ -28,7 +28,7 @@ Hendaklah Tuan merasakan bahwa di dalam diri Tuan tidak ada apa-apa, tidak ada k
  
 Ingatlah, orang yang bangga dengan ilmunya tidak akan mendapat taufik untuk mengkhidmati agama yang suci, tidak akan mendapat kemuliaan melainkan kehinaan. Buah pekerjaannya tidak akan beberkat dan baik. Orang-orang yang terpengaruh oleh lawannya, takut dan merasa khawatir maka dia sekali-kali tidak akan mendapat pertolongan dari Allah. 
 
-Nah, Tuan hadapilah lawan Tuan itu dengan yakin, penuh dengan takwa, patuh dan tunduk (kepada Allah). Jangan bimbang, jangan berkebesaran (takabur), jangan bangga dengan ilmu yang ada, jangan merasa khawatir dan merasa takut. Dengan merasa yakin yang penuh maka pertolongan Allah akan datang dan musuh akan dapat mengalahkan Tuan.
+Nah, Tuan hadapilah lawan Tuan itu dengan yakin, penuh dengan takwa, patuh dan tunduk (kepada Allah). Jangan bimbang, jangan berkebesaran (takabur), jangan bangga dengan ilmu yang ada, jangan merasa khawatir dan merasa takut. Dengan merasa yakin yang penuh maka pertolongan Allah akan datang dan musuh tidak akan dapat mengalahkan Tuan.
  
 Sekiranya lawan Tuan menanyakan suatu soal dan Tuan belum tahu jawabannya maka mohonlah kepada Allah (swt) maka Allah (swt) akan mengajarkan sendiri jawabannya, baik dengan perantaraan malaikat atau ilham-Nya. Tuan yakinlah ini, jangan ragu-ragu.
  
