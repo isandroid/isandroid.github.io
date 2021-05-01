@@ -20,7 +20,18 @@ yang mendapat taufiq dari Allah (swt) pergi haji ke Mekkah Al-Mukarramah.
 
 	- Tanggal 9 Dzulhjjjah pagi, mereka berangkat ke Padang Arafah dan duduk di sana sampai matahari terbenam. Sesudah matahari terbenam (sebelum shalat Maghrib) mereka berangkat ke Mudzdalifah. Shalat Maghrib dan Isya' mereka jama' di sana dan bermalam di sana.
 
-	- Tanggal lO Dzulhijjah pagi-pagi sekali, mereka kembali ke Mina untuk memotong hewan korban. Hari inilah dirayakan oleh ummat Islam. Hari Raya ini dirayakan sebagai pernyataan bahwa keridhaan Allah (swt) tergantung dengan pengorbanan di jalan Allah Ta'ala.
+	- Tanggal 10 Dzulhijjah pagi-pagi sekali, mereka kembali ke Mina untuk memotong hewan korban. Hari inilah dirayakan oleh ummat Islam. Hari Raya ini dirayakan sebagai pernyataan bahwa keridhaan Allah (swt) tergantung dengan pengorbanan di jalan Allah Ta'ala.
+
+- Dahulu kaum Musyrikin arab mempunyai dua hari raya yang dirayakan secara jahiliyah. Namun umat Islam mengganti dua Hari Raya yang dilakukan sesuai ridho Allah Ta'ala [[^dawud_959]].
+
+[^dawud_959]: Diriwayatkan,
+
+	<p class="arab">
+		عَنْ أَنَسٍ قَالَ قَدِمَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ الْمَدِينَةَ وَلَهُمْ يَوْمَانِ يَلْعَبُونَ فِيهِمَا فَقَالَ مَا هَذَانِ الْيَوْمَانِ قَالُوا كُنَّا نَلْعَبُ فِيهِمَا فِي الْجَاهِلِيَّةِ فَقَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ إِنَّ اللَّهَ قَدْ أَبْدَلَكُمْ بِهِمَا خَيْرًا مِنْهُمَا يَوْمَ الْأَضْحَى وَيَوْمَ الْفِطْرِ
+	</p>
+
+	...dari Anas dia berkata; "Rasulullah shallallahu 'alaihi wasallam tiba di Madinah, sedangkan penduduknya memiliki dua hari khusus untuk permainan, maka beliau bersabda: "Apakah maksud dari dua hari ini?" mereka menjawab; "Kami biasa mengadakan permainan pada dua hari tersebut semasa masih Jahiliyah." Maka Rasulullah shallallahu 'alaihi wasallam bersabda; "Sesungguhnya Allah telah menggantikan untuk kalian yang lebih baik dari kedua hari tersebut, yaitu hari (raya) kurban (iedul Aldha) dan hari raya Iedul fithri." ([H.R. Abu Dawud, Kitab Shalat, Bab Shalat dua hari raya](https://www.hadits.id/hadits/dawud/959))
+
 
 ### Keterangan
 
@@ -37,10 +48,6 @@ Allah (swt) pada hari suka ria itu. Islam mengajarkan agar mereka mengerjakan sh
 
 - Shalat 'Ied hendaknya dilakukan pada pagi hari, selambat-lambatnya sebelum tengah hari.
 
-- Shalat itu hendaknya dilakukan berjama'ah, pembacaan Al-Fatihah dan ayat-ayat Alquran harus dengan suara nyaring (dikeraskan) oleh Imam.
-
-- Shalat 'Ied tidak ada adzan dan iqamat.
-
 - Sebaiknya shalat 'Ied dilakukan di tanah lapang, kalau ada halangan atau jama'ah masih kurang, boleh dilakukan di dalam masjid.
 
 - Shalat 'Ied itu adalah Sunnat Mu'akkadah. Sebelum dan sesudahnya tidak ada shalat lainnya.
@@ -55,36 +62,20 @@ Allah (swt) pada hari suka ria itu. Islam mengajarkan agar mereka mengerjakan sh
 
 	dari Jabir bin 'Abdullah radliallahu 'anhuma, ia berkata, "Jika Rasulullah shallallahu 'alaihi wasallam shalat 'Ied, beliau mengambil jalan yang berbeda (antara berangkat dan kembali)." ([H.R. Al-Bukhari, Kitab Jum'at, Bab Melewati Jalan Yang Berbeda Antara Berangkat dan Kembali dari Shalat Hari Raya](https://www.hadits.id/hadits/bukhari/933))
 
-- Pada Hari Raya itu hendaknya kita, memperbanyak takbir, bunyinya:
+- Pada Hari Raya itu hendaknya kita, memperbanyak takbir [[^majah_1277]], bunyinya:
 
+[^majah_1277]: Diriwayatkan,
 
+	<p class="arab">
+		حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ سَعْدِ بْنِ عَمَّارِ بْنِ سَعْدٍ الْمُؤَذِّنِ حَدَّثَنِي أَبِي عَنْ أَبِيهِ عَنْ جَدِّهِ قَالَ كَانَ النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يُكَبِّرُ بَيْنَ أَضْعَافِ الْخُطْبَةِ يُكْثِرُ التَّكْبِيرَ فِي خُطْبَةِ الْعِيدَيْنِ
+	</p>
+
+	...telah menceritakan kepada kami 'Abdurrahman bin Sa'd bin 'Ammar bin Sa'a --muadzin Rasulullah shallallahu 'alaihi wasallam-- berkata, telah menceritakan kepadaku Bapakku dari Bapaknya dari Kakeknya ia berkata, "Nabi shallallahu 'alaihi wasallam bertakbir di tengah-tengah khutbah, beliau memperbanyak takbir pada khutbah dua hari raya." ([H.R. Ibnu Majah, Kitab Mendirikan shalat dan sunah yang ada di dalamnya, Bab khutbah pada hari raya](https://www.hadits.id/hadits/majah/1277))
 
 'Allah Maha Besar, Allah Maha Besar, tidak ada yang patut disembah melainkan Allah; Allah Maha Besar,
 Allah Maha Besar, dan bagi Allah-lah segala pujian.'
 
-- Pada Hari Raya 'Iedul Adha takbir mula-mula diucapkan sejak tanggal 9 Dzulhijjah dan diakhiri tanggal 12
-Dzulhijjah, yakni sampai selesainya orang yang melakukan haji di Mekkah.
-
-- Khutbah pada Hari Raya itu diadakan sesudah shalat 'Ied. [[^bukhari_904]]
-
-[^bukhari_904]: Diriwayatkan,
-
-	<p class="arab">
-	عَنْ عَبْدِ اللَّهِ بْنِ عُمَرَ أَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ كَانَ يُصَلِّي فِي الْأَضْحَى وَالْفِطْرِ ثُمَّ يَخْطُبُ بَعْدَ الصَّلَاةِ
-	</p>
-
-	dari 'Abdullah bin 'Umar bahwa Rasulullah shallallahu 'alaihi wasallam melaksanakan shalat 'Idul Adlha dan 'Idul Fitri kemudian berkhutbah setelah shalat." ([H.R. Al-Bukhari, Kitab Jum'at, Bab Berjalan Kaki atau Berkendaraan Menuju Shalat Hari Raya dan Shalat Dilaksanakan Sebelum Khuthbah Tanpa Adzan dan Iqamah](https://www.hadits.id/hadits/bukhari/904))
-
-- Pada raka'at pertama, dalam shalat 'Ied, sesudah takbiratul ihram hendaknya Imam mengucapkan takbir
-(Allahu Akbar) sebanyak 7 kali, baru baca Al-Fatihah dan ayat Alquran. Setelah bangkit ke raka'at kedua dari raka'at pertama, sebelum membaca Al-Fatihah, hendaknya membaca takbir 5 kali. [[^dawud_970]]
-
-[^dawud_970]: Diriwayatkan,
-
-	<p class="arab">
-	عَنْ عَائِشَةَ أَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ كَانَ يُكَبِّرُ فِي الْفِطْرِ وَالْأَضْحَى فِي الْأُولَى سَبْعَ تَكْبِيرَاتٍ وَفِي الثَّانِيَةِ خَمْسًا
-	</p>
-
-	...dari Aisyah (ra) bahwa Rasulullah shallallahu 'alaihi wasallam shalat Iedul Fithri dan Adha dan biasa takbir tujuh kali pada raka'at pertama dan lima kali pada raka'at kedua." ([H.R. Abu Dawud, Kitab Shalat, Bab Takbir dalam shalat dua hari raya (Id)](https://www.hadits.id/hadits/dawud/970))
+- Pada Hari Raya 'Iedul Adha takbir mula-mula diucapkan sejak tanggal 9 Dzulhijjah dan diakhiri tanggal 12 Dzulhijjah, yakni sampai selesainya orang yang melakukan haji di Mekkah.
 
 - Kalau Hari Raya itu bertepatan dengan hari Jum'at, maka mereka yang datang dari jauh, boleh pulang ke rumahnya setelah selesai shalat 'Ied, tidak perlu menunggu untuk shalat Jum'at lagi (namun diganti dengan shalat Dzuhur). Bagi orang yang tempat tinggalnya dekat dengan masjid, boleh ia melakukan shalat Jum'at.
 
@@ -98,8 +89,7 @@ Dzulhijjah, yakni sampai selesainya orang yang melakukan haji di Mekkah.
 
 	dari Anas bin Malik berkata, "Pada hari raya Rasulullah shallallahu 'alaihi wasallam tidak berangkat untuk melaksanakan shalat hingga beliau makan beberapa butir kurma." ([H.R. Al-Bukhari,Kitab Jum'at, Bab Makan Sebelum Keluar Shalat pada Hari Raya Fithri](https://www.hadits.id/hadits/bukhari/900))
 
-- Pada kedua Hari Raya 'Ied itu, hendaklah mandi, memakai pakaian bersih atau baru (kalau ada) dan memakai
-wangl-wangian. 
+- Pada kedua Hari Raya 'Ied itu, hendaklah mandi, memakai pakaian bersih atau baru (kalau ada) dan memakai wangl-wangian. 
 
 - Shalat 'Iedul Adha, lebih dipercepat sedikit dari shalat 'Iedul Fithri, karena hal-hal yang dikemukakan di atas. 
 
@@ -111,16 +101,13 @@ wangl-wangian.
 
 - Ummat Islam yang mendapat karunia dan taufiq dari Allah Ta'ala, hendaklah pada Hari Raya 'Iedul Adha memotong kambing, domba, lembu atau unta untuk dijadikan hewan korban.
 
-- Lembu seekor, cukup buat 7 orang, sedang unta seekor, cukup untuk 10 orang korbankan. (Tirmidzy dan lbnu
-Majah).
+- Lembu seekor, cukup buat 7 orang, sedang unta seekor, cukup untuk 10 orang korbankan. (Tirmidzy dan lbnu Majah).
 
 - Orang-orang yang bermaksud menyembelih korban, mulai tanggal 1 Dzulhijjah tidak boleh memotong kuku atau rambut, sebelum korban itu disembelih pada hari ke 10 atau 11 atau ke 12 Dzulhijjah itu.
 
-- Daging korban itu boleh juga dimakan oleh orang yang berkorban asal jangan semuanya. Sebagian hendaklah
-diberikan kepada fakir-miskin, tetangga dan sebagainya.
+- Daging korban itu boleh juga dimakan oleh orang yang berkorban asal jangan semuanya. Sebagian hendaklah diberikan kepada fakir-miskin, tetangga dan sebagainya.
 
-- Hewan yang akan dijadikan karban, tidak boleh disembelih sebelum shalat 'Iedul Adha. Jika disembelih
-sebelum shalat 'Ied, bukan bernilai karban, melainkan sebagai daging biasa saja.
+- Hewan yang akan dijadikan karban, tidak boleh disembelih sebelum shalat 'Iedul Adha. Jika disembelih sebelum shalat 'Ied, bukan bernilai karban, melainkan sebagai daging biasa saja.
 
 - Hewan yang akan dikorbankan itu seharusnya disembelih sendiri oleh orang yang berkorban itu, kecuali jika ada halangan, boleh diupahkan kepada orang lain.
 
@@ -128,11 +115,59 @@ sebelum shalat 'Ied, bukan bernilai karban, melainkan sebagai daging biasa saja.
 
 - Waktu akan disembelih, hewan tersebut dibaringkan menghadap Kiblat dan yang memotong harus membaca:
 
-"Saya menyembelih korban ini dengan nama Allah dan
-Allah itu Maha Besar."
+"Saya menyembelih korban ini dengan nama Allah dan Allah itu Maha Besar."
 
 - Kita boleh memotong hewan untuk pengorbanan orang yang sudah wafat, misalnya kita memotong dengan niat
 bahwa korban hewan ini dikorbankan atas nama nenek atau orang-tua yang telah wafat.
+
+### Tata Cara Shalat
+
+- Shalat 'Ied tidak ada adzan dan iqamat.
+
+- Pada raka'at pertama, dalam shalat 'Ied, sesudah takbiratul ihram hendaknya Imam mengucapkan takbir
+(Allahu Akbar) sebanyak 7 kali, baru baca Al-Fatihah dan ayat Alquran. Setelah bangkit ke raka'at kedua dari raka'at pertama, sebelum membaca Al-Fatihah, hendaknya membaca takbir 5 kali. [[^dawud_970]]
+
+[^dawud_970]: Diriwayatkan,
+
+	<p class="arab">
+	عَنْ عَائِشَةَ أَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ كَانَ يُكَبِّرُ فِي الْفِطْرِ وَالْأَضْحَى فِي الْأُولَى سَبْعَ تَكْبِيرَاتٍ وَفِي الثَّانِيَةِ خَمْسًا
+	</p>
+
+	...dari Aisyah (ra) bahwa Rasulullah shallallahu 'alaihi wasallam shalat Iedul Fithri dan Adha dan biasa takbir tujuh kali pada raka'at pertama dan lima kali pada raka'at kedua." ([H.R. Abu Dawud, Kitab Shalat, Bab Takbir dalam shalat dua hari raya (Id)](https://www.hadits.id/hadits/dawud/970))
+
+- Shalat itu hendaknya dilakukan berjama'ah, pembacaan Al-Fatihah dan ayat-ayat Alquran harus dengan suara nyaring (dikeraskan) oleh Imam.
+
+- Setelah selesai membaca Surah Alfatihah, disunnahkan membaca:
+
+	- [Surah Al-Al'laa](https://www.alislam.org/quran/app/87) di rakat yang pertama dan [Surah Al-Ghosyiyah](https://www.alislam.org/quran/app/88) di rakaat yang kedua [[^tirmidzi_490]]. atau
+
+	- Membaca [Surah Qof](https://www.alislam.org/quran/app/50) di rakaat pertama dan [Surah Al-Qamar](https://www.alislam.org/quran/app/54) di rakaat ke dua [[^tirmidzi_491]].
+
+[^tirmidzi_490]: Diriwayatkan,
+
+	<p class="arab">
+	عَنْ النُّعْمَانِ بْنِ بَشِيرٍ قَالَ كَانَ النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَقْرَأُ فِي الْعِيدَيْنِ وَفِي الْجُمُعَةِ بِسَبِّحِ اسْمَ رَبِّكَ الْأَعْلَى وَهَلْ أَتَاكَ حَدِيثُ الْغَاشِيَةِ وَرُبَّمَا اجْتَمَعَا فِي يَوْمٍ وَاحِدٍ فَيَقْرَأُ بِهِمَا
+	</p>
+
+	dari An Nu'man bin Basyir dia berkata, Nabi Shallahu 'alaihi wa sallam membaca SABBIHISMA RABBIKA dan HAL ATAAKA HADIITSUL GHAATSIAH pada waktu shalat iedain (dua hari raya) dan shalat Jum'at, jika keduanya terjadi disatu hari, maka belaiu membaca keduanya. ([H.R. At-Tirmidzi, Kitab Jum'at, Bab Bacaan ketika dua hari raya](https://www.hadits.id/hadits/tirmidzi/490))
+
+[^tirmidzi_491]: Diriwayatkan,
+
+	<p class="arab">
+		عَنْ عُبَيْدِ اللَّهِ بْنِ عَبْدِ اللَّهِ بْنِ عُتْبَةَ أَنَّ عُمَرَ بْنَ الْخَطَّابِ سَأَلَ أَبَا وَاقِدٍ اللَّيْثِيَّ مَا كَانَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَقْرَأُ بِهِ فِي الْفِطْرِ وَالْأَضْحَى قَالَ كَانَ يَقْرَأُ بِق وَالْقُرْآنِ الْمَجِيدِ وَاقْتَرَبَتْ السَّاعَةُ وَانْشَقَّ الْقَمَرُ
+	</p>
+
+	dari 'Ubaidillah bin Abdullah bin 'Utbah bahwa Umar bin Al Khaththab bertanya kepada Abu Waqid Al Laitsi, apakah Rasulullah Shallahu 'alaihi wa sallam membaca surat waktu (shalat) idul fitri dan idul adlha? Dia menjawab, beliau membaca QAAF WAL QUR'ANIL MAJIID dan IQTARABITIS SAA'AH WAN SYAQQAL QAMAR. ([H.R. At-Tirmidzi, Kitab Jum'at, Bab Bacaan ketika dua hari raya](https://www.hadits.id/hadits/tirmidzi/491))
+
+- Khutbah Ied itu diadakan sesudah shalat 'Ied. [[^bukhari_904]]
+
+[^bukhari_904]: Diriwayatkan,
+
+	<p class="arab">
+	عَنْ عَبْدِ اللَّهِ بْنِ عُمَرَ أَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ كَانَ يُصَلِّي فِي الْأَضْحَى وَالْفِطْرِ ثُمَّ يَخْطُبُ بَعْدَ الصَّلَاةِ
+	</p>
+
+	dari 'Abdullah bin 'Umar bahwa Rasulullah shallallahu 'alaihi wasallam melaksanakan shalat 'Idul Adlha dan 'Idul Fitri kemudian berkhutbah setelah shalat." ([H.R. Al-Bukhari, Kitab Jum'at, Bab Berjalan Kaki atau Berkendaraan Menuju Shalat Hari Raya dan Shalat Dilaksanakan Sebelum Khuthbah Tanpa Adzan dan Iqamah](https://www.hadits.id/hadits/bukhari/904))
 
 ### Sumber
 
