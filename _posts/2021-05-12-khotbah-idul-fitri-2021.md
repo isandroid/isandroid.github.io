@@ -8,7 +8,7 @@ published: true
 
 ## {{ page.title }}
 
-Khotbah Idul Fitri Amirul Mu’minin, Hadhrat Mirza Masroor Ahmad, Khalifatul Masih al-Khaamis (ayyadahullaahu Ta’ala binashrihil ‘aziiz) pada 24 Mei 2020 (Hijrah 1399 Hijriyah Syamsiyah/Syawal 1441 Hijriyah Qamariyah) di Masjid Mubarak, Tilford, UK (United Kingdom of Britain/Britania Raya).
+Khotbah Idul Fitri Amirul Mu’minin, Hadhrat Mirza Masroor Ahmad, Khalifatul Masih al-Khaamis (ayyadahullaahu Ta’ala binashrihil ‘aziiz) pada **24 Mei 2020** (Hijrah 1399 Hijriyah Syamsiyah/Syawal 1441 Hijriyah Qamariyah) di Masjid Mubarak, Tilford, UK (United Kingdom of Britain/Britania Raya).
 
 Assalamu ‘alaikum wa rahmatullah
 
@@ -20,7 +20,7 @@ Assalamu ‘alaikum wa rahmatullah
 بِسۡمِ اللّٰہِ الرَّحۡمٰنِ الرَّحِیۡمِ﴿۱﴾ اَلۡحَمۡدُ لِلّٰہِ رَبِّ الۡعٰلَمِیۡنَ ۙ﴿۲﴾ الرَّحۡمٰنِ الرَّحِیۡمِ ۙ﴿۳﴾ مٰلِکِ یَوۡمِ الدِّیۡنِ ؕ﴿۴﴾ اِیَّاکَ نَعۡبُدُ وَ اِیَّاکَ نَسۡتَعِیۡنُ ؕ﴿۵﴾ اِہۡدِ نَا الصِّرَاطَ الۡمُسۡتَقِیۡمَ ۙ﴿۶﴾ صِرَاطَ الَّذِیۡنَ اَنۡعَمۡتَ عَلَیۡہِمۡ ۬ۙ غَیۡرِ الۡمَغۡضُوۡبِ عَلَیۡہِمۡ وَ لَا الضَّآلِّیۡنَ ٪﴿۷﴾
 </p>
 
-Sekali waktu Hadhrat Mushlih Mau‘ūd (ra) menjelaskan sehubungan dengan Id bahwa orang-orang yang merayakan Id itu bermacam-macam dan sesuai dengan kelompok-kelompok orang-orang yang merayakannya, Id itu memiliki jenis-jenisnya juga. Sebagaimana Hadhrat Mushlih Mau‘ūd (ra) menerangkan: Siapakah mereka yang Idnya merupakan Id yang dikabulkan, maksudnya apakah Id hakiki itu? Penjelasan ini akan membantu kita memahami hikmah sempurna dan falsafah mendalam yang terkandung di dalam Id sebagaimana beliau (ra) arahkan perhatian kita akan perbaikan diri kita dan terhadap perayaan Id hakiki.
+Sekali waktu Hadhrat Mushlih Mau‘ūd (ra) menjelaskan sehubungan dengan Id bahwa orang-orang yang merayakan Id itu bermacam-macam dan sesuai dengan kelompok-kelompok orang-orang yang merayakannya, Id itu memiliki jenis-jenisnya juga. Sebagaimana Hadhrat Mushlih Mau‘ūd (ra) menerangkan siapa sajakah mereka yang Idnya merupakan Id yang dikabulkan, maksudnya apakah Id hakiki itu? Penjelasan ini akan membantu kita memahami hikmah sempurna dan falsafah mendalam yang terkandung di dalam Id sebagaimana beliau (ra) arahkan perhatian kita akan perbaikan diri kita dan terhadap perayaan Id hakiki.
 
 Dengan mengambil faedah dari topik yang telah diterangkan oleh Hadhrat Mushlih Mau‘ūd (ra) ini, hari ini saya akan bahas tentang Id di hadapan Anda sekalian.
 
@@ -32,7 +32,7 @@ Orang-orang mengulang-ulangi kata-kata bernuansa keagamaan dan melafalkan itu se
 
 Di beberapa negara dan daerah ada kebolehan dan toleransi shalat Id di masjid-masjid pada lingkup terbatas seiring dengan menetapi syarat-syarat [protokol kesehatan menghadapi covid 19]. Di sana mereka merayakan dan menyambut Id. Apa pun keadaannya, orang-orang tidak merenungkan maksud, hakikat dan faedah-faedah dari Id, dan apakah Id yang tengah mereka rayakan hari ini sudah menjadi Id yang diterima di sisi Allah ataukah tidak?
 
-Ketahuilah, Id adalah nama untuk kebahagiaan dan tiadalah seseorang itu merasa bahagia melainkan apabila ia memperoleh suatu keberhasilan. Apabila ia mengalami kegagalan, ia akan menangis karena seseorang yang berakal tidak akan merasa senang ketika mengalami kegagalan. Karena itulah, kita harus memerhatikan Id dari sudut pandang ini.
+**Ketahuilah, Id adalah nama untuk kebahagiaan dan tiadalah seseorang itu merasa bahagia melainkan apabila ia memperoleh suatu keberhasilan. Apabila ia mengalami kegagalan, ia akan menangis karena seseorang yang berakal tidak akan merasa senang ketika mengalami kegagalan. Karena itulah, kita harus memerhatikan Id dari sudut pandang ini.**
 
 Kenyataannya, seseorang dari antara kita ketika tengah merayakan Id, pada hakikatnya ia tengah mengklaim meraih keberhasilan. Dalam hal ini, selama ada pengakuan keberhasilan, setiap orang dari antara kita harus memikirkan apakah ia benar-benar meraih keberhasilan, apakah dengan keberhasilan ini ia berhak merayakan Id? 
 
