@@ -11,6 +11,13 @@ layout: beranda
 
 <i class="fa fa-search" aria-hidden="true"></i> [Pencarian dalam Halaman](/cari-halaman)
 {% endcomment %}
+
+### Artikel Unggulan
+
+- [Bahan Khotbah Idul Fitri 1442 H](/2021/05/12/khotbah-idul-fitri-2021.html)
+
+- [Tata Cara Shalat Id](/2021/05/01/shalat-hari-raya.html)
+
 ### Menu Istimewa
 
 <i class="fa fa-book" aria-hidden="true"></i> [Quran-um-Majid](/quran/) (Dalam proses)
