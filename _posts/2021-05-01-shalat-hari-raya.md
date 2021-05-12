@@ -48,9 +48,11 @@ Allah (swt) pada hari suka ria itu. Islam mengajarkan agar mereka mengerjakan sh
 
 - Shalat 'Ied hendaknya dilakukan pada pagi hari, selambat-lambatnya sebelum tengah hari.
 
-- Sebaiknya shalat 'Ied dilakukan di tanah lapang, kalau ada halangan atau jama'ah masih kurang, boleh dilakukan di dalam masjid.
+- Tidak ditemukan dalam Sunnah bahwa Shalat 'Ied dapat dikerjakan seorang diri. Shalat 'Ied hanya dapat dilakukan secara berjamaah.
 
-- Shalat 'Ied itu adalah Sunnat Mu'akkadah. Sebelum dan sesudahnya tidak ada shalat lainnya.
+- Sebaiknya shalat 'Ied dilakukan di tanah terbuka (lapangan), kalau ada halangan atau jama'ah masih kurang, boleh dilakukan di dalam masjid.
+
+- Shalat 'Ied itu adalah *Sunnat Mu'akkadah* olah karena itu sebelum dan sesudahnya tidak ada shalat (sunnat) lainnya.
 
 - Menurut sabda dan sunnah Rasulullah (saw), hendaknya orang Muslim datang ke tempat shalat (masjid atau tanah lapang) melalui satu jalan dan kembalinya melalui jalan lain. [[^bukhari_933]]
 
@@ -62,7 +64,11 @@ Allah (swt) pada hari suka ria itu. Islam mengajarkan agar mereka mengerjakan sh
 
 	dari Jabir bin 'Abdullah radliallahu 'anhuma, ia berkata, "Jika Rasulullah shallallahu 'alaihi wasallam shalat 'Ied, beliau mengambil jalan yang berbeda (antara berangkat dan kembali)." ([H.R. Al-Bukhari, Kitab Jum'at, Bab Melewati Jalan Yang Berbeda Antara Berangkat dan Kembali dari Shalat Hari Raya](https://www.hadits.id/hadits/bukhari/933))
 
+{% comment %}
+
 - Pada Hari Raya itu hendaknya kita, memperbanyak takbir [[^majah_1277]], bunyinya:
+
+{% endcomment %}
 
 [^majah_1277]: Diriwayatkan,
 
@@ -124,8 +130,18 @@ bahwa korban hewan ini dikorbankan atas nama nenek atau orang-tua yang telah waf
 
 - Shalat 'Ied tidak ada adzan dan iqamat.
 
+- Pada raka’at yang pertama Shalat 'Id, sesudah Takbiratul Ikhram Imam maupun Ma’mum langsung menyimpan kedua tangan diturunkan menjulur ke bawah sejajar dengan kedua sisi badan (jadi tidak dilipat) terlebih dahulu, setelah itu dilanjutkan Imam mengucapkan Takbir lagi sebanyak 7 kali dengan suara nyaring yang diikuti oleh Ma’mum [[^dawud_970]]. Setiap kali mengucapkan Takbir ini, Imam maupun Ma’mum mengucapkannya sambil mengangkat kedua tangan hingga sejajar dengan telinga, dengan telapak tangan menghadap ke kiblat. Kemudian kedua tangan diturunkan kembali menjulur ke bawah sejajar dengan kedua sisi badan (Seperti posisi awal setelah Takbiratul Ikhram). Setelah mengucapkan Takbir yang ke-7, baru melipat tangan, telapak tangan kanan di atas pergelangan tangan kiri kemudian dilanjutkan membaca Tsana (puji-pujian) atau do’a Iftitah, yakni do’a pembuka sebelum membaca Ta’awudz dan Surah Al-Fatihah.
+
+- Selanjutnya, sesudah membaca Ta’awudz (dengan suara pelan), Imam harus membaca Surah Al- Fatihah bersama Surah lain atau ayat pilihan yang dihafal dengan suara nyaring, dilanjutkan dengan Ruku' dst hingga rakaat yang pertama tuntas.
+
+- Pada raka’at yang kedua, sebelum membaca Surah Al-Fatihah bersama Surah lain atau Ayat pilihan yang dihafal, Imam harus mengucapkan Takbir lagi sebanyak 5 kali dengan suara nyaring, diikuti oleh Ma’mum, dengan cara yang sama seperti yang dilakukan pada raka’at pertama. [[^dawud_970]]
+
+{% comment %}
+
 - Pada raka'at pertama, dalam shalat 'Ied, sesudah takbiratul ihram hendaknya Imam mengucapkan takbir
 (Allahu Akbar) sebanyak 7 kali, baru baca Al-Fatihah dan ayat Alquran. Setelah bangkit ke raka'at kedua dari raka'at pertama, sebelum membaca Al-Fatihah, hendaknya membaca takbir 5 kali. [[^dawud_970]]
+
+{% endcomment %}
 
 [^dawud_970]: Diriwayatkan,
 
@@ -135,9 +151,7 @@ bahwa korban hewan ini dikorbankan atas nama nenek atau orang-tua yang telah waf
 
 	...dari Aisyah (ra) bahwa Rasulullah shallallahu 'alaihi wasallam shalat Iedul Fithri dan Adha dan biasa takbir tujuh kali pada raka'at pertama dan lima kali pada raka'at kedua." ([H.R. Abu Dawud, Kitab Shalat, Bab Takbir dalam shalat dua hari raya (Id)](https://www.hadits.id/hadits/dawud/970))
 
-- Shalat itu hendaknya dilakukan berjama'ah, pembacaan Al-Fatihah dan ayat-ayat Alquran harus dengan suara nyaring (dikeraskan) oleh Imam.
-
-- Setelah selesai membaca Surah Alfatihah, disunnahkan membaca:
+- Selanjutnya, sesudah membaca Ta’awudz (dengan suara pelan), Imam harus membaca Surah Al- Fatihah bersama Surah lain atau ayat pilihan yang dihafal dengan suara nyaring. Disunnahkan membaca:
 
 	- [Surah Al-Al'laa](https://www.alislam.org/quran/app/87) di rakat yang pertama dan [Surah Al-Ghosyiyah](https://www.alislam.org/quran/app/88) di rakaat yang kedua [[^tirmidzi_490]]. atau
 
@@ -159,7 +173,9 @@ bahwa korban hewan ini dikorbankan atas nama nenek atau orang-tua yang telah waf
 
 	dari 'Ubaidillah bin Abdullah bin 'Utbah bahwa Umar bin Al Khaththab bertanya kepada Abu Waqid Al Laitsi, apakah Rasulullah Shallahu 'alaihi wa sallam membaca surat waktu (shalat) idul fitri dan idul adlha? Dia menjawab, beliau membaca QAAF WAL QUR'ANIL MAJIID dan IQTARABITIS SAA'AH WAN SYAQQAL QAMAR. ([H.R. At-Tirmidzi, Kitab Jum'at, Bab Bacaan ketika dua hari raya](https://www.hadits.id/hadits/tirmidzi/491))
 
-- Khutbah Ied itu diadakan sesudah shalat 'Ied. [[^bukhari_904]]
+- Kemudian dilanjutkan dengan Ruku’ dst hingga rakaat yang kedua tuntas, diakhiri dengan Tahiyyat dan Salam.
+
+- Shalat 'Id terdiri dari 2 raka’at dan ada Khutbah. Khutbah dilakukan sesudah Shalat 'Id, berbeda dengan Shalat Jumat, Khutbah dilakukan sebelum Shalat. [[^bukhari_904]]
 
 [^bukhari_904]: Diriwayatkan,
 
@@ -168,6 +184,10 @@ bahwa korban hewan ini dikorbankan atas nama nenek atau orang-tua yang telah waf
 	</p>
 
 	dari 'Abdullah bin 'Umar bahwa Rasulullah shallallahu 'alaihi wasallam melaksanakan shalat 'Idul Adlha dan 'Idul Fitri kemudian berkhutbah setelah shalat." ([H.R. Al-Bukhari, Kitab Jum'at, Bab Berjalan Kaki atau Berkendaraan Menuju Shalat Hari Raya dan Shalat Dilaksanakan Sebelum Khuthbah Tanpa Adzan dan Iqamah](https://www.hadits.id/hadits/bukhari/904))
+
+- Sesudah Shalat ‘Id selesai, Imam harus menyampaikan Khutbah ‘Id dengan cara yang sama seperti Khutbah Jum’at, yakni Khutbah disampaikan sambil berdiri di tempat Imam memimpin Shalat; Terdiri dari dua Khutbah. Khutbah pertama diawali dengan membaca Tasyahhud, Ta’awudz, dan Surah Al- Fatihah, dilanjutkan dengan Nasihat-nasihat (dari Khutbah Huzur [atba] yang sudah diedarkan oleh Bapak Amir). Khutbah kedua membaca do’a Khutbah Kedua.
+
+- Sebagai penutup, sesudah Khutbah, Imam memimpin do’a bersama.
 
 ### Sumber
 
