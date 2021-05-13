@@ -247,3 +247,11 @@ do’a Khutbah Kedua.
 </p>
 
 ### Catatan Kaki
+
+{% comment %}
+
+cari dan ketik tulisan arabnya
+
+Saya menyembelih korban ini dengan nama Allah dan Allah itu Maha Besar.
+
+{% endcomment %}
