@@ -14,7 +14,7 @@ layout: beranda
 
 ### Artikel Unggulan
 
-<i class="fa fa-thumbs-up" aria-hidden="true"></i> [Puasa Syawal](/2021/05/14/puasa-syawal.html)
+<i class="fa fa-thumbs-up" aria-hidden="true"></i> [<mark>Puasa Syawal</mark>](/2021/05/14/puasa-syawal.html)
 
 
 {% comment %}
