@@ -14,9 +14,14 @@ layout: beranda
 
 ### Artikel Unggulan
 
-- [Bahan Khotbah Idul Fitri 1442 H](/2021/05/12/khotbah-idul-fitri-2021.html)
+<i class="fa fa-thumbs-up" aria-hidden="true"></i> [Puasa Syawal](/2021/05/14/puasa-syawal.html)
+
+
+{% comment %}
 
 - [Tata Cara Shalat Id](/2021/05/01/shalat-hari-raya.html)
+
+{% endcomment %}
 
 ### Menu Istimewa
 
