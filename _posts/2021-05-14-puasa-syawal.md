@@ -86,11 +86,13 @@ Hadits-hadits tentang puasa syawal bisa dilihat di [catatan kaki](#catatan-kaki)
 
 Hadhrat Masih Mau'ud (as) bersabda,
 
-> “Manusia memberikan zakat, maka kadang-kadang ia memberikan yang lain di luar zakar. Di bulan Ramadhan ia berpuasa maka selain itu pun ia kadang-kadang berpuasa. Jika dia berutang maka dia mengembalikan utang itu dalam jumlah yang agak lebih, sebab orang yang meminjamkan telah bersikap peduli [terhadapnya].
+> “Manusia memberikan zakat, maka kadang-kadang ia memberikan yang lain di luar zakat. Di bulan Ramadhan ia berpuasa maka selain itu pun ia kadang-kadang berpuasa. Jika dia berutang maka dia mengembalikan utang itu dalam jumlah yang agak lebih, sebab orang yang meminjamkan telah bersikap peduli [terhadapnya].
 > 
-> Nafal-nafal itu berfungsi sebagai penyempurna fardhu. Pada waktu melakukan nafal di dalam kalbu timbul suatu kekhusyukan dan rasa takut, yakni semoga kekurangan yang telah terjadi dalam fardhu-fardhu itu sekarang dapat terpenuhi. Inilah rahasia bahwa nafal-nafal memiliki hubungan yang sangat besar dengan qurub (kedekatan) Ilahi. Yakni di situ timbul kekhusyukan dan penghambaan serta kondisi inqitha (terputus dari hal-hal selain Allah)…puasa enam hari di bulan Syawal merupakan nafal-nafal.” [[^malfuzat_ii_199]].
+> Nafal-nafal itu berfungsi sebagai penyempurna fardhu. Pada waktu melakukan nafal di dalam kalbu timbul suatu kekhusyukan dan rasa takut, yakni semoga kekurangan yang telah terjadi dalam fardhu-fardhu itu sekarang dapat terpenuhi. Inilah rahasia bahwa nafal-nafal memiliki hubungan yang sangat besar dengan qurub (kedekatan) Ilahi. Yakni di situ timbul kekhusyukan dan penghambaan serta kondisi inqitha (terputus dari hal-hal selain Allah)…puasa enam hari di bulan Syawal merupakan nafal-nafal.” [[^malfuzat_ii_199]] [[^tirmidzi_378]].
 
 [^malfuzat_ii_199]: Malfuzat, jld. II, hlm. 199
+
+[^tirmidzi_378]: [H.R. At-Tirmidzi, Kitab Shalat, Shalat, yang pertama kali dihisab](https://pustaka.isa.web.id/ref/hds-b0b81ea9-28f8-4fc5-bf2a-f5e9a0daecbc)
 
 Hadhrat Muslih Mau'ud (ra) bersabda:
 
