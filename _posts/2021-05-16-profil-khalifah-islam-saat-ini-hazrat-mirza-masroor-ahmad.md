@@ -3,20 +3,22 @@ title: Profil Khalifah Islam Saat Ini, Hazrat Mirza Masroor Ahmad
 layout: post
 tags: khalifah khalifah-islam-saat-ini
 description: profil khalifah islam saat ini, hazrat mirza masroor ahmad, khalifatul masih v (atba), khalifah ahmadiyah ke-5
-published: false
+published: true
 ---
 
 ## {{ page.title }}
 
-Hadhrat Mirza Masroor Ahmad adalah [Khalifah](/islam/khalifah) yang berada dalam Umat Islam yang ada saat ini. Beliau menjabat sebagai [khalifah](/islam/khalifah) kelima dari Jemaat Muslim Ahmadiyah. Beliau sering disebut sebagai khalifatul masih. Beliau terpilih untuk gelar [Khalifah](/islam/khalifah) seumur hidup ini sejak 22 April 2003. Beliau menjabat sebagai kepala ruhani/spiritual dan administrasi di seluruh dunia dari sebuah organisasi keagamaan internasional dengan keanggotaan sekira sepuluh juta jiwa lebih yang tersebar di lebih dari 200 negara di dunia. 
+![Khalifah Islam Saat Ini, Hazrat Mirza Masroor Ahmad](/assets/images/khalifah-islam-saat-ini-hazrat-mirza-masroor-ahmad.webp)
 
-Beliau sering disapa oleh para Ahmadi lainnya dengan gelar Amiirul Mu'miniin (Amir bagi para Mukmin) atau Huzur (yang mulia). Beliau juga senantiasa didoakan oleh para pengikutnya dengan doa ayyadahuLLoohu ta'aala bi nashrihil-'aziiz (semoga Allah Ta'ala menguatkan beliau dengan pertolongannya Yang Perkasa). Doa ini selalu ditulis dengan singkatan aba atau atba. 
+Hadhrat Mirza Masroor Ahmad adalah [Khalifah](/islam/khalifah) yang berada dalam Umat Islam yang ada saat ini. Beliau menjabat sebagai [khalifah](/islam/khalifah) kelima dari [Jemaat Muslim Ahmadiyah](https://www.ahmadiyah.id). Beliau sering disebut sebagai [khalifatul masih](/islam/khalifatul-masih). Beliau terpilih untuk gelar [Khalifah](/islam/khalifah) seumur hidup ini sejak 22 April 2003. Beliau menjabat sebagai kepala ruhani/spiritual dan administrasi di seluruh dunia dari sebuah organisasi keagamaan internasional dengan keanggotaan sekira sepuluh juta jiwa lebih yang tersebar di lebih dari 200 negara di dunia. 
+
+Beliau sering disapa oleh para Ahmadi lainnya dengan gelar Amiirul Mu'miniin (Amir bagi para Mukmin) atau Huzur (yang mulia). Beliau juga senantiasa didoakan oleh para pengikutnya dengan doa *ayyadahuLLoohu ta'aala bi nashrihil-'aziiz* (semoga Allah Ta'ala menguatkan beliau dengan pertolongannya Yang Perkasa). Doa ini selalu ditulis dengan singkatan aba atau atba. 
 
 Beliau lahir pada 15 September 1950 di Rabwah, Pakistan. Setelah menyelesaikan gelar Magister Ekonomi Pertanian pada tahun 1977 dari Universitas Pertanian di Faisalabad, Pakistan, beliau secara resmi mempersembahkan hidupnya untuk pengabdian kepada Islam.
 
 Dari tahun 1977 hingga 1985, beliau berkhidmat untuk Islam di Ghana. Beliau menjalankan proyek pembangunan sosial, pendidikan, dan pertanian. Satu catatn yang gemilang bahwa beliau berhasil menanam gandum di tanah Ghana untuk pertama kalinya dalam sejarah bangsa itu. 
 
-Beliau dari Ghana kembali ke Pakistan tahun 1985 dan berkhidmat di berbagai posisi administrasi senior dalam Jemaat Muslim Ahmadiyah selama 18 tahun berikutnya, termasuk sebagai Ketua Eksekutif Jemaat Muslim Ahmadiyah di Pakistan dari tahun 1997 hingga --di puncak pengabdiannya-- beliau terpilih sebagai [Khalifah](/islam/khalifah).
+Beliau dari Ghana kembali ke Pakistan tahun 1985 dan berkhidmat di berbagai posisi administrasi senior dalam [Jemaat Muslim Ahmadiyah](https://www.ahmadiyah.id) selama 18 tahun berikutnya, termasuk sebagai Ketua Eksekutif [Jemaat Muslim Ahmadiyah](https://www.ahmadiyah.id) di Pakistan dari tahun 1997 hingga --di puncak pengabdiannya-- beliau terpilih sebagai [Khalifah](/islam/khalifah).
 
 Huzur tinggal di 16 Gressenhall Road, London SW18 5QL, U.K. beserta istri, Amtul Sabooh Ahmad. Beliau memiliki dua anak dan tiga cucu. 
 
@@ -42,7 +44,7 @@ Sebagai perhatian beliau dengan anggota Jemaatnya, Huzur membuka jadwal pertemua
 
 #### (3) Memberikan Tarbiyat atau Pendidikan Melalui Khotbah Jumat
 
-Setiap hari Jumat, Huzur menyampaikan Khotbahnya kepada semua anggota Jemaat Muslim Ahmadiyah di seluruh dunia. Khotbah tersebut disiarkan langsung secara dan mendunia melalui [MTA](https://www.mta.tv) International, sebuah stasiun televisi satelit Muslim Ahmadi yang didirikan sejak tahun 1994, dan diterjemahkan ke dalam berbagai bahasa utama di dunia.
+Setiap hari Jumat, Huzur menyampaikan Khotbahnya kepada semua anggota [Jemaat Muslim Ahmadiyah](https://www.ahmadiyah.id) di seluruh dunia. Khotbah tersebut disiarkan langsung secara dan mendunia melalui [MTA](https://www.mta.tv) International, sebuah stasiun televisi satelit Muslim Ahmadi yang didirikan sejak tahun 1994, dan diterjemahkan ke dalam berbagai bahasa utama di dunia.
 
 #### (4) Berbagai Acara di TV MTA Internasional
 
@@ -75,13 +77,13 @@ Huzur telah melakukan perjalanan Internasional untuk mempromosikan dan memfasili
 
 Huzur menaruh perhatian khusus dalam meringankan penderitaan negara-negara berkembang, dengan membantu meningkatkan pertanian mereka dan memfasilitasi akses ke makanan, air bersih, dan listrik. Beliau mengawasi pekerjaan [International Association of Ahmadi Architects and Engineers](http://iaaae.org/) ([IAAAE](http://iaaae.org/)), sebuah organisasi yang diberi pengarahan dengan memimpin berbagai proyek kemanusiaan dan pembangunan, di daerah terpencil di dunia. Cakupan dan keahlian organisasi ini telah berkembang pesat di bawah kepemimpinannya. Demikian pula, Yang Mulia mendukung pekerjaan Humanity First, sebuah organisasi amal/non-profit untuk pembangunan dan bantuan bencana internasional dan organisasi sejenis lainnya.
 
-Di bawah kepemimpinan Huzur, Jemaat Muslim Ahmadiyah telah membangun sejumlah sekolah dan rumah sakit yang menyediakan fasilitas kelas atas di belahan dunia yang terpencil. Dan melalui berbagai organisasi Jemaat Muslim Ahmadiyah, Huzur telah mendanai biaya sekolah dan pendidikan banyak siswa yang kurang mampu di seluruh dunia, terlepas dari latar belakang agama mereka.
+Di bawah kepemimpinan Huzur, [Jemaat Muslim Ahmadiyah](https://www.ahmadiyah.id) telah membangun sejumlah sekolah dan rumah sakit yang menyediakan fasilitas kelas atas di belahan dunia yang terpencil. Dan melalui berbagai organisasi [Jemaat Muslim Ahmadiyah](https://www.ahmadiyah.id), Huzur telah mendanai biaya sekolah dan pendidikan banyak siswa yang kurang mampu di seluruh dunia, terlepas dari latar belakang agama mereka.
 
 ### Tanggapan atas Persekusi atau Penganiayaan
 
-Setelah beliau terpilih menjadi [Khalifah](/islam/khalifah) di tahun 2003, Huzur terpaksa diasingkan dari Pakistan, negara asalnya. Konstitusi dan KUHP Pakistan membatasi anggota Jemaat Muslim Ahmadiyah untuk mengamalkan ajaran Islam atau menyatakan diri beragama Islam. Pelanggaran terhadap undang-undang yang represif ini berakibat pada denda, penjara, dan bahkan kemungkinan hukuman mati. Akibatnya, undang-undang tersebut mencegah Huzur untuk memenuhi tugasnya sebagai Kepala Organisasi Internasional dan karenanya beliau tidak dapat kembali ke Pakistan.
+Setelah beliau terpilih menjadi [Khalifah](/islam/khalifah) di tahun 2003, Huzur terpaksa diasingkan dari Pakistan, negara asalnya. Konstitusi dan KUHP Pakistan membatasi anggota [Jemaat Muslim Ahmadiyah](https://www.ahmadiyah.id) untuk mengamalkan ajaran Islam atau menyatakan diri beragama Islam. Pelanggaran terhadap undang-undang yang represif ini berakibat pada denda, penjara, dan bahkan kemungkinan hukuman mati. Akibatnya, undang-undang tersebut mencegah Huzur untuk memenuhi tugasnya sebagai Kepala Organisasi Internasional dan karenanya beliau tidak dapat kembali ke Pakistan.
 
-Meskipun penganiayaan yang dialami Muslim Ahmadi terus berlanjut di berbagai negara mayoritas Muslim, Huzur dengan tegas melarang pengikutnya untuk melakukan atau membalas dengan kekerasan apa pun. Pada 28 Mei 2010, teroris anti-Ahmadiyah menyerang dua masjid milik Jemaat Muslim Ahmadiyah di Lahore, Pakistan. Sebanyak 86 Muslim Ahmadi menjadi syahid ketika Sholat Jum'at, sementara puluhan lainnya terluka. Terlepas dari kebiadaban dan kejahatan terhadap kemanusiaan ini, Huzur menginstruksikan Muslim Ahmadi di seluruh dunia untuk menanggapi hanya melalui doa dan cara yang damai sepenuhnya.
+Meskipun penganiayaan yang dialami Muslim Ahmadi terus berlanjut di berbagai negara mayoritas Muslim, Huzur dengan tegas melarang pengikutnya untuk melakukan atau membalas dengan kekerasan apa pun. Pada 28 Mei 2010, teroris anti-Ahmadiyah menyerang dua masjid milik [Jemaat Muslim Ahmadiyah](https://www.ahmadiyah.id) di Lahore, Pakistan. Sebanyak 86 Muslim Ahmadi menjadi syahid ketika Sholat Jum'at, sementara puluhan lainnya terluka. Terlepas dari kebiadaban dan kejahatan terhadap kemanusiaan ini, Huzur menginstruksikan Muslim Ahmadi di seluruh dunia untuk menanggapi hanya melalui doa dan cara yang damai sepenuhnya.
 
 ### Tag
 
