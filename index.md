@@ -16,9 +16,9 @@ layout: beranda
 
 <i class="fa fa-thumbs-up" aria-hidden="true"></i> [<mark>Puasa Syawal</mark>](/2021/05/14/puasa-syawal.html)
 
-<i class="fa fa-thumbs-up" aria-hidden="true"></i> [<mark>Khalifah Islam Saat Ini</mark>](/2021/04/03/khalifah-islam-saat-ini.html)
+<i class="fa fa-thumbs-up" aria-hidden="true"></i> [<mark>Khalifah Islam (Ahmadiyah) Saat Ini</mark>](/2021/04/03/khalifah-islam-saat-ini.html)
 
-<i class="fa fa-thumbs-up" aria-hidden="true"></i> [<mark>Khalifah Islam Saat Ini Menyuarakan Solusi untuk Palestina</mark>](/2021/05/16/khalifah-islam-saat-ini-menyuarakan-solusi-untuk-palestina.html)
+<i class="fa fa-thumbs-up" aria-hidden="true"></i> [<mark>Pernyataan Khalifah Islam Ahmadiyah  tentang Palestina dan Israel</mark>](/2021/05/17/pernyataan-khalifah-islam-ahmadiyah-saat-ini-tentang-palestina-israel.html)
 
 {% comment %}
 
