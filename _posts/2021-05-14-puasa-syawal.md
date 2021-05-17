@@ -102,7 +102,7 @@ Hadhrat Muslih Mau'ud (ra) bersabda:
 >
 ><p class="arab"> عنْ أَبِي أَيُّوبَ الْأَنْصَارِيِّ رَضِيَ اللَّهُ عَنْهُ أَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ: "مَنْ صَامَ رَمَضَانَ ثُمَّ أَتْبَعَهُ سِتًّا مِنْ شَوَّالٍ كَانَ كَصِيَامِ الدَّهْرِ"‎</p>
 >
-> Abu Ayyub al-Anshari ra bercerita bahwa RasuluLlaah saw bersabda, “Siapa saja yang puasa Ramadhan, kemudian dia melanjutkan dengan enam hari pada bulan Syawal maka jadilah puasanya seperi satu tahun." (HR. Muslim)
+> Abu Ayyub al-Anshari ra bercerita bahwa RasuluLlaah saw bersabda, “Siapa saja yang puasa Ramadhan, kemudian dia melanjutkan dengan enam hari pada bulan Syawal maka jadilah puasanya seperti satu tahun." (HR. Muslim)
 > 
 > Untuk itu menghidupkan sunnah ini adalah kewajiban orang-orang Ahmadi. Pada suatu ketika Hadhrat Masih Mau'ud (as) sangat mementingkan sunnah ini, sehingga di Qadian, ramai sekali orang-orang berpuasa enam hari setelah hari Ied seperti ramainya orang-orang berpuasa di bulan Ramadhan. Akhirnya ketika umur Hadhrat Masih Mau'ud (as) sudah lanjut dan sering sakit, sampai dua atau tiga tahun beliau (as) tidak melakukan sunnah tersebut.
 >

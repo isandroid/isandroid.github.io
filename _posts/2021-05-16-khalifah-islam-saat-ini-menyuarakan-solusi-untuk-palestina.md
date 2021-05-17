@@ -1,7 +1,7 @@
 ---
 title: Khalifah Islam Saat Ini Menyuarakan Solusi untuk Palestina
 layout: post
-tags: khalifah-islam-saat-ini
+tags: khalifah-islam-saat-ini palestina-israel
 description: khalifah islam saat ini, hazrat mirza masroor ahmad, menyuarakan solusi yang baik untuk menyelesaikan perang di palestina
 published: true
 ---
