@@ -85,6 +85,19 @@ Setelah beliau terpilih menjadi [Khalifah](/islam/khalifah) di tahun 2003, Huzur
 
 Meskipun penganiayaan yang dialami Muslim Ahmadi terus berlanjut di berbagai negara mayoritas Muslim, Huzur dengan tegas melarang pengikutnya untuk melakukan atau membalas dengan kekerasan apa pun. Pada 28 Mei 2010, teroris anti-Ahmadiyah menyerang dua masjid milik [Jemaat Muslim Ahmadiyah](https://www.ahmadiyah.id) di Lahore, Pakistan. Sebanyak 86 Muslim Ahmadi menjadi syahid ketika Sholat Jum'at, sementara puluhan lainnya terluka. Terlepas dari kebiadaban dan kejahatan terhadap kemanusiaan ini, Huzur menginstruksikan Muslim Ahmadi di seluruh dunia untuk menanggapi hanya melalui doa dan cara yang damai sepenuhnya.
 
+### Artikel tentang Khalifah Islam Saat Ini
+
+{% for tag in site.tags %}
+{% if tag contains "khalifah-islam-saat-ini" %}
+  <ol>
+  	{% assign sorted2 = tag[1] | sort: 'title' %}
+    {% for post in sorted2 %}
+      <li class="spasi"><a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+  </ol>
+{% endif %}
+{% endfor %}
+
 ### Tag
 
 [#khalifah](https://ahmadiyah.id/ahmadiyah/khilafat), [#islam](https://alislam.org), [#ahmadiyah](https://ahmadiyah.id), [#khilafat](https://ahmadiyah.id/ahmadiyah/khilafat), [#mirzamasroorahmad](https://ahmadiyah.id/khilafat/masroor-ahmad), [#khalifahislam](https://ahmadiyah.id/ahmadiyah/khilafat)

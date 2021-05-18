@@ -14,11 +14,22 @@ layout: beranda
 
 ### Artikel Unggulan
 
-<i class="fa fa-thumbs-up" aria-hidden="true"></i> [<mark>Puasa Syawal</mark>](/2021/05/14/puasa-syawal.html)
+<ul>
+  <li class="spasi"><a href="/2021/05/14/puasa-syawal.html"><mark>Puasa Syawal</mark></a></li>
+</ul>
 
-<i class="fa fa-thumbs-up" aria-hidden="true"></i> [<mark>Khalifah Islam (Ahmadiyah) Saat Ini</mark>](/2021/04/03/khalifah-islam-saat-ini.html)
+### Artikel tentang Khalifah Islam Ahmadiyah Saat Ini
 
-<i class="fa fa-thumbs-up" aria-hidden="true"></i> [<mark>Pernyataan Khalifah Islam Ahmadiyah  tentang Palestina dan Israel</mark>](/2021/05/17/pernyataan-khalifah-islam-ahmadiyah-saat-ini-tentang-palestina-israel.html)
+{% for tag in site.tags %}
+{% if tag contains "khalifah-islam-saat-ini" %}
+  <ul>
+    {% assign sorted2 = tag[1] | sort: 'title' %}
+    {% for post in sorted2 %}
+      <li class="spasi"><a href="{{ post.url }}"><mark>{{ post.title }}</mark></a></li>
+    {% endfor %}
+  </ul>
+{% endif %}
+{% endfor %}
 
 {% comment %}
 
@@ -86,16 +97,4 @@ var x = setInterval(function() {
 }, 1000);
 </script>
 
-### Artikel tentang Puasa
-
-{% for tag in site.tags %}
-{% if tag contains "puasa" %}
-  <ul>
-    {% assign sorted2 = tag[1] | sort: 'title' %}
-    {% for post in sorted2 %}
-      <li class="spasi"><a href="{{ post.url }}">{{ post.title }}</a></li>
-    {% endfor %}
-  </ul>
-{% endif %}
-{% endfor %}
 {% endcomment %}

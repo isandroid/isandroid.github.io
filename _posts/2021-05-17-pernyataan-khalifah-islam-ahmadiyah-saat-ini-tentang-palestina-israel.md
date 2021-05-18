@@ -287,4 +287,17 @@ Pemimpin Internasional Jemaat Muslim Ahmadiyah [[^krisis_dunia_229_231]]
 
 [^krisis_dunia_229_231]: Buku krisis dunia dan jalan menuju perdamaian, Mirza Masroor Ahmad, Neratja Press: Juli 2017, Cetakan 4, hlm 229-231 [Download](http://ahmadiyah.id/wp-content/uploads/2017/08/krisis-dunia-dan-jalan-menuju-perdamaian.pdf)
 
+### Artikel tentang Khalifah Islam Saat Ini
+
+{% for tag in site.tags %}
+{% if tag contains "khalifah-islam-saat-ini" %}
+  <ol>
+  	{% assign sorted2 = tag[1] | sort: 'title' %}
+    {% for post in sorted2 %}
+      <li class="spasi"><a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+  </ol>
+{% endif %}
+{% endfor %}
+
 ### Catatan Kaki
