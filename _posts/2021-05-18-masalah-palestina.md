@@ -73,7 +73,6 @@ kepuasan, namun saya tidak akan
 mempermasalahkan hal itu disini.
 Mereka yang tidak memiliki akses
 info tentang apa yang sebenarnya
-
 terjadi di belakang layar, 
 sekurang-kurangnya mengetahui dari pers
 sehingga mereka khawatir, tidak
