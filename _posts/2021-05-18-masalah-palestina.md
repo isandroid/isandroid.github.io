@@ -3,7 +3,7 @@ title: Masalah Palestina
 layout: post
 tags: palestina-israel
 description: pidato chaudry zafrullah khan berkenaan dengan palestina dan israel di General Assembly Hall di Flushing Meadow, New York, Jumat 28 November 1947, jam 11.00
-published: true
+published: false
 ---
 
 ## {{ page.title }}
