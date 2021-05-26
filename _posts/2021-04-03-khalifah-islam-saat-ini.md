@@ -1,7 +1,7 @@
 ---
 title: Khalifah Islam Saat Ini, Hazrat Mirza Masroor Ahmad
 layout: post
-tags: khalifah khilafat
+tags: khalifah khilafat khalifah-islam-saat-ini
 description: Penjelasan tentang khalifah islam saat ini adalah khalifah jemaat islam ahmadiyah internasional, hazrat mirza masroor ahmad, khalifatul masih v (atba)
 published: true
 ---
@@ -106,18 +106,5 @@ Barangsiapa yang ingin bergabung dengan jamaahnya insya Allah akan diterima deng
 _Wassalaamu 'alaa manit-taba'al hudaa._
 
 [#khalifah](https://ahmadiyah.id/ahmadiyah/khilafat), [#islam](https://alislam.org), [#ahmadiyah](https://ahmadiyah.id), [#khilafat](https://ahmadiyah.id/ahmadiyah/khilafat), [#mirzamasroorahmad](https://ahmadiyah.id/khilafat/masroor-ahmad), [#khalifahislam](https://ahmadiyah.id/ahmadiyah/khilafat)
-
-### Artikel tentang Khalifah Islam Saat Ini
-
-{% for tag in site.tags %}
-{% if tag contains "khalifah-islam-saat-ini" %}
-  <ol>
-  	{% assign sorted2 = tag[1] | sort: 'title' %}
-    {% for post in sorted2 %}
-      <li class="spasi"><a href="{{ post.url }}">{{ post.title }}</a></li>
-    {% endfor %}
-  </ol>
-{% endif %}
-{% endfor %}
 
 ### Catatan kaki

@@ -18,10 +18,10 @@ layout: beranda
   <li class="spasi"><a href="/2021/05/14/puasa-syawal.html"><mark>Puasa Syawal</mark></a></li>
 </ul>
 
-### Artikel tentang Khalifah Islam Ahmadiyah Saat Ini
+### Artikel tentang Palestina-Israel
 
 {% for tag in site.tags %}
-{% if tag contains "khalifah-islam-saat-ini" %}
+{% if tag contains "palestina-israel" %}
   <ul>
     {% assign sorted2 = tag[1] | sort: 'title' %}
     {% for post in sorted2 %}
