@@ -52,15 +52,15 @@ Pekerjaan terakhir beliau adalah PNS Guru Pendidikan Agama Islam yg sudah pensiu
 
 ### Riwayat pendidikan
 
-1. Sekolah Rakyat di Mantrianom, tamat tahun 1955 
+1. Sekolah Rakyat (setingkat SD) di Mantrianom, tamat tahun 1958 
 
-2. Pendidikan Guru Agama Pertama Muhammadiyah, Banjarnegara, tamat tahun 1958
+2. Pendidikan Guru Agama Lengkap Muhammadiyah Banjarnegara, tamat tahun 1961
 
-3. Pendidikan Guru Agama Lengkap Muhammadiyah Banjarnegara, tamat tahun 1961
+3. Pendidikan Guru Agama Negeri (PGAN) selama 4 tahun (D1). Lulus tahun 1964 
 
 4. Kuliah di IAIN Purwokerto (namum tidak sampai lulus)
 
-5. Diploma Tiga UT jurusan pendidikan agama, tamat tahun 1999. Dari pendidikan ini, beliau mendapatkan gelar A,Md. (Ahli Madya Pendidikan)
+5. Pendidikan Tinggi D3 lulus 2001
 
 ### Kisah Baiat
 
