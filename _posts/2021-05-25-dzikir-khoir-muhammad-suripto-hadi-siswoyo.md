@@ -10,13 +10,13 @@ published: true
 
 ![Muhammad Suripto Hadi Siswoyo](/assets/images/suripto-hs.jpg)
 
-Nama lengkap almarhum adalah **Muhammad Suripto Hadi Siswoyo**. Beliau lahir di RT 04/02 Dusun Krucil, Ds. Winong, Kecamatan Bawang, Banjarnegara, Jawa Tengah, Indonesia pada tanggal 14 April 1942 (versi lain 1944) [[^tgl_lahir]]. Ayahanda beliau bernama Daryali sedangkan Ibunda beliau bernama <mark>......</mark>
+Nama lengkap almarhum adalah **Muhammad Suripto Hadi Siswoyo**. Beliau lahir di RT 04/02 Dusun Krucil, Ds. Winong, Kecamatan Bawang, Banjarnegara, Jawa Tengah, Indonesia pada tanggal 14 April 1942 (versi lain 1944) [[^tgl_lahir]]. Ayahanda beliau bernama Daryali sedangkan Ibunda beliau bernama Kartinah.
 
 [^tgl_lahir]: Ada dua versi tahun kelahiran akibat sitem administrasi pemerintahan pada zaman dulu yang belum rapi. Menurut teman teman almarhum yg seusia, diriwayatkan bahwa beliau lahir tahun 1942. Namun secara resmi menurut catatan pemerintah dalam Kartu Tanda Penduduk (KTP) tercatat bahwa beliau lahir tanggal 12 April 1944.
 
 Pak Suripto sudah menjadi Pegawai Negeri Sipil (PNS) dari sebelum menikah. Beliau menjadi guru agama di Kementrian Agama. Kemudian beliau menikah dengan anggota LI di Madukara. [[^wawancara_mln_nurhadi_20210525]]
 
-Istri beliau bernama **Tin Suprikhatin**. Dalam pernikahannya, beliau mendapatkan 8 putra dan putri. Salah satunya adalah seorang mubalig yang bernama Mln. **Irwan Habibullah**. Putra putri yang hidup sampai dewasa ada 6 orang, terdiri lima (5) laki laki satu (1) perempuan.
+Istri beliau bernama **Titin Suprikhatin**. Dalam pernikahannya, beliau mendapatkan 8 putra dan putri. Salah satunya adalah seorang mubalig yang bernama Mln. **Irwan Habibullah**. Putra putri yang hidup sampai dewasa ada 6 orang, terdiri lima (5) laki laki satu (1) perempuan.
 
 Putra-putri bapak Suripto:
 
@@ -24,7 +24,7 @@ Putra-putri bapak Suripto:
 
 2. Ikhsan Hidayatullah, S.Pd.SD, seorang pegawai negeri sipil (PNS) PNS guru SD di Banjarnegara , Sudah Musi
 
-3. Arif Irsiyadi, A Ma,Pd., seorang pegawai negeri sipil (PNS) di Dinas Kesehatan Bogor, Sudah Musi
+3. Arif Irsiyadi, A.Ma, seorang pegawai negeri sipil (PNS) di Dinas Kesehatan Bogor, Sudah Musi
 
 4. Afton Ridlowi, S.Pd.SD, bekerja Wiraswasta, sudah Musi
 
@@ -64,7 +64,7 @@ Pekerjaan terakhir beliau adalah PNS Guru Pendidikan Agama Islam yg sudah pensiu
 
 ### Kisah Baiat
 
-Di tahun 1963, pak Suripto termasuk orang yang mengikuti baiat awal di Krucil. Beliau termasuk pemuda di Krucil yang baiat pertama [^wawancara_mln_nurhadi_20210525]. Usia pak Suripto ketika itu sekira 21-an tahun. Pak Suripto berbaiat bersama orang tuanya, pak Daryali. Beliau sempat bertemu para awwalin pendiri di Jemaat Bawang-Krucil. [[^wawancara_irwan_habibullah_20210525]]
+Di tahun 1963, pak Suripto termasuk orang yang mengikuti baiat awal di Krucil. Beliau termasuk pemuda di Krucil yang baiat pertama [[^wawancara_mln_nurhadi_20210525]]. Usia pak Suripto ketika itu sekira 21-an tahun. Pak Suripto berbaiat bersama orang tuanya, pak Daryali. Beliau sempat bertemu para awwalin pendiri di Jemaat Bawang-Krucil. [[^wawancara_irwan_habibullah_20210525]]
 
 Mln. Nurhadi menceritakan,
 
@@ -84,7 +84,7 @@ Dari Krucil, beliau pindah ke Limbangan, kecamatan Madukara, Banjarnegara, Jawa 
 
 Di awal tahun 1970-an beliau terbiasa bertabligh di sekitar tempat tinggal. Di desa Limbangan beliau memprakarsai berdirinya Masjid desa yang didirikan di atas tanah desa. Belasan tahun beliau menjadi Imam Masjid desa. 
 
-### Mendirikan Masjid Jemaat Jengkol
+### Mendirikan Masjid Jemaat Madukara
 
 Di tahun 1970-an, Jemaat hanya ada keluarga bapak Suripto di desa Limbangan. Kemudian beberapa penduduk asli desa Limbangan ada yang menyatakan baiat, diantaranya adalah keluarga bapak Kartosuwuryo dan bapak Raji Ahmad yang baiat di tahun 1972. [[^wawancara_raji_ahmad_202105261530]]
 
@@ -137,9 +137,9 @@ Mln. Hendra Muslih menceritakan,
 
 ### Pertabligan ke Dusun Lengkong
 
-Beberapa bulan fokus bertabligh dan membina mubayiin baru di dusun Jawaran, kemudian pak Suripto memutuskan membuka daerah pertaligan baru, yaitu ke Dusun Lengkong, Desa Binanngun, Kec. Watumalang, Kab. Wonosobo. Kebetulan bapak Karto (mubayyi'in) kenal dengan bapak Musholim, salah satu Imam Masjid di Lengkong. Dua hingga tiga bulan bapak Suripto, bapak Karto dan ikhsan terus mengunjungi daerah ini untuk bertabligh. Keluarga besar bapak Musholim bersama sekitar empat keluarga lainya akhirnya menyatakan baiat. 
+Beberapa bulan fokus bertabligh dan membina mubayiin baru di dusun Jawaran, kemudian pak Suripto memutuskan membuka daerah pertaligan baru, yaitu ke Dusun Lengkong, Desa Binanngun, Kec. Watumalang, Kab. Wonosobo. Kebetulan bapak Karto (mubayyi'in) kenal dengan bapak H. Musholim, salah satu Imam Masjid di Lengkong. Dua hingga tiga bulan bapak Suripto, bapak Karto dan ikhsan terus mengunjungi daerah ini untuk bertabligh. Keluarga besar bapak H. Musholim bersama sekitar empat keluarga lainya akhirnya menyatakan baiat. 
 
-Pembinaan dan pertablighan terus dilakukan dalam beberapa bulan. Hampir setiap minggu beliau bersama tim bermalam sehari hingga dua hari di dusun Lengkong. Setelah itu bapak Suripto dan bapak Musholim memprogramkan untuk mengadakan baiat masal di madjid Besar Desa Lengkong. Koordinasi dengan Mubaligh Wilayah ketika itu, Mln. Mirajudin Shd dan Pengurus Besar senatiasa dilakukan. Pada suatu hari bada sholat Jumat di awal tahun 1993, diadakan baiat masal yang dipimpin langsung oleh Naib Amir Jemaat Ahmadiyah, bapak Kolonel Lius Ma'ala. Ketika itu sekira 400 orang menyatakan baiat.
+Pembinaan dan pertablighan terus dilakukan dalam beberapa bulan. Hampir setiap minggu beliau bersama tim bermalam sehari hingga dua hari di dusun Lengkong. Setelah itu bapak Suripto dan bapak H. Musholim memprogramkan untuk mengadakan baiat masal di madjid Besar Desa Lengkong. Koordinasi dengan Mubaligh Wilayah ketika itu, Mln. Mirajudin Shd dan Pengurus Besar senatiasa dilakukan. Pada suatu hari bada sholat Jumat di awal tahun 1993, diadakan baiat masal yang dipimpin langsung oleh Naib Amir Jemaat Ahmadiyah, bapak Kolonel Lius Ma'ala. Ketika itu sekira 400 orang menyatakan baiat.
 
 Berkat kunjungan yang rutin, Bapak Kolonel Lius Ma'ala Kali kedua memimpin baiat masal dilakukan di Dusun dusun Cepekan ba'da Maghrib di hari yang sama. Di dusun ini seluruh jamaah masjid menyatakan baiat [[^foto_baiat_masal_lengkong]]. Dari sinilah berdiri Jemaat Lengkong.
 
@@ -286,9 +286,11 @@ Mln. Irwan Habibullah dan Iksan Hidayatullah, keduanya putra pak Suripto. Mereka
 
 [^wa_mln_irwan_habibullah_20210525]: Percakapan pribadi penulis dengan Mln. Irwan Habibullah melalui Whatsapp di tanggal 25 Mei 2021 pukul 16.26.
 
-Mulai bulan Januari 1994,  Mln. Nurhadi bertugas di Jawa Tengah. Waktu itu pak Ripto sudah berhasil membaiatkan di Dusun Jengkol dan Jawaran. Pada saat itu ada sekira 150 orang. Di Jawaran lebih banyak yang baiat, yaitu sekira 300-an jiwa lebih. Ketika itu Mln. Nurhadi membina Jemaat Jengkol dan Jawaran. [[^wawancara_mln_nurhadi_20210525]]
+Mln. Nurhadi menceritakan,
 
-Ketika itu di Lengkong baiat 600 orang. Di Bendungan baiat sekira 400 orang. Di Wonosari baiat 200-an orang. Lalu di beberapa kelompok juga ada yang baiat. [[^wawancara_mln_nurhadi_20210525]]
+> Mulai bulan Januari 1994, saya bertugas di Jawa Tengah. Waktu itu pak Ripto sudah berhasil membaiatkan di Dusun Jengkol dan Jawaran. Pada saat itu ada sekira 150 orang. Di Jawaran lebih banyak yang baiat, yaitu sekira 300-an jiwa lebih. Ketika itu saya membina Jemaat Jengkol dan Jawaran. 
+> 
+> Ketika itu di Lengkong baiat 600 orang. Di Bendungan baiat sekira 400 orang. Di Wonosari baiat 200-an orang. Lalu di beberapa kelompok juga ada yang baiat. [[^wawancara_mln_nurhadi_20210525]]
 
 ### Jemaat yang Bediri dengan Peran Beliau
 
@@ -315,8 +317,6 @@ Perjuangan pak Suripto telah berbuah manis. Beberapa Jemaat yang berdiri melalui
 - Wonosobo
 
 - Jemaat Wadaslintang (Wonosobo) awal tabligh tahun 1992, berdiri cabang tahun 1995
-
-Semua cabang selain yang tiga itu (Bawang-Krucil), di Wonosobo dan Banjarnegara bisa dikatakan bahwa semua cabang adalah pak Suripto terlibat di dalamnya. Pertabligan dengan beliau, rata-rata sekarang sudah terbentuk cabang. [[^wawancara_mln_nurhadi_20210525]]
 
 ### Beberapa Kisah Tablig
 
@@ -402,13 +402,13 @@ Beberapa buah hasil rabtah pak Suripto dan tim diantaranya
 
 Beliau mempunyai cara yang unik dalam bertabligh, yaitu menggunakan metode pendekatan budaya Jawa. Materi tabligh selalu ditutup dengan tembang Jawa Macapat seperti tanda akhir jaman, kedatangan Imam Mahdi, dll. [[^wa_sajid_ahmad_sutikno_20210524]] Salah satunya ada pada video di bawah ini [[^video_yudhi_wahyuddin]]: 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tdT4bnbL9Yk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="360" height="200" src="https://www.youtube.com/embed/tdT4bnbL9Yk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 [^video_yudhi_wahyuddin]: Video yang direkam oleh Mln. Yudhi Wahyuddin pada 13 Maret 2021 di kediaman pak Suripto
 
 Video di bawah ini juga menunjukkan bahwa beliau terbiasa tablig menggunakan pendekatan budaya Jawa [[^video_hasan_ibnu_saguh]].
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qBBn03JHlnQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
+<iframe width="360" height="200" src="https://www.youtube.com/embed/qBBn03JHlnQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
 
 [^video_hasan_ibnu_saguh]: [Video](https://www.facebook.com/hasan.s.524/videos/2826182200967009/) yang diunduh dari Facebook [Hasan Ibnu Saguh](https://www.facebook.com/hasan.s.524)
 
