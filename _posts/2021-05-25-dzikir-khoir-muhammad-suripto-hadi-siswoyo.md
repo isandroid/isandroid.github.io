@@ -24,7 +24,7 @@ Putra-putri bapak Suripto:
 
 2. Ikhsan Hidayatullah, S.Pd.SD, seorang pegawai negeri sipil (PNS) PNS guru SD di Banjarnegara , Sudah Musi
 
-3. Arif Irsiyadi, A.Ma, seorang pegawai negeri sipil (PNS) di Dinas Kesehatan Bogor, Sudah Musi
+3. Arif Irsiyadi, A.Md.Kep., seorang pegawai negeri sipil (PNS) di Dinas Kesehatan Bogor, Sudah Musi
 
 4. Afton Ridlowi, S.Pd.SD, bekerja Wiraswasta, sudah Musi
 
