@@ -8,6 +8,8 @@ published: true
 
 ## {{ page.title }}
 
+![Muhammad Suripto Hadi Siswoyo](/assets/images/suripto-hs.jpg)
+
 Nama lengkap almarhum adalah **Muhammad Suripto Hadi Siswoyo**. Beliau lahir di RT 04/02 Dusun Krucil, Ds. Winong, Kecamatan Bawang, Banjarnegara, Jawa Tengah, Indonesia pada tanggal 14 April 1942 (versi lain 1944) [[^tgl_lahir]]. Ayahanda beliau bernama Daryali sedangkan Ibunda beliau bernama <mark>......</mark>
 
 [^tgl_lahir]: Ada dua versi tahun kelahiran akibat sitem administrasi pemerintahan pada zaman dulu yang belum rapi. Menurut teman teman almarhum yg seusia, diriwayatkan bahwa beliau lahir tahun 1942. Namun secara resmi menurut catatan pemerintah dalam Kartu Tanda Penduduk (KTP) tercatat bahwa beliau lahir tanggal 12 April 1944.
@@ -77,8 +79,6 @@ Mln. Nurhadi menceritakan,
 ### Tempat Tinggal
 
 Dari Krucil, beliau pindah ke Limbangan, kecamatan Madukara, Banjarnegara, Jawa Tengah, Indonesia sekira tahun 1968. Disanalah tempat tinggal beliau hingga wafat pada tanggal 24 Mei 2021.
-
-### Detil Perjalanan Hidup
 
 ### Menjadi Imam Masjid Desa
 
