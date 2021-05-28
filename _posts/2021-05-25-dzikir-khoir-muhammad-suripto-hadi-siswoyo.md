@@ -18,7 +18,9 @@ Pak Suripto sudah menjadi Pegawai Negeri Sipil (PNS) dari sebelum menikah. Belia
 
 Istri beliau bernama **Titin Suprikhatin**. Dalam pernikahannya, beliau mendapatkan 8 putra dan putri. Salah satunya adalah seorang mubalig yang bernama Mln. **Irwan Habibullah**. Putra putri yang hidup sampai dewasa ada 6 orang, terdiri lima (5) laki laki satu (1) perempuan.
 
-Putra-putri bapak Suripto:
+#### Putra-putri bapak Suripto
+
+Beberapa putra-putri almarhum bapak Suripto antara lain:
 
 1. Atun Nurul Hidayati, S.Pd.SD, seorang pegawai negeri sipil (PNS) guru SD di Banjarnegara, belum/dalam proses Musiah
 
@@ -32,7 +34,25 @@ Putra-putri bapak Suripto:
 
 6. Zaenuda Ikhwanul Aziz,  SH, seorang pegawai negeri sipil (PNS) di BKN Pusat, sudah Musi
 
-Pak Suripto telah melalui beberapa jenjang pendidikan sehingga mendapatkan gelar Ahli Madya Pendidikan (A.Md.)
+Almarhum juga mengasuh seorang anak dari antara saudara beliau yang yatim-piatu. Anak tersebut bernama Nita Hanifah. Alhamdulillah, saat ini ia sudah berkeluarga dan tinggal di Magelang.
+
+#### Saudara Kandung pak Suripto
+
+Saudara-saudara kandung almarhum bapak Suripto yaitu:
+
+1. Sarbinah, kakak perempuan, masih hidup
+
+2. Suwarni, adik perempuan, masih hidup
+
+3. Munjiah, adik perempuan, masih hidup
+
+4. Roliyah, adik perempuan masih hidup, Guru Madrasah Ahmadiyah
+
+5. H. Imam Maryono S,Pd.M.Pd, adik laki-laki, masih hidup, saat ini beliau menjabat sebagai Amirda Jateng 1 dan 2
+
+6. Mln. Nurhadi, adik laki-laki, masih hidup, saat ini beliau bertugas sebagai Mubaligh di Jemaat Banjarnegara
+
+7. Nurjanah, adik perempuan, Mantan Ketua LI Jemaat Bawang, beliau telah meninggal tahun 2018.
 
 ### Pekerjaan dan Aktivitas
 
@@ -61,6 +81,8 @@ Pekerjaan terakhir beliau adalah PNS Guru Pendidikan Agama Islam yg sudah pensiu
 4. Kuliah di IAIN Purwokerto (namum tidak sampai lulus)
 
 5. Pendidikan Tinggi D3 lulus 2001
+
+Itulah jenjang pendidikan yang telah ditempuh Pak Suripto sehingga beliau mendapatkan gelar Ahli Madya Pendidikan (A.Md.)
 
 ### Kisah Baiat
 
