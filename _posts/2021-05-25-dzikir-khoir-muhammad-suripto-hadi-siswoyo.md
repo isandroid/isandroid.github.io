@@ -104,7 +104,9 @@ Dari Krucil, beliau pindah ke Limbangan, kecamatan Madukara, Banjarnegara, Jawa 
 
 ### Menjadi Imam Masjid Desa
 
-Di awal tahun 1970-an beliau terbiasa bertabligh di sekitar tempat tinggal. Di desa Limbangan beliau memprakarsai berdirinya Masjid desa yang didirikan di atas tanah desa. Belasan tahun beliau menjadi Imam Masjid desa. 
+Di awal tahun 1970-an beliau terbiasa bertabligh di sekitar tempat tinggal, yakni di Desa Limbangan. Sebelum berdiri Masjid Desa, sholat Jumat biasa dilaksanakan di Rumah (almarhum) bapak Suripto dan bapak (almarhum) Mln. Mohammad Ahmad sering menjadi Imam dan Khotib Jumat.
+
+Di desa Limbangan beliau memprakarsai berdirinya Masjid desa yang didirikan di atas tanah desa. Belasan tahun beliau menjadi Imam Masjid desa. 
 
 ### Mendirikan Masjid Jemaat Madukara
 
@@ -163,7 +165,7 @@ Beberapa bulan fokus bertabligh dan membina mubayiin baru di dusun Jawaran, kemu
 
 Pembinaan dan pertablighan terus dilakukan dalam beberapa bulan. Hampir setiap minggu beliau bersama tim bermalam sehari hingga dua hari di dusun Lengkong. Setelah itu bapak Suripto dan bapak H. Musholim memprogramkan untuk mengadakan baiat masal di madjid Besar Desa Lengkong. Koordinasi dengan Mubaligh Wilayah ketika itu, Mln. Mirajudin Shd dan Pengurus Besar senatiasa dilakukan. Pada suatu hari bada sholat Jumat di awal tahun 1993, diadakan baiat masal yang dipimpin langsung oleh Naib Amir Jemaat Ahmadiyah, bapak Kolonel Lius Ma'ala. Ketika itu sekira 400 orang menyatakan baiat.
 
-Berkat kunjungan yang rutin, Bapak Kolonel Lius Ma'ala Kali kedua memimpin baiat masal dilakukan di Dusun dusun Cepekan ba'da Maghrib di hari yang sama. Di dusun ini seluruh jamaah masjid menyatakan baiat [[^foto_baiat_masal_lengkong]]. Dari sinilah berdiri Jemaat Lengkong.
+Berkat kunjungan yang rutin, Bapak Kolonel Lius Ma'ala Kali kedua memimpin baiat masal dilakukan di desa Gelangan ba'da Maghrib di hari yang sama. Di desa ini seluruh jamaah masjid menyatakan baiat [[^foto_baiat_masal_lengkong]]. Dari sinilah berdiri Jemaat Lengkong.
 
 [^foto_baiat_masal_lengkong]: Foto prosesi baiat masal tersebut terdapat di buku Souvenir seabad Ahmadiyah
 
@@ -173,7 +175,7 @@ Setelah berhasil melalui baiat masal tersebut, kemudian pertablighan diarahkan k
 
 ### Pertabligan ke Desa Bendungan
 
-Bapak Mln. Nurhadi mendapatkan info dari mubayin baru bahwa ada anggota Gerakan Ahmadiyah Indonesia atau Ahmadiyah Lahore di Desa kasmaran kec. Pagentan, akhirnya sering dikunjungi bersama Almarhum bapak Suripto dan banyak yang menyatakan baiat. Tokohnya saat itu adalah bapak Mohamad (almarhum).
+Bapak Mln. Nurhadi mendapatkan info dari mubayin baru bahwa ada anggota Gerakan Ahmadiyah Indonesia atau Ahmadiyah Lahore di Desa kasmaran, kecamatan Pagentan. Setelah itu menjadi sering untuk dikunjungi bersama (almarhum) bapak Suripto sehingga banyak yang menyatakan baiat. Tokohnya saat itu adalah (almarhum) bapak Mohamad Hakim.
 
 ### Pertabligan ke Desa Kasmaran dan Wonosari
 
@@ -203,7 +205,7 @@ Iksan Hidayatullah, putra pak Suripto menyampaikan bahwa almarhum terbiasa mendi
 
 Mln. Irwan Habibullah, salah satu putra pak Suripto menceritakan,
 
->Sepengetahuan saya dari sejak kecil, pak Suripto adalah sosok yang ahli tahajjud. Setiap malam tidak ada hari tanpa tahajjud. Awalnya beliau sering tahajjud di masjid (Jemaat) yang tempatnya berdampingan  dengan rumah. Seorang muallim memberikan nasehat bahwa hendaknya tahajjud dilakukan di rumah saja agar keluarga, termasuk anak-anak bisa melihat. Semenjak itu, beliau mulai tahajjud di rumah. Semenjak itu sebelum beliau tahajjud, beliau keliling mengetuk pintu kamar tidur anak-anaknya. Setelah shalat beberapa rakaat, beliau kembali mengetuk pintu kamar tidur anak-anaknya yang belum bangun untuk tahajjud. Hal ini terus dilakukan hingga tiba waktu shubuh. Hal ini dilakukan setiap hari. Beliau sosok yang sangat mudah untuk bangun Tahajjud. 
+> Sepengetahuan saya dari sejak kecil, pak Suripto adalah sosok yang ahli tahajjud. Setiap malam tidak ada hari tanpa tahajjud. Awalnya beliau sering tahajjud di masjid (Jemaat) yang tempatnya berdampingan  dengan rumah. Seorang muallim memberikan nasehat bahwa hendaknya tahajjud dilakukan di rumah saja agar keluarga, termasuk anak-anak bisa melihat. Semenjak itu, beliau mulai tahajjud di rumah. Semenjak itu sebelum beliau tahajjud, beliau keliling mengetuk pintu kamar tidur anak-anaknya. Setelah shalat beberapa rakaat, beliau kembali mengetuk pintu kamar tidur anak-anaknya yang belum bangun untuk tahajjud. Hal ini terus dilakukan hingga tiba waktu shubuh. Hal ini dilakukan setiap hari. Beliau sosok yang sangat mudah untuk bangun Tahajjud. 
 >
 > Sekira enam bulan lalu, pak Suripto bercerita kepada saya sebagai seorang anak. Ketika itu ada salah seorang warga yang tanya, "Apa rahasia kesuksesan dalam mendidik anak-anak?" Beliau menjawab, "Sebenarnya karena saya shalat Tahajjud dan berdoa." Keberhasilan tablig dan tarbiyat itu juga karena beliau tidak pernah meninggalkan Tahajjud.
 >
@@ -277,6 +279,16 @@ Pak Arja Pawira, menyampaikan kesannya terhadap pak Suripto,
 
 > Pak ripto adalah sosok yang gigih dan tak kenal lelah dalam bertabligh. Beliau tidak pernah tersinggung walaupun ada ejekan, mungkin hinaan bahkan ppenderitaan. Pernah suatu waktu kami (pak Arja, pak Suripto dan pak Sis) berangkat untuk tabligh pagi-pagi. Kami dari jengkol sarapan terlebih dulu kemudian berangkat tablig. Singkat cerita, dalam bertabligh tersebut tidak ada satu orang pun yang menyuguhi makanan dll. Jadi seharian dari pagi hingga malam, kami menahan lapar. Tapi karena kegigihan dan mau menahan segala penderitaan, ejekan dll, pak Suripto berhasil membaiatkan banyak orang. Bukan hanya di Dusun Jengkol, tetapi juga di Jawaran, Lengkong, Bendungan, Wonosari dll. [[^wawancara_arja_pawira_20210526]]
 
+Mln. Ahmad Suparja Hidayat, mubda Jateng-2 menceritakan,
+
+> Saya mengenal dekat almarhum hanya tiga-setengah bulan belakangan ini. Saya merasa nyaman ketika berbincang-bincang dengan beliau ketika beliau menceritakan pengalaman-pengalaman tabligh yang sangat menyentuh hati. 
+>
+> Beliau seorang Da'i pemberani, tak pernah merasa takut ketika mendapat berbagai ancaman dari orang-orang yang menteror dan mengintimidasi beliau. Beliau seorang sosok yang mempunyai magnet/daya tarik sehingga pengalaman-pengalaman tabligh yang beliau ceritakan sangat menarik dan menyentuh hati sehingga timbul keinginan ingin menjadi seperti beliau. Beliau sosok yang penyabar. Ketika saya menjenguk beliau beberapa hari sebelum kewafatannya, kondisi beliau sangat drop secara drastis. Sambil berbaring di tempat tidur beliau menghadapinya dengan penuh kesabaran dan sama-sekali tidak mengaduh apalagi mengeluh. Sungguh luar biasa sabar dan tabahnya almarhum. [[^wa_mln_suparja_hidayat_20210528]]
+
+Mln. Nasiruddin Ahmadi, Mubda Jateng-1 menceritakan,
+
+> Disisi lain, saya mengenal pribadi beliau adalah seorang sosok Ayah, Ahmadi yang lembut, ulet, tidak mudah menyerah dalam mencapai tujuan,  semangat, bijaksana, disiplin dan tegas dalam mendidik putra-putrinya agar selalu berada dilingkungan Jemaat. Dan ini terbukti, seluruh putra-putri H. Suripto menjadi orang-orang yang berhasil dunia dan akhirat nya. Selain berhasil dalam bidang Pertabligan beliau juga sukses dalam mendidik keluarga. Anak keturunan beliau  hampir Semuanya yang menjadi pengurus Jemaat, dan sangat aktif didalam kejemaatannya. Semoga kita bisa meniru apa yang sudah dilakukan oleh Bapak Haji Suripto. [[^wa_mln_nasiruddin_ahmadi_20210531]]
+
 ### Pengkhidmatan dalam Jemaat
 
 #### 01. Sebagai Dai
@@ -293,12 +305,21 @@ Mln. Irwan Habibullah, putra pak Suripto menceritakan,
 
 [^wa_mln_irwan_habibullah_20210527]: Percakapan pribadi penulis dengan Mln. Irwan Habibullah melalui Whatsapp di tanggal 25 Mei 2021 pukul 08.33 WIB.
 
-
 #### 03. Seorang Qadhi di Dewan Qodho
 
 Selain itu, beliau juga berkhidmat sebagai salah satu Qoodhi  dalam Dewan  Qodho Jemaat Ahmadiyah Indonesia. Beliau diterima oleh Huzur V (atba) sebagai anggota dewan Qodho mulai tahun 2016 hingga beliau wafat [[^surat_sebagai_dewan_qadha]].
 
 [^surat_sebagai_dewan_qadha]: [Surat Persetujuan Huzur V (atba) bahwa pak Suripto menjadi anggota Dewan Qadha](https://drive.google.com/file/d/1LKpE-X_FM0BxkSPH2ixltdZu9cPLPAxm/view?usp=sharing)
+
+Mln. Isa Mujahid Islam menceritakan,
+
+> Tanggal 11-Juni-2019 ada satu keluarga yang sudah sepakat untuk bercerai. Mereka sudah melakukan mediasi melalui saya sebagai mubalig lokal dengan menghadirkan beberapa dari keluarga besar mereka. Setelah dilakukan mediasi malah tidak membuahkan hasil yang baik. Mereka tetap memutuskan untuk bercerai. Di akhir pertemuan, saya sampaikan bahwa sebagai anggota Jemaat yang taat, jika seorang anggota memang harus bercerai, maka prosesnya harus melalui Dewan Qadha terlebih dahulu.
+> 
+> Karena di wilayah saya bertugas terdapat pak Suritpo Hadi Siswoyo sebagai salah satu Qadhi dalam jajaran Dewan Qadha, maka saya putuskan untuk meminta bantuan beliau untuk menyelesaikan permasalahan ini. Dengan karunia Allah Ta'ala, pada tanggal 13-Juni-2019 bapak Suripto Hadi Siswoyo bersedia datang jauh-jauh dari Madukara untuk menjadi mediator di tempat tugas saya. Dengan bahasa beliau yang tenang dan khas, mulailah beliau memberikan nasehat-nasehat kepada mereka dengan bahasa yang halus dan jelas. 
+>
+> Seperti panah yang menancap tepat pada sasaran. Semua akar masalah mereka keluarkan dengan mudahnya. Keduanya tersadar dan bersedia melakukan ishlah atau perbaikan dalam keluarga. kemudian mereka berjanji akan saling memahami dan lebih saling pengertian satu sama lain. Inilah kelebihan pak Suripto yang mampu meluluhkan hati manusia dengan mudahnya. Acara ditutup dengan doa yang dihiasi dengan tetesan air mata semua pihak. Begitu indah dan syahdunya suasana kala itu. [[^tulisan_mln_isa_mujahid_islam_20190613]]
+
+[^tulisan_mln_isa_mujahid_islam_20190613]: Tulisan Mln. Isa Mujahid Islam di Bawang tanggal 13 Juni 2019  
 
 ### Mubayyi'in melalui tangan Beliau
 
@@ -444,6 +465,26 @@ Di tahun 2000, ketika ada mulaqat perkeluarga dengan Huzur IV (rh) di Yogyakarta
 
 Pak Suripto pernah bercerita bahwa di tahun 2000, beliau mimpi diundang oleh Huzur IV (rh) untuk datang ke London. Beberapa hari setelah itu, ada telpon dari PB lewat pak Pono di Sokanandi bahwa pak Suripto agar bersiap-siap membuat paspor karena diundang mengikuti Jalsah di London.  Dan beliau berangkat ke London bersama Mln. Nurhadi. [[^wawancara_irwan_habibullah_20210525]]
 
+Mln. Nasiruddin Ahmadi, Mubda Jateng-1 menceritakan,
+
+> Sekitar tahun 1990-an waktu itu saya melakukan salat istikharah selama lebih kurang dua minggu yang Tujuannya untuk menentukan jalan hidup dan masa depan saya, apakah masih bekerja di suatu perusahaan Instrumens Medical di Jakarta atau saya harus mengikuti pendidikan di Jamiah Ahmadiyah Indonesia untuk bisa menjadi sebagai Muballigh. Cita-cita ini sudah tertanam sejak masa kecil.
+> 
+> Di tengah kegamangan ini, saya melakukan solat istikharah. Dalam rangkaian mimpi diperlihatkan oleh Allah Subhanahu wa Ta'ala salah satunya adalah:
+> 
+> "Saya sedang berada di atas ketinggian, yaitu berada di atas menara yang cukup tinggi. Saat itu ada suara yang sangat gemuruh dengan ucapan Takbir yang sangat keras. Naraiiii...Takbir...Allahu Akbar!   Takbir ini terdengar berulang-ulang. 
+>
+> Selanjutnya ada pengumuman, "Ahmadiyah Lahore berbondong-bondong baiat ke Ahmadiyah Qadian. Ahmadiyah Lahore bergabung dengan Ahmadiyah qadian!" Pengumuman itu disambut dengan teriakan Takbir yang sangat luar biasa....Naraeeei Takbir...Allahu Akbar!
+>
+> Setelah mimpi ini, saya konsultasikan dengan bapak Mln. Uung Kurnia Fadhal Ahmad, yang  saat itu menjadi mubaligh di Bogor. Beliau menjawab: "Menara menandakan ketinggian rohani, dan tuan berada di posisi itu, Insya Allah Ta'ala kejadian, pembaitan, ini akan terjadi". 
+> 
+> Saat itu Saya teringat dan pernah mendengar ada seorang da'i yang sangat potensial dan  aktif dalam melakukan pertalighan berasal dari daerah Wonosobo dan Banjarnegara, yaitu bapak Suripto HS.
+> 
+> Seiring dengan berjalannya waktu, dua tahun setelah saya di Jamiah Ahmadiyah Indonesia, ada informasi yang mencengangkan terjadi. Ternyata penggenapan dari mimpi saya ini terjadi tahun 1993-an. Pada saat itu di daerah Jawaran terjadi pertablighan dan pembaiatan ratusan kelompok Ahmadi Lahore yang hijrah ke induk-semangnya, Ahmadiyah Qadian. Disusul dengan berhasilnya pertablighan dan berbaiatnya para Ahmadi Lahore ke dalam Jemaat Ahmadiyah Indonesia pada tahun 1994-1995 di Lengkong, Bendungan, Wonosari,  Kasmaran dan daerah lainnya di Kab. Wonosobo.
+> 
+> Peranan Haji Suripto sangat besar dalam kesuksesan  pertablighan ini, yang tentunya bekerjasama dengan Para Muballigh dan Dai lainnya. Dan juga, tentunya peranan istri beliau pun tidak bisa diabaikan dalam mencapai kesuksesan semua ini. Itulah sekilas penggenapan mimpi saya tahun 1990-an dan penggenapan nya tahun 1993-1995. [[^wa_mln_nasiruddin_ahmadi_20210531]]
+
+[^wa_mln_nasiruddin_ahmadi_20210531]: Tulisan dari Mln. Nasiruddin Ahmadi yang dikirim melalui pesan Whatsaapp dari Purwokerto tanggal 31 Mei 2021
+
 ### Kewafatan dan Donor Mata
 
 Almarhum bapak Suripto adalah seorang pendonor mata. Sebelum kewafatannya beliau meminta agar kornea mata beliau diambil agar bermanfaat bagi kemanusiaan. Ada satu yang menarik dalam proses eksisi kornea mata almarhum. Secara medis, almarhum meninggal tanggal 24-Mei-2021 pukul 00.00 WIB sedangkan pelaksana eksisi itu tiba sekira pukul 09.30 WIB.  
@@ -460,5 +501,18 @@ https://youtu.be/RE461xWGkP8
 
 {% endcomment %}
 
-### Catatan Kaki
+Beberapa warga Desa Limbangan menyampaikan pasca kewafatan bapak Suripto bahwa hujan turun lima menit setelah beliau meninggal. Kemudian lima hari berturut-turut setelah beliau dimakamkan, turun hujan sangat besar padahal bulan ini adalah bulan Mei dan dua bulan sebelumnya sangat sulit turun hujan.
 
+Mln. Sufni, bercerita, 
+
+> "Alam turut menangis atas kewafatan beliau"
+
+Iksan Hidayatullah juga juga sempat mengucapkan hal serupa kepada istri ketika hujan besar ketika mengadakan perjalanan menggunakan mobil ke Desa Limbangan.
+
+Mln. Ahmad Suparja Hidayat, mubda Jateng-2 menceritakan,
+
+> Waktu pemakaman almarhum bapak Suripto HS, selain dihadiri oleh sejumlah besar anggota jemaat, juga dihadiri oleh sejumlah besar orang ghair Ahmadi. Diantaranya: tokoh masyarakat, tokoh agama, para pegawai pamong desa dan lain-lain. Saya mendapat amanat untuk memimpin doa sambil berdiri di sisi makam almarhum. Tidak terasa saya berdoa dengan dipenuhi rasa haru sambil menangis terisak-isak dan banyak mencucurkan air mata. Salah seorang anak almarhum menceritakan kepada saya bahwa lafal doa yang diucapkan sangat menyentuh di hatinya dan katanya mungkin saja orang2 ghair juga pada heran melihat pemandangan seperti itu. Kejadian itu sangat alami mengalir begitu saja. Saya sendiri sangat heran dibuatnya. Selama ini belum pernah saya alami ketika memimpin doa untuk orang lain sesedih ketika mendoakan jenazah almarhum bapak Suripto. Sepertinya saya kehilangan seseorang yang paling saya sayangi dan cintai. [[^wa_mln_suparja_hidayat_20210528]]
+
+[^wa_mln_suparja_hidayat_20210528]: Tulisan yang dikirim Mln. Suparja Hidayat dari Wonosobo melalui pesan Whatsapp tanggal 28 Mei 2021
+
+### Catatan Kaki
