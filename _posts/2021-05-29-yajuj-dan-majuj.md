@@ -3,7 +3,7 @@ title: Ya'juj dan Ma'juj
 layout: post
 tags: yajuj-majuj akhir-zaman
 description: penjelasan mengenai Ya'juj dan Ma'juj
-published: false
+published: true
 ---
 <p class="quran">بِسۡمِ اللّٰہِ الرَّحۡمٰنِ الرَّحِیۡمِ</p>
 
@@ -31,8 +31,6 @@ Akar kata *ajij* (أَجِج) mempunyai turunan kata kerja *ajja* (أَجَّ)
 
 Arti dari kata *ajja* diantaranya: (Api) berkobar, menyalakan, membakar, menggelorakan.
 
- 
-
 Yajuj dan Majuj adalah dua (golongan) manusia yang telah disebutkan dalam kitab suci terdahulu. Alasan mengapa mereka disebut demikian adalah karena mereka mengembangkan penggunaan *Ajij* [api] dan akan menguasai secara unggul di muka bumi dan mendominasi setiap keunggulan. Pada saat yang sama, perubahan besar akan ditetapkan dari langit dan akan mengantarkan hari-hari damai dan bersahabat. [[^rk_vol20_p211]] [[^the_essence_of_islam_vol_iii]]
 
 [^rk_vol20_p211]: Yajuj [Gog] and Majuj [Magog] are two peoples who have been mentioned in earlier scriptures. The reason why they are so called is that they make extensive use of Ajij [fire], and would reign supreme on earth and dominate every height. At the same time, a great change will be ordained from heaven and will usher in days of peace and amity. (Lecture Sialkot, Ruhani Khaza’in, vol. 20, p. 211)
@@ -53,7 +51,7 @@ pohon-pohon kurma, dan di
 antara keduanya itu Kami jadikan
 *pula* ladang." (QS Al-Kahfi [18]: 33 dengan basmallah). 
 
-Dari ayat ini diuraikan keadaan mengenai dua golongan, ialah umat Kristen dan umat Islam. Kemudian dalam beberapa tamsil dikemukakan juga tamsil berikut,
+Dari ayat ini diuraikan keadaan mengenai dua golongan, ialah umat Kristen dan umat Islam. Kemudian dikemukakan tamsil berikutnya,
 
 > Maka boleh jadi Tuhan-ku
 akan menganugerahkan kepadaku
@@ -477,15 +475,14 @@ sendiri hampir-hampir tidak dapat mempercayainya.
 
 Di akhir surat Al-Anbiyaa, Allah Ta'ala berfirman,
 
-*Dan Rasulullah* berkata,
+> *Dan Rasulullah* berdoa,
 “Wahai Tuhan-ku! Hakimilah
 dengan kebenaran, Tuhan Kami
 adalah *Tuhan* Yang Maha Pemurah,
-yang dimohonkan pertolonganNya terhadap apa yang kamu
-katakan.”
-(QS Al-Anbiya [21] ayat 113 dengan basmallah)
+yang dimohonkan pertolongan-Nya terhadap apa yang kamu
+katakan.” (QS Al-Anbiya [21] ayat 113 dengan basmallah)
 
-Tafsir: Rasulullah Saw diperintahkan untuk memanjatkan doa yang tersebut
+Tafsir: Rasulullah (saw) diperintahkan untuk memanjatkan doa yang tersebut
 dalam ayat ini sebagai perlindungan terhadap kekuatan-kekuatan buruk yang
 akan dilepaskan ke dunia di akhir zaman dalam bentuk Ya’jūj dan Ma’jūj .
 Ternyata dari Bibel, bahwa di masa Ya’jūj dan Ma’jūj , kekuatan fisik tidak akan
@@ -1021,8 +1018,7 @@ opponents! [[^barahin_ahmadiyah_v_h153_4_catatan_kaki]]
 
 {% endcomment %}
 
-Saya juga telah membuktikan bahwa penting bagi Hadhrat Masih Mau'ud muncul pada saat Yajuj dan Majuj. Karena Ajij, dimana kata Ya'juj dan Ma'juj berarti 'api', Tuhan Yang Maha Kuasa telah mengungkapkan kepadaku bahwa Ya'juj dan Ma'juj adalah orang-orang yang lebih ahli dalam menggunakan api daripada orang lain. Nama mereka sendiri menunjukkan bahwa kapal, kereta api, dan mesin mereka akan berjalan menggunakan (tenaga) api. Mereka akan berperang dengan api. Mereka akan mengungguli semua orang lain dalam memanfaatkan api untuk melayani mereka. Inilah mengapa mereka akan disebut Ya'juj dan Ma'juj. Mereka adalah orang-orang Barat karena mereka unik dalam keahlian mereka dalam menggunakan api. Dalam kitab suci Yahudi juga orang-orang Eropa yang digambarkan sebagai Ya'juj dan Ma'juj. Bahkan nama Moskow, yang merupakan ibu kota kuno Rusia, disebutkan (dalam kitab suci itu). Dengan demikian telah ditakdirkan bahwa Hadhrat Masih Mau'ud akan muncul pada masa Ya'juj dan Ma'juj. [[^rk_vol14_p424_425]] 
-
+Saya juga telah membuktikan bahwa penting bagi Hadhrat Masih Mau'ud muncul pada saat Yajuj dan Majuj. Karena Ajij, dimana kata Ya'juj dan Ma'juj berarti 'api', Tuhan Yang Maha Kuasa telah mengungkapkan kepadaku bahwa Ya'juj dan Ma'juj adalah orang-orang yang lebih ahli dalam menggunakan api daripada orang lain. Nama mereka sendiri menunjukkan bahwa kapal, kereta api, dan mesin mereka akan berjalan menggunakan (tenaga) api. Mereka akan berperang dengan api. Mereka akan mengungguli semua orang lain dalam memanfaatkan api untuk melayani mereka. Inilah mengapa mereka akan disebut Ya'juj dan Ma'juj. Mereka adalah orang-orang Barat karena mereka unik dalam keahlian mereka dalam menggunakan api. Dalam kitab suci Yahudi juga orang-orang Eropa yang digambarkan sebagai Ya'juj dan Ma'juj. Bahkan nama Moskow, yang merupakan ibu kota kuno Rusia, disebutkan (dalam kitab suci itu). Dengan demikian telah ditakdirkan bahwa Hadhrat Masih Mau'ud akan muncul pada masa Ya'juj dan Ma'juj. [[^rk_vol14_p424_425]] [[^the_essence_of_islam_vol_iii]]
 
 [^rk_vol14_p424_425]: I have also proved that it is essential for the Promised Messiah to appear at the time of Gog and Magog. Since Ajij, from which the words Gog and Magog are derived, means ‘fire’, God Almighty has disclosed to me that Gog and Magog are a people who are greater experts in the use of fire than any other people. Their very names indicate that their ships, trains and machines will be run by fire. They will fight their battles with fire. They will excel all other people in harnessing fire to their service. This is why they will be called Gog and Magog. These are the people of the West, as they are unique in their expertise in the use of fire. In Jewish scriptures too it was the people of Europe who were described as Gog and Magog. Even the name of Moscow, which is the ancient capital of Russia, is mentioned. Thus it was preordained that the Promised Messiah would appear in the time of Gog and Magog. (Ayyam-us-Sulh, Ruhani Khaza’in, vol. 14, pp. 424-425)
 
@@ -1044,155 +1040,65 @@ Artinya, mereka adalah orang-orang yang matanya akan tertutupi dari Seruan dan P
 
 **Kekuatan Eropa adalah Ya'juj dan Ma'juj**
 
+Di satu sisi, terbukti dari Alkitab bahwa orang-orang Kristen di Eropa adalah Yajuj dan Majuj, dan di sisi lain, Al-Qur'an telah menyebutkan tanda-tanda khusus tentang Yajuj dan Majuj yang hanya dapat diterapkan pada kekuatan Eropa, seperti , misalnya, tertulis bahwa mereka akan mendaki setiap ketinggian, yaitu, mereka akan mengatasi semua kekuatan lain dan menjadi yang tertinggi dalam semua hal duniawi. Demikian pula, juga disebutkan dalam hadits bahwa tidak ada negara yang akan mampu melawan mereka. Dengan demikian, secara meyakinkan ditetapkan bahwa kekuatan-kekuatan ini adalah Yajuj dan Majuj. Menolak hal ini adalah sikap keras kepala dan penentangan terhadap Firman Tuhan. Siapa yang dapat menyangkal bahwa sesuai dengan Firman Allah SWT dan penjelasan Nabi (damai dan berkah Allah besertanya), ini adalah orang-orang yang, dalam kekuatan duniawi mereka, lebih unggul dari semua orang. Mereka tidak ada bandingannya dalam seni perang dan tata negara. Penemuan dan mesin mereka telah membentuk pola baru, baik dalam perang maupun dalam kenyamanan dan kemewahan duniawi. Mereka telah membawa revolusi yang luar biasa dalam budaya umat manusia dan telah menunjukkan penguasaan dalam tata negara dan dalam menyediakan peralatan untuk perang dan perdamaian, yang tidak ada bandingannya sejak penciptaan dunia.
+
+Jadi, berabad-abad setelah kenabian Nabi Suci (damai dan berkah Allah besertanya), kebangkitan kekuatan Eropa adalah peristiwa sesuai dengan tanda yang ditentukan dalam nubuatannya. Sebagaimana Tuhan telah mengungkapkan arti Yajuj dan Majuj dan peristiwa-peristiwa telah membuktikan bahwa suatu kaum tertentu cocok dengan tanda-tanda yang telah disebutkan, penolakan untuk mengakui hal ini berarti penyangkalan terhadap kebenaran yang telah mantap. Tidak ada yang bisa menghentikan seseorang dari bertahan dalam penyangkalannya, tetapi setiap orang yang berpikiran adil yang mencari kebenaran akan (memahaminya), setelah diberitahu tentang semua rincian ini, (mereka) bersaksi dengan penuh keyakinan bahwa orang-orang ini adalah Yajuj dan Majuj. [[^rk_vol23_p83_88]] [[^the_essence_of_islam_vol_iii]]
+
+[^rk_vol23_p83_88]: **Religious Disputes at the Time of Gog and Magog**
+
+	There is yet another prophecy in the Holy Qur’an, which predicts a spiritual union to follow physical union. It is as follows:
+
+	Al-Kahf, 18:100
+
+	This means that in the latter days, which will be the age of Gog and Magog, people will become involved in religious disputes and fights and nations will attack nations just as one wave of a river surges against another, and there will be many other conflicts as well. In this way, great division will spread in the world and great contentions, rancour and hatred will be generated among the peoples. And when these events reach their climax, God will blow His trumpet, that is to say, He will transmit a voice to the world through the Promised Messiah, who is like His trumpet, and upon hearing this voice all good people will come together under the banner of one religion. All dissension will disappear and the people of the world will become one. In another verse, He says: 
+
+	Al-Kahf, 18:101
+
+	Hell will be presented to those who do not respond to the call of the Promised Messiah on that day. That is to say, God will send down various kinds of calamities which will be a foretaste of hell. Then He says:
+
+	Al-Kahf, 18:102
+
+	Meaning that these will be people whose eyes will be veiled against the Call and Message of the Promised Messiah. They will not be prepared even to listen to him and will be full of aversion for him. This is why the punishment will be sent down. Here the word ‘Trumpet’ refers to the Promised Messiah, inasmuch as the Prophets of God are His trumpets into whose hearts He breathes His voice. This idiom has been employed in earlier scriptures, and Prophets of God have been called His trumpets. Just as the trumpeter blows his tune into the trumpet, so does God breath His Word into the hearts of Prophets. The reference to Gog and Magog also conclusively proves that the trumpet mentioned here is the Promised Messiah, for it is fully established by the authentic Ahadith that the Promised Messiah would appear in the age of Gog and Magog.
+
+	**European Powers are Gog and Magog**
+
+	On the one hand, it is proved from the Bible that the Christians of Europe are Gog and Magog, and, on the other, the Holy Qur’an has mentioned specific signs concerning Gog and Magog which can only be applied to European powers, as, for instance, it is written that they will scale every height, i.e., they will overcome all other powers and be supreme in all worldly matters. Similarly, it is also mentioned in the Ahadith that no country will be able to stand up to them. Thus it is conclusively established that these powers are Gog and Magog. To deny this is sheer obstinacy and opposition to God’s Word. Who can deny that in accordance with the Word of God Almighty and the explanation of the Holy Prophet (peace and blessings of Allah be upon him), these are the people who, in their worldly power, are superior to every other people. They have no equal in the art of war and statecraft. Their inventions and machines have established new patterns, both in war and in worldly comforts and luxuries. They have brought about an amazing revolution in the culture of mankind and have displayed such mastery in statecraft and in providing equipment for war and peace, as has no parallel since the creation of the world.
+
+	Thus, centuries after the prophecy of the Holy Prophet (peace and blessings of Allah be upon him), the rise of European powers is the event in accordance with the sign specified in his prophecy. As God has disclosed the meaning of Gog and Magog and events have proven that a certain people fit the signs that have been mentioned, refusal to acknowledge this would be denial of an established verity. No one can stop a person from persisting in his denial, but every just-minded one who is a seeker after truth would, on being informed of all these particulars, testify with full confidence that these people are Gog and Magog. (Chashma-e-Ma‘rifat, Ruhani Khaza’in, vol. 23, pp. 83-88)
 
 
-**Religious Disputes at the Time of Gog and Magog**
+Tampaknya ada kontradiksi dalam Hadits, karena di satu sisi dinyatakan bahwa, pada saat kedatangan Hadhrat Masih Mau'ud, Ya'juj dan Ma'juj telah menyebar ke seluruh dunia, dan di lain dinyatakan bahwa orang-orang Kristen akan menang di dunia; misalnya, dikatakan bahwa Hadhrat Masih Mau'ud as akan mematahkan salib, yang berarti bahwa orang-orang Nasrani akan mendominasi pada saat itu. Hadis lain juga menunjukkan bahwa orang Romawi, yaitu, orang-orang Kristen, akan berkuasa. Pada zaman Nabi Suci (damai dan berkah Allah besertanya) Kekaisaran Romawi adalah Kristen, sebagaimana Allah berfirman dalam Al-Qur'an:
 
-There is yet another prophecy in the Holy Qur’an, which
-predicts a spiritual union to follow physical union. It is as
-follows: 
+'Orang Romawi telah dikalahkan, di negeri terdekat, dan mereka, setelah kekalahan mereka, akan menang.'—Al-Rum, 30:3-4 [Penerbit]
 
-Al-Kahf, 18:100
+Di sini kata Roma mengacu pada orang Kristen. Beberapa hadis juga menunjukkan bahwa pada saat munculnya Hadhrat Masih Mau'ud, Dajjal akan menjadi yang paling unggul di seluruh dunia kecuali Mekah.
 
-This means that in the latter days, which will be the age
-of Gog and Magog, people will become involved in religious 
-disputes and fights and nations will attack nations
-just as one wave of a river surges against another, and
-there will be many other conflicts as well. In this way,
-great division will spread in the world and great contentions, 
-rancour and hatred will be generated among the
-peoples. And when these events reach their climax, God
-will blow His trumpet, that is to say, He will transmit a
-voice to the world through the Promised Messiah, who is
-like His trumpet, and upon hearing this voice all good
-people will come together under the banner of one religion. 
-All dissension will disappear and the people of the
-world will become one. In another verse, He says: 
+Sekarang, apakah Maulavi Sahib akan memberi tahu kita bagaimana kontradiksi ini dapat diakurkan? Jika Dajjal menguasai bumi, di manakah letak kekuasaan kaum Nasrani, dan kemana Yajuj dan Majuj akan pergi, kerajaan dunia siapa yang dinubuwwatkan oleh Al-Qur'an? Inilah kesalahan-kesalahan yang diderita oleh orang-orang yang menolakku dan menyebutku kafir. Peristiwa membuktikan bahwa karakteristik Yajuj dan Majuj dan Dajjal dapat ditemukan di negara-negara Eropa. Seperti yang dijelaskan oleh Hadits tentang Yajuj dan Majuj, tidak ada kekuatan yang dapat menahan mereka dalam pertempuran dan Hadhrat Masih Mau'ud juga hanya akan meminta bantuan doa untuk melawan mereka. Karakteristik ini tidak diragukan lagi ditemukan di kekuatan Eropa. Al-Qur'an juga menegaskan hal ini, seperti yang difirmankan:
 
-Al-Kahf, 18:101
+'Dan mereka akan bergegas dari setiap ketinggian.'—Al-Anbiya', 21:97 [Penerbit]
 
-Hell will be presented to those who do not respond to the
-call of the Promised Messiah on that day. That is to say,
-God will send down various kinds of calamities which
-will be a foretaste of hell. Then He says: 
+Tentang Dajjal, disebutkan dalam hadits bahwa ia akan menggunakan tipu daya dan menciptakan kerusakan dan kekacauan agama. Menurut Al-Qur'an, karakteristik khusus ini dimiliki oleh para ulama Kristen. Seperti difirmankan:
 
-Al-Kahf, 18:102
+‘Mereka memutarbalikkan kata-kata dari tempat yang semestinya.’—Al-Nisa’, 4:47 [Penerbit]
 
-Meaning that these will be people whose eyes will be
-veiled against the Call and Message of the Promised 
-Messiah. They will not be prepared even to listen to him
-and will be full of aversion for him. This is why the 
-punishment will be sent down. Here the word ‘Trumpet’ 
-refers to the Promised Messiah, inasmuch as the Prophets
-of God are His trumpets into whose hearts He breathes
-His voice. This idiom has been employed in earlier scriptures, 
-and Prophets of God have been called His trumpets. 
-Just as the trumpeter blows his tune into the
-trumpet, so does God breath His Word into the hearts of
-Prophets. The reference to Gog and Magog also conclusively 
-proves that the trumpet mentioned here is the
-Promised Messiah, for it is fully established by the 
-authentic Ahadith that the Promised Messiah would appear
-in the age of Gog and Magog.
+Semua ini menunjukkan bahwa ketiga kelompok ini sebenarnya adalah satu. Itulah sebabnya Surah Al-Fatihah mengajarkan secara definitif bahwa kita harus mencari keamanan dari kerusakan orang-orang Kristen. Kami tidak diajarkan untuk berdoa untuk keamanan terhadap Dajjal. Seandainya ada Dajjal lain, yang kerusakannya lebih besar dari para ulama Kristen, Firman Allah tidak akan pernah mengabaikan kerusakan yang lebih besar dan mengajarkan kita untuk berdoa untuk keamanan terhadap kerusakan orang-orang Kristen, kita juga tidak akan diperingatkan bahwa kejahatan Kristen sedemikian rupa sehingga dapat mengoyak surga dan menghancurkan gunung-gunung menjadi berkeping-keping. Sebaliknya, kita akan diperingatkan bahwa kejahatan Dajjal adalah seperti yang dapat menyebabkan langit dan bumi terbelah. Mengabaikan kerusakan yang lebih besar dan memperingatkan terhadap yang lebih kecil akan sama sekali tidak masuk akal. [[^rk_vol23_p85-87]] [[^the_essence_of_islam_vol_iii]]
 
-**European Powers are Gog and Magog**
+[^rk_vol23_p85-87]: There would seem to be a contradiction in the Ahadith, for on the one hand it is stated that, at the time of the advent of the Promised Messiah, Gog and Magog will have spread all over the world, and, on the other, it is stated that the Christians will prevail in the world; for instance, it is said that the Promised Messiah will break the cross, which means that the Christians will be dominant at that time. Another Hadith also indicates that the Romans, i.e., the Christians, will be in power. At the time of the Holy Prophet (peace and blessings of Allah be upon him) the Roman Empire was Christian, as Allah says in the Holy Qur’an:
 
-On the one hand, it is proved from the Bible that the
-Christians of Europe are Gog and Magog, and, on the
-other, the Holy Qur’an has mentioned specific signs 
-concerning Gog and Magog which can only be applied to
-European powers, as, for instance, it is written that they
-will scale every height, i.e., they will overcome all other
-powers and be supreme in all worldly matters. Similarly,
-it is also mentioned in the Ahadith that no country will be
-able to stand up to them. Thus it is conclusively 
-established that these powers are Gog and Magog. To deny
-this is sheer obstinacy and opposition to God’s Word.
-Who can deny that in accordance with the Word of God
-Almighty and the explanation of the Holy Prophet (peace
-and blessings of Allah be upon him), these are the people
-who, in their worldly power, are superior to every other
-people. They have no equal in the art of war and statecraft. 
-Their inventions and machines have established
-new patterns, both in war and in worldly comforts and 
-luxuries. They have brought about an amazing revolution
-in the culture of mankind and have displayed such mastery 
-in statecraft and in providing equipment for war and
-peace, as has no parallel since the creation of the world. 
+	‘The Romans have been defeated, in the land nearby, and they, after their defeat, will be victorious.’—Al-Rum, 30:3-4 [Publisher]
 
-Thus, centuries after the prophecy of the Holy Prophet
-(peace and blessings of Allah be upon him), the rise of
-European powers is the event in accordance with the sign
-specified in his prophecy. As God has disclosed the
-meaning of Gog and Magog and events have proven that
-a certain people fit the signs that have been mentioned,
-refusal to acknowledge this would be denial of an 
-established verity. No one can stop a person from persisting in
-his denial, but every just-minded one who is a seeker 
-after truth would, on being informed of all these particulars, 
-testify with full confidence that these people are
-Gog and Magog. [Chashma-e-Ma‘rifat, Ruhani Khaza’in, vol. 23, pp. 83-88] 
+	Here the word Romans refers to Christians. Some Ahadith also indicate that at the time of the appearance of the Promised Messiah, Dajjal would be supreme all over the world with the exception of Mecca.
 
-There would seem to be a contradiction in the Ahadith, for
-on the one hand it is stated that, at the time of the advent of
-the Promised Messiah, Gog and Magog will have spread all
-over the world, and, on the other, it is stated that the 
-Christians will prevail in the world; for instance, it is said that the
-Promised Messiah will break the cross, which means that
-the Christians will be dominant at that time. Another Hadith
-also indicates that the Romans, i.e., the Christians, will be
-in power. At the time of the Holy Prophet (peace and 
-blessings of Allah be upon him) the Roman Empire was Christian, 
-as Allah says in the Holy Qur’an: 
+	Now will any Maulavi Sahib tell us how this contradiction can be reconciled? If Dajjal prevails over the earth, where will the dominion of the Christians lie, and where will Gog and Magog go, whose world empire is foretold by the Holy Qur’an? These are the errors from which those who reject me and call me a disbeliever suffer. Events bear out that the characteristics of both Gog and Magog and of the Dajjal are to be found in the European powers. As described by the Ahadith concerning Gog and Magog, no power will be able to withstand them in battle, and the Promised Messiah too will only have recourse to prayer against them. These characteristics are unquestionably found in the European powers. The Holy Qur’an too confirms this, as it says:
 
-‘The Romans have been defeated, in the land nearby, and they,
-after their defeat, will be victorious.’—Al-Rum, 30:3-4 [Publisher]
+	‘And they shall hasten forth from every height.’—Al-Anbiya’, 21:97 [Publisher]
 
-Here the word Romans refers to Christians. Some
-Ahadith also indicate that at the time of the appearance
-of the Promised Messiah, Dajjal would be supreme all
-over the world with the exception of Mecca. 
+	About Dajjal, it is stated in Ahadith that he will use deception and create religious mischief and turmoil. According to the Holy Qur’an, this particular characteristic belongs to the Christian clerics. For instance it says:
 
-Now will any Maulavi Sahib tell us how this contradiction 
-can be reconciled? If Dajjal prevails over the earth,
-where will the dominion of the Christians lie, and where
-will Gog and Magog go, whose world empire is foretold
-by the Holy Qur’an? These are the errors from which
-those who reject me and call me a disbeliever suffer.
-Events bear out that the characteristics of both Gog and
-Magog and of the Dajjal are to be found in the European
-powers. As described by the Ahadith concerning Gog
-and Magog, no power will be able to withstand them in
-battle, and the Promised Messiah too will only have 
-recourse to prayer against them. These characteristics are
-unquestionably found in the European powers. The Holy
-Qur’an too confirms this, as it says: 
+	‘They pervert the words from their proper places.’—Al-Nisa’, 4:47 [Publisher]
 
-‘And they shall hasten forth from every height.’—Al-Anbiya’,
-21:97 [Publisher]
+	All this shows that all these three groups are actually one. That is why Surah Al-Fatihah teaches definitively that we should seek security against the mischief of Christians. We have not been taught to pray for security against Dajjal. Had there been another Dajjal, whose mischief was to be greater than that of the Christian clergy, the Word of God would never have ignored the greater mischief and taught us to pray for security against the mischief of the Christians, nor would we have been warned that the Christian mischief was such that it might rend heaven apart and shatter the mountains into pieces. Instead, we would have been warned that the evil of the Dajjal is such as might well cause heaven and earth to rent asunder. To ignore a greater mischief and warn against a smaller one would have been totally unreasonable. (Chashma-e-Ma‘rifat, Ruhani Khaza’in, vol. 23, pp 85-87, footnote)
 
-About Dajjal, it is stated in Ahadith that he will use deception and create religious mischief and turmoil. According to the Holy Qur’an, this particular characteristic
-belongs to the Christian clerics. For instance it says: 
-
-‘They pervert the words from their proper places.’—Al-Nisa’,
-4:47 [Publisher]
-
-All this shows that all these three groups are actually one.
-That is why Surah Al-Fatihah teaches definitively that
-we should seek security against the mischief of Christians. 
-We have not been taught to pray for security
-against Dajjal. Had there been another Dajjal, whose 
-mischief was to be greater than that of the Christian clergy,
-the Word of God would never have ignored the greater
-mischief and taught us to pray for security against the
-mischief of the Christians, nor would we have been
-warned that the Christian mischief was such that it might
-rend heaven apart and shatter the mountains into pieces.
-Instead, we would have been warned that the evil of the
-Dajjal is such as might well cause heaven and earth to
-rent asunder. To ignore a greater mischief and warn
-against a smaller one would have been totally unreasonable.
-[Chashma-e-Ma‘rifat, Ruhani Khaza’in, vol. 23, pp 85-87, footnote]
 
 ### Sabda Para Khalifatul Masih
 
