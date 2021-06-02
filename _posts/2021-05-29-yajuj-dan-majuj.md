@@ -11,7 +11,33 @@ published: false
 
 ### Pengertian
 
+Allah Ta'ala menyebutkan kata *Ya'juuj* dan *Ma'juuj* dalam Alquran-ul-karim. Kata Ya'juj dan Ma'juj berasal dari bahasa arab, seperti yang disabdakan oleh Hadhrat Masih Mau'ud (as),
 
+> "Kata Ya'juuj dan Ma'juuj berasal dari akar kata *ajij*, yang berarti orang yang ahli dalam menggunakan api" [[^barahin_ahmadiyah_v_h151_catatan_kaki]]
+
+[^barahin_ahmadiyah_v_h151_catatan_kaki]: The words Ya’juj and Ma’juj are derived from the root word ajij, which means people who are well versed in the use of fire. [Barahin Ahmadiyah, Jilid V, halaman 151](https://www.alislam.org/library/books/Barahin-e-Ahmadiyya-Part-5.pdf)
+
+Dalam kamus Al-Ma'aany tertulis,
+
+<p class="arab">
+أَجِج : مفرد المذكر لصيغة مبالغة على وزن فَعِل (أَجِج) في حال يكون مرفوعا أو منصوبا أو مجرورا والمشتق من الفعل (أَجَّ) والذي جذره (ءجج)
+</p> 
+
+Akar kata *ajij* (أَجِج) mempunyai turunan kata kerja *ajja* (أَجَّ)
+
+<p class="arab">
+أَجَّ أَجَجْتُ - يَؤُجّ - اؤجُج / أُجَّ - أَجًّا وأَجيجًا - فهو أجوج
+</p>
+
+Arti dari kata *ajja* diantaranya: (Api) berkobar, menyalakan, membakar, menggelorakan.
+
+ 
+
+Yajuj dan Majuj adalah dua (golongan) manusia yang telah disebutkan dalam kitab suci terdahulu. Alasan mengapa mereka disebut demikian adalah karena mereka mengembangkan penggunaan *Ajij* [api] dan akan menguasai secara unggul di muka bumi dan mendominasi setiap keunggulan. Pada saat yang sama, perubahan besar akan ditetapkan dari langit dan akan mengantarkan hari-hari damai dan bersahabat. [[^rk_vol20_p211]] [[^the_essence_of_islam_vol_iii]]
+
+[^rk_vol20_p211]: Yajuj [Gog] and Majuj [Magog] are two peoples who have been mentioned in earlier scriptures. The reason why they are so called is that they make extensive use of Ajij [fire], and would reign supreme on earth and dominate every height. At the same time, a great change will be ordained from heaven and will usher in days of peace and amity. (Lecture Sialkot, Ruhani Khaza’in, vol. 20, p. 211)
+
+[^the_essence_of_islam_vol_iii]: [The Essence of Islam Volume III](https://www.alislam.org/book/essence-islam-volume-3/)
 
 ### Nubuwwatan Alquran
 
@@ -58,13 +84,15 @@ maka tiadalah seorang pun yang
 Kami tinggalkan di antara mereka. 
 (QS Al-Kahfi [18]: 48 dengan basmallah)
 
-Tafsir: Oleh karena Jibāl (gunung-gunung) berarti pula pembesarpembesar (Lane), maka ayat ini dapat berarti, bahwa nubuatan mengenai kehancuran mutlak kekuatan-kekuatan kejahatan – Ya’jūj dan Ma’jūj –
+Tafsir: Oleh karena Jibāl (gunung-gunung) berarti pula pembesar-pembesar (Lane), maka ayat ini dapat berarti, bahwa nubuatan mengenai kehancuran mutlak kekuatan-kekuatan kejahatan – Ya’jūj dan Ma’jūj –
 yang telah disebut dalam beberapa ayat mendahuluinya akan terpenuhi, bila
 menurut kata-kata Bibel, “bangsa akan berbangkit melawan bangsa, dan
 kerajaan melawan kerajaan; maka akan jadi bala kelaparan dan gempa bumi
-sini-sana.” (Matius 24: 7). Ungkapan Hasyarnā-hum, berarti bahwa mereka
+sini-sana.” (Matius 24: 7) [[^matius_24_7]]. Ungkapan *Hasyarnā-hum*, berarti bahwa mereka
 akan dihimpunkan di medan perang, saling berhadapan dan akan bertarung
 mati-matian.
+
+[^matius_24_7]: Sebab, bangsa akan bangkit melawan bangsa, dan kerajaan akan melawan kerajaan, dan di berbagai tempat akan ada kelaparan dan gempa bumi.
 
 Kemudian diceritakan juga mengenai tamsil Nabi Musa (as),
 
@@ -139,9 +167,11 @@ yang memperoleh kekuasaan luar biasa, hal itu, merupakan masalah inti dalam
 surah ini. Oleh karena secara politis, Ya’jūj-Ma’jūj dan Zulqarnain bertalian erat
 antara satu sama lain, sebagaimana akan nampak dari uraian berikutnya maka
 riwayat Zulqarnain pun telah diuraikan dengan agak mendalam dalam surah ini.
-Rupa-rupanya Zulqarnain adalah raja yang mendirikan kemaharajaan Media–
-Persia yang dilukiskan sebagai dua tanduk domba jantan dalam mimpi Nabi
-Daniel As yang termashur itu. Bunyinya adalah: “Maka kulihat domba jantan
+Rupa-rupanya Zulqarnain adalah raja yang mendirikan kemaharajaan 
+Media-Persia yang dilukiskan sebagai dua tanduk domba jantan dalam mimpi Nabi
+Daniel As yang termashur itu. Bunyinya adalah: 
+
+> “Maka kulihat domba jantan
 itu menanduk ke barat dan ke utara dan ke selatan, maka seekor binatang
 pun tiada dapat melawan dia dan seorang pun tiada dapat melepaskan dari
 kuasanya, dan dibuatnya barang kehendaknya dan diadakannya perkara besar-besar” (Daniel 8: 4, 20, 21).
@@ -465,7 +495,7 @@ dalam ayat ini Rasulullah Saw dilukiskan berdoa, supaya masa pendudukan
 Palestina oleh orang-orang Yahudi menjadi sependek mungkin; dan tanah itu
 dapat kembali kepada pewaris-pewarisnya yang sah, ialah orang-orang Islam.
 
-### Nubuwwatan dari Rasulullah (saw)
+### Penjelasan Ya'juj dan Ma'juj dalam Hadits
 
 Diriwayatkan,
 
@@ -582,11 +612,349 @@ dari An Nawwas bin Sam'an berkata: Pada suatu pagi, Rasulullah Shallallahu 'alai
 
 ### Sabda Hadhrat Masih Mau'ud (as)
 
-Dalam Barahin Ahmadiyah Jilid II, Hadhrat Masih Mau'ud (as) menulis,
+{% comment %}
 
-The words Ya’juj and Ma’juj are derived from the root word ajij, which means people who are well versed in the use of fire [[^barahin_ahmadiyah_v_h151_catatan_kaki]]
+Hadhrat Masih Mau'ud (as) menulis,
 
-[^barahin_ahmadiyah_v_h151_catatan_kaki]: [Barahin Ahmadiyah, Jilid V, halaman 151](https://www.alislam.org/library/books/Barahin-e-Ahmadiyya-Part-5.pdf) 
+> The Holy Qur’an then specifies that in the latter days the
+Christians will dominate the earth, and they shall be the
+cause of all kinds of mischief running rampant. Waves of
+calamities will rise on all sides and will race down from
+every height….They will possess great material strength
+and dominion, against which all other powers and states
+will seem powerless. They will also enjoy supremacy in
+all kinds of knowledge and sciences and establish new
+and wonderful industries. They will also be dominant in
+their policies, projects, and good administration, and will
+show great resolve in their worldly enterprises and will
+also excel in their endeavour to spread their faith. They
+will leave behind all other nations in their social, 
+agricultural and commercial policies, as indeed in everything
+else. This is the meaning of: 
+>
+> *ming-kulli hadabiy-yansiluun*
+>
+> ‘They shall hasten forth from every height.’ Ta Ha, 21:97 
+>
+> Hadab means high ground and Nasal means to run ahead
+and to excel. In other words, they will leave behind every
+other nation in whatever is great and prestigious. This is
+the major sign of the people of the latter days who were
+designated as Gog and Magog and this is also the sign of
+the mischievous group of Christian clerics who are called
+the Promised Dajjal. Since Hadab means an elevated part
+of the earth, this indicates that they will achieve all
+earthly heights but will be deprived of the spiritual 
+heights. This proves that these people are called Gog and
+Magog in view of their national dominance. Among them
+are the people who have left no stone unturned in spreading 
+misguidance and consequently came to be known as
+the Great Dajjal. And God Almighty has said that at the
+height of misguidance, the trumpet will be blown and
+people of all faiths will be assembled at one place.
+[Shahadat-ul-Qur’an, Ruhani Khaza’in, vol. 6, pp. 361-362]
+
+I will now set out the meanings of the verses in Surah 
+AlKahf which relate the story of Dhulqarnain, and the
+prophecy they contain about me, of which I have been 
+informed by God Almighty. I do not deny the meaning of
+these verses which relates to the past, but what has been
+revealed to me is about the future.
+
+**Prophecy about the Promised Messiah in Surah Al-Kahf**
+
+The Holy Qur’an is not a book of old stories. Every event
+mentioned in it is a prophecy, and the story of Dhulqarnain 
+contains the prophecy about the time of the Promised Messiah. 
+
+The Holy Qur’an says: 
+
+Al-Kahf, 18:84
+
+‘They enquire from thee about Dhulqarnain. Tell them
+that for the moment I shall relate to only you a little
+about him.’ Then it says: 
+
+Al-Kahf, 18:85
+
+‘We shall establish him on earth, i.e., the Promised Messiah, 
+who will also be known as Dhulqarnain, in such a way that no 
+one will be able to harm him; and We shall
+provide him with all the means for achieving his purpose
+and shall make everything easy and plain for him.’ 
+
+Remember, the same revelation concerning me was published in 
+the previous volumes of Brahin-e-Ahmadiyyah, in which God Almighty said: 
+
+*alam naj'al laka sahuulatan fii kulli amr*
+
+‘Have We not facilitated everything for you?’ Have We
+not provided you with all the means for the 
+communication and propagation of the truth? 
+Of course, I have been provided with all the means for 
+the propagation of the truth which were not even 
+available at the time of anyother prophet. 
+Means of communication have opened between nations; 
+travel has become so easy that a 
+journey of years now takes only a few days; transmission of news
+is such that within minutes messages can be sent over
+thousands of miles; ancient texts of nations which were
+out of sight have begun to be published; means have become 
+available for the delivery of everything where it is needed; 
+difficulties in the publication of books have been
+removed with the introduction of the printing press, so
+much so that more copies of a book can be printed in ten
+days than was previously possible in ten years! A piece
+of writing can now be published throughout the world
+within forty days, whereas previously a man could not
+achieve this even in a hundred years.
+
+Then Allah says in the Holy Qur’an:  
+
+‘When Dhulqarnain (who is the Promised Messiah), is
+furnished with all the means, he will follow a certain
+path, (i.e., he will resolve to reform the people of the
+West). He will find that the sun of truth and righteousness 
+has set in a muddy pool, near which he will find a
+people in the darkness. (These are the Christians of the
+West who will be steeped in darkness; they will have no
+sun to get light from, nor will they have clean water to
+drink, i.e., both in practice and doctrine they will be in a
+terrible state; they will be bereft of spiritual light and
+spiritual water.) Then We shall say to Dhulqarnain (the
+Promised Messiah): It is up to you either to punish them
+or to treat them with kindness. Dhulqarnain 
+(the Promised Messiah) will say: We only desire the wrongdoers to
+be punished. They will be punished in this life (through
+our supplications), and will suffer severe torment in the
+hereafter. But he who does not deny the truth and does
+good deeds will have his reward. He will be required
+only to do what can be done with facility and ease.’
+
+In short, these verses contain a prophecy that the 
+Promised Messiah will appear at a time when the people of the
+West will be steeped in darkness. The sun of truth will
+completely disappear from their eyes and will set in a
+dirty, stinking pool, (i.e., instead of truth, they will be 
+infested with foul beliefs and deeds). That will be the water
+they will drink. They will have no light whatsoever and
+will wallow in darkness. This exactly is the condition of
+the Christian faith today, as described by the Holy
+Qur’an, and the great centre of Christianity is also in the
+Western countries. Then God Almighty says: 
+
+2 Al-Kahf, 18:90-92
+
+That is, ‘Dhulqarnain (the Promised Messiah who will be
+equipped with every means) shall follow another path,
+(i.e., he will observe the state of the people of the East)
+and will discover a people at the place of the rising of the
+sun of truth who will be so ignorant that they will have
+no means of protecting themselves from the glare of the
+sun (i.e., they will be scorched by the heat generated by
+their adherence to the letter and their extremism), and
+they will be unaware of the truth. Dhulqarnain (the
+Promised Messiah) will have all the means of true peace
+and happiness of which We are aware, but the people
+will not accept them. They will have no shelter against
+the glare of their extremism—neither houses, nor shady
+trees nor suitable clothes to protect them from the heat.
+In this way the rising sun of truth will bring about their
+ruin.’
+
+This is an instance of people who have the light of the
+sun of guidance available to them, and who are not like
+those whose sun has set, but they derive no benefit from
+the sun of guidance; only their skins are scorched, their
+complexion is darkened and they lose their eyesight. 
+
+This division indicates that the Promised Messiah will
+encounter three kinds of people in the course of his mission. 
+(1) First, he will encounter a people who have lost
+the sun of guidance and are wallowing in a muddy and
+dark pool. (2) His second encounter will be with a people
+who are sitting in the sun stark naked, i.e., they do not
+behave with respect, humility, courtesy and goodwill.
+They are worshippers of the letter, as if they want to fight 
+the sun. Thus they too are deprived of the benefit of the
+sun, and all they get is their skins burnt. This refers to the
+Muslims among whom the Promised Messiah appeared,
+but they denied him and opposed him and did not behave
+with modesty and fairness, and consequently deprive
+themselves of good fortune. 
+
+Then Allah Almighty further says: 
+
+Dhulqarnain (the Promised Messiah) will then follow
+another course and will find himself at a very critical
+time, which can be described as between two barriers or
+mountains. This means that he will find a time when
+people on either side will be in fear, and the powers of
+darkness, in collaboration with the powers of state, will
+present an awe-striking spectacle. Under both these
+powers he will find a people who will find it difficult to
+understand him, i.e., they will be the victims of false
+beliefs on account of which they will find it difficult to 
+understand the guidance which he will present to them.
+But in the end they will understand him. These are the
+third kind of people who will benefit from the guidance
+of the Promised Messiah. They will say to him:
+‘Dhulqarnain, Gog and Magog have filled the land with
+disorder. If you so please, let us collect a fund for you so
+that you may erect a barrier between them and us.’ He
+will say in reply: ‘The power God has given me is better
+than your funds, but if you be so inclined, you can help
+me according to your means so that I may erect a wall
+between you and your opponents (i.e., he would put forth
+such conclusive proofs and arguments that their enemies
+will not be left with any ground for criticism or objection
+against their religion.) He will say to them: ‘Bring me
+slabs of iron so that their movement can be stopped, (i.e.,
+hold fast to my teachings and my arguments, be
+steadfast, and block the enemy’s onslaught like a wall of
+iron.) Then blow fire into the iron until it appears to be
+fire itself (i.e., feed the flames of love for God until you
+yourselves assume the Divine complexion)...
+
+After these verses, God Almighty goes on to say: Then
+Dhulqarnain (the Promised Messiah) will say to the 
+people who are afraid of Gog and Magog: ‘Bring me copper
+so that I may melt it and pour it over the wall. Thereafter,
+Gog and Magog will not have the power to scale it or to
+make holes in it.’ 
+
+Here it should be noted that though iron assumes the
+qualities of fire when left in it for a long time, it does not
+melt easily. Copper, on the other hand, melts very
+quickly; and it is necessary for a seeker to melt in the
+path of God. This means that the Promised Messiah will
+need such eager hearts and mild dispositions as would
+melt under the influence of Divine signs. These signs 
+have no effect on the hard-hearted. A person can only
+become immune to Satanic attacks when he becomes
+steadfast like iron and that iron becomes like fire when
+touched by the fire of Divine love, and then the melted
+heart should melt and cover the iron to secure it against
+disintegration and decay. These are the three conditions
+which, when combined, form a wall which cannot be
+scaled or bored through by the spirit of Satan. Then God
+says that all this will come about by His grace. It is His
+hands which will accomplish everything and human design 
+will have no part in it. When the Day of Judgement
+approaches, mischief will reign supreme once again. This
+is the promise of God.
+
+**Time of the Promised Messiah**
+
+Then He says that at the time of Dhulqarnain (Promised
+Messiah) all people will rise up in support of their own
+religion and will attack each other like the waves of the
+sea. Then the trumpet will be blown in heaven, i.e., God
+will raise the Promised Messiah and create a third people
+for whom He will show great signs until all good people
+gather under the banner of Islam. They will respond to
+the call of the Promised Messiah and will run towards
+him; then there will be only one shepherd and one flock.
+Those days will be hard and God will reveal His countenance 
+with awe-striking signs. Those who persist in disbelief 
+will experience hell in this very world in the shape
+of calamities. God says: These are the people whose eyes
+were veiled against My Words, and their ears heeded not
+My commandments. Did the disbelievers imagine that
+they could take humble men to be God and that I should
+stand dismissed? We shall reveal hell in this very world
+as entertainment for the disbelievers, i.e., great and terrible signs will appear.
+
+All these signs will testify to the truth of the Promised
+Messiah. See, how the grace of the Beneficent One has
+bestowed all these favours on this humble one, who is 
+labelled a disbeliever and Dajjal by his opponents!
+[Brahin-e-Ahmadiyyah part V, Ruhani Khaza’in, vol. 21, pp 119-126] 
+
+One Hakim Mirza Mahmud Irani, in his letter dated 2
+September 1902, has asked me to explain the meanings
+of the verse: 
+
+‘He found it setting in a pool of murky water.’—Al-Kahf, 18:87 [Publisher]
+
+First of all, let it be clear that this verse holds many a
+hidden meaning which it is not possible to encompass,
+and under its apparent meanings lie hidden meanings.
+The meaning which God has disclosed to me is that this
+verse, taken together with the preceding and following
+verses, comprises a prophecy about the Promised Messiah and 
+specifies the time of his appearance. The explanation is 
+that the Promised Messiah is also Dhulqarnain,
+as the Arabic word qarn connotes a century and the
+Qur’anic verse indicates that the birth and advent of the
+Promised Messiah will cover two centuries. I have lived
+in two centuries according to every known calendar, be it
+Islamic, Christian or Bikramjiti. My birth and advent
+have not been confined to a single century, and in this
+sense I am Dhulqarnain. In some Ahadith too the Promised 
+Messiah has been called Dhulqarnain in the same
+sense as I have just mentioned. 
+
+The interpretation of the rest of the verse in the context
+of prophecy is that there are two major peoples who have
+been given the glad tiding of the Coming of the Promised 
+Messiah, and who are the primary addressees of his mission. 
+In these verses, God Almighty describes metaphorically that 
+the Promised Messiah, who is Dhulqarnain,
+will encounter two peoples in the course of his journey.
+He will find a people sitting in the dark by an evil smelling 
+pool of water, which is not fit for drinking, and is so
+full of stinking mud that it can no longer be described as
+water. These are the Christians who are in the dark and
+who, out of their own wrongdoing, have converted the
+Messianic spring into a pool of stinking mud. 
+
+In the course of his second journey, the Promised Messiah, 
+who is Dhulqarnain, came upon a people sitting in
+the blazing sun without any shelter to protect them. They
+get no light from the sun, except that their bodies are
+scorched by its blaze and their skins become dark. These
+are the Muslims, who, despite being blessed with the sun
+of Divine Unity, have not derived real benefit from it, but
+to be scorched by its blaze. In other words, they have lost
+the true beauty and true moral qualities of faith and have
+instead partaken of rancour, malice, fiery temper and
+beastliness. 
+
+In this manner, Allah the Almighty has indicated that the
+Promised Messiah, who is Dhulqarnain, will appear at a
+time when the Christians will be in darkness, and stinking mud, 
+which is called Hama’ in Arabic, will be their
+lot. The Muslims for their share will have only a dry 
+belief in the Unity of God and they will suffer from the
+sunburns of bigotry and beastliness and no spiritual value
+shall remain unstained. 
+
+Then the Promised Messiah, who is Dhulqarnain, will
+come across a people who will be suffering at the hands
+of Gog and Magog. These people will be deeply religious 
+and pious by nature, and will seek the help of Dhulqarnain 
+(the Promised Messiah) against the aggression of
+Gog and Magog. And he will erect a bright rampart for
+them, in other words, he will teach them such strong 
+arguments in support of Islam as will finally repulse 
+the attacks of Gog and Magog. He will wipe their tears, help
+them in every way and stand by them. These are the people who accept me. 
+
+This is a grand prophecy which tells about my advent,
+my time and my Jama‘at. Blessed is he who reads these
+prophecies with care. Such prophecies are typical of the
+Holy Qur’an, whereby it tells about someone in the past,
+but its real purpose is to foretell the future. For instance,
+Surah Yusuf, which on the face of it is only a narrative,
+contains the hidden prophecy that as Josephas was initially 
+looked down upon by his brothers but was made
+their chief in the end, the same would happen with the
+Quraish. They rejected the Holy Prophet (peace and
+blessings of Allah be upon him) and expelled him from
+Mecca. But he who was rejected came to be their leader
+and their chief.
+[Lecture Lahore, Ruhani Khaza’in, vol. 20, pp. 199-200]
 
 They would say to him: ‘O Dhul-Qarnain! Ya’juj and Ma’juj have
 filled the land with disorder. If you so please, let us collect a fund for
@@ -651,7 +1019,194 @@ opponents! [[^barahin_ahmadiyah_v_h153_4_catatan_kaki]]
 
 [^barahin_ahmadiyah_v_h153_4_catatan_kaki]: [Barahin Ahmadiyah, Jilid V, halaman 153-154](https://www.alislam.org/library/books/Barahin-e-Ahmadiyya-Part-5.pdf)
 
+{% endcomment %}
+
+Saya juga telah membuktikan bahwa penting bagi Hadhrat Masih Mau'ud muncul pada saat Yajuj dan Majuj. Karena Ajij, dimana kata Ya'juj dan Ma'juj berarti 'api', Tuhan Yang Maha Kuasa telah mengungkapkan kepadaku bahwa Ya'juj dan Ma'juj adalah orang-orang yang lebih ahli dalam menggunakan api daripada orang lain. Nama mereka sendiri menunjukkan bahwa kapal, kereta api, dan mesin mereka akan berjalan menggunakan (tenaga) api. Mereka akan berperang dengan api. Mereka akan mengungguli semua orang lain dalam memanfaatkan api untuk melayani mereka. Inilah mengapa mereka akan disebut Ya'juj dan Ma'juj. Mereka adalah orang-orang Barat karena mereka unik dalam keahlian mereka dalam menggunakan api. Dalam kitab suci Yahudi juga orang-orang Eropa yang digambarkan sebagai Ya'juj dan Ma'juj. Bahkan nama Moskow, yang merupakan ibu kota kuno Rusia, disebutkan (dalam kitab suci itu). Dengan demikian telah ditakdirkan bahwa Hadhrat Masih Mau'ud akan muncul pada masa Ya'juj dan Ma'juj. [[^rk_vol14_p424_425]] 
+
+
+[^rk_vol14_p424_425]: I have also proved that it is essential for the Promised Messiah to appear at the time of Gog and Magog. Since Ajij, from which the words Gog and Magog are derived, means ‘fire’, God Almighty has disclosed to me that Gog and Magog are a people who are greater experts in the use of fire than any other people. Their very names indicate that their ships, trains and machines will be run by fire. They will fight their battles with fire. They will excel all other people in harnessing fire to their service. This is why they will be called Gog and Magog. These are the people of the West, as they are unique in their expertise in the use of fire. In Jewish scriptures too it was the people of Europe who were described as Gog and Magog. Even the name of Moscow, which is the ancient capital of Russia, is mentioned. Thus it was preordained that the Promised Messiah would appear in the time of Gog and Magog. (Ayyam-us-Sulh, Ruhani Khaza’in, vol. 14, pp. 424-425)
+
+**Perselisihan Agama pada Saat Ya juj dan Ma juj**
+
+Ada lagi nubuatan dalam Al-Qur'an, yang menubuwwatkan penyatuan ruhani untuk mengikuti penyatuan fisik, yakni:
+
+Al-Kahfi, 18:100
+
+Ini berarti bahwa di hari-hari terakhir, yang akan menjadi zaman Yajuj dan Majuj, orang-orang akan terlibat dalam perselisihan dan perkelahian agama dan bangsa-bangsa akan menyerang bangsa-bangsa seperti gelombang sungai yang satu melawan gelombang lainnya, dan akan ada banyak konflik lainnya. demikian juga. Dengan cara ini, perpecahan besar akan menyebar di dunia dan perselisihan besar, dendam dan kebencian akan muncul di antara orang-orang. Dan ketika peristiwa-peristiwa ini mencapai puncaknya, Tuhan akan meniup terompet-Nya, yaitu, Dia akan mengirimkan suara ke dunia melalui Hadhrat Masih Mau'ud, yang seperti terompet-Nya, dan setelah mendengar suara ini semua orang baik akan berkumpul di bawah panji satu agama. Semua perselisihan akan lenyap dan orang-orang di dunia akan menjadi satu. Dalam ayat lain, Dia berfirman:
+
+Al-Kahf, 18:101
+
+Neraka akan dihadirkan bagi mereka yang tidak menanggapi panggilan Hadhrat Masih Mau'ud pada hari itu. Artinya, Tuhan akan menurunkan berbagai macam malapetaka yang merupakan cicipan awal dari neraka. Kemudian Dia berfirman:
+
+Al-Kahf, 18:102
+
+Artinya, mereka adalah orang-orang yang matanya akan tertutupi dari Seruan dan Pesan Hadhrat Masih Mau'ud. Mereka tidak akan siap bahkan untuk mendengarkannya dan bahkan penuh kebencian terhadapnya. Inilah sebabnya mengapa hukuman akan diturunkan. Di sini kata 'Terompet' mengacu pada Hadhrat Masih Mau'ud, karena para Nabi Allah adalah sangkakala-Nya yang di dalamnya Dia menghembuskan suara-Nya ke dalam hati. Ungkapan ini telah digunakan dalam kitab suci terdahulu dan para Nabi Allah telah disebut sebagai terompet-Nya. Sama seperti pemain terompet meniup nadanya kepada terompet, demikian juga Tuhan menghembuskan firman-Nya ke dalam hati para nabi. Referensi tentang Ya'juj dan Ma'juj juga secara meyakinkan membuktikan bahwa terompet yang disebutkan di sini adalah Hadhrat Masih Mau'ud, karena sepenuhnya ditetapkan oleh Hadits otentik bahwa Hadhrat Masih Mau'ud akan muncul di zaman Ya'juj dan Ma'juj.
+
+**Kekuatan Eropa adalah Ya'juj dan Ma'juj**
+
+
+
+**Religious Disputes at the Time of Gog and Magog**
+
+There is yet another prophecy in the Holy Qur’an, which
+predicts a spiritual union to follow physical union. It is as
+follows: 
+
+Al-Kahf, 18:100
+
+This means that in the latter days, which will be the age
+of Gog and Magog, people will become involved in religious 
+disputes and fights and nations will attack nations
+just as one wave of a river surges against another, and
+there will be many other conflicts as well. In this way,
+great division will spread in the world and great contentions, 
+rancour and hatred will be generated among the
+peoples. And when these events reach their climax, God
+will blow His trumpet, that is to say, He will transmit a
+voice to the world through the Promised Messiah, who is
+like His trumpet, and upon hearing this voice all good
+people will come together under the banner of one religion. 
+All dissension will disappear and the people of the
+world will become one. In another verse, He says: 
+
+Al-Kahf, 18:101
+
+Hell will be presented to those who do not respond to the
+call of the Promised Messiah on that day. That is to say,
+God will send down various kinds of calamities which
+will be a foretaste of hell. Then He says: 
+
+Al-Kahf, 18:102
+
+Meaning that these will be people whose eyes will be
+veiled against the Call and Message of the Promised 
+Messiah. They will not be prepared even to listen to him
+and will be full of aversion for him. This is why the 
+punishment will be sent down. Here the word ‘Trumpet’ 
+refers to the Promised Messiah, inasmuch as the Prophets
+of God are His trumpets into whose hearts He breathes
+His voice. This idiom has been employed in earlier scriptures, 
+and Prophets of God have been called His trumpets. 
+Just as the trumpeter blows his tune into the
+trumpet, so does God breath His Word into the hearts of
+Prophets. The reference to Gog and Magog also conclusively 
+proves that the trumpet mentioned here is the
+Promised Messiah, for it is fully established by the 
+authentic Ahadith that the Promised Messiah would appear
+in the age of Gog and Magog.
+
+**European Powers are Gog and Magog**
+
+On the one hand, it is proved from the Bible that the
+Christians of Europe are Gog and Magog, and, on the
+other, the Holy Qur’an has mentioned specific signs 
+concerning Gog and Magog which can only be applied to
+European powers, as, for instance, it is written that they
+will scale every height, i.e., they will overcome all other
+powers and be supreme in all worldly matters. Similarly,
+it is also mentioned in the Ahadith that no country will be
+able to stand up to them. Thus it is conclusively 
+established that these powers are Gog and Magog. To deny
+this is sheer obstinacy and opposition to God’s Word.
+Who can deny that in accordance with the Word of God
+Almighty and the explanation of the Holy Prophet (peace
+and blessings of Allah be upon him), these are the people
+who, in their worldly power, are superior to every other
+people. They have no equal in the art of war and statecraft. 
+Their inventions and machines have established
+new patterns, both in war and in worldly comforts and 
+luxuries. They have brought about an amazing revolution
+in the culture of mankind and have displayed such mastery 
+in statecraft and in providing equipment for war and
+peace, as has no parallel since the creation of the world. 
+
+Thus, centuries after the prophecy of the Holy Prophet
+(peace and blessings of Allah be upon him), the rise of
+European powers is the event in accordance with the sign
+specified in his prophecy. As God has disclosed the
+meaning of Gog and Magog and events have proven that
+a certain people fit the signs that have been mentioned,
+refusal to acknowledge this would be denial of an 
+established verity. No one can stop a person from persisting in
+his denial, but every just-minded one who is a seeker 
+after truth would, on being informed of all these particulars, 
+testify with full confidence that these people are
+Gog and Magog. [Chashma-e-Ma‘rifat, Ruhani Khaza’in, vol. 23, pp. 83-88] 
+
+There would seem to be a contradiction in the Ahadith, for
+on the one hand it is stated that, at the time of the advent of
+the Promised Messiah, Gog and Magog will have spread all
+over the world, and, on the other, it is stated that the 
+Christians will prevail in the world; for instance, it is said that the
+Promised Messiah will break the cross, which means that
+the Christians will be dominant at that time. Another Hadith
+also indicates that the Romans, i.e., the Christians, will be
+in power. At the time of the Holy Prophet (peace and 
+blessings of Allah be upon him) the Roman Empire was Christian, 
+as Allah says in the Holy Qur’an: 
+
+‘The Romans have been defeated, in the land nearby, and they,
+after their defeat, will be victorious.’—Al-Rum, 30:3-4 [Publisher]
+
+Here the word Romans refers to Christians. Some
+Ahadith also indicate that at the time of the appearance
+of the Promised Messiah, Dajjal would be supreme all
+over the world with the exception of Mecca. 
+
+Now will any Maulavi Sahib tell us how this contradiction 
+can be reconciled? If Dajjal prevails over the earth,
+where will the dominion of the Christians lie, and where
+will Gog and Magog go, whose world empire is foretold
+by the Holy Qur’an? These are the errors from which
+those who reject me and call me a disbeliever suffer.
+Events bear out that the characteristics of both Gog and
+Magog and of the Dajjal are to be found in the European
+powers. As described by the Ahadith concerning Gog
+and Magog, no power will be able to withstand them in
+battle, and the Promised Messiah too will only have 
+recourse to prayer against them. These characteristics are
+unquestionably found in the European powers. The Holy
+Qur’an too confirms this, as it says: 
+
+‘And they shall hasten forth from every height.’—Al-Anbiya’,
+21:97 [Publisher]
+
+About Dajjal, it is stated in Ahadith that he will use deception and create religious mischief and turmoil. According to the Holy Qur’an, this particular characteristic
+belongs to the Christian clerics. For instance it says: 
+
+‘They pervert the words from their proper places.’—Al-Nisa’,
+4:47 [Publisher]
+
+All this shows that all these three groups are actually one.
+That is why Surah Al-Fatihah teaches definitively that
+we should seek security against the mischief of Christians. 
+We have not been taught to pray for security
+against Dajjal. Had there been another Dajjal, whose 
+mischief was to be greater than that of the Christian clergy,
+the Word of God would never have ignored the greater
+mischief and taught us to pray for security against the
+mischief of the Christians, nor would we have been
+warned that the Christian mischief was such that it might
+rend heaven apart and shatter the mountains into pieces.
+Instead, we would have been warned that the evil of the
+Dajjal is such as might well cause heaven and earth to
+rent asunder. To ignore a greater mischief and warn
+against a smaller one would have been totally unreasonable.
+[Chashma-e-Ma‘rifat, Ruhani Khaza’in, vol. 23, pp 85-87, footnote]
+
 ### Sabda Para Khalifatul Masih
 
 
 ### Catatan Kaki
+
+{% comment %}
+
+- https://www.islamahmadiyya.net/inner.asp?recordId=33658
+
+- https://www.islamahmadiyya.net/inner.asp?recordID=34099
+
+- https://www.islamahmadiyya.net/inner.asp?recordID=32992
+
+- https://www.islamahmadiyya.net/inner.asp?recordId=12825
+
+{% endcomment %}
