@@ -41,9 +41,17 @@ Yajuj dan Majuj adalah dua (golongan) manusia yang telah disebutkan dalam kitab 
 
 Allah Ta'ala membuat perumpamaan dua orang laki-laki,
 
-> "Dan berikanlah kepada mereka perumpamaan dua orang laki-laki, kepada salah seorang dari keduanya Kami berikan dua bidang kebun anggur, dan Kami kelilingi kedua kebun itu dengan pohon-pohon kurma, dan di antara keduanya itu Kami jadikan *pula* ladang." (QS Al-Kahfi [18]: 33 dengan basmallah).
+<p class="quran">
+وَاضۡرِبۡ لَہُمۡ مَّثَلًا رَّجُلَیۡنِ جَعَلۡنَا لِاَحَدِہِمَا جَنَّتَیۡنِ مِنۡ اَعۡنٰبٍ وَّحَفَفۡنٰہُمَا بِنَخۡلٍ وَّجَعَلۡنَا بَیۡنَہُمَا زَرۡعًا
+</p>
+
+> "Dan berikanlah kepada mereka perumpamaan dua orang laki-laki, kepada salah seorang dari keduanya Kami berikan dua bidang kebun anggur, dan Kami kelilingi kedua kebun itu dengan pohon-pohon kurma, dan di antara keduanya itu Kami jadikan *pula* ladang." ([QS Al-Kahfi [18]: 33 dengan basmallah](https://openquran.com/18:33)).
 
 Dari ayat ini diuraikan keadaan mengenai dua golongan, ialah umat Kristen dan umat Islam. Kemudian dikemukakan tamsil berikutnya,
+
+<p class="quran">
+فَعَسٰی رَبِّیۡۤ اَنۡ یُّؤۡتِیَنِ خَیۡرًا مِّنۡ جَنَّتِکَ وَیُرۡسِلَ عَلَیۡہَا حُسۡبَانًا مِّنَ السَّمَآءِ فَتُصۡبِحَ صَعِیۡدًا زَلَقًا
+</p>
 
 > Maka boleh jadi Tuhan-ku
 akan menganugerahkan kepadaku
@@ -51,7 +59,7 @@ sesuatu yang lebih baik daripada
 kebun engkau dan mengirimkan
 *kepada kebun engkau* petir
 dari langit sehingga menjadi
-dataran yang licin. (QS Al-Kahfi [18]: 41 dengan basmallah)
+dataran yang licin. ([QS Al-Kahfi [18]: 41 dengan basmallah](https://openquran.com/18:41))
 
 Tafsir: Kata-kata “dari langit” menunjukkan, bahwa tidak akan ada
 kekuatan dan kekuasaan dunia yang akan sanggup melawan dan menahan
@@ -65,6 +73,10 @@ disinggung oleh Rasulullah Saw ketika menurut riwayat beliau bersabda,
 
 Kemudian di ayat yang lain dijelaskan,
 
+<p class="quran">
+وَیَوۡمَ نُسَیِّرُ الۡجِبَالَ وَتَرَی الۡاَرۡضَ بَارِزَۃً وَّحَشَرۡنٰہُمۡ فَلَمۡ نُغَادِرۡ مِنۡہُمۡ اَحَدًا
+</p>
+
 > Dan *ingatlah pada* hari,
 ketika Kami akan memperjalankan gunung-gunung dan
 engkau akan melihat *bangsa-bangsa* di bumi akan bergerak
@@ -72,7 +84,7 @@ maju *berhadapan satu sama lain untuk berperang;* dan akan Kami
 himpun mereka *semuanya*,
 maka tiadalah seorang pun yang
 Kami tinggalkan di antara mereka.
-(QS Al-Kahfi [18]: 48 dengan basmallah)
+([QS Al-Kahfi [18]: 48 dengan basmallah](https://openquran.com/18:48))
 
 Tafsir: Oleh karena Jibāl (gunung-gunung) berarti pula pembesar-pembesar (Lane), maka ayat ini dapat berarti, bahwa nubuatan mengenai kehancuran mutlak kekuatan-kekuatan kejahatan – Ya’jūj dan Ma’jūj –
 yang telah disebut dalam beberapa ayat mendahuluinya akan terpenuhi, bila
@@ -86,6 +98,10 @@ mati-matian.
 
 Kemudian diceritakan juga mengenai tamsil Nabi Musa (as),
 
+<p class="quran">
+وَاِذۡ قَالَ مُوۡسٰی لِفَتٰٮہُ لَاۤ اَبۡرَحُ حَتّٰۤی اَبۡلُغَ مَجۡمَعَ الۡبَحۡرَیۡنِ اَوۡ اَمۡضِیَ حُقُبًا
+</p>
+
 > Dan *ingatlah* ketika
 Musa berkata kepada teman
 mudanya. “Aku tidak akan
@@ -94,7 +110,7 @@ sebelum aku sampai ke
 tempat pertemuan dua lautan,
 meskipun aku harus berkelana
 berabad-abad lamanya.
-(QS Al-Kahfi [18]: 61 dengan basmallah)
+([QS Al-Kahfi [18]: 61 dengan basmallah](https://openquran.com/18:61))
 
 Tafsir: Mulai dengan ayat ini masalah isra’ Nabi Musa As dibahas: Seperti
 telah dikemukakan di atas, para pengikut Nabi Isa As mencapai kekuasaan dan
@@ -128,12 +144,16 @@ kejadian-kejadian tersebut telah diuraikan menurut urutannya dalam sejarah.
 
 Dalam kaitannya dengan Zulkarnain, Allah Ta'ala berfirman,
 
+<p class="quran">
+وَیَسۡـَٔلُوۡنَکَ عَنۡ ذِی الۡقَرۡنَیۡنِ ۖ قُلۡ سَاَتۡلُوۡا عَلَیۡکُمۡ مِّنۡہُ ذِکۡرًا
+</p>
+
 > Dan mereka menanyakan
 pula kepada engkau mengenai
 Zulqarnain. Katakanlah, “Aku
 akan segera bacakan kepadamu
 kisah mengenainya.”
-(QS Al-Kahfi [18]: 84 dengan basmallah)
+([QS Al-Kahfi [18]: 84 dengan basmallah](https://openquran.com/18:84))
 
 Tafsir: Sebelum lebih lanjut mengetahui dan menetapkan siapa Zulqarnain
 itu, kiranya penting untuk mengemukakan alasan-alasan, apa gerangan yang
@@ -196,13 +216,17 @@ Zulqarnain-nya Al-Qur’an (Yesaya bab 45; Ezra bab l–2; II Tawarikh bab 36:
 
 Allah Ta'ala secara langsung menjelaskan mengenai Ya'juj dan Ma'juj,
 
+<p class="quran">
+قَالُوۡا یٰذَا الۡقَرۡنَیۡنِ اِنَّ یَاۡجُوۡجَ وَمَاۡجُوۡجَ مُفۡسِدُوۡنَ فِی الۡاَرۡضِ فَہَلۡ نَجۡعَلُ لَکَ خَرۡجًا عَلٰۤی اَنۡ تَجۡعَلَ بَیۡنَنَا وَبَیۡنَہُمۡ سَدًّا
+</p>
+
 > Mereka berkata, “Ya
 Zulkarnain! Sesungguhnya Yajuj
 dan Majuj membuat kekacauan
 di bumi; maka bolehkah kami
 membayar upeti kepadamu dengan syarat engkau membuat
 sebuah penghalang di antara
-kami dengan mereka ?”
+kami dengan mereka?”
 (QS Al-Kahfi [18]: 95 dengan basmallah)
 
 Tafsir: Kata-kata Ya’jūj dan Ma’jūj kedua-duanya berasal dari akar kata
@@ -222,12 +246,16 @@ dengan tidak mengenal lelah dan dengan tidak sabar mengadakan penaklukan-penaklu
 
 Gambaran Ya’jūj-Ma’jūj seperti yang diberikan dalam Bibel, tidak meragukan
 lagi sedikit pun, cocok dengan beberapa kerajaan Kristen dari Barat: pertama,
-karena mereka disebut sangat banyak, gagah-perkasa dan berkuasa: “Maka pada
-masa itu engkau akan datang naik seperti guruh yang membinasakan dan seperti
+karena mereka disebut sangat banyak, gagah-perkasa dan berkuasa:
+
+> “Maka pada masa itu engkau akan datang naik seperti guruh yang membinasakan dan seperti
 awan-awan yang menudungi muka tanah, engkau dengan segala bala tentaramu
-dan beberapa bangsa sertamu” (Yehezkiel 38: 9).….. “Seperti Ya’jūj dan Ma’jūj
-, supaya menghimpun mereka itu akan berpegang, yang banyaknya mereka itu
-seperti pasir di pantai laut” (Wahyu 20: 8). “Daging orang pahlawan akan
+dan beberapa bangsa sertamu” (Yehezkiel 38: 9)...
+
+> “Seperti Ya’jūj dan Ma’jūj, supaya menghimpun mereka itu akan berpegang, yang banyaknya mereka itu
+seperti pasir di pantai laut” (Wahyu 20: 8).
+
+> “Daging orang pahlawan akan
 kamu makan dan darah orang besar di dunia akan kamu minum; domba jantan
 dan anak kambing dan kambing jantan dan lembu muda, semuanya binatang
 tambun-tambun dari Bazan! Kamu akan makan lemaknya sampai kenyang dan
@@ -235,20 +263,27 @@ minum darah sampai mabuk daripada sembelihan, yang telah kusembelih bagi
 kamu” (Yehezkiel 39: 18, 19).
 
 Kedua, mereka digambarkan sebagai datang dari bagian-bagian bumi
-sebelah utara dan dari pulau-pulau: “bahkan, engkau akan datang dari tempatmu,
+sebelah utara dan dari pulau-pulau:
+
+> “bahkan, engkau akan datang dari tempatmu,
 dari sebelah utara sekali, baik engkau, baik beberapa bangsa pun sertamu…
 (Yehezkiel 38: 15).
 
-Ketiga, mereka akan tersebar di seluruh dunia: “Maka mereka itu pun
+Ketiga, mereka akan tersebar di seluruh dunia:
+
+> “Maka mereka itu pun
 naiklah ke tanah yang luas,….” (Wahyu 20: 9).
 
 Keempat, dari kediaman mereka di utara, mereka akan hijrah ke negerinegeri lain dan menetap di seluruh penjuru dunia, dan di masa peperangan
 mereka akan datang berkumpul dari jajahan-jajahan mereka yang jauh-jauh:
-“Apabila genap seribu tahun itu, maka iblis pun akan dilepaskan pula dari
+
+> “Apabila genap seribu tahun itu, maka iblis pun akan dilepaskan pula dari
 dalam belenggunya, lalu keluar hendak menyesatkan segala bangsa yang ada di
 dalam empat penjuru alam, seperti Ya’jūj-Ma’jūj, supaya menghimpun mereka
 itu akan berperang, maka banyaknya mereka itu seperti pasir di pantai laut.”
-(Wahyu 2: 7-8). Kitab Yehezkiel menyebut Ya’jūj “sebagai raja Rus, Mesekh dan
+(Wahyu 2: 7-8).
+
+Kitab Yehezkiel menyebut Ya’jūj “sebagai raja Rus, Mesekh dan
 Tubal,” jelas kata Rus di sini menunjuk kepada Rusia, Mesekh kepada Moskwa,
 Tubal kepada Tobolsk. Ya’jūj disebut juga sebagian dari tanah Ma’jūj (Yehezkiel
 38: 2), dan Ma’jūj menurut para ahli tafsir Bibel merupakan daerah-daerah yang
@@ -337,9 +372,13 @@ Iskandar.
 
 Dalam ayat lain dijelaskan,
 
+<p class="quran">
+فَمَا اسۡطٰعُوۡۤا اَنۡ یَّظۡہَرُوۡہُ وَمَا اسۡتَطٰعُوۡا لَہٗ نَقۡبًا
+</p>
+
 > Maka mereka, *Yajuj dan Majuj* tidak dapat memanjatnya
 dan tidak dapat melubanginya.
-(QS Al-Kahfi [18]: 98 dengan basmallah)
+([QS Al-Kahfi [18]: 98 dengan basmallah](https://openquran.com/18:98))
 
 Tafsir: Setelah pembuatan dinding itu selesai, maka berhentilah
 serangan-serangan Ya’jūj dan Ma’jūj dari utara. Dinding itu terlalu tebal untuk dipecahkan
@@ -350,13 +389,17 @@ ampuh.
 
 Dalam ayat berikutnya dijelaskan,
 
+<p class="quran">
+قَالَ ہٰذَا رَحۡمَۃٌ مِّنۡ رَّبِّیۡ ۖ فَاِذَا جَآءَ وَعۡدُ رَبِّیۡ جَعَلَہٗ دَکَّآءَ ۖ وَکَانَ وَعۡدُ رَبِّیۡ حَقًّا
+</p>
+
 > Ia berkata, “Ini adalah
 rahmat dari Tuhan-ku. Tetapi
 apabila janji Tuhan-ku telah tiba,
 Dia akan menghancurkannya
 berkeping-keping. Dan janji
 Tuhan-ku itu pasti benar.”
-(QS Al-Kahfi [18]: 99 dengan basmallah)
+([QS Al-Kahfi [18]: 99 dengan basmallah](https://openquran.com/18:99))
 
 Tafsir: Sirus tentunya telah diberitahu melalui ilham, bahwa pada suatu
 ketika di masa depan Ya’jūj dan Ma’jūj akan sekali lagi tersebar ke tenggara,
@@ -375,12 +418,16 @@ lautan.
 
 Dalam ayat selanjunya dijelaskan,
 
+<p class="quran">
+وَتَرَکۡنَا بَعۡضَہُمۡ یَوۡمَئِذٍ یَّمُوۡجُ فِیۡ بَعۡضٍ ۖ وَّنُفِخَ فِی الصُّوۡرِ فَجَمَعۡنٰہُمۡ جَمۡعًا
+</p>
+
 > Dan Kami akan membiarkan sebagian mereka pada
 hari itu menyerang sebagian yang
 lain; dan nafiri akan ditiup. Lalu
 akan Kami himpun mereka itu
 semuanya.
-(QS Al-Kahfi [18]: 100 dengan basmallah)
+([QS Al-Kahfi [18]: 100 dengan basmallah](https://openquran.com/18:100))
 
 Tafsir: Pada waktu menanjaknya Ya’jūj dan Ma’jūj ke tangga kekuasaan,
 bangsa-bangsa di seluruh dunia akan berhimpun, sehingga seluruh dunia akan
@@ -395,6 +442,10 @@ bersiap-siap untuk perang Armagedon.
 
 Dalam ayat berikutnya dijelaskan,
 
+<p class="quran">
+وَعَرَضۡنَا جَہَنَّمَ یَوۡمَئِذٍ لِّلۡکٰفِرِیۡنَ عَرۡضًا
+</p>
+
 > Dan pada hari itu Kami tampakkan neraka Jahanam, berhadapan muka dengan orang-orang kafir,
 (QS Al-Kahfi [18]: 101 dengan basmallah)
 
@@ -402,6 +453,10 @@ Tafsir: Untuk pembahasan hukuman Tuhan yang amat mengerikan dan
 membinasakan yang akan turun kepada Ya’jūj dan Ma’jūj itu lihat Surah Ar-Rahman.
 
 Kemudian, Di akhir surat Al-Kahfi, Allah Ta'ala dalam ayat lain berfirman,
+
+<p class="quran">
+قُلۡ اِنَّمَاۤ اَنَا۠ بَشَرٌ مِّثۡلُکُمۡ یُوۡحٰۤی اِلَیَّ اَنَّمَاۤ اِلٰہُکُمۡ اِلٰہٌ وّٰحِدٌ ۖ فَمَنۡ کَانَ یَرۡجُوۡا لِقَآءَ رَبِّہٖ فَلۡیَعۡمَلۡ عَمَلًا صٰلِحًا وَّلَا یُشۡرِکۡ بِعِبَادَۃِ رَبِّہٖۤ اَحَدًۢا
+</p>
 
 > Katakanlah, “Sesungguhnya aku ini hanyalah seorang
 manusia seperti kamu, tetapi telah
@@ -412,7 +467,7 @@ mengharap akan bertemu dengan
 Tuhan-nya hendaklah ia beramal
 saleh dan janganlah ia mempersekutukan siapa pun juga dalam
 beribadah kepada Tuhannya.”
-(QS Al-Kahfi [18]: 111 dengan basmallah)
+([QS Al-Kahfi [18]: 111 dengan basmallah](https://openquran.com/18:111))
 
 Tafsir: Rasulullah Saw diriwayatkan telah bersabda bahwa pembaca sepuluh
 ayat pertama dan sepuluh ayat terakhir surah ini menjamin keselamatan seseorang
@@ -424,12 +479,16 @@ kekuatan dan kekuasaan mereka di bidang kebendaan dan politik.
 
 Dalam Surat Al-Anbiyaa, Allah Ta'ala berfirman mengenai Ya'juj dan Ma'juj,
 
+<p class="quran">
+حَتّٰۤی اِذَا فُتِحَتۡ یَاۡجُوۡجُ وَمَاۡجُوۡجُ وَہُمۡ مِّنۡ کُلِّ حَدَبٍ یَّنۡسِلُوۡنَ
+</p>
+
 > *Demikian akan terjadi*
 hingga ketika
 Yajuj dan Majuj
 dilepaskan dan mereka akan
 datang menyerbu dari setiap ketinggian.
-(QS Al-Anbiya [21] ayat 97 dengan basmallah)
+([QS Al-Anbiya [21] ayat 97 dengan basmallah](https://openquran.com/21:97))
 
 Tafsir: Jika dibaca bersama dengan ayat yang mendahuluinya, maka maksud
 ayat ini ialah, bahwa hukum alam bekerja demikian rupa, sehingga sekali
@@ -445,6 +504,10 @@ dan akan menguasai seluruh dunia.
 
 Dalam ayat berikutnya, Allah Ta'ala berfirman,
 
+<p class="quran">
+وَاقۡتَرَبَ الۡوَعۡدُ الۡحَقُّ فَاِذَا ہِیَ شٰخِصَۃٌ اَبۡصٰرُ الَّذِیۡنَ کَفَرُوۡا یٰوَیۡلَنَا قَدۡ کُنَّا فِیۡ غَفۡلَۃٍ مِّنۡ ہٰذَا بَلۡ کُنَّا ظٰلِمِیۡنَ
+</p>
+
 > Sudah dekat janji yang
 benar; maka sekonyong-konyong
 akan terbelalak mata orang-orang
@@ -452,7 +515,7 @@ yang telah ingkar, *mereka akan berseru*, “Aduhai, celakalah
 kami! Kami sungguh dalam
 kelalaian mengenai ini; bahkan,
 kami orang yang aniaya!”
-(QS Al-Anbiya [21] ayat 98 dengan basmallah)
+([QS Al-Anbiya [21] ayat 98 dengan basmallah](https://openquran.com/21:98))
 
 Tafsir: Kekuasaan Ya’jūj dan Ma’jūj akan diikuti oleh peristiwa-peristiwa
 yang membawa bencana di dunia, yang akhirnya akan menyebabkan kejayaan
@@ -467,12 +530,16 @@ sendiri hampir-hampir tidak dapat mempercayainya.
 
 Di akhir surat Al-Anbiyaa, Allah Ta'ala berfirman,
 
+<p class="quran">
+قٰلَ رَبِّ احۡکُمۡ بِالۡحَقِّ ۗ وَرَبُّنَا الرَّحۡمٰنُ الۡمُسۡتَعَانُ عَلٰی مَا تَصِفُوۡنَ
+</p>
+
 > *Dan Rasulullah* berdoa,
 “Wahai Tuhan-ku! Hakimilah
 dengan kebenaran, Tuhan Kami
 adalah *Tuhan* Yang Maha Pemurah,
 yang dimohonkan pertolongan-Nya terhadap apa yang kamu
-katakan.” (QS Al-Anbiya [21] ayat 113 dengan basmallah)
+katakan.” ([QS Al-Anbiya [21] ayat 113 dengan basmallah](https://openquran.com/21:113))
 
 Tafsir: Rasulullah (saw) diperintahkan untuk memanjatkan doa yang tersebut
 dalam ayat ini sebagai perlindungan terhadap kekuatan-kekuatan buruk yang
@@ -601,10 +668,6 @@ dari An Nawwas bin Sam'an berkata: Pada suatu pagi, Rasulullah Shallallahu 'alai
 
 ### Sabda Hadhrat Masih Mau'ud (as)
 
-{% comment %}
-
-{% endcomment %}
-
 Saya juga telah membuktikan bahwa penting bagi Hadhrat Masih Mau'ud muncul pada saat Yajuj dan Majuj. Karena Ajij, dimana kata Ya'juj dan Ma'juj berarti 'api', Tuhan Yang Maha Kuasa telah mengungkapkan kepadaku bahwa Ya'juj dan Ma'juj adalah orang-orang yang lebih ahli dalam menggunakan api daripada orang lain. Nama mereka sendiri menunjukkan bahwa kapal, kereta api, dan mesin mereka akan berjalan menggunakan (tenaga) api. Mereka akan berperang dengan api. Mereka akan mengungguli semua orang lain dalam memanfaatkan api untuk melayani mereka. Inilah mengapa mereka akan disebut Ya'juj dan Ma'juj. Mereka adalah orang-orang Barat karena mereka unik dalam keahlian mereka dalam menggunakan api. Dalam kitab suci Yahudi juga orang-orang Eropa yang digambarkan sebagai Ya'juj dan Ma'juj. Bahkan nama Moskow, yang merupakan ibu kota kuno Rusia, disebutkan (dalam kitab suci itu). Dengan demikian telah ditakdirkan bahwa Hadhrat Masih Mau'ud akan muncul pada masa Ya'juj dan Ma'juj. [[^rk_vol14_p424_425]] [[^the_essence_of_islam_vol_iii]]
 
 [^rk_vol14_p424_425]: I have also proved that it is essential for the Promised Messiah to appear at the time of Gog and Magog. Since Ajij, from which the words Gog and Magog are derived, means ‘fire’, God Almighty has disclosed to me that Gog and Magog are a people who are greater experts in the use of fire than any other people. Their very names indicate that their ships, trains and machines will be run by fire. They will fight their battles with fire. They will excel all other people in harnessing fire to their service. This is why they will be called Gog and Magog. These are the people of the West, as they are unique in their expertise in the use of fire. In Jewish scriptures too it was the people of Europe who were described as Gog and Magog. Even the name of Moscow, which is the ancient capital of Russia, is mentioned. Thus it was preordained that the Promised Messiah would appear in the time of Gog and Magog. (Ayyam-us-Sulh, Ruhani Khaza’in, vol. 14, pp. 424-425)
@@ -613,15 +676,36 @@ Saya juga telah membuktikan bahwa penting bagi Hadhrat Masih Mau'ud muncul pada 
 
 Ada lagi nubuatan dalam Al-Qur'an, yang menubuwwatkan penyatuan ruhani untuk mengikuti penyatuan fisik, yakni:
 
-Al-Kahfi, 18:100
+<p class="quran">
+وَتَرَکۡنَا بَعۡضَہُمۡ یَوۡمَئِذٍ یَّمُوۡجُ فِیۡ بَعۡضٍ ۖ وَّنُفِخَ فِی الصُّوۡرِ فَجَمَعۡنٰہُمۡ جَمۡعًا
+</p>
+
+> Dan Kami akan membiarkan sebagian mereka pada
+hari itu menyerang sebagian yang
+lain; dan nafiri akan ditiup. Lalu
+akan Kami himpun mereka itu
+semuanya.
+([QS Al-Kahfi [18]: 100 dengan basmallah](https://openquran.com/18:100)) [penerbit]
 
 Ini berarti bahwa di hari-hari terakhir, yang akan menjadi zaman Yajuj dan Majuj, orang-orang akan terlibat dalam perselisihan dan perkelahian agama dan bangsa-bangsa akan menyerang bangsa-bangsa seperti gelombang sungai yang satu melawan gelombang lainnya, dan akan ada banyak konflik lainnya. demikian juga. Dengan cara ini, perpecahan besar akan menyebar di dunia dan perselisihan besar, dendam dan kebencian akan muncul di antara orang-orang. Dan ketika peristiwa-peristiwa ini mencapai puncaknya, Tuhan akan meniup terompet-Nya, yaitu, Dia akan mengirimkan suara ke dunia melalui Hadhrat Masih Mau'ud, yang seperti terompet-Nya, dan setelah mendengar suara ini semua orang baik akan berkumpul di bawah panji satu agama. Semua perselisihan akan lenyap dan orang-orang di dunia akan menjadi satu. Dalam ayat lain, Dia berfirman:
 
-Al-Kahf, 18:101
+<p class="quran">
+وَعَرَضۡنَا جَہَنَّمَ یَوۡمَئِذٍ لِّلۡکٰفِرِیۡنَ عَرۡضًا
+</p>
+
+> Dan pada hari itu Kami tampakkan neraka Jahanam, berhadapan muka dengan orang-orang kafir,
+([QS Al-Kahfi [18]: 101 dengan basmallah](https://openquran.com/18:101)) [penerbit]
 
 Neraka akan dihadirkan bagi mereka yang tidak menanggapi panggilan Hadhrat Masih Mau'ud pada hari itu. Artinya, Tuhan akan menurunkan berbagai macam malapetaka yang merupakan cicipan awal dari neraka. Kemudian Dia berfirman:
 
-Al-Kahf, 18:102
+<p class="quran">
+اَلَّذِیۡنَ کَانَتۡ اَعۡیُنُہُمۡ فِیۡ غِطَآءٍ عَنۡ ذِکۡرِیۡ وَکَانُوۡا لَا یَسۡتَطِیۡعُوۡنَ سَمۡعًا
+</p>
+
+> *Ialah* orang-orang, yang
+mata mereka tertutup tabir *terhadap* peringatan-Ku, dan
+mereka tidak mampu mendengar.
+([QS Al-Kahfi [18]: 102 dengan basmallah](https://openquran.com/18:102)) [penerbit]
 
 Artinya, mereka adalah orang-orang yang matanya akan tertutupi dari Seruan dan Pesan Hadhrat Masih Mau'ud. Mereka tidak akan siap bahkan untuk mendengarkannya dan bahkan penuh kebencian terhadapnya. Inilah sebabnya mengapa hukuman akan diturunkan. Di sini kata 'Terompet' mengacu pada Hadhrat Masih Mau'ud, karena para Nabi Allah adalah sangkakala-Nya yang di dalamnya Dia menghembuskan suara-Nya ke dalam hati. Ungkapan ini telah digunakan dalam kitab suci terdahulu dan para Nabi Allah telah disebut sebagai terompet-Nya. Sama seperti pemain terompet meniup nadanya kepada terompet, demikian juga Tuhan menghembuskan firman-Nya ke dalam hati para nabi. Referensi tentang Ya'juj dan Ma'juj juga secara meyakinkan membuktikan bahwa terompet yang disebutkan di sini adalah Hadhrat Masih Mau'ud, karena sepenuhnya ditetapkan oleh Hadits otentik bahwa Hadhrat Masih Mau'ud akan muncul di zaman Ya'juj dan Ma'juj.
 
@@ -656,15 +740,27 @@ Jadi, berabad-abad setelah kenabian Nabi Suci (damai dan berkah Allah besertanya
 
 Tampaknya ada kontradiksi dalam Hadits, karena di satu sisi dinyatakan bahwa, pada saat kedatangan Hadhrat Masih Mau'ud, Ya'juj dan Ma'juj telah menyebar ke seluruh dunia, dan di lain dinyatakan bahwa orang-orang Kristen akan menang di dunia; misalnya, dikatakan bahwa Hadhrat Masih Mau'ud as akan mematahkan salib, yang berarti bahwa orang-orang Nasrani akan mendominasi pada saat itu. Hadis lain juga menunjukkan bahwa orang Romawi, yaitu, orang-orang Kristen, akan berkuasa. Pada zaman Nabi Suci (damai dan berkah Allah besertanya) Kekaisaran Romawi adalah Kristen, sebagaimana Allah berfirman dalam Al-Qur'an:
 
+<p class="quran">
+غُلِبَتِ الرُّوۡمُ - فِیۡۤ اَدۡنَی الۡاَرۡضِ وَہُمۡ مِّنۡۢ بَعۡدِ غَلَبِہِمۡ سَیَغۡلِبُوۡنَ
+</p>
+
 'Orang Romawi telah dikalahkan, di negeri terdekat, dan mereka, setelah kekalahan mereka, akan menang.'—Al-Rum, 30:3-4 [Penerbit]
 
 Di sini kata Roma mengacu pada orang Kristen. Beberapa hadis juga menunjukkan bahwa pada saat munculnya Hadhrat Masih Mau'ud, Dajjal akan menjadi yang paling unggul di seluruh dunia kecuali Mekah.
 
 Sekarang, apakah Maulavi Sahib akan memberi tahu kita bagaimana kontradiksi ini dapat diakurkan? Jika Dajjal menguasai bumi, di manakah letak kekuasaan kaum Nasrani, dan kemana Yajuj dan Majuj akan pergi, kerajaan dunia siapa yang dinubuwwatkan oleh Al-Qur'an? Inilah kesalahan-kesalahan yang diderita oleh orang-orang yang menolakku dan menyebutku kafir. Peristiwa membuktikan bahwa karakteristik Yajuj dan Majuj dan Dajjal dapat ditemukan di negara-negara Eropa. Seperti yang dijelaskan oleh Hadits tentang Yajuj dan Majuj, tidak ada kekuatan yang dapat menahan mereka dalam pertempuran dan Hadhrat Masih Mau'ud juga hanya akan meminta bantuan doa untuk melawan mereka. Karakteristik ini tidak diragukan lagi ditemukan di kekuatan Eropa. Al-Qur'an juga menegaskan hal ini, seperti yang difirmankan:
 
+<p class="quran">
+...وَہُمۡ مِّنۡ کُلِّ حَدَبٍ یَّنۡسِلُوۡنَ
+</p>
+
 'Dan mereka akan bergegas dari setiap ketinggian.'—Al-Anbiya', 21:97 [Penerbit]
 
 Tentang Dajjal, disebutkan dalam hadits bahwa ia akan menggunakan tipu daya dan menciptakan kerusakan dan kekacauan agama. Menurut Al-Qur'an, karakteristik khusus ini dimiliki oleh para ulama Kristen. Seperti difirmankan:
+
+<p class="quran">
+...یُحَرِّفُوۡنَ الۡکَلِمَ عَنۡ مَّوَاضِعِہٖ...
+</p>
 
 ‘Mereka memutarbalikkan kata-kata dari tempat yang semestinya.’—Al-Nisa’, 4:47 [Penerbit]
 
@@ -690,7 +786,9 @@ Hadhrat Masih Mau'ud (as) menulis,
 
 Al-Qur'an Suci kemudian menetapkan bahwa di hari-hari terakhir orang-orang Kristen akan mendominasi bumi, dan mereka akan menjadi penyebab segala macam kerusakan merajalela. Gelombang bencana akan meningkat di semua sisi dan akan turun dari setiap ketinggian.... Mereka akan memiliki kekuatan dan kekuasaan harta yang besar, di mana semua kekuatan dan negara lain akan tampak tidak berdaya. Mereka juga akan menikmati keunggulan dalam semua jenis ilmu dan sains dan membangun industri baru yang luar biasa. Mereka juga akan menjadi dominan dalam kebijakan, proyek, dan administrasi yang baik, dan akan menunjukkan tekad yang besar dalam urusan duniawi mereka dan juga akan unggul dalam usaha mereka untuk menyebarkan kepercayaan mereka. Mereka akan menyalip semua negara lain dalam kebijakan sosial, pertanian dan komersial mereka, seperti juga dalam segala hal lainnya. Inilah arti dari:
 
-*ming-kulli hadabiy-yansiluun*
+<p class="quran">
+...وَہُمۡ مِّنۡ کُلِّ حَدَبٍ یَّنۡسِلُوۡنَ
+</p>
 
 ‘Mereka akan bergegas keluar dari setiap ketinggian.’ Ta Ha, 21:97
 
@@ -712,13 +810,24 @@ Al-Qur'an bukanlah buku cerita lama. Setiap peristiwa yang disebutkan di dalamny
 
 Didalam Alquran tertulis,
 
-Al-Kahf, 18:84
+<p class="quran">
+وَیَسۡـَٔلُوۡنَکَ عَنۡ ذِی الۡقَرۡنَیۡنِ ۖ قُلۡ سَاَتۡلُوۡا عَلَیۡکُمۡ مِّنۡہُ ذِکۡرًا
+</p>
 
-‘Mereka menanyakan kepadamu tentang Dzulkarnain. Katakan kepada mereka bahwa untuk saat ini saya hanya akan menceritakan sedikit tentang dia kepada Anda.’ Kemudian difirmankan:
+> Dan mereka menanyakan
+pula kepada engkau mengenai
+Zulqarnain. Katakanlah, “Aku
+akan segera bacakan kepadamu
+kisah mengenainya.”
+([QS Al-Kahfi [18]: 84 dengan basmallah](https://openquran.com/18:84))
 
-Al-Kahf, 18:85
+Kemudian difirmankan:
 
-‘Kami akan menjadikannya di bumi, yaitu Hadhrat Masih Mau'ud, yang juga dikenal sebagai Dzulkarnain, sedemikian rupa sehingga tidak ada yang bisa menyakitinya; dan Kami akan memberinya semua sarana untuk mencapai tujuannya dan akan membuat segalanya mudah dan jelas baginya.'
+<p class="quran">
+اِنَّا مَکَّنَّا لَہٗ فِی الۡاَرۡضِ وَاٰتَیۡنٰہُ مِنۡ کُلِّ شَیۡءٍ سَبَبًا
+</p>
+
+‘Kami akan menjadikannya di bumi, yaitu Hadhrat Masih Mau'ud, yang juga dikenal sebagai Dzulkarnain, sedemikian rupa sehingga tidak ada yang bisa menyakitinya; dan Kami akan memberinya semua sarana untuk mencapai tujuannya dan akan membuat segalanya mudah dan jelas baginya.' -- Al-Kahf, 18:85
 
 Ingat, wahyu yang sama tentang saya diterbitkan dalam volume sebelumnya dari Brahin-e-Ahmadiyyah, di mana Allah SWT berfirman:
 
@@ -728,13 +837,19 @@ Ingat, wahyu yang sama tentang saya diterbitkan dalam volume sebelumnya dari Bra
 
 Allah Ta'ala berfirman dalam Alquran,
 
-‘Ketika Dzulkarnain (yakni Hadhrat Masih Mau'ud), dilengkapi dengan segala sarana, dia akan mengikuti jalan tertentu, (yaitu, dia akan memutuskan untuk mereformasi orang-orang Barat). Dia akan menemukan bahwa matahari ketakwaan dan ketakwaan telah terbenam di kolam berlumpur, di dekatnya dia akan menemukan orang-orang dalam kegelapan. (Ini adalah orang-orang Kristen dari Barat yang akan tenggelam dalam kegelapan; mereka tidak akan memiliki matahari untuk mendapatkan cahaya, juga tidak akan memiliki air bersih untuk diminum, yaitu, baik dalam amal dan ajaran mereka akan berada dalam keadaan yang mengerikan; mereka akan kehilangan cahaya ruhani dan air ruhani.) Kemudian Kami akan mengatakan kepada Dzulkarnain (Hadhrat Masih Mau'ud): Terserah engkau untuk menghukum mereka atau memperlakukan mereka dengan kebaikan. Dzulkarnain (Al Masih yang Dijanjikan) akan berkata: Kami hanya menginginkan orang-orang yang zalim untuk dihukum. Mereka akan dihukum di dunia ini (melalui doa kami), dan akan menderita siksaan yang berat di akhirat. Tetapi orang yang tidak mengingkari kebenaran dan melakukan perbuatan baik akan mendapatkan pahalanya. Dia akan diminta hanya untuk melakukan apa yang bisa dilakukan dengan fasilitas dan kemudahan.’
+<p class="quran">
+فَاَتۡبَعَ سَبَبًا - حَتّٰۤی اِذَا بَلَغَ مَغۡرِبَ الشَّمۡسِ وَجَدَہَا تَغۡرُبُ فِیۡ عَیۡنٍ حَمِئَۃٍ وَّوَجَدَ عِنۡدَہَا قَوۡمًا ۗ قُلۡنَا یٰذَا الۡقَرۡنَیۡنِ اِمَّاۤ اَنۡ تُعَذِّبَ وَاِمَّاۤ اَنۡ تَتَّخِذَ فِیۡہِمۡ حُسۡنًا - قَالَ اَمَّا مَنۡ ظَلَمَ فَسَوۡفَ نُعَذِّبُہٗ ثُمَّ یُرَدُّ اِلٰی رَبِّہٖ فَیُعَذِّبُہٗ عَذَابًا نُّکۡرًا - وَاَمَّا مَنۡ اٰمَنَ وَعَمِلَ صٰلِحًا فَلَہٗ جَزَآءَۨ الۡحُسۡنٰی ۖ وَسَنَقُوۡلُ لَہٗ مِنۡ اَمۡرِنَا یُسۡرًا
+</p>
+
+‘Ketika Dzulkarnain (yakni Hadhrat Masih Mau'ud), dilengkapi dengan segala sarana, dia akan mengikuti jalan tertentu, (yaitu, dia akan memutuskan untuk mereformasi orang-orang Barat). Dia akan menemukan bahwa matahari ketakwaan dan ketakwaan telah terbenam di kolam berlumpur, di dekatnya dia akan menemukan orang-orang dalam kegelapan. (Ini adalah orang-orang Kristen dari Barat yang akan tenggelam dalam kegelapan; mereka tidak akan memiliki matahari untuk mendapatkan cahaya, juga tidak akan memiliki air bersih untuk diminum, yaitu, baik dalam amal dan ajaran mereka akan berada dalam keadaan yang mengerikan; mereka akan kehilangan cahaya ruhani dan air ruhani.) Kemudian Kami akan mengatakan kepada Dzulkarnain (Hadhrat Masih Mau'ud): Terserah engkau untuk menghukum mereka atau memperlakukan mereka dengan kebaikan. Dzulkarnain (Al Masih yang Dijanjikan) akan berkata: Kami hanya menginginkan orang-orang yang zalim untuk dihukum. Mereka akan dihukum di dunia ini (melalui doa kami), dan akan menderita siksaan yang berat di akhirat. Tetapi orang yang tidak mengingkari kebenaran dan melakukan perbuatan baik akan mendapatkan pahalanya. Dia akan diminta hanya untuk melakukan apa yang bisa dilakukan dengan fasilitas dan kemudahan.’ -- Al-Kahf, 18: 86-89
 
 Singkatnya, ayat-ayat ini berisi nubuwwatan bahwa Hadhrat Masih Mau'ud (as) akan muncul pada saat orang-orang Barat akan tenggelam dalam kegelapan. Matahari kebenaran akan sepenuhnya hilang dari mata mereka dan akan terbenam di kolam yang kotor dan bau, (yaitu, alih-alih kebenaran, mereka (justru) akan dipenuhi dengan keyakinan dan perbuatan busuk). Itu akan menjadi air yang akan mereka minum. Mereka tidak akan memiliki cahaya sama sekali dan akan berkubang dalam kegelapan. Inilah persisnya kondisi iman Kristen saat ini, sebagaimana dijelaskan oleh Al-Qur'an, dan pusat besar Kekristenan juga ada di negara-negara Barat. Kemudian Allah Ta'ala berfirman:
 
-Al-Kahf, 18:90-92
+<p class="quran">
+ثُمَّ اَتۡبَعَ سَبَبًا - حَتّٰۤی اِذَا بَلَغَ مَطۡلِعَ الشَّمۡسِ وَجَدَہَا تَطۡلُعُ عَلٰی قَوۡمٍ لَّمۡ نَجۡعَل لَّہُمۡ مِّنۡ دُوۡنِہَا سِتۡرًا - کَذٰلِکَ وَقَدۡ اَحَطۡنَا بِمَا لَدَیۡہِ خُبۡرًا
+</p>
 
-Artinya, 'Dzulkarnain (Hadhrat Masih Mau'ud yang akan dilengkapi dengan segala sarana) akan mengikuti jalan lain, (yaitu, dia akan mengamati keadaan orang-orang Timur) dan akan menemukan suatu kaum di tempat terbitnya matahari kebenaran. Mereka yang begitu bodohnya sehingga mereka tidak akan memiliki sarana untuk melindungi diri dari silau matahari (yaitu, mereka akan hangus oleh panas yang dihasilkan oleh kepatuhan mereka secara tekstual dan kelakuan keras mereka), dan mereka tidak akan menyadarinya dari kebenaran. Dzulkarnain (Hadhrat Masih Mau'ud) akan memiliki semua sarana kedamaian dan kebahagiaan sejati yang Kami ketahui, tetapi orang-orang tidak akan menerimanya. Mereka tidak akan memiliki tempat berlindung dari sorotan ekstremisme mereka—tidak ada rumah, atau pohon rindang, atau pakaian yang cocok untuk melindungi mereka dari panas. Dengan cara ini terbitnya matahari kebenaran akan membawa kehancuran mereka.’
+Artinya, 'Dzulkarnain (Hadhrat Masih Mau'ud yang akan dilengkapi dengan segala sarana) akan mengikuti jalan lain, (yaitu, dia akan mengamati keadaan orang-orang Timur) dan akan menemukan suatu kaum di tempat terbitnya matahari kebenaran. Mereka yang begitu bodohnya sehingga mereka tidak akan memiliki sarana untuk melindungi diri dari silau matahari (yaitu, mereka akan hangus oleh panas yang dihasilkan oleh kepatuhan mereka secara tekstual dan kelakuan keras mereka), dan mereka tidak akan menyadarinya dari kebenaran. Dzulkarnain (Hadhrat Masih Mau'ud) akan memiliki semua sarana kedamaian dan kebahagiaan sejati yang Kami ketahui, tetapi orang-orang tidak akan menerimanya. Mereka tidak akan memiliki tempat berlindung dari sorotan ekstremisme mereka—tidak ada rumah, atau pohon rindang, atau pakaian yang cocok untuk melindungi mereka dari panas. Dengan cara ini terbitnya matahari kebenaran akan membawa kehancuran mereka.’ -- Al-Kahf, 18:90-92
 
 Ini adalah contoh orang-orang yang memiliki cahaya matahari petunjuk yang tersedia bagi mereka, dan yang tidak seperti mereka yang mataharinya telah terbenam, tetapi mereka tidak mendapatkan manfaat dari matahari petunjuk; hanya kulit mereka yang hangus, kulit mereka menjadi gelap dan mereka kehilangan penglihatan.
 
@@ -742,7 +857,11 @@ Pembagian ini menunjukkan bahwa Hadhrat Masih Mau'ud as akan bertemu dengan tiga
 
 Kemudian Allah Ta'ala lebih lanjut berfirman:
 
-Dzulkarnain (Hadhrat Masih Mau'ud) kemudian akan mengikuti jalan lain dan akan menemukan dirinya pada saat yang sangat kritis, yang dapat digambarkan sebagai antara dua penghalang atau gunung. Ini berarti bahwa dia akan menemukan saat ketika orang-orang di kedua sisi akan ketakutan, dan kekuatan kegelapan, bekerja sama dengan kekuatan negara, akan menghadirkan pertunjukan yang menakjubkan. Di bawah kedua kekuatan ini dia akan menemukan orang-orang yang akan sulit untuk memahaminya, yaitu, mereka akan menjadi korban dari kepercayaan yang salah yang menyebabkan mereka akan sulit untuk memahami petunjuk yang akan dia berikan kepada mereka. Tapi pada akhirnya mereka akan mengerti dia. Ini adalah jenis orang ketiga yang akan mendapat manfaat dari bimbingan Hadhrat Masih Mau'ud. Mereka akan berkata kepadanya: ‘Dzulkarnain, Ya’juj dan Ma’juj telah memenuhi negeri dengan kekacauan. Jika engkau mau, izinkan kami mengumpulkan dana untuk engkau sehingga engkau dapat membangun penghalang antara mereka dan kami.' Dia akan menjawab: 'Kekuatan yang diberikan Tuhan kepada saya lebih baik daripada dana kalian, tetapi jika kalian mau, kalian dapat membantu saya sesuai dengan kemampuan kalian sehingga saya dapat membangun tembok antara kalian dan musuh kalian (yaitu, dia akan mengajukan bukti dan argumen yang meyakinkan bahwa musuh mereka tidak akan ditinggalkan dengan alasan untuk mengkritik atau keberatan terhadap agama mereka.) Dia akan berkata kepada mereka: 'Bawakan saya lempengan besi sehingga gerakan mereka dapat dihentikan, (yaitu, berpegang teguh pada ajaran dan argumen saya, sabar, dan blokir serangan musuh seperti tembok besi) Kemudian tiup api ke dalam besi sampai tampak seperti api itu sendiri (yaitu, beri makan api cinta untuk Tuhan sampai kalian sendiri mengambil sifat Ilahi)...
+<p class="quran">
+ثُمَّ اَتۡبَعَ سَبَبًا - حَتّٰۤی اِذَا بَلَغَ بَیۡنَ السَّدَّیۡنِ وَجَدَ مِنۡ دُوۡنِہِمَا قَوۡمًا لَّا یَکَادُوۡنَ یَفۡقَہُوۡنَ قَوۡلًا - قَالُوۡا یٰذَا الۡقَرۡنَیۡنِ اِنَّ یَاۡجُوۡجَ وَمَاۡجُوۡجَ مُفۡسِدُوۡنَ فِی الۡاَرۡضِ فَہَلۡ نَجۡعَلُ لَکَ خَرۡجًا عَلٰۤی اَنۡ تَجۡعَلَ بَیۡنَنَا وَبَیۡنَہُمۡ سَدًّا - قَالَ مَا مَکَّنِّیۡ فِیۡہِ رَبِّیۡ خَیۡرٌ فَاَعِیۡنُوۡنِیۡ بِقُوَّۃٍ اَجۡعَلۡ بَیۡنَکُمۡ وَبَیۡنَہُمۡ رَدۡمًا - اٰتُوۡنِیۡ زُبَرَ الۡحَدِیۡدِ ۖ حَتّٰۤی اِذَا سَاوٰی بَیۡنَ الصَّدَفَیۡنِ قَالَ انۡفُخُوۡا ۖ حَتّٰۤی اِذَا جَعَلَہٗ نَارًا قَالَ اٰتُوۡنِیۡۤ اُفۡرِغۡ عَلَیۡہِ قِطۡرًا - فَمَا اسۡطٰعُوۡۤا اَنۡ یَّظۡہَرُوۡہُ وَمَا اسۡتَطٰعُوۡا لَہٗ نَقۡبًا - قَالَ ہٰذَا رَحۡمَۃٌ مِّنۡ رَّبِّیۡ ۖ فَاِذَا جَآءَ وَعۡدُ رَبِّیۡ جَعَلَہٗ دَکَّآءَ ۖ وَکَانَ وَعۡدُ رَبِّیۡ حَقًّا - ۞ وَتَرَکۡنَا بَعۡضَہُمۡ یَوۡمَئِذٍ یَّمُوۡجُ فِیۡ بَعۡضٍ ۖ وَّنُفِخَ فِی الصُّوۡرِ فَجَمَعۡنٰہُمۡ جَمۡعًا - وَعَرَضۡنَا جَہَنَّمَ یَوۡمَئِذٍ لِّلۡکٰفِرِیۡنَ عَرۡضًا - اَلَّذِیۡنَ کَانَتۡ اَعۡیُنُہُمۡ فِیۡ غِطَآءٍ عَنۡ ذِکۡرِیۡ وَکَانُوۡا لَا یَسۡتَطِیۡعُوۡنَ سَمۡعًا - اَفَحَسِبَ الَّذِیۡنَ کَفَرُوۡۤا اَنۡ یَّتَّخِذُوۡا عِبَادِیۡ مِنۡ دُوۡنِیۡۤ اَوۡلِیَآءَ ۚ اِنَّاۤ اَعۡتَدۡنَا جَہَنَّمَ لِلۡکٰفِرِیۡنَ نُزُلًا
+</p>
+
+Dzulkarnain (Hadhrat Masih Mau'ud) kemudian akan mengikuti jalan lain dan akan menemukan dirinya pada saat yang sangat kritis, yang dapat digambarkan sebagai antara dua penghalang atau gunung. Ini berarti bahwa dia akan menemukan saat ketika orang-orang di kedua sisi akan ketakutan, dan kekuatan kegelapan, bekerja sama dengan kekuatan negara, akan menghadirkan pertunjukan yang menakjubkan. Di bawah kedua kekuatan ini dia akan menemukan orang-orang yang akan sulit untuk memahaminya, yaitu, mereka akan menjadi korban dari kepercayaan yang salah yang menyebabkan mereka akan sulit untuk memahami petunjuk yang akan dia berikan kepada mereka. Tapi pada akhirnya mereka akan mengerti dia. Ini adalah jenis orang ketiga yang akan mendapat manfaat dari bimbingan Hadhrat Masih Mau'ud. Mereka akan berkata kepadanya: ‘Dzulkarnain, Ya’juj dan Ma’juj telah memenuhi negeri dengan kekacauan. Jika engkau mau, izinkan kami mengumpulkan dana untuk engkau sehingga engkau dapat membangun penghalang antara mereka dan kami.' Dia akan menjawab: 'Kekuatan yang diberikan Tuhan kepada saya lebih baik daripada dana kalian, tetapi jika kalian mau, kalian dapat membantu saya sesuai dengan kemampuan kalian sehingga saya dapat membangun tembok antara kalian dan musuh kalian (yaitu, dia akan mengajukan bukti dan argumen yang meyakinkan bahwa musuh mereka tidak akan ditinggalkan dengan alasan untuk mengkritik atau keberatan terhadap agama mereka.) Dia akan berkata kepada mereka: 'Bawakan saya lempengan besi sehingga gerakan mereka dapat dihentikan, (yaitu, berpegang teguh pada ajaran dan argumen saya, sabar, dan blokir serangan musuh seperti tembok besi) Kemudian tiup api ke dalam besi sampai tampak seperti api itu sendiri (yaitu, beri makan api cinta untuk Tuhan sampai kalian sendiri mengambil sifat Ilahi)... --- Al-Kahf, 18: 93-103
 
 Setelah ayat-ayat ini, Allah Ta'ala melanjutkan dengan berfirman: Kemudian Dzulkarnain (Hadhrat Masih Mau'ud) akan berkata kepada orang-orang yang takut kepada Yajuj dan Majuj: ‘Bawakan saya tembaga sehingga saya dapat mencairkannya dan menuangkannya ke dinding. Setelah itu, Yajuj dan Majuj tidak akan memiliki kekuatan untuk membukanya atau membuat lubang di dalamnya.’
 
@@ -778,6 +897,8 @@ Semua tanda-tanda ini akan menjadi saksi tentang kebenaran Hadhrat Masih Mau'ud.
 
     Then Allah says in the Holy Qur’an:  
 
+		Al-Kahf, 18: 86-89
+
     ‘When Dhulqarnain (who is the Promised Messiah), is furnished with all the means, he will follow a certain path, (i.e., he will resolve to reform the people of the West). He will find that the sun of truth and righteousness has set in a muddy pool, near which he will find a people in the darkness. (These are the Christians of the West who will be steeped in darkness; they will have no sun to get light from, nor will they have clean water to drink, i.e., both in practice and doctrine they will be in a terrible state; they will be bereft of spiritual light and spiritual water.) Then We shall say to Dhulqarnain (the Promised Messiah): It is up to you either to punish them or to treat them with kindness. Dhulqarnain (the Promised Messiah) will say: We only desire the wrongdoers to be punished. They will be punished in this life (through our supplications), and will suffer severe torment in the hereafter. But he who does not deny the truth and does good deeds will have his reward. He will be required only to do what can be done with facility and ease.’
 
     In short, these verses contain a prophecy that the Promised Messiah will appear at a time when the people of the West will be steeped in darkness. The sun of truth will completely disappear from their eyes and will set in a dirty, stinking pool, (i.e., instead of truth, they will be infested with foul beliefs and deeds). That will be the water they will drink. They will have no light whatsoever and will wallow in darkness. This exactly is the condition of the Christian faith today, as described by the Holy Qur’an, and the great centre of Christianity is also in the Western countries. Then God Almighty says:
@@ -805,6 +926,10 @@ Semua tanda-tanda ini akan menjadi saksi tentang kebenaran Hadhrat Masih Mau'ud.
     All these signs will testify to the truth of the Promised Messiah. See, how the grace of the Beneficent One has bestowed all these favours on this humble one, who is labelled a disbeliever and Dajjal by his opponents! [Brahin-e-Ahmadiyyah part V, Ruhani Khaza’in, vol. 21, pp 119-126]
 
 Satu kali Hakim Mirza Mahmud Irani, dalam suratnya tertanggal 2 September 1902, telah meminta saya untuk menjelaskan arti dari ayat berikut:
+
+<p class="quran">
+...وَجَدَہَا تَغۡرُبُ فِیۡ عَیۡنٍ حَمِئَۃٍ...
+</p>
 
 ‘Dia menemukannya terbenam di genangan air keruh.’—Al-Kahfi, 18:87 [Penerbit]
 
