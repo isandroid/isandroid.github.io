@@ -21,7 +21,7 @@ Dalam kamus Al-Ma'aany tertulis,
 
 <p class="arab">
 أَجِج : مفرد المذكر لصيغة مبالغة على وزن فَعِل (أَجِج) في حال يكون مرفوعا أو منصوبا أو مجرورا والمشتق من الفعل (أَجَّ) والذي جذره (ءجج)
-</p> 
+</p>
 
 Akar kata *ajij* (أَجِج) mempunyai turunan kata kerja *ajja* (أَجَّ)
 
@@ -41,14 +41,14 @@ Yajuj dan Majuj adalah dua (golongan) manusia yang telah disebutkan dalam kitab 
 
 Allah Ta'ala membuat perumpamaan dua orang laki-laki,
 
-> "Dan berikanlah kepada mereka perumpamaan dua orang laki-laki, kepada salah seorang dari keduanya Kami berikan dua bidang kebun anggur, dan Kami kelilingi kedua kebun itu dengan pohon-pohon kurma, dan di antara keduanya itu Kami jadikan *pula* ladang." (QS Al-Kahfi [18]: 33 dengan basmallah). 
+> "Dan berikanlah kepada mereka perumpamaan dua orang laki-laki, kepada salah seorang dari keduanya Kami berikan dua bidang kebun anggur, dan Kami kelilingi kedua kebun itu dengan pohon-pohon kurma, dan di antara keduanya itu Kami jadikan *pula* ladang." (QS Al-Kahfi [18]: 33 dengan basmallah).
 
 Dari ayat ini diuraikan keadaan mengenai dua golongan, ialah umat Kristen dan umat Islam. Kemudian dikemukakan tamsil berikutnya,
 
 > Maka boleh jadi Tuhan-ku
 akan menganugerahkan kepadaku
 sesuatu yang lebih baik daripada
-kebun engkau dan mengirimkan 
+kebun engkau dan mengirimkan
 *kepada kebun engkau* petir
 dari langit sehingga menjadi
 dataran yang licin. (QS Al-Kahfi [18]: 41 dengan basmallah)
@@ -57,7 +57,7 @@ Tafsir: Kata-kata “dari langit” menunjukkan, bahwa tidak akan ada
 kekuatan dan kekuasaan dunia yang akan sanggup melawan dan menahan
 secara efektif kekuatan militer bangsa-bangsa Kristen barat itu. Tuhan sendiri
 akan menciptakan keadaan-keadaan yang akan mendatangkan kehancuran
-mereka. Kekuatan bangsa-bangsa Ya’jūj dan Ma’jūj yang tak terbendung itu, 
+mereka. Kekuatan bangsa-bangsa Ya’jūj dan Ma’jūj yang tak terbendung itu,
 yang melukiskan kejayaan di bidang kebendaan agama Kristen itulah, yang
 disinggung oleh Rasulullah Saw ketika menurut riwayat beliau bersabda,
 “tidak akan ada yang akan mampu melawan mereka.” (Muslim, bab mengenai
@@ -71,7 +71,7 @@ engkau akan melihat *bangsa-bangsa* di bumi akan bergerak
 maju *berhadapan satu sama lain untuk berperang;* dan akan Kami
 himpun mereka *semuanya*,
 maka tiadalah seorang pun yang
-Kami tinggalkan di antara mereka. 
+Kami tinggalkan di antara mereka.
 (QS Al-Kahfi [18]: 48 dengan basmallah)
 
 Tafsir: Oleh karena Jibāl (gunung-gunung) berarti pula pembesar-pembesar (Lane), maka ayat ini dapat berarti, bahwa nubuatan mengenai kehancuran mutlak kekuatan-kekuatan kejahatan – Ya’jūj dan Ma’jūj –
@@ -89,11 +89,11 @@ Kemudian diceritakan juga mengenai tamsil Nabi Musa (as),
 > Dan *ingatlah* ketika
 Musa berkata kepada teman
 mudanya. “Aku tidak akan
-berhenti *menempuh perjalanan ini* 
+berhenti *menempuh perjalanan ini*
 sebelum aku sampai ke
 tempat pertemuan dua lautan,
 meskipun aku harus berkelana
-berabad-abad lamanya. 
+berabad-abad lamanya.
 (QS Al-Kahfi [18]: 61 dengan basmallah)
 
 Tafsir: Mulai dengan ayat ini masalah isra’ Nabi Musa As dibahas: Seperti
@@ -146,7 +146,7 @@ serta kesejahteraan yang belakangan dicapai oleh penerus-penerus mereka,
 yaitu bangsa-bangsa Kristen dari Barat, lalu telah dipaparkan secara agak terinci
 tentang isra’ Nabi Musa As, yang melukiskan kebangkitan Rasulullah Saw.
 Dipaparkannya itu untuk menunjukkan, bahwa dengan munculnya Rasulullah
-Saw, masa pertama kesejahteraan dan kemajuan duniawi orang-orang Kristen 
+Saw, masa pertama kesejahteraan dan kemajuan duniawi orang-orang Kristen
 
 akan berakhir. Dan sekalipun bagi mereka masih akan ada kemungkinan untuk
 mencapai sedikit kemajuan, tetapi mereka akan mencapai puncak kejayaan
@@ -157,9 +157,9 @@ yang memperoleh kekuasaan luar biasa, hal itu, merupakan masalah inti dalam
 surah ini. Oleh karena secara politis, Ya’jūj-Ma’jūj dan Zulqarnain bertalian erat
 antara satu sama lain, sebagaimana akan nampak dari uraian berikutnya maka
 riwayat Zulqarnain pun telah diuraikan dengan agak mendalam dalam surah ini.
-Rupa-rupanya Zulqarnain adalah raja yang mendirikan kemaharajaan 
+Rupa-rupanya Zulqarnain adalah raja yang mendirikan kemaharajaan
 Media-Persia yang dilukiskan sebagai dua tanduk domba jantan dalam mimpi Nabi
-Daniel As yang termashur itu. Bunyinya adalah: 
+Daniel As yang termashur itu. Bunyinya adalah:
 
 > “Maka kulihat domba jantan
 itu menanduk ke barat dan ke utara dan ke selatan, maka seekor binatang
@@ -173,24 +173,24 @@ seorang raja dari Media dan Persia. Dari semua raja Media dan Persia, lukisan
 yang diberikan dalam Al-Qur’an, sangat mengena sekali kepada Sirus. AlQur’an telah menyebut empat tanda yang kentara sekali mengenai Zulqarnain:
 
 - (a) Ia seorang raja yang sangat berkuasa dan seorang kepala pemerintahan yang
-baik hati dan adil (ayat 85, 89). 
+baik hati dan adil (ayat 85, 89).
 
 - (b) seorang hamba Allah yang saleh dan telah
-mendapat anugerah wahyu Ilahi (ayat 92, 99). 
+mendapat anugerah wahyu Ilahi (ayat 92, 99).
 
 - (c). Ia bergerak maju ke barat
 dan banyak melakukan penaklukan-penaklukan hingga ia sampai ke satu tempat
 ketika ia menyaksikan seolah-olah matahari sedang terbenam di sebuah telaga
 (maksudnya Laut Hitam) yang airnya kehitam-hitaman warnanya, dan kemudian
 ia berbelok ke timur serta menyerang dan menaklukkan daerah-daerah luas (ayat
-87, 88). 
+87, 88).
 
 - (d) Ia pergi ke satu daerah di pertengahan jalan yang didiami suatu
 bangsa biadab, dan di sana Ya’jūj-Ma’jūj, mengadakan serangan-serangan
-hebat, dan ia mendirikan di sana sebuah dinding untuk menghentikan 
-serangan-serangan itu (ayat 94-98). Dari antara penguasa-penguasa besar dan 
+hebat, dan ia mendirikan di sana sebuah dinding untuk menghentikan
+serangan-serangan itu (ayat 94-98). Dari antara penguasa-penguasa besar dan
 panglima-panglima militer yang tersohor dari masa purba, Sirus memiliki keempat sifat
-tersebut di atas, dalam ukuran terbesar. Sebab itu ia layak dipandang sebagai 
+tersebut di atas, dalam ukuran terbesar. Sebab itu ia layak dipandang sebagai
 Zulqarnain-nya Al-Qur’an (Yesaya bab 45; Ezra bab l–2; II Tawarikh bab 36:
 22; 23; Historians’ History of the World, pada kata “Cyrus”).
 
@@ -202,7 +202,7 @@ dan Majuj membuat kekacauan
 di bumi; maka bolehkah kami
 membayar upeti kepadamu dengan syarat engkau membuat
 sebuah penghalang di antara
-kami dengan mereka ?” 
+kami dengan mereka ?”
 (QS Al-Kahfi [18]: 95 dengan basmallah)
 
 Tafsir: Kata-kata Ya’jūj dan Ma’jūj kedua-duanya berasal dari akar kata
@@ -227,7 +227,7 @@ masa itu engkau akan datang naik seperti guruh yang membinasakan dan seperti
 awan-awan yang menudungi muka tanah, engkau dengan segala bala tentaramu
 dan beberapa bangsa sertamu” (Yehezkiel 38: 9).….. “Seperti Ya’jūj dan Ma’jūj
 , supaya menghimpun mereka itu akan berpegang, yang banyaknya mereka itu
-seperti pasir di pantai laut” (Wahyu 20: 8). “Daging orang pahlawan akan 
+seperti pasir di pantai laut” (Wahyu 20: 8). “Daging orang pahlawan akan
 kamu makan dan darah orang besar di dunia akan kamu minum; domba jantan
 dan anak kambing dan kambing jantan dan lembu muda, semuanya binatang
 tambun-tambun dari Bazan! Kamu akan makan lemaknya sampai kenyang dan
@@ -257,16 +257,16 @@ yang dari sana pada masa yang lampau telah datang banyak gerombolan manusia
 liar dan biadab. Oleh sebab Rusia, termasuk dalam daerah Ma’jūj , maka Rus,
 Meskh, dan Tubal dapat dianggap sebaga ganti Rusia, Moskwa dan Tobolsk.
 Ma’jūj telah disebutkan pula sebagai nama suatu kaum dalam Yehezkial 39:
-6 dan dalam Wahyu 20: 8. Dalam Yehezkiel Ma’jūj telah disebutkan bersama-sama 
+6 dan dalam Wahyu 20: 8. Dalam Yehezkiel Ma’jūj telah disebutkan bersama-sama
 dengan mereka “yang duduk di tepi laut itu dengan sentausanya.”
 
 Menurut kutipan-kutipan tersebut, Ya’jūj dan Ma’jūj menggambarkan
 beberapa kekuatan besar di Eropa, termasuk Rusia. Dalam Al-Qur’an (QS.18:
-95) mereka telah disebut mengadakan serangan-serangan terhadap daerah-daerah 
+95) mereka telah disebut mengadakan serangan-serangan terhadap daerah-daerah
 yang terletak di perbatasan utara Iran, yang menunjukkan bahwa mereka
 itu dari suku-suku yang pada umumnya dikenal sebagai bangsa Scythia. Sudah
 merupakan kenyataan sejarah yang cukup diketahui, bahwa di jaman purba
-bangsa Scythia terus-menerus bergerak dari Asia ke Eropa dalam 
+bangsa Scythia terus-menerus bergerak dari Asia ke Eropa dalam
 rombongan-rombongan yang besar; sedang jalan mereka terletak di sebelah utara pegunungan
 Kaukasus (Enc Brit. jilid 12, hlm. 263. Edisi 14). Bila gelombang pertama telah
 menetap di Eropa gelombang-gelombang baru menyusul terus dari timur dan
@@ -274,7 +274,7 @@ mendesak gelombang-gelombang yang mendahuluinya ke arah lebih barat lagi.
 Jadi bangsa-bangsa Eropa secara sah telah disebut Ya’jūj dan Ma’jūj dalam
 nubuatan Bibel. Anehnya kisah dua pahlawan, bernama Ya’jūj dan Ma’jūj , masih
 tersimpan di Guild Hall (di London) berupa dua patung. Lagi pula, nampak dari
-kitab Yehezkiel dan Wahyu, bahwa Ya’jūj dan Ma’jūj itu akan muncul di akhir 
+kitab Yehezkiel dan Wahyu, bahwa Ya’jūj dan Ma’jūj itu akan muncul di akhir
 jaman, yaitu di masa menjelang kebangkitan Nabi Isa Al-Masih As untuk kedua
 kalinya, “dan engkau pun akan mendatang umatku Israil hendak menudungi
 muka tanah seperti awan-awan” (Yehezkiel 38: 16. Lihat pula Wahyu 20: 7–10).
@@ -284,12 +284,12 @@ akan munculnya Ya’jūj dan Ma’jūj itu ditandai oleh peperangan-peperangan,
 gempa bumi, wabah, dan malapetaka yang mengerikan (Lihat pula Edisi Besar
 Tafsir dalam bahasa Inggris hlm. 1718 – 1720).
 
-Suku bangsa Scythia, yaitu Ya’jūj dan Ma’jūj , menguasai 
+Suku bangsa Scythia, yaitu Ya’jūj dan Ma’jūj , menguasai
 daerah-daerah di sebelah utara dan timur laut Laut Hitam; dan mereka datang dari
 daerah-daerah itu melalui lembah Darband dan menjarah dan menaklukkan serta
 memerintah orang-orang Persia. Sirus mengalahkan mereka dan melepaskan
 orang-orang Persia dari cengkeraman mereka (Historians’ History of the World).
-Persis di tempat itu, yang menurut Herodotus ada lembah, dan melalui itu 
+Persis di tempat itu, yang menurut Herodotus ada lembah, dan melalui itu
 bangsa-bangsa Scythia mengadakan serbuan-serbuan terhadap negeri Persia, terdapat
 sebuah dinding, ialah dinding Darband yang tersohor itu.
 
@@ -309,7 +309,7 @@ pun seperti mendirikan dinding yang begitu besar.
 
 Demikian pula wafatnya dalam usia yang begitu muda tidak memberi
 kepadanya waktu yang cukup untuk menghadapi suatu rencana yang begitu
-besar. Rupanya anggapan itu telah timbul dari kenyataan, bahwa ahli tafsir 
+besar. Rupanya anggapan itu telah timbul dari kenyataan, bahwa ahli tafsir
 Al-Qur’an dari kalangan Kaum Muslimin mempunyai anggapan yang salah, bahwa
 Zulkarnain itu Iskandar. Bukti-bukti dari kenyataan berikut menunjukkan, bahwa
 Sirus-lah yang mendirikan dinding itu :
@@ -322,7 +322,7 @@ kaum itu melalui Eropa Tengah, padahal mereka tinggal sangat dekat kepadanya
 di sebelah utara. Kesimpulan yang tak dapat dielakkan ialah, bahwa memang
 ada suatu dinding yang sangat besar, yang hanya mungkin didirikan oleh Sirus
 sebelum jaman Darius. Seandainya dinding yang menghalangi musuh tidak ada,
-maka hal itu tidak memungkinkan Darius dengan pasukan yang besar pergi ke 
+maka hal itu tidak memungkinkan Darius dengan pasukan yang besar pergi ke
 sebelah lain dengan mengambil jalan memutar, sambil meninggalkan negeri
 sendiri terbuka terhadap serangan-serangan musuh dari utara.
 
@@ -341,10 +341,10 @@ Dalam ayat lain dijelaskan,
 dan tidak dapat melubanginya.
 (QS Al-Kahfi [18]: 98 dengan basmallah)
 
-Tafsir: Setelah pembuatan dinding itu selesai, maka berhentilah 
+Tafsir: Setelah pembuatan dinding itu selesai, maka berhentilah
 serangan-serangan Ya’jūj dan Ma’jūj dari utara. Dinding itu terlalu tebal untuk dipecahkan
 dan ditembus, dan terlalu tinggi untuk dipanjat. Dinding itu tingginya 29 kaki
-dan lebarnya 10 kaki (Enc. Brit.) dan mempunyai pintu-pintu besi dan 
+dan lebarnya 10 kaki (Enc. Brit.) dan mempunyai pintu-pintu besi dan
 menara-menara penjagaan. Dinding itu merupakan penjaga batas Persia yang paling
 ampuh.
 
@@ -362,10 +362,10 @@ Tafsir: Sirus tentunya telah diberitahu melalui ilham, bahwa pada suatu
 ketika di masa depan Ya’jūj dan Ma’jūj akan sekali lagi tersebar ke tenggara,
 dan dinding itu akan mampu menahan atau menghentikan gerak maju mereka.
 Rupanya inilah arti dari kata-kata “dia akan menghancurkannya.” Dalam
-QS.21: 97 kita diberitahu, bahwa Ya’jūj dan Ma’jūj akan menjulurkan 
+QS.21: 97 kita diberitahu, bahwa Ya’jūj dan Ma’jūj akan menjulurkan
 tangan-tangan guritanya ke seluruh dunia. Secara kiasan, “memecahkan dinding” dapat
 pula menunjuk kepada merosotnya kekuatan politik Islam, terutama kekuatan
-bangsa Turki di Eropa. Dengan menjadi lemahnya Turki, maka jalan 
+bangsa Turki di Eropa. Dengan menjadi lemahnya Turki, maka jalan
 bangsa-bangsa Kristen di Eropa untuk menaklukkan daerah timur menjadi terbuka.
 
 Tambahan: Jaman ketika Ya’juj dan Ma’juj akan keluar itu, semua tembok tidak akan bermanfaat sedikit
@@ -382,7 +382,7 @@ akan Kami himpun mereka itu
 semuanya.
 (QS Al-Kahfi [18]: 100 dengan basmallah)
 
-Tafsir: Pada waktu menanjaknya Ya’jūj dan Ma’jūj ke tangga kekuasaan, 
+Tafsir: Pada waktu menanjaknya Ya’jūj dan Ma’jūj ke tangga kekuasaan,
 bangsa-bangsa di seluruh dunia akan berhimpun, sehingga seluruh dunia akan
 menjadi seperti satu negeri. Dan menurut Bibel, bangsa akan melawan bangsa
 dan kerajaan melawan kerajaan; serta kedengkian, kebencian, dan kejahatan
@@ -425,7 +425,7 @@ kekuatan dan kekuasaan mereka di bidang kebendaan dan politik.
 Dalam Surat Al-Anbiyaa, Allah Ta'ala berfirman mengenai Ya'juj dan Ma'juj,
 
 > *Demikian akan terjadi*
-hingga ketika 
+hingga ketika
 Yajuj dan Majuj
 dilepaskan dan mereka akan
 datang menyerbu dari setiap ketinggian.
@@ -436,7 +436,7 @@ ayat ini ialah, bahwa hukum alam bekerja demikian rupa, sehingga sekali
 bila suatu hukum – sesudah mencapai puncak kejayaan dan kemuliaannya –
 mengalami kebinasaan dan kehancuran, mereka tidak mendapatkan kembali
 kejayaan mereka yang hilang itu. Ya’jūj-Ma’jūj pun dengan kejayaan dan
-kemuliaan besar dalam kebendaan tidak dapat mengelakkan diri dari hukum 
+kemuliaan besar dalam kebendaan tidak dapat mengelakkan diri dari hukum
 alam. Mereka akan jatuh dan tidak akan bangkit kembali untuk selama-lamanya.
 Ya’jūj-Ma’jūj atau bangsa-bangsa Kristen Barat telah mencapai segala puncak
 kekuasaan politik dan telah menyebar ke seluruh dunia. Ungkapan Al-Qur’an
@@ -447,7 +447,7 @@ Dalam ayat berikutnya, Allah Ta'ala berfirman,
 
 > Sudah dekat janji yang
 benar; maka sekonyong-konyong
-akan terbelalak mata orang-orang 
+akan terbelalak mata orang-orang
 yang telah ingkar, *mereka akan berseru*, “Aduhai, celakalah
 kami! Kami sungguh dalam
 kelalaian mengenai ini; bahkan,
@@ -552,17 +552,17 @@ Diriwayatkan mengenai sepuluh tanda akhir zaman,
 	عَنْ حُذَيْفَةَ بْنِ أَسِيدٍ الْغِفَارِيِّ قَالَ كُنَّا قُعُودًا نَتَحَدَّثُ فِي ظِلِّ غُرْفَةٍ لِرَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فَذَكَرْنَا السَّاعَةَ فَارْتَفَعَتْ أَصْوَاتُنَا فَقَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ لَنْ تَكُونَ أَوْ لَنْ تَقُومَ السَّاعَةُ حَتَّى يَكُونَ قَبْلَهَا عَشْرُ آيَاتٍ طُلُوعُ الشَّمْسِ مِنْ مَغْرِبِهَا وَخُرُوجُ الدَّابَّةِ وَخُرُوجُ يَأْجُوجَ وَمَأْجُوجَ وَالدَّجَّالُ وَعِيسَى ابْنُ مَرْيَمَ وَالدُّخَانُ وَثَلَاثَةُ خُسُوفٍ خَسْفٌ بِالْمَغْرِبِ وَخَسْفٌ بِالْمَشْرِقِ وَخَسْفٌ بِجَزِيرَةِ الْعَرَبِ وَآخِرُ ذَلِكَ تَخْرُجُ نَارٌ مِنْ الْيَمَنِ مِنْ قَعْرِ عَدَنٍ تَسُوقُ النَّاسَ إِلَى الْمَحْشَرِ
 </p>
 
-...dari Hudzaifah bin Asid Al Ghifari ia berkata, "Kami duduk bersama di sisi kamar Rasulullah shallallahu 'alaihi wasallam sambil membicarakan seputar hari kiamat, suara kami sangat keras hingga Rasulullah shallallahu 'alaihi wasallam bersabda: "Tidak akan terjadi, atau tidak akan datang hari kiamat hingga muncul sepuluh tanda; 
+...dari Hudzaifah bin Asid Al Ghifari ia berkata, "Kami duduk bersama di sisi kamar Rasulullah shallallahu 'alaihi wasallam sambil membicarakan seputar hari kiamat, suara kami sangat keras hingga Rasulullah shallallahu 'alaihi wasallam bersabda: "Tidak akan terjadi, atau tidak akan datang hari kiamat hingga muncul sepuluh tanda;
 
-1. terbitnya matahari dari barat, 
-2. munculnya *Ad-daabbah*, 
-3. keluarnya Ya'juj dan Ma'juj, 
-4. (keluarnya) Dajjal, 
-5. (turunnya) Isa putera Maryam, 
-6. Asap (Ad-Dukhoon) 
-7. tiga gerhana: gerhana di barat, 
-8. (gerhana di) timur 
-9. dan (gerhana) di Jazirah Arab. 
+1. terbitnya matahari dari barat,
+2. munculnya *Ad-daabbah*,
+3. keluarnya Ya'juj dan Ma'juj,
+4. (keluarnya) Dajjal,
+5. (turunnya) Isa putera Maryam,
+6. Asap (Ad-Dukhoon)
+7. tiga gerhana: gerhana di barat,
+8. (gerhana di) timur
+9. dan (gerhana) di Jazirah Arab.
 10. tanda terakhir adalah keluarnya api dari Yaman, dari dasar tanah Adn yang akan menggiring manusia menuju mahsyar." (H.R. Abu Dawud) [[^dawud_3757]]
 
 [^dawud_3757]: [H.R. Abu Dawud, Kitab Peperangan Besar, Bab Tanda-tanda kiamat](https://www.hadits.id/hadits/dawud/3757)
@@ -637,7 +637,7 @@ Jadi, berabad-abad setelah kenabian Nabi Suci (damai dan berkah Allah besertanya
 
 	Al-Kahf, 18:100
 
-	This means that in the latter days, which will be the age of Gog and Magog, people will become involved in religious disputes and fights and nations will attack nations just as one wave of a river surges against another, and there will be many other conflicts as well. In this way, great division will spread in the world and great contentions, rancour and hatred will be generated among the peoples. And when these events reach their climax, God will blow His trumpet, that is to say, He will transmit a voice to the world through the Promised Messiah, who is like His trumpet, and upon hearing this voice all good people will come together under the banner of one religion. All dissension will disappear and the people of the world will become one. In another verse, He says: 
+	This means that in the latter days, which will be the age of Gog and Magog, people will become involved in religious disputes and fights and nations will attack nations just as one wave of a river surges against another, and there will be many other conflicts as well. In this way, great division will spread in the world and great contentions, rancour and hatred will be generated among the peoples. And when these events reach their climax, God will blow His trumpet, that is to say, He will transmit a voice to the world through the Promised Messiah, who is like His trumpet, and upon hearing this voice all good people will come together under the banner of one religion. All dissension will disappear and the people of the world will become one. In another verse, He says:
 
 	Al-Kahf, 18:101
 
@@ -700,7 +700,7 @@ Al-Qur'an Suci kemudian menetapkan bahwa di hari-hari terakhir orang-orang Krist
 
 	*ming-kulli hadabiy-yansiluun*
 
-	‘They shall hasten forth from every height.’ Ta Ha, 21:97 
+	‘They shall hasten forth from every height.’ Ta Ha, 21:97
 
 	Hadab means high ground and Nasal means to run ahead and to excel. In other words, they will leave behind every other nation in whatever is great and prestigious. This is the major sign of the people of the latter days who were designated as Gog and Magog and this is also the sign of the mischievous group of Christian clerics who are called the Promised Dajjal. Since Hadab means an elevated part of the earth, this indicates that they will achieve all earthly heights but will be deprived of the spiritual heights. This proves that these people are called Gog and Magog in view of their national dominance. Among them are the people who have left no stone unturned in spreading misguidance and consequently came to be known as the Great Dajjal. And God Almighty has said that at the height of misguidance, the trumpet will be blown and people of all faiths will be assembled at one place. (Shahadat-ul-Qur’an, Ruhani Khaza’in, vol. 6, pp. 361-362)
 
@@ -710,7 +710,7 @@ Sekarang saya akan menjelaskan arti dari ayat-ayat dalam Surah AlKahfi yang berh
 
 Al-Qur'an bukanlah buku cerita lama. Setiap peristiwa yang disebutkan di dalamnya adalah kenabian, dan kisah Dzulkarnain mengandung nubuat tentang masa Hadhrat Masih Mau'ud.
 
-Didalam Alquran tertulis, 
+Didalam Alquran tertulis,
 
 Al-Kahf, 18:84
 
@@ -726,88 +726,125 @@ Ingat, wahyu yang sama tentang saya diterbitkan dalam volume sebelumnya dari Bra
 
 'Bukankah Kami telah memfasilitasi segalanya untukmu?' Bukankah Kami telah memberimu semua sarana untuk komunikasi dan penyebaran kebenaran? Tentu saja, saya telah diberikan semua sarana untuk menyebarkan kebenaran yang bahkan tidak tersedia pada zaman nabi lain. Sarana komunikasi telah terbuka antar bangsa; perjalanan menjadi begitu mudah sehingga perjalanan bertahun-tahun sekarang hanya membutuhkan beberapa hari; transmisi berita sedemikian rupa sehingga dalam beberapa menit pesan dapat dikirim melalui ribuan mil; teks-teks kuno bangsa-bangsa yang tidak terlihat telah mulai diterbitkan; sarana telah tersedia untuk pengiriman segala sesuatu di mana diperlukan; kesulitan dalam penerbitan buku telah dihilangkan dengan diperkenalkannya mesin cetak, sedemikian rupa sehingga lebih banyak salinan buku dapat dicetak dalam sepuluh hari daripada sebelumnya dalam sepuluh tahun! Sebuah tulisan sekarang dapat diterbitkan di seluruh dunia dalam waktu empat puluh hari, sedangkan sebelumnya seorang pria tidak dapat mencapai ini bahkan dalam seratus tahun.
 
+Allah Ta'ala berfirman dalam Alquran,
 
-I will now set out the meanings of the verses in Surah AlKahf which relate the story of Dhulqarnain, and the prophecy they contain about me, of which I have been informed by God Almighty. I do not deny the meaning of these verses which relates to the past, but what has been revealed to me is about the future.
+‘Ketika Dzulkarnain (yakni Hadhrat Masih Mau'ud), dilengkapi dengan segala sarana, dia akan mengikuti jalan tertentu, (yaitu, dia akan memutuskan untuk mereformasi orang-orang Barat). Dia akan menemukan bahwa matahari ketakwaan dan ketakwaan telah terbenam di kolam berlumpur, di dekatnya dia akan menemukan orang-orang dalam kegelapan. (Ini adalah orang-orang Kristen dari Barat yang akan tenggelam dalam kegelapan; mereka tidak akan memiliki matahari untuk mendapatkan cahaya, juga tidak akan memiliki air bersih untuk diminum, yaitu, baik dalam amal dan ajaran mereka akan berada dalam keadaan yang mengerikan; mereka akan kehilangan cahaya ruhani dan air ruhani.) Kemudian Kami akan mengatakan kepada Dzulkarnain (Hadhrat Masih Mau'ud): Terserah engkau untuk menghukum mereka atau memperlakukan mereka dengan kebaikan. Dzulkarnain (Al Masih yang Dijanjikan) akan berkata: Kami hanya menginginkan orang-orang yang zalim untuk dihukum. Mereka akan dihukum di dunia ini (melalui doa kami), dan akan menderita siksaan yang berat di akhirat. Tetapi orang yang tidak mengingkari kebenaran dan melakukan perbuatan baik akan mendapatkan pahalanya. Dia akan diminta hanya untuk melakukan apa yang bisa dilakukan dengan fasilitas dan kemudahan.’
 
-**Prophecy about the Promised Messiah in Surah Al-Kahf**
+Singkatnya, ayat-ayat ini berisi nubuwwatan bahwa Hadhrat Masih Mau'ud (as) akan muncul pada saat orang-orang Barat akan tenggelam dalam kegelapan. Matahari kebenaran akan sepenuhnya hilang dari mata mereka dan akan terbenam di kolam yang kotor dan bau, (yaitu, alih-alih kebenaran, mereka (justru) akan dipenuhi dengan keyakinan dan perbuatan busuk). Itu akan menjadi air yang akan mereka minum. Mereka tidak akan memiliki cahaya sama sekali dan akan berkubang dalam kegelapan. Inilah persisnya kondisi iman Kristen saat ini, sebagaimana dijelaskan oleh Al-Qur'an, dan pusat besar Kekristenan juga ada di negara-negara Barat. Kemudian Allah Ta'ala berfirman:
 
-The Holy Qur’an is not a book of old stories. Every event mentioned in it is a prophecy, and the story of Dhulqarnain contains the prophecy about the time of the Promised Messiah.
+Al-Kahf, 18:90-92
 
-The Holy Qur’an says: 
+Artinya, 'Dzulkarnain (Hadhrat Masih Mau'ud yang akan dilengkapi dengan segala sarana) akan mengikuti jalan lain, (yaitu, dia akan mengamati keadaan orang-orang Timur) dan akan menemukan suatu kaum di tempat terbitnya matahari kebenaran. Mereka yang begitu bodohnya sehingga mereka tidak akan memiliki sarana untuk melindungi diri dari silau matahari (yaitu, mereka akan hangus oleh panas yang dihasilkan oleh kepatuhan mereka secara tekstual dan kelakuan keras mereka), dan mereka tidak akan menyadarinya dari kebenaran. Dzulkarnain (Hadhrat Masih Mau'ud) akan memiliki semua sarana kedamaian dan kebahagiaan sejati yang Kami ketahui, tetapi orang-orang tidak akan menerimanya. Mereka tidak akan memiliki tempat berlindung dari sorotan ekstremisme mereka—tidak ada rumah, atau pohon rindang, atau pakaian yang cocok untuk melindungi mereka dari panas. Dengan cara ini terbitnya matahari kebenaran akan membawa kehancuran mereka.’
 
-Al-Kahf, 18:84
+Ini adalah contoh orang-orang yang memiliki cahaya matahari petunjuk yang tersedia bagi mereka, dan yang tidak seperti mereka yang mataharinya telah terbenam, tetapi mereka tidak mendapatkan manfaat dari matahari petunjuk; hanya kulit mereka yang hangus, kulit mereka menjadi gelap dan mereka kehilangan penglihatan.
 
-‘They enquire from thee about Dhulqarnain. Tell them that for the moment I shall relate to only you a little about him.’ Then it says:
+Pembagian ini menunjukkan bahwa Hadhrat Masih Mau'ud as akan bertemu dengan tiga jenis orang dalam perjalanan misinya. (1) Pertama, dia akan bertemu dengan orang-orang yang telah kehilangan matahari petunjuk dan berkubang di kolam yang berlumpur dan gelap. (2) Pertemuan kedua dengan orang-orang yang duduk di bawah sinar matahari dengan kondisi telanjang bulat, yaitu, mereka tidak berperilaku dengan hormat, kerendahan hati, sopan santun dan niat baik. Mereka adalah pemuja ajaran secara tekstual, seolah-olah ingin melawan matahari. Dengan demikian mereka juga kehilangan manfaat dari matahari, dan yang mereka dapatkan hanyalah kulit mereka yang terbakar. Hal ini mengacu pada kaum Muslimin di mana Hadhrat Masih Mau'ud muncul, tetapi mereka mengingkarinya dan menentangnya dan tidak berperilaku dengan kerendahan hati dan keadilan, dan akibatnya menjauhkan diri mereka dari nasib yang baik.
 
-Al-Kahf, 18:85
+Kemudian Allah Ta'ala lebih lanjut berfirman:
 
-‘We shall establish him on earth, i.e., the Promised Messiah, who will also be known as Dhulqarnain, in such a way that no one will be able to harm him; and We shall provide him with all the means for achieving his purpose and shall make everything easy and plain for him.’
+Dzulkarnain (Hadhrat Masih Mau'ud) kemudian akan mengikuti jalan lain dan akan menemukan dirinya pada saat yang sangat kritis, yang dapat digambarkan sebagai antara dua penghalang atau gunung. Ini berarti bahwa dia akan menemukan saat ketika orang-orang di kedua sisi akan ketakutan, dan kekuatan kegelapan, bekerja sama dengan kekuatan negara, akan menghadirkan pertunjukan yang menakjubkan. Di bawah kedua kekuatan ini dia akan menemukan orang-orang yang akan sulit untuk memahaminya, yaitu, mereka akan menjadi korban dari kepercayaan yang salah yang menyebabkan mereka akan sulit untuk memahami petunjuk yang akan dia berikan kepada mereka. Tapi pada akhirnya mereka akan mengerti dia. Ini adalah jenis orang ketiga yang akan mendapat manfaat dari bimbingan Hadhrat Masih Mau'ud. Mereka akan berkata kepadanya: ‘Dzulkarnain, Ya’juj dan Ma’juj telah memenuhi negeri dengan kekacauan. Jika engkau mau, izinkan kami mengumpulkan dana untuk engkau sehingga engkau dapat membangun penghalang antara mereka dan kami.' Dia akan menjawab: 'Kekuatan yang diberikan Tuhan kepada saya lebih baik daripada dana kalian, tetapi jika kalian mau, kalian dapat membantu saya sesuai dengan kemampuan kalian sehingga saya dapat membangun tembok antara kalian dan musuh kalian (yaitu, dia akan mengajukan bukti dan argumen yang meyakinkan bahwa musuh mereka tidak akan ditinggalkan dengan alasan untuk mengkritik atau keberatan terhadap agama mereka.) Dia akan berkata kepada mereka: 'Bawakan saya lempengan besi sehingga gerakan mereka dapat dihentikan, (yaitu, berpegang teguh pada ajaran dan argumen saya, sabar, dan blokir serangan musuh seperti tembok besi) Kemudian tiup api ke dalam besi sampai tampak seperti api itu sendiri (yaitu, beri makan api cinta untuk Tuhan sampai kalian sendiri mengambil sifat Ilahi)...
 
-Remember, the same revelation concerning me was published in the previous volumes of Brahin-e-Ahmadiyyah, in which God Almighty said:
+Setelah ayat-ayat ini, Allah Ta'ala melanjutkan dengan berfirman: Kemudian Dzulkarnain (Hadhrat Masih Mau'ud) akan berkata kepada orang-orang yang takut kepada Yajuj dan Majuj: ‘Bawakan saya tembaga sehingga saya dapat mencairkannya dan menuangkannya ke dinding. Setelah itu, Yajuj dan Majuj tidak akan memiliki kekuatan untuk membukanya atau membuat lubang di dalamnya.’
 
-*alam naj'al laka sahuulatan fii kulli amr*
+Di sini perlu dicatat bahwa meskipun besi merupakan tamsil dari kualitas api ketika dibiarkan di dalamnya untuk waktu yang lama, tidak mudah meleleh. Tembaga, di sisi lain, meleleh dengan sangat cepat; dan perlu bagi seorang pencari untuk melebur di jalan Tuhan. Ini berarti bahwa Hadhrat Masih Mau'ud akan membutuhkan hati yang bersemangat dan watak yang lembut seperti yang akan meleleh di bawah pengaruh tanda-tanda Ilahi. Tanda-tanda ini tidak berpengaruh pada orang yang keras hati. Seseorang hanya bisa menjadi kebal terhadap serangan setan ketika dia menjadi tabah seperti besi dan besi itu menjadi seperti api ketika disentuh oleh api cinta Ilahi, kemudian hati yang meleleh harus meleleh dan menutupi besi untuk mengamankannya dari kehancuran dan pembusukan. Inilah tiga kondisi yang jika digabungkan akan membentuk tembok yang tidak dapat ditembus atau ditembus oleh jiwa setan. Kemudian Tuhan berfirman bahwa semua ini akan terjadi karena kasih karunia-Nya. Tangan-Nyalah yang akan menyelesaikan segala sesuatu dan rancangan manusia tidak akan mendapat bagian di dalamnya. Ketika Hari Penghakiman mendekat, kejahatan akan berkuasa sekali lagi. Ini adalah janji Tuhan.
 
-‘Have We not facilitated everything for you?’ Have We not provided you with all the means for the communication and propagation of the truth? Of course, I have been provided with all the means for the propagation of the truth which were not even available at the time of anyother prophet. Means of communication have opened between nations; travel has become so easy that a journey of years now takes only a few days; transmission of news is such that within minutes messages can be sent over thousands of miles; ancient texts of nations which were out of sight have begun to be published; means have become available for the delivery of everything where it is needed; difficulties in the publication of books have been removed with the introduction of the printing press, so much so that more copies of a book can be printed in ten days than was previously possible in ten years! A piece of writing can now be published throughout the world within forty days, whereas previously a man could not achieve this even in a hundred years.
+**Zaman Hadhrat Masih Mau'ud**
 
-Then Allah says in the Holy Qur’an:  
+Kemudian Dia berfirman bahwa pada zaman Dzulkarnain (Hadhrat Masih Mau'ud), semua orang akan bangkit mendukung agama mereka masing-masing dan akan saling menyerang seperti gelombang laut. Kemudian terompet akan ditiup dari langit, yaitu, Allah akan membangkitkan Hadhrat Masih Mau'ud dan menciptakan umat ketiga yang kepadanya Dia akan menunjukkan tanda-tanda agung hingga semua orang baik berkumpul di bawah panji Islam. Mereka akan menjawab panggilan Hadhrat Masih Mau'ud dan akan berlari ke arahnya; maka hanya akan ada satu gembala dan satu kawanan. Hari-hari itu akan sulit dan Tuhan akan menampakkan wajah-Nya dengan tanda-tanda yang menakjubkan. Mereka yang bertahan dalam keingkaran akan merasakan neraka di dunia ini dalam bentuk bencana. Allah berfirman: Inilah orang-orang yang matanya tertutup dari Firman-Ku, dan telinganya tidak mengindahkan perintah-perintah-Ku. Apakah orang-orang kafir membayangkan bahwa mereka dapat mengikuti orang-orang yang rendah hati menjadi (seperti sifat) Tuhan dan bahwa saya harus menolak? Kami akan membuka neraka di dunia ini sebagai hiburan bagi orang-orang kafir, yaitu, tanda-tanda besar dan mengerikan akan muncul.
 
-‘When Dhulqarnain (who is the Promised Messiah), is furnished with all the means, he will follow a certain path, (i.e., he will resolve to reform the people of the West). He will find that the sun of truth and righteousness has set in a muddy pool, near which he will find a people in the darkness. (These are the Christians of the West who will be steeped in darkness; they will have no sun to get light from, nor will they have clean water to drink, i.e., both in practice and doctrine they will be in a terrible state; they will be bereft of spiritual light and spiritual water.) Then We shall say to Dhulqarnain (the Promised Messiah): It is up to you either to punish them or to treat them with kindness. Dhulqarnain (the Promised Messiah) will say: We only desire the wrongdoers to be punished. They will be punished in this life (through our supplications), and will suffer severe torment in the hereafter. But he who does not deny the truth and does good deeds will have his reward. He will be required only to do what can be done with facility and ease.’
+Semua tanda-tanda ini akan menjadi saksi tentang kebenaran Hadhrat Masih Mau'ud. Lihat, betapa rahmat Yang Maha Pemurah telah melimpahkan semua nikmat ini kepada orang yang rendah hati ini, yang dicap kafir dan Dajjal oleh lawan-lawannya! [[^rk_vol21_119_126]]
 
-In short, these verses contain a prophecy that the Promised Messiah will appear at a time when the people of the West will be steeped in darkness. The sun of truth will completely disappear from their eyes and will set in a dirty, stinking pool, (i.e., instead of truth, they will be infested with foul beliefs and deeds). That will be the water they will drink. They will have no light whatsoever and will wallow in darkness. This exactly is the condition of the Christian faith today, as described by the Holy Qur’an, and the great centre of Christianity is also in the Western countries. Then God Almighty says:
+[^rk_vol21_119_126]:I will now set out the meanings of the verses in Surah AlKahf which relate the story of Dhulqarnain, and the prophecy they contain about me, of which I have been informed by God Almighty. I do not deny the meaning of these verses which relates to the past, but what has been revealed to me is about the future.
 
-2 Al-Kahf, 18:90-92
+    **Prophecy about the Promised Messiah in Surah Al-Kahf**
 
-That is, ‘Dhulqarnain (the Promised Messiah who will be equipped with every means) shall follow another path, (i.e., he will observe the state of the people of the East) and will discover a people at the place of the rising of the sun of truth who will be so ignorant that they will have no means of protecting themselves from the glare of the sun (i.e., they will be scorched by the heat generated by their adherence to the letter and their extremism), and they will be unaware of the truth. Dhulqarnain (the Promised Messiah) will have all the means of true peace and happiness of which We are aware, but the people will not accept them. They will have no shelter against the glare of their extremism—neither houses, nor shady trees nor suitable clothes to protect them from the heat. In this way the rising sun of truth will bring about their ruin.’
+    The Holy Qur’an is not a book of old stories. Every event mentioned in it is a prophecy, and the story of Dhulqarnain contains the prophecy about the time of the Promised Messiah.
 
-This is an instance of people who have the light of the sun of guidance available to them, and who are not like those whose sun has set, but they derive no benefit from the sun of guidance; only their skins are scorched, their complexion is darkened and they lose their eyesight.
+    The Holy Qur’an says:
 
-This division indicates that the Promised Messiah will encounter three kinds of people in the course of his mission. (1) First, he will encounter a people who have lost the sun of guidance and are wallowing in a muddy and dark pool. (2) His second encounter will be with a people who are sitting in the sun stark naked, i.e., they do not behave with respect, humility, courtesy and goodwill. They are worshippers of the letter, as if they want to fight the sun. Thus they too are deprived of the benefit of the sun, and all they get is their skins burnt. This refers to the Muslims among whom the Promised Messiah appeared, but they denied him and opposed him and did not behave with modesty and fairness, and consequently deprive themselves of good fortune.
+    Al-Kahf, 18:84
 
-Then Allah Almighty further says: 
+    ‘They enquire from thee about Dhulqarnain. Tell them that for the moment I shall relate to only you a little about him.’ Then it says:
 
-Dhulqarnain (the Promised Messiah) will then follow another course and will find himself at a very critical time, which can be described as between two barriers or mountains. This means that he will find a time when people on either side will be in fear, and the powers of darkness, in collaboration with the powers of state, will present an awe-striking spectacle. Under both these powers he will find a people who will find it difficult to understand him, i.e., they will be the victims of false beliefs on account of which they will find it difficult to understand the guidance which he will present to them. But in the end they will understand him. These are the third kind of people who will benefit from the guidance of the Promised Messiah. They will say to him: ‘Dhulqarnain, Gog and Magog have filled the land with disorder. If you so please, let us collect a fund for you so that you may erect a barrier between them and us.’ He will say in reply: ‘The power God has given me is better than your funds, but if you be so inclined, you can help me according to your means so that I may erect a wall between you and your opponents (i.e., he would put forth such conclusive proofs and arguments that their enemies will not be left with any ground for criticism or objection against their religion.) He will say to them: ‘Bring me slabs of iron so that their movement can be stopped, (i.e., hold fast to my teachings and my arguments, be steadfast, and block the enemy’s onslaught like a wall of iron.) Then blow fire into the iron until it appears to be fire itself (i.e., feed the flames of love for God until you yourselves assume the Divine complexion)...
+    Al-Kahf, 18:85
 
-After these verses, God Almighty goes on to say: Then Dhulqarnain (the Promised Messiah) will say to the people who are afraid of Gog and Magog: ‘Bring me copper so that I may melt it and pour it over the wall. Thereafter, Gog and Magog will not have the power to scale it or to make holes in it.’
+    ‘We shall establish him on earth, i.e., the Promised Messiah, who will also be known as Dhulqarnain, in such a way that no one will be able to harm him; and We shall provide him with all the means for achieving his purpose and shall make everything easy and plain for him.’
 
-Here it should be noted that though iron assumes the qualities of fire when left in it for a long time, it does not melt easily. Copper, on the other hand, melts very quickly; and it is necessary for a seeker to melt in the path of God. This means that the Promised Messiah will need such eager hearts and mild dispositions as would melt under the influence of Divine signs. These signs have no effect on the hard-hearted. A person can only become immune to Satanic attacks when he becomes steadfast like iron and that iron becomes like fire when touched by the fire of Divine love, and then the melted heart should melt and cover the iron to secure it against disintegration and decay. These are the three conditions which, when combined, form a wall which cannot be scaled or bored through by the spirit of Satan. Then God says that all this will come about by His grace. It is His hands which will accomplish everything and human design will have no part in it. When the Day of Judgement approaches, mischief will reign supreme once again. This is the promise of God.
+    Remember, the same revelation concerning me was published in the previous volumes of Brahin-e-Ahmadiyyah, in which God Almighty said:
 
-**Time of the Promised Messiah**
+    *alam naj'al laka sahuulatan fii kulli amr*
 
-Then He says that at the time of Dhulqarnain (Promised Messiah) all people will rise up in support of their own religion and will attack each other like the waves of the sea. Then the trumpet will be blown in heaven, i.e., God will raise the Promised Messiah and create a third people for whom He will show great signs until all good people gather under the banner of Islam. They will respond to the call of the Promised Messiah and will run towards him; then there will be only one shepherd and one flock. Those days will be hard and God will reveal His countenance with awe-striking signs. Those who persist in disbelief will experience hell in this very world in the shape of calamities. God says: These are the people whose eyes were veiled against My Words, and their ears heeded not My commandments. Did the disbelievers imagine that they could take humble men to be God and that I should stand dismissed? We shall reveal hell in this very world as entertainment for the disbelievers, i.e., great and terrible signs will appear.
+    ‘Have We not facilitated everything for you?’ Have We not provided you with all the means for the communication and propagation of the truth? Of course, I have been provided with all the means for the propagation of the truth which were not even available at the time of anyother prophet. Means of communication have opened between nations; travel has become so easy that a journey of years now takes only a few days; transmission of news is such that within minutes messages can be sent over thousands of miles; ancient texts of nations which were out of sight have begun to be published; means have become available for the delivery of everything where it is needed; difficulties in the publication of books have been removed with the introduction of the printing press, so much so that more copies of a book can be printed in ten days than was previously possible in ten years! A piece of writing can now be published throughout the world within forty days, whereas previously a man could not achieve this even in a hundred years.
 
-All these signs will testify to the truth of the Promised Messiah. See, how the grace of the Beneficent One has bestowed all these favours on this humble one, who is labelled a disbeliever and Dajjal by his opponents! [Brahin-e-Ahmadiyyah part V, Ruhani Khaza’in, vol. 21, pp 119-126]
+    Then Allah says in the Holy Qur’an:  
 
-One Hakim Mirza Mahmud Irani, in his letter dated 2 September 1902, has asked me to explain the meanings of the verse:
+    ‘When Dhulqarnain (who is the Promised Messiah), is furnished with all the means, he will follow a certain path, (i.e., he will resolve to reform the people of the West). He will find that the sun of truth and righteousness has set in a muddy pool, near which he will find a people in the darkness. (These are the Christians of the West who will be steeped in darkness; they will have no sun to get light from, nor will they have clean water to drink, i.e., both in practice and doctrine they will be in a terrible state; they will be bereft of spiritual light and spiritual water.) Then We shall say to Dhulqarnain (the Promised Messiah): It is up to you either to punish them or to treat them with kindness. Dhulqarnain (the Promised Messiah) will say: We only desire the wrongdoers to be punished. They will be punished in this life (through our supplications), and will suffer severe torment in the hereafter. But he who does not deny the truth and does good deeds will have his reward. He will be required only to do what can be done with facility and ease.’
 
-‘He found it setting in a pool of murky water.’—Al-Kahf, 18:87 [Publisher]
+    In short, these verses contain a prophecy that the Promised Messiah will appear at a time when the people of the West will be steeped in darkness. The sun of truth will completely disappear from their eyes and will set in a dirty, stinking pool, (i.e., instead of truth, they will be infested with foul beliefs and deeds). That will be the water they will drink. They will have no light whatsoever and will wallow in darkness. This exactly is the condition of the Christian faith today, as described by the Holy Qur’an, and the great centre of Christianity is also in the Western countries. Then God Almighty says:
 
-First of all, let it be clear that this verse holds many a hidden meaning which it is not possible to encompass, and under its apparent meanings lie hidden meanings. The meaning which God has disclosed to me is that this verse, taken together with the preceding and following verses, comprises a prophecy about the Promised Messiah and specifies the time of his appearance. The explanation is that the Promised Messiah is also Dhulqarnain, as the Arabic word qarn connotes a century and the Qur’anic verse indicates that the birth and advent of the Promised Messiah will cover two centuries. I have lived in two centuries according to every known calendar, be it Islamic, Christian or Bikramjiti. My birth and advent have not been confined to a single century, and in this sense I am Dhulqarnain. In some Ahadith too the Promised Messiah has been called Dhulqarnain in the same sense as I have just mentioned.
+    Al-Kahf, 18:90-92
 
-The interpretation of the rest of the verse in the context of prophecy is that there are two major peoples who have been given the glad tiding of the Coming of the Promised Messiah, and who are the primary addressees of his mission. In these verses, God Almighty describes metaphorically that the Promised Messiah, who is Dhulqarnain, will encounter two peoples in the course of his journey. He will find a people sitting in the dark by an evil smelling pool of water, which is not fit for drinking, and is so full of stinking mud that it can no longer be described as water. These are the Christians who are in the dark and who, out of their own wrongdoing, have converted the Messianic spring into a pool of stinking mud. 
+    That is, ‘Dhulqarnain (the Promised Messiah who will be equipped with every means) shall follow another path, (i.e., he will observe the state of the people of the East) and will discover a people at the place of the rising of the sun of truth who will be so ignorant that they will have no means of protecting themselves from the glare of the sun (i.e., they will be scorched by the heat generated by their adherence to the letter and their extremism), and they will be unaware of the truth. Dhulqarnain (the Promised Messiah) will have all the means of true peace and happiness of which We are aware, but the people will not accept them. They will have no shelter against the glare of their extremism—neither houses, nor shady trees nor suitable clothes to protect them from the heat. In this way the rising sun of truth will bring about their ruin.’
 
-In the course of his second journey, the Promised Messiah, who is Dhulqarnain, came upon a people sitting in the blazing sun without any shelter to protect them. They get no light from the sun, except that their bodies are scorched by its blaze and their skins become dark. These are the Muslims, who, despite being blessed with the sun of Divine Unity, have not derived real benefit from it, but to be scorched by its blaze. In other words, they have lost the true beauty and true moral qualities of faith and have instead partaken of rancour, malice, fiery temper and beastliness.
+    This is an instance of people who have the light of the sun of guidance available to them, and who are not like those whose sun has set, but they derive no benefit from the sun of guidance; only their skins are scorched, their complexion is darkened and they lose their eyesight.
 
-In this manner, Allah the Almighty has indicated that the Promised Messiah, who is Dhulqarnain, will appear at a time when the Christians will be in darkness, and stinking mud, which is called Hama’ in Arabic, will be their lot. The Muslims for their share will have only a dry belief in the Unity of God and they will suffer from the sunburns of bigotry and beastliness and no spiritual value shall remain unstained.
+    This division indicates that the Promised Messiah will encounter three kinds of people in the course of his mission. (1) First, he will encounter a people who have lost the sun of guidance and are wallowing in a muddy and dark pool. (2) His second encounter will be with a people who are sitting in the sun stark naked, i.e., they do not behave with respect, humility, courtesy and goodwill. They are worshippers of the letter, as if they want to fight the sun. Thus they too are deprived of the benefit of the sun, and all they get is their skins burnt. This refers to the Muslims among whom the Promised Messiah appeared, but they denied him and opposed him and did not behave with modesty and fairness, and consequently deprive themselves of good fortune.
 
-Then the Promised Messiah, who is Dhulqarnain, will come across a people who will be suffering at the hands of Gog and Magog. These people will be deeply religious and pious by nature, and will seek the help of Dhulqarnain (the Promised Messiah) against the aggression of Gog and Magog. And he will erect a bright rampart for them, in other words, he will teach them such strong arguments in support of Islam as will finally repulse the attacks of Gog and Magog. He will wipe their tears, help them in every way and stand by them. These are the people who accept me.
+    Then Allah Almighty further says:
 
-This is a grand prophecy which tells about my advent, my time and my Jama‘at. Blessed is he who reads these prophecies with care. Such prophecies are typical of the Holy Qur’an, whereby it tells about someone in the past, but its real purpose is to foretell the future. For instance, Surah Yusuf, which on the face of it is only a narrative, contains the hidden prophecy that as Josephas was initially looked down upon by his brothers but was made their chief in the end, the same would happen with the Quraish. They rejected the Holy Prophet (peace and blessings of Allah be upon him) and expelled him from Mecca. But he who was rejected came to be their leader and their chief. [Lecture Lahore, Ruhani Khaza’in, vol. 20, pp. 199-200]
+    Dhulqarnain (the Promised Messiah) will then follow another course and will find himself at a very critical time, which can be described as between two barriers or mountains. This means that he will find a time when people on either side will be in fear, and the powers of darkness, in collaboration with the powers of state, will present an awe-striking spectacle. Under both these powers he will find a people who will find it difficult to understand him, i.e., they will be the victims of false beliefs on account of which they will find it difficult to understand the guidance which he will present to them. But in the end they will understand him. These are the third kind of people who will benefit from the guidance of the Promised Messiah. They will say to him: ‘Dhulqarnain, Gog and Magog have filled the land with disorder. If you so please, let us collect a fund for you so that you may erect a barrier between them and us.’ He will say in reply: ‘The power God has given me is better than your funds, but if you be so inclined, you can help me according to your means so that I may erect a wall between you and your opponents (i.e., he would put forth such conclusive proofs and arguments that their enemies will not be left with any ground for criticism or objection against their religion.) He will say to them: ‘Bring me slabs of iron so that their movement can be stopped, (i.e., hold fast to my teachings and my arguments, be steadfast, and block the enemy’s onslaught like a wall of iron.) Then blow fire into the iron until it appears to be fire itself (i.e., feed the flames of love for God until you yourselves assume the Divine complexion)...
 
-They would say to him: ‘O Dhul-Qarnain! Ya’juj and Ma’juj have filled the land with disorder. If you so please, let us collect a fund for you so that you may erect a barrier between them and us.’ He would say in reply: ‘The power God has given me is better than your funds, but if you be so inclined, you can help me according to your means so that I may erect a wall between you and them.’ That is, he would put forth such conclusive proofs and arguments that their enemies would not be left with any basis for criticism or objection against their religion. ‘Bring me slabs of iron so that their movement can be stopped’; that is, hold fast to my teachings and my arguments, fully adopt steadfastness, and build yourselves like unto a wall of iron to repel the enemy’s onslaught. ‘Then blow fire into the iron until it becomes like fire’; that is, feed the flames of love for God until you yourselves assume the complexion of the Divine [[^barahin_ahmadiyah_v_h152_catatan_kaki]]
+    After these verses, God Almighty goes on to say: Then Dhulqarnain (the Promised Messiah) will say to the people who are afraid of Gog and Magog: ‘Bring me copper so that I may melt it and pour it over the wall. Thereafter, Gog and Magog will not have the power to scale it or to make holes in it.’
 
-[^barahin_ahmadiyah_v_h152_catatan_kaki]: [Barahin Ahmadiyah, Jilid V, halaman 152](https://www.alislam.org/library/books/Barahin-e-Ahmadiyya-Part-5.pdf)
+    Here it should be noted that though iron assumes the qualities of fire when left in it for a long time, it does not melt easily. Copper, on the other hand, melts very quickly; and it is necessary for a seeker to melt in the path of God. This means that the Promised Messiah will need such eager hearts and mild dispositions as would melt under the influence of Divine signs. These signs have no effect on the hard-hearted. A person can only become immune to Satanic attacks when he becomes steadfast like iron and that iron becomes like fire when touched by the fire of Divine love, and then the melted heart should melt and cover the iron to secure it against disintegration and decay. These are the three conditions which, when combined, form a wall which cannot be scaled or bored through by the spirit of Satan. Then God says that all this will come about by His grace. It is His hands which will accomplish everything and human design will have no part in it. When the Day of Judgement approaches, mischief will reign supreme once again. This is the promise of God.
 
-After the verses mentioned above, Allah the Exalted goes on to say: ‘Then Dhul-Qarnain’—meaning the Promised Messiah—‘would say to the people who are afraid of Ya’juj and Ma’juj: “Bring me copper so that I may melt it and pour it over the wall.” Thereafter, Ya’juj and Ma’juj would not have the ability to scale it nor dig holes through it.’
+    **Time of the Promised Messiah**
 
-Here it should be noted that though iron assumes the qualities of fire when left in it for a long time, it does not melt easily. Copper, on the other hand, melts very quickly; it is necessary for a seeker to melt in the path of God Almighty. This means: Come forward with such eager hearts and mild dispositions as would melt upon witnessing the Signs manifested by God Almighty, because the Signs of God Almighty have no effect on the hard-hearted. A person can only become immune to Satanic attacks when he becomes steadfast like iron and that iron becomes like fire when touched by the fire of the love of God Almighty, and then the hearts should melt and cover the iron to secure it against disintegration and decay. For the completion of the spiritual journey these are the three conditions which, when combined, form an impregnable wall that cannot be scaled or bored through by the spirit of Satan. Then, God says that all this will come about by the grace of God and it will be His hand which will accomplish everything and human designs will play no part in it. And when the Day of Judgment approaches, mischief will reign supreme once again. This is the promise of God.
+    Then He says that at the time of Dhulqarnain (Promised Messiah) all people will rise up in support of their own religion and will attack each other like the waves of the sea. Then the trumpet will be blown in heaven, i.e., God will raise the Promised Messiah and create a third people for whom He will show great signs until all good people gather under the banner of Islam. They will respond to the call of the Promised Messiah and will run towards him; then there will be only one shepherd and one flock. Those days will be hard and God will reveal His countenance with awe-striking signs. Those who persist in disbelief will experience hell in this very world in the shape of calamities. God says: These are the people whose eyes were veiled against My Words, and their ears heeded not My commandments. Did the disbelievers imagine that they could take humble men to be God and that I should stand dismissed? We shall reveal hell in this very world as entertainment for the disbelievers, i.e., great and terrible signs will appear.
 
-Then He says that at the time of Dhul-Qarnain, who is the Promised Messiah, all people will rise up in support of their own religion and will attack each other—wave upon wave—like the waves of the sea. Then the trumpet will be blown in Heaven. That is, the God of the Heavens will raise the Promised Messiah and create a third people for whom He will show great Signs of His support until all rightly inclined people are gathered upon one faith; that is to say, upon Islam. They will hear the voice of the Messiah and will hasten towards him; then will there be only one Shepherd and one flock. Those days will be hard indeed and God will manifest His countenance with the most fearsome Signs. Those who will persist in disbelief will experience Hell in this very world through all manner of calamities. God says: ‘These are the very people whose eyes were veiled against My Words, and their ears heeded not My commandments. Did these disbelievers imagine it to be a trivial affair to take humble creatures as “God” while I should stand dismissed? We shall reveal Hell in this very world as entertainment for the disbelievers.’ In other words, great and terrible Signs would appear and all these Signs would testify to the truth of the Promised Messiah. See how the grace of the Benevolent has bestowed all these favours upon this humble one, who is labelled a disbeliever and deceiver by his opponents! [[^barahin_ahmadiyah_v_h153_4_catatan_kaki]]
+    All these signs will testify to the truth of the Promised Messiah. See, how the grace of the Beneficent One has bestowed all these favours on this humble one, who is labelled a disbeliever and Dajjal by his opponents! [Brahin-e-Ahmadiyyah part V, Ruhani Khaza’in, vol. 21, pp 119-126]
 
-[^barahin_ahmadiyah_v_h153_4_catatan_kaki]: [Barahin Ahmadiyah, Jilid V, halaman 153-154](https://www.alislam.org/library/books/Barahin-e-Ahmadiyya-Part-5.pdf)
+Satu kali Hakim Mirza Mahmud Irani, dalam suratnya tertanggal 2 September 1902, telah meminta saya untuk menjelaskan arti dari ayat berikut:
 
+‘Dia menemukannya terbenam di genangan air keruh.’—Al-Kahfi, 18:87 [Penerbit]
+
+Pertama-tama, biarlah jelas bahwa ayat ini menyimpan banyak makna tersembunyi yang tidak mungkin tercakup, dan di bawah makna yang tampak ada makna tersembunyi. Makna yang diwahyukan Allah kepadaku adalah bahwa ayat ini, digabungkan dengan ayat-ayat sebelum dan sesudahnya, berisi nubuat tentang Hadhrat Masih Mau'ud dan merinci waktu kemunculannya. Penjelasannya adalah Hadhrat Masih Mau'ud juga Dzulkarnain, karena kata Arab qarn berkonotasi satu abad dan ayat Al-Qur'an menunjukkan bahwa kelahiran dan kedatangan Hadhrat Masih Mau'ud akan berlangsung selama dua abad. Saya telah hidup dalam dua abad menurut setiap kalender yang dikenal, baik itu Islam, Kristen atau Bikramjiti. Kelahiran dan kedatangan saya tidak terbatas pada satu abad, dan dalam pengertian ini saya adalah Dzulkarnain. Dalam beberapa hadis juga Hadhrat Masih Mau'ud disebut Dzulkarnain dalam pengertian yang sama seperti yang baru saja saya sebutkan.
+
+Penafsiran ayat berikutnya dalam konteks nubuatan adalah bahwa ada dua umat besar yang telah diberi kabar gembira tentang Kedatangan Hadhrat Masih Mau'ud dan yang merupakan penerima utama misinya. Dalam ayat-ayat ini, Allah SWT menggambarkan secara metaforis bahwa Hadhrat Masih Mau'ud, yaitu Dzulkarnain, akan bertemu dengan dua umat dalam perjalanannya. Dia akan menemukan orang-orang yang duduk dalam kegelapan di dekat kolam air yang berbau busuk, yang tidak layak untuk diminum, dan penuh dengan lumpur yang bau sehingga tidak dapat lagi digambarkan sebagai air. Inilah orang-orang Kristen yang berada dalam kegelapan dan yang, karena kesalahan mereka sendiri, telah mengubah mata air Mesianik menjadi kolam lumpur yang bau.
+
+Dalam perjalanannya yang kedua, Hadhrat Masih Mau'ud, Dzulkarnain, menemui suatu kaum yang sedang duduk di bawah terik matahari tanpa tempat berteduh untuk melindungi mereka. Mereka tidak mendapatkan cahaya dari matahari, kecuali tubuh mereka hangus oleh nyalanya dan kulit mereka menjadi gelap. Inilah kaum Muslimin, yang, meskipun diberkahi dengan matahari Keesaan Ilahi, tidak memperoleh manfaat nyata darinya, tetapi hangus oleh nyalanya. Dengan kata lain, mereka telah kehilangan keindahan sejati dan kualitas moral sejati dari iman dan sebaliknya mengambil bagian dari dendam, kebencian, amarah yang berapi-api, dan kekejaman.
+
+Dengan cara ini, Allah Ta'ala telah menunjukkan bahwa Hadhrat Masih Mau'ud, Dzulkarnain, akan muncul pada saat orang-orang Nasrani berada dalam kegelapan dan di dalam lumpur busuk, yang disebut Hama' dalam bahasa Arab, akan menjadi bagian mereka. Kaum Muslim untuk bagian mereka hanya akan memiliki keyakinan kering pada Keesaan Tuhan dan mereka akan menderita dari sengatan sinar matahari kefanatikan dan kebinatangan dan tidak ada nilai ruhani yang suci.
+
+Kemudian Hadhrat Masih Mau'ud, yaitu Dzulkarnain, akan menjumpai suatu kaum yang akan menderita di tangan Yajuj dan Majuj. Orang-orang ini akan sangat religius dan saleh secara alami, dan akan mencari bantuan Dzulkarnain (Hadhrat Masih Mau'ud) melawan agresi Yajuj dan Majuj. Dan dia akan mendirikan benteng yang gemilang bagi mereka, dengan kata lain, dia akan mengajari mereka argumen-argumen yang kuat untuk mendukung Islam yang pada akhirnya akan menolak serangan Yajuj dan Majuj. Dia akan menghapus air mata mereka, membantu mereka dalam segala hal dan berdiri di samping mereka. Inilah orang-orang yang menerima saya.
+
+Ini adalah nubuatan agung yang menceritakan tentang kedatanganku, zamanku dan Jemaatku. Berbahagialah dia yang membaca nubuatan ini dengan teliti. Nubuatan seperti itu adalah ciri khas Al-Qur'an, yang menceritakan tentang seseorang di masa lalu, tetapi tujuan sebenarnya adalah untuk meramalkan masa depan. Misalnya, Surah Yusuf, yang di bagian mukanya hanya sebuah narasi, mengandung ramalan tersembunyi bahwa Yusuf pada awalnya dipandang rendah oleh saudara-saudaranya tetapi pada akhirnya diangkat menjadi pemimpin mereka, hal yang sama akan terjadi dengan orang Quraisy. Mereka menolak Nabi Suci (saw) dan mengusirnya dari Mekah. Tetapi dia telah ditolak menjadi pemimpin mereka.
+
+[^rk_vol20_199_200]: One Hakim Mirza Mahmud Irani, in his letter dated 2 September 1902, has asked me to explain the meanings of the verse:
+
+    ‘He found it setting in a pool of murky water.’—Al-Kahf, 18:87 [Publisher]
+
+    First of all, let it be clear that this verse holds many a hidden meaning which it is not possible to encompass, and under its apparent meanings lie hidden meanings. The meaning which God has disclosed to me is that this verse, taken together with the preceding and following verses, comprises a prophecy about the Promised Messiah and specifies the time of his appearance. The explanation is that the Promised Messiah is also Dhulqarnain, as the Arabic word qarn connotes a century and the Qur’anic verse indicates that the birth and advent of the Promised Messiah will cover two centuries. I have lived in two centuries according to every known calendar, be it Islamic, Christian or Bikramjiti. My birth and advent have not been confined to a single century, and in this sense I am Dhulqarnain. In some Ahadith too the Promised Messiah has been called Dhulqarnain in the same sense as I have just mentioned.
+
+    The interpretation of the rest of the verse in the context of prophecy is that there are two major peoples who have been given the glad tiding of the Coming of the Promised Messiah, and who are the primary addressees of his mission. In these verses, God Almighty describes metaphorically that the Promised Messiah, who is Dhulqarnain, will encounter two peoples in the course of his journey. He will find a people sitting in the dark by an evil smelling pool of water, which is not fit for drinking, and is so full of stinking mud that it can no longer be described as water. These are the Christians who are in the dark and who, out of their own wrongdoing, have converted the Messianic spring into a pool of stinking mud.
+
+    In the course of his second journey, the Promised Messiah, who is Dhulqarnain, came upon a people sitting in the blazing sun without any shelter to protect them. They get no light from the sun, except that their bodies are scorched by its blaze and their skins become dark. These are the Muslims, who, despite being blessed with the sun of Divine Unity, have not derived real benefit from it, but to be scorched by its blaze. In other words, they have lost the true beauty and true moral qualities of faith and have instead partaken of rancour, malice, fiery temper and beastliness.
+
+    In this manner, Allah the Almighty has indicated that the Promised Messiah, who is Dhulqarnain, will appear at a time when the Christians will be in darkness, and stinking mud, which is called Hama’ in Arabic, will be their lot. The Muslims for their share will have only a dry belief in the Unity of God and they will suffer from the sunburns of bigotry and beastliness and no spiritual value shall remain unstained.
+
+    Then the Promised Messiah, who is Dhulqarnain, will come across a people who will be suffering at the hands of Gog and Magog. These people will be deeply religious and pious by nature, and will seek the help of Dhulqarnain (the Promised Messiah) against the aggression of Gog and Magog. And he will erect a bright rampart for them, in other words, he will teach them such strong arguments in support of Islam as will finally repulse the attacks of Gog and Magog. He will wipe their tears, help them in every way and stand by them. These are the people who accept me.
+
+    This is a grand prophecy which tells about my advent, my time and my Jama‘at. Blessed is he who reads these prophecies with care. Such prophecies are typical of the Holy Qur’an, whereby it tells about someone in the past, but its real purpose is to foretell the future. For instance, Surah Yusuf, which on the face of it is only a narrative, contains the hidden prophecy that as Josephas was initially looked down upon by his brothers but was made their chief in the end, the same would happen with the Quraish. They rejected the Holy Prophet (peace and blessings of Allah be upon him) and expelled him from Mecca. But he who was rejected came to be their leader and their chief. (Lecture Lahore, Ruhani Khaza’in, vol. 20, pp. 199-200)
+
+Mereka akan mengatakan kepadanya: 'Wahai Dzul-Qarnain! Ya'juj dan Ma'juj telah memenuhi negeri dengan kekacauan. Jika engkau mau, izinkan kami mengumpulkan dana untuk engkau sehingga engkau dapat mendirikan penghalang antara mereka dengan kami.' Dia akan menjawab: 'Kekuatan yang Tuhan berikan kepadaku lebih baik daripada dana kalian, tetapi jika kalian mau, kalian dapat membantuku sesuai dengan kemampuan kalian sehingga saya dapat mendirikan tembok antara kalian dan mereka.' Artinya, dia akan mengajukan bukti dan argumen yang meyakinkan sehingga musuh mereka tidak akan memiliki dasar untuk mengkritik atau berkeberatan terhadap agama mereka. 'Ambilkan saya lempengan besi sehingga gerakan mereka bisa dihentikan'; yaitu, berpegang teguh pada ajaran dan argumen saya, sepenuhnya mengadopsi ketabahan, dan membangun diri Anda seperti tembok besi untuk mengusir serangan musuh. ‘Kemudian tiuplah api ke dalam besi sampai menjadi seperti api’; yaitu, berilah bahan bakar api cinta untuk Tuhan sampai kalian sendiri seperti sifat Tuhan [[^barahin_ahmadiyah_v_p152]].
+
+[^barahin_ahmadiyah_v_p152]: They would say to him: ‘O Dhul-Qarnain! Ya’juj and Ma’juj have filled the land with disorder. If you so please, let us collect a fund for you so that you may erect a barrier between them and us.’ He would say in reply: ‘The power God has given me is better than your funds, but if you be so inclined, you can help me according to your means so that I may erect a wall between you and them.’ That is, he would put forth such conclusive proofs and arguments that their enemies would not be left with any basis for criticism or objection against their religion. ‘Bring me slabs of iron so that their movement can be stopped’; that is, hold fast to my teachings and my arguments, fully adopt steadfastness, and build yourselves like unto a wall of iron to repel the enemy’s onslaught. ‘Then blow fire into the iron until it becomes like fire’; that is, feed the flames of love for God until you yourselves assume the complexion of the Divine (Barahin Ahmadiyah, Jilid V, halaman 152)
+
+{% comment %}
 
 ### Sabda Para Khalifatul Masih
 
+{% endcomment %}
 
 ### Catatan Kaki
 
