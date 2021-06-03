@@ -1,7 +1,7 @@
 ---
 title: Ahmadi Menikah dengan Ghair Ahmadi
 layout: post
-tags: nikah
+tags: rishtanata
 description: tulisan mengenai ahmadi yang menikah dengan ghair ahmadi
 ---
 

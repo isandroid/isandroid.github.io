@@ -1,7 +1,7 @@
 ---
 title: Khotbah Nikah
 layout: post
-tags: khotbah nikah
+tags: khotbah rishtanata
 description: contoh khotbah nikah sederhana
 ---
 
