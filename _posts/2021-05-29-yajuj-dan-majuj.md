@@ -11,7 +11,9 @@ published: true
 
 ### Pengertian
 
-Allah Ta'ala menyebutkan kata *Ya'juuj* dan *Ma'juuj* dalam Alquran-ul-karim. Kata Ya'juj dan Ma'juj berasal dari bahasa arab, seperti yang disabdakan oleh Hadhrat Masih Mau'ud (as),
+Allah Ta'ala menyebutkan kata *Ya'juuj* dan *Ma'juuj* secara langsung sebanyak dua kali di dalam Alquran-ul-karim, yaitu QS Al-Kahfi (18): 95 dan QS Al-Anbiyaa (21): 97 [[^quran_yajuj_majuj]]. Kata Ya'juj dan Ma'juj berasal dari bahasa arab, seperti yang disabdakan oleh Hadhrat Masih Mau'ud (as),
+
+[^quran_yajuj_majuj]: [Pencarian kata Ya'juj dalam openquran.com](https://openquran.com/%DB%8C%D9%8E%D8%A7%DB%A1%D8%AC%D9%8F%D9%88%DB%A1%D8%AC%D9%8E)
 
 > "Kata Ya'juuj dan Ma'juuj berasal dari akar kata *ajij*, yang berarti orang yang ahli dalam menggunakan api" [[^barahin_ahmadiyah_v_h151_catatan_kaki]]
 
@@ -39,7 +41,7 @@ Yajuj dan Majuj adalah dua (golongan) manusia yang telah disebutkan dalam kitab 
 
 ### Nubuwwatan Alquran
 
-Allah Ta'ala membuat perumpamaan dua orang laki-laki,
+Dalam satu ayat Allah Ta'ala menceritakan perumpamaan tentang dua orang laki-laki,
 
 <p class="quran">
 وَاضۡرِبۡ لَہُمۡ مَّثَلًا رَّجُلَیۡنِ جَعَلۡنَا لِاَحَدِہِمَا جَنَّتَیۡنِ مِنۡ اَعۡنٰبٍ وَّحَفَفۡنٰہُمَا بِنَخۡلٍ وَّجَعَلۡنَا بَیۡنَہُمَا زَرۡعًا
