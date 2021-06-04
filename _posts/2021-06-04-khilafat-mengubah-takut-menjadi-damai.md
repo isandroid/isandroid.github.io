@@ -32,7 +32,7 @@ ayat-ayat berikut dari Al-Qur'an:
     وَاَقِیۡمُوا الصَّلٰوۃَ وَاٰتُوا الزَّکٰوۃَ وَاَطِیۡعُوا الرَّسُوۡلَ لَعَلَّکُمۡ تُرۡحَمُوۡنَ
 </p>
 
-> “Allah telah berjanji kepada orang-orang yang beriman dari antara kamu dan berbuat amalsaleh,
+> “Allah telah berjanji kepada orang-orang yang beriman dari antara kamu dan berbuat amal saleh,
 bahwa Dia pasti akan menjadikan mereka itu Khalifah di bumi ini, sebagaimana Dia telah menjadikan
 Khalifah orang-orang yang sebelum mereka; dan Dia pasti akan meneguhkan bagi mereka agama
 mereka, yang telah Dia ridhai bagi mereka; dan pasti Dia akan memberi mereka keamanan dan
