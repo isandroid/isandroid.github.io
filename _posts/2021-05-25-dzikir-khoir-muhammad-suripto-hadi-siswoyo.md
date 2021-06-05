@@ -98,6 +98,8 @@ Mln. Nurhadi menceritakan,
 
 [^wawancara_mln_nurhadi_20210525]: Wawancara dengan Mln. Nurhadi tanggal 25 Mei 2021 di rumah Mubalig di Bawang-Krucil.
 
+Bapak Suripto resmi menjadi anggota Jemaat Ahmadiyah. Beliau mendapatkan nomer anggota 44540. Lebih lanjut beliau juga menggabungkan diri dalam silsilah pengorbanan yang dinamakan Al-Wasiyat. Beliau mendapatkan nomer wasiyat 66477. Beliau telah mewasiyatkan hartanya demi agama Rp. 26.703.120. Dan wasiyat itu sudah lunas ditunaikan pada tanggal 12 Juni 2020 lalu.  
+
 ### Tempat Tinggal
 
 Dari Krucil, beliau pindah ke Limbangan, kecamatan Madukara, Banjarnegara, Jawa Tengah, Indonesia sekira tahun 1968. Disanalah tempat tinggal beliau hingga wafat pada tanggal 24 Mei 2021.
@@ -157,7 +159,6 @@ Mln. Hendra Muslih menceritakan,
 > Saya pernah ikut bertabligh dengan Bapak Suripto ke daerah Jawaran. Beliau membawa tas besar  yang di dalamnya berisi brosur-brosur, formulir baiat dan syarat-syarat baiat. Tidak ketinggalan juga foto Imam Mahdi (as) dan para khalifahnya. Beliau bertabligh dengan bahasa Jawa yang terkadang saya sendiri tidak mengerti secara keseluruhan, namun saya sangat menikmati hal itu. Terutama saat beliau menyampaikan kawih (tembang) jawa tentang tanda-tanda akhir zaman sampai akhirnya orang yang ditablighi bersedia untuk baiat. 
 > 
 > Saya Pernah menginap di rumah beliau di Madukara. Saya penasaran apa resepnya sehingga beliau tetap bugar dan sehat. Jawabannya adalah sebelum subuh dan minum air putih, makan walaupun hanya satu buah pisang, Insya Allah sehat.
-
 
 ### Pertabligan ke Dusun Lengkong
 
@@ -288,6 +289,24 @@ Mln. Ahmad Suparja Hidayat, mubda Jateng-2 menceritakan,
 Mln. Nasiruddin Ahmadi, Mubda Jateng-1 menceritakan,
 
 > Disisi lain, saya mengenal pribadi beliau adalah seorang sosok Ayah, Ahmadi yang lembut, ulet, tidak mudah menyerah dalam mencapai tujuan,  semangat, bijaksana, disiplin dan tegas dalam mendidik putra-putrinya agar selalu berada dilingkungan Jemaat. Dan ini terbukti, seluruh putra-putri H. Suripto menjadi orang-orang yang berhasil dunia dan akhirat nya. Selain berhasil dalam bidang Pertabligan beliau juga sukses dalam mendidik keluarga. Anak keturunan beliau  hampir Semuanya yang menjadi pengurus Jemaat, dan sangat aktif didalam kejemaatannya. Semoga kita bisa meniru apa yang sudah dilakukan oleh Bapak Haji Suripto. [[^wa_mln_nasiruddin_ahmadi_20210531]]
+
+Ada satu kesaksian dari salah satu warga Limbangan yang bernama bapak Suradi [[^suradi_limbangan]]. Ia dikenal sebagai tokoh kejawen yang sangat simpati terhadap Jemaat. Ia menceritakan bahwa di tahun 2002 atau 2003 bapak Kartasentana [[^kertasentana_limbangan]] menyebutkan, 
+
+> "Sing dematna wong sing adem ora gemrungsung mesjid kidul" 
+
+Bapak Suradi mengaku bahwa ia mendapatkan 'suara' pada tanggal 23-Mei-2021,
+
+> "Wringin ijo ninggal" -- artinya "Pohon beringin (pengayom masyarakat desa) telah meninggal"
+
+Bapak Suradi juga menyatakan, 
+
+> "Mbah Ripto adalah termasuk guru (spiritual) saya. (Setelah pak Ripto meninggal,) kewibawaan desa luntur. Harus membangun bibit baru lagi." [[wa_iksan_hidayatullah_20210603]]
+
+[wa_iksan_hidayatullah_20210603]: Teks Whatsapp dari bapak Iksan Hidayatullah secara pribadi tanggal 3-Juni-2021
+
+[^kertasentana_limbangan]: Bapak Kertasentana (sudah meninggal) dianggap oleh warga desa Limbangan sebagai "orang pintar" yang banyak dimintai bantuan orang-orang hingga di luar. Dan kemampuannya turun kepada bapak Suradi.
+
+[^suradi_limbangan]: Bapak Suradi adalah kakak dari ibu Tumini, istri pak Tunut (Pak Tunut dan Istrinya telah lama baiat).
 
 ### Pengkhidmatan dalam Jemaat
 
