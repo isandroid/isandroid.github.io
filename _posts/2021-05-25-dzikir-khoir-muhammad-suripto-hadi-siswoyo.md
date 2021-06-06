@@ -12,7 +12,7 @@ published: true
 
 Nama lengkap almarhum adalah **Muhammad Suripto Hadi Siswoyo**. Beliau lahir di RT 04/02 Dusun Krucil, Ds. Winong, Kecamatan Bawang, Banjarnegara, Jawa Tengah, Indonesia pada tanggal 14 April 1942 (versi lain 1944) [[^tgl_lahir]]. Ayahanda beliau bernama Daryali sedangkan Ibunda beliau bernama Kartinah.
 
-[^tgl_lahir]: Ada dua versi tahun kelahiran akibat sitem administrasi pemerintahan pada zaman dulu yang belum rapi. Menurut teman teman almarhum yg seusia, diriwayatkan bahwa beliau lahir tahun 1942. Namun secara resmi menurut catatan pemerintah dalam Kartu Tanda Penduduk (KTP) tercatat bahwa beliau lahir tanggal 12 April 1944.
+[^tgl_lahir]: Ada dua versi tahun kelahiran akibat sistem administrasi pemerintahan pada zaman dulu yang belum rapi. Menurut teman teman almarhum yg seusia, diriwayatkan bahwa beliau lahir tahun 1942. Namun secara resmi menurut catatan pemerintah dalam Kartu Tanda Penduduk (KTP) tercatat bahwa beliau lahir tanggal 12 April 1944.
 
 Pak Suripto sudah menjadi Pegawai Negeri Sipil (PNS) dari sebelum menikah. Beliau menjadi guru agama di Kementrian Agama. Kemudian beliau menikah dengan anggota LI di Madukara. [[^wawancara_mln_nurhadi_20210525]]
 
@@ -106,7 +106,7 @@ Dari Krucil, beliau pindah ke Limbangan, kecamatan Madukara, Banjarnegara, Jawa 
 
 ### Menjadi Imam Masjid Desa
 
-Di awal tahun 1970-an beliau terbiasa bertabligh di sekitar tempat tinggal, yakni di Desa Limbangan. Sebelum berdiri Masjid Desa, sholat Jumat biasa dilaksanakan di Rumah (almarhum) bapak Suripto dan bapak (almarhum) Mln. Mohammad Ahmad sering menjadi Imam dan Khotib Jumat.
+Di awal tahun 1970-an beliau terbiasa bertabligh di sekitar tempat tinggal, yakni di Desa Limbangan. Sebelum berdiri Masjid Desa, sholat Jumat, Shalat Tarawih dan semua kegiatan biasa dilaksanakan di Rumah (almarhum) bapak Suripto. Ketika itu anak-anak masih kecil, baru mempunyai tiga anak [[^wawancara_titin_suprihatin_20210604]]. Ketika itu bapak (almarhum) Mln. Mohammad Ahmad sering menjadi Imam dan Khotib Jumat.
 
 Di desa Limbangan beliau memprakarsai berdirinya Masjid desa yang didirikan di atas tanah desa. Belasan tahun beliau menjadi Imam Masjid desa. 
 
@@ -174,11 +174,9 @@ Berkat kunjungan yang rutin, Bapak Kolonel Lius Ma'ala Kali kedua memimpin baiat
 
 Setelah berhasil melalui baiat masal tersebut, kemudian pertablighan diarahkan ke daerah lain. Ada ke Arah Desa Bendungan, berkali kali bapak Suripto mengunjungi dan membina daerah ini, setelah banyak yang baiat, juga pada akhirnya berdirilah Jemaat Bendungan.
 
-### Pertabligan ke Desa Bendungan
+### Pertabligan ke Desa Kasmaran dan Wonosari
 
 Bapak Mln. Nurhadi mendapatkan info dari mubayin baru bahwa ada anggota Gerakan Ahmadiyah Indonesia atau Ahmadiyah Lahore di Desa kasmaran, kecamatan Pagentan. Setelah itu menjadi sering untuk dikunjungi bersama (almarhum) bapak Suripto sehingga banyak yang menyatakan baiat. Tokohnya saat itu adalah (almarhum) bapak Mohamad Hakim.
-
-### Pertabligan ke Desa Kasmaran dan Wonosari
 
 Sekali mendayung, dua tiga pulau terlampaui. Begitu yang yang dilakukan bapak Suripto ketika bertablig ke Desa Kasmaran. Bersamaan dengan tabligh ke arah Desa Kasmaran juga dilakukan tabligh ke desa Wonosari. Lambat-laun banyak yang menyatakan baiat dan berdirilah Jemaat Kasmaran juga Jemaat Wonosari.
 
@@ -187,6 +185,32 @@ Jumlah mubaligh pun terus ditambah untuk kantong-kantong mubaligh tersebut, Dan 
 Kegiatan tabligh terus dilakukan ke arah Desa Wonoroto dan daerah daerah lain di kabupaten Wonosobo.
 
 ### Kesan terhadap Pribadi Bapak Suripto
+
+Ibu Titin Suprikhatin, istri almarhum menceritakan,
+
+> Ibu Titin bersama grup dari Jemaat Krucil pernah ikut mentarbiyati para anggota Lajnah Imaillah di Dusun Jengkol hasil dari pertablgan almarhum bapak Suripto setiap Jumat sekali. Hal itu dilakukan selama beberapa bulan. Setelah itu dilanjutkan ke Dusun Jawaran, Dusun Lengkong dan Desa Bendungan. 
+>
+> Perjalanan itu dilewati melalui Dusun Tripis (Desa Watumalang, Wonosobo). Pernah juga melalui Wonosobo, Desa Binangun dilanjutkan dengan jalan kaki karena ketika itu jalan belum bisa dilalui kendaraan.
+>
+> Ketika zaman bu Uun (sebagai sadr LI), di tengah perjalanan untuk membimbing para mubayyiin baru, ia menemukan jalan longsor. Ketika itu ia berjalan sendiri. Hampir putus asa tidak melewati jalan tersebut. Tapi ia memberanikan diri untuk melewati jalan yang putus itu. Ia melempar tas yang dibawa lalu merangkak melalui jalur longsor itu. Karena pakaian juga ikut kotor, setelah melalui jalan longsor, ia membersihkan diri. 
+>
+> Ketika pak Suripto melakukan tablig, bu Titin pun ikut berpartisipasi dengan berjalan kaki melewati Desa Sokaraja (Pagentan, Banjarnegara), Desa Tripis (Watumalang, Wonosobo). Pernah ketika jembatan sedang direnovasi, mereka berjalan lewat pematang-pematang sawah dan berakhir di Dusun Jawaran (Desa Pasuruan, Watumalang, Wonosobo). Karena perjalana itu kaki bu Titin bengkak karena berjalan kaki sekira 30 km pulang-pergi.
+>
+> Dua hari setelah itu, kembali lagi mengadakan perjalanan menuju Dusun Bendungan (Desa Mutisari, Watumalang, Wonosobo). 
+
+Ketika ditanya, apa (rahasia sukses) pak Suripto dalam mendidik anak-anaknya sehingga bisa sukses, bu Titin menceritakan pandangannya,
+
+> Pertama, bapak keras dalam mendidik. Keras di sini adalah anak harus bisa baca Alquran, harus bisa Shalat, melatih anak-anaknya ke Langgar (Musholla milik desa). Ketika ke masjid, anak-anak harus ikut semua. Ada yang sampai digendong. 
+>
+> (Kedua,) Siang-malam bapak (Suripto) mendoakan anak-anaknya agar menjadi anak yang sholeh-sholehah, menjadi Jemaat yang mukhlis.
+>
+> (Ketiga,) Bapak Suripto semangat dalam melaksanakan kegiatan-kegiatan Jemaat, semangat dalam bertablig dll sehingga dengan jerih payah itu, berkat karunia Allah semata anak-anak menjadi berhasil.
+>
+> (Keempat,) Kami bedua dengan bapak Suripto tiap malam berdoa dalam Tahajjud, "Yaa Allah berikanlah kami anak-anak yang shaleh, anak yang taat kepada agama dan Jemaat"
+>
+> (Kelima,) Kami biasa puasa sunnah Senin-Kamis dan berdoa agar hidup kami selamat dunia-akhirat untuk anak-anak semua dan Jemaat semuanya  [[^wawancara_titin_suprihatin_20210604]].
+
+[^wawancara_titin_suprihatin_20210604]: Wawancara Iksan Hidayatullah dengan ibu Titin Suprikhatin, istri pak Suripto pada tanggal 4-Juni-2021 di Desa Madukara
 
 Iksan Hidayatullah, putra pak Suripto menyampaikan bahwa almarhum terbiasa mendidik keluarganya dengan cara:
 
