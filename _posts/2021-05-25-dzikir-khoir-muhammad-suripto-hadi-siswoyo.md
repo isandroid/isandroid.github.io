@@ -206,9 +206,9 @@ Bu Titin Suprikhatin, Istri almarhum menceritakan ketika ditanya, apa (rahasia s
 >
 > (Kedua,) Siang-malam bapak (Suripto) mendoakan anak-anaknya agar menjadi anak yang sholeh-sholehah, menjadi Jemaat yang mukhlis.
 >
-> (Ketiga,) Bapak Suripto semangat dalam melaksanakan kegiatan-kegiatan Jemaat, semangat dalam bertablig dll sehingga dengan jerih payah itu, berkat karunia Allah semata anak-anak menjadi berhasil.
+> (Ketiga,) Bapak Suripto semangat dalam melaksanakan kegiatan-kegiatan Jemaat, semangat dalam bertablig, mengembangkan Jemaat dll sehingga dengan jerih payah itu --hanya berkat karunia Allah-- anak-anak menjadi berhasil.
 >
-> (Keempat,) Kami bedua dengan bapak Suripto tiap malam berdoa dalam Tahajjud, "Yaa Allah berikanlah kami anak-anak yang shaleh, anak yang taat kepada agama dan Jemaat"
+> (Keempat,) Kami bedua dengan bapak Suripto tiap malam berdoa dalam Tahajjud, "Yaa Allah Yang Maha Kaya dan Maha Kuasa berikanlah kami anak-anak yang shaleh, anak yang taat kepada agama dan Jemaat, semangat dalam Jemaat, dan kami juga berdoa untuk anak-cucu keturunan-keturunan selanjutnya juga menjadi keturunan yang sholeh-shalehah walaupun kami sudah tidak bisa melihat mereka lagi. Bagi anak-anak yang sedang bertugas atau menjalankan bisnis semoga diberikan keselamatan dan kelancaran"
 >
 > (Kelima,) Kami biasa puasa sunnah Senin-Kamis dan berdoa agar hidup kami selamat dunia-akhirat untuk anak-anak semua dan Jemaat semuanya  [[^wawancara_titin_suprihatin_20210604]].
 
@@ -220,7 +220,7 @@ Iksan Hidayatullah, putra pak Suripto menyampaikan bahwa almarhum terbiasa mendi
 
 - Membangunkan anak anak hingga remaja agar ikut tahajud berjamaah tiap malam minggu, sampai mereka dawam melaksanakan sendiri.
 
-- Selalu meminta/memimpin untuk melakukan doa bersama jika ada keluarga yg mau berpergian
+- Selalu meminta/memimpin untuk melakukan doa bersama jika ada keluarga yg mau berpergian.
 
 - Dawam menjalankan puasa senin-kamis jika kesehatan masih memungkinkan.
 
