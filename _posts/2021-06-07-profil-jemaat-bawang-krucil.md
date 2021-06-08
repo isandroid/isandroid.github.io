@@ -98,16 +98,15 @@ Setelah mempunyai Jamaah yang cukup banyak, maka didirikanlah cabang Jemaat loka
 
 - Sukarjo
 
-- Edi Sujarwo (dua periode 1975-an)
+- Edi Sujarwo (dua periode 1975-an) [[^edi_sujarwo_20210607]]
 
 - Mukhlisin
 
 - Saridal
 
-[^wawancara_edi_sujarwo]: Wawancara dengan pak Edi Sujarwo pada tanggal 7 Juni 2021 via Whatsapp call
 
 ### Catatan Kaki
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjAyMDA2NTcyLDgwNzg0MTIzMl19
+eyJoaXN0b3J5IjpbMjA2NTcyNDIyNiw4MDc4NDEyMzJdfQ==
 -->
