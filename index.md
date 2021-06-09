@@ -12,6 +12,7 @@ layout: beranda
 <i class="fa fa-search" aria-hidden="true"></i> [Pencarian dalam Halaman](/cari-halaman)
 {% endcomment %}
 
+{% comment %}
 ### Artikel Unggulan
 
 <ul>
@@ -98,3 +99,6 @@ var x = setInterval(function() {
 </script>
 
 {% endcomment %}
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTAxNTI1MjAxMV19
+-->
