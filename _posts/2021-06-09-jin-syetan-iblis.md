@@ -19,22 +19,24 @@ Kesimpulan ini selanjutnya didukung oleh QS.17: 66 yang menurut ayat itu, Iblis 
 
 ### Jin
 
-Allah Ta'ala berfirman dalam QS Al-An'aam [6]: 101
+Allah Ta'ala berfirman,
 
-Dan mereka menjadikan **jin-jin** sebagai sekutu bagi Allah padahal Dia menciptakan mereka; dan mereka telah mengada-adakan anak-anak lelaki dan anak-anak perempuan bagi-Nya tanpa ilmu. Mahasuci Dia dan Mahaluhur dari apa yang mereka sifatkan.
+Dan mereka menjadikan **jin-jin** sebagai sekutu bagi Allah padahal Dia menciptakan mereka; dan mereka telah mengada-adakan anak-anak lelaki dan anak-anak perempuan bagi-Nya tanpa ilmu. Mahasuci Dia dan Mahaluhur dari apa yang mereka sifatkan. (QS Al-An'aam [6]: 101)
 
 Tafsir: **Jin** adalah wujud yang sembunyi atau memencilkan diri dari orangorang awam. Ayat itu berarti bahwa manusia tergelincir bila ia menolak wahyu Ilahi dan mengikuti pertimbangan akalnya sendiri, lalu menyekutukan jin dan malaikat-malaikat dengan Tuhan dan menisbahkan anak laki-laki dan anak perempuan kepada Dia.
 
 ---
 
-Allah Ta'ala
+Allah Ta'ala berfirman,
 
-"Dan dengan cara demikian Kami telah menjadikan orang-orang jahat di antara manusia dan jin900 musuh bagi setiap nabi. Sebagian mereka membisikkan kepada sebagian lainnya perkataan indah untuk mengelabui. Dan jika Tuhan engkau menghendaki, mereka tidak akan mengerjakannya; maka biarkanlah mereka dengan apa yang mereka ada-adakan,
+"Dan dengan cara demikian Kami telah menjadikan orang-orang jahat di antara manusia dan **jin** musuh bagi setiap nabi. Sebagian mereka membisikkan kepada sebagian lainnya perkataan indah untuk mengelabui. Dan jika Tuhan engkau menghendaki, mereka tidak akan mengerjakannya; maka biarkanlah mereka dengan apa yang mereka ada-adakan," (QS Al-An'aam [6]: 113)
+
+Tafsir: Kata-kata “manusia dan **jin**” yang terdapat pada banyak tempat dalam ayat-ayat Al-Qur’an bukan berarti ada dua jenis makhluk Allah yang berlainan melainkan dua golongan makhluk manusia, Ins (manusia) mengisyaratkan kepada orang-orang awam atau rakyat jelata, sedangkan **Jin** dikatakan kepada orang-orang besar yang biasa hidup memisahkan diri dari rakyat jelata dan tidak berbaur dengan mereka, boleh dikatakan tinggal tersembunyi dari penglihatan umum.
 
 ### Syetan
 
 ### Iblis
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDk3NzY4NDAxLC0xNDczNDY3NzIyLC0xNj
+eyJoaXN0b3J5IjpbNTk5Mjg5MjE0LC0xNDczNDY3NzIyLC0xNj
 kxNDM2NzJdfQ==
 -->
