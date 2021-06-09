@@ -1,5 +1,5 @@
 ---
-title: Profil Jemaat Ahmadiyah Bawang (Krucil)
+title: Sejarah Jemaat Ahmadiyah Bawang (Krucil)
 layout: post
 tags: sejarah
 description: profil sejarah jemaat bawang atau sering disebut krucil
@@ -108,6 +108,6 @@ Setelah mempunyai Jamaah yang cukup banyak, maka didirikanlah cabang Jemaat loka
 ### Catatan Kaki
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1Njg4ODM1NywyMDY1NzI0MjI2LDgwNz
-g0MTIzMl19
+eyJoaXN0b3J5IjpbNzg1ODMxNTQxLC0zNTY4ODgzNTcsMjA2NT
+cyNDIyNiw4MDc4NDEyMzJdfQ==
 -->
