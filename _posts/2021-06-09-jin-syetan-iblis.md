@@ -41,12 +41,14 @@ Tafsir: Ma‘syar berarti segolongan orang yang mempunyai urusan dan kepentingan
 Ayat ini memberikan bukti lagi atas kenyataan bahwa kata **Jin** di sini hanya berarti satu golongan manusia, yaitu orang-orang besar dan orang-orang berpengaruh, sebab hanya segolongan manusia juga memeras tenaga golongan lain. Sedangkan **Jin** sebagai makhluk lain yang bukan-manusia, tak pernah memperbudak manusia. Begitu pun sepanjang pengetahuan kita Utusan-utusan Ilahi tak pernah dibangkitkan dari antara mereka.
 
 ---
-”Hai golongan **jin** dan manusia! Tidakkah telah datang kepadamu rasul-rasul dari antaramu yang menyampaikan kepadamu tanda-tanda-Ku dan memperingatkan kamu mengenai pertemuan pada harimu ini?” Mereka berkata, “Kami menjadi saksi atas diri kami sendiri.” Tetapi kehidupan dunia telah memperdayakan mereka, dan a mereka telah menjadi saksi atas diri mereka sendiri bahwa mereka adalah orang-orang kafir
+”Hai golongan **jin** dan manusia! Tidakkah telah datang kepadamu rasul-rasul dari antaramu yang menyampaikan kepadamu tanda-tanda-Ku dan memperingatkan kamu mengenai pertemuan pada harimu ini?” Mereka berkata, “Kami menjadi saksi atas diri kami sendiri.” Tetapi kehidupan dunia telah memperdayakan mereka, dan mereka telah menjadi saksi atas diri mereka sendiri bahwa mereka adalah orang-orang kafir" (QS Al-An'aam [6]: 131)
+
+Tafsir: Maksud perkataan ma‘syaral **jinni** (golongan **jin**) bukanlah suatu golongan di luar golongan manusia bahkan perkataan **jin** dan ins ini diisyarahkan kepada orang-orang besar atau bangsa besar dan orang kecil atau bangsa kecil. Kalau pilihan ini tidak benar maka bila datang kepada golongan jin seorang rasul dari antara kalangan **jin**, kemudian setelah beriman kepadanya mengapa kepada para **jin** tidak diberikan khabar suka berupa surga. Dari ayat-ayat Al-Qur’an di atas ataupun dari hadis dimanapun tidak didapati satu sebutan mengenai keberadaan **jin-jin** di surga.
 
 ### Syetan
 
 ### Iblis
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjIwNjU5MzEyLC0xNDczNDY3NzIyLC0xNj
+eyJoaXN0b3J5IjpbNjM3NjE1NjgzLC0xNDczNDY3NzIyLC0xNj
 kxNDM2NzJdfQ==
 -->
