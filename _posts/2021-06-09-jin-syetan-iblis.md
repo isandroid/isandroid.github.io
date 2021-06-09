@@ -136,7 +136,9 @@ Allah Ta'ala berfirman,
 Tafsir: **Syayātīn** berarti, para pemimpin pendurhaka (menurut Ibnu Abbas, Ibnu Mas’ud, Qatadah dan Mujahid). Rasulullah Saw diriwayatkan bersabda, “seorang pengendara (kuda yang bepergian) sendirian adalah **Syaitān**, dua pengendara pun sepasang **Syaitān**, tetapi tiga orang pengendara, adalah satu ‘pasukan pengendara’ (Dawud). Hadis ini mendukung pandangan bahwa, kata Syaitān tidak selamanya berarti **setan**.
 
 ---
+"Hai manusia, makanlah dari apa yang halal dan thayib, di bumi dan janganlah kamu mengikuti langkah-langkah setan, sesungguhnya ia musuh yang nyata bagimu." (QS Al-Baqarah [2]: 169)
 
+Tafsir: Larangan terhadap mengikuti setan segera menyusul perintah yang berhubungan dengan makanan, yang mengisyaratkan kepada pengaruh perbuatan-perbuatan jasmani terhadap keadaan akhlak dan rohani manusia. Penggunaan makanan haram dan tidak sehat dapat merugikan kemampuan akhlak dan merintangi perkembangan rohaninya. Lihat pula QS.23: 52.
 
 
 
@@ -153,7 +155,7 @@ Bahwa **Iblīs** bukanlah **Syaitān** – yang disebut dalam dalam QS.2:37 jela
 
 Perbedaan ini – yang sangat besar artinya dan tetap dipertahankan dalam Al-Qur’an, sedikitnya pada sepuluh tempat (QS.2:35, 37; 7:12, 21; 15:32; 17:62; 18:51; 20:117, 121; dan QS.38:75) – jelas memperlihatkan bahwa **Iblis** itu berbeda dari **setan** yang menipu Adam As dan merupakan salah seorang dari kaum Nabi Adam As sendiri. Di tempat lain Al-Qur’an mengatakan bahwa, iblis tergolong makhluk-makhluk Allah tersembunyi dan – berlainan dari para malaikat – mampu menaati atau menentang Allah Swt (QS.7: 12, 13). 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTAyNzQ4MiwtMTc5MTAwNDI0OSwtMT
-IwNzQ4NDE4NiwxOTQ2MTI3Njk5LC0xNDczNDY3NzIyLC0xNjkx
-NDM2NzJdfQ==
+eyJoaXN0b3J5IjpbLTY4ODAxMDY5NCwtMTUxMDI3NDgyLC0xNz
+kxMDA0MjQ5LC0xMjA3NDg0MTg2LDE5NDYxMjc2OTksLTE0NzM0
+Njc3MjIsLTE2OTE0MzY3Ml19
 -->
