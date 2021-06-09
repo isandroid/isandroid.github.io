@@ -76,12 +76,14 @@ Dan kepada Sulaiman *Kami tundukkan* angin, perjalanan paginya sama dengan sebul
 Tafsir: Maksud dijadikannya angin taat kepada beliau, bukanlah berarti bahwa beliau As membuat penemuan piring terbang, sebagaimana sebagian mufasir menceritakan kisah seperti itu, tapi yang dimaksud di sini adalah angin kencang yang bertiup dari pantai ke lautan yang berubah arah setiap bulan. Dan dengan kekuatan angin ini perahu melaju, dan kemudian kembali. Inilah yang diinginkan oleh ayat ini. Nabi Daud As diberi kekuatan atas besi. Sedangkan Nabi Sulaiman As diberi kecerdasan yang luar biasa yaitu menemukan tambang tembaga, dan diajari cara mengolahnya di berbagai industri. Tentang **jin**, sudah diterangkan saat menerangkan tentang Nabi Daud As yang dimaksud adalah orang-orang gunung yang gagah dan tangguh. Ayat berikutnya menerangkan bagaimana mereka sangat rajin dan tangguh di dalam memikul tanggung jawab yang tidak mungkin bisa dikerjakan oleh orang biasa. Di dalam penjelasan secara detail diterangkan pertama tentang benteng besar, kemudian tentang patung, kuali yang sangat besar sebesar kolam, dan periuk yang sangat besar dan berat sehingga tidak bisa dipindahkan ke tempat lain. Dan periuk itu untuk mempersiapkan makan tentara agung beliau As. Setelah menyebut tentang nikmat-nikmat itu, ditekankan bukan hanya kepada Nabi Daud As, tapi juga kepada anak keturunan beliau As tentang pentingnya bersyukur, yakni sepanjang mereka bersyukur nikmat ini tidak akan ditarik. Kemudian di masa keturunan Nabi Sulaiman As nikmat ini terputus, karena mereka tidak punya kemampuan kerohanian dan hikmat kebijaksanaan.
 
 ---
+Mereka berkata, “Mahasuci Engkau, Engkaulah Pelindung kami terhadap mereka. Tidak, bahkan mereka menyembah **jin**, kepadanyalah kebanyakan mereka beriman.” (QS Saba' [34]: 42)
 
+Tafsir: Saba' ayat 41-42 : Diterangkan tentang orang musyrik yang menjadikan orang-orang besarnya sebagai tuhan. Di sini yang dimaksud **jin** adalah para pemimpin ini. Orang-orang musyrik terkadang menjadikan malaikat sebagai sembahan. Ini hanya tuduhan palsu kepada malaikat. Dan malaikat akan menzahirkan ketidakterlibatan mereka dari hal itu pada hari kiamat.
 
 ### Syetan
 
 ### Iblis
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExMjYwNTExLC0xNDczNDY3NzIyLC0xNj
+eyJoaXN0b3J5IjpbNDc2ODkzMjcxLC0xNDczNDY3NzIyLC0xNj
 kxNDM2NzJdfQ==
 -->
