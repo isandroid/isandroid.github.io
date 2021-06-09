@@ -1,6 +1,9 @@
 ---
-
-
+<h2 id="title-beberapa-hal-tentang-jin-syetan-dan-iblislayout-posttags-gaibdescription-beberapa-penjelasan-tentang-jin-syetan-dan-iblispublished-true">title: Beberapa Hal tentang Jin, Syetan dan Iblis<br>
+layout: post<br>
+tags: gaib<br>
+description: beberapa penjelasan tentang jin, syetan dan iblis<br>
+published: true</h2>
 ---
 
 <hr>
@@ -43,3 +46,6 @@ memudaratkan dan penyakit-penyakit berbahaya pun setan juga. Al-Qur’an,<br>
 hadis, dan pustaka Arab penuh dengan contoh-contoh, tempat kata “setan”<br>
 dengan bebasnya dipergunakan mengenai sesuatu atau segala sesuatu itu.</p>
 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTE2OTE0MzY3Ml19
+-->
