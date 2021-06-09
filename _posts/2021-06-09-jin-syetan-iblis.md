@@ -144,9 +144,11 @@ Tafsir: Larangan terhadap mengikuti **setan** segera menyusul perintah yang berh
 
 "Sesungguhnya ia hanya menyuruh kamu berbuat jahat dan keji dan *menyuruh* kamu mengatakan tentang Allah apa yang tidak kamu ketahui." (QS Al-Baqarah [2]: 170)
 
-Tafsir: 
+Tafsir: Mula-mula **Setan** mendorong manusia melakukan perbuatanperbuatan yang keburukannya tidak nampak jelas, sedangkan pengaruhnya hanya terbatas pada pelakunya. Kemudian, selangkah demi selangkah **setan** menjadikannya orang durhaka yang keras dan menjadikannya kehilangan segala rasa kesopanan.
 
+---
 
+"Hai orang-orang yang beriman, masuklah kamu ke dalam kepatuhan seutuhnya dan janganlah mengikuti langkah-langkah setan, sesungguhnya ia bagimu musuh yang nyata." (QS Al-Baqarah [2]: 20)
 
 
 ### Iblis
@@ -161,7 +163,7 @@ Bahwa **Iblīs** bukanlah **Syaitān** – yang disebut dalam dalam QS.2:37 jela
 
 Perbedaan ini – yang sangat besar artinya dan tetap dipertahankan dalam Al-Qur’an, sedikitnya pada sepuluh tempat (QS.2:35, 37; 7:12, 21; 15:32; 17:62; 18:51; 20:117, 121; dan QS.38:75) – jelas memperlihatkan bahwa **Iblis** itu berbeda dari **setan** yang menipu Adam As dan merupakan salah seorang dari kaum Nabi Adam As sendiri. Di tempat lain Al-Qur’an mengatakan bahwa, iblis tergolong makhluk-makhluk Allah tersembunyi dan – berlainan dari para malaikat – mampu menaati atau menentang Allah Swt (QS.7: 12, 13). 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0OTc1MDYwNCwtMTUxMDI3NDgyLC0xNz
+eyJoaXN0b3J5IjpbLTE5OTY3NjEzMSwtMTUxMDI3NDgyLC0xNz
 kxMDA0MjQ5LC0xMjA3NDg0MTg2LDE5NDYxMjc2OTksLTE0NzM0
 Njc3MjIsLTE2OTE0MzY3Ml19
 -->
