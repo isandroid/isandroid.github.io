@@ -64,12 +64,19 @@ Tafsir: QS Al-Hijr [15]: 27-30: Pada ayat-ayat ini ada dua hal yang perlu diperh
 Tafsir: **Jīn** di sini dapat diartikan gunung atau suku-suku bangsa yang liar. Ayat yang sedang ditafsirkan ini hendaknya dibandingkan dengan ayat-ayat dalam QS.21: 83; 34: 13 dan QS.38: 38. Agaknya kata itu merujuk kepada anggotaanggota balatentara Nabi Sulaiman AS. Ketiga kata – **Jīn**, Ins (manusia) dan Tair (burung-burung) – dapat menggambarkan tiga kesatuan lasykarnya. Dalam ayat ini dan dalam QS.34: 13, kata **Jīn** dipergunakan untuk menggambarkan satu seksi tertentu lasykar itu, sedang dalam QS.21: 83 dan QS.38: 38 kata **Syayātīn** dipergunakan untuk mengemukakan golongan itu juga. Rupanya Nabi Sulaiman As telah menundukkan dan menaklukkan suku bangsa liar. Itulah kira-kira arti kedua kata **Jīn** dan **Syayātīn**, yang merupakan bagian yang tak terpisahkan dari lasykarnya itu dan yang melakukan berbagai tugas berat untuknya. Kata Tair, berarti kuda-kuda yang bergerak cepat yang dapat menggambarkan pasukan berkuda Nabi Sulaiman As. Arti kata ini dikuatkan dalam QS.38: 32-34, di sana Nabi Sulaiman As dilukiskan mempunyai kegemaran yang besar terhadap kuda. Dengan demikian, di mana **Jīn** dan Ins (manusia) menggambarkan dua unit pasukan infantri Nabi Sulaiman AS, maka Tair (burung-burung) berarti pasukan kavalerinya. Akan tetapi jika Tair dapat dianggap berarti burung-burung yang sebenarnya, maka kata itu akan berarti burung-burung yang dipergunakan oleh Nabi Sulaiman As untuk mengirimkan pesan-pesan perintah. Oleh karena itu burung-burung itu pun merupakan pembantu yang sangat berguna dan perlu sekali bagi lasykarnya. Akan tetapi ketiga perkataan yang dipergunakan dalam arti kiasan itu, dapat diartikan masing-masing “orang-orang besar,” “orang-orang biasa,” dan “orang-orang berkerohanian tinggi.”
 
 ---
-Ifrit dari kalangan para **jin** berkata, “Aku akan membawanya kepada engkau sebelum engkau berdiri dari tempat engkau; dan sesungguhnya aku mempunyai kekuatan atas itu dan terpercaya.” (QS Anp)
+Ifrit dari kalangan para **jin** berkata, “Aku akan membawanya kepada engkau sebelum engkau berdiri dari tempat engkau; dan sesungguhnya aku mempunyai kekuatan atas itu dan terpercaya.” (QS An-Naml [27]:40)
+
+Tafsir: ‘Ifrīt berasal dari kata ‘Afara yang berarti, ia melemparkan dia ke tanah atau menghina dia, ialah suatu kata yang digunakan baik untuk manusia ataupun untuk **jin**; dan berarti, (1) seorang yang kuat dan gagah-perkasa; (2) tajam, gesit, dan efektif dalam menghadapi sesuatu urusan, melewati batas-batas biasa dalam urusan itu dengan kecerdasan dan kecerdikan; (3) seorang kepala, dan lain-lain (Lane).
+
+‘Ifriit yang dikatakan sebagai **jin**, bukanlah suatu **jin** yang dikenal secara umum. Pemimpin-pemimpin kejam dari orang-orang yang tinggal di gunung yang menjadi pengikut Nabi Sulaiman As pun disebut **jin**.
+
+---
+
 
 ### Syetan
 
 ### Iblis
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5Mzc3MTUyNTYsLTE0NzM0Njc3MjIsLT
-E2OTE0MzY3Ml19
+eyJoaXN0b3J5IjpbMzY4MDMzMDI3LC0xNDczNDY3NzIyLC0xNj
+kxNDM2NzJdfQ==
 -->
