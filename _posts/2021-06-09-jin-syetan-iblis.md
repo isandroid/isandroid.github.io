@@ -19,10 +19,14 @@ Kesimpulan ini selanjutnya didukung oleh QS.17: 66 yang menurut ayat itu, Iblis 
 
 ### Jin
 
+Allah Ta'ala berfirman dalam QS Al-An'aam [6]: 101
+
+Dan mereka menjadikan jin-jin\ sebagai sekutu bagi Allah padahal Dia menciptakan mereka; dan mereka telah mengada-adakan anak-anak lelaki dan anak-anak perempuan bagi-Nya tanpa ilmu. Mahasuci Dia dan Mahaluhur dari apa yang mereka sifatkan.
+
 ### Syetan
 
 ### Iblis
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1NzY4MjI4LC0xNDczNDY3NzIyLC0xNj
+eyJoaXN0b3J5IjpbOTQ1NzQ2MDg2LC0xNDczNDY3NzIyLC0xNj
 kxNDM2NzJdfQ==
 -->
