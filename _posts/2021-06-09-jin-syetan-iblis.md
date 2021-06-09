@@ -87,10 +87,15 @@ Tafsir: Golongan **jin** yang diisyaratkan dalam ayat ini adalah orang-orang Yah
 
 **Jin-jin** yang disebut dalam ayat ini bukanlah **jin-jin** yang digambarkan secara umum, akan tetapi mereka itu adalah para pemimpin besar suatu kaum yang telah mengambil keputusan setelah melihat sendiri mengenai kabar tentang Rasulullah Saw. Maka, setelah mereka kembali kepada kaumnya, mereka menceritakan khabar suka mengenai kebenaran Rasulullah Saw.
 
+---
+Mereka berkata, “Hai kaum kami, sesungguhnya kami telah mendengar sebuah kitab yang telah diturunkan sesudah Musa, yang membenarkan apa yang ada sebelumnya; dan membimbing kepada kebenaran dan kepada jalan yang lurus;” (QS Al-Ahqaf [46]:31)
+
+Tafsir: 
+
 ### Syetan
 
 ### Iblis
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMTM0Mzk5MDksLTE0NzM0Njc3MjIsLT
-E2OTE0MzY3Ml19
+eyJoaXN0b3J5IjpbOTkzNDgzMjkxLC0xNDczNDY3NzIyLC0xNj
+kxNDM2NzJdfQ==
 -->
