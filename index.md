@@ -32,8 +32,6 @@ layout: beranda
 {% endif %}
 {% endfor %}
 
-{% comment %}
-
 - [Tata Cara Shalat Id](/2021/05/01/shalat-hari-raya.html)
 
 {% endcomment %}
@@ -100,5 +98,5 @@ var x = setInterval(function() {
 
 {% endcomment %}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxNTI1MjAxMV19
+eyJoaXN0b3J5IjpbLTY5NjI2OTk3Ml19
 -->
