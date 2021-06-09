@@ -122,13 +122,15 @@ Tafsir: Karena kata Rijāl hanya dipakai mengenai manusia, ayat ini menunjukkan 
 Tafsir QS Al-Jinn [72] ayat 2-10: Di dalam ayat-ayat tersebut ada dua hal patut diterangkan secara khusus, yakni **Jin** yang hadir di hadapan Rasulullah Saw adalah pembesar-pembesar dari suatu kaum dan itu bukanlah **Jin** sungguhan yang ada dalam khayalan. Oleh karena itu, mereka pun di tempat itu telah menyalakan api untuk memasak makanannya dan para sahabat ra kemudian telah melihat sisa-sisa bahan bakar dan bekas-bekas makanan yang mereka buat. Tentang mereka ini kuat dugaan bahwa mereka adalah satu delegasi orang-orang Bani Israil yang tinggal di Afganistan yang adalah para pemuka dan pemimpin kaumnya. Mereka telah memutuskan untuk menyelidiki langsung setelah mendengar pendakwaan Rasulullah Saw. Mereka bukan hanya berdialog panjang lebar lalu menerima kebenaran beliau Saw dengan sepenuh hati, bahkan mereka menolak akidah yang merusak, yaitu sebagimana yang dilakukan orang-orang bodoh yang menganggap bahwa Allah Ta’ala tidak akan mengutus nabi lagi. Setelah mereka kembali kepada kaumnya dan saat itu mereka membuat seluruh Afganistan menjadi Muslim.
 
 ---
-"Dari jin dan manusia." (QS An-Naas [114])
+"Dari **jin** dan manusia." (QS An-Naas [114]: 7)
+
+Tafsir: Si Jahat membisikkan pikiran-pikiran jahat ke dalam hati golongan **Jīn** (orang-orang besar) maupun golongan Nās (orang-orang awam), tanpa seorang pun terkecuali. Atau, ayat ini dapat juga berarti, bahwa si pembisik pikiran jahat itu, terdapat di antara golongan **Jin** (orang-orang besar) dan orang-orang awam.
 
 
 ### Syetan
 
 ### Iblis
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzEwMzIzOTQsLTE0NzM0Njc3MjIsLT
-E2OTE0MzY3Ml19
+eyJoaXN0b3J5IjpbMTk0NjEyNzY5OSwtMTQ3MzQ2NzcyMiwtMT
+Y5MTQzNjcyXX0=
 -->
