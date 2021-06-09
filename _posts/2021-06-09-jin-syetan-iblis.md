@@ -119,14 +119,16 @@ Tafsir: Di ayat ini diterangkan tentang golongan **jin** dan manusia. **Jin** te
 
 Tafsir: Karena kata Rijāl hanya dipakai mengenai manusia, ayat ini menunjukkan bahwa “serombongan **jin**” yang tersebut dalam ayat ini dan dalam Surah al-Ahqaf itu adalah manusia dan bukan suatu jenis makhluk lain mana pun. Kata Arab **jin** di sini, dapat berarti orang-orang besar dan berpengaruh, dan Ins – orang-orang rendah dan hina, yang dengan mengikuti golongan tersebut pertama dan mencari lindungan mereka itu, meningkatkan kesombongan dan keangkuhan mereka.
 
+Tafsir QS Al-Jinn [72] ayat 2-10: Di dalam ayat-ayat tersebut ada dua hal patut diterangkan secara khusus, yakni **Jin** yang hadir di hadapan Rasulullah Saw adalah pembesar-pembesar dari suatu kaum dan itu bukanlah **Jin** sungguhan yang ada dalam khayalan. Oleh karena itu, mereka pun di tempat itu telah menyalakan api untuk memasak makanannya dan para sahabat ra kemudian telah melihat sisa-sisa bahan bakar dan bekas-bekas makanan yang mereka buat. Tentang mereka ini kuat dugaan bahwa mereka adalah satu delegasi orang-orang Bani Israil yang tinggal di Afganistan yang adalah para pemuka dan pemimpin kaumnya. Mereka telah memutuskan untuk menyelidiki langsung setelah mendengar pendakwaan Rasulullah Saw. Mereka bukan hanya berdialog panjang lebar lalu menerima kebenaran beliau Saw dengan sepenuh hati, bahkan mereka menolak akidah yang merusak, yaitu sebagimana yang dilakukan orang-orang bodoh yang menganggap bahwa Allah Ta’ala tidak akan mengutus nabi lagi. Setelah mereka kembali kepada kaumnya dan saat itu mereka membuat seluruh Afganistan menjadi Muslim.
 
 ---
+"Dari jin dan manusia." (QS An-Naas [114])
 
 
 ### Syetan
 
 ### Iblis
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0OTg3MTIwNCwtMTQ3MzQ2NzcyMiwtMT
-Y5MTQzNjcyXX0=
+eyJoaXN0b3J5IjpbLTEzMzEwMzIzOTQsLTE0NzM0Njc3MjIsLT
+E2OTE0MzY3Ml19
 -->
