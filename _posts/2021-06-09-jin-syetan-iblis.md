@@ -90,12 +90,17 @@ Tafsir: Golongan **jin** yang diisyaratkan dalam ayat ini adalah orang-orang Yah
 ---
 Mereka berkata, “Hai kaum kami, sesungguhnya kami telah mendengar sebuah kitab yang telah diturunkan sesudah Musa, yang membenarkan apa yang ada sebelumnya; dan membimbing kepada kebenaran dan kepada jalan yang lurus;” (QS Al-Ahqaf [46]:31)
 
+Tafsir: Ayat ini menunjukkan bahwa golongan **jin** yang disebut dalam ayat sebelumnya adalah orang-orang Yahudi, sebab mereka mengatakan tentang Al-Qur’an sebagai “kitab yang telah diturunkan sesudah Musa.”
+
+---
+"Dan tidaklah Aku ciptakan jin dan manusia melainkan supaya mereka beribadah kepadaKu." (QS AL-DZĀRIYĀT [51]: 57)
+
 Tafsir: 
 
 ### Syetan
 
 ### Iblis
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTkzNDgzMjkxLC0xNDczNDY3NzIyLC0xNj
-kxNDM2NzJdfQ==
+eyJoaXN0b3J5IjpbLTkyNTU0NDYzMSwtMTQ3MzQ2NzcyMiwtMT
+Y5MTQzNjcyXX0=
 -->
