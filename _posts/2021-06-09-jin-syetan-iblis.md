@@ -80,10 +80,13 @@ Mereka berkata, “Mahasuci Engkau, Engkaulah Pelindung kami terhadap mereka. Ti
 
 Tafsir: Saba' ayat 41-42 : Diterangkan tentang orang musyrik yang menjadikan orang-orang besarnya sebagai tuhan. Di sini yang dimaksud **jin** adalah para pemimpin ini. Orang-orang musyrik terkadang menjadikan malaikat sebagai sembahan. Ini hanya tuduhan palsu kepada malaikat. Dan malaikat akan menzahirkan ketidakterlibatan mereka dari hal itu pada hari kiamat.
 
+---
+Dan ingatlah ketika b Kami hadapkan kepada engkau segolongan dari **jin** yang ingin mendengarkan Al-Qur’an, maka ketika mereka hadir saat pembacaannya mereka berkata satu sama lain, “Diamlah dan dengarkanlah!” Dan ketika telah selesai, mereka kembali kepada kaumnya untuk memberi peringatan
+
 ### Syetan
 
 ### Iblis
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDc2ODkzMjcxLC0xNDczNDY3NzIyLC0xNj
+eyJoaXN0b3J5IjpbOTQ0MzM0MTQ1LC0xNDczNDY3NzIyLC0xNj
 kxNDM2NzJdfQ==
 -->
