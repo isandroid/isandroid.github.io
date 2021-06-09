@@ -38,12 +38,15 @@ Tafsir: Kata-kata “manusia dan **jin**” yang terdapat pada banyak tempat dal
 
 Tafsir: Ma‘syar berarti segolongan orang yang mempunyai urusan dan kepentingan yang sama (Lane). Dalam ayat ini sebutan **Jinn** jelas menunjukkan orang-orang besar dan orang-orang kuat sebagai lawan kata Ins, yakni golongan orang-orang lemah dan miskin (rakyat jelata).
 
-Ayat ini memberikan bukti lagi atas kenyataan bahwa kata **Jin** di sini hanya berarti satu golongan manusia, yaitu orang-orang besar dan orang-orang berpengaruh, sebab hanya segolongan manusia juga memeras tenaga golongan lain. Sedangkan Jin sebagai makhluk lain yang bukan-manusia, tak pernah memperbudak manusia. Begitu pun sepanjang pengetahuan kita Utusan-utusan Ilahi tak pernah dibangkitkan dari antara mereka.
+Ayat ini memberikan bukti lagi atas kenyataan bahwa kata **Jin** di sini hanya berarti satu golongan manusia, yaitu orang-orang besar dan orang-orang berpengaruh, sebab hanya segolongan manusia juga memeras tenaga golongan lain. Sedangkan **Jin** sebagai makhluk lain yang bukan-manusia, tak pernah memperbudak manusia. Begitu pun sepanjang pengetahuan kita Utusan-utusan Ilahi tak pernah dibangkitkan dari antara mereka.
+
+---
+”Hai golongan **jin** dan manusia! Tidakkah telah datang kepadamu rasul-rasul dari antaramu yang menyampaikan kepadamu tanda-tanda-Ku dan memperingatkan kamu mengenai pertemuan pada harimu ini?” Mereka berkata, “Kami menjadi saksi atas diri kami sendiri.” Tetapi kehidupan dunia telah memperdayakan mereka, dan a mereka telah menjadi saksi atas diri mereka sendiri bahwa mereka adalah orang-orang kafir
 
 ### Syetan
 
 ### Iblis
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDE2ODkxNzksLTE0NzM0Njc3MjIsLT
-E2OTE0MzY3Ml19
+eyJoaXN0b3J5IjpbMjIwNjU5MzEyLC0xNDczNDY3NzIyLC0xNj
+kxNDM2NzJdfQ==
 -->
