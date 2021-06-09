@@ -34,14 +34,16 @@ Allah Ta'ala berfirman,
 Tafsir: Kata-kata “manusia dan **jin**” yang terdapat pada banyak tempat dalam ayat-ayat Al-Qur’an bukan berarti ada dua jenis makhluk Allah yang berlainan melainkan dua golongan makhluk manusia, Ins (manusia) mengisyaratkan kepada orang-orang awam atau rakyat jelata, sedangkan **Jin** dikatakan kepada orang-orang besar yang biasa hidup memisahkan diri dari rakyat jelata dan tidak berbaur dengan mereka, boleh dikatakan tinggal tersembunyi dari penglihatan umum.
 
 ---
-"Dan *ingatlah* hari ketika Dia akan menghimpun mereka semua, *Dia berfirman*, “Hai golongan jin! Sungguh kamu telah menarik banyak manusia *ke dalam golonganmu*, dan kawan-kawan mereka dari kalangan manusia" (QS Al-An'aam [6]: 129)
+"Dan *ingatlah* hari ketika Dia akan menghimpun mereka semua, *Dia berfirman*, “Hai golongan jin! Sungguh kamu telah menarik banyak manusia *ke dalam golonganmu*, dan kawan-kawan mereka dari kalangan manusia berkata, “Wahai Tuhan kami, sebagian kami telah mengambil keuntungan dari sebagian yang lainnya, dan kami telah sampai kepada batas waktu kami yang telah Engkau tetapkan bagi kami.” Dia berfirman, Api itulah tempat tinggalmu, kamu akan tinggal lama di dalamnya, kecuali apa yang Allah kehendaki.” Sesungguhnya Tuhan engkau Mahabijaksana, Maha Mengetahui." (QS Al-An'aam [6]: 129)
 
+Tafsir: Ma‘syar berarti segolongan orang yang mempunyai urusan dan kepentingan yang sama (Lane). Dalam ayat ini sebutan **Jinn** jelas menunjukkan orang-orang besar dan orang-orang kuat sebagai lawan kata Ins, yakni golongan orang-orang lemah dan miskin (rakyat jelata).
 
+Ayat ini memberikan bukti lagi atas kenyataan bahwa kata **Jin** di sini hanya berarti satu golongan manusia, yaitu orang-orang besar dan orang-orang berpengaruh, sebab hanya segolongan manusia juga memeras tenaga golongan lain. Sedangkan Jin sebagai makhluk lain yang bukan-manusia, tak pernah memperbudak manusia. Begitu pun sepanjang pengetahuan kita Utusan-utusan Ilahi tak pernah dibangkitkan dari antara mereka.
 
 ### Syetan
 
 ### Iblis
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzMDY3MTEsLTE0NzM0Njc3MjIsLTE2OT
-E0MzY3Ml19
+eyJoaXN0b3J5IjpbLTE3MDE2ODkxNzksLTE0NzM0Njc3MjIsLT
+E2OTE0MzY3Ml19
 -->
