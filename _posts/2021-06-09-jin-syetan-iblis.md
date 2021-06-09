@@ -148,8 +148,11 @@ Tafsir: Mula-mula **Setan** mendorong manusia melakukan perbuatanperbuatan yang 
 
 ---
 
-"Hai orang-orang yang beriman, masuklah kamu ke dalam kepatuhan seutuhnya dan janganlah mengikuti langkah-langkah setan, sesungguhnya ia bagimu musuh yang nyata." (QS Al-Baqarah [2]: 20)
+"Hai orang-orang yang beriman, masuklah kamu ke dalam kepatuhan seutuhnya dan janganlah mengikuti langkah-langkah **setan**, sesungguhnya ia bagimu musuh yang nyata." (QS Al-Baqarah [2]: 209)
 
+---
+
+"Tidak ada paksaan dalam agama. Sungguh jalan benar itu nyata bedanya dari kesesatan, karena itu barangsiapa ingkar kepada **Tāghūt** dan beriman kepada Allah, maka sungguh ia telah berpegang kepada suatu pegangan yang sangat kuat lagi tidak akan putus, dan Allah Maha Mendengar, Maha Mengetahui." 
 
 ### Iblis
 
@@ -163,7 +166,7 @@ Bahwa **Iblīs** bukanlah **Syaitān** – yang disebut dalam dalam QS.2:37 jela
 
 Perbedaan ini – yang sangat besar artinya dan tetap dipertahankan dalam Al-Qur’an, sedikitnya pada sepuluh tempat (QS.2:35, 37; 7:12, 21; 15:32; 17:62; 18:51; 20:117, 121; dan QS.38:75) – jelas memperlihatkan bahwa **Iblis** itu berbeda dari **setan** yang menipu Adam As dan merupakan salah seorang dari kaum Nabi Adam As sendiri. Di tempat lain Al-Qur’an mengatakan bahwa, iblis tergolong makhluk-makhluk Allah tersembunyi dan – berlainan dari para malaikat – mampu menaati atau menentang Allah Swt (QS.7: 12, 13). 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTY3NjEzMSwtMTUxMDI3NDgyLC0xNz
-kxMDA0MjQ5LC0xMjA3NDg0MTg2LDE5NDYxMjc2OTksLTE0NzM0
-Njc3MjIsLTE2OTE0MzY3Ml19
+eyJoaXN0b3J5IjpbLTE4NTM1ODI3MjksLTE1MTAyNzQ4MiwtMT
+c5MTAwNDI0OSwtMTIwNzQ4NDE4NiwxOTQ2MTI3Njk5LC0xNDcz
+NDY3NzIyLC0xNjkxNDM2NzJdfQ==
 -->
