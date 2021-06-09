@@ -95,12 +95,15 @@ Tafsir: Ayat ini menunjukkan bahwa golongan **jin** yang disebut dalam ayat sebe
 ---
 "Dan tidaklah Aku ciptakan jin dan manusia melainkan supaya mereka beribadah kepadaKu." (QS AL-DZĀRIYĀT [51]: 57)
 
-Tafsir: 
+Tafsir: Di ayat ini yang dimaksud dengan **jin** dan manusia adalah pembesar–pembesar dan orangorang awam, bangsa yang besar dan bangsa yang kecil. Tujuan dijadikan keduanya adalah untuk beribadah kepada Allah Swt. Kalau yang dimaksud **jin** adalah makhluk **jin** yang dikenal secara umum, maka mereka pun tentu harus mendapat ganjaran karena beribadat yakni mereka pun harus diberi khabar gembira untuk masuk surga, tetapi dimanapun tidak disebutkan bahwa para **jin** itu akan masuk surga.
+
+---
+
 
 ### Syetan
 
 ### Iblis
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkyNTU0NDYzMSwtMTQ3MzQ2NzcyMiwtMT
-Y5MTQzNjcyXX0=
+eyJoaXN0b3J5IjpbLTIxNDMwODc2MzgsLTE0NzM0Njc3MjIsLT
+E2OTE0MzY3Ml19
 -->
