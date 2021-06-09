@@ -160,7 +160,13 @@ Tafsir: **Tāghūt** adalah orang yang bertindak melampaui batas-batas kewajaran
 
 "**Setan** menakut-nakuti kamu dengan kemiskinan, dan menyuruhmu berbuat kekejian, padahal Allah menjanjikan kepadamu ampunan dan karunia dari-Nya. Dan Allah Mahaluas karunia-Nya, Maha Mengetahui."
 
-Tafsir: 
+Tafsir: Faqara berarti: ia membuat lubang ke dalam mutiara; Faqura berarti, ia menjadi miskin dan kekurangan dan Faqira berarti, ia mengidap penyakit tulang punggung. Jadi Faqr berarti kemiskinan; kekurangan atau keperluan yang sangat memberatkan kehidupan si miskin; kesusahan atau kecemasan atau kegelisahan pikir (Lane).
+
+Ayat ini melenyapkan prarasa takut yang dibisikkan **setan** bahwa membelanjakan harta dengan sukarela di jalan Allah dapat menjadikan seseorang jatuh miskin; sebaliknya ayat itu menerangkan dengan tegas bahwa bila orang-orang kaya tidak membelanjakan dengan sukarela dalam urusan yang baik, akibatnya ialah faqr nasional, artinya, negeri akan menderita dalam bidang ekonomi dan akan mengalami kemerosotan akhlak, karena bila keperluan ekonomi anggota-anggota masyarakat yang kurang beruntung tidak terpenuhi secara layak, mereka akan cenderung menempuh Fahsyā’ (cara yang buruk dan bertentangan dengan akhlak baik) untuk mencari nafkah mereka.
+
+----
+
+Orang-orang ayang memakan riba350 mereka tidak berdiri melainkan seperti berdirinya orang yang dirasuk setan dengan penyakit gila.351 Hal itu karena mereka berkata, “Sesungguhnya jual-beli itu sama dengan riba”, padahal Allah menghalalkan jualbeli dan mengharamkan riba
 
 ### Iblis
 
@@ -174,7 +180,7 @@ Bahwa **Iblīs** bukanlah **Syaitān** – yang disebut dalam dalam QS.2:37 jela
 
 Perbedaan ini – yang sangat besar artinya dan tetap dipertahankan dalam Al-Qur’an, sedikitnya pada sepuluh tempat (QS.2:35, 37; 7:12, 21; 15:32; 17:62; 18:51; 20:117, 121; dan QS.38:75) – jelas memperlihatkan bahwa **Iblis** itu berbeda dari **setan** yang menipu Adam As dan merupakan salah seorang dari kaum Nabi Adam As sendiri. Di tempat lain Al-Qur’an mengatakan bahwa, iblis tergolong makhluk-makhluk Allah tersembunyi dan – berlainan dari para malaikat – mampu menaati atau menentang Allah Swt (QS.7: 12, 13). 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzkwNDI2MjUsLTE1MTAyNzQ4MiwtMT
+eyJoaXN0b3J5IjpbLTEwMzIyNTk1NjYsLTE1MTAyNzQ4MiwtMT
 c5MTAwNDI0OSwtMTIwNzQ4NDE4NiwxOTQ2MTI3Njk5LC0xNDcz
 NDY3NzIyLC0xNjkxNDM2NzJdfQ==
 -->
