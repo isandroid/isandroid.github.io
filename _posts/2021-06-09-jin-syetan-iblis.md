@@ -71,12 +71,12 @@ Tafsir: ‘Ifrīt berasal dari kata ‘Afara yang berarti, ia melemparkan dia ke
 ‘Ifriit yang dikatakan sebagai **jin**, bukanlah suatu **jin** yang dikenal secara umum. Pemimpin-pemimpin kejam dari orang-orang yang tinggal di gunung yang menjadi pengikut Nabi Sulaiman As pun disebut **jin**.
 
 ---
-
+Dan kepada Sulaiman Kami tundukkan angin, perjalanan paginya sama dengan sebulan perjalanan dan perjalanan petangnya sama dengan sebulan perjalanan. Dan Kami mengalirkan sumber cairan tembaga untuknya. Dan sebagian jin-jin ada yang bekerja di bawah perintahnya dengan izin Tuhannya. Dan Kami berfirman bahwa barangsiapa dari mereka menyimpang dari perintah Kami, Kami membuatnya merasakan azab api yang menyala-nyala.
 
 ### Syetan
 
 ### Iblis
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzY4MDMzMDI3LC0xNDczNDY3NzIyLC0xNj
-kxNDM2NzJdfQ==
+eyJoaXN0b3J5IjpbLTIwMTE3OTMzNjQsLTE0NzM0Njc3MjIsLT
+E2OTE0MzY3Ml19
 -->
