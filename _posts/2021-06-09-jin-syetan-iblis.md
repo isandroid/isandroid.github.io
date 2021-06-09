@@ -33,10 +33,15 @@ Allah Ta'ala berfirman,
 
 Tafsir: Kata-kata “manusia dan **jin**” yang terdapat pada banyak tempat dalam ayat-ayat Al-Qur’an bukan berarti ada dua jenis makhluk Allah yang berlainan melainkan dua golongan makhluk manusia, Ins (manusia) mengisyaratkan kepada orang-orang awam atau rakyat jelata, sedangkan **Jin** dikatakan kepada orang-orang besar yang biasa hidup memisahkan diri dari rakyat jelata dan tidak berbaur dengan mereka, boleh dikatakan tinggal tersembunyi dari penglihatan umum.
 
+---
+"Dan *ingatlah* hari ketika Dia akan menghimpun mereka semua, *Dia berfirman*, “Hai golongan jin! Sungguh kamu telah menarik banyak manusia *ke dalam golonganmu*, dan kawan-kawan mereka dari kalangan manusia" (QS Al-An'aam [6]: 129)
+
+
+
 ### Syetan
 
 ### Iblis
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTk5Mjg5MjE0LC0xNDczNDY3NzIyLC0xNj
-kxNDM2NzJdfQ==
+eyJoaXN0b3J5IjpbMTMzMDY3MTEsLTE0NzM0Njc3MjIsLTE2OT
+E0MzY3Ml19
 -->
