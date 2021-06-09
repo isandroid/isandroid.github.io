@@ -176,7 +176,10 @@ Tafsir: Kata-kata itu berarti: (1) **setan** berupaya membuat orang-orang mukmin
 
 ---
 
-"Dan mengenai orang-orang yang menginfakkan harta mereka agar dilihat manusia, mereka tidak beriman kepada Allah dan tidak pula kepada Hari Kemudian, mereka adalah kawan-kawan setan. Dan barangsiapa yang menjadikan setan sebagai kawan bagi dirinya, maka ia adalah seburuk-buruk kawan." (QS AN-Nisa [4]: 39)
+"Dan *mengenai* orang-orang yang menginfakkan harta mereka agar dilihat manusia, mereka tidak beriman kepada Allah dan tidak pula kepada Hari Kemudian, *mereka adalah kawan-kawan setan*. Dan barangsiapa yang menjadikan setan sebagai kawan bagi dirinya, maka ia adalah seburuk-buruk kawan." (QS AN-Nisa [4]: 39)
+
+---
+"Apakah engkau tidak pernah melihat orang-orang yang mengaku bahwa mereka telah beriman kepada apa yang diturunkan kepada engkau dan kepada apa yang diturunkan sebelum engkau? Mereka ingin berhakim kepada orang-orang yang melampaui batas, padahal mereka sungguh telah diperintahkan supaya menolaknya, dan setan ingin menyesatkan mereka dengan penyesatan yang sejauhjauhnya."
 
 ### Iblis
 
@@ -190,7 +193,7 @@ Bahwa **Iblīs** bukanlah **Syaitān** – yang disebut dalam dalam QS.2:37 jela
 
 Perbedaan ini – yang sangat besar artinya dan tetap dipertahankan dalam Al-Qur’an, sedikitnya pada sepuluh tempat (QS.2:35, 37; 7:12, 21; 15:32; 17:62; 18:51; 20:117, 121; dan QS.38:75) – jelas memperlihatkan bahwa **Iblis** itu berbeda dari **setan** yang menipu Adam As dan merupakan salah seorang dari kaum Nabi Adam As sendiri. Di tempat lain Al-Qur’an mengatakan bahwa, iblis tergolong makhluk-makhluk Allah tersembunyi dan – berlainan dari para malaikat – mampu menaati atau menentang Allah Swt (QS.7: 12, 13). 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjgzODE1NzcxLDE2ODAwMjI3NywtMTUxMD
-I3NDgyLC0xNzkxMDA0MjQ5LC0xMjA3NDg0MTg2LDE5NDYxMjc2
-OTksLTE0NzM0Njc3MjIsLTE2OTE0MzY3Ml19
+eyJoaXN0b3J5IjpbLTE4MDAzNzAxNDUsMTY4MDAyMjc3LC0xNT
+EwMjc0ODIsLTE3OTEwMDQyNDksLTEyMDc0ODQxODYsMTk0NjEy
+NzY5OSwtMTQ3MzQ2NzcyMiwtMTY5MTQzNjcyXX0=
 -->
