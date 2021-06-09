@@ -135,10 +135,14 @@ Allah Ta'ala berfirman,
 
 Tafsir: **Syayātīn** berarti, para pemimpin pendurhaka (menurut Ibnu Abbas, Ibnu Mas’ud, Qatadah dan Mujahid). Rasulullah Saw diriwayatkan bersabda, “seorang pengendara (kuda yang bepergian) sendirian adalah **Syaitān**, dua pengendara pun sepasang **Syaitān**, tetapi tiga orang pengendara, adalah satu ‘pasukan pengendara’ (Dawud). Hadis ini mendukung pandangan bahwa, kata Syaitān tidak selamanya berarti **setan**.
 
+---
+
+
+
 
 
 ### Iblis
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDg4NDk2MjEsMTk0NjEyNzY5OSwtMT
+eyJoaXN0b3J5IjpbLTEyMDc0ODQxODYsMTk0NjEyNzY5OSwtMT
 Q3MzQ2NzcyMiwtMTY5MTQzNjcyXX0=
 -->
