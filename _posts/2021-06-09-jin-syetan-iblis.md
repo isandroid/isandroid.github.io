@@ -143,7 +143,7 @@ Tafsir: **Syayātīn** berarti, para pemimpin pendurhaka (menurut Ibnu Abbas, Ib
 
 ### Iblis
 
-
+"Dan ingatlah  ketika Kami berfirman kepada para malaikat: “Tunduklah65 kamu kepada Adam”, lalu mereka tunduk kecuali66 Iblis,67 ia menolak dan takabur, dan ia sejak semula termasuk yang ingkar.
 
 Tafsir: Kata **Iblīs** berasal dari Ablasa, yang berarti, (1) kebaikan dan kebajikannya berkurang; (2) ia sudah melepaskan harapan atau jadi putus asa akan kasih-sayang Tuhan; (3) telah patah semangat; (4) telah bingung dan tak mampu melihat jalannya; dan (5) ia tertahan dari mencapai harapannya. Berdasarkan akar-katanya, arti kata Iblis itu, suatu wujud yang sedikit sekali memiliki kebaikan tapi banyak kejahatan, dan disebabkan oleh rasa putus asa akan kasih-sayang Tuhan oleh sikap pembangkangannya sendiri, maka ia dibiarkan dalam kebingungan lagi pula tidak mampu melihat jalannya. 
 
@@ -153,6 +153,7 @@ Bahwa **Iblīs** bukanlah **Syaitān** – yang disebut dalam dalam QS.2:37 jela
 
 Perbedaan ini – yang sangat besar artinya dan tetap dipertahankan dalam Al-Qur’an, sedikitnya pada sepuluh tempat (QS.2:35, 37; 7:12, 21; 15:32; 17:62; 18:51; 20:117, 121; dan QS.38:75) – jelas memperlihatkan bahwa **Iblis** itu berbeda dari **setan** yang menipu Adam As dan merupakan salah seorang dari kaum Nabi Adam As sendiri. Di tempat lain Al-Qur’an mengatakan bahwa, iblis tergolong makhluk-makhluk Allah tersembunyi dan – berlainan dari para malaikat – mampu menaati atau menentang Allah Swt (QS.7: 12, 13). 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTEwMDQyNDksLTEyMDc0ODQxODYsMT
-k0NjEyNzY5OSwtMTQ3MzQ2NzcyMiwtMTY5MTQzNjcyXX0=
+eyJoaXN0b3J5IjpbNjQ4NTY4NzgzLC0xNzkxMDA0MjQ5LC0xMj
+A3NDg0MTg2LDE5NDYxMjc2OTksLTE0NzM0Njc3MjIsLTE2OTE0
+MzY3Ml19
 -->
