@@ -100,12 +100,18 @@ Tafsir: Di ayat ini yang dimaksud dengan **jin** dan manusia adalah pembesar–p
 ---
 "Maka yang manakah di antara nikmat-nikmat Tuhan kamu berdua yang kamu dustakan, hai jin dan manusia?" (QS A-Rahman [55]: 14) 
 
-Tafsir: Bentuk ganda dalam kata Tukadz-dzibān boleh dipergunakan untuk dua golongan – jin dan manusia – seperti diisyaratkan dalam ayat 34, atau dapat berarti golongan manusia, yaitu, orang-orang mukmin dan orang-orang kafir, pemimpinpemimpin dan para pengikut mereka, si kaya dan si miskin atau bangsa-bangsa kulit putih dan bangsa-bangsa kulit berwama. Atau, bentuk ganda itu mungkin telah dipergunakan guna memberikan tekanan arti dalam menyatakan kewibawaan perintah yang terkandung dalam berbagai ayat. Bentuk ganda demikian biasa dipergunakan dalam bahasa Arab. Lihat juga QS.50: 25. Menurut riwayat, Rasulullah Saw pernah bersabda bahwa bila ayat ini dibacakan, orang-orang mukmin yang hadir hendaknya memberi tanggapan dengan mengucapkan katakata, “Tiada dari nikmat-nikmat Engkau, ya Tuhan kami, yang kami ingkari, dan kepunyaan Allah-lah segala puji” (Katsir).
+Tafsir: Bentuk ganda dalam kata Tukadz-dzibān boleh dipergunakan untuk dua golongan – **jin** dan manusia – seperti diisyaratkan dalam ayat 34, atau dapat berarti golongan manusia, yaitu, orang-orang mukmin dan orang-orang kafir, pemimpin-pemimpin dan para pengikut mereka, si kaya dan si miskin atau bangsa-bangsa kulit putih dan bangsa-bangsa kulit berwama. Atau, bentuk ganda itu mungkin telah dipergunakan guna memberikan tekanan arti dalam menyatakan kewibawaan perintah yang terkandung dalam berbagai ayat. Bentuk ganda demikian biasa dipergunakan dalam bahasa Arab. Lihat juga QS.50: 25. Menurut riwayat, Rasulullah Saw pernah bersabda bahwa bila ayat ini dibacakan, orang-orang mukmin yang hadir hendaknya memberi tanggapan dengan mengucapkan kata-kata, “Tiada dari nikmat-nikmat Engkau, ya Tuhan kami, yang kami ingkari, dan kepunyaan Allah-lah segala puji” (Katsir).
+
+---
+
+"Dan Dia menciptakan **jin-jin** dari nyala api." (QS Ar-Rahman: [55]: 16)
+
+Tafsir:
 
 ### Syetan
 
 ### Iblis
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcxNzgxNjc1OCwtMTQ3MzQ2NzcyMiwtMT
-Y5MTQzNjcyXX0=
+eyJoaXN0b3J5IjpbLTE1NzI5NDk4NjUsLTE0NzM0Njc3MjIsLT
+E2OTE0MzY3Ml19
 -->
