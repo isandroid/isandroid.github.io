@@ -59,11 +59,14 @@ Tafsir: QS Al-Hijr [15]: 27-30: Pada ayat-ayat ini ada dua hal yang perlu diperh
 
 ---
 
+"Dan dihimpunkan bagi Sulaiman lasykar-lasykarnya bersama-sama, terdiri dari **jin**, manusia, dan burung, dan mereka dijadikan barisan-barisan yang tertib secara terpisah." (QS An-Naml [27]: 18)
+
+Tafsir: **Jīn** di sini dapat diartikan gunung atau suku-suku bangsa yang liar. Ayat yang sedang ditafsirkan ini hendaknya dibandingkan dengan ayat-ayat dalam QS.21: 83; 34: 13 dan QS.38: 38. Agaknya kata itu merujuk kepada anggotaanggota balatentara Nabi Sulaiman AS. Ketiga kata – Jīn, Ins (manusia) dan Tair (burung-burung) – dapat menggambarkan tiga kesatuan lasykarnya. Dalam ayat ini dan dalam QS.34: 13, kata J ī n dipergunakan untuk menggambarkan satu seksi tertentu lasykar itu, sedang dalam QS.21: 83 dan QS.38: 38 kata Syayātīn dipergunakan untuk mengemukakan golongan itu juga. Rupanya Nabi Sulaiman As telah menundukkan dan menaklukkan suku bangsa liar. Itulah kira-kira arti kedua kata J ī n dan Syayātīn, yang merupakan bagian yang tak terpisahkan dari lasykarnya itu dan yang melakukan berbagai tugas berat untuknya. Kata Tair, berarti kuda-kuda yang bergerak cepat yang dapat menggambarkan pasukan berkuda Nabi Sulaiman As. Arti kata ini dikuatkan dalam QS.38: 32-34, di sana Nabi Sulaiman As dilukiskan mempunyai kegemaran yang besar terhadap kuda. Dengan demikian, di mana J ī n dan Ins (manusia) menggambarkan dua unit pasukan infantri Nabi Sulaiman AS, maka Tair (burung-burung) berarti pasukan kavalerinya. Akan tetapi jika Tair dapat dianggap berarti burung-burung yang sebenarnya, maka kata itu akan berarti burung-burung yang dipergunakan oleh Nabi Sulaiman As untuk mengirimkan pesan-pesan perintah. Oleh karena itu burung-burung itu pun merupakan pembantu yang sangat berguna dan perlu sekali bagi lasykarnya. Akan tetapi ketiga perkataan yang dipergunakan dalam arti kiasan itu, dapat diartikan masing-masing “orang-orang besar,” “orang-orang biasa,” dan “orang-orang berkerohanian tinggi.”
 
 ### Syetan
 
 ### Iblis
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODE5NDgyNjA1LC0xNDczNDY3NzIyLC0xNj
-kxNDM2NzJdfQ==
+eyJoaXN0b3J5IjpbLTM3MjA1MjE5MSwtMTQ3MzQ2NzcyMiwtMT
+Y5MTQzNjcyXX0=
 -->
