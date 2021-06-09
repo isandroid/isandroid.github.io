@@ -71,14 +71,17 @@ Tafsir: ‘Ifrīt berasal dari kata ‘Afara yang berarti, ia melemparkan dia ke
 ‘Ifriit yang dikatakan sebagai **jin**, bukanlah suatu **jin** yang dikenal secara umum. Pemimpin-pemimpin kejam dari orang-orang yang tinggal di gunung yang menjadi pengikut Nabi Sulaiman As pun disebut **jin**.
 
 ---
-Dan kepada Sulaiman *Kami tundukkan* angin, perjalanan paginya sama dengan sebulan *perjalanan* dan perjalanan petangnya sama dengan sebulan *perjalanan*. Dan Kami mengalirkan sumber cairan tembaga untuknya. Dan sebagian jin-jin ada yang bekerja di bawah perintahnya dengan izin Tuhannya. Dan *Kami berfirman* bahwa barangsiapa dari mereka menyimpang dari perintah Kami, Kami membuatnya merasakan azab api yang menyala-nyala. (QS Saba' [34]: 13)
+Dan kepada Sulaiman *Kami tundukkan* angin, perjalanan paginya sama dengan sebulan *perjalanan* dan perjalanan petangnya sama dengan sebulan *perjalanan*. Dan Kami mengalirkan sumber cairan tembaga untuknya. Dan sebagian **jin-jin** ada yang bekerja di bawah perintahnya dengan izin Tuhannya. Dan *Kami berfirman* bahwa barangsiapa dari mereka menyimpang dari perintah Kami, Kami membuatnya merasakan azab api yang menyala-nyala. (QS Saba' [34]: 13)
 
-Tafsir: Maksud dijadikannya angin taat kepada beliau, bukanlah berarti bahwa beliau As membuat penemuan piring terbang, sebagaimana sebagian mufasir menceritakan kisah seperti itu, tapi yang 
+Tafsir: Maksud dijadikannya angin taat kepada beliau, bukanlah berarti bahwa beliau As membuat penemuan piring terbang, sebagaimana sebagian mufasir menceritakan kisah seperti itu, tapi yang dimaksud di sini adalah angin kencang yang bertiup dari pantai ke lautan yang berubah arah setiap bulan. Dan dengan kekuatan angin ini perahu melaju, dan kemudian kembali. Inilah yang diinginkan oleh ayat ini. Nabi Daud As diberi kekuatan atas besi. Sedangkan Nabi Sulaiman As diberi kecerdasan yang luar biasa yaitu menemukan tambang tembaga, dan diajari cara mengolahnya di berbagai industri. Tentang **jin**, sudah diterangkan saat menerangkan tentang Nabi Daud As yang dimaksud adalah orang-orang gunung yang gagah dan tangguh. Ayat berikutnya menerangkan bagaimana mereka sangat rajin dan tangguh di dalam memikul tanggung jawab yang tidak mungkin bisa dikerjakan oleh orang biasa. Di dalam penjelasan secara detail diterangkan pertama tentang benteng besar, kemudian tentang patung, kuali yang sangat besar sebesar kolam, dan periuk yang sangat besar dan berat sehingga tidak bisa dipindahkan ke tempat lain. Dan periuk itu untuk mempersiapkan makan tentara agung beliau As. Setelah menyebut tentang nikmat-nikmat itu, ditekankan bukan hanya kepada Nabi Daud As, tapi juga kepada anak keturunan beliau As tentang pentingnya bersyukur, yakni sepanjang mereka bersyukur nikmat ini tidak akan ditarik. Kemudian di masa keturunan Nabi Sulaiman As nikmat ini terputus, karena mereka tidak punya kemampuan kerohanian dan hikmat kebijaksanaan.
+
+---
+
 
 ### Syetan
 
 ### Iblis
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNDU5ODM4NzEsLTE0NzM0Njc3MjIsLT
-E2OTE0MzY3Ml19
+eyJoaXN0b3J5IjpbMjExMjYwNTExLC0xNDczNDY3NzIyLC0xNj
+kxNDM2NzJdfQ==
 -->
