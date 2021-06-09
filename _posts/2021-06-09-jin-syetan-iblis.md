@@ -91,7 +91,7 @@ Tafsir: Golongan **jin** yang diisyaratkan dalam ayat ini adalah orang-orang Yah
 
 **Jin-jin** yang disebut dalam ayat ini bukanlah **jin-jin** yang digambarkan secara umum, akan tetapi mereka itu adalah para pemimpin besar suatu kaum yang telah mengambil keputusan setelah melihat sendiri mengenai kabar tentang Rasulullah Saw. Maka, setelah mereka kembali kepada kaumnya, mereka menceritakan khabar suka mengenai kebenaran Rasulullah Saw.
 
-Isyarat ini mungkin tertuju kepada segolongan orang Yahudi dari Nashibin. Mereka bukan bangsa Arab dan karena merupakan orang-orang asing, mereka disebut “**jin**,” yang berarti antara lain ‘orang asing’ (Lane). Peristiwa yang disebut dalam ayat ini, agaknya lain dari peristiwa yang disebut dalam QS.46: 30-33, meskipun ayat ini dianggap oleh beberapa sumber merujuk kepada ayat-ayat itu, sebab kata-kata yang diucapkan oleh “jin” dalam ayat ini mempunyai kemiripan dengan kata-kata yang diucapkan oleh segolongan jin yang disebut dalam QS.46: 30-33.
+Isyarat ini mungkin tertuju kepada segolongan orang Yahudi dari Nashibin. Mereka bukan bangsa Arab dan karena merupakan orang-orang asing, mereka disebut “**jin**,” yang berarti antara lain ‘orang asing’ (Lane). Peristiwa yang disebut dalam ayat ini, agaknya lain dari peristiwa yang disebut dalam QS.46: 30-33, meskipun ayat ini dianggap oleh beberapa sumber merujuk kepada ayat-ayat itu, sebab kata-kata yang diucapkan oleh “**jin**” dalam ayat ini mempunyai kemiripan dengan kata-kata yang diucapkan oleh segolongan jin yang disebut dalam QS.46: 30-33.
 
 ---
 Mereka berkata, “Hai kaum kami, sesungguhnya kami telah mendengar sebuah kitab yang telah diturunkan sesudah Musa, yang membenarkan apa yang ada sebelumnya; dan membimbing kepada kebenaran dan kepada jalan yang lurus;” (QS Al-Ahqaf [46]:31)
@@ -115,10 +115,14 @@ Tafsir: Di ayat ini diterangkan tentang golongan **jin** dan manusia. **Jin** te
 
 ---
 
+"Dan sesungguhnya ada beberapa orang dari manusia yang meminta perlindungan kepada beberapa orang dari jin, maka dengan demikian mereka telah menambah kesombongan jin.” (QS Al-Jinn [72]: 7)
+
+Tafsir: 
+
 ### Syetan
 
 ### Iblis
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5MzU5MTcxLC0xNDczNDY3NzIyLC0xNj
+eyJoaXN0b3J5IjpbLTEwNjg5MTMxLC0xNDczNDY3NzIyLC0xNj
 kxNDM2NzJdfQ==
 -->
