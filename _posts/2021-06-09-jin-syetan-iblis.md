@@ -53,12 +53,17 @@ Tafsir: Huruf Lam (Lā) di sini Lam ‘Āqibat yang menyatakan kesudahan atau ak
 ---
 "Dan sebelumnya telah Kami jadikan jin dari api angin yang panas." (QS Al-Hijr [15]: 28)
 
-Tafsir: Sebuah ungkapan Al-Qur’an yang serupa ini, ialah “manusia dijadikan dari ketergesa-gesaan” (QS.21: 38) menunjukkan, bahwa ayat yang sedang dalam pembahasan ini berarti, bahwa jin memiliki pembawaan seperti api dan bukan bahwa makhluk jin itu sesungguhnya dibuat dari api. Dengan demikian “dijadikannya dari tanah liat” mengandung arti, berpembawaan lemah lembut dan suka tunduk, sedangkan “dijadikannya dari api” mengandung arti, bertabiat seperti api dan mudah menyala.
+Tafsir: Sebuah ungkapan Al-Qur’an yang serupa ini, ialah “manusia dijadikan dari ketergesa-gesaan” (QS.21: 38) menunjukkan, bahwa ayat yang sedang dalam pembahasan ini berarti, bahwa **jin** memiliki pembawaan seperti api dan bukan bahwa makhluk **jin** itu sesungguhnya dibuat dari api. Dengan demikian “dijadikannya dari tanah liat” mengandung arti, berpembawaan lemah lembut dan suka tunduk, sedangkan “dijadikannya dari api” mengandung arti, bertabiat seperti api dan mudah menyala.
+
+Tafsir: QS Al-Hijr [15]: 27-30: Pada ayat-ayat ini ada dua hal yang perlu diperhatikan: yang pertama, manusia itu tidak hanya dijadikan dari tanah liat, tapi dari tanah liat yang telah berbau busuk, kemudian menjadi tanah kering yang mendenting. Ini merupakan topik yang tidak terlintas di pikiran Rasulullah Saw sendiri. Di dalam kitab suci lain pun tidak ada yang menyebutkan penciptaan manusia dari tanah yang mendenting. Masalah ini telah terpecahkan oleh ilmuwan pada masa kini. Kedua, sebelum penciptaan manusia, **Jin** diciptakan dari udara yang sangat panas bagaikan api tercurah dari langit. Topik ini sama sekali tidak terbayangkan oleh Rasulullah Saw, selama Tuhan Yang Maha Mengetahui yang gaib tidak memberi tahu beliau Saw. Jin yang diciptakan dari ‘nār al-samum’ adalah bakteri-bakteri. Masalah bagaimana terjadinya tanah liat yang telah berbau itu terpecahkan, yaitu, selama bakteri tidak ada, tidak bisa terjadi pencemaran atau proses pencemaran di tanah yang basah.
+
+---
+
 
 ### Syetan
 
 ### Iblis
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxNDM1NTA3MiwtMTQ3MzQ2NzcyMiwtMT
-Y5MTQzNjcyXX0=
+eyJoaXN0b3J5IjpbLTIxMzU1MjYwOTksLTE0NzM0Njc3MjIsLT
+E2OTE0MzY3Ml19
 -->
