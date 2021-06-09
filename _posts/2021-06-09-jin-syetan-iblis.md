@@ -152,7 +152,15 @@ Tafsir: Mula-mula **Setan** mendorong manusia melakukan perbuatanperbuatan yang 
 
 ---
 
-"Tidak ada paksaan dalam agama. Sungguh jalan benar itu nyata bedanya dari kesesatan, karena itu barangsiapa ingkar kepada **Tāghūt** dan beriman kepada Allah, maka sungguh ia telah berpegang kepada suatu pegangan yang sangat kuat lagi tidak akan putus, dan Allah Maha Mendengar, Maha Mengetahui." 
+"Tidak ada paksaan dalam agama. Sungguh jalan benar itu nyata bedanya dari kesesatan, karena itu barangsiapa ingkar kepada **Tāghūt** dan beriman kepada Allah, maka sungguh ia telah berpegang kepada suatu pegangan yang sangat kuat lagi tidak akan putus, dan Allah Maha Mendengar, Maha Mengetahui." (QS Al-Baqarah [2]: 257)
+
+Tafsir: **Tāghūt** adalah orang yang bertindak melampaui batas-batas kewajaran; **Setan**; orang-orang yang menyesatkan orang lain dari jalan lurus dan benar; segala bentuk berhala. Kata itu dipakai baik dalam bentuk mufrad maupun jamak (QS.2: 258 dan QS.4: 61).
+
+---
+
+"**Setan** menakut-nakuti kamu dengan kemiskinan, dan menyuruhmu berbuat kekejian, padahal Allah menjanjikan kepadamu ampunan dan karunia dari-Nya. Dan Allah Mahaluas karunia-Nya, Maha Mengetahui."
+
+Tafsir: 
 
 ### Iblis
 
@@ -166,7 +174,7 @@ Bahwa **Iblīs** bukanlah **Syaitān** – yang disebut dalam dalam QS.2:37 jela
 
 Perbedaan ini – yang sangat besar artinya dan tetap dipertahankan dalam Al-Qur’an, sedikitnya pada sepuluh tempat (QS.2:35, 37; 7:12, 21; 15:32; 17:62; 18:51; 20:117, 121; dan QS.38:75) – jelas memperlihatkan bahwa **Iblis** itu berbeda dari **setan** yang menipu Adam As dan merupakan salah seorang dari kaum Nabi Adam As sendiri. Di tempat lain Al-Qur’an mengatakan bahwa, iblis tergolong makhluk-makhluk Allah tersembunyi dan – berlainan dari para malaikat – mampu menaati atau menentang Allah Swt (QS.7: 12, 13). 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTM1ODI3MjksLTE1MTAyNzQ4MiwtMT
+eyJoaXN0b3J5IjpbLTIxMzkwNDI2MjUsLTE1MTAyNzQ4MiwtMT
 c5MTAwNDI0OSwtMTIwNzQ4NDE4NiwxOTQ2MTI3Njk5LC0xNDcz
 NDY3NzIyLC0xNjkxNDM2NzJdfQ==
 -->
