@@ -115,14 +115,18 @@ Tafsir: Di ayat ini diterangkan tentang golongan **jin** dan manusia. **Jin** te
 
 ---
 
-"Dan sesungguhnya ada beberapa orang dari manusia yang meminta perlindungan kepada beberapa orang dari jin, maka dengan demikian mereka telah menambah kesombongan jin.” (QS Al-Jinn [72]: 7)
+"Dan sesungguhnya ada beberapa orang dari manusia yang meminta perlindungan kepada beberapa orang dari **jin**, maka dengan demikian mereka telah menambah kesombongan **jin**.” (QS Al-Jinn [72]: 7)
 
-Tafsir: 
+Tafsir: Karena kata Rijāl hanya dipakai mengenai manusia, ayat ini menunjukkan bahwa “serombongan **jin**” yang tersebut dalam ayat ini dan dalam Surah al-Ahqaf itu adalah manusia dan bukan suatu jenis makhluk lain mana pun. Kata Arab **jin** di sini, dapat berarti orang-orang besar dan berpengaruh, dan Ins – orang-orang rendah dan hina, yang dengan mengikuti golongan tersebut pertama dan mencari lindungan mereka itu, meningkatkan kesombongan dan keangkuhan mereka.
+
+
+---
+
 
 ### Syetan
 
 ### Iblis
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjg5MTMxLC0xNDczNDY3NzIyLC0xNj
-kxNDM2NzJdfQ==
+eyJoaXN0b3J5IjpbMTQ0OTg3MTIwNCwtMTQ3MzQ2NzcyMiwtMT
+Y5MTQzNjcyXX0=
 -->
