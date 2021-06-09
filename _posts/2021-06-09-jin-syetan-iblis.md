@@ -98,12 +98,14 @@ Tafsir: Ayat ini menunjukkan bahwa golongan **jin** yang disebut dalam ayat sebe
 Tafsir: Di ayat ini yang dimaksud dengan **jin** dan manusia adalah pembesar–pembesar dan orangorang awam, bangsa yang besar dan bangsa yang kecil. Tujuan dijadikan keduanya adalah untuk beribadah kepada Allah Swt. Kalau yang dimaksud **jin** adalah makhluk **jin** yang dikenal secara umum, maka mereka pun tentu harus mendapat ganjaran karena beribadat yakni mereka pun harus diberi khabar gembira untuk masuk surga, tetapi dimanapun tidak disebutkan bahwa para **jin** itu akan masuk surga.
 
 ---
+"Maka yang manakah di antara nikmat-nikmat Tuhan kamu berdua yang kamu dustakan, hai jin dan manusia?" (QS A-Rahman [55]: 14) 
 
+Tafsir: Bentuk ganda dalam kata Tukadz-dzibān boleh dipergunakan untuk dua golongan – jin dan manusia – seperti diisyaratkan dalam ayat 34, atau dapat berarti golongan manusia, yaitu, orang-orang mukmin dan orang-orang kafir, pemimpinpemimpin dan para pengikut mereka, si kaya dan si miskin atau bangsa-bangsa kulit putih dan bangsa-bangsa kulit berwama. Atau, bentuk ganda itu mungkin telah dipergunakan guna memberikan tekanan arti dalam menyatakan kewibawaan perintah yang terkandung dalam berbagai ayat. Bentuk ganda demikian biasa dipergunakan dalam bahasa Arab. Lihat juga QS.50: 25. Menurut riwayat, Rasulullah Saw pernah bersabda bahwa bila ayat ini dibacakan, orang-orang mukmin yang hadir hendaknya memberi tanggapan dengan mengucapkan katakata, “Tiada dari nikmat-nikmat Engkau, ya Tuhan kami, yang kami ingkari, dan kepunyaan Allah-lah segala puji” (Katsir).
 
 ### Syetan
 
 ### Iblis
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNDMwODc2MzgsLTE0NzM0Njc3MjIsLT
-E2OTE0MzY3Ml19
+eyJoaXN0b3J5IjpbMTcxNzgxNjc1OCwtMTQ3MzQ2NzcyMiwtMT
+Y5MTQzNjcyXX0=
 -->
