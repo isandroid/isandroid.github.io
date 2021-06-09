@@ -46,14 +46,14 @@ Ayat ini memberikan bukti lagi atas kenyataan bahwa kata **Jin** di sini hanya b
 Tafsir: Maksud perkataan ma‘syaral **jinni** (golongan **jin**) bukanlah suatu golongan di luar golongan manusia bahkan perkataan **jin** dan ins ini diisyarahkan kepada orang-orang besar atau bangsa besar dan orang kecil atau bangsa kecil. Kalau pilihan ini tidak benar maka bila datang kepada golongan jin seorang rasul dari antara kalangan **jin**, kemudian setelah beriman kepadanya mengapa kepada para **jin** tidak diberikan khabar suka berupa surga. Dari ayat-ayat Al-Qur’an di atas ataupun dari hadis dimanapun tidak didapati satu sebutan mengenai keberadaan **jin-jin** di surga.
 
 ---
-"Dan, sesungguhnya Kami telah menciptakan bagi Jahannam banyak di antara **jin** dan manusia. Mereka mempunyai hati, tetapi dengan itu mereka tidak memahami, dan mereka mempunyai mata; tetapi dengan itu mereka tidak melihat, dan mereka mempunyai telinga tetapi dengan itu mereka tidak mendengar. Mereka itu seperti binatang ternak, bahkan mereka lebih sesat. Mereka itulah orangorang yang lalai." (QS Al-A'raf [7]: )
+"Dan, sesungguhnya Kami telah menciptakan bagi Jahannam banyak di antara **jin** dan manusia. Mereka mempunyai hati, tetapi dengan itu mereka tidak memahami, dan mereka mempunyai mata; tetapi dengan itu mereka tidak melihat, dan mereka mempunyai telinga tetapi dengan itu mereka tidak mendengar. Mereka itu seperti binatang ternak, bahkan mereka lebih sesat. Mereka itulah orangorang yang lalai." (QS Al-A'raf [7]: 180)
 
-
+Tafsir: Huruf Lam (Lā) di sini Lam ‘Āqibat yang menyatakan kesudahan atau akibat. Dengan demikian ayat ini tidak ada hubungannya dengan tujuan kejadian manusia melainkan hanya menyebutkan kesudahan yang patut disesalkan mengenai kehidupan kebanyakan Ins (manusia) dan **Jin** (kata **jin** itu juga mempunyai arti golongan manusia yang istimewa, yakni penguasapenguasa atau pemuka-pemuka atau orang-orang besar). Dari cara mereka menjalani hidup mereka dalam berbuat dosa dan kedurhakaan nampak seolah-olah mereka telah diciptakan untuk masuk neraka.
 
 ### Syetan
 
 ### Iblis
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyMDc5MjY5LC0xNDczNDY3NzIyLC0xNj
-kxNDM2NzJdfQ==
+eyJoaXN0b3J5IjpbMTMzNTA4MzY3MiwtMTQ3MzQ2NzcyMiwtMT
+Y5MTQzNjcyXX0=
 -->
