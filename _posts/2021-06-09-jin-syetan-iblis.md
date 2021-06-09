@@ -107,12 +107,14 @@ Tafsir: Bentuk ganda dalam kata Tukadz-dzibān boleh dipergunakan untuk dua golo
 ---
 "Hai, golongan jin dan manusia, seandainya kamu memiliki kesanggupan untuk menembus batas-batas langit dan bumi, maka tembuslah. Namun kamu tidak akan dapat menembusnya kecuali dengan kekuasaan" (QS A-Rahman [55]: 34)
 
-Tafsir:  
+Tafsir: Di ayat ini diterangkan tentang golongan **jin** dan manusia. **Jin** telah dipahami sebagai mahluk aneh dan ajaib. Pada jaman itu (untuk **Jin**) dapat dikatakan ‘aqtharu samawati wal ardhi’ (mereka berusaha keluar dari langit dan bumi), akan tetapi untuk ‘Ins’ (manusia) tidaklah dapat dibayangkan bahwa mereka pun dapat ‘aqtharu samawati wal ardhi’. Di sini satu hal yang perlu perhatian secara khusus, yaitu bahwasanya Allah Swt tidak hanya berfirman, ‘aqtharul ardhi’ (menembus bumi), akan tetapi berfirman ‘menembus langit dan bumi’ yakni akan berusaha melintasi seluruh alam semesta hanya dengan sekali loncatan saja. Yang dimaksud ‘illa bi sulthan’ adalah ‘mereka akan berusaha, tapi mereka akan berhasil hanya dengan pembuktian yang kuat saja mereka itu akan dapat berhasil’. Inilah yang terjadi pada zaman ini. Para ahli Astronomi yang mencermati secara mendalam hanya dengan pembuktian dalil-dalil yang unggul dapat meraih informasi dari jarak sejauh 20 milyar tahun cahaya. Secara fisik hal ini tidak mungkin dilakukan. 
+
+---
 
 ### Syetan
 
 ### Iblis
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTM2NDkzMjksLTE0NzM0Njc3MjIsLT
-E2OTE0MzY3Ml19
+eyJoaXN0b3J5IjpbMjEwMzMzOTA3MywtMTQ3MzQ2NzcyMiwtMT
+Y5MTQzNjcyXX0=
 -->
