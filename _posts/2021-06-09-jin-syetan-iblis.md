@@ -50,10 +50,15 @@ Tafsir: Maksud perkataan ma‘syaral **jinni** (golongan **jin**) bukanlah suatu
 
 Tafsir: Huruf Lam (Lā) di sini Lam ‘Āqibat yang menyatakan kesudahan atau akibat. Dengan demikian ayat ini tidak ada hubungannya dengan tujuan kejadian manusia melainkan hanya menyebutkan kesudahan yang patut disesalkan mengenai kehidupan kebanyakan Ins (manusia) dan **Jin** (kata **jin** itu juga mempunyai arti golongan manusia yang istimewa, yakni penguasapenguasa atau pemuka-pemuka atau orang-orang besar). Dari cara mereka menjalani hidup mereka dalam berbuat dosa dan kedurhakaan nampak seolah-olah mereka telah diciptakan untuk masuk neraka.
 
+---
+"Dan sebelumnya telah Kami jadikan jin dari api angin yang panas." (QS Al-Hijr [15]: 28)
+
+Tafsir: Sebuah ungkapan Al-Qur’an yang serupa ini, ialah “manusia dijadikan dari ketergesa-gesaan” (QS.21: 38) menunjukkan, bahwa ayat yang sedang dalam pembahasan ini berarti, bahwa jin memiliki pembawaan seperti api dan bukan bahwa makhluk jin itu sesungguhnya dibuat dari api. Dengan demikian “dijadikannya dari tanah liat” mengandung arti, berpembawaan lemah lembut dan suka tunduk, sedangkan “dijadikannya dari api” mengandung arti, bertabiat seperti api dan mudah menyala.
+
 ### Syetan
 
 ### Iblis
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzNTA4MzY3MiwtMTQ3MzQ2NzcyMiwtMT
+eyJoaXN0b3J5IjpbMTgxNDM1NTA3MiwtMTQ3MzQ2NzcyMiwtMT
 Y5MTQzNjcyXX0=
 -->
