@@ -88,6 +88,8 @@ Setelah itu [bapak Suripto](/2021/05/25/dzikir-khoir-muhammad-suripto-hadi-siswo
 
 Kemudian ada bapak Pono Edi Sunargo (baiat) dan mengembangkan Jemaat di Banjarnegara.
 
+Beberapa diantara anggota Jemaat Bawang ada yang transmigrasi ke Papua dan mendirikan Jemaat di sana.  
+
 ### Pendirian Jemaat
 
 Setelah mempunyai Jamaah yang cukup banyak, maka didirikanlah cabang Jemaat lokal Banjarnegara. Ketua pertama dijabat oleh pak Ahmad Dahlan (putra H Ali). Sekretaris dijabat oleh Hadi Wardoyo. Harjono menjabat sebagai Bendahara.
@@ -108,6 +110,6 @@ Setelah mempunyai Jamaah yang cukup banyak, maka didirikanlah cabang Jemaat loka
 ### Catatan Kaki
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzg1ODMxNTQxLC0zNTY4ODgzNTcsMjA2NT
-cyNDIyNiw4MDc4NDEyMzJdfQ==
+eyJoaXN0b3J5IjpbLTE4NzIwNDU2MzUsNzg1ODMxNTQxLC0zNT
+Y4ODgzNTcsMjA2NTcyNDIyNiw4MDc4NDEyMzJdfQ==
 -->
