@@ -21,12 +21,20 @@ Kesimpulan ini selanjutnya didukung oleh QS.17: 66 yang menurut ayat itu, Iblis 
 
 Allah Ta'ala berfirman dalam QS Al-An'aam [6]: 101
 
-Dan mereka menjadikan jin-jin\ sebagai sekutu bagi Allah padahal Dia menciptakan mereka; dan mereka telah mengada-adakan anak-anak lelaki dan anak-anak perempuan bagi-Nya tanpa ilmu. Mahasuci Dia dan Mahaluhur dari apa yang mereka sifatkan.
+Dan mereka menjadikan **jin-jin** sebagai sekutu bagi Allah padahal Dia menciptakan mereka; dan mereka telah mengada-adakan anak-anak lelaki dan anak-anak perempuan bagi-Nya tanpa ilmu. Mahasuci Dia dan Mahaluhur dari apa yang mereka sifatkan.
+
+Tafsir: **Jin** adalah wujud yang sembunyi atau memencilkan diri dari orangorang awam. Ayat itu berarti bahwa manusia tergelincir bila ia menolak wahyu Ilahi dan mengikuti pertimbangan akalnya sendiri, lalu menyekutukan jin dan malaikat-malaikat dengan Tuhan dan menisbahkan anak laki-laki dan anak perempuan kepada Dia.
+
+---
+
+Allah Ta'ala
+
+"Dan dengan cara demikian Kami telah menjadikan orang-orang jahat di antara manusia dan jin900 musuh bagi setiap nabi. Sebagian mereka membisikkan kepada sebagian lainnya perkataan indah untuk mengelabui. Dan jika Tuhan engkau menghendaki, mereka tidak akan mengerjakannya; maka biarkanlah mereka dengan apa yang mereka ada-adakan,
 
 ### Syetan
 
 ### Iblis
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQ1NzQ2MDg2LC0xNDczNDY3NzIyLC0xNj
+eyJoaXN0b3J5IjpbNDk3NzY4NDAxLC0xNDczNDY3NzIyLC0xNj
 kxNDM2NzJdfQ==
 -->
