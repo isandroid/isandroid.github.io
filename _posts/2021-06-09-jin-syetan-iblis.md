@@ -105,11 +105,14 @@ Tafsir: Di ayat ini yang dimaksud dengan **jin** dan manusia adalah pembesar–p
 Tafsir: Bentuk ganda dalam kata Tukadz-dzibān boleh dipergunakan untuk dua golongan – **jin** dan manusia – seperti diisyaratkan dalam ayat 34, atau dapat berarti golongan manusia, yaitu, orang-orang mukmin dan orang-orang kafir, pemimpin-pemimpin dan para pengikut mereka, si kaya dan si miskin atau bangsa-bangsa kulit putih dan bangsa-bangsa kulit berwama. Atau, bentuk ganda itu mungkin telah dipergunakan guna memberikan tekanan arti dalam menyatakan kewibawaan perintah yang terkandung dalam berbagai ayat. Bentuk ganda demikian biasa dipergunakan dalam bahasa Arab. Lihat juga QS.50: 25. Menurut riwayat, Rasulullah Saw pernah bersabda bahwa bila ayat ini dibacakan, orang-orang mukmin yang hadir hendaknya memberi tanggapan dengan mengucapkan kata-kata, “Tiada dari nikmat-nikmat Engkau, ya Tuhan kami, yang kami ingkari, dan kepunyaan Allah-lah segala puji” (Katsir).
 
 ---
+"Hai, golongan jin dan manusia, seandainya kamu memiliki kesanggupan untuk menembus batas-batas langit dan bumi, maka tembuslah. Namun kamu tidak akan dapat menembusnya kecuali dengan kekuasaan" (QS A-Rahman [55]: 34)
+
+Tafsir:  
 
 ### Syetan
 
 ### Iblis
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjkyNzUxNTYsLTE0NzM0Njc3MjIsLT
+eyJoaXN0b3J5IjpbLTE0MTM2NDkzMjksLTE0NzM0Njc3MjIsLT
 E2OTE0MzY3Ml19
 -->
