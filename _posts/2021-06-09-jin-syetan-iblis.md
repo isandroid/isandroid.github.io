@@ -170,6 +170,10 @@ Ayat ini melenyapkan prarasa takut yang dibisikkan **setan** bahwa membelanjakan
 
 ---
 
+"Sesungguhnya yang demikian itu adalah **setan** yang menakut-nakuti  sahabat-sahabatnya, karena itu janganlah kamu takut kepada mereka tetapi takutlah kepada-Ku jika kamu orang-orang beriman." (QS Ali 'Imran [3]: 176)
+
+Tafsir: Kata-kata itu berarti: (1) **setan** berupaya membuat orang-orang mukmin takut terhadap orang-orang kafir, sahabat-sahabatnya (2) dengan rencananya, **setan** hanya berhasil menakut-nakuti temannya sendiri, yaitu, orang-orang kafir.
+
 ### Iblis
 
 "Dan ingatlah ketika Kami berfirman kepada para malaikat: “Tunduklah kamu kepada Adam”, lalu mereka tunduk kecuali **Iblis**, ia menolak dan takabur, dan ia sejak semula termasuk yang ingkar." (QS Al-Baqarah [2]: 35)
@@ -182,7 +186,7 @@ Bahwa **Iblīs** bukanlah **Syaitān** – yang disebut dalam dalam QS.2:37 jela
 
 Perbedaan ini – yang sangat besar artinya dan tetap dipertahankan dalam Al-Qur’an, sedikitnya pada sepuluh tempat (QS.2:35, 37; 7:12, 21; 15:32; 17:62; 18:51; 20:117, 121; dan QS.38:75) – jelas memperlihatkan bahwa **Iblis** itu berbeda dari **setan** yang menipu Adam As dan merupakan salah seorang dari kaum Nabi Adam As sendiri. Di tempat lain Al-Qur’an mengatakan bahwa, iblis tergolong makhluk-makhluk Allah tersembunyi dan – berlainan dari para malaikat – mampu menaati atau menentang Allah Swt (QS.7: 12, 13). 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4MDAyMjc3LC0xNTEwMjc0ODIsLTE3OT
-EwMDQyNDksLTEyMDc0ODQxODYsMTk0NjEyNzY5OSwtMTQ3MzQ2
-NzcyMiwtMTY5MTQzNjcyXX0=
+eyJoaXN0b3J5IjpbMTQzOTkyNDcxNywxNjgwMDIyNzcsLTE1MT
+AyNzQ4MiwtMTc5MTAwNDI0OSwtMTIwNzQ4NDE4NiwxOTQ2MTI3
+Njk5LC0xNDczNDY3NzIyLC0xNjkxNDM2NzJdfQ==
 -->
