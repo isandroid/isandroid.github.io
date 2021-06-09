@@ -192,7 +192,11 @@ Tafsir: Kata-kata itu berarti: (1) **setan** berupaya membuat orang-orang mukmin
 ---
 “Dan pasti akan aku sesatkan mereka, dan pasti akan aku janjikan kepada mereka harapanharapan kosong, dan pasti akan aku suruh mereka memotong telinga binatang-binatang ternak, dan pasti akan aku suruh mereka merubah makhluk Allah.” Dan barangsiapa mengambil setan menjadi pelindung selain Allah, ia pasti mengalami kerugian yang nyata." (QS AN-Nisa [4]: 120)
 
+---
+"Ia memberikan janji kepada mereka dan menimbulkan harapan kosong kepada mereka, dan tidak ada yang dijanjikan setan kepada mereka kecuali tipuan belaka." (QS AN-Nisa [4]: 121)
 
+---
+Katakanlah, “Maukah aku beritahukan kepadamu yang lebih buruk dari itu  tentang pembalasan dari sisi Allah? Yaitu orang-orang yang dilaknat Allah, kepadanya Dia b murka dan menjadikan sebagian dari mereka kera-kera, babi-babi
 
 ### Iblis
 
@@ -206,7 +210,7 @@ Bahwa **Iblīs** bukanlah **Syaitān** – yang disebut dalam dalam QS.2:37 jela
 
 Perbedaan ini – yang sangat besar artinya dan tetap dipertahankan dalam Al-Qur’an, sedikitnya pada sepuluh tempat (QS.2:35, 37; 7:12, 21; 15:32; 17:62; 18:51; 20:117, 121; dan QS.38:75) – jelas memperlihatkan bahwa **Iblis** itu berbeda dari **setan** yang menipu Adam As dan merupakan salah seorang dari kaum Nabi Adam As sendiri. Di tempat lain Al-Qur’an mengatakan bahwa, iblis tergolong makhluk-makhluk Allah tersembunyi dan – berlainan dari para malaikat – mampu menaati atau menentang Allah Swt (QS.7: 12, 13). 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyMjc4MzA2NSwxNjgwMDIyNzcsLTE1MT
+eyJoaXN0b3J5IjpbMjA5NjUxNDQ1NywxNjgwMDIyNzcsLTE1MT
 AyNzQ4MiwtMTc5MTAwNDI0OSwtMTIwNzQ4NDE4NiwxOTQ2MTI3
 Njk5LC0xNDczNDY3NzIyLC0xNjkxNDM2NzJdfQ==
 -->
