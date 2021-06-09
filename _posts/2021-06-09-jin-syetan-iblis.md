@@ -83,7 +83,7 @@ Mereka berkata, “Mahasuci Engkau, Engkaulah Pelindung kami terhadap mereka. Ti
 Tafsir: Saba' ayat 41-42 : Diterangkan tentang orang musyrik yang menjadikan orang-orang besarnya sebagai tuhan. Di sini yang dimaksud **jin** adalah para pemimpin ini. Orang-orang musyrik terkadang menjadikan malaikat sebagai sembahan. Ini hanya tuduhan palsu kepada malaikat. Dan malaikat akan menzahirkan ketidakterlibatan mereka dari hal itu pada hari kiamat.
 
 ---
-Dan ingatlah ketika b Kami hadapkan kepada engkau segolongan dari **jin** yang ingin mendengarkan Al-Qur’an, maka ketika mereka hadir *saat pembacaannya* mereka berkata *satu sama lain*, “Diamlah dan dengarkanlah!” Dan ketika telah selesai, mereka kembali kepada kaumnya *untuk* memberi peringatan (QS Al-Ahqaf [46]:30)
+Dan ingatlah ketika b Kami hadapkan kepada engkau segolongan dari **jin** yang ingin mendengarkan Al-Qur’an, maka ketika mereka hadir *saat pembacaannya* mereka berkata *satu sama lain*, “Diamlah dan dengarkanlah!” Dan ketika telah selesai, mereka kembali kepada kaumnya *untuk* memberi peringatan (QS Al-Ahqaf [46]: 30)
 
 Tafsir: Golongan **jin** yang diisyaratkan dalam ayat ini adalah orang-orang Yahudi dari Nashibin, atau seperti sumber lain mengatakan, adalah orang-orang Yahudi dari Maushal atau Ninewe, Irak. Karena takut akan tentangan dari orang-orang Mekah, mereka menjumpai Rasulullah Saw pada waktu malam, dan setelah mendengarkan pembacaan Al-Qur’an dan tutur kata Rasulullah Saw mereka masuk Islam dan menyampaikan agama baru itu kepada kaum mereka yang juga dengan suka hati menerimanya (Bayan, jilid ke-8). Lihat juga QS.72:2.
 
@@ -115,6 +115,6 @@ Tafsir: Di ayat ini diterangkan tentang golongan **jin** dan manusia. **Jin** te
 
 ### Iblis
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwMzMzOTA3MywtMTQ3MzQ2NzcyMiwtMT
+eyJoaXN0b3J5IjpbLTM2MjE4ODY4NywtMTQ3MzQ2NzcyMiwtMT
 Y5MTQzNjcyXX0=
 -->
