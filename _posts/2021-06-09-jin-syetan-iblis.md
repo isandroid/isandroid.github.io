@@ -196,7 +196,7 @@ Tafsir: Kata-kata itu berarti: (1) **setan** berupaya membuat orang-orang mukmin
 "Ia memberikan janji kepada mereka dan menimbulkan harapan kosong kepada mereka, dan tidak ada yang dijanjikan **setan** kepada mereka kecuali tipuan belaka." (QS AN-Nisa [4]: 121)
 
 ---
-Katakanlah, “Maukah aku beritahukan kepadamu yang lebih buruk dari itu  tentang pembalasan dari sisi Allah? Yaitu orang-orang yang dilaknat Allah, kepadanya Dia murka dan menjadikan sebagian dari mereka kera-kera, babi-babi dan yang menyembah setan. Mereka itu berada di tempat yang buruk dan tersesat jauh dari jalan lurus. (QS Al-Maidah [5]: 61) 
+Katakanlah, “Maukah aku beritahukan kepadamu yang lebih buruk dari itu  tentang pembalasan dari sisi Allah? Yaitu orang-orang yang dilaknat Allah, kepadanya Dia murka dan menjadikan sebagian dari mereka kera-kera, babi-babi dan yang menyembah **setan**. Mereka itu berada di tempat yang buruk dan tersesat jauh dari jalan lurus. (QS Al-Maidah [5]: 61) 
 
 Tafsir: Kata-kata “kera” dan “babi” telah dipergunakan di sini dalam artian kiasan. Kebiasaan tertentu merupakan ciri khas binatang-binatang tertentu pula. Ciri-ciri khas itu tidak dapat digambarkan sepenuhnya kalau binatang yang mempunyai kebiasaan itu tidak disebut namanya dengan jelas. Kera terkenal karena sifat penirunya dan babi ditandai oleh kebiasaan-kebiasaan kotor dan tidak bermalu dan juga oleh kebodohannya. Ungkapan, “yang menyembah **setan**,” menunjukkan bahwa kata-kata “kera” dan “babi” telah dipergunakan di sini secara kiasan.
 
@@ -216,7 +216,7 @@ Bahwa **Iblīs** bukanlah **Syaitān** – yang disebut dalam dalam QS.2:37 jela
 
 Perbedaan ini – yang sangat besar artinya dan tetap dipertahankan dalam Al-Qur’an, sedikitnya pada sepuluh tempat (QS.2:35, 37; 7:12, 21; 15:32; 17:62; 18:51; 20:117, 121; dan QS.38:75) – jelas memperlihatkan bahwa **Iblis** itu berbeda dari **setan** yang menipu Adam As dan merupakan salah seorang dari kaum Nabi Adam As sendiri. Di tempat lain Al-Qur’an mengatakan bahwa, iblis tergolong makhluk-makhluk Allah tersembunyi dan – berlainan dari para malaikat – mampu menaati atau menentang Allah Swt (QS.7: 12, 13). 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4Njc1NzI0MzksMTY4MDAyMjc3LC0xNT
-EwMjc0ODIsLTE3OTEwMDQyNDksLTEyMDc0ODQxODYsMTk0NjEy
-NzY5OSwtMTQ3MzQ2NzcyMiwtMTY5MTQzNjcyXX0=
+eyJoaXN0b3J5IjpbMTg5ODc5MDg4OSwxNjgwMDIyNzcsLTE1MT
+AyNzQ4MiwtMTc5MTAwNDI0OSwtMTIwNzQ4NDE4NiwxOTQ2MTI3
+Njk5LC0xNDczNDY3NzIyLC0xNjkxNDM2NzJdfQ==
 -->
