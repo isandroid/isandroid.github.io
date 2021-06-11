@@ -71,7 +71,13 @@ Dalam perjalanan kembali dari Hudaibiyah, Nabi (saw) memberi tahu umat Islam aya
 
 Sesungguhnya Kami telah memberi kepada engkau satu kemenangan nyata. Supaya Allah melindungi engkau di masa lalu dari dosa-dosa yang dibuat terhadap engkau dan di masa yang akan datang, dan Dia menyempurnakan nikmat-Nya atas engkau; dan memberi petunjuk kepada engkau pada jalan yang lurus; Dan Allah akan menolong engkau dengan pertolongan yang perkasa.” (Al-Qur'an Surah al-Fath, 48:2-4)
 
+<p class="quran">
+لَّقَدۡ صَدَقَ اللّٰہُ رَسُوۡلَہُ الرُّءۡیَا بِالۡحَقِّ ۖ لَتَدۡخُلُنَّ الۡمَسۡجِدَ الۡحَرَامَ اِنۡ شَآءَ اللّٰہُ اٰمِنِیۡنَ مُحَلِّقِیۡنَ رُءُوۡسَکُمۡ وَمُقَصِّرِیۡنَ لَا تَخَافُوۡنَ ۖ فَعَلِمَ مَا لَمۡ تَعۡلَمُوۡا فَجَعَلَ مِنۡ دُوۡنِ ذٰلِکَ فَتۡحًا قَرِیۡبًا
+</p>
 
+”Sesungguhnya Allah telah menyempurnakan kepada Rasulullah (saw) rukya dengan benar, kamu pasti akan masuk Masjidil Haram jika Allah menghendaki dengan aman, dengan mencukur habis rambut kepalamu atau memotong pendek tanpa rasa takut. Tetapi Dia mengetahui apa yang kamu tidak ketahui, Dia sebenarnya telah menetapkan bagimu selain itu satu kemenangan yang dekat.” (Al-Qur'an Surah al-Fath, 48:28)
+
+Ayat-ayat ini menunjukkan bahwa jika umat Islam memasuki Makkah tahun itu, tidak akan mendapatkan keamanan dan kedamaian. Namun sekarang, karena telah disepakatinya perjanjian damai antara kaum Makkah dan umat Islam maka umat Islam akan dapat memasuki Makkah dan melakukan ziarah dengan damai. Setelah Perjanjian Hudaibiyah, ada beberapa sahabat (ra) yang resah dan mempertanyakan bagaimana ini bisa dianggap sebagai kemenangan bagi mereka, namun setelah mendengar ayat-ayat ini, masalah itu menjadi sangat jelas dan mereka menjadi yakin bahwa ini pastilah suatu kemenangan yang besar. Hudhur ayyadahuLlahu ta’ala mengatakan bahwa setelah ayat-ayat ini diturunkan, Nabi (saw) memanggil Hadhrat ‘Umar (ra) dan membacakan ayat-ayat yang diwahyukan kepadanya, di mana Hadhrat ‘Umar (ra) juga yakin bahwa perjanjian ini yang Nabi (saw) buat yang awalnya dianggap sebagai sumber aib bagi umat Islam, sebenarnya merupakan kemenangan besar. Hudhur ayyadahuLlahu ta’ala mengatakan bahwa beliau akan terus menyoroti insiden dari kehidupan Hadhrat ‘Umar (ra) di masa depan.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzI1MzAyOTYzXX0=
+eyJoaXN0b3J5IjpbLTE4NTEwMzI1NTJdfQ==
 -->
