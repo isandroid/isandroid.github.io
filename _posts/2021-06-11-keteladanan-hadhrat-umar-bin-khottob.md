@@ -9,6 +9,8 @@ published: true
 
 ## {{ page.title }}
 
+Ringkasan Khotbah Jumat Sayyidina Amirul Mu’minin, Hadhrat Mirza Masroor Ahmad, Khalifatul Masih al-Khaamis (ayyadahullaahu Ta’ala binashrihil ‘aziiz) pada 04 Juni 2021 (Ihsan 1400 Hijriyah Syamsiyah/Syawal 1442 Hijriyah Qamariyah) di Masjid Mubarak, Tilford, UK (United Kingdom of Britain/Britania Raya).
+
 <p class="arab">
 	أَشْهَدُ أنْ لَّا إِلٰهَ إِلَّا اللّٰهُ وَحْدَهُ لَا شَرِيْكَ لَهُ وَأَشْهَدُ أنَّ مُحَمَّدًا عَبْدُهُ وَرَسُوْلُهُ - أَمَّا بَعْدُ فَأَعُوْذُ بِاللّٰهِ مِنَ الشَّيْطَانِ الرَّجِيْمِ -
 </p>
@@ -83,5 +85,5 @@ Hudhur ayyadahuLlahu ta’ala mengatakan bahwa setelah ayat-ayat ini diturunkan,
 
 Hudhur ayyadahuLlahu ta’ala mengatakan bahwa beliau akan terus menyoroti insiden dari kehidupan Hadhrat ‘Umar (ra) di masa depan (khotbah-khotbah yang akan datang --pent).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4NDkzMjc3MF19
+eyJoaXN0b3J5IjpbMTYzNjc2NDgwNCwxMDg0OTMyNzcwXX0=
 -->
