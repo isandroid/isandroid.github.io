@@ -50,6 +50,16 @@ Melihat ini sangat menyakitkan Hadhrat ‘Umar (ra). Beliau bertanya kepada Nabi
 Kemudian Hadhrat ‘Umar (ra) bertanya kepada Nabi (saw), “Bukankah Anda mengatakan bahwa kita akan melakukan ziarah (Umrah) di Ka'bah Suci?” RasuluLlah (saw) mengatakan, “Memang saya telah mengatakannya, namun tidak merinci bahwa Umrah tersebut akan terjadi pada tahun itu juga. Pasti, umat Islam akan memasuki Makkah dan melakukan haji.” 
 
 Kemudian, Hadhrat ‘Umar (ra) mengatakan bahwa beliau menyesali kelemahan ini yang terjadi karena emosi beliau sehingga sampai mengatakan hal itu kepada Rasulullah (saw) dan banyak beristighfar atas hal itu.
+
+Hadhrat ‘Umar (ra) juga menandatangani Perjanjian Hudaibiyah sebagai saksi. Ada dua salinan perjanjian yang dibuat, satu yang Suhail bin Amr bawa kembali ke Makkah bersamanya, dan salinan yang lainnya dibawa pulang oleh RasuluLlah (saw) ke Madinah. 
+
+### Turunnya ayat Al-Qur’an setelah Perjanjian Hudaibiyah yang menyadarkan para Sahabat
+
+Dalam perjalanan kembali dari Hudaibiyah, Nabi (saw) memberi tahu umat Islam ayat-ayat berikut:
+
+
+
+Sesungguhnya Kami telah memberi kepada engkau satu kemenangan nyata. Supaya Allah melindungi engkau di masa lalu dari dosa-dosa yang dibuat terhadap engkau dan di masa yang akan datang, dan Dia menyempurnakan nikmat-Nya atas engkau; dan memberi petunjuk kepada engkau pada jalan yang lurus; Dan Allah akan menolong engkau dengan pertolongan yang perkasa.” (Al-Qur'an Surah al-Fath, 48:2-4)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzM5MDM3OThdfQ==
+eyJoaXN0b3J5IjpbMTAzNjUxNzgzM119
 -->
