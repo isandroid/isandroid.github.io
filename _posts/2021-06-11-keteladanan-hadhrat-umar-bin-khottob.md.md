@@ -62,10 +62,16 @@ Dalam perjalanan kembali dari Hudaibiyah, Nabi (saw) memberi tahu umat Islam aya
 </p>
 
 <p class="quran">
+لِّیَغۡفِرَ لَکَ اللّٰہُ مَا تَقَدَّمَ مِنۡ ذَنۡۢبِکَ وَمَا تَاَخَّرَ وَیُتِمَّ نِعۡمَتَہٗ عَلَیۡکَ وَیَہۡدِیَکَ صِرٰطًا مُّسۡتَقِیۡمًا
+</p>
 
+<p class="quran">
+وَیَنۡصُرَکَ اللّٰہُ نَصۡرًا عَزِیۡزًا
 </p>
 
 Sesungguhnya Kami telah memberi kepada engkau satu kemenangan nyata. Supaya Allah melindungi engkau di masa lalu dari dosa-dosa yang dibuat terhadap engkau dan di masa yang akan datang, dan Dia menyempurnakan nikmat-Nya atas engkau; dan memberi petunjuk kepada engkau pada jalan yang lurus; Dan Allah akan menolong engkau dengan pertolongan yang perkasa.” (Al-Qur'an Surah al-Fath, 48:2-4)
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MTYzMjk0NF19
+eyJoaXN0b3J5IjpbMzI1MzAyOTYzXX0=
 -->
