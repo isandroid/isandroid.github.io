@@ -35,8 +35,21 @@ Hadhrat ‘Umar (ra) meminta Nabi (saw) untuk membunuh orang munafik ini, tetapi
 
 ### Penjelasan Tentang Shalat Saat Perang Khandaq (Perang Parit) 
 
-Selama Pertempuran Parit, Hadhrat ‘Umar (ra) pergi menemui RasuluLlah (saw) setelah matahari terbenam, dan mengatakan bahwa beliau tidak bisa melakukan shalat Ashar (salat zuhur). RasuluLlah (saw) mengatakan bahwa beliau juga belum mampu untuk melakukan shalat Ashar, dan karena itu mereka mengerjakan shalat, dan kemudian melakukan shalat Maghrib (shalat setelah matahari terbenam). Ada pendapat dan catatan berbeda tentang berapa banyak shalat yang tidak dapat mereka kerjakan pada hari itu. Ada beberapa riwayat dan catatan yang mengatakan bahwa RasuluLlah (saw) mengerjakan empat shalat bersama (Zhuhur, Ashar, Maghrib dan Isya) pada waktu yang sama. Akan tetapi, Hadhrat Masih Mau'ud (as) telah membuktikan semua catatan tersebut menjadi lemah, dan menyatakan bahwa sebenarnya hanya shalat Ashar yang dilakukan menjelang berakhirnya waktu yang ditentukan (sudah mendekati Maghrib). Partisipasi Hadhrat ‘Umar (ra) dalam Perjanjian Hudaibiyah
+Selama Pertempuran Parit, Hadhrat ‘Umar (ra) pergi menemui RasuluLlah (saw) setelah matahari terbenam, dan mengatakan bahwa beliau tidak bisa melakukan shalat Ashar (salat zuhur). RasuluLlah (saw) mengatakan bahwa beliau juga belum mampu untuk melakukan shalat Ashar, dan karena itu mereka mengerjakan shalat, dan kemudian melakukan shalat Maghrib (shalat setelah matahari terbenam). 
 
+Ada pendapat dan catatan berbeda tentang berapa banyak shalat yang tidak dapat mereka kerjakan pada hari itu. Ada beberapa riwayat dan catatan yang mengatakan bahwa RasuluLlah (saw) mengerjakan empat shalat bersama (Zhuhur, Ashar, Maghrib dan Isya) pada waktu yang sama. Akan tetapi, Hadhrat Masih Mau'ud (as) telah membuktikan semua catatan tersebut menjadi lemah, dan menyatakan bahwa sebenarnya hanya shalat Ashar yang dilakukan menjelang berakhirnya waktu yang ditentukan (sudah mendekati Maghrib). 
+
+### Partisipasi Hadhrat ‘Umar (ra) dalam Perjanjian Hudaibiyah
+
+Hadhrat ‘Umar (ra) juga ikut ambil bagian dalam peristiwa Perjanjian Hudaibiyah. Dalam perjalanan dari Madinah ke Makkah bersama rombongan umat Muslim, di suatu tempat pemberhentian RasuluLlah (saw) memanggil Hadhrat ‘Umar (ra) supaya ia dapat pergi ke Makkah dan memberitahu Quraisy tentang niat kaum Muslim untuk mengunjungi Ka’bah. Hadhrat ‘Umar (ra) mengatakan bahwa dia takut akan hidupnya, karena orang Quraisy tahu betapa dia menentang mereka. Meskipun demikian, Hadhrat ‘Umar (ra) mengatakan bahwa jika Nabi (saw) ingin, dia akan tetap pergi ke Makkah namun Nabi (saw) tetap diam. Kemudian Hadhrat ‘Umar (ra) menyarankan agar Hadhrat Utsman (ra) dikirim, karena Hadhrat Utsman (ra) sangat dihormati oleh orang-orang Quraisy. 
+
+Setelah perwakilan kaum Quraisy Makkah mendatangi perkemahan umat Muslim dan saat disepakati perjanjian dan perjanjian sedang ditulis, Abu Jundal, putra Suhail bin Amr, wakil Quraisy, memutuskan untuk melarikan diri ke RasuluLlah (saw), karena dia telah menerima Islam, bagaimanapun dia disiksa untuk ini oleh orang Quraisy. Abu Jundal tiba di Hudaibiyah tepat seperti yang tertulis dalam perjanjian bahwa setiap orang Makkah yang melarikan diri ke kaum Muslim akan dikembalikan lagi ke Makkah. Oleh karena itu, Suhail bin Amr menuntut agar Abu Jundal dikembalikan. Abu Jundal memohon untuk tidak dikembalikan, namun RasuluLlah (saw) mengatakan kepadanya dengan sangat sedih bahwa karena mereka baru saja menyetujui persyaratan perjanjian, mereka tidak dapat menghentikannya untuk dikembalikan lagi ke Makkah.
+
+Melihat ini sangat menyakitkan Hadhrat ‘Umar (ra). Beliau bertanya kepada Nabi (saw), “Apabila betul-betul benar lalu mengapa umat Islam harus menanggung aib (kehinaan) seperti itu?” RasuluLlah (saw) menjawab kepadanya, “Tentu saja saya adalah Utusan yang benar yang diutus oleh Tuhan, dan karena itu, saya telah disadarkan akan kehendak Tuhan bagi umat Islam.” 
+
+Kemudian Hadhrat ‘Umar (ra) bertanya kepada Nabi (saw), “Bukankah Anda mengatakan bahwa kita akan melakukan ziarah (Umrah) di Ka'bah Suci?” RasuluLlah (saw) mengatakan, “Memang saya telah mengatakannya, namun tidak merinci bahwa Umrah tersebut akan terjadi pada tahun itu juga. Pasti, umat Islam akan memasuki Makkah dan melakukan haji.” 
+
+Kemudian, Hadhrat ‘Umar (ra) mengatakan bahwa beliau menyesali kelemahan ini yang terjadi karena emosi beliau sehingga sampai mengatakan hal itu kepada Rasulullah (saw) dan banyak beristighfar atas hal itu.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NzQ4ODc5NDRdfQ==
+eyJoaXN0b3J5IjpbNzM5MDM3OThdfQ==
 -->
