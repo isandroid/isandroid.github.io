@@ -25,8 +25,18 @@ Keesokan paginya, mereka mengetahui bahwa Quraisy memang berada di dekat Madinah
 
 ### Pertempuran Bani Mustaliq
 
+Hadhrat ‘Umar (ra) juga mengambil bagian dalam Pertempuran Banu Mustaliq. Ini terjadi pada saat suku-suku Hijaz yang awalnya bersimpati pada perjuangan kaum Muslimin mulai menjadi mangsa hasutan kaum Quraisy. Yang paling utama di antara mereka adalah suku Bani Mustaliq yang berencana menyerang Madinah. Ketika itu Nabi (saw) mengetahui rencana ini dan pasukan besar mereka sedang dipersiapkan. Oleh karena itu, Nabi (saw) berangkat dengan pasukan Muslim menuju suku Bani Mustaliq. Ketika Bani Mustaliq mengetahui kedatangan tentara Muslim, Bani Mustaliq menjadi takut, karena rencana mereka adalah serangan mendadak ke Madinah. Akibatnya, suku-suku lain yang telah mendukung Bani Mustaliq melarikan diri setelah mendengar berita ini. 
 
+Namun, Bani Mustaliq tetap bertekad untuk melawan. Nabi (saw) berhenti di sebuah tempat dekat Bani Mustaliq yang disebut Muraisi. RasuluLlah (saw) kemudian menginstruksikan Hadhrat ‘Umar (ra) untuk menginformasikan Bani Mustaliq bahwa jika mereka berhenti menentang Islam, maka akan ada perdamaian dan umat Islam akan kembali ke Madinah. Namun, Bani Mustaliq menolak tawaran perdamaian ini dan mereka mulai menembakkan anak-anak panah. Dengan demikian, kedua belah pihak menembakkan anak-anak panah bolak-balik untuk beberapa waktu, dan kemudian RasuluLlah (saw) memerintahkan serangan segera, yang melumpuhkan Bani Mustaliq. 
+
+Dalam perjalanan kembali dari Pertempuran Bani Mustaliq, terjadi perselisihan antara dua orang, satu dari Muhajirin (pendatang Muslim Makkah yang tinggal ke Madinah) dan Ansar (penduduk asli Madinah) dan keduanya memanggil orang-orang mereka untuk membantu mereka. Ketika itu Nabi (saw) memberi tahu mereka bahwa mereka tidak boleh bertengkar karena hal-hal kecil seperti itu. Abdullah bin Ubayy (kepala kaum munafik) juga hadir, dan berkata bahwa sekembalinya ke Madinah, yang terhormat akan menyingkirkan yang tidak terhormat.
+
+Hadhrat ‘Umar (ra) meminta Nabi (saw) untuk membunuh orang munafik ini, tetapi Nabi (saw) mengatakan bahwa beliau tidak akan memberikan izin, jangan sampai orang mengatakan bahwa beliau membunuh orang-orangnya sendiri. Kemudian, orang-orang munafik itu sendiri menjadi bosan dengan Abdullah bin Ubayy dan mulai berbalik melawannya. RasuluLlah (saw) memberi tahu Hadhrat ‘Umar (ra) bahwa beliau telah menghentikan permintaannya saat itu, karena dia tahu bahwa orangorang yang mendukung Abdullah bin Ubayy akan berbalik padanya setelah melihat kenyataan dan akan membunuhnya sendiri. 
+
+### Penjelasan Tentang Shalat Saat Perang Khandaq (Perang Parit) 
+
+Selama Pertempuran Parit, Hadhrat ‘Umar (ra) pergi menemui RasuluLlah (saw) setelah matahari terbenam, dan mengatakan bahwa beliau tidak bisa melakukan shalat Ashar (salat zuhur). RasuluLlah (saw) mengatakan bahwa beliau juga belum mampu untuk melakukan shalat Ashar, dan karena itu mereka mengerjakan shalat, dan kemudian melakukan shalat Maghrib (shalat setelah matahari terbenam). Ada pendapat dan catatan berbeda tentang berapa banyak shalat yang tidak dapat mereka kerjakan pada hari itu. Ada beberapa riwayat dan catatan yang mengatakan bahwa RasuluLlah (saw) mengerjakan empat shalat bersama (Zhuhur, Ashar, Maghrib dan Isya) pada waktu yang sama. Akan tetapi, Hadhrat Masih Mau'ud (as) telah membuktikan semua catatan tersebut menjadi lemah, dan menyatakan bahwa sebenarnya hanya shalat Ashar yang dilakukan menjelang berakhirnya waktu yang ditentukan (sudah mendekati Maghrib). Partisipasi Hadhrat ‘Umar (ra) dalam Perjanjian Hudaibiyah
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczNzQxMTEwN119
+eyJoaXN0b3J5IjpbLTE1NzQ4ODc5NDRdfQ==
 -->
