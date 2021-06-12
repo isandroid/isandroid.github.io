@@ -6,33 +6,12 @@ layout: beranda
 ### Pencarian Internal Pustaka
 
 <i class="fa fa-search" aria-hidden="true"></i> [Pencarian (didukung oleh Google)](/cari)
+
 {% comment %}
+
 <i class="fa fa-search" aria-hidden="true"></i> [Pencarian dalam artikel Blog](/cari-blog)
 
 <i class="fa fa-search" aria-hidden="true"></i> [Pencarian dalam Halaman](/cari-halaman)
-{% endcomment %}
-
-{% comment %}
-### Artikel Unggulan
-
-<ul>
-  <li class="spasi"><a href="/2021/05/14/puasa-syawal.html"><mark>Puasa Syawal</mark></a></li>
-</ul>
-
-### Artikel tentang Palestina-Israel
-
-{% for tag in site.tags %}
-{% if tag contains "palestina-israel" %}
-  <ul>
-    {% assign sorted2 = tag[1] | sort: 'title' %}
-    {% for post in sorted2 %}
-      <li class="spasi"><a href="{{ post.url }}"><mark>{{ post.title }}</mark></a></li>
-    {% endfor %}
-  </ul>
-{% endif %}
-{% endfor %}
-
-- [Tata Cara Shalat Id](/2021/05/01/shalat-hari-raya.html)
 
 {% endcomment %}
 
@@ -98,5 +77,5 @@ var x = setInterval(function() {
 
 {% endcomment %}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5NjI2OTk3Ml19
+eyJoaXN0b3J5IjpbNjQ5MjM3NTcsLTY5NjI2OTk3Ml19
 -->
