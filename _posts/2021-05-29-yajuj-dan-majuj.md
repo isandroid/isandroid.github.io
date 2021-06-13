@@ -1051,20 +1051,8 @@ Portugal mendirikan kekuasaan kolonial dari Brasil, di Amerika Selatan, hingga b
 {% endcomment %}
 
 ### Catatan Kaki
-
-{% comment %}
-
-- https://www.islamahmadiyya.net/inner.asp?recordId=33658
-
-- https://www.islamahmadiyya.net/inner.asp?recordID=34099
-
-- https://www.islamahmadiyya.net/inner.asp?recordID=32992
-
-- https://www.islamahmadiyya.net/inner.asp?recordId=12825
-
-{% endcomment %}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2Mjk0NjU4NjcsLTIwNDY5Mjg5NzQsLT
-EzNjI1OTQ4NzksNTU1NjUxOTQsNzA3OTQyNjAzLC0xMjgxMjE2
-NjA0XX0=
+eyJoaXN0b3J5IjpbMTk4MzY2NTgxLC0yMDQ2OTI4OTc0LC0xMz
+YyNTk0ODc5LDU1NTY1MTk0LDcwNzk0MjYwMywtMTI4MTIxNjYw
+NF19
 -->
