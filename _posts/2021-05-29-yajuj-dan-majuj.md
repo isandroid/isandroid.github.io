@@ -55,13 +55,7 @@ Dari ayat ini diuraikan keadaan mengenai dua golongan, ialah umat Kristen dan um
 فَعَسٰی رَبِّیۡۤ اَنۡ یُّؤۡتِیَنِ خَیۡرًا مِّنۡ جَنَّتِکَ وَیُرۡسِلَ عَلَیۡہَا حُسۡبَانًا مِّنَ السَّمَآءِ فَتُصۡبِحَ صَعِیۡدًا زَلَقًا
 </p>
 
-> Maka boleh jadi Tuhan-ku
-akan menganugerahkan kepadaku
-sesuatu yang lebih baik daripada
-kebun engkau dan mengirimkan
-*kepada kebun engkau* petir
-dari langit sehingga menjadi
-dataran yang licin. ([QS Al-Kahfi [18]: 41 dengan basmallah](https://openquran.com/18:41))
+> Maka boleh jadi Tuhan-ku akan menganugerahkan kepadaku sesuatu yang lebih baik daripada kebun engkau dan mengirimkan *kepada kebun engkau* petir dari langit sehingga menjadi dataran yang licin. ([QS Al-Kahfi [18]: 41 dengan basmallah](https://openquran.com/18:41))
 
 Tafsir: Kata-kata “dari langit” menunjukkan, bahwa tidak akan ada
 kekuatan dan kekuasaan dunia yang akan sanggup melawan dan menahan
@@ -79,22 +73,13 @@ Kemudian di ayat yang lain dijelaskan,
 وَیَوۡمَ نُسَیِّرُ الۡجِبَالَ وَتَرَی الۡاَرۡضَ بَارِزَۃً وَّحَشَرۡنٰہُمۡ فَلَمۡ نُغَادِرۡ مِنۡہُمۡ اَحَدًا
 </p>
 
-> Dan *ingatlah pada* hari,
-ketika Kami akan memperjalankan gunung-gunung dan
-engkau akan melihat *bangsa-bangsa* di bumi akan bergerak
-maju *berhadapan satu sama lain untuk berperang;* dan akan Kami
-himpun mereka *semuanya*,
-maka tiadalah seorang pun yang
-Kami tinggalkan di antara mereka.
-([QS Al-Kahfi [18]: 48 dengan basmallah](https://openquran.com/18:48))
+> Dan *ingatlah pada* hari, ketika Kami akan memperjalankan gunung-gunung dan engkau akan melihat *bangsa-bangsa* di bumi akan bergerak maju *berhadapan satu sama lain untuk berperang;* dan akan Kami himpun mereka *semuanya*, maka tiadalah seorang pun yang Kami tinggalkan di antara mereka. ([QS Al-Kahfi [18]: 48 dengan basmallah](https://openquran.com/18:48))
 
 Tafsir: Oleh karena Jibāl (gunung-gunung) berarti pula pembesar-pembesar (Lane), maka ayat ini dapat berarti, bahwa nubuatan mengenai kehancuran mutlak kekuatan-kekuatan kejahatan – Ya’jūj dan Ma’jūj –
 yang telah disebut dalam beberapa ayat mendahuluinya akan terpenuhi, bila
 menurut kata-kata Bibel, 
 
-> “bangsa akan berbangkit melawan bangsa, dan
-kerajaan melawan kerajaan; maka akan jadi bala kelaparan dan gempa bumi
-sini-sana.” (Matius 24: 7) [[^matius_24_7]]. 
+> “bangsa akan berbangkit melawan bangsa, dan kerajaan melawan kerajaan; maka akan jadi bala kelaparan dan gempa bumi sini-sana.” (Matius 24: 7) [[^matius_24_7]]. 
 
 Ungkapan *Hasyarnā-hum*, berarti bahwa mereka
 akan dihimpunkan di medan perang, saling berhadapan dan akan bertarung
@@ -1081,6 +1066,6 @@ Portugal mendirikan kekuasaan kolonial dari Brasil, di Amerika Selatan, hingga b
 
 {% endcomment %}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NDg3NDQ5NDYsLTEzNjI1OTQ4NzksNT
-U1NjUxOTQsNzA3OTQyNjAzLC0xMjgxMjE2NjA0XX0=
+eyJoaXN0b3J5IjpbNjYyMTAwMjkyLC0xMzYyNTk0ODc5LDU1NT
+Y1MTk0LDcwNzk0MjYwMywtMTI4MTIxNjYwNF19
 -->
