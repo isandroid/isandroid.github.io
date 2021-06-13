@@ -986,7 +986,7 @@ Mereka akan mengatakan kepadanya: 'Wahai Dzul-Qarnain! Ya'juj dan Ma'juj telah m
 
 ### Beberapa Negara Penjajah dari Eropa
 
-Imperium kolonial adalah hasil dari Zaman Penjelajahan Eropa yakni Zaman Pelayaran yang dimulai dengan lomba penjelajahan antara kekuatan laut paling maju pada masa itu, Portugal dan Spanyol, pada abad ke-15. 
+Penjajahan yang dilakukan negara-negara eropa diawali oleh *Imperium kolonial* yakni diawali Zaman Penjelajahan Eropa. Zaman Pelayaran yang dimulai dengan lomba penjelajahan antara kekuatan laut paling maju pada masa itu, Portugal dan Spanyol, pada abad ke-15 [[^wikipedia_imperium_kolonial]]. 
 
 #### Perancis
 
@@ -1045,6 +1045,6 @@ Portugal mendirikan kekuasaan kolonial dari Brasil, di Amerika Selatan, hingga b
 
 {% endcomment %}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3OTEyMjU1Myw1NTU2NTE5NCw3MDc5ND
+eyJoaXN0b3J5IjpbLTg5NjkxNTI4NCw1NTU2NTE5NCw3MDc5ND
 I2MDMsLTEyODEyMTY2MDRdfQ==
 -->
