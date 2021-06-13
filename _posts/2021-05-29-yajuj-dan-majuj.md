@@ -990,7 +990,7 @@ Mereka akan mengatakan kepadanya: 'Wahai Dzul-Qarnain! Ya'juj dan Ma'juj telah m
 
 Prancis mempunyai area kekuasaan lebih dari sepuluh juta kilometer persegi. Kekuasaan Prancis banyak terletak di benua Afrika. Oleh karena itu, negara-negara di benua Afrika rata-rata menggunakan bahasa Prancis dalam kehidupan sehari-hari. [[^grid-01]]
 
-[^grid-01]: [Termasuk Belanda, Berikut Negara yang Memiliki Kekuasaan dan Dinobatkan Sebagai Penjajah Terluas di Dunia](https://kids.grid.id/read/472587201/termasuk-belanda-berikut-negara-yang-memiliki-kekuasaan-dan-dinobatkan-sebagai-penjajah-terluas-di-dunia?page=all)
+[^grid-01]: [Grid - Termasuk Belanda, Berikut Negara yang Memiliki Kekuasaan dan Dinobatkan Sebagai Penjajah Terluas di Dunia](https://kids.grid.id/read/472587201/termasuk-belanda-berikut-negara-yang-memiliki-kekuasaan-dan-dinobatkan-sebagai-penjajah-terluas-di-dunia?page=all)
 
 #### 2. Spanyol
 
@@ -1016,7 +1016,7 @@ Negara Ratu Elizabeth ini menduduki banyak negara di seluruh penjuru dunia.
 
 Area kekuasaan Inggris meliputi Amerika Serikat, Kenya, Uganda, Kepulauan Zanzibar, India, Sri Lanka, Bangladesh, Pakistan, Malaysia, Hong Kong, Singapura, Kepulauan Salomon, dan masih banyak lagi [[^grid-01]].
 
-Periode Keemasan Imperium Britania terjadi tahun 1815 - 1914, ketika kekuasaan Raja George III hingga Raja George V. Kekuasaannya mencapai lebih dari 10.000.000 mil² (26,000,000 km²) luas wilayah dan sekitar 400 juta penduduk menjadi bagian dari Imperium Britania. Era keemasan Imperium Britania didukung oleh berbagai penemuan teknologi selama masa **Revolusi Industri** seperti **kapal Uap** dan Telegraf. Berdasaarkan *Wikipedia*,  [[^wikipedia_negara_jajahan_britania]].
+Periode Keemasan Imperium Britania terjadi tahun 1815 - 1914, ketika kekuasaan Raja George III hingga Raja George V. Kekuasaannya mencapai lebih dari 10.000.000 mil² (26,000,000 km²) luas wilayah dan sekitar 400 juta penduduk menjadi bagian dari Imperium Britania. Era keemasan Imperium Britania didukung oleh berbagai penemuan teknologi selama masa **Revolusi Industri** seperti **kapal Uap** dan Telegraf. Berdasaarkan *Wikipedia*, negara-negara jajahan inggris mencapai 94 negara [[^wikipedia_negara_jajahan_britania]].
 
 [^wikipedia_negara_jajahan_britania]: [Wikipedia - Daftar negara jajahan Imperium Britania](https://id.wikipedia.org/wiki/Daftar_negara_jajahan_Imperium_Britania)
 
@@ -1037,6 +1037,6 @@ Periode Keemasan Imperium Britania terjadi tahun 1815 - 1914, ketika kekuasaan R
 
 {% endcomment %}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5MTg1NTc2MCw3MDc5NDI2MDMsLTEyOD
-EyMTY2MDRdfQ==
+eyJoaXN0b3J5IjpbLTE3Njg0ODk3NDEsNzA3OTQyNjAzLC0xMj
+gxMjE2NjA0XX0=
 -->
