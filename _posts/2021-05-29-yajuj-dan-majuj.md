@@ -984,15 +984,15 @@ Mereka akan mengatakan kepadanya: 'Wahai Dzul-Qarnain! Ya'juj dan Ma'juj telah m
 
 [^barahin_ahmadiyah_v_p152]: They would say to him: ‘O Dhul-Qarnain! Ya’juj and Ma’juj have filled the land with disorder. If you so please, let us collect a fund for you so that you may erect a barrier between them and us.’ He would say in reply: ‘The power God has given me is better than your funds, but if you be so inclined, you can help me according to your means so that I may erect a wall between you and them.’ That is, he would put forth such conclusive proofs and arguments that their enemies would not be left with any basis for criticism or objection against their religion. ‘Bring me slabs of iron so that their movement can be stopped’; that is, hold fast to my teachings and my arguments, fully adopt steadfastness, and build yourselves like unto a wall of iron to repel the enemy’s onslaught. ‘Then blow fire into the iron until it becomes like fire’; that is, feed the flames of love for God until you yourselves assume the complexion of the Divine (Barahin Ahmadiyah, Jilid V, halaman 152)
 
-### Beberapa Negara Penjajah
+### Beberapa Negara Penjajah dari Eropa
 
-#### 1. Perancis
+#### Perancis
 
 Prancis mempunyai area kekuasaan lebih dari sepuluh juta kilometer persegi. Kekuasaan Prancis banyak terletak di benua Afrika. Oleh karena itu, negara-negara di benua Afrika rata-rata menggunakan bahasa Prancis dalam kehidupan sehari-hari. [[^grid-01]]
 
 [^grid-01]: [Grid - Termasuk Belanda, Berikut Negara yang Memiliki Kekuasaan dan Dinobatkan Sebagai Penjajah Terluas di Dunia](https://kids.grid.id/read/472587201/termasuk-belanda-berikut-negara-yang-memiliki-kekuasaan-dan-dinobatkan-sebagai-penjajah-terluas-di-dunia?page=all)
 
-#### 2. Spanyol
+#### Spanyol
 
 Pada era kolonialisme, Spanyol merupakan negara Eropa yang cukup aktif dalam menjelajah dan mencari negara-negara baru untuk dijajah.
 
@@ -1037,6 +1037,6 @@ Periode Keemasan Imperium Britania terjadi tahun 1815 - 1914, ketika kekuasaan R
 
 {% endcomment %}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3Njg0ODk3NDEsNzA3OTQyNjAzLC0xMj
-gxMjE2NjA0XX0=
+eyJoaXN0b3J5IjpbMTUwNjY2OTA3NSw3MDc5NDI2MDMsLTEyOD
+EyMTY2MDRdfQ==
 -->
