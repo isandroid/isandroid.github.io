@@ -1,8 +1,9 @@
 ---
 layout: post
 title:  Skripsi Sufni Ahmad - Bab III
-tags: tafsirquran khilafat khilafah
-description: tafsir alquran surat an-nur 24 ayat 56
+tags: skripsi
+description: skripsi sufni ahmad bab iii
+published: false
 ---
 
 ### BAB III
@@ -116,5 +117,5 @@ Akibat buruk tidak akan menimpa Jemaat Ilahi ini, justru akibat buruk akan menim
 
 [^19]: **_Ibid._**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NzYwMjc5NjhdfQ==
+eyJoaXN0b3J5IjpbLTI4MjQxMDM3Ml19
 -->
