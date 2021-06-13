@@ -988,7 +988,7 @@ Mereka akan mengatakan kepadanya: 'Wahai Dzul-Qarnain! Ya'juj dan Ma'juj telah m
 
 Penjajahan yang dilakukan negara-negara eropa diawali oleh *Imperium kolonial* yakni diawali Zaman Penjelajahan Eropa. Zaman itu merupakan Zaman Pelayaran yang dimulai dengan lomba penjelajahan antara kekuatan laut paling maju pada masa itu. Portugal dan Spanyol memulainya pada abad ke-15 [[^wikipedia_imperium_kolonial]]. 
 
-
+![Imperium Kolonial](/assets/images/imperium-kolonial.webp)
 
 #### Perancis
 
@@ -1047,6 +1047,6 @@ Portugal mendirikan kekuasaan kolonial dari Brasil, di Amerika Selatan, hingga b
 
 {% endcomment %}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjI1OTQ4NzksNTU1NjUxOTQsNzA3OT
-QyNjAzLC0xMjgxMjE2NjA0XX0=
+eyJoaXN0b3J5IjpbLTU5MzQzNTIwNCwtMTM2MjU5NDg3OSw1NT
+U2NTE5NCw3MDc5NDI2MDMsLTEyODEyMTY2MDRdfQ==
 -->
