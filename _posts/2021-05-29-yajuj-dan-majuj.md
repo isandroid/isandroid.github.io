@@ -1016,7 +1016,9 @@ Negara Ratu Elizabeth ini menduduki banyak negara di seluruh penjuru dunia.
 
 Area kekuasaan Inggris meliputi Amerika Serikat, Kenya, Uganda, Kepulauan Zanzibar, India, Sri Lanka, Bangladesh, Pakistan, Malaysia, Hong Kong, Singapura, Kepulauan Salomon, dan masih banyak lagi [[^grid-01]].
 
-Periode Keemasan Imperium Britania terjadi tahun 1815 - 1914, ketika kekuasaan Raja George III hingga Raja George V. Kekuasaannya mencapai lebih dari 10.000.000 mil² (26,000,000 km²) luas wilayah dan sekitar 400 juta penduduk menjadi bagian dari Imperium Britania [[^wikipedia_]].
+Periode Keemasan Imperium Britania terjadi tahun 1815 - 1914, ketika kekuasaan Raja George III hingga Raja George V. Kekuasaannya mencapai lebih dari 10.000.000 mil² (26,000,000 km²) luas wilayah dan sekitar 400 juta penduduk menjadi bagian dari Imperium Britania [[^wikipedia_negara_jajahan_britania]].
+
+[^wikipedia_negara_jajahan_britania]: [Wikipedia - Daftar negara jajahan Imperium Britania](https://id.wikipedia.org/wiki/Daftar_negara_jajahan_Imperium_Britania)
 
 {% comment %}
 {% endcomment %}
@@ -1035,6 +1037,6 @@ Periode Keemasan Imperium Britania terjadi tahun 1815 - 1914, ketika kekuasaan R
 
 {% endcomment %}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwNzM5OTkwNiw3MDc5NDI2MDMsLTEyOD
-EyMTY2MDRdfQ==
+eyJoaXN0b3J5IjpbMjM0MTI1ODI0LDcwNzk0MjYwMywtMTI4MT
+IxNjYwNF19
 -->
