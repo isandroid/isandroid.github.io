@@ -986,7 +986,7 @@ Mereka akan mengatakan kepadanya: 'Wahai Dzul-Qarnain! Ya'juj dan Ma'juj telah m
 
 ### Beberapa Negara Penjajah dari Eropa
 
-Imperium kolonial adalah hasil dari Zaman Penjelajahan Eropa (atau Zaman Pelayaran yang dimulai dengan lomba penjelajahan antara kekuatan laut paling maju pada masa itu, Portugal dan Spanyol, pada abad ke-15. Dorongan awal di balik kekaisaran laut yang sudah tidak ada lagi ini dan kekaisaran yang melanjutkannya adalah perdagangan, didorong oleh ide-ide baru dan kapitalisme yang muncul dari Renaisans Eropa. Perjanjian juga dibuat untuk membagi dunia di antara mereka tahun 1479, 1493, dan 1494.
+Imperium kolonial adalah hasil dari Zaman Penjelajahan Eropa yakni Zaman Pelayaran yang dimulai dengan lomba penjelajahan antara kekuatan laut paling maju pada masa itu, Portugal dan Spanyol, pada abad ke-15. 
 
 #### Perancis
 
@@ -1024,7 +1024,7 @@ Periode Keemasan Imperium Britania terjadi tahun 1815 - 1914, ketika kekuasaan R
 
 #### Portugal
 
-Portugal mendirikan kekuasaan kolonial dari Brasil, di Amerika Selatan, hingga beberapa koloni di Afrika (terutama Guinea Portugis, Tanjung Verde, São Tomé dan Príncipe, Angola dan Mozambik), di India Portugis (terutama Bombay dan Goa), di Tiongkok (Makau), dan Oseania (terutama Timor, khususnya Timor Timur), di antara banyak jajahan yang lebih kecil atau tidak berlangsung lama. [[^wikipedia_imperium_kolonial]]
+Portugal mendirikan kekuasaan kolonial dari Brasil, di Amerika Selatan, hingga beberapa koloni di Afrika (terutama Guinea Portugis, Tanjung Verde, São Tomé dan Príncipe, Angola dan Mozambik), di India Portugis (terutama Bombay dan Goa), di Tiongkok (Makau), dan Oseania (terutama Timor, khususnya Timor Timur), di antara banyak jajahan yang lebih kecil atau tidak berlangsung lama  [[^wikipedia_imperium_kolonial]].
 
 [^wikipedia_imperium_kolonial]: [Wikipedia - Imperium Kolonial](https://id.wikipedia.org/wiki/Imperium_kolonial)
 
@@ -1045,6 +1045,6 @@ Portugal mendirikan kekuasaan kolonial dari Brasil, di Amerika Selatan, hingga b
 
 {% endcomment %}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxNTcxOTI1Miw1NTU2NTE5NCw3MDc5ND
+eyJoaXN0b3J5IjpbMTI3OTEyMjU1Myw1NTU2NTE5NCw3MDc5ND
 I2MDMsLTEyODEyMTY2MDRdfQ==
 -->
