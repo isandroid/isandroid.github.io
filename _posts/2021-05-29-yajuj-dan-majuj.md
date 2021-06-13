@@ -998,17 +998,17 @@ Pada era kolonialisme, Spanyol merupakan negara Eropa yang cukup aktif dalam men
 
 Spanyol memulai jajahannya di wilayah Amerika Selatan pada era 1500-an. Mereka  mulai menjelajah Meksiko, Kuba, Puerto Rico, dan negara sekitarnya [[^grid-01]]. 
 
-#### 3. Turki
+#### Turki
 
 Turki dahulu dikenal dengan *Kekaisaran Ottoman* juga pernah memiliki wilayah jajahan yang sangat luas. Wilayah tersebut bahkan mencakup tiga benua utama, yakni Eropa, Asia, dan Afrika [[^grid-01]].
 
-#### 4. Belanda
+#### Belanda
 
 Indonesia dahulu bernama Hindia Belanda yang merupakan salah satu jajahan  terluasnya.
 
 Selain itu pula, jajahannya mencakup Belgia, Brazil, Pantai Gading, Luxembourg, Amerika, Sri Lanka, Taiwan, Afrika Selatan, dan Suriname [[^grid-01]].
 
-#### 5. Inggris
+#### Inggris
 
 Negara dengan wilayah jajahan paling luas di dunia adalah Inggris.
 
@@ -1019,6 +1019,9 @@ Area kekuasaan Inggris meliputi Amerika Serikat, Kenya, Uganda, Kepulauan Zanzib
 Periode Keemasan Imperium Britania terjadi tahun 1815 - 1914, ketika kekuasaan Raja George III hingga Raja George V. Kekuasaannya mencapai lebih dari 10.000.000 mil² (26,000,000 km²) luas wilayah dan sekitar 400 juta penduduk menjadi bagian dari Imperium Britania. Era keemasan Imperium Britania didukung oleh berbagai penemuan teknologi selama masa **Revolusi Industri** seperti **kapal Uap** dan Telegraf. Berdasaarkan *Wikipedia*, negara-negara jajahan inggris mencapai 94 negara [[^wikipedia_negara_jajahan_britania]].
 
 [^wikipedia_negara_jajahan_britania]: [Wikipedia - Daftar negara jajahan Imperium Britania](https://id.wikipedia.org/wiki/Daftar_negara_jajahan_Imperium_Britania)
+
+#### Portugis
+
 
 {% comment %}
 {% endcomment %}
@@ -1037,6 +1040,6 @@ Periode Keemasan Imperium Britania terjadi tahun 1815 - 1914, ketika kekuasaan R
 
 {% endcomment %}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwNjY2OTA3NSw3MDc5NDI2MDMsLTEyOD
-EyMTY2MDRdfQ==
+eyJoaXN0b3J5IjpbNTU1NjUxOTQsNzA3OTQyNjAzLC0xMjgxMj
+E2NjA0XX0=
 -->
