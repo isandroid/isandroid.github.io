@@ -34,13 +34,6 @@ Sejarah Jemaat Ahmadiyah di Banjarnegara dimulai dari Jemaat Bawang-Krucil. Jema
 
 [^edi_sujarwo_20210607]: Wawancara dengan bapak Edi Sujarwo via Whatsapp Call tanggal 07-Jun-2021.
 
-### Profil bapak Ahmad Rusydi
-
-Bapak Ahmad Rusydi mempunyai nama kecil Basroil. Setelah beliau ke Jakarta, beliau mengganti namanya menjadi Sanusi. Setelah beliau pulang menuntut ilmu dan menjadi mubalig, beliau mengganti namanya menjadi Ahmad Rusydi [[^nusrat_fauziyah_20200916]]. Selain itu latar-belakang beliau mengganti namanya sebagai bentuk penyamaran dan penghindaran diri dari pengejaran Belanda [[^edi_sujarwo_20210607]]. 
-
-[^nusrat_fauziyah_20200916]: Wawancara dengan Nusrat Fauziah (Cucu dari bapak Ahmad Rusydi) tanggal 16-Sept-2020 via teks Whatsapp. 
-
-Beliau adalah seorang pejuang kemerdekaan RI tahun 1930-1940-an. Beliau selalu dikejar-kejar (penjajah) Belanda sehingga beliau hijrah hingga ke luar negeri. Beliau menimba ilmu ke luar negeri (Qadian). Lalu pulang di tahun 1940-an ke Indonesia. Beliau menjadi salah satu pengurus Besar Jemaat Ahmadiyah Indonesia. 
 
 Diawali dengan pulangnya seorang tokoh yang bernama pak Rusydi dari luar negeri pada tahun 1960-an. Sudah banyak orang Islam ketika itu. Kebanyakan mereka belum mengenal tentang Ahmadiyah. Beliau pulang dan memperkenalkan tentang kedatangan Imam Mahdi kepada warga masyarakat Krucil. Awalnya beliau tidak diterima masyarakat. Setelah berlalunya waktu, setelah beliau banyak menyampaikan ceramah dan lain-lain, akhirnya beliau diterima masyarakat. Selanjutnya Banyak dari antara mereka yang tertarik dengan ajaran yang disajikan melalui Jemaat Ahmadiyah. Setelah itu terjadi baiat massal (menerima Jemaat Ahmadiyah) yang dilaksanakan beberapa tahap. Salah satunya dilakukan di tahun 1963 [[^wawancara_mln_nurhadi_20210525]].
 
@@ -107,5 +100,5 @@ Setelah mempunyai Jamaah yang cukup banyak, maka didirikanlah cabang Jemaat loka
 
 Dengan keadaan alam seperti itu, memang sudah sewajarnya mayoritas penduduk sekitar berprofesi menjadi petani. Mereka mengurus sawah dan kebun. Ada pula yang berternak ikan dan lain-lain.-->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1MDA0MDU5OV19
+eyJoaXN0b3J5IjpbMTQyMTQ5MjI1OCwxNDUwMDQwNTk5XX0=
 -->
