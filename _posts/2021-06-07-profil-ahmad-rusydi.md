@@ -15,6 +15,8 @@ Bapak Ahmad Rusydi mempunyai nama kecil Basroil. Setelah beliau ke Jakarta, beli
 [^edi_sujarwo_20210607]: Wawancara dengan bapak Edi Sujarwo via Whatsapp Call tanggal 07-Jun-2021.
 
 Beliau adalah seorang pejuang kemerdekaan RI tahun 1930-1940-an. Beliau selalu dikejar-kejar (penjajah) Belanda sehingga beliau hijrah hingga ke luar negeri. Beliau menimba ilmu ke luar negeri (Qadian). Lalu pulang di tahun 1940-an ke Indonesia. Beliau menjadi salah satu pengurus Besar Jemaat Ahmadiyah Indonesia. 
+
+### Catatan Kaki
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxODkyMTU3OF19
+eyJoaXN0b3J5IjpbLTIzMDc5MzQxN119
 -->
