@@ -3,7 +3,7 @@ title: Sejarah Jemaat Ahmadiyah di Banjarnegara
 layout: post
 tags: sejarah
 description: sejarah jemaat ahmadiyah di banjarnegara
-published: false
+published: true
 ---
 
 <p class="quran">بِسۡمِ اللّٰہِ الرَّحۡمٰنِ الرَّحِیۡمِ</p>
@@ -99,5 +99,6 @@ Setelah mempunyai Jamaah yang cukup banyak, maka didirikanlah cabang Jemaat loka
 
 Dengan keadaan alam seperti itu, memang sudah sewajarnya mayoritas penduduk sekitar berprofesi menjadi petani. Mereka mengurus sawah dan kebun. Ada pula yang berternak ikan dan lain-lain.-->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE0OTAzNDU0NSwxNDUwMDQwNTk5XX0=
+eyJoaXN0b3J5IjpbMTYwMDIyNjgsMTE0OTAzNDU0NSwxNDUwMD
+QwNTk5XX0=
 -->
