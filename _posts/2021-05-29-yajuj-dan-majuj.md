@@ -986,6 +986,8 @@ Mereka akan mengatakan kepadanya: 'Wahai Dzul-Qarnain! Ya'juj dan Ma'juj telah m
 
 ### Beberapa Negara Penjajah dari Eropa
 
+Imperium kolonial adalah hasil dari Zaman Penjelajahan Eropa (atau Zaman Pelayaran yang dimulai dengan lomba penjelajahan antara kekuatan laut paling maju pada masa itu, Portugal dan Spanyol, pada abad ke-15. Dorongan awal di balik kekaisaran laut yang sudah tidak ada lagi ini dan kekaisaran yang melanjutkannya adalah perdagangan, didorong oleh ide-ide baru dan kapitalisme yang muncul dari Renaisans Eropa. Perjanjian juga dibuat untuk membagi dunia di antara mereka tahun 1479, 1493, dan 1494.
+
 #### Perancis
 
 Prancis mempunyai area kekuasaan lebih dari sepuluh juta kilometer persegi. Kekuasaan Prancis banyak terletak di benua Afrika. Oleh karena itu, negara-negara di benua Afrika rata-rata menggunakan bahasa Prancis dalam kehidupan sehari-hari. [[^grid-01]]
@@ -1043,6 +1045,6 @@ Portugal mendirikan kekuasaan kolonial dari Brasil, di Amerika Selatan, hingga b
 
 {% endcomment %}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzkxOTcxMTEsNTU1NjUxOTQsNzA3OT
-QyNjAzLC0xMjgxMjE2NjA0XX0=
+eyJoaXN0b3J5IjpbLTYxNTcxOTI1Miw1NTU2NTE5NCw3MDc5ND
+I2MDMsLTEyODEyMTY2MDRdfQ==
 -->
