@@ -38,15 +38,15 @@ Sejarah Jemaat Ahmadiyah di Banjarnegara dimulai dari Jemaat Bawang-Krucil. Jema
 
 Salah satu dari sekian banyak yang baiat masuk ke dalam Jemaat Ahmadiyah diantaranya adalah:
 
-- bapak Ahmad Siroj
+- pak Ahmad Siroj
 
-- bapak Harjono
+- pak Harjono
 
-- bapak Daryali [[^wawancara_mln_nurhadi_20210525]]
+- pak Daryali [[^wawancara_mln_nurhadi_20210525]]
 
-- bapak Ahmad Muhsin
+- pak Ahmad Muhsin
 
-- bapak Sukarjo
+- pak Sukarjo
 
 - [bapak Suripto](/2021/05/25/dzikir-khoir-muhammad-suripto-hadi-siswoyo.html) yang ketika itu beliau berumur sekira 21-an tahun. [[^wawancara_mln_nurhadi_20210525]]
 
@@ -99,6 +99,6 @@ Setelah mempunyai Jamaah yang cukup banyak, maka didirikanlah cabang Jemaat loka
 
 Dengan keadaan alam seperti itu, memang sudah sewajarnya mayoritas penduduk sekitar berprofesi menjadi petani. Mereka mengurus sawah dan kebun. Ada pula yang berternak ikan dan lain-lain.-->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTE3MjIzNjQsMTYwMDIyNjgsMTE0OT
+eyJoaXN0b3J5IjpbLTE5ODAzNTI4MjcsMTYwMDIyNjgsMTE0OT
 AzNDU0NSwxNDUwMDQwNTk5XX0=
 -->
