@@ -16,7 +16,7 @@ Jemaat Ahmadiyah Bawang adalah salah satu Jemaat yang cukup tua di Jawa Tengah. 
 
 Jemaat yang kita kenal dengan Krucil itu terletak di kampung atau dukuh Krucil, desa Winong, kecamatan Bawang, Kabupaten Banjarnegara. 
 
-Berdasarkan bentuk tata alam dan penyebaran geografis, Banjarnegara dibagi menjadi tiga zona, yaitu: 
+<!-- Berdasarkan bentuk tata alam dan penyebaran geografis, Banjarnegara dibagi menjadi tiga zona, yaitu: 
 
 - Pertama, Zona Utara, adalah kawasan pegunungan. 
 
@@ -26,7 +26,7 @@ Berdasarkan bentuk tata alam dan penyebaran geografis, Banjarnegara dibagi menja
 
 [^wikipedia_banjarnegara]: [Wikipedia - Banjarnegara](https://id.wikipedia.org/wiki/Kabupaten_Banjarnegara)
 
-Dengan keadaan alam seperti itu, memang sudah sewajarnya mayoritas penduduk sekitar berprofesi menjadi petani. Mereka mengurus sawah dan kebun. Ada pula yang berternak ikan dan lain-lain.
+Dengan keadaan alam seperti itu, memang sudah sewajarnya mayoritas penduduk sekitar berprofesi menjadi petani. Mereka mengurus sawah dan kebun. Ada pula yang berternak ikan dan lain-lain.-->
 
 Di Desa Winong ini terbagi menjadi lima kampung, yaitu: 
 
@@ -110,6 +110,7 @@ Setelah mempunyai Jamaah yang cukup banyak, maka didirikanlah cabang Jemaat loka
 ### Catatan Kaki
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NzIwNDU2MzUsNzg1ODMxNTQxLC0zNT
-Y4ODgzNTcsMjA2NTcyNDIyNiw4MDc4NDEyMzJdfQ==
+eyJoaXN0b3J5IjpbMTg3MTI2OTA4NiwtMTg3MjA0NTYzNSw3OD
+U4MzE1NDEsLTM1Njg4ODM1NywyMDY1NzI0MjI2LDgwNzg0MTIz
+Ml19
 -->
