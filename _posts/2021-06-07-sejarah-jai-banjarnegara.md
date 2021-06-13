@@ -30,10 +30,9 @@ Dari penduduk desa Winong yang berjumlah 3.088 jiwa, penduduk kampung Krucil ada
 
 ### Pengenalan Jemaat Ahmadiyah
 
-Sejarah Jemaat Ahmadiyah di Banjarnegara dimulai dari Jemaat Bawang-Krucil. Jemaat Ahmadiyah dahulu berpusat di Krucil. Ajaran Jemaat dibawa dan diperkenalkan oleh bapak Ahmad Rusydi [[^edi_sujarwo_20210607]]. Setelah beliau
+Sejarah Jemaat Ahmadiyah di Banjarnegara dimulai dari Jemaat Bawang-Krucil. Jemaat Ahmadiyah dahulu berpusat di Krucil. Ajaran Jemaat dibawa dan diperkenalkan oleh bapak [Ahmad Rusydi](/2021/06/07/profil-ahmad-rusydi.html) [[^edi_sujarwo_20210607]]. Setelah beliau
 
 [^edi_sujarwo_20210607]: Wawancara dengan bapak Edi Sujarwo via Whatsapp Call tanggal 07-Jun-2021.
-
 
 Diawali dengan pulangnya seorang tokoh yang bernama pak Rusydi dari luar negeri pada tahun 1960-an. Sudah banyak orang Islam ketika itu. Kebanyakan mereka belum mengenal tentang Ahmadiyah. Beliau pulang dan memperkenalkan tentang kedatangan Imam Mahdi kepada warga masyarakat Krucil. Awalnya beliau tidak diterima masyarakat. Setelah berlalunya waktu, setelah beliau banyak menyampaikan ceramah dan lain-lain, akhirnya beliau diterima masyarakat. Selanjutnya Banyak dari antara mereka yang tertarik dengan ajaran yang disajikan melalui Jemaat Ahmadiyah. Setelah itu terjadi baiat massal (menerima Jemaat Ahmadiyah) yang dilaksanakan beberapa tahap. Salah satunya dilakukan di tahun 1963 [[^wawancara_mln_nurhadi_20210525]].
 
@@ -100,5 +99,5 @@ Setelah mempunyai Jamaah yang cukup banyak, maka didirikanlah cabang Jemaat loka
 
 Dengan keadaan alam seperti itu, memang sudah sewajarnya mayoritas penduduk sekitar berprofesi menjadi petani. Mereka mengurus sawah dan kebun. Ada pula yang berternak ikan dan lain-lain.-->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQyMTQ5MjI1OCwxNDUwMDQwNTk5XX0=
+eyJoaXN0b3J5IjpbMTE0OTAzNDU0NSwxNDUwMDQwNTk5XX0=
 -->
