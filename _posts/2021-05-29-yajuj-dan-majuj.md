@@ -1020,9 +1020,11 @@ Periode Keemasan Imperium Britania terjadi tahun 1815 - 1914, ketika kekuasaan R
 
 [^wikipedia_negara_jajahan_britania]: [Wikipedia - Daftar negara jajahan Imperium Britania](https://id.wikipedia.org/wiki/Daftar_negara_jajahan_Imperium_Britania)
 
-#### Portugis
+#### Portugal
 
-Portugal mendirikan kekuasaan kolonial dari Brasil, di Amerika Selatan, hingga beberapa koloni di Afrika (terutama Guinea Portugis, Tanjung Verde, São Tomé dan Príncipe, Angola dan Mozambik), di India Portugis (terutama Bombay dan Goa), di Tiongkok (Makau), dan Oseania (terutama Timor, khususnya Timor Timur), di antara banyak jajahan yang lebih kecil atau tidak berlangsung lama
+Portugal mendirikan kekuasaan kolonial dari Brasil, di Amerika Selatan, hingga beberapa koloni di Afrika (terutama Guinea Portugis, Tanjung Verde, São Tomé dan Príncipe, Angola dan Mozambik), di India Portugis (terutama Bombay dan Goa), di Tiongkok (Makau), dan Oseania (terutama Timor, khususnya Timor Timur), di antara banyak jajahan yang lebih kecil atau tidak berlangsung lama. [[^wikipedia_imperium_kolonial]]
+
+[^wikipedia_imperium_kolonial]: [Wikipedia - Imperium Kolonial](https://id.wikipedia.org/wiki/Imperium_kolonial)
 
 {% comment %}
 {% endcomment %}
@@ -1041,6 +1043,6 @@ Portugal mendirikan kekuasaan kolonial dari Brasil, di Amerika Selatan, hingga b
 
 {% endcomment %}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxNDA2NjQzMyw1NTU2NTE5NCw3MDc5ND
-I2MDMsLTEyODEyMTY2MDRdfQ==
+eyJoaXN0b3J5IjpbLTEzMzkxOTcxMTEsNTU1NjUxOTQsNzA3OT
+QyNjAzLC0xMjgxMjE2NjA0XX0=
 -->
