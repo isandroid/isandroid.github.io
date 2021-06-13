@@ -1000,7 +1000,13 @@ Spanyol memulai jajahannya di wilayah Amerika Selatan pada era 1500-an. Mereka  
 
 #### 3. Turki
 
+Turki dahulu dikenal dengan *Kekaisaran Ottoman* juga pernah memiliki wilayah jajahan yang sangat luas. Wilayah tersebut bahkan mencakup tiga benua utama, yakni Eropa, Asia, dan Afrika [[^grid-01]].
 
+#### 4. Belanda
+
+Indonesia dahulu bernama Hindia Belanda yang merupakan salah satu wilayah terluasnya.
+
+Selain itu pula, wilayah jajahan Belanda juga mencakup Belgia, Brazil, Pantai Gading, Luxembourg, Amerika, Sri Lanka, Taiwan, Afrika Selatan, dan Suriname.
 
 {% comment %}
 {% endcomment %}
@@ -1019,5 +1025,5 @@ Spanyol memulai jajahannya di wilayah Amerika Selatan pada era 1500-an. Mereka  
 
 {% endcomment %}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTM4MzM4NzIwLC0xMjgxMjE2NjA0XX0=
+eyJoaXN0b3J5IjpbLTc1MDU5NzU0NCwtMTI4MTIxNjYwNF19
 -->
