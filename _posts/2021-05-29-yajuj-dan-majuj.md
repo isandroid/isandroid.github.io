@@ -988,9 +988,9 @@ Mereka akan mengatakan kepadanya: 'Wahai Dzul-Qarnain! Ya'juj dan Ma'juj telah m
 
 #### (1) Perancis
 
-Prancis mempunyai area kekuasaan lebih dari sepuluh juta kilometer persegi. Kekuasaan Prancis banyak terletak di benua Afrika. Oleh karena itu, negara-negara di benua Afrika rata-rata menggunakan bahasa Prancis dalam kehidupan sehari-hari.
+Prancis mempunyai area kekuasaan lebih dari sepuluh juta kilometer persegi. Kekuasaan Prancis banyak terletak di benua Afrika. Oleh karena itu, negara-negara di benua Afrika rata-rata menggunakan bahasa Prancis dalam kehidupan sehari-hari. [^grid-01]
 
-
+[^grid-01]: [Termasuk Belanda, Berikut Negara yang Memiliki Kekuasaan dan Dinobatkan Sebagai Penjajah Terluas di Dunia](https://kids.grid.id/read/472587201/termasuk-belanda-berikut-negara-yang-memiliki-kekuasaan-dan-dinobatkan-sebagai-penjajah-terluas-di-dunia?page=all)
 
 {% comment %}
 {% endcomment %}
@@ -1009,5 +1009,5 @@ Prancis mempunyai area kekuasaan lebih dari sepuluh juta kilometer persegi. Keku
 
 {% endcomment %}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjE4NDI3MDMxXX0=
+eyJoaXN0b3J5IjpbMjAwNjYxMTIwM119
 -->
