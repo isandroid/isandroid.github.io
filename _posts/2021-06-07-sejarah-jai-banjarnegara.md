@@ -16,26 +16,11 @@ Jemaat Ahmadiyah Bawang adalah salah satu Jemaat yang cukup tua di Jawa Tengah. 
 
 Jemaat yang kita kenal dengan Krucil itu terletak di kampung atau dukuh Krucil, desa Winong, kecamatan Bawang, Kabupaten Banjarnegara. 
 
-<!-- Berdasarkan bentuk tata alam dan penyebaran geografis, Banjarnegara dibagi menjadi tiga zona, yaitu: 
-
-- Pertama, Zona Utara, adalah kawasan pegunungan. 
-
-- Kedua, Zona Tengah, merupakan zona Depresi Serayu yang cukup subur. 
-
-- Dan terakhir Zona Selatan, merupakan bagian dari Pegunungan Serayu Selatan, merupakan daerah pegunungan yang memiliki relief curam. Desa Winong termasuk dalam zona selatan. Relief tanahnya bergelombang dan subur. [[^wikipedia_banjarnegara]]
-
-[^wikipedia_banjarnegara]: [Wikipedia - Banjarnegara](https://id.wikipedia.org/wiki/Kabupaten_Banjarnegara)
-
-Dengan keadaan alam seperti itu, memang sudah sewajarnya mayoritas penduduk sekitar berprofesi menjadi petani. Mereka mengurus sawah dan kebun. Ada pula yang berternak ikan dan lain-lain.-->
-
 Di Desa Winong ini terbagi menjadi lima kampung, yaitu: 
 
 - Dukuh Krucil, 
-
 - Dukuh Kaliurang, 
-
 - Dukuh Winong, 
-
 - Dukuh Plumbungan 
 
 - Dukuh Gunungsari. 
@@ -109,6 +94,17 @@ Setelah mempunyai Jamaah yang cukup banyak, maka didirikanlah cabang Jemaat loka
 
 ### Catatan Kaki
 
+<!-- Berdasarkan bentuk tata alam dan penyebaran geografis, Banjarnegara dibagi menjadi tiga zona, yaitu: 
+
+- Pertama, Zona Utara, adalah kawasan pegunungan. 
+
+- Kedua, Zona Tengah, merupakan zona Depresi Serayu yang cukup subur. 
+
+- Dan terakhir Zona Selatan, merupakan bagian dari Pegunungan Serayu Selatan, merupakan daerah pegunungan yang memiliki relief curam. Desa Winong termasuk dalam zona selatan. Relief tanahnya bergelombang dan subur. [[^wikipedia_banjarnegara]]
+
+[^wikipedia_banjarnegara]: [Wikipedia - Banjarnegara](https://id.wikipedia.org/wiki/Kabupaten_Banjarnegara)
+
+Dengan keadaan alam seperti itu, memang sudah sewajarnya mayoritas penduduk sekitar berprofesi menjadi petani. Mereka mengurus sawah dan kebun. Ada pula yang berternak ikan dan lain-lain.-->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODIxODc0Nzc4XX0=
+eyJoaXN0b3J5IjpbLTEwMTk0MTMwMzRdfQ==
 -->
