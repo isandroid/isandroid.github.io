@@ -996,7 +996,11 @@ Prancis mempunyai area kekuasaan lebih dari sepuluh juta kilometer persegi. Keku
 
 Pada era kolonialisme, Spanyol merupakan negara Eropa yang cukup aktif dalam menjelajah dan mencari negara-negara baru untuk dijajah.
 
-Spanyol memulai jajahannya di wilayah Amerika Selatan pada era 1500-an silam, mulai dari Meksiko, Kuba, Puerto Rico, dan negara sekitarnya.
+Spanyol memulai jajahannya di wilayah Amerika Selatan pada era 1500-an. Mereka  mulai menjelajah Meksiko, Kuba, Puerto Rico, dan negara sekitarnya [[^grid-01]]. 
+
+#### 3. Turki
+
+
 
 {% comment %}
 {% endcomment %}
@@ -1015,5 +1019,5 @@ Spanyol memulai jajahannya di wilayah Amerika Selatan pada era 1500-an silam, mu
 
 {% endcomment %}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODEyMTY2MDRdfQ==
+eyJoaXN0b3J5IjpbNTM4MzM4NzIwLC0xMjgxMjE2NjA0XX0=
 -->
