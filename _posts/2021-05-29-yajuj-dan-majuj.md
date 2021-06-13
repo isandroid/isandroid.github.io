@@ -1020,7 +1020,7 @@ Penjajahan yang dilakukan negara-negara eropa diawali oleh *Imperium kolonial* y
     -   [Perluasan seberang laut Amerika Serikat](https://id.wikipedia.org/w/index.php?title=Perluasan_seberang_laut_Amerika_Serikat&action=edit&redlink=1 "Perluasan seberang laut Amerika Serikat (halaman belum tersedia)")
     -   [Daerah insuler Amerika Serikat](https://id.wikipedia.org/wiki/Daerah_insuler "Daerah insuler")
 
-Dari daftar imperi
+Dari daftar imperium-imperium di atas, mayoritas kerajaan tersebut adalah berasal dari negara-negara Eropa.
 
 ### Beberapa Negara Penjajah dari Eropa
 
@@ -1081,6 +1081,6 @@ Portugal mendirikan kekuasaan kolonial dari Brasil, di Amerika Selatan, hingga b
 
 {% endcomment %}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2Mjc1OTU4NDYsLTEzNjI1OTQ4NzksNT
+eyJoaXN0b3J5IjpbLTE2NDg3NDQ5NDYsLTEzNjI1OTQ4NzksNT
 U1NjUxOTQsNzA3OTQyNjAzLC0xMjgxMjE2NjA0XX0=
 -->
