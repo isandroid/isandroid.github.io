@@ -986,11 +986,17 @@ Mereka akan mengatakan kepadanya: 'Wahai Dzul-Qarnain! Ya'juj dan Ma'juj telah m
 
 ### Beberapa Negara Penjajah
 
-#### (1) Perancis
+#### 1. Perancis
 
-Prancis mempunyai area kekuasaan lebih dari sepuluh juta kilometer persegi. Kekuasaan Prancis banyak terletak di benua Afrika. Oleh karena itu, negara-negara di benua Afrika rata-rata menggunakan bahasa Prancis dalam kehidupan sehari-hari. [^grid-01]
+Prancis mempunyai area kekuasaan lebih dari sepuluh juta kilometer persegi. Kekuasaan Prancis banyak terletak di benua Afrika. Oleh karena itu, negara-negara di benua Afrika rata-rata menggunakan bahasa Prancis dalam kehidupan sehari-hari. [[^grid-01]]
 
 [^grid-01]: [Termasuk Belanda, Berikut Negara yang Memiliki Kekuasaan dan Dinobatkan Sebagai Penjajah Terluas di Dunia](https://kids.grid.id/read/472587201/termasuk-belanda-berikut-negara-yang-memiliki-kekuasaan-dan-dinobatkan-sebagai-penjajah-terluas-di-dunia?page=all)
+
+#### 2. Spanyol
+
+Pada era kolonialisme, Spanyol merupakan negara Eropa yang cukup aktif dalam menjelajah dan mencari negara-negara baru untuk dijajah.
+
+Spanyol memulai jajahannya di wilayah Amerika Selatan pada era 1500-an silam, mulai dari Meksiko, Kuba, Puerto Rico, dan negara sekitarnya.
 
 {% comment %}
 {% endcomment %}
@@ -1009,5 +1015,5 @@ Prancis mempunyai area kekuasaan lebih dari sepuluh juta kilometer persegi. Keku
 
 {% endcomment %}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwNjYxMTIwM119
+eyJoaXN0b3J5IjpbLTEyODEyMTY2MDRdfQ==
 -->
