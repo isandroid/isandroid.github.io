@@ -1,4 +1,11 @@
-**BAB III**
+---
+layout: post
+title:  Skripsi Sufni Ahmad - Bab III
+tags: tafsirquran khilafat khilafah
+description: tafsir alquran surat an-nur 24 ayat 56
+---
+
+### BAB III
 
 **MASUKNYA AJARAN AHMADIYAH DI BANJARNEGARA**
 
@@ -109,5 +116,5 @@ Akibat buruk tidak akan menimpa Jemaat Ilahi ini, justru akibat buruk akan menim
 
 [^19]: **_Ibid._**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTgxMTMyNjg1XX0=
+eyJoaXN0b3J5IjpbLTE0NzYwMjc5NjhdfQ==
 -->
