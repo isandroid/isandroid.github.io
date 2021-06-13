@@ -2,9 +2,13 @@
 title: Profil Ahmad Rusydi, Perintis Jemaat di Banjarnegara
 layout: post
 tags: sejarah
-description: sejarah jemaat ahmadiyah di banjarnegara
-published: false
+description: profil ahmad rusydi, perintis jemaat ahmadiyah di banjarnegara
+published: true
 ---
+
+## {{ page.title }}
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjg2NzE3MjI1XX0=
+eyJoaXN0b3J5IjpbLTcxMzE4MzQyNl19
 -->
