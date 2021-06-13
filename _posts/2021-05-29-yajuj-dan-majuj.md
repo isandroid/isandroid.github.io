@@ -967,11 +967,14 @@ Penjajahan yang dilakukan negara-negara eropa diawali oleh *Imperium kolonial* y
 
 ![Imperium Kolonial](/assets/images/imperium-kolonial.webp)
 
-Dikutip dari Hermeneutika Pascakolonial (2004) karya Mudji Sutrisno, kolonialisme berasal dari kata latin colonia artinya pertanian atau permukiman. Pengertian kolonialisme adalah politik yang dijalankan mengenai suatu koloni, suatu bagian dari imperium. Awalnya hal ini dikaitkan dengan oang-orang Romawi yang bermukim di negeri-negeri lain dengan tetap mempertahankan kewarganegaraan mereka.  
+Dikutip dari Hermeneutika Pascakolonial (2004) karya Mudji Sutrisno, kolonialisme berasal dari kata latin colonia artinya pertanian atau permukiman. Pengertian kolonialisme adalah politik yang dijalankan mengenai suatu koloni, suatu bagian dari imperium. Awalnya hal ini dikaitkan dengan oang-orang Romawi yang bermukim di negeri-negeri lain dengan tetap mempertahankan kewarganegaraan mereka. 
+
+
+ [[^kolonialisme_imperialisme]]
   
-Artikel ini telah tayang di [Kompas.com](https://www.kompas.com/) dengan judul "Pengertian Kolonialisme dan Imperialisme", Klik untuk baca: [https://www.kompas.com/skola/read/2020/07/09/180000569/pengertian-kolonialisme-dan-imperialisme?page=all](https://www.kompas.com/skola/read/2020/07/09/180000569/pengertian-kolonialisme-dan-imperialisme?page=all).  
-	Penulis : Serafica Gischa  
-	Editor : Serafica Gischa  
+[^kolonialisme_imperialisme]: [Pengertian Kolonialisme dan Imperialisme](https://www.kompas.com/skola/read/2020/07/09/180000569/pengertian-kolonialisme-dan-imperialisme?page=all).  
+	- Penulis : Serafica Gischa  
+	- Editor : Serafica Gischa  
 
 -   [Kekaisaran Spanyol](https://id.wikipedia.org/wiki/Kekaisaran_Spanyol)  (1402 sampai 1975)
     -   [Kolonisasi Spanyol di Amerika](https://id.wikipedia.org/wiki/Kolonisasi_Spanyol_di_Amerika "Kolonisasi Spanyol di Amerika")
@@ -1064,7 +1067,7 @@ Portugal mendirikan kekuasaan kolonial dari Brasil, di Amerika Selatan, hingga b
 
 {% endcomment %}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTAxNjA4NTQsLTIwNDY5Mjg5NzQsLT
-EzNjI1OTQ4NzksNTU1NjUxOTQsNzA3OTQyNjAzLC0xMjgxMjE2
-NjA0XX0=
+eyJoaXN0b3J5IjpbLTc1NjE4MDAzMCwtMjA0NjkyODk3NCwtMT
+M2MjU5NDg3OSw1NTU2NTE5NCw3MDc5NDI2MDMsLTEyODEyMTY2
+MDRdfQ==
 -->
