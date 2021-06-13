@@ -1004,9 +1004,17 @@ Turki dahulu dikenal dengan *Kekaisaran Ottoman* juga pernah memiliki wilayah ja
 
 #### 4. Belanda
 
-Indonesia dahulu bernama Hindia Belanda yang merupakan salah satu wilayah terluasnya.
+Indonesia dahulu bernama Hindia Belanda yang merupakan salah satu jajahan  terluasnya.
 
-Selain itu pula, wilayah jajahan Belanda juga mencakup Belgia, Brazil, Pantai Gading, Luxembourg, Amerika, Sri Lanka, Taiwan, Afrika Selatan, dan Suriname.
+Selain itu pula, jajahannya mencakup Belgia, Brazil, Pantai Gading, Luxembourg, Amerika, Sri Lanka, Taiwan, Afrika Selatan, dan Suriname [[^grid-01]].
+
+#### 5. Inggris
+
+Negara dengan wilayah jajahan paling luas di dunia adalah Inggris.
+
+Negara Ratu Elizabeth ini menduduki banyak negara di seluruh penjuru dunia.
+
+Area kekuasaan Inggris meliputi Amerika Serikat, Kenya, Uganda, Kepulauan Zanzibar, India, Sri Lanka, Bangladesh, Pakistan, Malaysia, Hong Kong, Singapura, Kepulauan Salomon, dan masih banyak lagi [[^grid-01]].
 
 {% comment %}
 {% endcomment %}
@@ -1025,5 +1033,5 @@ Selain itu pula, wilayah jajahan Belanda juga mencakup Belgia, Brazil, Pantai Ga
 
 {% endcomment %}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1MDU5NzU0NCwtMTI4MTIxNjYwNF19
+eyJoaXN0b3J5IjpbNzA3OTQyNjAzLC0xMjgxMjE2NjA0XX0=
 -->
