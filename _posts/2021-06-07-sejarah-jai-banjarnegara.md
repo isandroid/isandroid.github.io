@@ -22,10 +22,11 @@ Di Desa Winong ini terbagi menjadi lima kampung, yaitu:
 - Dukuh Kaliurang, 
 - Dukuh Winong, 
 - Dukuh Plumbungan 
-
 - Dukuh Gunungsari. 
 
-Dari penduduk desa Winong yang berjumlah 3.088 jiwa, penduduk kampung Krucil ada sebanyak 501 jiwa. Yaitu 16,2 persen dari penduduk desa tersebut. (Wawancara dengan Kepala Urusan Pemerintahan Desa Winong, Muhammad Sodik, 24 Maret 2020 pukul 08.50 WIB)
+Dari penduduk desa Winong yang berjumlah 3.088 jiwa, penduduk kampung Krucil ada sebanyak 501 jiwa. Yaitu 16,2 persen dari penduduk desa tersebut. [[^wawancara_muhammad_sodik]]
+
+[^wawancara_muhammad_sodik_2020]: Wawancara dengan Kepala Urusan Pemerintahan Desa Winong, Muhammad Sodik, 24 Maret 2020 pukul 08.50 WIB
 
 ### Pengenalan Jemaat Ahmadiyah
 
@@ -106,5 +107,5 @@ Setelah mempunyai Jamaah yang cukup banyak, maka didirikanlah cabang Jemaat loka
 
 Dengan keadaan alam seperti itu, memang sudah sewajarnya mayoritas penduduk sekitar berprofesi menjadi petani. Mereka mengurus sawah dan kebun. Ada pula yang berternak ikan dan lain-lain.-->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTk0MTMwMzRdfQ==
+eyJoaXN0b3J5IjpbMTU4MjMyNjg0OF19
 -->
