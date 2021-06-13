@@ -971,8 +971,7 @@ Dikutip dari Hermeneutika Pascakolonial (2004) karya Mudji Sutrisno, kolonialism
 
 Kata kolonialisme kemudian diartikan sebagai penaklukan dan penguasaan atas tanah dan harta penduduk asli oleh penduduk pendatang.  Terkadang pembentukan komunitas (koloni) baru ini ditandai dengan usaha membubarkan dan membentuk kembali komunitas yang sudah ada dengan melibatkan praktek perdagangan, penjarahan, pembunuhan massal, perbudakan, dan pemberontakan. Sistem penguasaan ini umumnya ditandai dengan kewajiban daerah-daerah koloni membayar pajak atau upeti kepada kerajaan pusat.   [[^kolonialisme_imperialisme]]
   
-[^kolonialisme_imperialisme]: [Pengertian Kolonialisme dan Imperialisme](https://www.kompas.com/skola/read/2020/07/09/180000569/pengertian-kolonialisme-dan-imperialisme?page=all).  Penulis dan Editor Serafica Gischa  
-	- Editor : Serafica Gischa  
+[^kolonialisme_imperialisme]: [Kompas - Pengertian Kolonialisme dan Imperialisme](https://www.kompas.com/skola/read/2020/07/09/180000569/pengertian-kolonialisme-dan-imperialisme?page=all).  Penulis dan Editor: Serafica Gischa.
 
 -   [Kekaisaran Spanyol](https://id.wikipedia.org/wiki/Kekaisaran_Spanyol)  (1402 sampai 1975)
     -   [Kolonisasi Spanyol di Amerika](https://id.wikipedia.org/wiki/Kolonisasi_Spanyol_di_Amerika "Kolonisasi Spanyol di Amerika")
@@ -1065,7 +1064,7 @@ Portugal mendirikan kekuasaan kolonial dari Brasil, di Amerika Selatan, hingga b
 
 {% endcomment %}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzUyOTQ1MTkyLC0yMDQ2OTI4OTc0LC0xMz
-YyNTk0ODc5LDU1NTY1MTk0LDcwNzk0MjYwMywtMTI4MTIxNjYw
-NF19
+eyJoaXN0b3J5IjpbLTE2Mjk0NjU4NjcsLTIwNDY5Mjg5NzQsLT
+EzNjI1OTQ4NzksNTU1NjUxOTQsNzA3OTQyNjAzLC0xMjgxMjE2
+NjA0XX0=
 -->
