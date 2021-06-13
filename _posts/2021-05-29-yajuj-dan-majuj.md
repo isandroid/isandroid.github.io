@@ -990,7 +990,37 @@ Penjajahan yang dilakukan negara-negara eropa diawali oleh *Imperium kolonial* y
 
 ![Imperium Kolonial](/assets/images/imperium-kolonial.webp)
 
+-   [Kekaisaran Spanyol](https://id.wikipedia.org/wiki/Kekaisaran_Spanyol)  (1402 sampai 1975)
+    -   [Kolonisasi Spanyol di Amerika](https://id.wikipedia.org/wiki/Kolonisasi_Spanyol_di_Amerika "Kolonisasi Spanyol di Amerika")
+-   [Imperium Portugis](https://id.wikipedia.org/wiki/Imperium_Portugis)  (1415 sampai 1999)
+    -   [Perubahan Imperium Portugis](https://id.wikipedia.org/w/index.php?title=Perubahan_Imperium_Portugis&action=edit&redlink=1 "Perubahan Imperium Portugis (halaman belum tersedia)")
+    -   [Kolonisasi Portugis di Amerika](https://id.wikipedia.org/wiki/Kolonisasi_Portugis_di_Amerika "Belanda")
+-   [Kekaisaran Rusia](https://id.wikipedia.org/wiki/Kekaisaran_Rusia "Kekaisaran Rusia")  (1580 sampai sekarang)
+    -   [Penaklukan Rusia di Siberia](https://id.wikipedia.org/wiki/Penaklukan_Rusia_di_Siberia "Penaklukan Rusia di Siberia")
+    -   [Kolonisasi Rusia di Amerika](https://id.wikipedia.org/wiki/Kolonisasi_Rusia_di_Amerika "Kolonisasi Rusia di Amerika")
+-   [Imperium Britania](https://id.wikipedia.org/wiki/Imperium_Britania "Imperium Britania")  (1607 sampai 1997)
+    -   [Perubahan Imperium Britania](https://id.wikipedia.org/w/index.php?title=Perubahan_Imperium_Britania&action=edit&redlink=1 "Perubahan Imperium Britania (halaman belum tersedia)")
+    -   [Kolonisasi Britania di Amerika](https://id.wikipedia.org/wiki/Kolonisasi_Britania_di_Amerika "Kolonisasi Denmark di Amerika")
+-   [Imperium kolonial Denmark](https://id.wikipedia.org/w/index.php?title=Imperium_kolonial_Denmark&action=edit&redlink=1 "Imperium kolonial Denmark (halaman belum tersedia)")  (1620 sampai 1953)
+    -   [Kolonisasi Denmark di Amerika](https://id.wikipedia.org/wiki/Kolonisasi_Denmark_di_Amerika)
+-   [Imperium kolonial Swedia](https://id.wikipedia.org/wiki/Imperium_kolonial_Swedia "Imperium kolonial Swedia")  (1638 sampai 1663 dan 1785 sampai 1878)
+    -   [Kolonisasi Swedia di Amerika](https://id.wikipedia.org/wiki/Kolonisasi_Swedia_di_Amerika "Kolonisasi Swedia di Amerika")
+-   [Kekaisaran Belanda](https://id.wikipedia.org/wiki/Kekaisaran_Belanda "Kekaisaran Belanda")  (abad ke-17 sampai 1975)
+    -   [Kolonisasi Belanda di Amerika](https://id.wikipedia.org/wiki/Kolonisasi_Belanda_di_Amerika "Kolonisasi Belanda di Amerika")
+-   Kekaisaran Prancis (1804 sampai 1960)
+    -   [Kekaisaran Prancis Pertama](https://id.wikipedia.org/wiki/Kekaisaran_Prancis_Pertama "Kekaisaran Prancis Pertama")  oleh  [Napoleon I](https://id.wikipedia.org/wiki/Napoleon_I_dari_Prancis "Napoleon I dari Prancis")  (1804–1814 atau 1815)
+    -   [Kekaisaran Prancis Kedua](https://id.wikipedia.org/wiki/Kekaisaran_Prancis_Kedua "Imperium kolonial Prancis")  oleh  [Napoleon III](https://id.wikipedia.org/wiki/Napoleon_III_dari_Prancis "Napoleon III dari Prancis")  (1852–1870)
+    -   [Imperium Kolonial Prancis Pertama dan Kedua](https://id.wikipedia.org/wiki/Imperium_kolonial_Prancis)  (1605–1962)
+    -   [Kolonisasi Prancis di Amerika](https://id.wikipedia.org/wiki/Kolonisasi_Prancis_di_Amerika "Kolonisasi Prancis di Amerika")
+-   [Imperium kolonial Jerman](https://id.wikipedia.org/wiki/Imperium_kolonial_Jerman "Imperium kolonial Jerman")  (1883 sampai 1919)
+    -   [Kolonisasi Jerman di Amerika](https://id.wikipedia.org/wiki/Kolonisasi_Jerman_di_Amerika "Kolonisasi Jerman di Amerika")
+-   [Kekaisaran Italia](https://id.wikipedia.org/wiki/Kekaisaran_Italia "Kekaisaran Italia")  (1889 sampai 1943)
+-   [Imperium kolonial Belgia](https://id.wikipedia.org/wiki/Imperium_kolonial_Belgia "Imperium kolonial Belgia")  (1901 sampai 1962)
+-   [Imperium Amerika Serikat](https://id.wikipedia.org/wiki/Imperium_Amerika_Serikat "Imperium Amerika Serikat")  (1812 sampai sekarang)
+    -   [Perluasan seberang laut Amerika Serikat](https://id.wikipedia.org/w/index.php?title=Perluasan_seberang_laut_Amerika_Serikat&action=edit&redlink=1 "Perluasan seberang laut Amerika Serikat (halaman belum tersedia)")
+    -   [Daerah insuler Amerika Serikat](https://id.wikipedia.org/wiki/Daerah_insuler "Daerah insuler")
 
+### Beberapa Negara Penjajah dari Eropa
 
 #### Perancis
 
@@ -1049,6 +1079,6 @@ Portugal mendirikan kekuasaan kolonial dari Brasil, di Amerika Selatan, hingga b
 
 {% endcomment %}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzE2ODQ1MjMsLTEzNjI1OTQ4NzksNTU1Nj
-UxOTQsNzA3OTQyNjAzLC0xMjgxMjE2NjA0XX0=
+eyJoaXN0b3J5IjpbMTc5MjA0NDQ4NiwtMTM2MjU5NDg3OSw1NT
+U2NTE5NCw3MDc5NDI2MDMsLTEyODEyMTY2MDRdfQ==
 -->
