@@ -93,21 +93,13 @@ Kemudian diceritakan juga mengenai tamsil Nabi Musa (as),
 وَاِذۡ قَالَ مُوۡسٰی لِفَتٰٮہُ لَاۤ اَبۡرَحُ حَتّٰۤی اَبۡلُغَ مَجۡمَعَ الۡبَحۡرَیۡنِ اَوۡ اَمۡضِیَ حُقُبًا
 </p>
 
-> Dan *ingatlah* ketika
-Musa berkata kepada teman
-mudanya. “Aku tidak akan
-berhenti *menempuh perjalanan ini*
-sebelum aku sampai ke
-tempat pertemuan dua lautan,
-meskipun aku harus berkelana
-berabad-abad lamanya.
-([QS Al-Kahfi [18]: 61 dengan basmallah](https://openquran.com/18:61))
+> Dan *ingatlah* ketika Musa berkata kepada teman
+mudanya. “Aku tidak akan berhenti *menempuh perjalanan ini*
+sebelum aku sampai ke tempat pertemuan dua lautan, meskipun aku harus berkelana berabad-abad lamanya. ([QS Al-Kahfi [18]: 61 dengan basmallah](https://openquran.com/18:61))
 
 Tafsir: Mulai dengan ayat ini masalah isra’ Nabi Musa As dibahas: Seperti
 telah dikemukakan di atas, para pengikut Nabi Isa As mencapai kekuasaan dan
-kesejahteraan duniawi yang besar; dan dalam perjalanan mereka yang senantiasa
-berubah-ubah itu telah dua kali meninggalkan jejak yang tidak dapat dihapuskan
-dari sejarah dunia. Masa kesejahteraan yang dua kali dialami bangsa-bangsa
+kesejahteraan duniawi yang besar; dan dalam perjalanan mereka yang senantiasa berubah-ubah itu telah dua kali meninggalkan jejak yang tidak dapat dihapuskan dari sejarah dunia. Masa kesejahteraan yang dua kali dialami bangsa-bangsa
 Kristen itu diumpamakan dalam ayat 33 sebagai “dua kebun.” Masa yang pertama
 mulai dengan masuknya Kaisar Roma Konstantin ke agama Kristen, tatkala
 agama Kristen menjadi agama negara, dan keadaan demikian tetap bertahan
@@ -1066,6 +1058,6 @@ Portugal mendirikan kekuasaan kolonial dari Brasil, di Amerika Selatan, hingga b
 
 {% endcomment %}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjYyMTAwMjkyLC0xMzYyNTk0ODc5LDU1NT
-Y1MTk0LDcwNzk0MjYwMywtMTI4MTIxNjYwNF19
+eyJoaXN0b3J5IjpbLTIwNDY5Mjg5NzQsLTEzNjI1OTQ4NzksNT
+U1NjUxOTQsNzA3OTQyNjAzLC0xMjgxMjE2NjA0XX0=
 -->
