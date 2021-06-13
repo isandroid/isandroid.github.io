@@ -987,7 +987,10 @@ Mereka akan mengatakan kepadanya: 'Wahai Dzul-Qarnain! Ya'juj dan Ma'juj telah m
 ### Beberapa Negara Penjajah
 
 #### (1) Perancis
-Prancis mempunyai area kekuasaan lebih dari sepuluh juta kilometer persegi
+
+Prancis mempunyai area kekuasaan lebih dari sepuluh juta kilometer persegi. Kekuasaan Prancis banyak terletak di benua Afrika. Oleh karena itu, negara-negara di benua Afrika rata-rata menggunakan bahasa Prancis dalam kehidupan sehari-hari.
+
+
 
 {% comment %}
 {% endcomment %}
@@ -1006,5 +1009,5 @@ Prancis mempunyai area kekuasaan lebih dari sepuluh juta kilometer persegi
 
 {% endcomment %}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNzk0ODEwNDBdfQ==
+eyJoaXN0b3J5IjpbNjE4NDI3MDMxXX0=
 -->
