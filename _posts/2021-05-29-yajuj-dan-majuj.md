@@ -986,7 +986,8 @@ Mereka akan mengatakan kepadanya: 'Wahai Dzul-Qarnain! Ya'juj dan Ma'juj telah m
 
 ### Beberapa Negara Penjajah
 
-1. 
+#### (1) Perancis
+Prancis mempunyai area kekuasaan lebih dari sepuluh juta kilometer persegi
 
 {% comment %}
 {% endcomment %}
@@ -1005,5 +1006,5 @@ Mereka akan mengatakan kepadanya: 'Wahai Dzul-Qarnain! Ya'juj dan Ma'juj telah m
 
 {% endcomment %}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODUxODk0NDI1XX0=
+eyJoaXN0b3J5IjpbLTEyNzk0ODEwNDBdfQ==
 -->
