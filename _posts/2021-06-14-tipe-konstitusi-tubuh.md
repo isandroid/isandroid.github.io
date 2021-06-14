@@ -3,7 +3,7 @@ title: tipe konstitusi tubuh kita
 layout: post
 tags: homeopathy
 description: tipe konstitusi tubuh kita
-published: false
+published: true
 ---
 <p class="quran">بِسۡمِ اللّٰہِ الرَّحۡمٰنِ الرَّحِیۡمِ</p>
 
@@ -125,5 +125,5 @@ Penggolongan manusia berdasarkan konstitusi tubuh:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzMTQwMTUzNl19
+eyJoaXN0b3J5IjpbMTMyODU4MTY3XX0=
 -->
