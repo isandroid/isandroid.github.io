@@ -74,7 +74,37 @@ published: true
 
 ### Rasa takut
 
+-   Takut sendirian
+    
+-   Takut pencuri
+    
+-   Takut ruangan gelap, takut hantu
+    
+-   Takut miskin
+    
+-   Takut menderita penyakit yang tidak dapat disembuhkan 🡪 kematian
+    
+-   Kuatir kesehatan keluarganya
+    
+-   Keracunan makanan yang basi
 
+### Keluhan Membaik
+
+-   Jika Suhu hangat
+    
+-   Jika Bila bergerak
+    
+-   Jika Berbaring dengan kepala tegak (disangga)
+
+### Keluhan Memburuk
+
+-   Jika di udara dingin dan berangin
+    
+-   Jika makanan dan minuman dingin
+    
+-   Jika di sisi badan sebelah kanan
+    
+-   Jika waktu antara tengah malam dan jam 2 pagi
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTg4MzQ4NzNdfQ==
+eyJoaXN0b3J5IjpbLTExMzczNTI2MzZdfQ==
 -->
