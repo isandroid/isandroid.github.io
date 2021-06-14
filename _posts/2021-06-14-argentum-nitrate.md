@@ -94,7 +94,26 @@ published: true
     
 -   selalu merasa khawatir, yang tidak rasional.
 
+- Rasa Takut :
 
+- ketinggian dan gedung-gedung tinggi,
+    
+-   ruang sempit tertutup & tempat-tempat ramai,
+
+-   gagal dalam usaha,
+    
+-   takut terlambat,
+    
+-   takut sendirian,
+    
+-   takut pencuri,
+    
+-   takut kehilangan kendali diri,
+    
+-   takut sakit yang tidak dapat disembuhkan
+    
+
+dan takut mati.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjM1OTQzMDg5XX0=
+eyJoaXN0b3J5IjpbLTcyNTAzNjg0MywyMzU5NDMwODldfQ==
 -->
