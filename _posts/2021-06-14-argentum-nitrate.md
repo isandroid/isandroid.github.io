@@ -132,17 +132,21 @@ published: true
 
 -   Menyukai :
 
-- Makanan asin (salty foods)
+	- Makanan asin (salty foods)
 
-Makanan manis (sweet foods)
+	- Makanan manis (sweet foods)
 
--   Tidak menyukai : makanan dingin
+-  Tidak menyukai : makanan dingin
     
 -   Lain-lain :
     
+	- Sangat menyukai (“kecanduan”) makanan manis tetapi mudah terganggu oleh makanan manis
 
-Sangat menyukai (“kecanduan”) makanan manis tetapi mudah terganggu oleh makanan manis
+### General  Features
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2ODA2ODQ2LC05NjEyMzY0NTEsLTEwMD
+eyJoaXN0b3J5IjpbMzcwNDI5MzQ2LC05NjEyMzY0NTEsLTEwMD
 QxNTM1NjksMjM1OTQzMDg5XX0=
 -->
