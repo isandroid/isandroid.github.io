@@ -96,24 +96,34 @@ published: true
 
 - Rasa Takut :
 
-- ketinggian dan gedung-gedung tinggi,
-    
--   ruang sempit tertutup & tempat-tempat ramai,
+	- ketinggian dan gedung-gedung tinggi,
+	    
+	- ruang sempit tertutup & tempat-tempat ramai,
 
--   gagal dalam usaha,
+	- gagal dalam usaha,
+	    
+	- takut terlambat,
+	    
+	- takut sendirian,
+	    
+	- takut pencuri,
+	    
+	- takut kehilangan kendali diri,
+	    
+	- takut sakit yang tidak dapat disembuhkan
+
+	- dan takut mati.
+
+- Penampilan fisik
+
+- Menunjukkan kecenderungan lebih tua dari umurnya,
+
+- tampak tegang,
     
--   takut terlambat,
-    
--   takut sendirian,
-    
--   takut pencuri,
-    
--   takut kehilangan kendali diri,
-    
--   takut sakit yang tidak dapat disembuhkan
+- kecenderungan banyak berkeringat
     
 
-dan takut mati.
+akibat nervous.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyNTAzNjg0MywyMzU5NDMwODldfQ==
+eyJoaXN0b3J5IjpbLTcyNTk0MDUzNSwyMzU5NDMwODldfQ==
 -->
