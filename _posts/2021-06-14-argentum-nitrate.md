@@ -68,7 +68,33 @@ published: true
     
 -   Keluhan pencernaan yang dilandasi nervous atau akibat banyak mengkonsumsi makanan manis, gemar makanan manis.
 
+-   Tampak lebih tua dari umurnya.
+    
+-   Benci ruangan stuffy (penuh-sesak)
+    
+-   Kasar, berani, mudah distimulasi (excitable) dan kuatir (apprehensive) dan dapat menderita sakit bila mengingat sekolah
+    
+-   Cenderung sulit tidur akibat anxietas
+    
+-   Gemar makanan asin dan manis 🡪 diare.
+    
+-   Bayi yang menyusu, mengalami diare dan kolik bila si ibu makan makanan manis
+
+#### Kepribadian dan Temperamen
+
+-   Tipe ekstrovert, penggembira,
+    
+-   mudah dipengaruhi,
+    
+-   emosi tidak stabil mudah berubah dari tertawa - menangis atau marah,
+    
+-   Tidak dapat mengontrol far-ranging minds (pikiran mengembara ke-mana2)
+    
+-   Mudah hilang kesabaran,
+    
+-   selalu merasa khawatir, yang tidak rasional.
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDk1NDY3NzFdfQ==
+eyJoaXN0b3J5IjpbMjM1OTQzMDg5XX0=
 -->
