@@ -87,7 +87,37 @@ Faktor berperan memicu timbulnya penyakit atau memperburuk penyakit:
 
 Penggolongan manusia berdasarkan konstitusi tubuh:
 
+1.  Argentum nitrate
+    
+2.  Arsenicum album
+    
+3.  Calcarea carbonica
+    
+4.  Graphite
+    
+5.  Ignatia
+    
+6.  Lycopodium
+    
+7.  Merc solubilis
+    
+8.  Natrum Murniatum (Natrum mur)
+
+9.  Phosphorus
+    
+10.  Pulsatilla
+    
+11. Sepia
+
+12. Silicea
+
+13. Nux vomica
+
+14. Sulphur
+
+15. Lachesis
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NjYwNjc0MzddfQ==
+eyJoaXN0b3J5IjpbLTczODg2MDZdfQ==
 -->
