@@ -56,7 +56,19 @@ published: true
     
 -   *dizziness*
 
+-   Pada wanita : rahim terasa turun pada prolaps atau menstruasi.
+    
+-   Selaput lendir : untuk peradangan selaput lendir, terutama konjungtiva (konjungtivitis)
+    
+-   Keluhan-keluhan terutama pada bagian tubuh sebelah kiri.
+
+### Orang dengan Tipe Argentum Nitrate
+
+-   Kata kunci : anxietas, fears, phobias.
+    
+-   Keluhan pencernaan yang dilandasi nervous atau akibat banyak mengkonsumsi makanan manis, gemar makanan manis.
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODc5MzAzMTVdfQ==
+eyJoaXN0b3J5IjpbLTE2MDk1NDY3NzFdfQ==
 -->
