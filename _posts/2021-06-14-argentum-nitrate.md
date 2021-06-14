@@ -144,9 +144,21 @@ published: true
 
 ### General  Features
 
+- Merasa nyaman (keluhan membaik) :
 
+	- di lingkungan/ suasana sejuk dan udara yang segar
+
+- Keluhan memburuk :
+
+	-   Udara panas, malam hari
+	    
+	-   Berbaring di sisi tubuh sebelah kiri
+	    
+	-   Stres emosi atau terlalu banyak pekerjaan
+	    
+	-   Waktu menstruasi
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzcwNDI5MzQ2LC05NjEyMzY0NTEsLTEwMD
-QxNTM1NjksMjM1OTQzMDg5XX0=
+eyJoaXN0b3J5IjpbMjEwODUxMDA2NiwtOTYxMjM2NDUxLC0xMD
+A0MTUzNTY5LDIzNTk0MzA4OV19
 -->
