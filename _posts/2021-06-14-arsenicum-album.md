@@ -105,6 +105,33 @@ published: true
 -   Jika di sisi badan sebelah kanan
     
 -   Jika waktu antara tengah malam dan jam 2 pagi
+
+### Penampilan fisik
+
+-   Kurus, stylish, sangat rapih, aristocratic looking, tampan, kulit halus, dengan kerut-kerut kekhawatiran
+    
+-   Tampak gelisah dengan gerakan-gerakan yang cepat
+
+### Bagian  tubuh  yang  lemah
+
+-   Lambung dan usus : diare, kehitaman, penderita gelisah dan dapat mengalami kejang pada infeksi usus. Arsenic akan menyembuhkan.
+    
+-   Liver (hati)
+    
+-   Saluran nafas
+    
+-   Selaput lendir
+    
+-   Kulit
+    
+-   jantung
+
+-   Penderita tipe Arsenic sangat dingin dan merasa kedinginan, merasa lebih nyaman bila hangat, kecuali keluhan pencernaan dan sakit kepala yang dirasakan lebih nyaman bila di suasana dingin
+    
+-   Agravasi gejala/keluhan terjadi pada malam hari
+    
+-   Peradangan pada seluruh mata, dapat diobati dengan Arsenic alb.
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMzczNTI2MzZdfQ==
+eyJoaXN0b3J5IjpbMjA0NDcwMjM1OSwtMTEzNzM1MjYzNl19
 -->
