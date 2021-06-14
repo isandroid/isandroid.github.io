@@ -35,11 +35,15 @@ Disusun oleh E. M. HIDAYAT
     
 -   Bila cara pengobatan ini dilakukan berdasarkan tipe konstitusi tubuh penderita dan keluhan fisiknya disebut homeopati klasik *(classical homeopathy)*
 
+### Tipe Konstitusi Tubuh
+
 Tipe Orang dibagi dalam beberapa tipe konstitusi tubuh dan karakteristik emosionalnya yang serupa dengan obat tertentu:
 
 -   15 jenis obat yang secara luas digunakan untuk mengobati diri sendiri *(self-help uses)* dan secara rutin dipakai oleh para homeopat karena efektifitas obat dalam pengobatan penyakit-penyakit *common illness*, keluhan sehari-hari dan untuk keluhan yang berlangsung lama.
 
-Kriteria – kriteria untuk menetapkan seseorang termasuk tipe konstitusi tubuh tertentu antara lain:
+### Kriteria Tipe Konstitusi Tubuh
+
+Kriteria-kriteria untuk menetapkan seseorang termasuk tipe konstitusi tubuh tertentu antara lain:
 
 -   Postur tubuh (fisik) baik yang diturunkan maupun yang didapat (inherited and acquired physical constitution),
     
@@ -85,6 +89,8 @@ Faktor berperan memicu timbulnya penyakit atau memperburuk penyakit:
     
 -   pandangan hidup (optimistik /pesimistik).
 
+### Penggolongan Manusia Berdasarkan Konstitusi Tubuh
+
 Penggolongan manusia berdasarkan konstitusi tubuh:
 
 1.  Argentum nitrate
@@ -119,5 +125,5 @@ Penggolongan manusia berdasarkan konstitusi tubuh:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczODg2MDZdfQ==
+eyJoaXN0b3J5IjpbLTMzMTQwMTUzNl19
 -->
