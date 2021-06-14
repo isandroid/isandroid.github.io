@@ -61,9 +61,33 @@ Faktor lain yang perlu diperhatikan:
 
 -   Pada penyakit akut *(common illness)*, penyakit ringan dapat sembuh sendiri, seperti selesma
     
--   obat homeopati bekerja dengan cepat dan efektif dan tidak tergantung pada tipe konstitusi tubuh penderita sehingga pengobatannya relatif mudah.
+-   Obat homeopati bekerja dengan cepat dan efektif dan tidak tergantung pada tipe konstitusi tubuh penderita sehingga pengobatannya relatif mudah.
+
+-   Sebaliknya untuk penyakit yang kronik, seperti rematik, penyakit degeneratif lainnya, lebih sulit untuk diobati.
+
+-   Pemilihan obatnya sulit dan dipengaruhi oleh tipe konstitusi tubuh si sakit.
+
+-   Dalam mengobati penyakit akut maupun kronik seorang pengobat homeopati (homeopat) mempelajari penderita sebagai manusia seutuhnya untuk mendapatkan penyebab gangguan keseimbangan yang menimbulkan penyakit (secara holistik), terutama untuk penyakit-penyakit yang kronik.
+
+Faktor berperan memicu timbulnya penyakit atau memperburuk penyakit:
+
+-   kondisi genetik
+    
+-   cara hidup,
+    
+-   bagaimana dietnya,
+    
+-   aktivitas fisiknya,
+    
+-   tingkat /derajat stres dalam hidupnya,
+    
+-   kualitas tidurnya,
+    
+-   pandangan hidup (optimistik /pesimistik).
+
+Penggolongan manusia berdasarkan konstitusi tubuh:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc5MTExNjcxOF19
+eyJoaXN0b3J5IjpbLTE3NjYwNjc0MzddfQ==
 -->
