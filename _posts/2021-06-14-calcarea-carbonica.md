@@ -82,8 +82,22 @@ published: true
     
 -   Benci kekerasan dan kemiskinan
 
+### Makanan  yang  disukai
+
+-   Makanan manis : biskuit, cake, coklat, pastry
+    
+-   Makanan asam (soul food) : olive
+    
+-   Makanan bertepung : bread, nasi
+    
+-   Minuman dingin dan ice cream
+    
+-   Telur
+    
+-   oysters
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5Nzk0OTc5LDEyMTQ1NDM0ODMsLTE5Mj
-E2MTk5NV19
+eyJoaXN0b3J5IjpbNDA5NDc0OTQ2LDE1OTc5NDk3OSwxMjE0NT
+QzNDgzLC0xOTIxNjE5OTVdfQ==
 -->
