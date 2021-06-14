@@ -27,6 +27,15 @@ Disusun oleh E. M. HIDAYAT
     
 -   Ini merupakan konsep tipe konstitusional *(concept of constitutional type)*
 
+-   Remedi homeopati tertentu harus diberikan kepada orang sesuai dengan corak kepribadian *(individual’s emotional make up)* dan penampilannya serta keluhan-keluhannya yang serupa.
+    
+-   Orang dikelompokkan dalam berbagai tipe sesuai dengan tipe konstitusionalnya.
+
+-   Contoh : orang dengan tipe *Natrum muriaticum* (Nat mur) umumnya memiliki bentuk tubuh seperti buah pear (pear-shaped), berkulit gelap, cenderung terlalu pilih-pilih, tidak pernah puas, sangat kritis, cerewet, rewel, tidak suka berkawan, sangat gemar akan garam (asin) dan menderita akibat sembelit.
+    
+-   Bila cara pengobatan ini dilakukan berdasarkan tipe konstitusi tubuh penderita dan keluhan fisiknya disebut homeopati klasik *(classical homeopathy)*
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEwMjE5NTc5XX0=
+eyJoaXN0b3J5IjpbMjAwMDE4NTUwOF19
 -->
