@@ -107,9 +107,9 @@ published: true
 -   Jika waktu antara tengah malam dan jam 2 pagi
 
 ### Penampilan fisik
-
--   Kurus, stylish, sangat rapih, aristocratic looking, tampan, kulit halus, dengan kerut-kerut kekhawatiran
     
+-   Kurus (thin), stylish, rapi (wellgroomed) dan parlente (aristocratic looking). Wajah lembut pucat, kulit halus dengan garis-garis kecemasan (worry lines), tampak gelisah.
+
 -   Tampak gelisah dengan gerakan-gerakan yang cepat
 
 ### Bagian  tubuh  yang  lemah
@@ -132,6 +132,16 @@ published: true
     
 -   Peradangan pada seluruh mata, dapat diobati dengan Arsenic alb.
 
+-   Gelisah (mental bukan fisik) dan anxietas
+    
+-   Takut mati
+    
+-   Berpenampilan rapi (tidiness)
+    
+-   Sering merasa haus. Minum sedikit-sedikit dan sering yang disebabkan oleh anxietas
+    
+-   Tidur berguling ke kiri dan ke kanan dan sering buang air kecil akibat anxietas.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0NDcwMjM1OSwtMTEzNzM1MjYzNl19
+eyJoaXN0b3J5IjpbLTEyNzc5MjUyNjgsLTExMzczNTI2MzZdfQ
+==
 -->
