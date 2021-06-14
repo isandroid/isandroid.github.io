@@ -30,7 +30,27 @@ published: true
     
 -   Infeksi telinga disertai keluarnya cairan bau dari liang telinga
 
+-   Eczema, menstruasi yang banyak, keluhan menopause, gangguan pencernaan.
+    
+-   Bone’s spurs (perkapuran di ujung tulang)
+    
+-   Anak yang terlambat bisa berjalan karena kelemahan otot.
+    
+-   Otot terasa lemah (flaccid).
+    
+-   Mencegah kecenderungan timbulnya kanker, asal cocok dengan konstitusi penderita.
+    
+-   Aktivitas fisik ringan & waktu tidur, keringat berlebihan, terutama di kepala belakang & dada
 
+### Kata Kunci
+
+-   pertumbuhan tulang dan gigi lambat
+    
+-   Nyeri tulang dan sendi
+    
+-   Keluhan yang ditandai dengan rasa takut dan anxietas, berkeringat banyak dan bau, sensitip terhadap dingin
+
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MjE2MTk5NV19
+eyJoaXN0b3J5IjpbLTE5MDkyMjgzNjAsLTE5MjE2MTk5NV19
 -->
