@@ -24,6 +24,8 @@ published: true
 	    
 	-   Keluhan dengan sifat nyeri seperti terbakar
 
+### Orang dengan Tipe Arsenicum Album
+
 - Kata kunci bagi anak tipe Arsenic:
 
 	- Wajah mudah memerah meskipun kulit pucat (Thin and delicate with fine features, skin and hair.)
@@ -36,7 +38,19 @@ published: true
 	    
 	-   Rapi benci pada keadaan yang berantakan.
 
-### Kepribadian dan temperamen
+### Kepribadian dan Temperamen
+
+-   Restlessness & anxietas. Takut mati.
+    
+-   Perhatian terhadap sesuatu sangat teliti, mendetail.
+    
+-   Perfeksionis. Sesuatu langkah yang menurutnya tidak akan berhasil tidak akan diambil (take all or nothing)
+    
+-   Mengekspresikan pendapat yang kuat, tidak toleran terhadap ide/pendapat orang lain.
+
+### Keluhan/penyakit yang dapat diobati dengan Arsenic album
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTU0OTIxODU1XX0=
+eyJoaXN0b3J5IjpbODUwNDkyODk3XX0=
 -->
