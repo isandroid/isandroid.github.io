@@ -10,6 +10,10 @@ published: true
 
 ## {{ page.title }}
 
+Jemaat Ahmadiyah di Banjarnegara berdiri dengan dibentuknya kepengurusan cabang Jemaat Ahmadiyah Banjarnegara yang terletak di Kp. Krucil, Desa Winong, Kec. Bawang, Kab. Banjarnegara.
+
+Dalam beberapa waktu Jemaat A
+
 Jemaat Ahmadiyah Bawang adalah salah satu Jemaat yang cukup tua di Jawa Tengah. Dan awal mula tersebarnya jemaat Ahmadiyah dimulai dari Jemaat Bawang ini.
 
 ### Lokasi
@@ -30,7 +34,9 @@ Dari penduduk desa Winong yang berjumlah 3.088 jiwa, penduduk kampung Krucil ada
 
 ### Pengenalan Jemaat Ahmadiyah
 
-Sejarah Jemaat Ahmadiyah di Banjarnegara dimulai dari Jemaat Bawang-Krucil. Jemaat Ahmadiyah dahulu berpusat di Krucil. Ajaran Jemaat dibawa dan diperkenalkan oleh bapak [Ahmad Rusydi](/2021/06/07/profil-ahmad-rusydi.html) [[^edi_sujarwo_20210607]]. 
+Sejarah Jemaat Ahmadiyah di Banjarnegara diawali dengan kembalinya bapak [Ahmad Rusydi](/2021/06/07/profil-ahmad-rusydi.html) ke Krucil 
+
+dari Jemaat Bawang-Krucil. Jemaat Ahmadiyah dahulu berpusat di Krucil. Ajaran Jemaat dibawa dan diperkenalkan oleh bapak [Ahmad Rusydi](/2021/06/07/profil-ahmad-rusydi.html) [[^edi_sujarwo_20210607]]. 
 
 [^edi_sujarwo_20210607]: Wawancara dengan bapak Edi Sujarwo via Whatsapp Call tanggal 07-Jun-2021.
 
@@ -99,6 +105,6 @@ Setelah mempunyai Jamaah yang cukup banyak, maka didirikanlah cabang Jemaat loka
 
 Dengan keadaan alam seperti itu, memang sudah sewajarnya mayoritas penduduk sekitar berprofesi menjadi petani. Mereka mengurus sawah dan kebun. Ada pula yang berternak ikan dan lain-lain.-->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODAzNTI4MjcsMTYwMDIyNjgsMTE0OT
-AzNDU0NSwxNDUwMDQwNTk5XX0=
+eyJoaXN0b3J5IjpbLTEyMDc5NTM0NzIsLTE5ODAzNTI4MjcsMT
+YwMDIyNjgsMTE0OTAzNDU0NSwxNDUwMDQwNTk5XX0=
 -->
