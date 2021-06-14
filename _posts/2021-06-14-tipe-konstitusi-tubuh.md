@@ -17,7 +17,16 @@ Disusun oleh E. M. HIDAYAT
 
 -   Gejala dan keluhan yang muncul menunjukkan upaya tubuh untuk menghilangkan ketidak seimbangan energi dalam tubuhya, supaya seimbang kembali.
 
+-   Untuk mempercepat dan mengurangi gejala/keluhan, diberikan remedi homeopati yang sesuai berdasarkan *"like can cure like"* , yaitu remedi yang bila diberikan pada orang sehat menimbulkan gejala serupa.
+    
+-   Untuk memudahkan memperoleh remedi yang sesuai harus memahami sifat dan karakteristik remedi homeopati melalui materia medika.
+
+-   Dalam perkembangan homeopati, Dr. Kent dalam penelitiannya mendapatkan bahwa reaksi orang berbeda-beda terhadap remedi homeopati , yang satu bereaksi lebih baik/kuat dibanding yang
+    
+-   O rang –orang dengan postur tubuh dan corak kepribadian serupa menunjukkan kecenderungan menderita tipe penyakit yang serupa.
+    
+-   🡪 konsep tipe konstitusional ( concept of constitutional type)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0NzYyOTI1MV19
+eyJoaXN0b3J5IjpbNDU4ODE0MDldfQ==
 -->
