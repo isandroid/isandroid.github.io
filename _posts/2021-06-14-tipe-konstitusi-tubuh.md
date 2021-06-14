@@ -41,7 +41,29 @@ Tipe Orang dibagi dalam beberapa tipe konstitusi tubuh dan karakteristik emosion
 
 Kriteria – kriteria untuk menetapkan seseorang termasuk tipe konstitusi tubuh tertentu antara lain:
 
+-   Postur tubuh (fisik) baik yang diturunkan maupun yang didapat (inherited and acquired physical constitution),
+    
+-   Kelemahan dari tubuh atau bagian-bagian tubuh yang menunjukkan kelemahan,
+    
+-   Corak kepribadian (personality patterns),
+    
+-   Temperamen /emosi
+    
+-   Kondisi intelektualitasnya.
+
+Faktor lain yang perlu diperhatikan:
+
+-   Bagaimana seseorang menunjukkan rasa takut terhadap sesuatu,
+    
+-   Kesukaan dan pilihan terhadap makanan
+    
+-   Memberikan respon terhadap faktor-faktor umum (general factors) seperti faktor cuaca (kondisi udara, suhu udara, musim, pagi, siang atau malam) yang dapat memperburuk penyakitnya atau meringankan keluhannya.
+
+-   Pada penyakit akut *(common illness)*, penyakit ringan dapat sembuh sendiri, seperti selesma
+    
+-   obat homeopati bekerja dengan cepat dan efektif dan tidak tergantung pada tipe konstitusi tubuh penderita sehingga pengobatannya relatif mudah.
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDcyMTYxNTJdfQ==
+eyJoaXN0b3J5IjpbLTc5MTExNjcxOF19
 -->
