@@ -35,7 +35,13 @@ Disusun oleh E. M. HIDAYAT
     
 -   Bila cara pengobatan ini dilakukan berdasarkan tipe konstitusi tubuh penderita dan keluhan fisiknya disebut homeopati klasik *(classical homeopathy)*
 
+Tipe Orang dibagi dalam beberapa tipe konstitusi tubuh dan karakteristik emosionalnya yang serupa dengan obat tertentu:
+
+-   15 jenis obat yang secara luas digunakan untuk mengobati diri sendiri *(self-help uses)* dan secara rutin dipakai oleh para homeopat karena efektifitas obat dalam pengobatan penyakit-penyakit *common illness*, keluhan sehari-hari dan untuk keluhan yang berlangsung lama.
+
+Kriteria – kriteria untuk menetapkan seseorang termasuk tipe konstitusi tubuh tertentu antara lain:
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwMDE4NTUwOF19
+eyJoaXN0b3J5IjpbLTExNDcyMTYxNTJdfQ==
 -->
