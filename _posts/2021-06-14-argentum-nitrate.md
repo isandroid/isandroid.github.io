@@ -114,16 +114,13 @@ published: true
 
 	- dan takut mati.
 
-- Penampilan fisik
+- Penampilan fisik:
 
-- Menunjukkan kecenderungan lebih tua dari umurnya,
+	- Menunjukkan kecenderungan lebih tua dari umurnya,
 
-- tampak tegang,
-    
-- kecenderungan banyak berkeringat
-    
-
-akibat nervous.
+	- tampak tegang,
+	    
+	- kecenderungan banyak berkeringat akibat nervous.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyNTk0MDUzNSwyMzU5NDMwODldfQ==
+eyJoaXN0b3J5IjpbLTEwMDQxNTM1NjksMjM1OTQzMDg5XX0=
 -->
