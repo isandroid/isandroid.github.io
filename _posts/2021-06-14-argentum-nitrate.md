@@ -121,6 +121,10 @@ published: true
 	- tampak tegang,
 	    
 	- kecenderungan banyak berkeringat akibat nervous.
+
+- Tempat lemah dari tubuh:
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDQxNTM1NjksMjM1OTQzMDg5XX0=
+eyJoaXN0b3J5IjpbMTQzOTgzNDEyNywtMTAwNDE1MzU2OSwyMz
+U5NDMwODldfQ==
 -->
