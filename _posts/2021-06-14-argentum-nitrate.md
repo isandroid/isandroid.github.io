@@ -30,9 +30,33 @@ published: true
     
 -   takut dalam ruang tertutup,
     
--   takut menghadapi keadaan yang tidak jelas,
+-   takut menghadapi keadaan yang tidak jelas, menyebabkan palpitasi dan banyak berkeringat.
+
+- Gangguan pencernaan, seperti:
+
+	-   diare,
+	    
+	-   kembung,
+	    
+	-   muntah-muntah,
+	    
+	-   nyeri kepala berdenyut yang muncul secara perlahan-lahan akibat terlalu banyak makan makanan manis atau nervous.
+
+### General Features
+
+-   rasa nyeri (yang membaik bila ditekan dan udara terbuka, memburuk bila banyak bergerak dan bicara),
     
--menyebabkan palpitasi dan banyak berkeringat.
+-   asthma,
+    
+-   *warts*,
+    
+-   radang laring,
+    
+-   epilepsi dan
+    
+-   *dizziness*
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTIwMDE5MTE5XX0=
+eyJoaXN0b3J5IjpbLTIwODc5MzAzMTVdfQ==
 -->
