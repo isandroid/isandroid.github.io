@@ -7,6 +7,8 @@ published: true
 ---
 <p class="quran">بِسۡمِ اللّٰہِ الرَّحۡمٰنِ الرَّحِیۡمِ</p>
 
+## {{ page.title }}
+
 {% comment %}
 Disusun oleh dr. Eddy M Hidayat
 {% endcomment %}
@@ -127,5 +129,6 @@ Penggolongan manusia berdasarkan konstitusi tubuh:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzNTQ3NzQzMywxMzI4NTgxNjddfQ==
+eyJoaXN0b3J5IjpbLTQwMTExNzEyNCwxODM1NDc3NDMzLDEzMj
+g1ODE2N119
 -->
