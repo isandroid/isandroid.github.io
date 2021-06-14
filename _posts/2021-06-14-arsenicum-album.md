@@ -23,7 +23,20 @@ published: true
 	-   Keluhan di saluran pencernaan dan inflamasi di selaput lendir, terutama mukosa saluran pencernaan.
 	    
 	-   Keluhan dengan sifat nyeri seperti terbakar
-	
+
+- Kata kunci bagi anak tipe Arsenic:
+
+	- Wajah mudah memerah meskipun kulit pucat (Thin and delicate with fine features, skin and hair.)
+    
+	-   Berperasaan halus, lekas gugup, mudah ketakutan, sangat sensitif terhadap bau, sentuhan dan suara bising.
+	    
+	-   Gesit dan cerdas, aktif tidak bisa diam, tetapi juga cepat lelah.
+	    
+	-   Cemas akan sesuatu, terutama menyangkut orang tuanya.
+	    
+	-   Rapi benci pada keadaan yang berantakan.
+
+### Kepribadian dan temperamen
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcwNTEzMTU4N119
+eyJoaXN0b3J5IjpbNTU0OTIxODU1XX0=
 -->
