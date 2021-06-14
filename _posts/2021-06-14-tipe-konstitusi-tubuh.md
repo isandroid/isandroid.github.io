@@ -1,5 +1,5 @@
 ---
-title: tipe konstitusi tubuh kita
+title: Tipe Konstitusi Tubuh Kita
 layout: post
 tags: homeopathy
 description: tipe konstitusi tubuh kita
@@ -129,6 +129,6 @@ Penggolongan manusia berdasarkan konstitusi tubuh:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDYyODc0MDMsMTgzNTQ3NzQzMywxMz
-I4NTgxNjddfQ==
+eyJoaXN0b3J5IjpbLTE2NDE3MTM2NDMsLTE4NDYyODc0MDMsMT
+gzNTQ3NzQzMywxMzI4NTgxNjddfQ==
 -->
