@@ -50,7 +50,27 @@ published: true
     
 -   Keluhan yang ditandai dengan rasa takut dan anxietas, berkeringat banyak dan bau, sensitip terhadap dingin
 
-- 
+### Kata  kunci  anak  tipe  Calc Carb
+
+-   Tubuh montok
+    
+-   Perut besar fontanel lambat menutup
+    
+-   Lambat dapat berjalan dan berbicara, pertumbuhan gigi lambat
+    
+-   Tenang dan sensitip, malas.
+    
+-   Sangat takut dalam gelap
+
+-   Waktu bangun malam berteriak dari mimpi buruk
+    
+-   Gerakannya tidak bagus, cenderung mudah jatuh. Tidak baik dalam olah raga.
+    
+-   Rajin di sekolah, tetapi sulit memahami apa yang diberikan di sekolah dan mudah putus asa
+    
+-   Tanpa dorongan (encouragement), akan tertinggal
+
+### Kepribadian dan temperamen
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDkyMjgzNjAsLTE5MjE2MTk5NV19
+eyJoaXN0b3J5IjpbMTIxNDU0MzQ4MywtMTkyMTYxOTk1XX0=
 -->
