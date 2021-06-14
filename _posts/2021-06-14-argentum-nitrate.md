@@ -123,8 +123,15 @@ published: true
 	- kecenderungan banyak berkeringat akibat nervous.
 
 - Tempat lemah dari tubuh:
-- 
+	
+	-   Susunan saraf
+	    
+	-   Selaput lendir, terutama selaput lendir lambung, usus, dan mata
+	    
+	-   Bagian tubuh sebelah kiri
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQzOTgzNDEyNywtMTAwNDE1MzU2OSwyMz
+eyJoaXN0b3J5IjpbLTk2MTIzNjQ1MSwtMTAwNDE1MzU2OSwyMz
 U5NDMwODldfQ==
 -->
