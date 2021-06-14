@@ -130,8 +130,19 @@ published: true
 	    
 	-   Bagian tubuh sebelah kiri
 
+-   Menyukai :
 
+- Makanan asin (salty foods)
+
+Makanan manis (sweet foods)
+
+-   Tidak menyukai : makanan dingin
+    
+-   Lain-lain :
+    
+
+Sangat menyukai (“kecanduan”) makanan manis tetapi mudah terganggu oleh makanan manis
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2MTIzNjQ1MSwtMTAwNDE1MzU2OSwyMz
-U5NDMwODldfQ==
+eyJoaXN0b3J5IjpbLTc2ODA2ODQ2LC05NjEyMzY0NTEsLTEwMD
+QxNTM1NjksMjM1OTQzMDg5XX0=
 -->
