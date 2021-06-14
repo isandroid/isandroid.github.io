@@ -71,6 +71,19 @@ published: true
 -   Tanpa dorongan (encouragement), akan tertinggal
 
 ### Kepribadian dan temperamen
+
+-   Pendiam, sangat berhati-hati, sensitip dan mudah dipengaruhi
+    
+-   Sering menarik diri dan menyalahkan diri sendiri, karena tidak ingin mendapat malu di depan teman-teman , dan takut akan gagal
+    
+-   Rasa cemas menyebabkan ia terganggu akan berbagai hal yang menjengkelkan teman dekatnya.
+    
+-   Kualitas tidur buruk
+    
+-   Benci kekerasan dan kemiskinan
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxNDU0MzQ4MywtMTkyMTYxOTk1XX0=
+eyJoaXN0b3J5IjpbMTU5Nzk0OTc5LDEyMTQ1NDM0ODMsLTE5Mj
+E2MTk5NV19
 -->
