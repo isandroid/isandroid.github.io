@@ -21,12 +21,12 @@ Disusun oleh E. M. HIDAYAT
     
 -   Untuk memudahkan memperoleh remedi yang sesuai harus memahami sifat dan karakteristik remedi homeopati melalui materia medika.
 
--   Dalam perkembangan homeopati, Dr. Kent dalam penelitiannya mendapatkan bahwa reaksi orang berbeda-beda terhadap remedi homeopati , yang satu bereaksi lebih baik/kuat dibanding yang
+-   Dalam perkembangan homeopati, Dr. Kent dalam penelitiannya mendapatkan bahwa reaksi orang berbeda-beda terhadap remedi homeopati , yang satu bereaksi lebih baik/kuat dibanding yang lainnya.
     
--   O rang –orang dengan postur tubuh dan corak kepribadian serupa menunjukkan kecenderungan menderita tipe penyakit yang serupa.
+-   Orang-orang dengan postur tubuh dan corak kepribadian serupa menunjukkan kecenderungan menderita tipe penyakit yang serupa.
     
--   🡪 konsep tipe konstitusional ( concept of constitutional type)
+-   Ini merupakan konsep tipe konstitusional *(concept of constitutional type)*
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDU4ODE0MDldfQ==
+eyJoaXN0b3J5IjpbMTEwMjE5NTc5XX0=
 -->
