@@ -1,10 +1,14 @@
 ---
-title: A
+title: Argentum Nitrate
 layout: post
 tags: homeopathy
-description: tipe konstitusi tubuh kita
+description: penjelasan konstitusi argentum nitrate 
 published: true
 ---
+
+## {{ page.title }}
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMTA4MzMwOTBdfQ==
+eyJoaXN0b3J5IjpbMTUwNjcyMDY4OF19
 -->
