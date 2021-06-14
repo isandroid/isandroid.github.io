@@ -50,7 +50,31 @@ published: true
 
 ### Keluhan/penyakit yang dapat diobati dengan Arsenic album
 
+-   Anxietas dan ketakutan yang dilandasi rasa tidak aman dan kepekaan berlebihan *(insecurity and over-sensitivity)*
+    
+-   Keluhan-keluhan pada saluran pencernaan, seperti keracunan makanan yang menyebabkan muntah seperti terbakar, gangguan pencernaan *(indigestion)*, diare akibat banyak makan buah terlalu matang dan sayuran, makanan dingin, minum terlalu banyak alkohol.
+
+-   Batuk dan asthma. Penderita sesak nafas, sariawan di mulut, hidung tersumbat, gatal di hidung, bersin-bersin.
+    
+-   Keluhan yang berulang : migrain, yg timbul tiap waktu tertentu (seminggu atau dua minggu sekali). Nyeri kepala membaik bila dikompres dingin.
+    
+-   Menorrhagia dan gangguan menstruasi
+    
+-   Nausea dan muntah-muntah berat
+
+### Makanan yang digemari/disukai
+
+-   Makanan dan minuman yang hangat
+    
+-   Makanan yang berlemak (olive oil)
+    
+-   Makanan yang manis, sour foods (makanan yg asam) : lemon, vinegar
+    
+-   Alkohol
+
+### Rasa takut
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODUwNDkyODk3XX0=
+eyJoaXN0b3J5IjpbLTEyNTg4MzQ4NzNdfQ==
 -->
