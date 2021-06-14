@@ -97,7 +97,7 @@ Faktor berperan memicu timbulnya penyakit atau memperburuk penyakit:
 
 Penggolongan manusia berdasarkan konstitusi tubuh:
 
-1.  Argentum nitrate
+1.  [Argentum nitrate](/2021/06/14/argentum-nitrate.html)
     
 2.  Arsenicum album
     
@@ -129,6 +129,6 @@ Penggolongan manusia berdasarkan konstitusi tubuh:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwMTExNzEyNCwxODM1NDc3NDMzLDEzMj
-g1ODE2N119
+eyJoaXN0b3J5IjpbLTE4NDYyODc0MDMsMTgzNTQ3NzQzMywxMz
+I4NTgxNjddfQ==
 -->
