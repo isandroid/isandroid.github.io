@@ -44,7 +44,37 @@ published: true
     
 -   Konstipasi terutama pada waktu hamil. Wanita demikian menghadapi kesulitan melahirkan karena daya dorong otot rahim dan otot panggul dan otot perut lemah. Bila gejala Sepia lainnya ada dan pemberian Sepia gagal, dapat dibantu dengan Caulophylum dan Gelsemium
 
-- 
+-   *Prolaps uteri*.
+    
+-   Muntah-muntah waktu hamil, asal gejala tipe Sepia ada.
+    
+-   Isi muntahan berwarna keputih-putihan, demikian pula pengeluaran cairan dari vagina yang keputih-putihan *(whitish leucorrhoeal discharge)*.
+    
+-   Herpes (asal sesuai konstitusi Sepia)
+    
+-   Nyeri kepala disertai muntah-muntah yang terasa pahit (asal sesuai konstitusi Sepia)
+
+-   Penyakit mata dan penyakit kulit (yg sesuai dengan konstitusi Sepia).
+    
+-   Retensi plasenta pasca melahirkan. Bila Pulsatilla gagal, dapat diberikan Sepia. Catatan : hanya efektif bila belum terjadi demam puerperium (sepsis puerperium). Bila sudah beri Sulfur dan Pyrogenium 200
+    
+-   Mati rasa (baal) pada tangan dan kaki.
+
+### Kepribadian dan Tempramen
+
+-   Wanita berperawakan langsing , panggung sempit.
+    
+-   Tipe Sepia : di rumah mudah marah bersikap ekstrofert di kalangan teman-temannya.
+    
+-   Gejala khas Sepia : tidak ada keinginan seksual dan tidak adanya rasa kasih sayang . Rasa kasih seorang ibu kepada anaknya dan kepada suami hilang.
+
+-   Berpendirian keras, benci dibantah
+    
+-   Bila tidak sehat, tidak suka diberi simpati dan cenderung menarik diri.
+    
+-   Ada dua tipe Sepia : indipenden, career-minded, seek fulfilment from her work (mencari kepuasan diri dari hasil kerja kerasnya), berusaha keras menyembunyikan kepekaannya terhadap kritik.
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDEyODk0MzQ4XX0=
+eyJoaXN0b3J5IjpbLTEzOTM3MjM2MzVdfQ==
 -->
