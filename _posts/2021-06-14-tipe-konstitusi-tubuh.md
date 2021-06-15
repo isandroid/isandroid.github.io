@@ -117,7 +117,7 @@ Penggolongan manusia berdasarkan konstitusi tubuh:
     
 10.  [Pulsatilla](/2021/06/14/pulsatilla.html)
     
-11. Sepia
+11. Sepia Officinalis
 
 12. Silicea
 
@@ -127,6 +127,7 @@ Penggolongan manusia berdasarkan konstitusi tubuh:
 
 15. Lachesis
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5NjA0MzQ0OSwtMTIyMTI5MDk2MywtMT
-g0NjI4NzQwMywxODM1NDc3NDMzLDEzMjg1ODE2N119
+eyJoaXN0b3J5IjpbMTYxMDU4NDIxNCwxOTk2MDQzNDQ5LC0xMj
+IxMjkwOTYzLC0xODQ2Mjg3NDAzLDE4MzU0Nzc0MzMsMTMyODU4
+MTY3XX0=
 -->
