@@ -105,6 +105,22 @@ published: true
 -   Kukunya kasar, kekuningan.
     
 -   Kulit mudah mengalami infeksi bernanah dan lambat sembuh.
+
+### Makanan
+
+-   Menyukai makanan dingin, sayur mentah, salad, ice cream
+    
+-   Tidak menyukai makanan yang panas, daging, susu, keju
+
+### Rasa Takut
+
+-   Takut benda-benda tajam
+    
+-   Latihan olah raga (karena stamina tidak baik)
+    
+-   Takut gagal dalam usaha
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzI5MzI1N119
+eyJoaXN0b3J5IjpbMjY3MjQ0MzYyXX0=
 -->
