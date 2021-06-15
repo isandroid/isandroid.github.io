@@ -144,7 +144,23 @@ published: true
 
 ### Keadaan Umum (modality) - Membaik
 
+-   Di udara segar dan fasting
+    
+-   Setelah berkeringat
+    
+-   Di tempat tidur yang padat
+
+### Keadaan Umum (modality) - Memburuk
+
+-   Antara jam 9 – 11 am
+    
+-   Di udara dingin dan bergeluduk
+    
+-   Di tempat yang panas, sesak, udara laut
+    
+-   Aktivitas berlebihan
+    
+-   Berbaring di sisi kiri
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTg5OTU2NjAsLTE2MTQ5MzkyNzZdfQ
-==
+eyJoaXN0b3J5IjpbMTI1OTA3NDUwMiwtMTYxNDkzOTI3Nl19
 -->
