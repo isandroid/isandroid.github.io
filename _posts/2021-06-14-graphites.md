@@ -22,6 +22,30 @@ published: true
     
 -   Pada wanita : haid jarang, atau tidak haid, pembesaran ovarium, pembengkakan payudara, terlambat menstruasi disertai sembelit (konstipasi)
 
+### Kata kunci
+
+-   Keluhan kulit, terutama eksim
+    
+-   Ketidak seimbangan metabolisme yang menimbulkan kelainan pada kulit, kegemukan, dan pertumbuhan kuku yang abnormal.
+    
+-   Ulkus lambung akibat kelemahan selaput lendir lambung
+
+-   Bertubuh subur, besar dan montok
+    
+-   Kulit pucat dan dingin, mudah rona kemerahan
+    
+-   Kulit kasar, kering dan mudah terjadi retak-retak
+    
+-   Perut buncit akibat sembelit yang persisten
+    
+-   Malu-malu, rasa khawatir /tidak aman dan ragu-ragu
+    
+-   Pesimistik
+    
+-   Malas dan stamina rendah
+    
+-   Peka terhadap pergerakan dan mudah mabuk kendaraan.
+
 ### Kepribadian dan Temperamen
 
 -   Lambat bereaksi terhadap rangsang dari luar
@@ -88,7 +112,13 @@ published: true
 
 ### Bagian badan yang lemah
 
-
+-   Kulit dan kuku
+    
+-   Metabolisme
+    
+-   Selaput lendir (membran mukosa)
+    
+-   Bagian badan sebelah kiri.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2MzM4MjYzNiwxMTExNzI2OTIwXX0=
+eyJoaXN0b3J5IjpbNzY5ODA2MzA0LDExMTE3MjY5MjBdfQ==
 -->
