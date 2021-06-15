@@ -86,7 +86,24 @@ published: true
     
 -   Takut kegelapan (tempat gelap) dan hujan angin disertai petir (thunderstroms)
 
+### Keadaan Umum - Membaik
+
+-   Di udara segar
+    
+-   Dibelai
+    
+-   Berbaring di sisi kanan
+    
+-   Tidur
+    
+### Keadaan Umum - Memburuk
+
+-   Di cuaca hujan
+    
+-   Di waktu pagi dan petang
+    
+-   Kegiatan fisik dan mental.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4MDU4MjUxOV19
+eyJoaXN0b3J5IjpbMTc5ODEzNjU2Nl19
 -->
