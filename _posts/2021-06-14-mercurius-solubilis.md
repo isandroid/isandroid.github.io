@@ -3,7 +3,7 @@ title: Mercurius Solubilis (Merc. Sol.)
 layout: post
 tags: homeopathy
 description: penjelasan konstitusi mercurius solubilis atau merc. sol.
-published: true
+published: false
 ---
 
 ## {{ page.title }}
@@ -157,5 +157,5 @@ published: true
 -   Perubahan suhu
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjgzNjM4NjY1LC0yODYzNjAyNjldfQ==
+eyJoaXN0b3J5IjpbLTE0MjQ0NTA2MDYsLTI4NjM2MDI2OV19
 -->
