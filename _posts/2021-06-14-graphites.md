@@ -36,7 +36,43 @@ published: true
     
 -   Lebih menyukai kerja lapangan dan outdoor jobs.
 
+### Penampilan fisik
+
+-   Umumnya berkulit pucat, rambut hitam, kering dan kasar
+    
+-   Kulit mudah pecah-pecah, terutama di bagian belakang telinga, lutut, di sudut mulut, ujung-ujung jari.
+    
+-   Kulit kepala bersisik, gatal disertai adanya keropeng warna kuning
+    
+-   Nafsu makan besar, badan cenderung overweight
+    
+-   Mudah berkeringat, stamina rendah
+
+### Makanan dan Minuman
+
+-   Suka minuman yang asam, dingin
+    
+-   Tidak menyukai makanan manis dan asin
+    
+-   Mudah sakit kepala bila terlambat makan
+
+### Rasa Takut
+
+-   Merasa takut menjadi gila dan mati
+    
+-   Takut kepada hujan angin disertai petir
+    
+-   Merasa lebih baik :
+    
+	-   Di suhu hangat dan udara segar,
+	    
+	-   sesudah makan,
+	    
+	-   Banyak tidur
+	    
+	-   Ruangan gelap
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1Njc2MTM1MSwxMTExNzI2OTIwXX0=
+eyJoaXN0b3J5IjpbLTExNDU3MzU4NywxMTExNzI2OTIwXX0=
 -->
