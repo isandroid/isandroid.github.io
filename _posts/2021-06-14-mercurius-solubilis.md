@@ -146,8 +146,16 @@ published: true
 
 ### Keadaan Umum (modality) - Memburuk
 
-
+-   Pada malam hari
+    
+-   Terlalu panas di tempat tidur
+    
+-   Berbaring di sisi kana
+    
+-   Banyak berkeringat
+    
+-   Perubahan suhu
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MjQyNTc1MDksLTI4NjM2MDI2OV19
+eyJoaXN0b3J5IjpbLTIwMzc0MzYwNTcsLTI4NjM2MDI2OV19
 -->
