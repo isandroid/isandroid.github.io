@@ -22,7 +22,27 @@ published: true
     
 -   Perdarahan banyak pada : epistaksis, perdarahan gusi, perdarahan pada haid, perdarahan dari paru dan saluran pencernaan
 
+-   Keluhan saluran pencernaan, seperti : nausea dan muntah-muntah akibat keracunan makanan atau akibat stres, gastroenteritis, ulkus lambung, yang ditandai oleh mulut penuh dengan saliva dan heartburn.
+    
+-   Problem respirasi, seperti asthma, bronchitis, *pneumonia*
+
+-   Keluhan oleh Phos menunjukkan ciri nyeri yang membakar
+    
+-   Bila sakit , orang itu tidak mau sendirian, minta ditemani.
+    
+-   Gejala membaik : bila ada di udara segar, disentuh atau digosok-gosok, bila tidur.
+    
+-   Gejala memburuk : makan - minum panas, berbaring di sisi kiri tubuh, banyak aktivitas fisik, pada pagi hari dan sore hari, di cuaca mendung berguntur.
+
+### Personality dan Temperamen
+
+-   Tipe Phos bersifat terbuka, ekspresif dan penuh kasih sayang (affectionate), dan mereka sering berbakat artistik.
+    
+-   Mempunyai sifat empati yang besar dan ringan tangan.
+    
+-   Namun antusiasme mereka relatif terbatas dan tenaga mereka tersebar kemana-mana, penawaran mereka melebihi dari apa yang sebenarnya bisa diberikan.
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MzE3NzMxNDNdfQ==
+eyJoaXN0b3J5IjpbLTIzODEyMjIwN119
 -->
