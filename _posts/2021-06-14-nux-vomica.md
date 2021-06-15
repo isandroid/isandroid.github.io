@@ -60,14 +60,12 @@ published: true
 
 ### Keadaan Umum (modality) - Membaik
 
-Membaik ketika:
-
 -   Kondisi lembab, cuaca basah
     
 -   Sore hari, saat istirahat
     
+### Keadaan Umum (modality) - Memburuk
 
- 
 -   Pagi
     
 -   Setelah makan,
@@ -78,7 +76,7 @@ Membaik ketika:
     
 -   Di tengah kebisingan
 
-### Keadaan Umum (modality) - Memburuk
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0NzQ2ODE5XX0=
+eyJoaXN0b3J5IjpbLTkxMzg5ODIxNl19
 -->
