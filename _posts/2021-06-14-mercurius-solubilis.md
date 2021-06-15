@@ -62,6 +62,39 @@ published: true
 
 ### Kata Kunci Anak Mercury
 
+-   Sering cepat dewasa dan centil, emosi mirip orang dewasa.
+    
+-   Bersikap hati-hati, sensitip dan mudah marah (irritable)
+    
+-   Bersifat pemalu dan menarik diri.
+    
+-   Menunjukkan kecenderungan gagap
+    
+-   Rentan terhadap infeksi berulang di telinga, hidung, tenggorok
+    
+-   Banyak mengeluarkan *saliva* waktu tidur (ngiler)
+
+### Kepribadian dan temperamen
+
+-   Tipe introvert dan tertutup, dengan memendam emosi. Terkesan penyendiri dan arogan. Tetapi hatinya sangat ingin melepaskan dari perasaan tidak nyaman yang tertahan
+    
+-   Penuh rasa gelisah dan khawatir, namun berusaha untuk menetralkannya.
+    
+-   Rasa tidak aman yang besar menyebabkan bersikap hati-hati dan penuh rasa curiga dalam berhubungan dengan orang.
+
+-   Karenanya tindakan dan bicaranya tampak pelahan-lahan dan penuh pertimbangan.
+    
+-   Sangat sensitip terhadap kritik dan kontradiksi, kadang-kadang tiba-tiba meledak bila merasa terganggu dan ingin membunuh siapapun yang telah menyakiti hatinya.
+
+-   Bila sedang tidak sehat, mentalnya menyebalkan dan kacau, ragu-ragu dalam berbicara dan lambat dalam memahami pembicaraan, daya ingat dan semangatnya melemah
+    
+-   Sifat impulsif, berbicara cepat dan tidak sabaran. Dalam melakukan pekerjaan ingin cepat menyelesaikannya.
+    
+-   Bila emosinya excited, sangat berbahaya, bisa melakukan tindakan kriminal atau membunuh dirinya sendiri
+
+### Penampilan Fisik
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTA3NTY5ODAsLTI4NjM2MDI2OV19
+eyJoaXN0b3J5IjpbLTMyNzIzOTI3MywtMjg2MzYwMjY5XX0=
 -->
