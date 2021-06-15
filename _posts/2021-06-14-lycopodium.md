@@ -84,7 +84,39 @@ published: true
 
 ### Gejala Memburuk
 
+-   Memakai baju/pakaian ketat
+    
+-   Terlalu banyak makan
+    
+-   Di ruangan/kamar yang pengap.
+    
+-   Di badan sebelah kanan
+    
+-   Antara jam 7-8, 
+
+- Antara jam 4-18 sore
+
+### Kepribadian dan Temperamen
+
+-   Karena merasa insecure, suka membesar-besarkan /melebih-lebihkan suatu fakta / kenyataan untuk menutupi low self-esteem.
+    
+-   Tidak menghendaki perubahan (resist change), karena perubahan menimbulkan tantangan baru menimbulkan ketakutan (apprehension)
+
+-   Walaupun tampak disiplin diri baik dan sangat hati-hati, tetapi tidak menolak makanan manis (merupakan kelemahan) dan sexually promiscuous.
+    
+-   Walaupun suka berkawan tetapi menghindari hubungan yang lebih akrab.
+    
+-   Berpenampilan tenang penuh dengan penguasaan diri, stabil dan tidak mudah terpengaruh, tetapi ada perasaan inadequacy yang sangat besar.
+
+-   Umumnya pintar merupakan intelektual, berpandangan konservatif, sering menduduki posisi penting dalam masyarakat: diplomat, para eksekutif, pengacara, dokter, dsb.
+    
+-   Sangat terganggu dengan kelemahan dan tidak mempunyai daya tahan terhadap penyakit.
+
+### Penampilan Fisik
+
+
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1Njc2NjkyXX0=
+eyJoaXN0b3J5IjpbMTAyODcyOTM3NV19
 -->
