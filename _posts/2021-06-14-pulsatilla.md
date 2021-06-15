@@ -253,9 +253,15 @@ Keluhan memburuk :
     
 -   Pemalu, lembut, berkelakuan baik, tetapi semaunya sendiri, dan tipis telinga.
 
-
+-   Marah bila terganggu dan stamina yang buruk
+    
+-   Cerdas, cepat mengerti, dan conscientious, tetapi tidak konfiden.
+    
+-   Rapih, cenderung memasang benda-benda kecil, seperti memasang pin,
+    
+-   Sangat tidak menyukai susu dan tidak toleran terhadap susu.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyMjYyNTEyOSwxOTgyNzQ5ODQyLC0xNT
+eyJoaXN0b3J5IjpbMTQyNDk2NTU2MiwxOTgyNzQ5ODQyLC0xNT
 EyNTAwNjRdfQ==
 -->
