@@ -97,6 +97,8 @@ Faktor berperan memicu timbulnya penyakit atau memperburuk penyakit:
 
 Penggolongan manusia berdasarkan konstitusi tubuh:
 
+{% comment %}
+
 1.  [Argentum Nitrate](/2021/06/14/argentum-nitrate.html)
     
 2.  [Arsenicum Album](/2021/06/14/arsenicum-album.html)
@@ -126,8 +128,40 @@ Penggolongan manusia berdasarkan konstitusi tubuh:
 14. [Sulphur](/2021/06/14/sulphur.html)
 
 15. [Lachesis](/2021/06/14/lachesis.html)
+
+{% endcomment %}
+
+1.  Argentum Nitrate
+    
+2.  Arsenicum Album
+    
+3.  Calcarea Carbonica
+    
+4.  Graphite
+    
+5.  [Ignatia Amara
+    
+6.  [Lycopodium
+    
+7.  [Mercurius Solubilis
+    
+8.  [Natrum Muriaticum
+
+9.  [Phosphorus
+    
+10.  [Pulsatilla
+    
+11. [Sepia Officinalis
+
+12. [Silicea Terra](/2021/06/14/silicea-terra.html)
+
+13. [Nux Vomica](/2021/06/14/nux-vomica.html)
+
+14. [Sulphur](/2021/06/14/sulphur.html)
+
+15. [Lachesis](/2021/06/14/lachesis.html)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxOTk0NjI3MywtNDMwMTkxOTI4LC0xNz
+eyJoaXN0b3J5IjpbLTQ4MDQ3NTQ2MCwtNDMwMTkxOTI4LC0xNz
 gwODI4NzMzLDg2Mzg2OTM0NywxOTk2MDQzNDQ5LC0xMjIxMjkw
 OTYzLC0xODQ2Mjg3NDAzLDE4MzU0Nzc0MzMsMTMyODU4MTY3XX
 0=
