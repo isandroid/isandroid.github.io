@@ -99,9 +99,9 @@ Penggolongan manusia berdasarkan konstitusi tubuh:
 
 1.  [Argentum nitrate](/2021/06/14/argentum-nitrate.html)
     
-2.  Arsenicum album
+2.  [Arsenicum album](/2021/06/14/arsenicum-album.html)
     
-3.  Calcarea carbonica
+3.  [Calcarea Carbonica](/2021/06/14/calcarea-carbonica.html)
     
 4.  Graphite
     
@@ -129,6 +129,6 @@ Penggolongan manusia berdasarkan konstitusi tubuh:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NDE3MTM2NDMsLTE4NDYyODc0MDMsMT
-gzNTQ3NzQzMywxMzI4NTgxNjddfQ==
+eyJoaXN0b3J5IjpbLTk0NzMwNDU2OSwtMTg0NjI4NzQwMywxOD
+M1NDc3NDMzLDEzMjg1ODE2N119
 -->
