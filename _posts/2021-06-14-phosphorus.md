@@ -42,7 +42,17 @@ published: true
     
 -   Namun antusiasme mereka relatif terbatas dan tenaga mereka tersebar kemana-mana, penawaran mereka melebihi dari apa yang sebenarnya bisa diberikan.
 
+-   memerlukan stimuli untuk memberikan kegembiraan mereka, imaginatif penuh ekspresi dan menghindari lekas marah dan bersikap apatis.
+    
+-   mereka optimistik, suka menjadi pusat perhatian,
+    
+-   bila tertekan menjadi tidak bersemangat dan tidak acuh kepada keluarga dan teman-teman dekatnya.
+    
+-   Bila sedang sakit membutuhkan simpati dan perhatian serta belaian.
+
+### Penampilan Fisik
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIzODEyMjIwN119
+eyJoaXN0b3J5IjpbLTEwMDgzMTY3NjJdfQ==
 -->
