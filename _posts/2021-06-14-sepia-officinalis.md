@@ -120,8 +120,6 @@ published: true
 -   Cenderung sembelit dan ngompol pada bagian awal dari malam.
 
 
-
-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyNDY0NTI3OV19
+eyJoaXN0b3J5IjpbMTk3NzU2OTg1OV19
 -->
