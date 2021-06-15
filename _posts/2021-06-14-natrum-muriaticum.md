@@ -3,7 +3,7 @@ title: Natrum Muriaticum (Nat. Mur)
 layout: post
 tags: homeopathy
 description: penjelasan konstitusi natrum muriaticum atau nat. mur.
-published: true
+published: false
 ---
 
 ## {{ page.title }}
@@ -162,5 +162,6 @@ published: true
     
 -   Berbaring di sisi kiri
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1OTA3NDUwMiwtMTYxNDkzOTI3Nl19
+eyJoaXN0b3J5IjpbNjYzMTAxNDg5LDEyNTkwNzQ1MDIsLTE2MT
+Q5MzkyNzZdfQ==
 -->
