@@ -64,9 +64,34 @@ published: true
     
 -   Mereka lebih baik menyendiri, walaupun sebenarnya ingin ditemani oleh orang lain.
 
+-   orang yang serius, bersungguh-sungguh, teliti, yang dapat menjadi pemurung dan sedih, terutama waktu bangun.
+    
+-   Jujur dan idealis , kaku, mempelajari sesuatu dengan sungguh-sungguh
+    
+-   Mudah marah dan merajuk terhadap kata-kata yang sedikit menyinggung hatinya, tetapi tidak menyukai simpati dari teman atau orang lain.
+    
+-   Musik dapat menyebabkan ia menangis.
+
+-   Tidak menyukai suara bising, yang lemah sekalipun, seperti suara kertas yang dilipat. Suara mendadak menyebabkan sakit kepala.
+    
+-   Gejala mental nat mur aneh, mula-mula merasa dijadikan korban, dan selalu merasa sebagai korban dari beberapa perbuatan yang salah.
+    
+-   Tidak menyukai simpati orang lain.
+
+### Kata Kunci
+
+-   Masalah emosi disebabkan oleh perasaan yang ditekan, terutama kesedihan.
+    
+-   Keluhan yang disertai dengan pengeluaran cairan seperti putih telur mentah
+    
+-   Keluhan-keluhan yang memburuk pada kondisi panas.
+
+### Kata Kunci Anak
+
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MTQ5MzkyNzZdfQ==
+eyJoaXN0b3J5IjpbLTEwNDMwOTgxNDksLTE2MTQ5MzkyNzZdfQ
+==
 -->
