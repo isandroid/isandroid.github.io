@@ -103,7 +103,7 @@ Penggolongan manusia berdasarkan konstitusi tubuh:
     
 3.  [Calcarea Carbonica](/2021/06/14/calcarea-carbonica.html)
     
-4.  Graphite
+4.  [Graphite](/2021/06/14/graphites.html)
     
 5.  Ignatia
     
@@ -129,6 +129,6 @@ Penggolongan manusia berdasarkan konstitusi tubuh:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0NzMwNDU2OSwtMTg0NjI4NzQwMywxOD
+eyJoaXN0b3J5IjpbLTQwMjY5MDU0MCwtMTg0NjI4NzQwMywxOD
 M1NDc3NDMzLDEzMjg1ODE2N119
 -->
