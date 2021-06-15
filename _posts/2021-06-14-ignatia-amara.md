@@ -144,7 +144,31 @@ published: true
 	    
 	-   Makanan manis, alkohol.
 
-### Rasa takut
+### Rasa Takut
+
+-   Dilukai emosinya
+    
+-   Kehilangan kontrol diri
+    
+-   Ruang tertutup atau tempat penuh sesak
+    
+-   Pencuri
+
+###  Kondisi Umum (Modality) - Membaik
+
+-   hangat
+    
+-   Setelah makan
+    
+-   Setelah miksi
+    
+-   Setelah penekanan di lokasi sakit
+    
+-   Berubah posisi tubuh
+
+### Keadaan umum : memburuk
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxNTcxNDI4Niw2NTAxMjEwMDFdfQ==
+eyJoaXN0b3J5IjpbNjAyMTg3Nzc3LDY1MDEyMTAwMV19
 -->
