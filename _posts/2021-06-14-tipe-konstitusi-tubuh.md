@@ -119,7 +119,7 @@ Penggolongan manusia berdasarkan konstitusi tubuh:
     
 11. [Sepia Officinalis](/2021/06/14/sepia-officinalis.html)
 
-12. Silicea Terra
+12. [Silicea Terra](/2021/06/14/silicea-terra.html)
 
 13. Nux vomica
 
@@ -127,7 +127,7 @@ Penggolongan manusia berdasarkan konstitusi tubuh:
 
 15. Lachesis
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyOTY3MDk2MiwxOTk2MDQzNDQ5LC0xMj
-IxMjkwOTYzLC0xODQ2Mjg3NDAzLDE4MzU0Nzc0MzMsMTMyODU4
-MTY3XX0=
+eyJoaXN0b3J5IjpbODYzODY5MzQ3LDE5OTYwNDM0NDksLTEyMj
+EyOTA5NjMsLTE4NDYyODc0MDMsMTgzNTQ3NzQzMywxMzI4NTgx
+NjddfQ==
 -->
