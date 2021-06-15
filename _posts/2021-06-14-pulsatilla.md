@@ -140,7 +140,43 @@ published: true
     
 -   Tidak merasa haus, tetapi minum air dingin menyejukkan
 
+### Keadaan Umum - Memburuk
+    
+-   Cuaca panas dan ruangan yang sesak
+    
+-   Cuaca tiba-tiba dingin
+    
+-   Perasaan depresi dan sedih muncul di petang hari.
+    
+-   Gangguan lambung mengalami agravasi pada pagi hari, dan gangguan mental pada petang hari
+    
+-   Berbaring disisi kiri tubuh
+    
+-   Terlalu lama berdiri
+    
+-   premenstruasi
+
+-   Rasa tidak nyaman bertambah bila masuk ke ruangan yang panas.
+    
+-   Gejala alergi memburuk di petang hari
+    
+-   Berbaring di sisi kiri tubuh
+
+### Penampilan Fisik
+
+-   Tipe Pulsatilla cenderung berperawakan montok, gemuk padat, berambut lurus, mata biru, wajah mudah merona kemerahan.
+    
+-   Bagian tubuh yang lemah :
+    
+-   Pembuluh vena
+    
+-   Lambung dan usus
+    
+-   Kandung kemih
+    
+-   Organ reproduksi wanita
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTMzODc5NjksLTE1MTI1MDA2NF19
+eyJoaXN0b3J5IjpbLTE1NjUxNzQwMzQsLTE1MTI1MDA2NF19
 -->
