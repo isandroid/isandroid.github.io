@@ -109,7 +109,7 @@ Penggolongan manusia berdasarkan konstitusi tubuh:
     
 6.  [Lycopodium](/2021/06/14/lycopodium.html)
     
-7.  Merc Solubilis
+7.  [Mercurius Solubilis](/2021/06/14/mercurius-solubilis.html)
     
 8.  Natrum Murniatum (Natrum mur)
 
@@ -127,6 +127,6 @@ Penggolongan manusia berdasarkan konstitusi tubuh:
 
 15. Lachesis
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjEyOTA5NjMsLTE4NDYyODc0MDMsMT
-gzNTQ3NzQzMywxMzI4NTgxNjddfQ==
+eyJoaXN0b3J5IjpbLTE2NzI0NjY3NjUsLTEyMjEyOTA5NjMsLT
+E4NDYyODc0MDMsMTgzNTQ3NzQzMywxMzI4NTgxNjddfQ==
 -->
