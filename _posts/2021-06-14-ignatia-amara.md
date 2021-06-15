@@ -50,7 +50,47 @@ published: true
     
 -   Keluhan bertambah : di udara dingin, gangguan emosi, minum kopi, merokok, mencium bau yang menyengat.
 
+### Kata Kunci
+
+-   Masalah emosional
+    
+-   Kesedihan mendadak, misal : ditinggalkan teman/kerabat atau putus hubungan
+    
+-   Nyeri kepala
+    
+-   Batuk dan sakit tenggorok
+    
+-   Keluhan dengan gejala yang berubah-ubah secara kontradiktif (changeable contradictory symptoms)
+
+### Kata kunci (untuk anak Ignatia)
+
+-   Penggembira, mudah dirangsang, sensitip dan cepat dewasa.
+    
+-   Berperasaan halus dan gampang gugup, dengan ekspresi tegang.
+    
+-   Sangat sensitip terhadap suara bising dan menyeringai (meringis) bila berbicara.
+    
+-   Sangat sulit menanggulangi stres, mengakibatkan kehilangan konsentrasi, menangis atau marah.
+
+-   Bila stres, takut kepada segala sesuatu, termasuk takut pergi sendirian
+    
+-   Cenderung mudah mengalami sakit kepala (nervous headache) sepulang sekolah.
+    
+-   Memikul kesalahan terhadap kegagalan
+    
+-   Dapat mengalami pingsan bila berada di ruang tertutup.
+    
+-   Mudah mengalami batuk kering dan radang laring akibat nervous
+
+### Kepribadian dan Temperamen
+
+-   Sebagian besar tipe Ignatia : wanita, sensitif, artistik, emosi fragil.
+    
+-   Sangat menyenangkan dan ramah, tetapi lemah dan lembut.
+    
+-   Mudah sedih. Menderita berbagai penyakit (fisik dan mental) akibat sedih.
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzU1Mzc1ODkyXX0=
+eyJoaXN0b3J5IjpbLTc0Mjg3NTUzOF19
 -->
