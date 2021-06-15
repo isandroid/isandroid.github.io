@@ -124,7 +124,27 @@ published: true
     
 -   Mata banyak berkedip, banyak menarik nafas panjang, atau menguap, menunjukkan kesulitan melepaskan diri dari emosinya
 
+### Bagian badan yang lemah
+
+-   Hatinya (mind atau pikirannya)
+    
+-   Sistem saraf
+
+### Makanan yang Disukai
+
+-   Makanan rasa asam
+    
+-   Dairy food (keju, mentega )
+    
+-   Roti (bread)
+
+-   Makanan yang disukai tetapi menyebabkan perburukan :
+    
+	-   Kopi
+	    
+	-   Makanan manis, alkohol.
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTU1Nzk0MzNdfQ==
+eyJoaXN0b3J5IjpbNjUwMTIxMDAxXX0=
 -->
