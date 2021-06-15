@@ -202,7 +202,60 @@ published: true
 
 - Mudah mengalami selesma dengan hidung tersumbat, pengeluaran banyak mukus . merasa lebih baik bila ke udara terbuka.
 
+### Karakteristik Umum
+
+Keluhan membaik :
+
+-   Berkerudung / berselimut agar hangat, terutama bagian kepalanya
+    
+-   Di musim panas.
+    
+
+Keluhan memburuk :
+
+-   Di udara dingin dan kotor
+    
+-   Bulan baru (new moon)
+    
+-   For washing and swimming
+    
+-   Berbaring di sisi kiri tubuh.
+
+### Kelemahan Bagian Tubuh
+
+-   Sistem saraf pusat
+    
+-   Kelenjar getah bening
+    
+-   Tulang
+    
+-   Jaringan
+    
+-   Kulit.
+
+### Kata Kunci
+
+-   Kekurangan gizi secara umum yang mengakibatkan mudah terserang infeksi berulang.
+    
+-   Keluhan kulit dan tulang
+    
+-   Mengeluarkan benda asing dari tubuh
+    
+-   Masalah sistem saraf.
+
+### Kata Kunci Anak Silicea
+
+-   Kepala besar, kepala berkeringat dengan kulit pucat dan rambut halus.
+    
+-   Perawakan kecil dibandingkan umurnya, tetapi proporsional, dengan tangan dan kaki yang kecil.
+    
+-   Merasa sangat dingin , ekstremitas lembab.
+    
+-   Pemalu, lembut, berkelakuan baik, tetapi semaunya sendiri, dan tipis telinga.
+
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4Mjc0OTg0MiwtMTUxMjUwMDY0XX0=
+eyJoaXN0b3J5IjpbMTAyMjYyNTEyOSwxOTgyNzQ5ODQyLC0xNT
+EyNTAwNjRdfQ==
 -->
