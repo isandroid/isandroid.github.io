@@ -144,7 +144,7 @@ published: true
 	    
 	-   Makanan manis, alkohol.
 
-
+### Rasa takut
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjUwMTIxMDAxXX0=
+eyJoaXN0b3J5IjpbLTUxNTcxNDI4Niw2NTAxMjEwMDFdfQ==
 -->
