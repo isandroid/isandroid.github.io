@@ -111,7 +111,22 @@ mereka umumnya manis, malu-malu, baik dan lembut, mudah menangis, penakut, terke
     
 -   Tidak mau menikah, tanpa alasan yang jelas.
 
+### Makanan yang Disukai
+  
+-   Makanan manis : cakes, pastri, coklat
+    
+-   Makanan dan minuman dingin
+    
+-   Peanut butter
+    
+-   Yang tidak disukai
+    
+-   Makanan berlemak, menimbulkan gangguan pencernaan.
+    
+-   Makanan pedas
+    
+-   Terganggu bila makan makanan yg dicampur
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2MTI3NDE0XX0=
+eyJoaXN0b3J5IjpbLTE1MTI1MDA2NF19
 -->
