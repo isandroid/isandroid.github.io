@@ -62,17 +62,33 @@ published: true
     
 -   Takut kepada hujan angin disertai petir
     
--   Merasa lebih baik :
+### Merasa lebih baik
+   
+-   Di suhu hangat dan udara segar,
     
-	-   Di suhu hangat dan udara segar,
-	    
-	-   sesudah makan,
-	    
-	-   Banyak tidur
-	    
-	-   Ruangan gelap
+-   sesudah makan,
+    
+-   Banyak tidur
+    
+-   Ruangan gelap
+
+### Keluhan Memburuk
+
+-   Cuaca dingin, pengap
+    
+-   Di Sisi badan sebelah kiri
+    
+-   Pada pagi hari dan sore hari
+    
+-   Menggunakan steroid untuk mengobati kulitnya.
+    
+-   Sewaktu menstruasi
+    
+-   Makanan yang manis dan seafood
+
+### Bagian badan yang lemah
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDU3MzU4NywxMTExNzI2OTIwXX0=
+eyJoaXN0b3J5IjpbLTc2MzM4MjYzNiwxMTExNzI2OTIwXX0=
 -->
