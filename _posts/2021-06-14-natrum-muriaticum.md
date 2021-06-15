@@ -112,12 +112,39 @@ published: true
 
 -   Makanan yang disukai :
     
--   Makanan asam
+	-   Makanan asam
+	    
+	-   Beer
+	    
+	-   Milk dan makanan berkarbohidrat tinggi: roti ( menimbulkan gangguan)
+
+-   Tidak menyukai :
     
--   Beer
+	-   Chicken
+	    
+	-   Kopi
+
+###  Rasa Takut
+
+-   Tersinggung emosinya
     
--   Milk dan makanan berkarbohidrat tinggi: roti ( menimbulkan gangguan)
+-   Kehilangan kontrol diri
+    
+-   Takut mati
+    
+-   Di ruang tertutup dan tempat ramai
+    
+-   Takut gelap dan pencuri
+    
+-   Takut terlambat
+    
+-   Takut gagal dalam usaha *(business)*
+    
+-   Takut angin ribut dgn petir *(thunderstorm)*
+
+### Keadaan Umum (modality) - Membaik
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQ0NjI1MjU1LC0xNjE0OTM5Mjc2XX0=
+eyJoaXN0b3J5IjpbLTEwMTg5OTU2NjAsLTE2MTQ5MzkyNzZdfQ
+==
 -->
