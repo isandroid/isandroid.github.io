@@ -15,6 +15,16 @@ published: true
 -   Secara umum penting sebagai deep-acting remedy, membrikan efek ke semua sel tubuh.
     
 -   Menimbulkan deep and permanent ill effects dan akan dibawa ke generasi berikutnya (Arsenic tidak)
+
+-   Mercury sangat berbahaya karena *ill effects* akan diteruskan ke generasi berikutnya.
+    
+-   Digunakan untuk mengobati syphilis
+    
+-   Mengenai tulang dan sel saraf (otak)
+    
+-   Dewasa ini Mercury digunakan pada tensimeter dan untuk tambal gigi.
+
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4NjM2MDI2OV19
+eyJoaXN0b3J5IjpbLTEyNjQ4Njg4MjgsLTI4NjM2MDI2OV19
 -->
