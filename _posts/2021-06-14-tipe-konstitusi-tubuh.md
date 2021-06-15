@@ -111,7 +111,7 @@ Penggolongan manusia berdasarkan konstitusi tubuh:
     
 7.  [Mercurius Solubilis](/2021/06/14/mercurius-solubilis.html)
     
-8.  Natrum Muriaticum
+8.  [Natrum Muriaticum](/2021/06/14/natrum-muriaticum.html)
 
 9.  Phosphorus
     
@@ -127,6 +127,6 @@ Penggolongan manusia berdasarkan konstitusi tubuh:
 
 15. Lachesis
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyMDY5OTk4MSwtMTIyMTI5MDk2MywtMT
+eyJoaXN0b3J5IjpbMTEyNTcxNTM5MywtMTIyMTI5MDk2MywtMT
 g0NjI4NzQwMywxODM1NDc3NDMzLDEzMjg1ODE2N119
 -->
