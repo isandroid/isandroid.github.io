@@ -62,7 +62,7 @@ published: true
     
 -   Bila tidur miring 🡪 tidak terbangun untuk miksi, bila posisi terlentang bolak balik miksi (ciri khas Pulsatilla)
 
-Keadaan UmGejala membaik :
+### Keadaan Umum - Gejala Membaik
 
 -   di udara terbuka yang segar,
     
@@ -70,8 +70,7 @@ Keadaan UmGejala membaik :
     
 -   dengan menangis, dan diberikan simpati.
     
-
-Gejala memburuk  :
+### Keadaan Umum - Gejala Memburuk  :
 
 -   di cuaca panas,
     
@@ -80,6 +79,39 @@ Gejala memburuk  :
 -   berbaring di sisi kiri tubuh,
     
 -   pada petang hari.
+
+### Kepribadian dan Tempramen
+
+-   Type Pulsatilla hampir semuanya wanita,
+    
+
+mereka umumnya manis, malu-malu, baik dan lembut, mudah menangis, penakut, terkenal sebagai lady’s medicine.
+
+-   Sering tergantung pada orang lain untuk dukungan,
+    
+-   mereka dengan senang hati menerima petunjuk dan saran.
+    
+-   Mereka mudah mendapat teman.
+    
+-   Tipe pulsatilla mudah beradaptasi dengan lingkungan,
+
+-   fleksibilitas mereka mudah menimbulkan kebimbangan atau keraguan,
+    
+-   Tidak tegas, sulit menunjukkan kemarahan dan berusaha menghindari konfrontasi agar tidak terjadi pertengkaran.
+    
+-   Cepat memberikan empati kepada yang mendapat kesulitan (baik manusia maupun binatang).
+    
+-   Perasaan lebih dominan dibanding pikiran
+
+-   Bila egonya merasa tersinggung, merasa sangat terhina dan marah.
+    
+-   Sangat curiga dan sangat sensitip mengenai harga diri.
+    
+-   Selalu curiga, bahwa seseorang menghina dirinya
+    
+-   Tidak mau menikah, tanpa alasan yang jelas.
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMwNTc3NDQ4MV19
+eyJoaXN0b3J5IjpbLTI2MTI3NDE0XX0=
 -->
