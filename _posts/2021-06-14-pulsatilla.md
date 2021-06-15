@@ -3,7 +3,7 @@ title: Pulsatilla
 layout: post
 tags: homeopathy
 description: penjelasan konstitusi natrum pulsatilla
-published: true
+published: false
 ---
 
 ## {{ page.title }}
@@ -262,6 +262,6 @@ Keluhan memburuk :
 -   Sangat tidak menyukai susu dan tidak toleran terhadap susu.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQyNDk2NTU2MiwxOTgyNzQ5ODQyLC0xNT
+eyJoaXN0b3J5IjpbLTI4NDY0MDEwMSwxOTgyNzQ5ODQyLC0xNT
 EyNTAwNjRdfQ==
 -->
