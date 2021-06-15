@@ -192,7 +192,17 @@ published: true
 
 - Tipe 2: Perawakan montok, dengan rambut lebih gelap,  kurang bersemangat dan mudah mengeluarkan air mata, sangat membutuhkan kasih sayang tetapi lambat dalam memberikan  respons.
 
-### 
+### Karakteristik Umum
+
+-   Membuat suasana lebih hidup lebih gembira sepanjang hari, tetapi nervous waktu tidur dan takut gelap
+    
+-   Sensitip terhadap perubahan cuaca, terutama perubahan menjadi dingin. Contoh : minum es krim pada cuaca panas dapat memicu gangguan pencernaan dan sakit kuping
+    
+-   Merasa gamang bila naik ke tempat tinggi.
+
+- Mudah mengalami selesma dengan hidung tersumbat, pengeluaran banyak mukus . merasa lebih baik bila ke udara terbuka.
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjEwMDUxODk2LC0xNTEyNTAwNjRdfQ==
+eyJoaXN0b3J5IjpbMTk4Mjc0OTg0MiwtMTUxMjUwMDY0XX0=
 -->
