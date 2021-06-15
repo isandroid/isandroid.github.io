@@ -107,9 +107,9 @@ Penggolongan manusia berdasarkan konstitusi tubuh:
     
 5.  [Ignatia Amara](/2021/06/14/ignatia-amara.html)
     
-6.  Lycopodium
+6.  [Lycopodium](/2021/06/14/lycopodium.html)
     
-7.  Merc solubilis
+7.  Merc Solubilis
     
 8.  Natrum Murniatum (Natrum mur)
 
@@ -126,9 +126,7 @@ Penggolongan manusia berdasarkan konstitusi tubuh:
 14. Sulphur
 
 15. Lachesis
-
-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDUwMDI1MjIsLTE4NDYyODc0MDMsMT
+eyJoaXN0b3J5IjpbLTEyMjEyOTA5NjMsLTE4NDYyODc0MDMsMT
 gzNTQ3NzQzMywxMzI4NTgxNjddfQ==
 -->
