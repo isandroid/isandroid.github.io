@@ -46,7 +46,45 @@ published: true
     
 -   Batuk kering yang persisten
 
+-   Keluhan pencernaan : gangguan pencernaan akibat terlambat makan malam, mual-mual yang menetap, muntah-muntah, rasa lapar sekali tetapi setelah makan sedikit timbul rasa tidak nyaman di perut, perut kembung, sering buang angin (flatus), konstipasi (sembelit), wasir yg berdarah
+
+-   Hipertrofi prostat
+    
+-   Urin kemerahan disertai sedimen seperti pasir akibat batu ginjal
+    
+-   Meningkatkan libido dan mempertahankan ereksi penis
+    
+-   Hampir semua keluhan di bagian tubuh sebelah kanan dan disertai keinginan makanan manis.
+    
+-   Nyeri kepala tipe neuralgia
+
+-   Radang tenggorok, yang memburuk bila minum dingin.
+    
+-   Batuk kering yang persisten
+    
+-   Kelemahan akibat influenza
+    
+-   Rambut rontok
+    
+-   Psoriasis pada tangan.
+    
+-   Masalah emosi disebabkan insecurity
+
+### Gejala Membaik
+
+-   Melonggarkan baju
+    
+-   Banyak bergerak.
+    
+-   Di udara yang dingin /sejuk
+    
+-   Makanan dan minuman hangat
+    
+-   Pada malam hari.
+
+### Gejala Memburuk
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2MDQ4ODE3MV19
+eyJoaXN0b3J5IjpbLTg1Njc2NjkyXX0=
 -->
