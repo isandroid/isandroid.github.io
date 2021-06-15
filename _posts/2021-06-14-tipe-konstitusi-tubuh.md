@@ -121,13 +121,13 @@ Penggolongan manusia berdasarkan konstitusi tubuh:
 
 12. [Silicea Terra](/2021/06/14/silicea-terra.html)
 
-13. Nux vomica
+13. Nux Vomica
 
 14. Sulphur
 
 15. Lachesis
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODYzODY5MzQ3LDE5OTYwNDM0NDksLTEyMj
-EyOTA5NjMsLTE4NDYyODc0MDMsMTgzNTQ3NzQzMywxMzI4NTgx
-NjddfQ==
+eyJoaXN0b3J5IjpbLTE3ODA4Mjg3MzMsODYzODY5MzQ3LDE5OT
+YwNDM0NDksLTEyMjEyOTA5NjMsLTE4NDYyODc0MDMsMTgzNTQ3
+NzQzMywxMzI4NTgxNjddfQ==
 -->
