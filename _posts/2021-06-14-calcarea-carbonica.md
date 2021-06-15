@@ -96,8 +96,38 @@ published: true
     
 -   oysters
 
+### Makanan & minuman tidak disukai
+
+-   Susu dan kopi, yang dapat menimbulkan gangguan pencernaan
+    
+-   Gemar pada sesuatu yang aneh seperti soil (tanah) dan kapur tulis (chalk)
+
+### Takut
+
+-   Gelap dan hantu
+    
+-   Sakit yang tidak dapat disembuhkan dan kanker
+    
+-   Takut mati
+    
+-   Ruang tertutup
+    
+-   Kemiskinan
+    
+-   Petir
+
+### Penampilan fisik
+
+-   Karena nafsu makan yang besar, cenderung gemuk (kelebihan berat badan)
+    
+-   Apatis dan malas
+    
+-   Sering mengalami keringat di kepala
+    
+-   Kelainan tulang dan sendi, seperti skoliosis.
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDA5NDc0OTQ2LDE1OTc5NDk3OSwxMjE0NT
-QzNDgzLC0xOTIxNjE5OTVdfQ==
+eyJoaXN0b3J5IjpbMTk2MTA0NTExNiw0MDk0NzQ5NDYsMTU5Nz
+k0OTc5LDEyMTQ1NDM0ODMsLTE5MjE2MTk5NV19
 -->
