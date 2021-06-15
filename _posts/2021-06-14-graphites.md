@@ -11,6 +11,8 @@ published: true
 -   Bahan pembuat pensil
 
 - Berasal dari bahasa Yunani : graphein, yang artinya menulis
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExMTcyNjkyMF19
+eyJoaXN0b3J5IjpbMTkxNDA0NDQ1MiwxMTExNzI2OTIwXX0=
 -->
