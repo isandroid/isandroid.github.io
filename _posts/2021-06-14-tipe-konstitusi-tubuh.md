@@ -117,9 +117,9 @@ Penggolongan manusia berdasarkan konstitusi tubuh:
     
 10.  [Pulsatilla](/2021/06/14/pulsatilla.html)
     
-11. Sepia Officinalis
+11. [Sepia Officinalis](/2021/06/14/sepia-officinalis.html)
 
-12. Silicea
+12. Silicea Terra
 
 13. Nux vomica
 
@@ -127,7 +127,7 @@ Penggolongan manusia berdasarkan konstitusi tubuh:
 
 15. Lachesis
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxMDU4NDIxNCwxOTk2MDQzNDQ5LC0xMj
+eyJoaXN0b3J5IjpbMTAyOTY3MDk2MiwxOTk2MDQzNDQ5LC0xMj
 IxMjkwOTYzLC0xODQ2Mjg3NDAzLDE4MzU0Nzc0MzMsMTMyODU4
 MTY3XX0=
 -->
