@@ -159,6 +159,22 @@ published: true
 -   Masalah sistem saraf.
 
 ### Kata Kunci Anak Silicea
+
+-   Kepala besar, kepala berkeringat dengan kulit pucat dan rambut halus.
+    
+-   Perawakan kecil dibandingkan umurnya, tetapi proporsional, dengan tangan dan kaki yang kecil.
+    
+-   Merasa sangat dingin , ekstremitas lembab.
+    
+-   Pemalu, lembut, berkelakuan baik, tetapi semaunya sendiri, dan tipis telinga.
+
+-   Marah bila terganggu dan stamina yang buruk
+    
+-   Cerdas, cepat mengerti, dan conscientious, tetapi tidak konfiden.
+    
+-   Rapih, cenderung memasang benda-benda kecil, seperti memasang pin,
+    
+-   Sangat tidak menyukai susu dan tidak toleran terhadap susu.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTczNjgzNzQwLDI2NzI0NDM2Ml19
+eyJoaXN0b3J5IjpbLTE0MjE1NTQ5NzQsMjY3MjQ0MzYyXX0=
 -->
