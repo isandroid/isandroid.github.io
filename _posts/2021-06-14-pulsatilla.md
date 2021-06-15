@@ -127,6 +127,17 @@ mereka umumnya manis, malu-malu, baik dan lembut, mudah menangis, penakut, terke
     
 -   Terganggu bila makan makanan yg dicampur
 
+### Rasa Takut
+
+-   Ruang tertutup dan tempat keramaian.
+    
+-   Takut sendirian
+    
+-   Tempat gelap dan takut hantu
+    
+-   Takut gila dan takut mati
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTI1MDA2NF19
+eyJoaXN0b3J5IjpbNTg0NDAyNTE5LC0xNTEyNTAwNjRdfQ==
 -->
