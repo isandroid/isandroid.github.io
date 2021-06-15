@@ -85,10 +85,43 @@ published: true
     
 -   Umumnya orang disekitarnya tidak mengetahui (tampak normal)
 
+### Penampilan Fisik
+
+-   Umumnya berperawakan tinggi semampai, langsing dengan panggul sempit, rambut berwarna gelap.
+    
+-   Tanda khas Sepia : ada tanda menyilang di hidungnya seperti *“brown saddle”*. Huzur : seperti sayap burung.
+
+-   Bila duduk suka menyilangkan kakinya, karena ada kelemahan di tulang panggulnya
+    
+-   Wanita Sepia atraktif dan elegan, tampak agak maskulin
+    
+-   Rasa takut sendirian, takut miskin, takut menjadi gila.
+
+### Kata Kunci
+
+-   Keluhan wanita, terutama keadaan yang berhubungan dengan keseimbangan hormon, seperti pada sindroma premenstruasi dan menopause.
+    
+-   Penyakit atau keluhan yang disertai dengan kelelahan (exhaustion)
+
+### Kata Kunci Anak Sepia
+
+-   Kulit pucat dan berkeringat
+    
+-   Peka terhadap perubahan cuaca
+    
+-   Mudah lelah & mudah pingsan bila berdiri
+    
+-   Nervous dan tidak suka sendirian
+    
+-   Tidak menyukai pesta, tetapi bila dipaksa akan menghidupkan suasana pertemuan.
+    
+-   Rakus terhadap makanan dan susu akan menimbulkan sakit perut
+    
+-   Cenderung sembelit dan ngompol pada bagian awal dari malam.
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4NTgyMzc2MV19
+eyJoaXN0b3J5IjpbMTkyNDY0NTI3OV19
 -->
