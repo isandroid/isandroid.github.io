@@ -114,9 +114,29 @@ published: true
 
 ### Penampilan Fisik
 
+-   Berperawakan tinggi, berkulit kepucatan, kelihatan angkuh.
+    
+-   Tubuh bagian atas tampak kurus, ototnya kurang berkembang, mudah tremor pasca berlatih fisik.
+    
+-   Kerut vertikal di dahi di atas hidungnya, rambut cepat beruban atau botak.
+    
+-   Otot wajah sering kekedutan
 
+### Bagian Tubuh yang Lemah
 
-
+-   Bagian sisi kanan badan
+    
+-   Saluran pencernaan, terutama usus.
+    
+-   Liver.
+    
+-   Ginjal dan Kandung kemih
+    
+-   Kelenjar prostat
+    
+-   Otak.
+    
+-   Paru dan Kulit
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyODcyOTM3NV19
+eyJoaXN0b3J5IjpbMTA1NzQ5NzI5N119
 -->
