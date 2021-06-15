@@ -139,29 +139,29 @@ Penggolongan manusia berdasarkan konstitusi tubuh:
     
 4.  Graphite
     
-5.  [Ignatia Amara
+5.  Ignatia Amara
     
-6.  [Lycopodium
+6.  Lycopodium
     
-7.  [Mercurius Solubilis
+7.  Mercurius Solubilis
     
-8.  [Natrum Muriaticum
+8.  Natrum Muriaticum
 
-9.  [Phosphorus
+9.  Phosphorus
     
-10.  [Pulsatilla
+10. Pulsatilla
     
-11. [Sepia Officinalis
+11. Sepia Officinalis
 
-12. [Silicea Terra](/2021/06/14/silicea-terra.html)
+12. Silicea Terra
 
-13. [Nux Vomica](/2021/06/14/nux-vomica.html)
+13. Nux Vomica
 
-14. [Sulphur](/2021/06/14/sulphur.html)
+14. Sulphur
 
-15. [Lachesis](/2021/06/14/lachesis.html)
+15. Lachesis
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4MDQ3NTQ2MCwtNDMwMTkxOTI4LC0xNz
+eyJoaXN0b3J5IjpbLTk1NDYxNTEzNCwtNDMwMTkxOTI4LC0xNz
 gwODI4NzMzLDg2Mzg2OTM0NywxOTk2MDQzNDQ5LC0xMjIxMjkw
 OTYzLC0xODQ2Mjg3NDAzLDE4MzU0Nzc0MzMsMTMyODU4MTY3XX
 0=
