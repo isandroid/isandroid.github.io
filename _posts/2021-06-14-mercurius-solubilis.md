@@ -1,5 +1,5 @@
 ---
-title: Mercurius Solubilis
+title: Mercurius Solubilis (Merc. Sol.)
 layout: post
 tags: homeopathy
 description: penjelasan konstitusi mercurius solubilis
@@ -157,5 +157,5 @@ published: true
 -   Perubahan suhu
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzc0MzYwNTcsLTI4NjM2MDI2OV19
+eyJoaXN0b3J5IjpbLTE4MDMzMzYyOTMsLTI4NjM2MDI2OV19
 -->
