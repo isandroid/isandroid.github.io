@@ -166,9 +166,13 @@ published: true
     
 -   Berubah posisi tubuh
 
-### Keadaan umum : memburuk
+### Keadaan Umum - Memburuk
 
-
+-   Di udara dingin
+    
+-   Emosi terganggu: pasca kesedihan, marah
+    
+-   Mencium bau tembakau
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjAyMTg3Nzc3LDY1MDEyMTAwMV19
+eyJoaXN0b3J5IjpbMzAwNDk3NzQ2LDY1MDEyMTAwMV19
 -->
