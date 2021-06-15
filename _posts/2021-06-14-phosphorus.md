@@ -3,7 +3,7 @@ title: Phosphorus (Phos)
 layout: post
 tags: homeopathy
 description: penjelasan konstitusi natrum phosphorus atau phos.
-published: true
+published: false
 ---
 
 ## {{ page.title }}
@@ -104,5 +104,5 @@ published: true
     
 -   Kegiatan fisik dan mental.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4ODE4MDcxNjAsMTc5ODEzNjU2Nl19
+eyJoaXN0b3J5IjpbNzUyNzUyMDEzLDE3OTgxMzY1NjZdfQ==
 -->
