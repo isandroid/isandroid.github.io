@@ -126,7 +126,7 @@ published: true
     
 -   Di musim panas.
     
-### Keadaan Umum - Gejala Memburuk  :
+### Keadaan Umum - Gejala Memburuk
 
 -   Di udara dingin dan kotor
     
@@ -176,5 +176,5 @@ published: true
     
 -   Sangat tidak menyukai susu dan tidak toleran terhadap susu.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MjE1NTQ5NzQsMjY3MjQ0MzYyXX0=
+eyJoaXN0b3J5IjpbMTI2MDY4NzMwLDI2NzI0NDM2Ml19
 -->
