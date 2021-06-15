@@ -116,7 +116,7 @@ published: true
     
 -   Petir
 
-### Penampilan fisik
+### Penampilan Fisik
 
 -   Karena nafsu makan yang besar, cenderung gemuk (kelebihan berat badan)
     
@@ -126,8 +126,36 @@ published: true
     
 -   Kelainan tulang dan sendi, seperti skoliosis.
 
+### Bagian Tubuh yang Lemah
 
+-   Tulang dan gigi
+    
+-   Usus
+    
+-   Kuping, hidung, tenggorok
+    
+-   Kelenjar,
+    
+-   Kulit
+
+### Keluhan Membaik
+
+-   Pagi menjelang siang
+    
+-   Cuaca kering
+
+### Keluhan Memburuk
+
+-   Cuaca / udara dingin dan lembab
+    
+-   Sebelum menstruasi
+    
+-   Setelah berkeringat atau kerja fisik
+    
+-   Di musim semi
+    
+-   Bulan purnama
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2MTA0NTExNiw0MDk0NzQ5NDYsMTU5Nz
+eyJoaXN0b3J5IjpbMTEwNTU1MjMwNiw0MDk0NzQ5NDYsMTU5Nz
 k0OTc5LDEyMTQ1NDM0ODMsLTE5MjE2MTk5NV19
 -->
