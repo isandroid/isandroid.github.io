@@ -72,9 +72,23 @@ published: true
     
 -   Bila tidak sehat, tidak suka diberi simpati dan cenderung menarik diri.
     
--   Ada dua tipe Sepia : indipenden, career-minded, seek fulfilment from her work (mencari kepuasan diri dari hasil kerja kerasnya), berusaha keras menyembunyikan kepekaannya terhadap kritik.
+-   Ada dua tipe Sepia : 
+	- Tipe Pertama: independen, *career-minded*, *seek fulfilment from her work* (mencari kepuasan diri dari hasil kerja kerasnya), berusaha keras menyembunyikan kepekaannya terhadap kritik.
+
+	-   Tipe kedua : merasa tenggelam dalam kesibukannya sebagai ibu dan istri dan tidak dapat memenuhi keinginan kebutuhan pribadinya sendiri.
+    
+-   Membenci semua hal yang seharusnya ia sukai. Perasaan ini dan sikap acuh tak acuh menyebabkan ia ketakutan dan hal ini mengagravasi penyakitnya.
+
+-   Kehidupan sosialnya makin menyusut, menjauhkan diri dari orang-orang di sekitarnya
+    
+-   Akibat penderitaan yang berlarut-larut, akhirnya meledak dan mengalir seperti lava, yang kemudian dapat menunjukkan kecenderungan bunuh diri atau menjadi setengah gila.
+    
+-   Umumnya orang disekitarnya tidak mengetahui (tampak normal)
+
+
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTM3MjM2MzVdfQ==
+eyJoaXN0b3J5IjpbLTc4NTgyMzc2MV19
 -->
