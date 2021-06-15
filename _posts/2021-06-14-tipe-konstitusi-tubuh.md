@@ -123,11 +123,11 @@ Penggolongan manusia berdasarkan konstitusi tubuh:
 
 13. Nux Vomica
 
-14. Sulphur
+14. [Sulphur](/2021/06/14/sulphur.html)
 
 15. Lachesis
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODA4Mjg3MzMsODYzODY5MzQ3LDE5OT
-YwNDM0NDksLTEyMjEyOTA5NjMsLTE4NDYyODc0MDMsMTgzNTQ3
-NzQzMywxMzI4NTgxNjddfQ==
+eyJoaXN0b3J5IjpbLTQzMDE5MTkyOCwtMTc4MDgyODczMyw4Nj
+M4NjkzNDcsMTk5NjA0MzQ0OSwtMTIyMTI5MDk2MywtMTg0NjI4
+NzQwMywxODM1NDc3NDMzLDEzMjg1ODE2N119
 -->
