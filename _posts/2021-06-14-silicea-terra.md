@@ -120,7 +120,15 @@ published: true
     
 -   Takut gagal dalam usaha
 
+### Keadaan Umum - Gejala Membaik
+
+-   Berkerudung / berselimut agar hangat, terutama bagian kepalanya
+    
+-   Di musim panas.
+    
+### Keadaan Umum - Gejala Memburuk  :
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjY3MjQ0MzYyXX0=
+eyJoaXN0b3J5IjpbNjMyODAwODc3LDI2NzI0NDM2Ml19
 -->
