@@ -3,7 +3,7 @@ title: Nux Vomica
 layout: post
 tags: homeopathy
 description: penjelasan konstitusi nux vomica
-published: true
+published: false
 ---
 
 ## {{ page.title }}
@@ -78,5 +78,5 @@ published: true
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxMzg5ODIxNl19
+eyJoaXN0b3J5IjpbLTMzNjYxNzc0OV19
 -->
