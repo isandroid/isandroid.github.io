@@ -59,6 +59,52 @@ published: true
 -   Diare kronik yang disebabkan oleh tuberkulosis atau makanan yang tidak bersih dan tidak sehat
     
 -   Asthma. Silicea diberikan setelah serangan asthma, akan menghentikan kecenderungan asthma dikemudian hari.
+
+-   epilepsi dengan konstitusi dingin. Serangan epilepsi didahului dengan aura yang berasal dari perut, kemudian mengenai kepala.
+    
+-   Serangan epilepsi di awal bulan (early part of the lunar month) ingat Silicea.
+    
+-   Sakit lidah, bengkak, seperti pada gout.
+    
+-   Hiccup (ceguken) karena gangguan lambung
+    
+-   Disfungsi liver
+
+-   Konstipasi berat pada anak-anak.
+    
+-   Kelainan saluran kemih : urin mengandung pus atau darah, sering-sering miksi karena kandung kencing iritabel.
+    
+-   Batu ginjal (batu oksalat). Ditandai adanya renal kolik.
+    
+-   Kista di rahim bagian bawah, yang bila pecah mengeluarkan cairan yang lengket.
+    
+-   Peradangan indung telur menghasilkan pus (nanah)
+
+-   Kuku ibu jari kaki tumbuh ke dalam atau terbentuknya callus akibat memakai sepatu yang sempit
+
+### Kepribadian dan Tempramen
+
+-   Mempunyai stamina (fisik dan mental) yang rendah dan diliputi oleh rasa takut yang berlebihan.
+    
+-   Sangat ulet dan tekadnya bulat bila ia menerima tantangan.
+    
+-   Bila mendapat suatu tugas bertanggungjawab sungguh-sungguh, mendetail,sehingga bekerja berlebihan dan mengalami kelelahan, berakibat sulit tidur.
+
+-   Pandangan dan aspirasinya dibatasi oleh perasaan takut gagal dan menunjukkan kecenderungan jadi mahasiswa abadi.
+    
+-   Karena ketidak tegasan pendirian, mudah terombang-ambing dan menghilangkan frustasinya kepada bawahannya.
+    
+-   Dalam hubungan dengan orang lain, tidak mau terlalu dekat/akrab atau terikat karena takut terluka hatinya.
+
+### Penampilan Fisik
+
+-   Perawakan kecil, tulang pipih, dan penampilan rapi.
+    
+-   Menunjukkan kecenderungan pecah-pecah bibirnya dan ada fisura di sudut mulut.
+    
+-   Kukunya kasar, kekuningan.
+    
+-   Kulit mudah mengalami infeksi bernanah dan lambat sembuh.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyNzcxMzg0Ml19
+eyJoaXN0b3J5IjpbLTEyMzI5MzI1N119
 -->
