@@ -88,10 +88,36 @@ published: true
 
 ### Kata Kunci Anak
 
+-   Perawakan kecil atau berbobot kurang (underweight) untuk umurnya.
+    
+-   Lambat dalam belajar berjalan dan berbicara.
+    
+-   Berkulit relatif gelap, keringat lebih cepat menguap, menyebabkan kulit muka mengkilat
+    
+-   Berkelakuan baik, bertanggung jawab dan bersungguh-sungguh dalam mengerjakan pekerjaan rumah dan memelihara adiknya
 
+-   Peka terhadap kritik, hati mudah terluka dan dapat menjadi anak yang menyulitkan
+    
+-   Benci ribut dengan orang lain.
+    
+-   Cenderung menderita sakit kepala akibat tekanan (menerjakan pekerjaan sekolah)
 
+### Penampilan Fisik
+
+-   Perawakan berbentuk buah pear *(pear shape)*, berambut gelap, kulit wajahnya agak pucat , bengkak *(puffy)* dan mengkilat.
+    
+-   Mata tampak berair dan kelopak matanya agak kemerahan.
+
+### Makanan & Minuman
+
+-   Makanan yang disukai :
+    
+-   Makanan asam
+    
+-   Beer
+    
+-   Milk dan makanan berkarbohidrat tinggi: roti ( menimbulkan gangguan)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNDMwOTgxNDksLTE2MTQ5MzkyNzZdfQ
-==
+eyJoaXN0b3J5IjpbNDQ0NjI1MjU1LC0xNjE0OTM5Mjc2XX0=
 -->
