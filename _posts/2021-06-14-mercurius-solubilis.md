@@ -118,7 +118,36 @@ published: true
     
 -   Makanan : bread dan butter
 
+### Makanan tidak Disukai
+
+-   Daging
+    
+-   Makanan manis dan kopi
+    
+-   Alkohol (kecuali *beer*)
+    
+-   Garam
+
+### Rasa Takut
+
+-   Kesehatan keluarganya
+    
+-   Takut pencuri
+    
+-   Takut menjadi gila dan takut mati
+    
+-   Angin ribut disertai petir
+
+### Keadaan Umum (modality) - Membaik
+
+-   Di udara dengan suhu sedang
+    
+-   beristirahat
+
+### Keadaan Umum (modality) - Memburuk
+
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk1MDIyMjE2MSwtMjg2MzYwMjY5XX0=
+eyJoaXN0b3J5IjpbLTE4MjQyNTc1MDksLTI4NjM2MDI2OV19
 -->
