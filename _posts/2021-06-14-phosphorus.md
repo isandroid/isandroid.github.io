@@ -103,7 +103,6 @@ published: true
 -   Di waktu pagi dan petang
     
 -   Kegiatan fisik dan mental.
-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5ODEzNjU2Nl19
+eyJoaXN0b3J5IjpbLTE4ODE4MDcxNjAsMTc5ODEzNjU2Nl19
 -->
