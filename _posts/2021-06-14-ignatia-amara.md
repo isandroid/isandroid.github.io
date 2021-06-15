@@ -90,7 +90,41 @@ published: true
     
 -   Mudah sedih. Menderita berbagai penyakit (fisik dan mental) akibat sedih.
 
+-   Penuh dengan ide-ide dan harapan-harapan yang muluk.
+    
+-   Bila sesuatu berlangsung tidak sesuai harapan, cenderung menyalahkan diri sendiri.
+    
+-   Walau sensitip, wanita Ignatia sulit mengekspresikan emosinya. Bila jiwanya terusik, tidak dapat menunjukkan kemarahannya, sebaliknya ia menyalahkan diri sendiri.
+
+-   Bila jiwanya terusik, tidak dapat menunjukkan kemarahannya dan sebaliknya ia menyalahkan diri sendiri,
+    
+-   Bila pertemuan sosial ditertawakan dan dicela, masih dapat toleran, tetapi setiba di rumah mengalami sakit kepala hebat, sangat sedih dan gelisah, Ignatia akan menolongnya.
+
+-   Merasa sangat sedih atas kematian anak atau yang sangat disayangi, mengakibatkan kesehatannya terganggu.
+    
+-   Bila nervous kadang-kadang tubuhnya gemetar yang dapat menimbulkan kejang, diikuti kehilangan kesadaran seperti histeria
+    
+-   Menunjukkan reaksi aneh, dimana ia akan marahmalahan sangat gembira, dan sebaliknya kabar yang menyenangkan reaksinya marah.
+
+-   Sering merasa putus asa dan depresi. Tidak ingin bertemu dengan orang. Kehilangan ingatan dan timbul histeria.
+    
+-   Mempunyai keyakinan bahwa sesuatu yang mengerikan/menakutkan akan menimpanya.
+    
+-   Tetap merasa ketakutan akan kehilangan (meninggal) kerabatnya. Bila tidak diobati dengan Ignatia bisa gila. (bila sudah gila Ignatia tidak bermanfaat)
+
+-   Sensitif terhadap rasa sakit dan terhadap tempat keramaian.
+    
+-   Sering murung, tertawa dan menangis secara simultan.
+
+### Penampilan Fisik
+
+-   Perawakan kurus, langsing, berambut gelap.
+    
+-   Bibir pecah-pecah, lingkaran sekitar mata tampak kebiruan, wajah menunjukkan ekspresi tegang.
+    
+-   Mata banyak berkedip, banyak menarik nafas panjang, atau menguap, menunjukkan kesulitan melepaskan diri dari emosinya
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc0Mjg3NTUzOF19
+eyJoaXN0b3J5IjpbLTE0OTU1Nzk0MzNdfQ==
 -->
