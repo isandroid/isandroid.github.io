@@ -94,7 +94,31 @@ published: true
 
 ### Penampilan Fisik
 
+-   Biasanya *fair-haired*, kulit lembut, halus tanpa kerutan, hidung terkesan seperti hidung yang dijepit,
+    
+-   Meskipun hatinya sedang bergejolak, wajahnya tampak tenang seperti tidak ada masalah.
+
+### Bagian Tubuh yang Lemah
+
+-   Darah
+    
+-   Selaput lendir di saluran pencernaan dan saluran pencernaan
+    
+-   Kelenjar saliva dan tonsil
+    
+-   Liver
+    
+-   Tulang dan persendian
+    
+-   kulit
+
+### Makanan yang Disukai
+
+-   Minuman dingin, susu, *beer*
+    
+-   Makanan : bread dan butter
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyNzIzOTI3MywtMjg2MzYwMjY5XX0=
+eyJoaXN0b3J5IjpbMTk1MDIyMjE2MSwtMjg2MzYwMjY5XX0=
 -->
