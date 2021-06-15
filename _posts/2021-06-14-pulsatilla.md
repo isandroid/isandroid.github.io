@@ -176,7 +176,23 @@ published: true
     
 -   Organ reproduksi wanita
 
+### Kata Kunci
 
+-   Keluhan disertai dengan pengeluaran cairan kuning kehijauan
+    
+-   Masalah pencernaan disebabkan makanan berlemak
+    
+-   Keluhan organ kewanitaan
+    
+-   Masalah emosi, seperti depresi.
+
+### Kata Kunci Anak Pulsatilla
+
+-  Tipe1: Perawakan kecil, bertulang kecil, menarik dengan pipi kemerahan, cerdas, ceria, dan penuh kasih sayang, malu-malu dan sensitif.
+
+- Tipe 2: Perawakan montok, dengan rambut lebih gelap,  kurang bersemangat dan mudah mengeluarkan air mata, sangat membutuhkan kasih sayang tetapi lambat dalam memberikan  respons.
+
+### 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NjUxNzQwMzQsLTE1MTI1MDA2NF19
+eyJoaXN0b3J5IjpbNjEwMDUxODk2LC0xNTEyNTAwNjRdfQ==
 -->
