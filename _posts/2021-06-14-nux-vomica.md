@@ -40,7 +40,45 @@ published: true
     
 -   Kopi, wine (yg berfungsi sebagai stimulan)
     
--   Atau sesuatu yg bisa menenangkan semangat excitement (tembakau, sedative drugs)
+-   Atau sesuatu yg bisa menenangkan semangat *excitement* (tembakau, sedative drugs)
+
+### Kepribadian
+
+-   Aktif (termasuk kegiatan mental)
+    
+-   Gugup
+    
+-   Mudah terganggu (suara, cahaya, bebauan, dsb)
+
+### Rasa Takut
+
+-   Gagal bisnis (ingat kepribadian tipe A)
+    
+-   Kematian
+    
+-   Kerumunan orang
+
+### Keadaan Umum (modality) - Membaik
+
+Membaik ketika:
+
+-   Kondisi lembab, cuaca basah
+    
+-   Sore hari, saat istirahat
+    
+
+ 
+-   Pagi
+    
+-   Setelah makan,
+    
+-   Kegiatan berpikir keras
+    
+-   Cuaca dingin/kering
+    
+-   Di tengah kebisingan
+
+### Keadaan Umum (modality) - Memburuk
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc0NTM1MDY5MF19
+eyJoaXN0b3J5IjpbLTM0NzQ2ODE5XX0=
 -->
