@@ -128,7 +128,37 @@ published: true
     
 ### Keadaan Umum - Gejala Memburuk  :
 
+-   Di udara dingin dan kotor
+    
+-   Bulan baru (new moon)
+    
+-   For washing and swimming
+    
+-   Berbaring di sisi kiri tubuh.
 
+### Kelemahan bagian Tubuh
+
+-   Sistem saraf pusat
+    
+-   Kelenjar getah bening
+    
+-   Tulang
+    
+-   Jaringan
+    
+-   Kulit
+
+### Kata Kunci
+
+-   Kekurangan gizi secara umum yang mengakibatkan mudah terserang infeksi berulang.
+    
+-   Keluhan kulit dan tulang
+    
+-   Mengeluarkan benda asing dari tubuh
+    
+-   Masalah sistem saraf.
+
+### Kata Kunci Anak Silicea
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjMyODAwODc3LDI2NzI0NDM2Ml19
+eyJoaXN0b3J5IjpbNTczNjgzNzQwLDI2NzI0NDM2Ml19
 -->
