@@ -82,10 +82,7 @@ published: true
 
 ### Kepribadian dan Tempramen
 
--   Type Pulsatilla hampir semuanya wanita,
-    
-
-mereka umumnya manis, malu-malu, baik dan lembut, mudah menangis, penakut, terkenal sebagai lady’s medicine.
+-   Type Pulsatilla hampir semuanya wanita, mereka umumnya manis, malu-malu, baik dan lembut, mudah menangis, penakut, terkenal sebagai lady’s medicine.
 
 -   Sering tergantung pada orang lain untuk dukungan,
     
@@ -137,7 +134,13 @@ mereka umumnya manis, malu-malu, baik dan lembut, mudah menangis, penakut, terke
     
 -   Takut gila dan takut mati
 
+### Keadaan Umum - Membaik
+
+- membuat gerakan ringan, di udara segar angin sepoi-sepoi yang dingin dan kering.
+    
+-   Tidak merasa haus, tetapi minum air dingin menyejukkan
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTg0NDAyNTE5LC0xNTEyNTAwNjRdfQ==
+eyJoaXN0b3J5IjpbLTEwOTMzODc5NjksLTE1MTI1MDA2NF19
 -->
