@@ -52,7 +52,41 @@ published: true
 
 ### Penampilan Fisik
 
+-   Tipe Phos umumnya jangkung dan langsing tampak proporsional. Berpakaian necis dan flamboyan.
+    
+-   Kelemahan : bagian kiri tubuh, paru, saluran pencernaan, lambung, liver , peredaran darah dan sistem saraf.
+
+### Kata Kunci
+
+-   Anxietas dan rasa takut
+    
+-   Perdarahan dan masalah peredaran darah
+    
+-   Gangguan pencernaan
+    
+-   Keluhan pernafasan
+    
+-   Sakit berkaitan dengan rasa sakit seperti terbakar.
+
+### Kata Kunci Anak Phosphorus
+
+-   Jangkung dan kurus untuk umurnya
+    
+-   Perawakan proporsional, dengan tangan yang ramping, muka mudah merona merah.
+    
+-   Gelisah, nervous, cerdik, cepat mengerti, mudah digugah, dan penuh kepercayaan.
+    
+-   Suka berkawan dan merasa populer.
+    
+-   Sangat kasih sayang dan perhatian kepada teman-temannya. Suka menghibur dan mengemong
+
+-   Imaginatif dan artistik
+    
+-   Tidak tekun belajar, benci ujian dan pekerjaan rumah (PR).
+    
+-   Takut kegelapan (tempat gelap) dan hujan angin disertai petir (thunderstroms)
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDgzMTY3NjJdfQ==
+eyJoaXN0b3J5IjpbLTY4MDU4MjUxOV19
 -->
