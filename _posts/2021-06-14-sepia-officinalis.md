@@ -16,7 +16,23 @@ published: true
 
 ### Profil Obat
 
+-   Sepia bekerja pada uterus, ovarium dan vagina : haid yang nyeri dan banyak,
+    
+-   Rasa panas di wajah pada menopause,
+    
+-   Gangguan emosi dan fisik pada kehamilan dan pasca melahirkan,
+    
+-   Prolapsus uteri, sariawan,
+    
+-   Wanita yang menolak hubungan seksual atau nyeri pada *coitus* dan merasa sangat lelah pasca senggama.
+
+-   Wanita tidak suka disentuh baik masa sebelum menstruasi pada masa menopause atau sebagai akibat adanya gangguan emosi.
+    
+-   keluhan kelelahan, seperti nyeri pinggang dan bagian samping tubuh sebagai akibat kelemahan otot.
+    
+-   keluhan pencernaan karena susu atau makanan berlemak, dengan sering buang angin dan sakit perut.
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDU4MjM2NjhdfQ==
+eyJoaXN0b3J5IjpbODYzODE2NzE5XX0=
 -->
