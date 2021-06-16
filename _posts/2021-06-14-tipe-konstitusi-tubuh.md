@@ -189,13 +189,13 @@ Penggolongan manusia berdasarkan konstitusi tubuh:
     
 12. [Sepia Officinalis](https://docs.google.com/document/d/1eIVVX8Ym0uJYcu7fvV5BwvMp1fRSU51X5BULDjktnxA/edit?usp=sharing)
 
-13. Silicea Terra
+13. [Silicea Terra](https://docs.google.com/document/d/1pyKRmgxBMLd7zLTEBIiQx5ytjiJSSr9B_TWRpgNO1u0/edit?usp=sharing)
 
 14. Sulphur
 
 15. Lachesis
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1ODkzMDkxNywtMTM3Mzg5MTQ5NiwtMj
+eyJoaXN0b3J5IjpbLTcxNjg5MDE0MCwtMTM3Mzg5MTQ5NiwtMj
 Y4NDk4MDMzLC05NTQ2MTUxMzQsLTQzMDE5MTkyOCwtMTc4MDgy
 ODczMyw4NjM4NjkzNDcsMTk5NjA0MzQ0OSwtMTIyMTI5MDk2My
 wtMTg0NjI4NzQwMywxODM1NDc3NDMzLDEzMjg1ODE2N119
