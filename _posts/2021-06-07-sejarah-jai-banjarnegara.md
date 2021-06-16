@@ -10,9 +10,7 @@ published: true
 
 ## {{ page.title }}
 
-Jemaat Ahmadiyah pertama kali diperkenalkan di Kabupaten Banjarnegara sekira tahun 1952, oleh [Ahmad Rusydi](/2021/06/07/profil-ahmad-rusydi.html) alias [Basroil](/2021/06/07/profil-ahmad-rusydi.html) [[^bungarampai_h146]] di Krucil, Desa Winong, Bawang, Banjarnegara. 
-
-[^bungarampai_h146]: Munawar Ahmad, dkk., **_Bunga Rampai Sejarah Ahmadiyah Indonesia (1925-200)_**, (Bogor: Jemaat Ahmadiyah Indonesia, 2000), cet. ke-1, h. 146
+Jemaat Ahmadiyah pertama kali diperkenalkan di Kabupaten Banjarnegara sekira tahun 1952, oleh [Ahmad Rusydi](/2021/06/07/profil-ahmad-rusydi.html) alias [Basroil](/2021/06/07/profil-ahmad-rusydi.html) [[^bungarampai_h146]] [[^edi_sujarwo_20210607]] di Krucil, Desa Winong, Bawang, Banjarnegara. 
 
 ### Lokasi
 
@@ -45,7 +43,7 @@ Sejarah Jemaat Ahmadiyah di Banjarnegara diawali dengan kembalinya bapak [Ahmad 
 
 dari Jemaat Bawang-Krucil. Jemaat Ahmadiyah dahulu berpusat di Krucil. Ajaran Jemaat dibawa dan diperkenalkan oleh bapak [Ahmad Rusydi](/2021/06/07/profil-ahmad-rusydi.html) [[^edi_sujarwo_20210607]]. 
 
-[^edi_sujarwo_20210607]: Wawancara dengan bapak Edi Sujarwo via Whatsapp Call tanggal 07-Jun-2021.
+
 
 [Ahmad Rusydi](/2021/06/07/profil-ahmad-rusydi.html) pulang dari luar negeri sekira tahun 1960-an. Sudah banyak orang Islam ketika itu. Kebanyakan mereka belum mengenal tentang Ahmadiyah. Beliau pulang dan memperkenalkan tentang kedatangan Imam Mahdi kepada warga masyarakat Krucil. Awalnya beliau tidak diterima masyarakat. Setelah berlalunya waktu, setelah beliau banyak menyampaikan ceramah dan lain-lain, akhirnya beliau diterima masyarakat. Selanjutnya Banyak dari antara mereka yang tertarik dengan ajaran yang disajikan melalui Jemaat Ahmadiyah. Setelah itu terjadi baiat massal (menerima Jemaat Ahmadiyah) yang dilaksanakan beberapa tahap. Salah satunya dilakukan di tahun 1963 [[^wawancara_mln_nurhadi_20210525]].
 
@@ -111,6 +109,10 @@ Setelah mempunyai Jamaah yang cukup banyak, maka didirikanlah cabang Jemaat loka
 
 ### Catatan Kaki
 
+[^edi_sujarwo_20210607]: Wawancara dengan bapak Edi Sujarwo via Whatsapp Call tanggal 07-Jun-2021.
+
+
+
 <!-- Berdasarkan bentuk tata alam dan penyebaran geografis, Banjarnegara dibagi menjadi tiga zona, yaitu: 
 
 - Pertama, Zona Utara, adalah kawasan pegunungan. 
@@ -123,7 +125,7 @@ Setelah mempunyai Jamaah yang cukup banyak, maka didirikanlah cabang Jemaat loka
 
 Dengan keadaan alam seperti itu, memang sudah sewajarnya mayoritas penduduk sekitar berprofesi menjadi petani. Mereka mengurus sawah dan kebun. Ada pula yang berternak ikan dan lain-lain.-->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTI3Njc1ODEsLTIxMjcxNjk0MjMsMTEwOT
-cwNzc2NSwtMTk4MDM1MjgyNywxNjAwMjI2OCwxMTQ5MDM0NTQ1
-LDE0NTAwNDA1OTldfQ==
+eyJoaXN0b3J5IjpbMjA3OTg2MDEwNiwtMjEyNzE2OTQyMywxMT
+A5NzA3NzY1LC0xOTgwMzUyODI3LDE2MDAyMjY4LDExNDkwMzQ1
+NDUsMTQ1MDA0MDU5OV19
 -->
