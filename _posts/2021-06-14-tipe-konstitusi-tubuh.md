@@ -175,9 +175,9 @@ Penggolongan manusia berdasarkan konstitusi tubuh:
     
 5.  [Ignatia Amara](https://docs.google.com/document/d/141k9nRb2mTUa2_1F3vANeyaGJYd1tkcgKcrepZkF0JY/edit?usp=sharing)
     
-6.  Lycopodium
+6.  [Lycopodium](https://docs.google.com/document/d/1zhaPGDdbFxu-4AxgdTpRxzU3P0hAFyTrhoD-vnoqEiE/edit?usp=sharing)
     
-7.  Mercurius Solubilis
+7.  [Mercurius Solubilis](https://docs.google.com/document/d/1YUjd-vm2oK20XPbJRkX000ppAykuO-P4S_BA2EvGYC4/edit?usp=sharing)
     
 8.  Natrum Muriaticum
 
@@ -195,8 +195,8 @@ Penggolongan manusia berdasarkan konstitusi tubuh:
 
 15. Lachesis
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjg4MDcxMzQ4LC0xMzczODkxNDk2LC0yNj
-g0OTgwMzMsLTk1NDYxNTEzNCwtNDMwMTkxOTI4LC0xNzgwODI4
-NzMzLDg2Mzg2OTM0NywxOTk2MDQzNDQ5LC0xMjIxMjkwOTYzLC
-0xODQ2Mjg3NDAzLDE4MzU0Nzc0MzMsMTMyODU4MTY3XX0=
+eyJoaXN0b3J5IjpbLTcyMDgwNTc5MywtMTM3Mzg5MTQ5NiwtMj
+Y4NDk4MDMzLC05NTQ2MTUxMzQsLTQzMDE5MTkyOCwtMTc4MDgy
+ODczMyw4NjM4NjkzNDcsMTk5NjA0MzQ0OSwtMTIyMTI5MDk2My
+wtMTg0NjI4NzQwMywxODM1NDc3NDMzLDEzMjg1ODE2N119
 -->
