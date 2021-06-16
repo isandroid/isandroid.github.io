@@ -3,7 +3,7 @@ title: Lycopodium
 layout: post
 tags: homeopathy
 description: penjelasan konstitusi lycopodium
-published: true
+published: false
 ---
 
 ## {{ page.title }}
@@ -138,5 +138,6 @@ published: true
     
 -   Paru dan Kulit
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1NzQ5NzI5NywtMTM1ODM1MjU0MF19
+eyJoaXN0b3J5IjpbLTEzNTgzNTI1NDAsLTEzNTgzNTI1NDBdfQ
+==
 -->
