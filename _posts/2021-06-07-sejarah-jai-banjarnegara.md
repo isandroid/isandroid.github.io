@@ -10,6 +10,9 @@ published: true
 
 ## {{ page.title }}
 
+Jemaat Ahmadiyah pertama kali diperkenalkan di Kabupaten Banjarnegara sekira pada tahun 1952, oleh tuan Ahmad Rusydi alias tuan Basroil (nama lahir).[^1] Beliau lahir di Krucil, Banjarnegara pada tahun 1910, anak H. Ali dan merupakan putra kelima dari tiga belas bersaudara. Berikut kedua belas saudara beliau mulai dari yang paling tua hingga yang termuda, yaitu H. Basrowi, H.M. Tahrir, Ny. Sa’dullah, Ny. Sadollah, Ny. Murtafiah, Ny. Salkiyah, Ny. Marinah, Bp. Ahmad Dahlan, Bp. Khotim, Ny. Siti Khasanah, Ny. Siti Masitah dan Ny. Supiyah.[^2]
+
+<!--
 Jemaat Ahmadiyah di Banjarnegara berdiri dengan dibentuknya kepengurusan cabang Jemaat Ahmadiyah Banjarnegara yang terletak di Kp. Krucil, Desa Winong, Kec. Bawang, Kab. Banjarnegara.
 
 Awal mula tersebarnya jemaat Ahmadiyah di Banjarnegara dan Wonosobo dimulai dari terbentuknya Jemaat Banjarnegara ini.
@@ -90,6 +93,7 @@ Setelah mempunyai Jamaah yang cukup banyak, maka didirikanlah cabang Jemaat loka
 
 - Saridal
 
+-->
 
 ### Catatan Kaki
 
@@ -105,6 +109,7 @@ Setelah mempunyai Jamaah yang cukup banyak, maka didirikanlah cabang Jemaat loka
 
 Dengan keadaan alam seperti itu, memang sudah sewajarnya mayoritas penduduk sekitar berprofesi menjadi petani. Mereka mengurus sawah dan kebun. Ada pula yang berternak ikan dan lain-lain.-->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEwOTcwNzc2NSwtMTk4MDM1MjgyNywxNj
-AwMjI2OCwxMTQ5MDM0NTQ1LDE0NTAwNDA1OTldfQ==
+eyJoaXN0b3J5IjpbLTEyMTE1NTYzLDExMDk3MDc3NjUsLTE5OD
+AzNTI4MjcsMTYwMDIyNjgsMTE0OTAzNDU0NSwxNDUwMDQwNTk5
+XX0=
 -->
