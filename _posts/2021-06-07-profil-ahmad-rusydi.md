@@ -14,9 +14,13 @@ Bapak Ahmad Rusydi mempunyai nama kecil Basroil. Setelah beliau ke Jakarta, beli
 
 [^edi_sujarwo_20210607]: Wawancara dengan bapak Edi Sujarwo via Whatsapp Call tanggal 07-Jun-2021.
 
+Beliau lahir di Krucil, Banjarnegara pada tahun 1910, anak H. Ali dan merupakan putra kelima dari tiga belas bersaudara. Berikut kedua belas saudara beliau mulai dari yang paling tua hingga yang termuda, yaitu H. Basrowi, H.M. Tahrir, Ny. Sa’dullah, Ny. Sadollah, Ny. Murtafiah, Ny. Salkiyah, Ny. Marinah, Bp. Ahmad Dahlan, Bp. Khotim, Ny. Siti Khasanah, Ny. Siti Masitah dan Ny. Supiyah.[^2]
+
+[^wawancara_muhjidin]: Muhjidin, Wawancara Pribadi Sufni Ahmad Banjarnegara, 18 Januari 2004
+
 Beliau adalah seorang pejuang kemerdekaan RI tahun 1930-1940-an. Beliau selalu dikejar-kejar (penjajah) Belanda sehingga beliau hijrah hingga ke luar negeri. Beliau menimba ilmu ke luar negeri (Qadian). Lalu pulang di tahun 1940-an ke Indonesia. Beliau menjadi salah satu pengurus Besar Jemaat Ahmadiyah Indonesia. 
 
 ### Catatan Kaki
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIzMDc5MzQxN119
+eyJoaXN0b3J5IjpbMTA1NzE4NDIwNSwtMjMwNzkzNDE3XX0=
 -->
