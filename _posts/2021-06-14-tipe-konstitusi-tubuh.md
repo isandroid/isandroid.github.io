@@ -171,7 +171,7 @@ Penggolongan manusia berdasarkan konstitusi tubuh:
     
 3.  [Calcarea Carbonica](https://docs.google.com/document/d/1WEtjTJhiBtsKs5dGRW4_jMs-c8dMjTzX12CiXTCF7Uw/edit?usp=sharing)
     
-4.  Graphite
+4.  [Graphite](https://docs.google.com/document/d/1BC_53-Z7e-sF97xWIdAvITxzjrDm5iGIxV3lTjfbXEI/edit?usp=sharing)
     
 5.  Ignatia Amara
     
@@ -195,8 +195,8 @@ Penggolongan manusia berdasarkan konstitusi tubuh:
 
 15. Lachesis
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTA1NDU0MDAzLC0xMzczODkxNDk2LC0yNj
-g0OTgwMzMsLTk1NDYxNTEzNCwtNDMwMTkxOTI4LC0xNzgwODI4
-NzMzLDg2Mzg2OTM0NywxOTk2MDQzNDQ5LC0xMjIxMjkwOTYzLC
-0xODQ2Mjg3NDAzLDE4MzU0Nzc0MzMsMTMyODU4MTY3XX0=
+eyJoaXN0b3J5IjpbLTc2Mjk2ODEzMywtMTM3Mzg5MTQ5NiwtMj
+Y4NDk4MDMzLC05NTQ2MTUxMzQsLTQzMDE5MTkyOCwtMTc4MDgy
+ODczMyw4NjM4NjkzNDcsMTk5NjA0MzQ0OSwtMTIyMTI5MDk2My
+wtMTg0NjI4NzQwMywxODM1NDc3NDMzLDEzMjg1ODE2N119
 -->
