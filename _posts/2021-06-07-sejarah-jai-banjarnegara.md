@@ -10,8 +10,7 @@ published: true
 
 ## {{ page.title }}
 
-Jemaat Ahmadiyah pertama kali diperkenalkan di Kabupaten Banjarnegara sekira tahun 1952, oleh Ahmad Rusydi alias Basroil [[^bungarampai_h146]] 
-
+Jemaat Ahmadiyah pertama kali diperkenalkan di Kabupaten Banjarnegara sekira tahun 1952, oleh Ahmad Rusydi alias Basroil [[^bungarampai_h146]].
 
 [^bungarampai_h146]: Munawar Ahmad, dkk., **_Bunga Rampai Sejarah Ahmadiyah Indonesia (1925-200)_**, (Bogor: Jemaat Ahmadiyah Indonesia, 2000), cet. ke-1, h. 146
 
@@ -48,31 +47,39 @@ dari Jemaat Bawang-Krucil. Jemaat Ahmadiyah dahulu berpusat di Krucil. Ajaran Je
 
 [Ahmad Rusydi](/2021/06/07/profil-ahmad-rusydi.html) pulang dari luar negeri sekira tahun 1960-an. Sudah banyak orang Islam ketika itu. Kebanyakan mereka belum mengenal tentang Ahmadiyah. Beliau pulang dan memperkenalkan tentang kedatangan Imam Mahdi kepada warga masyarakat Krucil. Awalnya beliau tidak diterima masyarakat. Setelah berlalunya waktu, setelah beliau banyak menyampaikan ceramah dan lain-lain, akhirnya beliau diterima masyarakat. Selanjutnya Banyak dari antara mereka yang tertarik dengan ajaran yang disajikan melalui Jemaat Ahmadiyah. Setelah itu terjadi baiat massal (menerima Jemaat Ahmadiyah) yang dilaksanakan beberapa tahap. Salah satunya dilakukan di tahun 1963 [[^wawancara_mln_nurhadi_20210525]].
 
-Salah satu dari sekian banyak yang baiat masuk ke dalam Jemaat Ahmadiyah diantaranya adalah:
+Awwalin yang baiat masuk ke dalam Jemaat Ahmadiyah di Masjid An-Nur, Krucil diantaranya adalah:
 
-- pak Ahmad Siroj
+- Ahmad Dahlan
 
-- pak Harjono
+- Hadi Wardoyo
 
-- pak Daryali [[^wawancara_mln_nurhadi_20210525]]
+- Ahmad Harjono
 
-- pak Ahmad Muhsin
+- Sukarjo bin Dasrip
 
-- pak Sukarjo
+- Sudirjo
+
+Selanjutnya beberapa kali terjadi baiat susulan. Mereka yang baiat setelahnya antara lain,
+
+- Ahmad Siroj
+
+- Harjono
+
+- Daryali [[^wawancara_mln_nurhadi_20210525]]
+
+- Ahmad Muhsin
 
 - [bapak Suripto](/2021/05/25/dzikir-khoir-muhammad-suripto-hadi-siswoyo.html) yang ketika itu beliau berumur sekira 21-an tahun. [[^wawancara_mln_nurhadi_20210525]]
 
-- bapak Sudirjo
+- Dul Hofur
 
-- bapak Dul Hofur
+- Basinto Nasir Ahmad
 
-- bapak Basinto Nasir Ahmad
-
-- bapak Suhedi
+- Suhedi
 
 [^wawancara_mln_nurhadi_20210525]: Wawancara dengan Mln. Nurhadi tanggal 25 Mei 2021 di rumah Mubalig di Bawang-Krucil.
 
-Seleksi alam mulai berjalan. Beberapa orang ada yang tidak sependapat dengan organisasi Jemaat Ahmadiyah, mereka mulai mundur dari masjid An-Nur. Awalnya di masjid masjid-An-Nur banyak yang Jumatan (dari desa-desa sekitar) karena ketika itu masjid itu masih sangat sedikit. Ketika itu yang menjadi ulama adalah Haji Ali. 
+Seleksi alam mulai berjalan. Beberapa orang ada yang tidak sependapat dengan organisasi Jemaat Ahmadiyah, mereka mulai mundur dari masjid An-Nur. Awalnya di masjid masjid-An-Nur banyak yang Jumatan (dari desa-desa sekitar) karena ketika itu masjid itu masih sangat sedikit. Ketika itu yang menjadi ulama adalah Haji Ali.
 
 Setelah itu [bapak Suripto](/2021/05/25/dzikir-khoir-muhammad-suripto-hadi-siswoyo.html) (putra pak Daryali) pindah ke Desa Limbangan dan mendirikan Jemaat di sana. 
 
@@ -86,13 +93,15 @@ Setelah mempunyai Jamaah yang cukup banyak, maka didirikanlah cabang Jemaat loka
 
 ### Pejabat Ketua Jemaat
 
-- Dahlan
+- Ahmad Dahlan
 
 - Sukarjo
 
 - Edi Sujarwo (dua periode 1975-an) [[^edi_sujarwo_20210607]]
 
-- Mukhlisin
+- Sukarjo ???
+
+- Mukhlisin (empat periode)
 
 - Saridal
 
@@ -112,7 +121,7 @@ Setelah mempunyai Jamaah yang cukup banyak, maka didirikanlah cabang Jemaat loka
 
 Dengan keadaan alam seperti itu, memang sudah sewajarnya mayoritas penduduk sekitar berprofesi menjadi petani. Mereka mengurus sawah dan kebun. Ada pula yang berternak ikan dan lain-lain.-->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDM5NDk1MjQsMTEwOTcwNzc2NSwtMT
+eyJoaXN0b3J5IjpbLTIxMjcxNjk0MjMsMTEwOTcwNzc2NSwtMT
 k4MDM1MjgyNywxNjAwMjI2OCwxMTQ5MDM0NTQ1LDE0NTAwNDA1
 OTldfQ==
 -->
