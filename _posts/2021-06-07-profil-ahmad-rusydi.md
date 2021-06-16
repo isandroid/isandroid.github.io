@@ -33,9 +33,9 @@ Beliau lahir di Dusun Krucil, Desa Winong, Kec. Bawang, Kab. Banjarnegara pada t
 
 Beliau adalah seorang pejuang kemerdekaan RI tahun 1930-1940-an. Beliau selalu dikejar-kejar (penjajah) Belanda sehingga beliau hijrah hingga ke luar negeri. Beliau menimba ilmu ke luar negeri (Qadian). Lalu pulang di tahun 1940-an ke Indonesia. Beliau menjadi salah satu pengurus Besar Jemaat Ahmadiyah Indonesia [^edi_sujarwo_20210607]. 
 
-H. Ali adalah seorang tokoh masyarakat serta pengajar agama Islam yang cukup disegani. Beliau sangat memperhatikan pendidikan anak-anaknya. Demikian pula dengan tuan Ahmad Rusydi, beliau dapat mengenyam pendidikan yang cukup tinggi pada masa itu. Beliau sekolah sampai HIK atau setingkat SMU pada masa sekarang. Ketika beranjak dewasa, beliau mulai aktif ikut serta dalam perang kemerdekaan, karena masa itu penjajah masih bercokol di negeri ini. Beliau berperan sebagai agen rahasia, yang bertugas mengawasi gerak langkah musuh. Dengan tugas beliau sebagai agen rahasia, menyebabkan beliau selalu dikejar-kejar tentara musuh. Untuk menghindari pengejaran, beliau selalu berpindah-pindah tempat, bahkan bersembunyi sampai ke daerah Tangerang dan Jakarta. Untuk keamanan, beliau menyamar dengan cara mengganti nama, di daerah ini beliau lebih dikenal dengan nama Sanusi.[^3]
+H. Ali adalah seorang tokoh masyarakat serta pengajar agama Islam yang cukup disegani. Beliau sangat memperhatikan pendidikan putra-putrinya. Salah satu buktinya adalah Ahmad Rusydi, beliau dapat mengenyam pendidikan yang cukup tinggi pada masa itu. Pendidikan yang beliau capat adalah sampai ke tingkat HIK atau setingkat SMU pada masa sekarang. Ketika beranjak dewasa, beliau mulai aktif ikut serta dalam perang kemerdekaan, karena masa itu penjajah masih bercokol di negeri ini. Beliau berperan sebagai agen rahasia, yang bertugas mengawasi gerak langkah musuh. Dengan tugas beliau sebagai agen rahasia, menyebabkan beliau selalu dikejar-kejar tentara musuh. Untuk menghindari pengejaran, beliau selalu berpindah-pindah tempat, bahkan bersembunyi sampai ke daerah Tangerang dan Jakarta. Untuk keamanan, beliau menyamar dengan cara mengganti nama, di daerah ini beliau lebih dikenal dengan nama Sanusi.[^3]
 
 ### Catatan Kaki
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyOTM0MDEwLC0yMzA3OTM0MTddfQ==
+eyJoaXN0b3J5IjpbLTE0MzE4MTMwNjYsLTIzMDc5MzQxN119
 -->
