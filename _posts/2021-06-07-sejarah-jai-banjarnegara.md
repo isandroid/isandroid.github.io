@@ -46,7 +46,13 @@ Selanjutnya beberapa kali terjadi baiat susulan. Mereka yang baiat setelahnya an
 
 - dan lain-lain.
 
+Seleksi alam mulai berjalan. Beberapa orang ada yang tidak sependapat dengan Jemaat Ahmadiyah, mereka mulai mundur dari Jamaah masjid An-Nur. Awalnya di masjid masjid-An-Nur banyak yang Jumatan (dari desa-desa sekitar) karena ketika itu masjid itu masih sangat sedikit. Ketika itu yang menjadi ulama adalah Haji Ali.
 
+Setelah itu [bapak Suripto](/2021/05/25/dzikir-khoir-muhammad-suripto-hadi-siswoyo.html) (putra pak Daryali) pindah ke Desa Limbangan dan mendirikan Jemaat di sana. 
+
+Kemudian ada bapak Pono Edi Sunargo (baiat) dan mengembangkan Jemaat di Banjarnegara.
+
+Beberapa diantara anggota Jemaat Bawang ada yang transmigrasi ke Papua dan mendirikan Jemaat di sana.
 
 ### Lokasi Perkembangan Awal
 
@@ -124,7 +130,7 @@ Setelah mempunyai Jamaah yang cukup banyak, maka didirikanlah cabang Jemaat loka
 
 Dengan keadaan alam seperti itu, memang sudah sewajarnya mayoritas penduduk sekitar berprofesi menjadi petani. Mereka mengurus sawah dan kebun. Ada pula yang berternak ikan dan lain-lain.-->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjUxNzQ1OTYyLC0yMTI3MTY5NDIzLDExMD
-k3MDc3NjUsLTE5ODAzNTI4MjcsMTYwMDIyNjgsMTE0OTAzNDU0
-NSwxNDUwMDQwNTk5XX0=
+eyJoaXN0b3J5IjpbMTYwMzE3NTUyNCwtMjEyNzE2OTQyMywxMT
+A5NzA3NzY1LC0xOTgwMzUyODI3LDE2MDAyMjY4LDExNDkwMzQ1
+NDUsMTQ1MDA0MDU5OV19
 -->
