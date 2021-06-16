@@ -129,6 +129,9 @@ Penggolongan manusia berdasarkan konstitusi tubuh:
 
 15. [Lachesis](/2021/06/14/lachesis.html)
 
+{% endcomment %}
+
+{% comment %}
 
 1.  Argentum Nitrate
     
@@ -159,9 +162,41 @@ Penggolongan manusia berdasarkan konstitusi tubuh:
 14. Sulphur
 
 15. Lachesis
+
+{% endcomment %}
+
+1.  [Argentum Nitrate](https://docs.google.com/document/d/1TiAJsOhFe2ZgbocKWoK_iMuzoVnX2KnpP7G5qj5ei3I/edit?usp=sharing)
+    
+2.  Arsenicum Album
+    
+3.  Calcarea Carbonica
+    
+4.  Graphite
+    
+5.  Ignatia Amara
+    
+6.  Lycopodium
+    
+7.  Mercurius Solubilis
+    
+8.  Natrum Muriaticum
+
+9.  Phosphorus
+    
+10. Pulsatilla
+    
+11. Sepia Officinalis
+
+12. Silicea Terra
+
+13. Nux Vomica
+
+14. Sulphur
+
+15. Lachesis
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMDg0OTgyNTQsLTk1NDYxNTEzNCwtND
-MwMTkxOTI4LC0xNzgwODI4NzMzLDg2Mzg2OTM0NywxOTk2MDQz
-NDQ5LC0xMjIxMjkwOTYzLC0xODQ2Mjg3NDAzLDE4MzU0Nzc0Mz
-MsMTMyODU4MTY3XX0=
+eyJoaXN0b3J5IjpbLTI2ODQ5ODAzMywtOTU0NjE1MTM0LC00Mz
+AxOTE5MjgsLTE3ODA4Mjg3MzMsODYzODY5MzQ3LDE5OTYwNDM0
+NDksLTEyMjEyOTA5NjMsLTE4NDYyODc0MDMsMTgzNTQ3NzQzMy
+wxMzI4NTgxNjddfQ==
 -->
