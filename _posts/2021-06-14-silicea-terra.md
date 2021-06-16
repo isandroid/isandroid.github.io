@@ -3,7 +3,7 @@ title: Silicea Terra (Silicea)
 layout: post
 tags: homeopathy
 description: penjelasan konstitusi silicea terra  atau disebut silicea
-published: false
+published: true
 ---
 
 ## {{ page.title }}
@@ -176,5 +176,6 @@ published: false
     
 -   Sangat tidak menyukai susu dan tidak toleran terhadap susu.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4NzY2MDg1LDI2NzI0NDM2Ml19
+eyJoaXN0b3J5IjpbMTI2MDY4NzMwLDE3ODc2NjA4NSwyNjcyND
+QzNjJdfQ==
 -->
