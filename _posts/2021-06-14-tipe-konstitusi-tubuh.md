@@ -187,7 +187,7 @@ Penggolongan manusia berdasarkan konstitusi tubuh:
     
 11. [Pulsatilla](https://docs.google.com/document/d/1WIcYEHTOQptF3Z7LFx7-XWQsyqUq4t5kp_AqBCEegmg/edit?usp=sharing)
     
-12. Sepia Officinalis
+12. [Sepia Officinalis](https://docs.google.com/document/d/1eIVVX8Ym0uJYcu7fvV5BwvMp1fRSU51X5BULDjktnxA/edit?usp=sharing)
 
 13. Silicea Terra
 
@@ -195,9 +195,8 @@ Penggolongan manusia berdasarkan konstitusi tubuh:
 
 15. Lachesis
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDA5MDQ4NDcsLTEzNzM4OTE0OTYsLT
-I2ODQ5ODAzMywtOTU0NjE1MTM0LC00MzAxOTE5MjgsLTE3ODA4
-Mjg3MzMsODYzODY5MzQ3LDE5OTYwNDM0NDksLTEyMjEyOTA5Nj
-MsLTE4NDYyODc0MDMsMTgzNTQ3NzQzMywxMzI4NTgxNjddfQ==
-
+eyJoaXN0b3J5IjpbLTc1ODkzMDkxNywtMTM3Mzg5MTQ5NiwtMj
+Y4NDk4MDMzLC05NTQ2MTUxMzQsLTQzMDE5MTkyOCwtMTc4MDgy
+ODczMyw4NjM4NjkzNDcsMTk5NjA0MzQ0OSwtMTIyMTI5MDk2My
+wtMTg0NjI4NzQwMywxODM1NDc3NDMzLDEzMjg1ODE2N119
 -->
