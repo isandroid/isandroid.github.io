@@ -12,7 +12,20 @@ published: true
 
 Jemaat Ahmadiyah pertama kali diperkenalkan di Kabupaten Banjarnegara sekira tahun 1952, oleh [Ahmad Rusydi](/2021/06/07/profil-ahmad-rusydi.html) alias [Basroil](/2021/06/07/profil-ahmad-rusydi.html) [[^bungarampai_h146]] [[^edi_sujarwo_20210607]] di Krucil, Desa Winong, Bawang, Banjarnegara. 
 
-[Ahmad Rusydi](/2021/06/07/profil-ahmad-rusydi.html) pulang dari luar negeri sekira tahun 1960-an. Sudah banyak orang Islam ketika itu. Kebanyakan mereka belum mengenal tentang Ahmadiyah. Beliau pulang dan memperkenalkan tentang kedatangan Imam Mahdi kepada warga masyarakat Krucil. Awalnya beliau tidak diterima masyarakat. Setelah berlalunya waktu, setelah beliau banyak menyampaikan ceramah dan lain-lain, akhirnya beliau diterima masyarakat. Selanjutnya Banyak dari antara mereka yang tertarik dengan ajaran yang disajikan melalui Jemaat Ahmadiyah. Setelah itu terjadi baiat massal (menerima Jemaat Ahmadiyah) yang dilaksanakan beberapa tahap. Salah satunya dilakukan di tahun 1963 [[^wawancara_mln_nurhadi_20210525]].
+[Ahmad Rusydi](/2021/06/07/profil-ahmad-rusydi.html) pulang dari luar negeri sekira tahun 1960-an. Sudah banyak orang Islam ketika itu. Kebanyakan mereka belum mengenal tentang Ahmadiyah. Beliau pulang (dari Qadian) dan memperkenalkan tentang kedatangan Imam Mahdi kepada warga masyarakat Krucil. Awalnya beliau tidak diterima masyarakat. Setelah berlalunya waktu dan setelah beliau banyak menyampaikan ceramah dan lain-lain, akhirnya beliau diterima masyarakat. Selanjutnya Banyak dari antara mereka yang tertarik dengan ajaran yang disajikan melalui Jemaat Ahmadiyah. Setelah itu terjadi baiat massal (menerima Jemaat Ahmadiyah) yang dilaksanakan beberapa tahap. Salah satunya dilakukan di tahun 1963 [[^wawancara_mln_nurhadi_20210525]].
+
+Lima orang awwalin yang baiat masuk ke dalam Jemaat Ahmadiyah di Masjid An-Nur, Krucil diantaranya adalah:
+
+- Ahmad Dahlan
+
+- Hadi Wardoyo
+
+- Ahmad Harjono
+
+- Sukarjo bin Dasrip
+
+- Sudirjo 
+
 
 
 ### Lokasi Perkembangan Awal
@@ -40,18 +53,6 @@ Dalam beberapa waktu Jemaat Ahmadiyah Banjarnegara yang bertempat di Kp. Krucil 
 
 ### Pengenalan Jemaat Ahmadiyah
 
-
-Awwalin yang baiat masuk ke dalam Jemaat Ahmadiyah di Masjid An-Nur, Krucil diantaranya adalah:
-
-- Ahmad Dahlan
-
-- Hadi Wardoyo
-
-- Ahmad Harjono
-
-- Sukarjo bin Dasrip
-
-- Sudirjo
 
 Selanjutnya beberapa kali terjadi baiat susulan. Mereka yang baiat setelahnya antara lain,
 
@@ -121,7 +122,7 @@ Setelah mempunyai Jamaah yang cukup banyak, maka didirikanlah cabang Jemaat loka
 
 Dengan keadaan alam seperti itu, memang sudah sewajarnya mayoritas penduduk sekitar berprofesi menjadi petani. Mereka mengurus sawah dan kebun. Ada pula yang berternak ikan dan lain-lain.-->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxNTQzMTQzNCwtMjEyNzE2OTQyMywxMT
-A5NzA3NzY1LC0xOTgwMzUyODI3LDE2MDAyMjY4LDExNDkwMzQ1
-NDUsMTQ1MDA0MDU5OV19
+eyJoaXN0b3J5IjpbNTc2NTI3Nzc2LC0yMTI3MTY5NDIzLDExMD
+k3MDc3NjUsLTE5ODAzNTI4MjcsMTYwMDIyNjgsMTE0OTAzNDU0
+NSwxNDUwMDQwNTk5XX0=
 -->
