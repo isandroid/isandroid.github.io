@@ -3,7 +3,7 @@ title: Graphites
 layout: post
 tags: homeopathy
 description: penjelasan konstitusi graphites atau graph
-published: true
+published: false
 ---
 
 ## {{ page.title }}
@@ -120,6 +120,6 @@ published: true
     
 -   Bagian badan sebelah kiri.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzY5ODA2MzA0LC0xNDY3NjUxNjMxLDc2OT
-gwNjMwNCwxMTExNzI2OTIwXX0=
+eyJoaXN0b3J5IjpbLTE0Njc2NTE2MzEsNzY5ODA2MzA0LC0xND
+Y3NjUxNjMxLDExMTE3MjY5MjBdfQ==
 -->
