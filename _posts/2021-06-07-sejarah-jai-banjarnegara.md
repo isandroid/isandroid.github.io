@@ -24,7 +24,7 @@ Lima orang awwalin yang baiat masuk ke dalam Jemaat Ahmadiyah di Masjid An-Nur, 
 
 - Sukarjo bin Dasrip
 
-- Sudirjo 
+- Sudirjo [[^wawancara_mukhlisin_20210616]]
 
 
 
@@ -104,11 +104,13 @@ Setelah mempunyai Jamaah yang cukup banyak, maka didirikanlah cabang Jemaat loka
 
 [^bungarampai_h146]: Munawar Ahmad, dkk., **_Bunga Rampai Sejarah Ahmadiyah Indonesia (1925-200)_**, (Bogor: Jemaat Ahmadiyah Indonesia, 2000), cet. ke-1, h. 146
 
-[^edi_sujarwo_20210607]: Wawancara dengan bapak Edi Sujarwo via Whatsapp Call tanggal 07-Jun-2021.
+[^edi_sujarwo_20210607]: Wawancara Isa Mujahid Islam dengan bapak Edi Sujarwo via Whatsapp Call tanggal 07-Jun-2021.
 
-[^wawancara_muhammad_sodik_20200324]: Wawancara dengan Kepala Urusan Pemerintahan Desa Winong, Muhammad Sodik, 24 Maret 2020 pukul 08.50 WIB
+[^wawancara_muhammad_sodik_20200324]: Wawancara Isa Mujahid Islam dengan Kepala Urusan Pemerintahan Desa Winong, Muhammad Sodik, 24 Maret 2020 pukul 08.50 WIB
 
-[^wawancara_mln_nurhadi_20210525]: Wawancara dengan Mln. Nurhadi tanggal 25 Mei 2021 di rumah Mubalig di Bawang-Krucil.
+[^wawancara_mln_nurhadi_20210525]: Wawancara Isa Mujahid Islam dengan Mln. Nurhadi tanggal 25 Mei 2021 di rumah Mubalig di Bawang-Krucil.
+
+
 
 <!-- Berdasarkan bentuk tata alam dan penyebaran geografis, Banjarnegara dibagi menjadi tiga zona, yaitu: 
 
@@ -122,7 +124,7 @@ Setelah mempunyai Jamaah yang cukup banyak, maka didirikanlah cabang Jemaat loka
 
 Dengan keadaan alam seperti itu, memang sudah sewajarnya mayoritas penduduk sekitar berprofesi menjadi petani. Mereka mengurus sawah dan kebun. Ada pula yang berternak ikan dan lain-lain.-->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTc2NTI3Nzc2LC0yMTI3MTY5NDIzLDExMD
-k3MDc3NjUsLTE5ODAzNTI4MjcsMTYwMDIyNjgsMTE0OTAzNDU0
-NSwxNDUwMDQwNTk5XX0=
+eyJoaXN0b3J5IjpbLTExNzk2OTE3NjIsLTIxMjcxNjk0MjMsMT
+EwOTcwNzc2NSwtMTk4MDM1MjgyNywxNjAwMjI2OCwxMTQ5MDM0
+NTQ1LDE0NTAwNDA1OTldfQ==
 -->
