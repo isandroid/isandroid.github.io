@@ -183,22 +183,21 @@ Penggolongan manusia berdasarkan konstitusi tubuh:
 
 9.  [Nux Vomica](https://docs.google.com/document/d/1waV0bYwcpdPmPLiZtEIUE7N3QQ8Ntiq7m2v4yFE77fI/edit?usp=sharing)
  
-11. [Phosphorus](https://docs.google.com/document/d/1Y3F3NTSpo4d9n1fVfsDnlnsTqgvjjiAPg07NpEcpUTw/edit?usp=sharing)
+10. [Phosphorus](https://docs.google.com/document/d/1Y3F3NTSpo4d9n1fVfsDnlnsTqgvjjiAPg07NpEcpUTw/edit?usp=sharing)
     
-12. Pulsatilla
+11. [Pulsatilla](https://docs.google.com/document/d/1WIcYEHTOQptF3Z7LFx7-XWQsyqUq4t5kp_AqBCEegmg/edit?usp=sharing)
     
-13. Sepia Officinalis
+12. Sepia Officinalis
 
-14. Silicea Terra
+13. Silicea Terra
 
-15. 
+14. Sulphur
 
-16. Sulphur
-
-17. Lachesis
+15. Lachesis
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjI2MDcxMzUzLC0xMzczODkxNDk2LC0yNj
-g0OTgwMzMsLTk1NDYxNTEzNCwtNDMwMTkxOTI4LC0xNzgwODI4
-NzMzLDg2Mzg2OTM0NywxOTk2MDQzNDQ5LC0xMjIxMjkwOTYzLC
-0xODQ2Mjg3NDAzLDE4MzU0Nzc0MzMsMTMyODU4MTY3XX0=
+eyJoaXN0b3J5IjpbLTE5MDA5MDQ4NDcsLTEzNzM4OTE0OTYsLT
+I2ODQ5ODAzMywtOTU0NjE1MTM0LC00MzAxOTE5MjgsLTE3ODA4
+Mjg3MzMsODYzODY5MzQ3LDE5OTYwNDM0NDksLTEyMjEyOTA5Nj
+MsLTE4NDYyODc0MDMsMTgzNTQ3NzQzMywxMzI4NTgxNjddfQ==
+
 -->
