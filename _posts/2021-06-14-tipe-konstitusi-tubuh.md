@@ -165,6 +165,8 @@ Penggolongan manusia berdasarkan konstitusi tubuh:
 
 {% endcomment %}
 
+(Info: Dokumen di bawah ini diproteksi. Hanya yang diberi akses yang bisa membaca artikel di bawah ini)
+
 1.  [Argentum Nitrate](https://docs.google.com/document/d/1TiAJsOhFe2ZgbocKWoK_iMuzoVnX2KnpP7G5qj5ei3I/edit?usp=sharing)
     
 2.  [Arsenicum Album](https://docs.google.com/document/d/1tUMTea3WekdAUWOfUUHIfAHY3YkLC6jh9ONbzBLopYY/edit?usp=sharing)
@@ -195,9 +197,9 @@ Penggolongan manusia berdasarkan konstitusi tubuh:
 
 15. [Sulphur](https://docs.google.com/document/d/1580A0LxbLhaQPr_zYNpcW7fNQuzlHwTwtehK1kPHdSQ/edit?usp=sharing)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4ODgwMTI4LC02NjYwNzUwMDQsLTEzNz
-M4OTE0OTYsLTI2ODQ5ODAzMywtOTU0NjE1MTM0LC00MzAxOTE5
-MjgsLTE3ODA4Mjg3MzMsODYzODY5MzQ3LDE5OTYwNDM0NDksLT
-EyMjEyOTA5NjMsLTE4NDYyODc0MDMsMTgzNTQ3NzQzMywxMzI4
-NTgxNjddfQ==
+eyJoaXN0b3J5IjpbNTYyMTQwNTA4LDE5ODg4MDEyOCwtNjY2MD
+c1MDA0LC0xMzczODkxNDk2LC0yNjg0OTgwMzMsLTk1NDYxNTEz
+NCwtNDMwMTkxOTI4LC0xNzgwODI4NzMzLDg2Mzg2OTM0NywxOT
+k2MDQzNDQ5LC0xMjIxMjkwOTYzLC0xODQ2Mjg3NDAzLDE4MzU0
+Nzc0MzMsMTMyODU4MTY3XX0=
 -->
