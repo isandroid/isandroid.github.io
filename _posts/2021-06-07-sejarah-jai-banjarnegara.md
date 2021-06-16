@@ -12,9 +12,12 @@ published: true
 
 Jemaat Ahmadiyah pertama kali diperkenalkan di Kabupaten Banjarnegara sekira tahun 1952, oleh [Ahmad Rusydi](/2021/06/07/profil-ahmad-rusydi.html) alias [Basroil](/2021/06/07/profil-ahmad-rusydi.html) [[^bungarampai_h146]] [[^edi_sujarwo_20210607]] di Krucil, Desa Winong, Bawang, Banjarnegara. 
 
+[Ahmad Rusydi](/2021/06/07/profil-ahmad-rusydi.html) pulang dari luar negeri sekira tahun 1960-an. Sudah banyak orang Islam ketika itu. Kebanyakan mereka belum mengenal tentang Ahmadiyah. Beliau pulang dan memperkenalkan tentang kedatangan Imam Mahdi kepada warga masyarakat Krucil. Awalnya beliau tidak diterima masyarakat. Setelah berlalunya waktu, setelah beliau banyak menyampaikan ceramah dan lain-lain, akhirnya beliau diterima masyarakat. Selanjutnya Banyak dari antara mereka yang tertarik dengan ajaran yang disajikan melalui Jemaat Ahmadiyah. Setelah itu terjadi baiat massal (menerima Jemaat Ahmadiyah) yang dilaksanakan beberapa tahap. Salah satunya dilakukan di tahun 1963 [[^wawancara_mln_nurhadi_20210525]].
+
+
 ### Lokasi Perkembangan Awal
 
-Jemaat Ahmadiyah di Banjarnegara pertama kali muncul di Krucil, Desa Winong. Dan pertama kaliJemaat Ahmadiyah dahulu berpusat di Krucil
+Jemaat Ahmadiyah di Banjarnegara pertama kali muncul di Krucil, Desa Winong. Dan pertama kali, Jemaat Ahmadiyah Banjarnegara dahulu berpusat di Krucil [[^edi_sujarwo_20210607]]. 
 
 Di desa ini terdapat lima kampung atau dukuh, yaitu: 
 
@@ -37,7 +40,6 @@ Dalam beberapa waktu Jemaat Ahmadiyah Banjarnegara yang bertempat di Kp. Krucil 
 
 ### Pengenalan Jemaat Ahmadiyah
 
-[Ahmad Rusydi](/2021/06/07/profil-ahmad-rusydi.html) pulang dari luar negeri sekira tahun 1960-an. Sudah banyak orang Islam ketika itu. Kebanyakan mereka belum mengenal tentang Ahmadiyah. Beliau pulang dan memperkenalkan tentang kedatangan Imam Mahdi kepada warga masyarakat Krucil. Awalnya beliau tidak diterima masyarakat. Setelah berlalunya waktu, setelah beliau banyak menyampaikan ceramah dan lain-lain, akhirnya beliau diterima masyarakat. Selanjutnya Banyak dari antara mereka yang tertarik dengan ajaran yang disajikan melalui Jemaat Ahmadiyah. Setelah itu terjadi baiat massal (menerima Jemaat Ahmadiyah) yang dilaksanakan beberapa tahap. Salah satunya dilakukan di tahun 1963 [[^wawancara_mln_nurhadi_20210525]].
 
 Awwalin yang baiat masuk ke dalam Jemaat Ahmadiyah di Masjid An-Nur, Krucil diantaranya adalah:
 
@@ -68,8 +70,6 @@ Selanjutnya beberapa kali terjadi baiat susulan. Mereka yang baiat setelahnya an
 - Basinto Nasir Ahmad
 
 - Suhedi
-
-[^wawancara_mln_nurhadi_20210525]: Wawancara dengan Mln. Nurhadi tanggal 25 Mei 2021 di rumah Mubalig di Bawang-Krucil.
 
 Seleksi alam mulai berjalan. Beberapa orang ada yang tidak sependapat dengan organisasi Jemaat Ahmadiyah, mereka mulai mundur dari masjid An-Nur. Awalnya di masjid masjid-An-Nur banyak yang Jumatan (dari desa-desa sekitar) karena ketika itu masjid itu masih sangat sedikit. Ketika itu yang menjadi ulama adalah Haji Ali.
 
@@ -107,7 +107,7 @@ Setelah mempunyai Jamaah yang cukup banyak, maka didirikanlah cabang Jemaat loka
 
 [^wawancara_muhammad_sodik_20200324]: Wawancara dengan Kepala Urusan Pemerintahan Desa Winong, Muhammad Sodik, 24 Maret 2020 pukul 08.50 WIB
 
-
+[^wawancara_mln_nurhadi_20210525]: Wawancara dengan Mln. Nurhadi tanggal 25 Mei 2021 di rumah Mubalig di Bawang-Krucil.
 
 <!-- Berdasarkan bentuk tata alam dan penyebaran geografis, Banjarnegara dibagi menjadi tiga zona, yaitu: 
 
@@ -121,7 +121,7 @@ Setelah mempunyai Jamaah yang cukup banyak, maka didirikanlah cabang Jemaat loka
 
 Dengan keadaan alam seperti itu, memang sudah sewajarnya mayoritas penduduk sekitar berprofesi menjadi petani. Mereka mengurus sawah dan kebun. Ada pula yang berternak ikan dan lain-lain.-->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0Mzg4NjkxNywtMjEyNzE2OTQyMywxMT
+eyJoaXN0b3J5IjpbMTIxNTQzMTQzNCwtMjEyNzE2OTQyMywxMT
 A5NzA3NzY1LC0xOTgwMzUyODI3LDE2MDAyMjY4LDExNDkwMzQ1
 NDUsMTQ1MDA0MDU5OV19
 -->
