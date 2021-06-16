@@ -10,7 +10,8 @@ published: true
 
 ## {{ page.title }}
 
-Jemaat Ahmadiyah pertama kali diperkenalkan di Kabupaten Banjarnegara sekira tahun 1952, oleh Ahmad Rusydi alias Basroil [[^bungarampai_h146]] Beliau lahir di Krucil, Banjarnegara pada tahun 1910, anak H. Ali dan merupakan putra kelima dari tiga belas bersaudara. Berikut kedua belas saudara beliau mulai dari yang paling tua hingga yang termuda, yaitu H. Basrowi, H.M. Tahrir, Ny. Sa’dullah, Ny. Sadollah, Ny. Murtafiah, Ny. Salkiyah, Ny. Marinah, Bp. Ahmad Dahlan, Bp. Khotim, Ny. Siti Khasanah, Ny. Siti Masitah dan Ny. Supiyah.[^2]
+Jemaat Ahmadiyah pertama kali diperkenalkan di Kabupaten Banjarnegara sekira tahun 1952, oleh Ahmad Rusydi alias Basroil [[^bungarampai_h146]] 
+
 
 [^bungarampai_h146]: Munawar Ahmad, dkk., **_Bunga Rampai Sejarah Ahmadiyah Indonesia (1925-200)_**, (Bogor: Jemaat Ahmadiyah Indonesia, 2000), cet. ke-1, h. 146
 
@@ -111,7 +112,7 @@ Setelah mempunyai Jamaah yang cukup banyak, maka didirikanlah cabang Jemaat loka
 
 Dengan keadaan alam seperti itu, memang sudah sewajarnya mayoritas penduduk sekitar berprofesi menjadi petani. Mereka mengurus sawah dan kebun. Ada pula yang berternak ikan dan lain-lain.-->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyMzUwNjAzMSwxMTA5NzA3NzY1LC0xOT
-gwMzUyODI3LDE2MDAyMjY4LDExNDkwMzQ1NDUsMTQ1MDA0MDU5
-OV19
+eyJoaXN0b3J5IjpbLTE3MDM5NDk1MjQsMTEwOTcwNzc2NSwtMT
+k4MDM1MjgyNywxNjAwMjI2OCwxMTQ5MDM0NTQ1LDE0NTAwNDA1
+OTldfQ==
 -->
