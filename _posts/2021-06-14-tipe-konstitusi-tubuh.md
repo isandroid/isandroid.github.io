@@ -193,10 +193,11 @@ Penggolongan manusia berdasarkan konstitusi tubuh:
 
 14. [Sulphur](https://docs.google.com/document/d/1580A0LxbLhaQPr_zYNpcW7fNQuzlHwTwtehK1kPHdSQ/edit?usp=sharing)
 
-15. Lachesis
+15. [Lachesis](https://docs.google.com/document/d/1PRtgpnQn9caFtDw8hSXJJmN3XrgKy6FOJle1h5dQaA4/edit?usp=sharing)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2NjA3NTAwNCwtMTM3Mzg5MTQ5NiwtMj
-Y4NDk4MDMzLC05NTQ2MTUxMzQsLTQzMDE5MTkyOCwtMTc4MDgy
-ODczMyw4NjM4NjkzNDcsMTk5NjA0MzQ0OSwtMTIyMTI5MDk2My
-wtMTg0NjI4NzQwMywxODM1NDc3NDMzLDEzMjg1ODE2N119
+eyJoaXN0b3J5IjpbMTc5MDg0MzY2LC02NjYwNzUwMDQsLTEzNz
+M4OTE0OTYsLTI2ODQ5ODAzMywtOTU0NjE1MTM0LC00MzAxOTE5
+MjgsLTE3ODA4Mjg3MzMsODYzODY5MzQ3LDE5OTYwNDM0NDksLT
+EyMjEyOTA5NjMsLTE4NDYyODc0MDMsMTgzNTQ3NzQzMywxMzI4
+NTgxNjddfQ==
 -->
