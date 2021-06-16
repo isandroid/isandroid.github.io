@@ -198,7 +198,11 @@ Jumlah mubaligh pun terus ditambah untuk kantong-kantong mubaligh tersebut, Dan 
 
 Kegiatan tabligh terus dilakukan ke arah Desa Wonoroto dan daerah daerah lain di kabupaten Wonosobo.
 
-Satu video yang sempat direkam sekilas
+### Pesan Pribadi Bapak Suripto
+
+Satu video yang sempat direkam mengenai sekilas pesan-pesan beliau untuk para Ahmadi,
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cvXldoVxX9Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
 
 ### Kesan terhadap Pribadi Bapak Suripto
 
@@ -564,5 +568,5 @@ Mln. Ahmad Suparja Hidayat, mubda Jateng-2 menceritakan,
 
 ### Catatan Kaki
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5OTYxMTcxOF19
+eyJoaXN0b3J5IjpbLTEwODA4MjAwNDZdfQ==
 -->
