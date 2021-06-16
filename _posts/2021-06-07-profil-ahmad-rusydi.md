@@ -35,16 +35,18 @@ Sekilas cerita, H. Ali adalah seorang tokoh masyarakat serta pengajar agama Isla
 
 ### Pejuang Kemerdekaan RI
 
-Ketika beranjak dewasa, Ahmad Rusydi mulai aktif ikut serta dalam perang kemerdekaan karena masa itu penjajah masih bercokol di negeri ini. Beliau adalah seorang pejuang kemerdekaan RI tahun 1930-1940-an. Beliau berperan sebagai agen rahasia yang bertugas mengawasi gerak langkah musuh. Dengan tugas beliau sebagai agen rahasia, menyebabkan beliau selalu dikejar-kejar tentara musuh. Untuk menghindari pengejaran, beliau selalu berpindah-pindah tempat, bahkan bersembunyi sampai ke daerah Tangerang dan Jakarta [[^wawancara_muhjidin_20040118]]. 
+Ketika beranjak dewasa, Ahmad Rusydi mulai aktif ikut serta dalam perang kemerdekaan karena masa itu penjajah masih bercokol di negeri ini. Beliau adalah seorang pejuang kemerdekaan RI tahun 1930-1940-an [[^edi_sujarwo_20210607]]. Beliau berperan sebagai agen rahasia yang bertugas mengawasi gerak langkah musuh. Dengan tugas beliau sebagai agen rahasia, menyebabkan beliau selalu dikejar-kejar tentara musuh. Untuk menghindari pengejaran, beliau selalu berpindah-pindah tempat, bahkan bersembunyi sampai ke daerah Tangerang dan Jakarta [[^wawancara_muhjidin_20040118]]. 
 
-Untuk keamanan, beliau berkamuflase dengan cara bergganti-ganti nama. Di Jakarta beliau lebih dikenal dengan nama Sanusi [[^wawancara_muhjidin_20040118]] [[^edi_sujarwo_20210607]]
+Untuk keamanan tugas, beliau berkamuflase dengan cara bergganti-ganti nama. Di Jakarta beliau lebih dikenal dengan nama Sanusi [[^wawancara_muhjidin_20040118]] [[^edi_sujarwo_20210607]]
 
 ### Menimba Ilmu di Qadian
 
 Beliau selalu dikejar-kejar (penjajah) Belanda sehingga beliau hijrah hingga ke luar negeri. Beliau menimba ilmu ke luar negeri Qadian. Lalu pulang di tahun 1940-an ke Indonesia. Beliau menjadi salah satu pengurus Besar Jemaat Ahmadiyah Indonesia [[^edi_sujarwo_20210607]]. 
 
+Beliau datang di Qadian dengan tujuan utama menambah ilmu agama dan pengetahuan tentang ajaran Ahmadiyah. Untuk itu beliau masuk dan belajar di Jamiah Ahmadiyah Qadian. Beliau belajar di Jamiah Ahmadiyah selama lima tahun, yaitu sampai tahun 1942.[^4] Setelah 5 tahun belajar, beliau berniat kembali ke Indonesia. Tetapi niat tersebut tidak terlaksana, karena situasi keamanan di Indonesia belum kondusif dan beliau masih menjadi target pengejaran tentara penjajah. Akhirnya beliau memutuskan transit untuk sementara waktu di Australia. Disini beliau tinggal selama kurang lebih 3 tahun, sampai tahun 1945. Setelah proklamasi kemerdekaan dikumandangkan dan situasi keamanan di Indonesia lebih baik dari sebelumnya, beliau memutuskan untuk kembali ke Tanah Air.[^5]
+
 ### Catatan Kaki
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQ2MjQ0MDE1LC00NTE3Mjc0ODcsLTIzMD
-c5MzQxN119
+eyJoaXN0b3J5IjpbLTE1NjQ0OTMzNDksLTQ1MTcyNzQ4NywtMj
+MwNzkzNDE3XX0=
 -->
