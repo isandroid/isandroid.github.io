@@ -129,7 +129,6 @@ Penggolongan manusia berdasarkan konstitusi tubuh:
 
 15. [Lachesis](/2021/06/14/lachesis.html)
 
-{% endcomment %}
 
 1.  Argentum Nitrate
     
@@ -161,8 +160,8 @@ Penggolongan manusia berdasarkan konstitusi tubuh:
 
 15. Lachesis
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk1NDYxNTEzNCwtNDMwMTkxOTI4LC0xNz
-gwODI4NzMzLDg2Mzg2OTM0NywxOTk2MDQzNDQ5LC0xMjIxMjkw
-OTYzLC0xODQ2Mjg3NDAzLDE4MzU0Nzc0MzMsMTMyODU4MTY3XX
-0=
+eyJoaXN0b3J5IjpbLTIxMDg0OTgyNTQsLTk1NDYxNTEzNCwtND
+MwMTkxOTI4LC0xNzgwODI4NzMzLDg2Mzg2OTM0NywxOTk2MDQz
+NDQ5LC0xMjIxMjkwOTYzLC0xODQ2Mjg3NDAzLDE4MzU0Nzc0Mz
+MsMTMyODU4MTY3XX0=
 -->
