@@ -3,7 +3,7 @@ title: Argentum Nitrate
 layout: post
 tags: homeopathy
 description: penjelasan konstitusi argentum nitrate 
-published: true
+published: false
 ---
 
 ## {{ page.title }}
@@ -159,6 +159,6 @@ published: true
 	-   Waktu menstruasi
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwODUxMDA2NiwyMTA4NTEwMDY2LC05Nj
-EyMzY0NTEsLTEwMDQxNTM1NjksMjM1OTQzMDg5XX0=
+eyJoaXN0b3J5IjpbLTE5MzY3NTcxODcsMjEwODUxMDA2NiwtOT
+YxMjM2NDUxLC0xMDA0MTUzNTY5LDIzNTk0MzA4OV19
 -->
