@@ -33,16 +33,18 @@ Beliau lahir di Dusun Krucil, Desa Winong, Kec. Bawang, Kab. Banjarnegara pada t
 
 Sekilas cerita, H. Ali adalah seorang tokoh masyarakat serta pengajar agama Islam yang cukup disegani di Banjarnegara. Beliau sangat memperhatikan pendidikan putra-putrinya. Salah satu buktinya adalah Ahmad Rusydi, beliau dapat mengenyam pendidikan yang cukup tinggi pada masa itu yakni sampai ke tingkat HIK atau setingkat SMU di masa sekarang [[^wawancara_muhjidin_20040118]]. 
 
-Ketika beranjak dewasa, Ahmad Rusydi mulai aktif ikut serta dalam perang kemerdekaan, karena masa itu penjajah masih bercokol di negeri ini. Beliau berperan sebagai agen rahasia yang bertugas mengawasi gerak langkah musuh. Dengan tugas beliau sebagai agen rahasia, menyebabkan beliau selalu dikejar-kejar tentara musuh. Untuk menghindari pengejaran, beliau selalu berpindah-pindah tempat, bahkan bersembunyi sampai ke daerah Tangerang dan Jakarta [[^wawancara_muhjidin_20040118]]. 
+### Pejuang Kemerdekaan RI
+
+Ketika beranjak dewasa, Ahmad Rusydi mulai aktif ikut serta dalam perang kemerdekaan karena masa itu penjajah masih bercokol di negeri ini. Beliau adalah seorang pejuang kemerdekaan RI tahun 1930-1940-an. Beliau berperan sebagai agen rahasia yang bertugas mengawasi gerak langkah musuh. Dengan tugas beliau sebagai agen rahasia, menyebabkan beliau selalu dikejar-kejar tentara musuh. Untuk menghindari pengejaran, beliau selalu berpindah-pindah tempat, bahkan bersembunyi sampai ke daerah Tangerang dan Jakarta [[^wawancara_muhjidin_20040118]]. 
 
 Untuk keamanan, beliau berkamuflase dengan cara bergganti-ganti nama. Di Jakarta beliau lebih dikenal dengan nama Sanusi [[^wawancara_muhjidin_20040118]] [[^edi_sujarwo_20210607]]
 
 ### Menimba Ilmu di Qadian
 
-Beliau adalah seorang pejuang kemerdekaan RI tahun 1930-1940-an. Beliau selalu dikejar-kejar (penjajah) Belanda sehingga beliau hijrah hingga ke luar negeri. Beliau menimba ilmu ke luar negeri Qadian. Lalu pulang di tahun 1940-an ke Indonesia. Beliau menjadi salah satu pengurus Besar Jemaat Ahmadiyah Indonesia [[^edi_sujarwo_20210607]]. 
+Beliau selalu dikejar-kejar (penjajah) Belanda sehingga beliau hijrah hingga ke luar negeri. Beliau menimba ilmu ke luar negeri Qadian. Lalu pulang di tahun 1940-an ke Indonesia. Beliau menjadi salah satu pengurus Besar Jemaat Ahmadiyah Indonesia [[^edi_sujarwo_20210607]]. 
 
 ### Catatan Kaki
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcxNjcxNTU0NywtNDUxNzI3NDg3LC0yMz
-A3OTM0MTddfQ==
+eyJoaXN0b3J5IjpbNDQ2MjQ0MDE1LC00NTE3Mjc0ODcsLTIzMD
+c5MzQxN119
 -->
