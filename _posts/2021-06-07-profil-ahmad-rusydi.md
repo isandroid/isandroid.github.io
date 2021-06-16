@@ -37,13 +37,12 @@ Ketika beranjak dewasa, Ahmad Rusydi mulai aktif ikut serta dalam perang kemerde
 
 Untuk keamanan, beliau berkamuflase dengan cara bergganti-ganti nama. Di Jakarta beliau lebih dikenal dengan nama Sanusi [[^wawancara_muhjidin_20040118]] [[^edi_sujarwo_20210607]]
 
-### Menimba  di Qadian
+### Menimba Ilmu di Qadian
 
 Beliau adalah seorang pejuang kemerdekaan RI tahun 1930-1940-an. Beliau selalu dikejar-kejar (penjajah) Belanda sehingga beliau hijrah hingga ke luar negeri. Beliau menimba ilmu ke luar negeri Qadian. Lalu pulang di tahun 1940-an ke Indonesia. Beliau menjadi salah satu pengurus Besar Jemaat Ahmadiyah Indonesia [[^edi_sujarwo_20210607]]. 
 
-
 ### Catatan Kaki
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5MTUwOTQwNiwtNDUxNzI3NDg3LC0yMz
+eyJoaXN0b3J5IjpbMTcxNjcxNTU0NywtNDUxNzI3NDg3LC0yMz
 A3OTM0MTddfQ==
 -->
