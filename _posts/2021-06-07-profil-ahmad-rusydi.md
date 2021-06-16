@@ -14,7 +14,20 @@ Bapak Ahmad Rusydi mempunyai nama kecil Basroil. Setelah beliau ke Jakarta, beli
 
 [^edi_sujarwo_20210607]: Wawancara dengan bapak Edi Sujarwo via Whatsapp Call tanggal 07-Jun-2021.
 
-Beliau lahir di Dusun Krucil, Desa Winong, Kec. Bawang, Kab. Banjarnegara pada tahun 1910. Beliau putra ke-lima dari H. Ali dan dari tiga belas bersaudara. Berikut kedua belas saudara beliau mulai dari yang paling tua hingga yang termuda, yaitu H. Basrowi, H.M. Tahrir, Ny. Sa’dullah, Ny. Sadollah, Ny. Murtafiah, Ny. Salkiyah, Ny. Marinah, Bp. Ahmad Dahlan, Bp. Khotim, Ny. Siti Khasanah, Ny. Siti Masitah dan Ny. Supiyah.[[^wawancara_muhjidin]]
+Beliau lahir di Dusun Krucil, Desa Winong, Kec. Bawang, Kab. Banjarnegara pada tahun 1910. Beliau putra ke-lima dari H. Ali. Beliau salah satu dari tiga belas bersaudara. Berikut kedua belas saudara beliau mulai dari yang paling tua hingga yang termuda, yaitu:
+
+1. H. Basrowi, 
+2. H.M. Tahrir, 
+3. Ny. Sa’dullah, 
+4. Ny. Sadollah, 
+5. Ny. Murtafiah, 
+6. Ny. Salkiyah, 
+7. Ny. Marinah, 
+8. Bp. Ahmad Dahlan, 
+9. Bp. Khotim, 
+10. Ny. Siti Khasanah, 
+11. Ny. Siti Masitah 
+12. dan Ny. Supiyah [[^wawancara_muhjidin]].
 
 [^wawancara_muhjidin]: Wawancara Pribadi Sufni Ahmad kepada Muhjidin di Banjarnegara tanggal 18 Januari 2004
 
@@ -22,5 +35,5 @@ Beliau adalah seorang pejuang kemerdekaan RI tahun 1930-1940-an. Beliau selalu d
 
 ### Catatan Kaki
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc5NDg5MDU3MywtMjMwNzkzNDE3XX0=
+eyJoaXN0b3J5IjpbLTExODIwNzY1MDEsLTIzMDc5MzQxN119
 -->
