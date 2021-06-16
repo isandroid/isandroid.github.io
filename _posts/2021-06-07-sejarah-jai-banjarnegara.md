@@ -27,7 +27,6 @@ Lima orang awwalin yang baiat masuk ke dalam Jemaat Ahmadiyah di Masjid An-Nur, 
 - Sudirjo [[^wawancara_mukhlisin_20210616]]
 
 
-
 ### Lokasi Perkembangan Awal
 
 Jemaat Ahmadiyah di Banjarnegara pertama kali muncul di Krucil, Desa Winong. Dan pertama kali, Jemaat Ahmadiyah Banjarnegara dahulu berpusat di Krucil [[^edi_sujarwo_20210607]]. 
@@ -106,9 +105,12 @@ Setelah mempunyai Jamaah yang cukup banyak, maka didirikanlah cabang Jemaat loka
 
 [^edi_sujarwo_20210607]: Wawancara Isa Mujahid Islam dengan bapak Edi Sujarwo via Whatsapp Call tanggal 07-Jun-2021.
 
+[^wawancara_mukhlisin_20210616]: Wawancara Isa Mujahid Islam dengan Mukhlisin, 16-Jun-2021 di Masjid Al-Husna, Krucil.
+
 [^wawancara_muhammad_sodik_20200324]: Wawancara Isa Mujahid Islam dengan Kepala Urusan Pemerintahan Desa Winong, Muhammad Sodik, 24 Maret 2020 pukul 08.50 WIB
 
 [^wawancara_mln_nurhadi_20210525]: Wawancara Isa Mujahid Islam dengan Mln. Nurhadi tanggal 25 Mei 2021 di rumah Mubalig di Bawang-Krucil.
+
 
 
 
@@ -124,7 +126,7 @@ Setelah mempunyai Jamaah yang cukup banyak, maka didirikanlah cabang Jemaat loka
 
 Dengan keadaan alam seperti itu, memang sudah sewajarnya mayoritas penduduk sekitar berprofesi menjadi petani. Mereka mengurus sawah dan kebun. Ada pula yang berternak ikan dan lain-lain.-->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzk2OTE3NjIsLTIxMjcxNjk0MjMsMT
-EwOTcwNzc2NSwtMTk4MDM1MjgyNywxNjAwMjI2OCwxMTQ5MDM0
-NTQ1LDE0NTAwNDA1OTldfQ==
+eyJoaXN0b3J5IjpbMTIyMDUxODI3OSwtMjEyNzE2OTQyMywxMT
+A5NzA3NzY1LC0xOTgwMzUyODI3LDE2MDAyMjY4LDExNDkwMzQ1
+NDUsMTQ1MDA0MDU5OV19
 -->
