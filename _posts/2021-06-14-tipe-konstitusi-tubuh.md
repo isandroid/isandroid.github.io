@@ -174,28 +174,28 @@ Penggolongan manusia berdasarkan konstitusi tubuh:
 4.  [Graphite](https://docs.google.com/document/d/1BC_53-Z7e-sF97xWIdAvITxzjrDm5iGIxV3lTjfbXEI/edit?usp=sharing)
     
 5.  [Ignatia Amara](https://docs.google.com/document/d/141k9nRb2mTUa2_1F3vANeyaGJYd1tkcgKcrepZkF0JY/edit?usp=sharing)
-    
-6.  [Lycopodium](https://docs.google.com/document/d/1zhaPGDdbFxu-4AxgdTpRxzU3P0hAFyTrhoD-vnoqEiE/edit?usp=sharing)
-    
-7.  [Mercurius Solubilis](https://docs.google.com/document/d/1YUjd-vm2oK20XPbJRkX000ppAykuO-P4S_BA2EvGYC4/edit?usp=sharing)
-    
-8.  [Natrum Muriaticum](https://docs.google.com/document/d/1UCnBar9RyQkyPBFRaWQGqbMz2BtCZL_nbW5A8ZaY5_U/edit?usp=sharing)
 
-9.  [Nux Vomica](https://docs.google.com/document/d/1waV0bYwcpdPmPLiZtEIUE7N3QQ8Ntiq7m2v4yFE77fI/edit?usp=sharing)
+6. [Lachesis](https://docs.google.com/document/d/1PRtgpnQn9caFtDw8hSXJJmN3XrgKy6FOJle1h5dQaA4/edit?usp=sharing)
+    
+7.  [Lycopodium](https://docs.google.com/document/d/1zhaPGDdbFxu-4AxgdTpRxzU3P0hAFyTrhoD-vnoqEiE/edit?usp=sharing)
+    
+8.  [Mercurius Solubilis](https://docs.google.com/document/d/1YUjd-vm2oK20XPbJRkX000ppAykuO-P4S_BA2EvGYC4/edit?usp=sharing)
+    
+9.  [Natrum Muriaticum](https://docs.google.com/document/d/1UCnBar9RyQkyPBFRaWQGqbMz2BtCZL_nbW5A8ZaY5_U/edit?usp=sharing)
+
+10.  [Nux Vomica](https://docs.google.com/document/d/1waV0bYwcpdPmPLiZtEIUE7N3QQ8Ntiq7m2v4yFE77fI/edit?usp=sharing)
  
-10. [Phosphorus](https://docs.google.com/document/d/1Y3F3NTSpo4d9n1fVfsDnlnsTqgvjjiAPg07NpEcpUTw/edit?usp=sharing)
+11. [Phosphorus](https://docs.google.com/document/d/1Y3F3NTSpo4d9n1fVfsDnlnsTqgvjjiAPg07NpEcpUTw/edit?usp=sharing)
     
-11. [Pulsatilla](https://docs.google.com/document/d/1WIcYEHTOQptF3Z7LFx7-XWQsyqUq4t5kp_AqBCEegmg/edit?usp=sharing)
+12. [Pulsatilla](https://docs.google.com/document/d/1WIcYEHTOQptF3Z7LFx7-XWQsyqUq4t5kp_AqBCEegmg/edit?usp=sharing)
     
-12. [Sepia Officinalis](https://docs.google.com/document/d/1eIVVX8Ym0uJYcu7fvV5BwvMp1fRSU51X5BULDjktnxA/edit?usp=sharing)
+13. [Sepia Officinalis](https://docs.google.com/document/d/1eIVVX8Ym0uJYcu7fvV5BwvMp1fRSU51X5BULDjktnxA/edit?usp=sharing)
 
-13. [Silicea Terra](https://docs.google.com/document/d/1pyKRmgxBMLd7zLTEBIiQx5ytjiJSSr9B_TWRpgNO1u0/edit?usp=sharing)
+14. [Silicea Terra](https://docs.google.com/document/d/1pyKRmgxBMLd7zLTEBIiQx5ytjiJSSr9B_TWRpgNO1u0/edit?usp=sharing)
 
-14. [Sulphur](https://docs.google.com/document/d/1580A0LxbLhaQPr_zYNpcW7fNQuzlHwTwtehK1kPHdSQ/edit?usp=sharing)
-
-15. [Lachesis](https://docs.google.com/document/d/1PRtgpnQn9caFtDw8hSXJJmN3XrgKy6FOJle1h5dQaA4/edit?usp=sharing)
+15. [Sulphur](https://docs.google.com/document/d/1580A0LxbLhaQPr_zYNpcW7fNQuzlHwTwtehK1kPHdSQ/edit?usp=sharing)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5MDg0MzY2LC02NjYwNzUwMDQsLTEzNz
+eyJoaXN0b3J5IjpbMTk4ODgwMTI4LC02NjYwNzUwMDQsLTEzNz
 M4OTE0OTYsLTI2ODQ5ODAzMywtOTU0NjE1MTM0LC00MzAxOTE5
 MjgsLTE3ODA4Mjg3MzMsODYzODY5MzQ3LDE5OTYwNDM0NDksLT
 EyMjEyOTA5NjMsLTE4NDYyODc0MDMsMTgzNTQ3NzQzMywxMzI4
