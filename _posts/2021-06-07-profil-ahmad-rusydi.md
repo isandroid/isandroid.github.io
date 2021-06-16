@@ -43,10 +43,12 @@ Untuk keamanan tugas, beliau berkamuflase dengan cara bergganti-ganti nama. Di J
 
 Beliau selalu dikejar-kejar (penjajah) Belanda sehingga beliau hijrah hingga ke luar negeri. Beliau menimba ilmu ke luar negeri Qadian. Lalu pulang di tahun 1940-an ke Indonesia. Beliau menjadi salah satu pengurus Besar Jemaat Ahmadiyah Indonesia [[^edi_sujarwo_20210607]]. 
 
-Beliau datang di Qadian dengan tujuan utama menambah ilmu agama dan pengetahuan tentang ajaran Ahmadiyah. Untuk itu beliau masuk dan belajar di Jamiah Ahmadiyah Qadian. Beliau belajar di Jamiah Ahmadiyah selama lima tahun, yaitu sampai tahun 1942.[^4] Setelah 5 tahun belajar, beliau berniat kembali ke Indonesia. Tetapi niat tersebut tidak terlaksana, karena situasi keamanan di Indonesia belum kondusif dan beliau masih menjadi target pengejaran tentara penjajah. Akhirnya beliau memutuskan transit untuk sementara waktu di Australia. Disini beliau tinggal selama kurang lebih 3 tahun, sampai tahun 1945. Setelah proklamasi kemerdekaan dikumandangkan dan situasi keamanan di Indonesia lebih baik dari sebelumnya, beliau memutuskan untuk kembali ke Tanah Air.[^5]
+Beliau datang di Qadian dengan tujuan utama menambah ilmu agama dan pengetahuan tentang ajaran Ahmadiyah. Untuk itu beliau masuk dan belajar di Jamiah Ahmadiyah Qadian. Beliau belajar di Jamiah Ahmadiyah selama lima tahun, yaitu sampai tahun 1942 [[^wawancara_muhjidin_20040118]]. 
+
+Setelah tamat, beliau berniat kembali ke Indonesia. Tetapi niat tersebut tidak terlaksana, karena situasi keamanan di Indonesia belum kondusif dan beliau masih menjadi target pengejaran tentara penjajah. Ketika ada kesempatan, beliau memutuskan pulang ke Indonesia dengan transit untuk sementara waktu di Australia. Disini beliau tinggal selama kurang lebih 3 tahun, sampai tahun 1945. Setelah proklamasi kemerdekaan dikumandangkan dan situasi keamanan di Indonesia lebih baik dari sebelumnya, beliau memutuskan untuk kembali ke Tanah Air [[^wawancara_muhjidin_20040118]].
 
 ### Catatan Kaki
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NjQ0OTMzNDksLTQ1MTcyNzQ4NywtMj
+eyJoaXN0b3J5IjpbLTE5MjU0NzM3NzYsLTQ1MTcyNzQ4NywtMj
 MwNzkzNDE3XX0=
 -->
