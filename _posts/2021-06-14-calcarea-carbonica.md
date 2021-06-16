@@ -3,7 +3,7 @@ title: Calcarea Carbonica (Calc. Carb)
 layout: post
 tags: homeopathy
 description: penjelasan konstitusi calcarea carbonica atau calc carb 
-published: true
+published: false
 ---
 
 ## {{ page.title }}
@@ -156,7 +156,7 @@ published: true
     
 -   Bulan purnama
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MjQ5NzE0MCwxNTI5NjQ0MzI1LDExMD
+eyJoaXN0b3J5IjpbMTUyOTY0NDMyNSwxNTI5NjQ0MzI1LDExMD
 U1NTIzMDYsNDA5NDc0OTQ2LDE1OTc5NDk3OSwxMjE0NTQzNDgz
 LC0xOTIxNjE5OTVdfQ==
 -->
