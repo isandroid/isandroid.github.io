@@ -8,7 +8,7 @@ published: true
 
 ## {{ page.title }}
 
-Bapak Ahmad Rusydi mempunyai nama kecil Basroil. Setelah beliau ke Jakarta, beliau mengganti namanya menjadi Sanusi. Setelah beliau pulang menuntut ilmu dan menjadi mubalig, beliau mengganti namanya menjadi Ahmad Rusydi [[^nusrat_fauziyah_20200916]]. Selain itu latar-belakang beliau mengganti namanya sebagai bentuk penyamaran dan penghindaran diri dari pengejaran Belanda [[^edi_sujarwo_20210607]]. 
+Bapak Ahmad Rusydi mempunyai nama kecil Basroil. Setelah beliau ke Jakarta, beliau mengganti namanya menjadi Sanusi. Setelah beliau pulang menuntut ilmu (dari Qadian) dan menjadi mubalig, beliau mengganti namanya menjadi Ahmad Rusydi [[^nusrat_fauziyah_20200916]]. Selain itu latar-belakang beliau mengganti namanya sebagai bentuk penyamaran dan penghindaran diri dari pengejaran Belanda [[^edi_sujarwo_20210607]]. 
 
 [^nusrat_fauziyah_20200916]: Wawancara dengan Nusrat Fauziah (Cucu dari bapak Ahmad Rusydi) tanggal 16-Sept-2020 via teks Whatsapp. 
 
@@ -39,5 +39,6 @@ Ketika beranjak dewasa, Ahmad Rusydi mulai aktif ikut serta dalam perang kemerde
 
 ### Catatan Kaki
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1MTcyNzQ4NywtMjMwNzkzNDE3XX0=
+eyJoaXN0b3J5IjpbLTExNTgyNDU0NDIsLTQ1MTcyNzQ4NywtMj
+MwNzkzNDE3XX0=
 -->
