@@ -12,11 +12,11 @@ published: true
 
 Jemaat Ahmadiyah pertama kali diperkenalkan di Kabupaten Banjarnegara sekira tahun 1952, oleh [Ahmad Rusydi](/2021/06/07/profil-ahmad-rusydi.html) alias [Basroil](/2021/06/07/profil-ahmad-rusydi.html) [[^bungarampai_h146]] di Krucil, Desa Winong, Bawang, Banjarnegara. 
 
+[^bungarampai_h146]: Munawar Ahmad, dkk., **_Bunga Rampai Sejarah Ahmadiyah Indonesia (1925-200)_**, (Bogor: Jemaat Ahmadiyah Indonesia, 2000), cet. ke-1, h. 146
+
 ### Lokasi
 
-Jemaat di Banjarnegara berawal dari Dusun Krucil atau dukuh Krucil yang terletak di desa Winong, kecamatan Bawang, Kabupaten Banjarnegara. 
-
-Di Desa Winong ini terbagi menjadi lima kampung, yaitu: 
+Desa Winong ini terbagi menjadi lima kampung, yaitu: 
 
 - Dukuh Krucil, 
 - Dukuh Kaliurang, 
@@ -28,7 +28,7 @@ Dari penduduk desa Winong yang berjumlah 3.088 jiwa, penduduk kampung Krucil ada
 
 [^wawancara_muhammad_sodik_20200324]: Wawancara dengan Kepala Urusan Pemerintahan Desa Winong, Muhammad Sodik, 24 Maret 2020 pukul 08.50 WIB
 
-[^bungarampai_h146]: Munawar Ahmad, dkk., **_Bunga Rampai Sejarah Ahmadiyah Indonesia (1925-200)_**, (Bogor: Jemaat Ahmadiyah Indonesia, 2000), cet. ke-1, h. 146
+
 
 <!--
 Jemaat Ahmadiyah di Banjarnegara berdiri dengan dibentuknya kepengurusan cabang Jemaat Ahmadiyah Banjarnegara yang terletak di Kp. Krucil, Desa Winong, Kec. Bawang, Kab. Banjarnegara.
@@ -123,7 +123,7 @@ Setelah mempunyai Jamaah yang cukup banyak, maka didirikanlah cabang Jemaat loka
 
 Dengan keadaan alam seperti itu, memang sudah sewajarnya mayoritas penduduk sekitar berprofesi menjadi petani. Mereka mengurus sawah dan kebun. Ada pula yang berternak ikan dan lain-lain.-->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2MzYzNTYzNywtMjEyNzE2OTQyMywxMT
-A5NzA3NzY1LC0xOTgwMzUyODI3LDE2MDAyMjY4LDExNDkwMzQ1
-NDUsMTQ1MDA0MDU5OV19
+eyJoaXN0b3J5IjpbOTI3Njc1ODEsLTIxMjcxNjk0MjMsMTEwOT
+cwNzc2NSwtMTk4MDM1MjgyNywxNjAwMjI2OCwxMTQ5MDM0NTQ1
+LDE0NTAwNDA1OTldfQ==
 -->
