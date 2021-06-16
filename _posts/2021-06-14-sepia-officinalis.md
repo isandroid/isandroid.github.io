@@ -3,7 +3,7 @@ title: Sepia Officinalis
 layout: post
 tags: homeopathy
 description: penjelasan konstitusi sepia officinalis
-published: false
+published: true
 ---
 
 ## {{ page.title }}
@@ -121,5 +121,5 @@ published: false
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjA3MTM4MDE0XX0=
+eyJoaXN0b3J5IjpbMTk3NzU2OTg1OSw2MDcxMzgwMTRdfQ==
 -->
