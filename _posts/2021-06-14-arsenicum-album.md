@@ -3,7 +3,7 @@ title: Arsenicum Album
 layout: post
 tags: homeopathy
 description: penjelasan konstitusi arsenicum album 
-published: false
+published: true
 ---
 
 ## {{ page.title }}
@@ -142,6 +142,6 @@ published: false
     
 -   Tidur berguling ke kiri dan ke kanan dan sering buang air kecil akibat anxietas.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjc0OTk5MDEsLTEyNzc5MjUyNjgsLTExMz
-czNTI2MzZdfQ==
+eyJoaXN0b3J5IjpbLTEyNzc5MjUyNjgsMjc0OTk5MDEsLTEyNz
+c5MjUyNjgsLTExMzczNTI2MzZdfQ==
 -->
