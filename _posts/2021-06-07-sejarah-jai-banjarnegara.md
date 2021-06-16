@@ -10,7 +10,7 @@ published: true
 
 ## {{ page.title }}
 
-Jemaat Ahmadiyah pertama kali diperkenalkan di Kabupaten Banjarnegara sekira tahun 1952, oleh Ahmad Rusydi alias Basroil [[^bungarampai_h146]].
+Jemaat Ahmadiyah pertama kali diperkenalkan di Kabupaten Banjarnegara sekira tahun 1952, oleh Ahmad Rusydi alias Basroil [[^bungarampai_h146]]. 
 
 [^bungarampai_h146]: Munawar Ahmad, dkk., **_Bunga Rampai Sejarah Ahmadiyah Indonesia (1925-200)_**, (Bogor: Jemaat Ahmadiyah Indonesia, 2000), cet. ke-1, h. 146
 
@@ -121,7 +121,7 @@ Setelah mempunyai Jamaah yang cukup banyak, maka didirikanlah cabang Jemaat loka
 
 Dengan keadaan alam seperti itu, memang sudah sewajarnya mayoritas penduduk sekitar berprofesi menjadi petani. Mereka mengurus sawah dan kebun. Ada pula yang berternak ikan dan lain-lain.-->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjcxNjk0MjMsMTEwOTcwNzc2NSwtMT
-k4MDM1MjgyNywxNjAwMjI2OCwxMTQ5MDM0NTQ1LDE0NTAwNDA1
-OTldfQ==
+eyJoaXN0b3J5IjpbMTczOTY5MDQyNywtMjEyNzE2OTQyMywxMT
+A5NzA3NzY1LC0xOTgwMzUyODI3LDE2MDAyMjY4LDExNDkwMzQ1
+NDUsMTQ1MDA0MDU5OV19
 -->
