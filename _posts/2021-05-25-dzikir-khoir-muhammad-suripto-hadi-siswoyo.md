@@ -198,6 +198,8 @@ Jumlah mubaligh pun terus ditambah untuk kantong-kantong mubaligh tersebut, Dan 
 
 Kegiatan tabligh terus dilakukan ke arah Desa Wonoroto dan daerah daerah lain di kabupaten Wonosobo.
 
+Satu video yang sempat direkam sekilas
+
 ### Kesan terhadap Pribadi Bapak Suripto
 
 Bu Titin Suprikhatin, Istri almarhum menceritakan ketika ditanya, apa (rahasia sukses) pak Suripto dalam mendidik anak-anaknya sehingga bisa sukses, bu Titin menceritakan pandangannya,
@@ -561,3 +563,6 @@ Mln. Ahmad Suparja Hidayat, mubda Jateng-2 menceritakan,
 [^wa_mln_suparja_hidayat_20210528]: Tulisan yang dikirim Mln. Suparja Hidayat dari Wonosobo melalui pesan Whatsapp tanggal 28 Mei 2021
 
 ### Catatan Kaki
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTI5OTYxMTcxOF19
+-->
