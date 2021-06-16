@@ -169,7 +169,7 @@ Penggolongan manusia berdasarkan konstitusi tubuh:
     
 2.  [Arsenicum Album](https://docs.google.com/document/d/1tUMTea3WekdAUWOfUUHIfAHY3YkLC6jh9ONbzBLopYY/edit?usp=sharing)
     
-3.  Calcarea Carbonica
+3.  [Calcarea Carbonica](https://docs.google.com/document/d/1WEtjTJhiBtsKs5dGRW4_jMs-c8dMjTzX12CiXTCF7Uw/edit?usp=sharing)
     
 4.  Graphite
     
@@ -195,8 +195,8 @@ Penggolongan manusia berdasarkan konstitusi tubuh:
 
 15. Lachesis
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzM4OTE0OTYsLTI2ODQ5ODAzMywtOT
-U0NjE1MTM0LC00MzAxOTE5MjgsLTE3ODA4Mjg3MzMsODYzODY5
-MzQ3LDE5OTYwNDM0NDksLTEyMjEyOTA5NjMsLTE4NDYyODc0MD
-MsMTgzNTQ3NzQzMywxMzI4NTgxNjddfQ==
+eyJoaXN0b3J5IjpbOTA1NDU0MDAzLC0xMzczODkxNDk2LC0yNj
+g0OTgwMzMsLTk1NDYxNTEzNCwtNDMwMTkxOTI4LC0xNzgwODI4
+NzMzLDg2Mzg2OTM0NywxOTk2MDQzNDQ5LC0xMjIxMjkwOTYzLC
+0xODQ2Mjg3NDAzLDE4MzU0Nzc0MzMsMTMyODU4MTY3XX0=
 -->
