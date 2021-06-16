@@ -3,7 +3,7 @@ title: Ignatia Amara
 layout: post
 tags: homeopathy
 description: penjelasan konstitusi ignatia amara
-published: true
+published: false
 ---
 
 ## {{ page.title }}
@@ -174,6 +174,6 @@ published: true
     
 -   Mencium bau tembakau
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzAwNDk3NzQ2LDYzMTA5OTA5Myw2NTAxMj
+eyJoaXN0b3J5IjpbNjMxMDk5MDkzLDYzMTA5OTA5Myw2NTAxMj
 EwMDFdfQ==
 -->
