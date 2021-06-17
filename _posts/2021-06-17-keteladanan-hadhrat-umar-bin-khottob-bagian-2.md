@@ -47,7 +47,7 @@ Hadhrat ‘Umar (ra) memahami bahwa Tuhan sendiri telah menyatakan bahwa Al-Qur'
 
 Ketika Nabi (saw) meninggal, Hadhrat ‘Umar (ra) mengatakan bahwa Nabi (saw) tidak meninggal, dan beliau (saw) pasti akan kembali, karena Hadhrat ‘Umar (ra) tidak siap untuk menerima fakta ini. Hadhrat Abu Bakr (ra) menjelaskan kepada Hadhrat ‘Umar (ra) bahwa Nabi (saw) telah meninggal dunia, dan mengutip Al-Qur'an untuk membantunya memahami bahwa kematian tidak dapat dihindari, dan hal ini juga terjadi pada Nabi (saw). Misalnya, beliau mengutip ayat,
 
-<mark>arab</mark>
+<p class="quran"> وَمَا مُحَمَّدٌ اِلَّا رَسُوۡلٌ قَدۡ خَلَتۡ مِنۡ قَبۡلِہِ الرُّسُلُ ۚ اَفَا۠ئِنۡ مَّاتَ اَوۡ قُتِلَ انۡقَلَبۡتُمۡ عَلٰۤی اَعۡقٰبِکُمۡ ۚ وَمَنۡ یَّنۡقَلِبۡ عَلٰی عَقِبَیۡہِ فَلَنۡ یَّضُرَّ اللّٰہَ شَیۡـًٔا ۗ وَسَیَجۡزِی اللّٰہُ الشّٰکِرِیۡنَ</p>
 
 Dan Muhammad hanyalah seorang Utusan. Sesungguhnya semua Rasul telah berlalu sebelumnya. Jika kemudian ia mati atau dibunuh, apakah kalian akan berbalik murtad? Dan barang siapa berbalik maka tidak akan merugikan Allah sama sekali. Dan Allah pasti akan memberi balasan kepada orang-orang yang bersyukur.”(Al-Qur’an, Surah Ali Imran, 3:145) 
 
@@ -63,11 +63,13 @@ Ketika tiba saatnya untuk memilih seorang Khalifah, ada beberapa yang menyaranka
 
 Selama kekhalifahan Hadhrat Abu Bakr (ra), ada banyak huffaz [mereka yang telah menghafal AlQur'an] yang mati syahid. Hadhrat ‘Umar (ra) menyarankan kepada Hadhrat Abu Bakr (ra) agar AlQur'an dikompilasi menjadi sebuah buku untuk menjaganya. Oleh karena itu, Hadhrat ‘Umar (ra) memulai tugas menyusun teks Al-Qur'an yang telah ditulis di berbagai tempat ketika diturunkan. Oleh karena itu, berbagai ayat akan ditemukan tertulis pada daun, cabang, tulang dan kulit binatang. Misalnya, ayat berikut ditemukan ditulis pada selembar kulit:
 
+<p class="quran"></p>
+
 Sesungguhnya telah datang kepadamu seorang Rasul dari kalangan kamu sendiri; menyedihkan baginya adalah bahwa Anda harus jatuh ke dalam kesulitan; dia sangat menginginkan kesejahteraan Anda; dan kepada orang-orang mukmin dia penyayang lagi penyayang.” (Al-Qur’an, at-Taubah, 9:128) 
 
 Naskah asli dari Al-Qur'an tetap dengan Hadhrat Abu Bakr (ra). Setelah kewafatannya, naskah itu tetap dalam kepemilikan Hadhrat Hafshah putri Hadhrat ‘Umar (ra) dan kemudian diberikan kepada Hadhrat ‘Utsman (ra). 
 
 Hudhur ayyadahullaahu Ta’ala mengatakan bahwa beliau akan terus menyoroti kehidupan Hadhrat ‘Umar (ra) dalam khotbah-khotbah mendatang.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0MTc5MDQxNF19
+eyJoaXN0b3J5IjpbMTczNDQxODI3MV19
 -->
