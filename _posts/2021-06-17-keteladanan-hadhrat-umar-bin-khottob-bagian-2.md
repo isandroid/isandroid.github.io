@@ -21,10 +21,23 @@ Ringkasan Khotbah Jumat Sayyidina Amirul Mu’minin, Hadhrat Mirza Masroor Ahmad
 
 Hudhur ayyadahullaahu Ta’ala menyampaikan bahwa suatu ketika suku Banu Bakr, suku afiliasi (sekutu) kaum Quraisy menyerang Bani Khuza'ah, suku afiliasi umat Muslim, yang bertentangan dengan Perjanjian Hudaibiyah. Kemudian, Abu Sufyan pemimpin Makkah pergi ke Madinah untuk menegosiasikan kembali ketentuan Perjanjian Hudaibiyah, tetapi Nabi Muhammad shallaLlahu ‘alaihi wa sallam menolak. Kemudian dia pergi ke Hadhrat ‘Umar (ra) dan memintanya untuk bersyafaat (meminta keringanan) atas namanya. Sebagai tanggapan, Hadhrat ‘Umar (ra) mengatakan bahwa bahkan jika beliau hanya memiliki sebatang ranting, beliau akan menggunakannya untuk melawan kaum Quraisy. 
 
-Hudhur ayyadahullaahu Ta’ala menyampaikan tentang Penaklukan Makkah bahwa ketika Nabi yang mulia (saw) mendekati Makkah, Abu Sufyan menjadi khawatir. Hadhrat Abbas (ra) pergi menemui Abu Sufyan dan mengatakan kepadanya bahwa dia akan membawanya ke Nabi (saw) sehingga dia bisa mencari perlindungan. Ketika mereka sampai di Nabi yang mulia (saw), Hadhrat ‘Umar (ra) meminta izin Nabi (saw) untuk membunuh Abu Sufyan, tetapi Nabi (saw) akhirnya menyuruh Hadhrat Abbas (ra) untuk membawa Abu Sufyan pergi dan memberikannya dengan perlindungan. Hadhrat ‘Umar (ra) Diberikan Bendera Selama Pertempuran Khaibar
+Hudhur ayyadahullaahu Ta’ala menyampaikan tentang Penaklukan Makkah bahwa ketika Nabi yang mulia (saw) mendekati Makkah, Abu Sufyan menjadi khawatir. Hadhrat Abbas (ra) pergi menemui Abu Sufyan dan mengatakan kepadanya bahwa dia akan membawanya ke Nabi (saw) sehingga dia bisa mencari perlindungan. Ketika mereka sampai di Nabi yang mulia (saw), Hadhrat ‘Umar (ra) meminta izin Nabi (saw) untuk membunuh Abu Sufyan, tetapi Nabi (saw) akhirnya menyuruh Hadhrat Abbas (ra) untuk membawa Abu Sufyan pergi dan memberikannya dengan perlindungan. 
 
+### Hadhrat ‘Umar (ra) Diberikan Bendera Selama Pertempuran Khaibar
 
+Pada kesempatan Pertempuran Khaibar, Nabi (saw) memberikan bendera Islam kepada Hadhrat Abu Bakr (ra) dan kemudian memberikan bendera yang sama kepada Hadhrat ‘Umar (ra). Kemudian, pada hari kedua, Nabi (saw) berkata bahwa dia akan memberikan bendera itu kepada orang yang di tangannya kemenangan akan diraih dan memberikan bendera itu kepada Hadhrat Ali (ra). 
 
+Suatu ketika Hadhrat Hatib (ra) telah memberikan sebuah surat kepada seorang wanita yang ditujukan kepada orang Quraisy yang memberitahukan mereka tentang beberapa rencana Nabi yang mulia (saw), yang kemudian dicegat oleh Hadhrat Ali (ra). Nabi (saw) bertanya kepada Hadhrat Hatib (ra) tentang hal ini, dan kemudian memaafkannya. 
+
+Hadhrat ‘Umar (ra) meminta Nabi (saw) untuk membunuhnya. Nabi (saw) menanggapinya dan mengatakan bahwa Hadhrat Hatib (ra) telah berpartisipasi dalam Perang Badr, dan Tuhan telah mengampuni mereka yang berpartisipasi dalam pertempuran ini. 
+
+Dalam perjalanan kembali dari Pertempuran Hunain, Hadhrat ‘Umar (ra) bertanya kepada Nabi (saw) tentang sumpah yang beliau buat selama Era Kebodohan (zaman jahiliyah) sebelum beliau menerima Islam. Nabi (saw) menyarankan agar beliau menghormatinya, sambil tetap berada dalam batas-batas Islam. 
+
+### Kedermawanan Hadhrat Abu Bakr (ra) dan Hadhrat ‘Umar (ra) dalam pengorbanan demi perang Tabuk
+
+Pada kesempatan Pertempuran Tabuk, Nabi (saw) mengajukan permohonan untuk kontribusi keuangan. Atas hal ini, Hadhrat ‘Umar (ra) berharap untuk menggunakan kesempatan ini dan mengalahkan Hadhrat Abu Bakr (ra) dalam hal jumlah pengorbanan. Oleh karena itu, beliau mengambil setengah dari kekayaannya dan menyerahkannya kepada Nabi (saw). Nabi (saw) bertanya kepadanya apa yang beliau tinggalkan untuk keluarganya, dan beliau menjawab bahwa beliau telah meninggalkan setengahnya untuk keluarganya. Namun kemudian, Hadhrat Abu Bakr (ra) pergi ke Nabi (saw) dan menyerahkan semua kekayaannya kepadanya. 
+
+Hadhrat Masih Mau’ud (as) telah menyatakan sehubungan dengan kejadian ini, bahwa ini adalah saat ketika orang-orang siap dan rela memberikan semua yang mereka miliki demi Islam. Sikap Hadhrat ‘Umar (ra) atas Wafatnya Nabi (saw) Saat kematian Nabi (saw) semakin dekat, Nabi (saw) mengatakan bahwa beliau ingin menulis sesuatu yang dengan mengikutinya tidak ada seorang pun akan tersesat. Hadhrat ‘Umar (ra) berpendapat bahwa karena Nabi (saw) sedang lemah dan sakit, mereka (para Sahabat) seharusnya tidak membuat beliau (saw) kesulitan karena mereka telah memiliki Al-Qur'an. Sahabat yang lain berpendapat bahwa pena dan kertas harus dibawa kepada Nabi (saw). Kedua belah pihak berdebat satu sama lain, di mana Nabi (saw) meminta mereka untuk pergi. Hadhrat ‘Umar (ra) memahami bahwa Tuhan sendiri telah menyatakan bahwa Al-Qur'an adalah lengkap dan tidak ada yang tertinggal darinya. Oleh karena itu, setelah mendengar Hadhrat ‘Umar (ra)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NjcyOTA3MzhdfQ==
+eyJoaXN0b3J5IjpbMjAyODc1NTM0Nl19
 -->
