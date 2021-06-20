@@ -48,9 +48,9 @@ Selanjutnya beberapa kali terjadi baiat susulan. Mereka yang baiat setelahnya an
 
 Masjid masjid-An-Nur adalah satu masjid tertua nomor dua di kecamatan Bawang, Banjarnegara. Dahulu kala, banyak orang-orang yang Jumatan dari desa-desa sekitar yang jaraknya puluhan kilometer karena ketika itu masjid itu masih sangat sedikit.
 
-[bapak Suripto](/2021/05/25/dzikir-khoir-muhammad-suripto-hadi-siswoyo.html) (putra pak Daryali) pindah ke Desa Limbangan dan mendirikan Jemaat di sana. 
+[Bapak Suripto](/2021/05/25/dzikir-khoir-muhammad-suripto-hadi-siswoyo.html) (putra pak Daryali) menikah dengan seorang anggota Lajnah Imaillah di Desa Limbangan dan beliau memutuskan untuk pindah ke Desa Limbangan serta mendirikan Jemaat di sana.
 
-Kemudian ada bapak Pono Edi Sunargo (baiat) dan mengembangkan Jemaat di Banjarnegara.
+Kemudian ada bapak Pono Edi Sunargo (baiat) dan mengembangkan Jemaat di ibupa Banjarnegara.
 
 Beberapa diantara anggota Jemaat Bawang ada yang transmigrasi ke Papua dan mendirikan Jemaat di sana.
 
@@ -130,7 +130,7 @@ Setelah mempunyai Jamaah yang cukup banyak, maka didirikanlah cabang Jemaat loka
 
 Dengan keadaan alam seperti itu, memang sudah sewajarnya mayoritas penduduk sekitar berprofesi menjadi petani. Mereka mengurus sawah dan kebun. Ada pula yang berternak ikan dan lain-lain.-->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4NDA4ODg4Niw0OTcwOTQyMzUsMTYwMz
+eyJoaXN0b3J5IjpbMTI1NzczNjYyNyw0OTcwOTQyMzUsMTYwMz
 E3NTUyNCwtMjEyNzE2OTQyMywxMTA5NzA3NzY1LC0xOTgwMzUy
 ODI3LDE2MDAyMjY4LDExNDkwMzQ1NDUsMTQ1MDA0MDU5OV19
 -->
