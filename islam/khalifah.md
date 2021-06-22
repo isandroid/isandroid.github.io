@@ -6,7 +6,7 @@ description: penjelasan tentang khalifah, gelar khalifah, khalifah sebelum umat 
 
 ## {{page.title}}
 
-Apa itu Khalifah? **khalifah** adalah penerus. Siapapun yang pendahulunya, khalifah bertugas mengikuti dan menyempurnakan pendahulunya. Secara bahasa **khalifah** berasal dari kata *kholafa*  yang artinya menggantikan, mengangkat, mengikuti dan mengambil tempat. Sedangkan kata masdar *kholfun* berarti di belakang, di punggung dan setelah. [[^fn-kata-kholafa]]
+Apa itu Khalifah? **khalifah** adalah penerus. Siapapun yang pendahulunya, khalifah bertugas mengikuti dan menyempurnakan pendahulunya. Secara bahasa **khalifah** berasal dari kata *kholafa* yang artinya menggantikan, mengangkat, mengikuti dan mengambil tempat. Sedangkan kata masdar *kholfun* berarti di belakang, di punggung dan setelah. [[^fn-kata-kholafa]]
 
 [^fn-kata-kholafa]: [Kamus Almaany pencarian Kata _kho-la-fa_](https://www.almaany.com/id/dict/ar-id/%D8%AE%D9%84%D9%81/)
 
@@ -104,3 +104,6 @@ Rasulullah (saw) menyampaikan bahwa jika ada dua **khalifah** (dalam satu waktu 
 
 ### Catatan Kaki
 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbNDYwMTMxNzQ3XX0=
+-->
