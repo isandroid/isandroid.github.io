@@ -11,7 +11,7 @@ published: true
 
 ### Pengertian Khilafat dan Khalifah
 
-
+Dalam bahasa arab, Khilafat dan Khalifah memiliki akar kata yang sama, yaitu kata "kho-la-fa"
 
 ### Jenis-Jenis Khalifah
 
@@ -36,5 +36,6 @@ published: true
 <!-- Rujukan pd Al-Qur'an, Hadist,Sabda Hz Masih Mau'ud (as) dan para Khalifatul Masih -->
 ### Catatan Kaki
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDEzNzkwOTY4LC0xMjgxMjk5MDM2XX0=
+eyJoaXN0b3J5IjpbMTU3MDA4MzI1LDQxMzc5MDk2OCwtMTI4MT
+I5OTAzNl19
 -->
