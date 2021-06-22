@@ -54,8 +54,8 @@ Dalam Kamus Besar Bahasa Indonesia (KBBI), kata khalifah berarti wakil atau peng
 
 [^kbbi_khalifah]: [Kamus Besar Bahasa Indonesia dalam kata Khalifah - diakses 22 Juni 2021](https://kbbi.kemdikbud.go.id/entri/khalifah)
 
-[^the_blessings_of_khilafat_p7]: [The Blessings of Khilafat](https://www.alislam.org/library/books/Blessings-of-Khilafat.pdf)
+[^barakat-e-khilafat_p7]: Hadhrat Mirza Basyiruddin Mahmud Ahmad, [Barakat-e-Khilafat](https://www.alislam.org/library/books/Blessings-of-Khilafat.pdf) halaman 7.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2MTUzMjk4NSwtNTEzNDY3MjE0LC0xNz
-k1NDY5Nzc5LDQxMzc5MDk2OCwtMTI4MTI5OTAzNl19
+eyJoaXN0b3J5IjpbODc2MTQyMjg1LC01MTM0NjcyMTQsLTE3OT
+U0Njk3NzksNDEzNzkwOTY4LC0xMjgxMjk5MDM2XX0=
 -->
