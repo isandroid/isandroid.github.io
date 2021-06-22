@@ -15,7 +15,9 @@ Dalam bahasa arab, **Khilafat** dan **Khalifah** memiliki akar kata yang sama, y
 
 Sedangkan dalam *masdar* (kata benda), "*kholfun*" berarti di belakang, di punggung dan setelah. [[^fn-kata-kholafa]]
 
-### Pengertian Khalifah
+#### Pengertian Khalifah
+
+#### Pengertian Khilafat
 
 ### Jenis-Jenis Khalifah
 
@@ -42,6 +44,6 @@ Sedangkan dalam *masdar* (kata benda), "*kholfun*" berarti di belakang, di pungg
 
 [^fn-kata-kholafa]: [Kamus Almaany pencarian Kata _kho-la-fa_](https://www.almaany.com/id/dict/ar-id/%D8%AE%D9%84%D9%81/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ2MTk0MzkwMiwtMTc5NTQ2OTc3OSw0MT
+eyJoaXN0b3J5IjpbLTUxMzQ2NzIxNCwtMTc5NTQ2OTc3OSw0MT
 M3OTA5NjgsLTEyODEyOTkwMzZdfQ==
 -->
