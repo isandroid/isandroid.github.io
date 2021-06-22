@@ -13,15 +13,17 @@ published: true
 
 ### 2. Jenis-Jenis Khalifah
 
-### 3. Dasar Kemunculan Khalifah Rosyidin & Khalifatul Masih
+### 3. Dasar Kemunculan Khalifah Rosyidah & Khalifatul Masih
 
-### 4. Misi yang di emban oleh seorang Khalifatul Masih
+### 4. Misi yang Diemban Seorang Khalifatul Masih
 
-### 5.  Kriteria seseorang dikatakan taat  atau memiliki ikatan dgn Khalifah (ref khutbah Huzur pd hari Khilafat 2021).
+### 5.  Kriteria Seseorang Dikatakan Taat Atau Memiliki Ikatan dengan Khalifah 
+
+<!-- ref khutbah Huzur pd hari Khilafat 2021 -->
 
 ### 6. Implementasi unjuk taat pd khilafat saat mengikuti KPA.
 
 <!-- Rujukan pd Al-Qur'an, Hadist,Sabda Hz Masih Mau'ud (as) dan para Khalifatul Masih -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ0OTc4NzU1NywtMTI4MTI5OTAzNl19
+eyJoaXN0b3J5IjpbNzIyMDY0MDkzLC0xMjgxMjk5MDM2XX0=
 -->
