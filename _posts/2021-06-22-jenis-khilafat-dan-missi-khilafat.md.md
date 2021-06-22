@@ -9,11 +9,11 @@ published: true
 
 ## {{ page.title }}
 
-### 1. Pengertian Khilafat dan khalifah. 
+### 1. Pengertian Khilafat dan Khalifah
 
 ### 2. Jenis-Jenis Khalifah
 
-### 3. Dasar kemunculan Khalifah: Rosyidin & Masih
+### 3. Dasar Kemunculan Khalifah Rosyidin & Khalifatul Masih
 
 ### 4. Misi yang di emban oleh seorang Khalifatul Masih
 
@@ -23,5 +23,5 @@ published: true
 
 <!-- Rujukan pd Al-Qur'an, Hadist,Sabda Hz Masih Mau'ud (as) dan para Khalifatul Masih -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODEyOTkwMzZdfQ==
+eyJoaXN0b3J5IjpbLTQ0OTc4NzU1NywtMTI4MTI5OTAzNl19
 -->
