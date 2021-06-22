@@ -29,7 +29,6 @@ published: true
 <!-- ref khutbah Huzur pd hari Khilafat 2021 -->
 
 
-
 ### Implementasi unjuk taat pd khilafat saat mengikuti KPA.
 
 
@@ -37,5 +36,5 @@ published: true
 <!-- Rujukan pd Al-Qur'an, Hadist,Sabda Hz Masih Mau'ud (as) dan para Khalifatul Masih -->
 ### Catatan Kaki
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyMDY3NDMxNCwtMTI4MTI5OTAzNl19
+eyJoaXN0b3J5IjpbNDEzNzkwOTY4LC0xMjgxMjk5MDM2XX0=
 -->
