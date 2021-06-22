@@ -11,7 +11,7 @@ published: true
 
 ### Pengertian Khilafat dan Khalifah
 
-Dalam bahasa arab, Khilafat dan Khalifah memiliki akar kata yang sama, yaitu kata "kho-la-fa"
+Dalam bahasa arab, Khilafat dan Khalifah memiliki akar kata yang sama, yaitu kata "*kho-la-fa*" yang artinya menggantikan, mengangkat, mengikuti dan mengambil tempat. Sedangkan kata masdar "*kholfun*" berarti di belakang, di punggung dan setelah. [1]
 
 ### Jenis-Jenis Khalifah
 
@@ -35,7 +35,9 @@ Dalam bahasa arab, Khilafat dan Khalifah memiliki akar kata yang sama, yaitu kat
 
 <!-- Rujukan pd Al-Qur'an, Hadist,Sabda Hz Masih Mau'ud (as) dan para Khalifatul Masih -->
 ### Catatan Kaki
+
+[^fn-kata-kholafa]: [Kamus Almaany pencarian Kata _kho-la-fa_](https://www.almaany.com/id/dict/ar-id/%D8%AE%D9%84%D9%81/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3MDA4MzI1LDQxMzc5MDk2OCwtMTI4MT
-I5OTAzNl19
+eyJoaXN0b3J5IjpbMTMxMDkxMDQ1Myw0MTM3OTA5NjgsLTEyOD
+EyOTkwMzZdfQ==
 -->
