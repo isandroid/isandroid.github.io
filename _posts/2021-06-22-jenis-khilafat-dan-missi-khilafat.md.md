@@ -21,7 +21,7 @@ published: true
 
 ### 6. Implementasi unjuk taat pd khilafat saat mengikuti KPA.
 
-<!-- Rujukan pd Al-Qur'an, Hadist,Sabda Hz Masih Mau'ud as dan para Khalifatul Masih -->
+<!-- Rujukan pd Al-Qur'an, Hadist,Sabda Hz Masih Mau'ud (as) dan para Khalifatul Masih -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExMDk4Njk3N119
+eyJoaXN0b3J5IjpbLTEyODEyOTkwMzZdfQ==
 -->
