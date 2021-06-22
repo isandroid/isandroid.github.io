@@ -18,7 +18,9 @@ Sedangkan dalam *masdar* (kata benda), "*kholfun*" berarti di belakang, di pungg
 #### Pengertian Khalifah
 
 
-Dalam Kamus Besar Bahasa Indonesia (KBBI), kata khalifah berarti wakil atau pengganti Nabi Muhammad saw. setelah beliau wafat baik dalam urusan negara dan agama yang melaksanakan syariat atau hukum agama Islam dalam kehidupan negara. Arti kedua dari kata khalifah adalah gelar kepala agama dan raja di negara Islam. Arti ketiga dari kata khalifah adalah penguasa atau pengelola .
+Dalam Kamus Besar Bahasa Indonesia (KBBI), kata khalifah berarti wakil atau pengganti Nabi Muhammad saw. setelah beliau wafat baik dalam urusan negara dan agama yang melaksanakan syariat atau hukum agama Islam dalam kehidupan negara. Arti kedua dari kata khalifah adalah gelar kepala agama dan raja di negara Islam. Arti ketiga dari kata khalifah adalah penguasa atau pengelola [[^kbbi_khalifah]].
+
+[^kbbi_khalifah]: [Kamus Besar Bahasa Indonesia dalam kata Khalifah - diakses 22 Juni 2021](https://kbbi.kemdikbud.go.id/entri/khalifah)
 
 #### Pengertian Khilafat
 
@@ -47,6 +49,6 @@ Dalam Kamus Besar Bahasa Indonesia (KBBI), kata khalifah berarti wakil atau peng
 
 [^fn-kata-kholafa]: [Kamus Almaany pencarian Kata _kho-la-fa_](https://www.almaany.com/id/dict/ar-id/%D8%AE%D9%84%D9%81/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODkzNDM4Mzk0LC01MTM0NjcyMTQsLTE3OT
+eyJoaXN0b3J5IjpbNTAzMDUzOTYzLC01MTM0NjcyMTQsLTE3OT
 U0Njk3NzksNDEzNzkwOTY4LC0xMjgxMjk5MDM2XX0=
 -->
