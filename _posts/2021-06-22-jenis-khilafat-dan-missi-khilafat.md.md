@@ -72,12 +72,11 @@ Peri kehidupan khalifah menurut Hadhrat Mushlih Mau'ud (ra) adalah:
 [^barakat-e-khilafat_p9]: Hadhrat Mirza Basyiruddin Mahmud Ahmad, [*Barakat-e-Khilafat* atau *Blessings-of-Khilafat*](https://www.alislam.org/library/books/Blessings-of-Khilafat.pdf) halaman 9.
 
 <!--
-
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzEzNjQzMzgsLTE3MDI2Mjg3MDcsLT
-E5NjA1Mzc0MjAsLTExMDEyNjAwNzMsMTUzNDIzMDg2NSwtMzIy
-MTgzNTM5LC01ODkwMTIyNjQsLTYzNTc2OTc1MywyMDQ3NjI4OD
-Y1LC01MTM0NjcyMTQsLTE3OTU0Njk3NzksNDEzNzkwOTY4LC0x
-MjgxMjk5MDM2XX0=
+eyJoaXN0b3J5IjpbMTUzMjY0NjUyNCwtMTcwMjYyODcwNywtMT
+k2MDUzNzQyMCwtMTEwMTI2MDA3MywxNTM0MjMwODY1LC0zMjIx
+ODM1MzksLTU4OTAxMjI2NCwtNjM1NzY5NzUzLDIwNDc2Mjg4Nj
+UsLTUxMzQ2NzIxNCwtMTc5NTQ2OTc3OSw0MTM3OTA5NjgsLTEy
+ODEyOTkwMzZdfQ==
 -->
