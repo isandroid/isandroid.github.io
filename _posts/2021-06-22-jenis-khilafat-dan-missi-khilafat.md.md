@@ -34,10 +34,15 @@ Apakah seorang khalifah harus memiliki kerajaan? Hadhrat Mushlih Mau'ud (ra) ber
 > 
 > Tetapi jika Nabi kebetulan tanpa kerajaan, dari mana datangnya Khalifahnya? Karena Tuhan telah menganugerahkan kerajaan duniawi dan ruhani kepada Rasulullah (saw), maka khalifahnya juga diberikan kedua karunia ini (kerajaan duniawi dan kerajaan ruhani). Tapi sekarang, karena Tuhan tidak menjamin kerajaan duniawi kepada Hadhrat Masih Mau'ud as, maka apakah Khalifahnya harus berjuang untuk memilikinya? Mereka yang mengajukan keberatan ini tidak sepenuhnya merenungkan kata 'Khalifah' [[^barakat-e-khilafat_p12]].
 
+Peri kehidupan khalifah menurut Hadhrat Mushlih Mau'ud (ra) adalah:
 
-
+> Kalian mempunyai seseorang yang memiliki simpati sejati untuk kalian; Orang yang benar-benar mencintai kalian; Orang yang ikut merasakan rasa sakit dan penderitaan kalian; dan Orang yang selalu berdoa kepada Allah Ta'ala untuk kalian. 
+>
+> Kalian memiliki seseorang yang selalu mengkhawatirkan kesejahteraan kalian, orang yang menempatkan dirinya dalam masalah demi kalian, dan orang yang berdoa dengan gelisah di hadapan Tuhannya demi kenyamanan dan kedamaian kalian [[^barakat-e-khilafat_p6]].
 
 #### Pengertian Khilafat
+
+
 
 ### Jenis-Jenis Khalifah
 
@@ -77,9 +82,9 @@ Apakah seorang khalifah harus memiliki kerajaan? Hadhrat Mushlih Mau'ud (ra) ber
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjc1NDU1ODI2LDEzNTk2MDM0MzEsLTExNz
-EzNjQzMzgsLTE3MDI2Mjg3MDcsLTE5NjA1Mzc0MjAsLTExMDEy
-NjAwNzMsMTUzNDIzMDg2NSwtMzIyMTgzNTM5LC01ODkwMTIyNj
-QsLTYzNTc2OTc1MywyMDQ3NjI4ODY1LC01MTM0NjcyMTQsLTE3
-OTU0Njk3NzksNDEzNzkwOTY4LC0xMjgxMjk5MDM2XX0=
+eyJoaXN0b3J5IjpbLTE3NzAzNTQ4NTQsMTM1OTYwMzQzMSwtMT
+E3MTM2NDMzOCwtMTcwMjYyODcwNywtMTk2MDUzNzQyMCwtMTEw
+MTI2MDA3MywxNTM0MjMwODY1LC0zMjIxODM1MzksLTU4OTAxMj
+I2NCwtNjM1NzY5NzUzLDIwNDc2Mjg4NjUsLTUxMzQ2NzIxNCwt
+MTc5NTQ2OTc3OSw0MTM3OTA5NjgsLTEyODEyOTkwMzZdfQ==
 -->
