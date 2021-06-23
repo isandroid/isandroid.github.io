@@ -52,7 +52,6 @@ Peri kehidupan khalifah menurut Hadhrat Mushlih Mau'ud (ra) adalah:
 #### Pengertian Khilafat
 
 
-
 ### Jenis-Jenis Khalifah
 
 
@@ -91,7 +90,7 @@ Peri kehidupan khalifah menurut Hadhrat Mushlih Mau'ud (ra) adalah:
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDg0MDgxMTY4LC0xNDQzMDczOTQsLTE3Nz
+eyJoaXN0b3J5IjpbODIzNzQ4MDAyLC0xNDQzMDczOTQsLTE3Nz
 AzNTQ4NTQsMTM1OTYwMzQzMSwtMTE3MTM2NDMzOCwtMTcwMjYy
 ODcwNywtMTk2MDUzNzQyMCwtMTEwMTI2MDA3MywxNTM0MjMwOD
 Y1LC0zMjIxODM1MzksLTU4OTAxMjI2NCwtNjM1NzY5NzUzLDIw
