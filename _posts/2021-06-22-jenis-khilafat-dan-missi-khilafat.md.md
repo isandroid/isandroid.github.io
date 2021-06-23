@@ -29,7 +29,9 @@ Peri kehidupan khalifah menurut Hadhrat Mushlih Mau'ud (ra) adalah:
 
 Hadhrat Khalifatul Masih II (ra) menceritakan pengalaman beliau sebagai seorang khalifah,
 
-> Saya selalu menderita dari satu penyakit atau lainnya bahkan sebelum saya menjadi Khalifah. Tetapi sekarang kalian telah melihat bahwa sejak hari pemilihan saya (menjadi seorang khalifah), saya merasa sehat hanya dalam beberapa hari. Jika saya sangat gembira telah mencapai Khilafat dan menginginkannya, saya seharusnya menjadi lebih sehat dan menambah berat badan setelah mencapainya. Seandainya saya berusaha mendapatkannya selama enam tahun terakhir, seperti yang dituduhkan oleh orang-orang yang tidak percaya pada Khilafat, saya seharusnya menjadi lebih sehat sekarang dengan kegembiraan karena telah mencapainya. Tapi itu tidak terjadi. Di masa kanak-kanak saya, setiap kali ibu saya menyatakan kecemasan karena kesehatan saya yang buruk, Hadhrat Masih Mau'ud as akan mengatakan "Dia akan menjadi lebih sehat ketika dia mengalami kebahagiaan", dan akan mengutip contoh Khawaja [Kamalud-Din] bahwa dia juga sangat bersandar sebelum lulus ujian hukum. Setelah mengetahui bahwa dia telah lulus ujian, dia menambah banyak berat badan dalam waktu yang sangat singkat. Jadi jika Khilafat telah menjadi kerajaan yang sangat ingin saya capai, maka saya seharusnya menjadi lebih sehat setelah mendapatkannya. Tetapi mereka yang menemani saya dan akrab dengan hidup saya tahu betul tentang masa-masa sulit yang saya lalui. Rasa sakit yang saya derita hanya diketahui oleh saya.
+> Saya selalu menderita dari satu penyakit atau lainnya bahkan sebelum saya menjadi Khalifah. Tetapi sekarang kalian telah melihat bahwa sejak hari pemilihan saya (menjadi seorang khalifah), saya merasa sehat hanya dalam beberapa hari. 
+> 
+> Jika saya sangat gembira telah mencapai Khilafat dan menginginkannya, saya seharusnya menjadi lebih sehat dan menambah berat badan setelah mencapainya. Seandainya saya berusaha mendapatkannya selama enam tahun terakhir, seperti yang dituduhkan oleh orang-orang yang tidak percaya pada Khilafat, saya seharusnya menjadi lebih sehat sekarang dengan kegembiraan karena telah mencapainya. Tapi itu tidak terjadi. 
 
 <!-- Biasanya seorang khalifah juga dipanggil *amiirul-mu'miniin* (أمير المؤمنين) atau "pemimpin orang-orang yang beriman". -->
 
@@ -70,8 +72,9 @@ Dalam Kamus Besar Bahasa Indonesia (KBBI), kata khalifah berarti wakil atau peng
 
 [^barakat-e-khilafat_p7]: Hadhrat Mirza Basyiruddin Mahmud Ahmad, [*Barakat-e-Khilafat* atau *Blessings-of-Khilafat*](https://www.alislam.org/library/books/Blessings-of-Khilafat.pdf) halaman 7.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NjA1Mzc0MjAsLTExMDEyNjAwNzMsMT
-UzNDIzMDg2NSwtMzIyMTgzNTM5LC01ODkwMTIyNjQsLTYzNTc2
-OTc1MywyMDQ3NjI4ODY1LC01MTM0NjcyMTQsLTE3OTU0Njk3Nz
-ksNDEzNzkwOTY4LC0xMjgxMjk5MDM2XX0=
+eyJoaXN0b3J5IjpbLTE3MDI2Mjg3MDcsLTE5NjA1Mzc0MjAsLT
+ExMDEyNjAwNzMsMTUzNDIzMDg2NSwtMzIyMTgzNTM5LC01ODkw
+MTIyNjQsLTYzNTc2OTc1MywyMDQ3NjI4ODY1LC01MTM0NjcyMT
+QsLTE3OTU0Njk3NzksNDEzNzkwOTY4LC0xMjgxMjk5MDM2XX0=
+
 -->
