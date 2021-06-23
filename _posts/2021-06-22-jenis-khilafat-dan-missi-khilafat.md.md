@@ -19,7 +19,14 @@ Sedangkan kata dalam bentuk "*kholfun*" berarti di belakang, di punggung dan set
 
 Hadhrat Mushlih Mau'ud (ra) bersabda,
 
-Khalifah adalah gelar yang diberikan untuk menjadi penerus  para pendahulunya [[^barakat-e-khilafat_p7]]. Biasanya seorang khalifah juga dipanggil *amiirul-mu'miniin* (أمير المؤمنين) atau "pemimpin orang-orang yang beriman".
+Khalifah adalah gelar yang diberikan untuk menjadi penerus  para pendahulunya [[^barakat-e-khilafat_p7]]. 
+
+Khalifah menurut Hadhrat Mushlih Mau'u
+Anda memiliki seseorang yang memiliki simpati sejati untuk Anda; siapa
+benar-benar mencintaimu; yang menganggap rasa sakit dan penderitaan Anda untuk
+menjadi miliknya; dan yang selalu berdoa kepada Allah untukmu.
+
+<!-- Biasanya seorang khalifah juga dipanggil *amiirul-mu'miniin* (أمير المؤمنين) atau "pemimpin orang-orang yang beriman". -->
 
 Dalam Kamus Besar Bahasa Indonesia (KBBI), kata khalifah berarti wakil atau pengganti Nabi Muhammad saw. setelah beliau wafat baik dalam urusan negara dan agama yang melaksanakan syariat atau hukum agama Islam dalam kehidupan negara. Arti kedua dari kata khalifah adalah gelar kepala agama dan raja di negara Islam. Arti ketiga dari kata khalifah adalah penguasa atau pengelola [[^kbbi_khalifah]].
 
@@ -56,7 +63,7 @@ Dalam Kamus Besar Bahasa Indonesia (KBBI), kata khalifah berarti wakil atau peng
 
 [^barakat-e-khilafat_p7]: Hadhrat Mirza Basyiruddin Mahmud Ahmad, [*Barakat-e-Khilafat* atau *Blessings-of-Khilafat*](https://www.alislam.org/library/books/Blessings-of-Khilafat.pdf) halaman 7.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzNTc2OTc1MywyMDQ3NjI4ODY1LC01MT
-M0NjcyMTQsLTE3OTU0Njk3NzksNDEzNzkwOTY4LC0xMjgxMjk5
-MDM2XX0=
+eyJoaXN0b3J5IjpbMTk3NjcxMTExOSwtNjM1NzY5NzUzLDIwND
+c2Mjg4NjUsLTUxMzQ2NzIxNCwtMTc5NTQ2OTc3OSw0MTM3OTA5
+NjgsLTEyODEyOTkwMzZdfQ==
 -->
