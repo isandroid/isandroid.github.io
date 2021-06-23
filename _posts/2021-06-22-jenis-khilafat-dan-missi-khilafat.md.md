@@ -23,7 +23,18 @@ Hadhrat Mushlih Mau'ud (ra) bersabda,
 
 Khalifah menurut Hadhrat Mushlih Mau'ud (ra) adalah:
 
-> Engkau mempunyai seseorang yang memiliki simpati sejati untukmu; Orang yang benar-benar mencintaimu; Orang yang ikut merasakan rasa sakit dan penderitaanmu; dan Orang yang selalu berdoa kepada Allah Ta'ala untukmu [[^barakat-e-khilafat_p6]].
+> Engkau mempunyai seseorang yang memiliki simpati sejati untukmu; Orang yang benar-benar mencintaimu; Orang yang ikut merasakan rasa sakit dan penderitaanmu; dan Orang yang selalu berdoa kepada Allah Ta'ala untukmu. 
+>
+> Anda memiliki seseorang yang selalu mengkhawatirkan kesejahteraan Anda, yang
+menempatkan dirinya dalam masalah demi Anda, dan yang berdoa dengan gelisah
+di hadapan Tuhannya demi kenyamanan dan kedamaianmu. Tapi mereka
+tidak ada yang bisa melakukan ini atas nama mereka. Harus menjaga
+hanya satu orang membuat satu gelisah. Dapatkah Anda membayangkan
+kondisi seseorang yang harus menjaga bukan hanya ratusan tapi
+jutaan orang yang menderita berbagai masalah? Karena itu,
+Anda harus tahu bahwa kebebasan Anda tidak dilanggar di
+cara apapun. Sebaliknya, beban tanggung jawab yang berat telah
+telah ditempatkan, demi Anda, pada seseorang yang sebebas Anda[[^barakat-e-khilafat_p6]].
 
 <!-- Biasanya seorang khalifah juga dipanggil *amiirul-mu'miniin* (أمير المؤمنين) atau "pemimpin orang-orang yang beriman". -->
 
@@ -64,7 +75,8 @@ Dalam Kamus Besar Bahasa Indonesia (KBBI), kata khalifah berarti wakil atau peng
 
 [^barakat-e-khilafat_p7]: Hadhrat Mirza Basyiruddin Mahmud Ahmad, [*Barakat-e-Khilafat* atau *Blessings-of-Khilafat*](https://www.alislam.org/library/books/Blessings-of-Khilafat.pdf) halaman 7.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyMjE4MzUzOSwtNTg5MDEyMjY0LC02Mz
-U3Njk3NTMsMjA0NzYyODg2NSwtNTEzNDY3MjE0LC0xNzk1NDY5
-Nzc5LDQxMzc5MDk2OCwtMTI4MTI5OTAzNl19
+eyJoaXN0b3J5IjpbLTIyNjIzOTQ2NCwtMzIyMTgzNTM5LC01OD
+kwMTIyNjQsLTYzNTc2OTc1MywyMDQ3NjI4ODY1LC01MTM0Njcy
+MTQsLTE3OTU0Njk3NzksNDEzNzkwOTY4LC0xMjgxMjk5MDM2XX
+0=
 -->
