@@ -13,13 +13,13 @@ published: true
 
 Dalam bahasa arab, **Khilafat** dan **Khalifah** memiliki akar kata yang sama, yaitu kata "*kho-la-fa*" yang artinya menggantikan, mengangkat, mengikuti dan mengambil tempat [[^fn-kata-kholafa]].
 
-Sedangkan dalam bentuk yakni "*kholfun*" berarti di belakang, di punggung dan setelah. [[^fn-kata-kholafa]]
+Sedangkan kata dalam bentuk "*kholfun*" berarti di belakang, di punggung dan setelah. [[^fn-kata-kholafa]]
 
 #### Pengertian Khalifah
 
 Hadhrat Mushlih Mau'ud (ra) bersabda,
 
-Khalifah adalah gelar yang diberikan untuk menjadi penerus  para pendahulunya [[^the_blessings_of_khilafat_p7]]. Biasanya seorang khalifah juga dipanggil *amiirul-mu'miniin* (أمير المؤمنين) atau "pemimpin orang-orang yang beriman".
+Khalifah adalah gelar yang diberikan untuk menjadi penerus  para pendahulunya [[^barakat-e-khilafat_p7]]. Biasanya seorang khalifah juga dipanggil *amiirul-mu'miniin* (أمير المؤمنين) atau "pemimpin orang-orang yang beriman".
 
 Dalam Kamus Besar Bahasa Indonesia (KBBI), kata khalifah berarti wakil atau pengganti Nabi Muhammad saw. setelah beliau wafat baik dalam urusan negara dan agama yang melaksanakan syariat atau hukum agama Islam dalam kehidupan negara. Arti kedua dari kata khalifah adalah gelar kepala agama dan raja di negara Islam. Arti ketiga dari kata khalifah adalah penguasa atau pengelola [[^kbbi_khalifah]].
 
@@ -54,9 +54,9 @@ Dalam Kamus Besar Bahasa Indonesia (KBBI), kata khalifah berarti wakil atau peng
 
 [^kbbi_khalifah]: [Kamus Besar Bahasa Indonesia dalam kata Khalifah - diakses 22 Juni 2021](https://kbbi.kemdikbud.go.id/entri/khalifah)
 
-[^barakat-e-khilafat_p7]: Hadhrat Mirza Basyiruddin Mahmud Ahmad, [Barakat-e-Khilafat](https://www.alislam.org/library/books/Blessings-of-Khilafat.pdf) halaman 7.
+[^barakat-e-khilafat_p7]: Hadhrat Mirza Basyiruddin Mahmud Ahmad, [*Barakat-e-Khilafat* atau *Blessings-of-Khilafat*](https://www.alislam.org/library/books/Blessings-of-Khilafat.pdf) halaman 7.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDExOTU4MzYsMjA0NzYyODg2NSwtNT
-EzNDY3MjE0LC0xNzk1NDY5Nzc5LDQxMzc5MDk2OCwtMTI4MTI5
-OTAzNl19
+eyJoaXN0b3J5IjpbLTYzNTc2OTc1MywyMDQ3NjI4ODY1LC01MT
+M0NjcyMTQsLTE3OTU0Njk3NzksNDEzNzkwOTY4LC0xMjgxMjk5
+MDM2XX0=
 -->
