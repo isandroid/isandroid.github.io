@@ -33,7 +33,9 @@ Peri kehidupan khalifah menurut Hadhrat Mushlih Mau'ud (ra) adalah:
 
 Apakah seorang khalifah harus menjadi seperti raja? Hadhrat Mushlih Mau'ud (ra) bersabda,
 
-> ...Orang yang menggantikan pekerjaan seorang Nabi adalah Khalifah dari Nabi itu. Jika Allah menganugerahkan kerajaan kepada Nabi-Nya, Khalifahnya juga akan berhak atasnya dan Allah pasti akan menjamin kerajaan itu atas dirinya. Tetapi jika Nabi kebetulan tanpa kerajaan, dari mana datangnya Khalifahnya? Karena Tuhan telah menganugerahkan kerajaan duniawi dan spiritual kepada Nabi Suci, maka Khulafanya juga diberikan kedua karunia ini. Tapi sekarang, karena Tuhan tidak menjamin kerajaan duniawi atas Hadhrat Masih Mau'ud as, dengan siapa Khalifahnya harus berjuang untuk memilikinya? Mereka yang mengajukan keberatan ini tidak sepenuhnya merenungkan kata 'Khalifah'
+> ...Orang yang menggantikan pekerjaan seorang Nabi adalah Khalifah dari Nabi itu. Jika Allah menganugerahkan kerajaan kepada Nabi-Nya, Khalifahnya juga akan berhak atasnya dan Allah pasti akan menjamin kerajaan itu atas dirinya. 
+> 
+> Tetapi jika Nabi kebetulan tanpa kerajaan, dari mana datangnya Khalifahnya? Karena Tuhan telah menganugerahkan kerajaan duniawi dan ruhani kepada Rasulullah (saw), maka khalifahnya juga diberikan kedua karunia ini (kerajaan duniawi dan kerajaan ruhani). Tapi sekarang, karena Tuhan tidak menjamin kerajaan duniawi kepada Hadhrat Masih Mau'ud as, dengan siapa Khalifahnya harus berjuang untuk memilikinya? Mereka yang mengajukan keberatan ini tidak sepenuhnya merenungkan kata 'Khalifah'
 
 
 
@@ -75,9 +77,9 @@ Apakah seorang khalifah harus menjadi seperti raja? Hadhrat Mushlih Mau'ud (ra) 
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjk4NTA5NDAzLC0xMTcxMzY0MzM4LC0xNz
-AyNjI4NzA3LC0xOTYwNTM3NDIwLC0xMTAxMjYwMDczLDE1MzQy
-MzA4NjUsLTMyMjE4MzUzOSwtNTg5MDEyMjY0LC02MzU3Njk3NT
-MsMjA0NzYyODg2NSwtNTEzNDY3MjE0LC0xNzk1NDY5Nzc5LDQx
-Mzc5MDk2OCwtMTI4MTI5OTAzNl19
+eyJoaXN0b3J5IjpbLTEwMTExODA5MjksLTExNzEzNjQzMzgsLT
+E3MDI2Mjg3MDcsLTE5NjA1Mzc0MjAsLTExMDEyNjAwNzMsMTUz
+NDIzMDg2NSwtMzIyMTgzNTM5LC01ODkwMTIyNjQsLTYzNTc2OT
+c1MywyMDQ3NjI4ODY1LC01MTM0NjcyMTQsLTE3OTU0Njk3Nzks
+NDEzNzkwOTY4LC0xMjgxMjk5MDM2XX0=
 -->
