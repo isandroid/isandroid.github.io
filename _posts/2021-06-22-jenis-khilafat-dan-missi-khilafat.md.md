@@ -52,8 +52,8 @@ Peri kehidupan khalifah menurut Hadhrat Mushlih Mau'ud (ra) adalah:
 #### Pengertian Khilafat
 
 
-### Jenis-Jenis Khalifah
 
+### Jenis-Jenis Khalifah
 
 
 ### Dasar Kemunculan Khalifah Rosyidah dan Khalifatul Masih
@@ -90,10 +90,10 @@ Peri kehidupan khalifah menurut Hadhrat Mushlih Mau'ud (ra) adalah:
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODIzNzQ4MDAyLC0xNDQzMDczOTQsLTE3Nz
-AzNTQ4NTQsMTM1OTYwMzQzMSwtMTE3MTM2NDMzOCwtMTcwMjYy
-ODcwNywtMTk2MDUzNzQyMCwtMTEwMTI2MDA3MywxNTM0MjMwOD
-Y1LC0zMjIxODM1MzksLTU4OTAxMjI2NCwtNjM1NzY5NzUzLDIw
-NDc2Mjg4NjUsLTUxMzQ2NzIxNCwtMTc5NTQ2OTc3OSw0MTM3OT
-A5NjgsLTEyODEyOTkwMzZdfQ==
+eyJoaXN0b3J5IjpbMTQxMTg2OTg1OCwtMTQ0MzA3Mzk0LC0xNz
+cwMzU0ODU0LDEzNTk2MDM0MzEsLTExNzEzNjQzMzgsLTE3MDI2
+Mjg3MDcsLTE5NjA1Mzc0MjAsLTExMDEyNjAwNzMsMTUzNDIzMD
+g2NSwtMzIyMTgzNTM5LC01ODkwMTIyNjQsLTYzNTc2OTc1Mywy
+MDQ3NjI4ODY1LC01MTM0NjcyMTQsLTE3OTU0Njk3NzksNDEzNz
+kwOTY4LC0xMjgxMjk5MDM2XX0=
 -->
