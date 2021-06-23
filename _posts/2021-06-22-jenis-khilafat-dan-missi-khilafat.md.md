@@ -21,6 +21,8 @@ Hadhrat Mushlih Mau'ud (ra) bersabda,
 
 > Kata Khalifah digunakan untuk orang yang melanjutkan pekerjaan dari pendahulunya. [[^barakat-e-khilafat_p7]]. 
 
+Kata Khalifah berarti seseorang yang menggantikan orang lain dan melanjutkan pekerjaan pendahulunya. Untuk memahami fungsi dari penerus, kita harus melihat fungsi dari pendahulunya.
+
 Peri kehidupan khalifah menurut Hadhrat Mushlih Mau'ud (ra) adalah:
 
 > Kalian mempunyai seseorang yang memiliki simpati sejati untuk kalian; Orang yang benar-benar mencintai kalian; Orang yang ikut merasakan rasa sakit dan penderitaan kalian; dan Orang yang selalu berdoa kepada Allah Ta'ala untuk kalian. 
@@ -67,7 +69,7 @@ Peri kehidupan khalifah menurut Hadhrat Mushlih Mau'ud (ra) adalah:
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwOTg4Nzk4LC0xNzAyNjI4NzA3LC0xOT
+eyJoaXN0b3J5IjpbLTkwNTE4NzUzLC0xNzAyNjI4NzA3LC0xOT
 YwNTM3NDIwLC0xMTAxMjYwMDczLDE1MzQyMzA4NjUsLTMyMjE4
 MzUzOSwtNTg5MDEyMjY0LC02MzU3Njk3NTMsMjA0NzYyODg2NS
 wtNTEzNDY3MjE0LC0xNzk1NDY5Nzc5LDQxMzc5MDk2OCwtMTI4
