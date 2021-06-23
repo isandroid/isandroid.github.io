@@ -26,7 +26,7 @@ Hadhrat Mushlih Mau'ud (ra) bersabda,
 Menurut bahasa arab, Khalifah adalah:
 1. orang yang menggantikan seseorang,
 2. orang yang digantikan oleh seseorang, dan
-3. orang yang mengeluarkan perintah dan perintah dan membuatnya dieksekusi.
+3. orang yang mengeluarkan perintah dan tugas dan membuat mereka melaksanakannya.
 
 Peri kehidupan khalifah menurut Hadhrat Mushlih Mau'ud (ra) adalah:
 
@@ -82,9 +82,9 @@ Apakah seorang khalifah harus memiliki kerajaan? Hadhrat Mushlih Mau'ud (ra) ber
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MjA4NjE0MTIsMTM1OTYwMzQzMSwtMT
-E3MTM2NDMzOCwtMTcwMjYyODcwNywtMTk2MDUzNzQyMCwtMTEw
-MTI2MDA3MywxNTM0MjMwODY1LC0zMjIxODM1MzksLTU4OTAxMj
-I2NCwtNjM1NzY5NzUzLDIwNDc2Mjg4NjUsLTUxMzQ2NzIxNCwt
-MTc5NTQ2OTc3OSw0MTM3OTA5NjgsLTEyODEyOTkwMzZdfQ==
+eyJoaXN0b3J5IjpbMTA2NTg4ODYyMiwxMzU5NjAzNDMxLC0xMT
+cxMzY0MzM4LC0xNzAyNjI4NzA3LC0xOTYwNTM3NDIwLC0xMTAx
+MjYwMDczLDE1MzQyMzA4NjUsLTMyMjE4MzUzOSwtNTg5MDEyMj
+Y0LC02MzU3Njk3NTMsMjA0NzYyODg2NSwtNTEzNDY3MjE0LC0x
+Nzk1NDY5Nzc5LDQxMzc5MDk2OCwtMTI4MTI5OTAzNl19
 -->
