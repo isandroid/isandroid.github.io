@@ -15,7 +15,7 @@ Allah Ta'ala berfirman dalam QS An-Nur (24) ayat 56:
 وَعَدَ اللّٰہُ الَّذِیۡنَ اٰمَنُوۡا مِنۡکُمۡ وَعَمِلُوا الصّٰلِحٰتِ لَیَسۡتَخۡلِفَنَّہُمۡ فِی الۡاَرۡضِ کَمَا اسۡتَخۡلَفَ الَّذِیۡنَ مِنۡ قَبۡلِہِمۡ وَلَیُمَکِّنَنَّ لَہُمۡ دِیۡنَہُمُ الَّذِی ارۡتَضٰی لَہُمۡ وَلَیُبَدِّلَنَّہُمۡ مِّنۡۢ بَعۡدِ خَوۡفِہِمۡ اَمۡنًا ۚ یَعۡبُدُوۡنَنِیۡ لَا یُشۡرِکُوۡنَ بِیۡ شَیۡـًٔا ۚ وَمَنۡ کَفَرَ بَعۡدَ ذٰلِکَ فَاُولٰٓئِکَ ہُمُ الۡفٰسِقُوۡنَ
 </p>
 
-> "Allah telah berjanji kepada orang-orang yang beriman dari antara kamu dan berbuat amal saleh, bahwa Dia pasti akan menjadikan mereka itu khalifah di bumi ini, sebagaimana Dia telah menjadikan khalifah orang-orang yang sebelum mereka; dan Dia pasti akan meneguhkan bagi mereka agama mereka, yang telah Dia ridhai bagi mereka; dan pasti Dia akan memberi mereka keamanan _dan kedamaian_ sebagai pengganti sesudah ketakutan _mencekam_ mereka. Mereka akan menyembah Aku, dan mereka tidak akan mempersekutukan sesuatu dengan Aku. Dan barangsiapa ingkar sesudah itu, mereka itulah orang-orang durhaka."
+> "Allah telah berjanji kepada orang-orang yang beriman dari antara kamu dan berbuat amal saleh, bahwa Dia pasti akan menjadikan mereka itu khalifah di bumi ini, sebagaimana Dia telah menjadikan khalifah orang-orang yang sebelum mereka; dan Dia pasti akan meneguhkan bagi mereka agama mereka, yang telah Dia ridhai bagi mereka; dan pasti Dia akan memberi mereka keamanan _dan kedamaian_ sebagai pengganti sesudah ketakutan _mencekam_ mereka. Mereka akan menyembah Aku, dan mereka tidak akan mempersekutukan sesuatu dengan Aku. Dan barangsiapa ingkar sesudah itu, mereka itulah orang-orang durhaka." ([QS 24:56](/ref/qrn-024-056))
 
 
 ### Pengertian Khilafat dan Khalifah
@@ -33,9 +33,9 @@ Hadhrat Mushlih Mau'ud (ra) bersabda,
 > Kata Khalifah berarti seseorang yang menggantikan orang lain dan melanjutkan pekerjaan pendahulunya. Untuk memahami tugas dari khalifah, kita harus melihat tugas dari pendahulunya [[^barakat-e-khilafat_p9]].
 
 Menurut bahasa arab, Khalifah adalah:
-1. orang yang menggantikan seseorang (sebelumnya),
-2. orang yang digantikan oleh seseorang, dan
-3. orang yang mengeluarkan perintah dan tugas dan membuat mereka melaksanakannya [[^barakat-e-khilafat_p13]].
+1. Orang yang menggantikan seseorang (sebelumnya),
+2. Orang yang digantikan oleh seseorang, dan
+3. Orang yang mengeluarkan perintah dan tugas dan membuat mereka (para pengikut) melaksanakannya [[^barakat-e-khilafat_p13]].
 
 Apakah seorang khalifah harus memiliki kerajaan? Hadhrat Mushlih Mau'ud (ra) bersabda,
 
@@ -91,10 +91,10 @@ Peri kehidupan khalifah menurut Hadhrat Mushlih Mau'ud (ra) adalah:
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDMwNzM5NCwtMTc3MDM1NDg1NCwxMz
-U5NjAzNDMxLC0xMTcxMzY0MzM4LC0xNzAyNjI4NzA3LC0xOTYw
-NTM3NDIwLC0xMTAxMjYwMDczLDE1MzQyMzA4NjUsLTMyMjE4Mz
-UzOSwtNTg5MDEyMjY0LC02MzU3Njk3NTMsMjA0NzYyODg2NSwt
-NTEzNDY3MjE0LC0xNzk1NDY5Nzc5LDQxMzc5MDk2OCwtMTI4MT
-I5OTAzNl19
+eyJoaXN0b3J5IjpbLTkyNTczMzAzMCwtMTQ0MzA3Mzk0LC0xNz
+cwMzU0ODU0LDEzNTk2MDM0MzEsLTExNzEzNjQzMzgsLTE3MDI2
+Mjg3MDcsLTE5NjA1Mzc0MjAsLTExMDEyNjAwNzMsMTUzNDIzMD
+g2NSwtMzIyMTgzNTM5LC01ODkwMTIyNjQsLTYzNTc2OTc1Mywy
+MDQ3NjI4ODY1LC01MTM0NjcyMTQsLTE3OTU0Njk3NzksNDEzNz
+kwOTY4LC0xMjgxMjk5MDM2XX0=
 -->
