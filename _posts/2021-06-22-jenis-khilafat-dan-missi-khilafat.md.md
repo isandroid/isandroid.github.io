@@ -51,7 +51,7 @@ Peri kehidupan khalifah menurut Hadhrat Mushlih Mau'ud (ra) adalah:
 
 #### Pengertian Khilafat
 
-
+Kata Khilafah berarti suksesi atau penggantian, dan Khalifah adalah penerus seorang Nabi Allah yang tujuannya adalah melanjutkan tugas-tugas reformasi dan tarbiyat akhlak yang disemaikan oleh Nabi. Jamaah pengikut Nabi Allah terus memelihara akidah dan sunnah-sunnah di bawah berkat lembaga Khilafah selama Allah kehendaki. 
 
 ### Jenis-Jenis Khalifah
 
@@ -91,10 +91,10 @@ Peri kehidupan khalifah menurut Hadhrat Mushlih Mau'ud (ra) adalah:
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0Mzc0MjIyODQsMTQxMTg2OTg1OCwtMT
-Q0MzA3Mzk0LC0xNzcwMzU0ODU0LDEzNTk2MDM0MzEsLTExNzEz
-NjQzMzgsLTE3MDI2Mjg3MDcsLTE5NjA1Mzc0MjAsLTExMDEyNj
-AwNzMsMTUzNDIzMDg2NSwtMzIyMTgzNTM5LC01ODkwMTIyNjQs
-LTYzNTc2OTc1MywyMDQ3NjI4ODY1LC01MTM0NjcyMTQsLTE3OT
-U0Njk3NzksNDEzNzkwOTY4LC0xMjgxMjk5MDM2XX0=
+eyJoaXN0b3J5IjpbLTMxMTM0MjQ5OSwxNDExODY5ODU4LC0xND
+QzMDczOTQsLTE3NzAzNTQ4NTQsMTM1OTYwMzQzMSwtMTE3MTM2
+NDMzOCwtMTcwMjYyODcwNywtMTk2MDUzNzQyMCwtMTEwMTI2MD
+A3MywxNTM0MjMwODY1LC0zMjIxODM1MzksLTU4OTAxMjI2NCwt
+NjM1NzY5NzUzLDIwNDc2Mjg4NjUsLTUxMzQ2NzIxNCwtMTc5NT
+Q2OTc3OSw0MTM3OTA5NjgsLTEyODEyOTkwMzZdfQ==
 -->
