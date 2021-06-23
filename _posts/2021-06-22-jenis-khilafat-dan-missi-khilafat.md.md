@@ -12,10 +12,10 @@ published: true
 Allah Ta'ala berfirman dalam QS An-Nur (24) ayat 56:
 
 <p class="quran">
--   وَعَدَ اللّٰہُ الَّذِیۡنَ اٰمَنُوۡا مِنۡکُمۡ وَعَمِلُوا الصّٰلِحٰتِ لَیَسۡتَخۡلِفَنَّہُمۡ فِی الۡاَرۡضِ کَمَا اسۡتَخۡلَفَ الَّذِیۡنَ مِنۡ قَبۡلِہِمۡ وَلَیُمَکِّنَنَّ لَہُمۡ دِیۡنَہُمُ الَّذِی ارۡتَضٰی لَہُمۡ وَلَیُبَدِّلَنَّہُمۡ مِّنۡۢ بَعۡدِ خَوۡفِہِمۡ اَمۡنًا ۚ یَعۡبُدُوۡنَنِیۡ لَا یُشۡرِکُوۡنَ بِیۡ شَیۡـًٔا ۚ وَمَنۡ کَفَرَ بَعۡدَ ذٰلِکَ فَاُولٰٓئِکَ ہُمُ الۡفٰسِقُوۡنَ
-    
--   ![](https://openquran.com/files/iconExegesisDefault.svg)
+وَعَدَ اللّٰہُ الَّذِیۡنَ اٰمَنُوۡا مِنۡکُمۡ وَعَمِلُوا الصّٰلِحٰتِ لَیَسۡتَخۡلِفَنَّہُمۡ فِی الۡاَرۡضِ کَمَا اسۡتَخۡلَفَ الَّذِیۡنَ مِنۡ قَبۡلِہِمۡ وَلَیُمَکِّنَنَّ لَہُمۡ دِیۡنَہُمُ الَّذِی ارۡتَضٰی لَہُمۡ وَلَیُبَدِّلَنَّہُمۡ مِّنۡۢ بَعۡدِ خَوۡفِہِمۡ اَمۡنًا ۚ یَعۡبُدُوۡنَنِیۡ لَا یُشۡرِکُوۡنَ بِیۡ شَیۡـًٔا ۚ وَمَنۡ کَفَرَ بَعۡدَ ذٰلِکَ فَاُولٰٓئِکَ ہُمُ الۡفٰسِقُوۡنَ
 </p>
+
+
 
 ### Pengertian Khilafat dan Khalifah
 
@@ -90,7 +90,7 @@ Peri kehidupan khalifah menurut Hadhrat Mushlih Mau'ud (ra) adalah:
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg0Mjc2NDk1OSwtMTc3MDM1NDg1NCwxMz
+eyJoaXN0b3J5IjpbLTY5NzcxNTkyMCwtMTc3MDM1NDg1NCwxMz
 U5NjAzNDMxLC0xMTcxMzY0MzM4LC0xNzAyNjI4NzA3LC0xOTYw
 NTM3NDIwLC0xMTAxMjYwMDczLDE1MzQyMzA4NjUsLTMyMjE4Mz
 UzOSwtNTg5MDEyMjY0LC02MzU3Njk3NTMsMjA0NzYyODg2NSwt
