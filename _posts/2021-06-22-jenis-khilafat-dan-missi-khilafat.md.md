@@ -27,17 +27,6 @@ Peri kehidupan khalifah menurut Hadhrat Mushlih Mau'ud (ra) adalah:
 >
 > Kalian memiliki seseorang yang selalu mengkhawatirkan kesejahteraan kalian, orang yang menempatkan dirinya dalam masalah demi kalian, dan orang yang berdoa dengan gelisah di hadapan Tuhannya demi kenyamanan dan kedamaian kalian [[^barakat-e-khilafat_p6]].
 
-Hadhrat Khalifatul Masih II (ra) menceritakan pengalaman beliau sebagai seorang khalifah,
-
-> Saya selalu menderita dari satu penyakit atau lainnya bahkan sebelum saya menjadi Khalifah. Tetapi sekarang kalian telah melihat bahwa sejak hari pemilihan saya (menjadi seorang khalifah), saya merasa sehat hanya dalam beberapa hari. 
-> 
-> Jika saya sangat gembira telah mencapai Khilafat dan menginginkannya, saya seharusnya menjadi lebih sehat dan menambah berat badan setelah mencapainya. Seandainya saya berusaha mendapatkannya selama enam tahun terakhir, seperti yang dituduhkan oleh orang-orang yang tidak percaya pada Khilafat, saya seharusnya menjadi lebih sehat sekarang dengan kegembiraan karena telah mencapainya. Tapi itu tidak terjadi. 
-
-<!-- Biasanya seorang khalifah juga dipanggil *amiirul-mu'miniin* (أمير المؤمنين) atau "pemimpin orang-orang yang beriman". -->
-
-Dalam Kamus Besar Bahasa Indonesia (KBBI), kata khalifah berarti wakil atau pengganti Nabi Muhammad saw. setelah beliau wafat baik dalam urusan negara dan agama yang melaksanakan syariat atau hukum agama Islam dalam kehidupan negara. Arti kedua dari kata khalifah adalah gelar kepala agama dan raja di negara Islam. Arti ketiga dari kata khalifah adalah penguasa atau pengelola [[^kbbi_khalifah]].
-
-
 
 #### Pengertian Khilafat
 
@@ -72,9 +61,9 @@ Dalam Kamus Besar Bahasa Indonesia (KBBI), kata khalifah berarti wakil atau peng
 
 [^barakat-e-khilafat_p7]: Hadhrat Mirza Basyiruddin Mahmud Ahmad, [*Barakat-e-Khilafat* atau *Blessings-of-Khilafat*](https://www.alislam.org/library/books/Blessings-of-Khilafat.pdf) halaman 7.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDI2Mjg3MDcsLTE5NjA1Mzc0MjAsLT
-ExMDEyNjAwNzMsMTUzNDIzMDg2NSwtMzIyMTgzNTM5LC01ODkw
-MTIyNjQsLTYzNTc2OTc1MywyMDQ3NjI4ODY1LC01MTM0NjcyMT
-QsLTE3OTU0Njk3NzksNDEzNzkwOTY4LC0xMjgxMjk5MDM2XX0=
-
+eyJoaXN0b3J5IjpbMzI0OTQzNTYzLC0xNzAyNjI4NzA3LC0xOT
+YwNTM3NDIwLC0xMTAxMjYwMDczLDE1MzQyMzA4NjUsLTMyMjE4
+MzUzOSwtNTg5MDEyMjY0LC02MzU3Njk3NTMsMjA0NzYyODg2NS
+wtNTEzNDY3MjE0LC0xNzk1NDY5Nzc5LDQxMzc5MDk2OCwtMTI4
+MTI5OTAzNl19
 -->
