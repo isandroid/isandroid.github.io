@@ -13,7 +13,7 @@ published: true
 
 Dalam bahasa arab, **Khilafat** dan **Khalifah** memiliki akar kata yang sama, yaitu kata "*kho-la-fa*" yang artinya menggantikan, mengangkat, mengikuti dan mengambil tempat [[^fn-kata-kholafa]].
 
-Sedangkan dalam *masdar* (kata benda), "*kholfun*" berarti di belakang, di punggung dan setelah. [[^fn-kata-kholafa]]
+Sedangkan dalam bentuk yakni "*kholfun*" berarti di belakang, di punggung dan setelah. [[^fn-kata-kholafa]]
 
 #### Pengertian Khalifah
 
@@ -56,6 +56,7 @@ Dalam Kamus Besar Bahasa Indonesia (KBBI), kata khalifah berarti wakil atau peng
 
 [^barakat-e-khilafat_p7]: Hadhrat Mirza Basyiruddin Mahmud Ahmad, [Barakat-e-Khilafat](https://www.alislam.org/library/books/Blessings-of-Khilafat.pdf) halaman 7.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0NzYyODg2NSwtNTEzNDY3MjE0LC0xNz
-k1NDY5Nzc5LDQxMzc5MDk2OCwtMTI4MTI5OTAzNl19
+eyJoaXN0b3J5IjpbLTE5MDExOTU4MzYsMjA0NzYyODg2NSwtNT
+EzNDY3MjE0LC0xNzk1NDY5Nzc5LDQxMzc5MDk2OCwtMTI4MTI5
+OTAzNl19
 -->
