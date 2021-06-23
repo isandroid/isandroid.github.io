@@ -73,6 +73,7 @@ Peri kehidupan khalifah menurut Hadhrat Mushlih Mau'ud (ra) adalah:
 
 
 <!-- Rujukan pd Al-Qur'an, Hadist,Sabda Hz Masih Mau'ud (as) dan para Khalifatul Masih -->
+
 ### Catatan Kaki
 
 [^fn-kata-kholafa]: [Kamus Almaany pencarian Kata _kho-la-fa_](https://www.almaany.com/id/dict/ar-id/%D8%AE%D9%84%D9%81/)
@@ -90,10 +91,10 @@ Peri kehidupan khalifah menurut Hadhrat Mushlih Mau'ud (ra) adalah:
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxMTg2OTg1OCwtMTQ0MzA3Mzk0LC0xNz
-cwMzU0ODU0LDEzNTk2MDM0MzEsLTExNzEzNjQzMzgsLTE3MDI2
-Mjg3MDcsLTE5NjA1Mzc0MjAsLTExMDEyNjAwNzMsMTUzNDIzMD
-g2NSwtMzIyMTgzNTM5LC01ODkwMTIyNjQsLTYzNTc2OTc1Mywy
-MDQ3NjI4ODY1LC01MTM0NjcyMTQsLTE3OTU0Njk3NzksNDEzNz
-kwOTY4LC0xMjgxMjk5MDM2XX0=
+eyJoaXN0b3J5IjpbLTE0Mzc0MjIyODQsMTQxMTg2OTg1OCwtMT
+Q0MzA3Mzk0LC0xNzcwMzU0ODU0LDEzNTk2MDM0MzEsLTExNzEz
+NjQzMzgsLTE3MDI2Mjg3MDcsLTE5NjA1Mzc0MjAsLTExMDEyNj
+AwNzMsMTUzNDIzMDg2NSwtMzIyMTgzNTM5LC01ODkwMTIyNjQs
+LTYzNTc2OTc1MywyMDQ3NjI4ODY1LC01MTM0NjcyMTQsLTE3OT
+U0Njk3NzksNDEzNzkwOTY4LC0xMjgxMjk5MDM2XX0=
 -->
