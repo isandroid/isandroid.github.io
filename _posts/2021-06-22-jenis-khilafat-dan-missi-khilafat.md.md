@@ -24,9 +24,9 @@ Hadhrat Mushlih Mau'ud (ra) bersabda,
 > Kata Khalifah berarti seseorang yang menggantikan orang lain dan melanjutkan pekerjaan pendahulunya. Untuk memahami tugas dari khalifah, kita harus melihat tugas dari pendahulunya [[^barakat-e-khilafat_p9]].
 
 Menurut bahasa arab, Khalifah adalah:
-1. orang yang menggantikan seseorang,
+1. orang yang menggantikan seseorang (sebelumnya),
 2. orang yang digantikan oleh seseorang, dan
-3. orang yang mengeluarkan perintah dan tugas dan membuat mereka melaksanakannya.
+3. orang yang mengeluarkan perintah dan tugas dan membuat mereka melaksanakannya .
 
 Peri kehidupan khalifah menurut Hadhrat Mushlih Mau'ud (ra) adalah:
 
@@ -82,9 +82,9 @@ Apakah seorang khalifah harus memiliki kerajaan? Hadhrat Mushlih Mau'ud (ra) ber
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2NTg4ODYyMiwxMzU5NjAzNDMxLC0xMT
-cxMzY0MzM4LC0xNzAyNjI4NzA3LC0xOTYwNTM3NDIwLC0xMTAx
-MjYwMDczLDE1MzQyMzA4NjUsLTMyMjE4MzUzOSwtNTg5MDEyMj
-Y0LC02MzU3Njk3NTMsMjA0NzYyODg2NSwtNTEzNDY3MjE0LC0x
-Nzk1NDY5Nzc5LDQxMzc5MDk2OCwtMTI4MTI5OTAzNl19
+eyJoaXN0b3J5IjpbNjMxNzkxODgyLDEzNTk2MDM0MzEsLTExNz
+EzNjQzMzgsLTE3MDI2Mjg3MDcsLTE5NjA1Mzc0MjAsLTExMDEy
+NjAwNzMsMTUzNDIzMDg2NSwtMzIyMTgzNTM5LC01ODkwMTIyNj
+QsLTYzNTc2OTc1MywyMDQ3NjI4ODY1LC01MTM0NjcyMTQsLTE3
+OTU0Njk3NzksNDEzNzkwOTY4LC0xMjgxMjk5MDM2XX0=
 -->
