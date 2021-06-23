@@ -25,15 +25,13 @@ Hadhrat Mushlih Mau'ud (ra) bersabda,
 
 > Kata Khalifah berarti seseorang yang menggantikan orang lain dan melanjutkan pekerjaan pendahulunya. Untuk memahami tugas dari khalifah, kita harus melihat tugas dari pendahulunya [[^barakat-e-khilafat_p9]].
 
-Kata Khalifah berarti seseorang yang menggantikan orang lain dan melanjutkan pekerjaan pendahulunya. Untuk memahami fungsi dari penerus, kita harus melihat fungsi dari pendahulunya.
-
 Peri kehidupan khalifah menurut Hadhrat Mushlih Mau'ud (ra) adalah:
 
 > Kalian mempunyai seseorang yang memiliki simpati sejati untuk kalian; Orang yang benar-benar mencintai kalian; Orang yang ikut merasakan rasa sakit dan penderitaan kalian; dan Orang yang selalu berdoa kepada Allah Ta'ala untuk kalian. 
 >
 > Kalian memiliki seseorang yang selalu mengkhawatirkan kesejahteraan kalian, orang yang menempatkan dirinya dalam masalah demi kalian, dan orang yang berdoa dengan gelisah di hadapan Tuhannya demi kenyamanan dan kedamaian kalian [[^barakat-e-khilafat_p6]].
 
-
+Apakah seorang khalifah harus menjadi seperti raja? Hadhrat Mushlih Mau'ud (ra) bersa
 
 
 
@@ -75,9 +73,9 @@ Peri kehidupan khalifah menurut Hadhrat Mushlih Mau'ud (ra) adalah:
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzEzNjQzMzgsLTE3MDI2Mjg3MDcsLT
-E5NjA1Mzc0MjAsLTExMDEyNjAwNzMsMTUzNDIzMDg2NSwtMzIy
-MTgzNTM5LC01ODkwMTIyNjQsLTYzNTc2OTc1MywyMDQ3NjI4OD
-Y1LC01MTM0NjcyMTQsLTE3OTU0Njk3NzksNDEzNzkwOTY4LC0x
-MjgxMjk5MDM2XX0=
+eyJoaXN0b3J5IjpbMTE2MDE5NzEwMiwtMTE3MTM2NDMzOCwtMT
+cwMjYyODcwNywtMTk2MDUzNzQyMCwtMTEwMTI2MDA3MywxNTM0
+MjMwODY1LC0zMjIxODM1MzksLTU4OTAxMjI2NCwtNjM1NzY5Nz
+UzLDIwNDc2Mjg4NjUsLTUxMzQ2NzIxNCwtMTc5NTQ2OTc3OSw0
+MTM3OTA5NjgsLTEyODEyOTkwMzZdfQ==
 -->
