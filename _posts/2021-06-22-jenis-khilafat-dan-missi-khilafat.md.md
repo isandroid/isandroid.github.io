@@ -23,7 +23,7 @@ Khalifah adalah gelar yang diberikan untuk menjadi penerus  para pendahulunya [[
 
 Khalifah menurut Hadhrat Mushlih Mau'ud (ra) adalah:
 
-> Engkau mempunyai seseorang yang memiliki simpati sejati untukmu; Orang yang benar-benar mencintaimu; orang yang menganggap rasa sakit dan penderitaanmu menjadi miliknya (juga); dan orang yang selalu berdoa kepada Allah untukmu [[^barakat-e-khilafat_p6]].
+> Engkau mempunyai seseorang yang memiliki simpati sejati untukmu; Orang yang benar-benar mencintaimu; Orang yang ikut merasakan rasa sakit dan penderitaanmu; dan Orang yang selalu berdoa kepada Allah Ta'ala untukmu [[^barakat-e-khilafat_p6]].
 
 <!-- Biasanya seorang khalifah juga dipanggil *amiirul-mu'miniin* (أمير المؤمنين) atau "pemimpin orang-orang yang beriman". -->
 
@@ -64,7 +64,7 @@ Dalam Kamus Besar Bahasa Indonesia (KBBI), kata khalifah berarti wakil atau peng
 
 [^barakat-e-khilafat_p7]: Hadhrat Mirza Basyiruddin Mahmud Ahmad, [*Barakat-e-Khilafat* atau *Blessings-of-Khilafat*](https://www.alislam.org/library/books/Blessings-of-Khilafat.pdf) halaman 7.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4MDQ5NDUwNCwtNTg5MDEyMjY0LC02Mz
+eyJoaXN0b3J5IjpbLTY5NzgxODc3MywtNTg5MDEyMjY0LC02Mz
 U3Njk3NTMsMjA0NzYyODg2NSwtNTEzNDY3MjE0LC0xNzk1NDY5
 Nzc5LDQxMzc5MDk2OCwtMTI4MTI5OTAzNl19
 -->
