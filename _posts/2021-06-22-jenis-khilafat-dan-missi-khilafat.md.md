@@ -19,7 +19,7 @@ Sedangkan kata dalam bentuk "*kholfun*" berarti di belakang, di punggung dan set
 
 Hadhrat Mushlih Mau'ud (ra) bersabda,
 
-Khalifah adalah gelar yang diberikan untuk menjadi penerus  para pendahulunya [[^barakat-e-khilafat_p7]]. 
+> Khalifah adalah gelar yang diberikan untuk menjadi penerus  para pendahulunya [[^barakat-e-khilafat_p7]]. 
 
 Khalifah menurut Hadhrat Mushlih Mau'ud (ra) adalah:
 
@@ -64,7 +64,7 @@ Dalam Kamus Besar Bahasa Indonesia (KBBI), kata khalifah berarti wakil atau peng
 
 [^barakat-e-khilafat_p7]: Hadhrat Mirza Basyiruddin Mahmud Ahmad, [*Barakat-e-Khilafat* atau *Blessings-of-Khilafat*](https://www.alislam.org/library/books/Blessings-of-Khilafat.pdf) halaman 7.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5NzgxODc3MywtNTg5MDEyMjY0LC02Mz
+eyJoaXN0b3J5IjpbLTMyMjE4MzUzOSwtNTg5MDEyMjY0LC02Mz
 U3Njk3NTMsMjA0NzYyODg2NSwtNTEzNDY3MjE0LC0xNzk1NDY5
 Nzc5LDQxMzc5MDk2OCwtMTI4MTI5OTAzNl19
 -->
