@@ -21,6 +21,10 @@ Hadhrat Mushlih Mau'ud (ra) bersabda,
 
 > Kata Khalifah digunakan untuk orang yang melanjutkan pekerjaan dari pendahulunya. [[^barakat-e-khilafat_p7]]. 
 
+Hadhrat Mushlih Mau'ud (ra) bersabda,
+
+> Kata Khalifah berarti seseorang yang menggantikan orang lain dan melanjutkan pekerjaan pendahulunya. Untuk memahami tugas dari khalifah, kita harus melihat tugas dari pendahulunya [[^barakat-e-khilafat_p9]].
+
 Kata Khalifah berarti seseorang yang menggantikan orang lain dan melanjutkan pekerjaan pendahulunya. Untuk memahami fungsi dari penerus, kita harus melihat fungsi dari pendahulunya.
 
 Peri kehidupan khalifah menurut Hadhrat Mushlih Mau'ud (ra) adalah:
@@ -65,13 +69,15 @@ Peri kehidupan khalifah menurut Hadhrat Mushlih Mau'ud (ra) adalah:
 
 [^barakat-e-khilafat_p7]: Hadhrat Mirza Basyiruddin Mahmud Ahmad, [*Barakat-e-Khilafat* atau *Blessings-of-Khilafat*](https://www.alislam.org/library/books/Blessings-of-Khilafat.pdf) halaman 7.
 
+[^barakat-e-khilafat_p9]: Hadhrat Mirza Basyiruddin Mahmud Ahmad, [*Barakat-e-Khilafat* atau *Blessings-of-Khilafat*](https://www.alislam.org/library/books/Blessings-of-Khilafat.pdf) halaman 9.
+
 <!--
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkwNTE4NzUzLC0xNzAyNjI4NzA3LC0xOT
-YwNTM3NDIwLC0xMTAxMjYwMDczLDE1MzQyMzA4NjUsLTMyMjE4
-MzUzOSwtNTg5MDEyMjY0LC02MzU3Njk3NTMsMjA0NzYyODg2NS
-wtNTEzNDY3MjE0LC0xNzk1NDY5Nzc5LDQxMzc5MDk2OCwtMTI4
-MTI5OTAzNl19
+eyJoaXN0b3J5IjpbLTExNzEzNjQzMzgsLTE3MDI2Mjg3MDcsLT
+E5NjA1Mzc0MjAsLTExMDEyNjAwNzMsMTUzNDIzMDg2NSwtMzIy
+MTgzNTM5LC01ODkwMTIyNjQsLTYzNTc2OTc1MywyMDQ3NjI4OD
+Y1LC01MTM0NjcyMTQsLTE3OTU0Njk3NzksNDEzNzkwOTY4LC0x
+MjgxMjk5MDM2XX0=
 -->
