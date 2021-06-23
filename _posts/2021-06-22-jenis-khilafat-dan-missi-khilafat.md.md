@@ -21,7 +21,7 @@ Hadhrat Mushlih Mau'ud (ra) bersabda,
 
 > Kata Khalifah digunakan untuk orang yang melanjutkan pekerjaan dari pendahulunya. [[^barakat-e-khilafat_p7]]. 
 
-Khalifah menurut Hadhrat Mushlih Mau'ud (ra) adalah:
+Peri kehidupan khalifah menurut Hadhrat Mushlih Mau'ud (ra) adalah:
 
 > Kalian mempunyai seseorang yang memiliki simpati sejati untuk kalian; Orang yang benar-benar mencintai kalian; Orang yang ikut merasakan rasa sakit dan penderitaan kalian; dan Orang yang selalu berdoa kepada Allah Ta'ala untuk kalian. 
 >
@@ -68,8 +68,8 @@ Dalam Kamus Besar Bahasa Indonesia (KBBI), kata khalifah berarti wakil atau peng
 
 [^barakat-e-khilafat_p7]: Hadhrat Mirza Basyiruddin Mahmud Ahmad, [*Barakat-e-Khilafat* atau *Blessings-of-Khilafat*](https://www.alislam.org/library/books/Blessings-of-Khilafat.pdf) halaman 7.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDEyNjAwNzMsMTUzNDIzMDg2NSwtMz
-IyMTgzNTM5LC01ODkwMTIyNjQsLTYzNTc2OTc1MywyMDQ3NjI4
-ODY1LC01MTM0NjcyMTQsLTE3OTU0Njk3NzksNDEzNzkwOTY4LC
-0xMjgxMjk5MDM2XX0=
+eyJoaXN0b3J5IjpbLTk0ODc3OTg4NiwtMTEwMTI2MDA3MywxNT
+M0MjMwODY1LC0zMjIxODM1MzksLTU4OTAxMjI2NCwtNjM1NzY5
+NzUzLDIwNDc2Mjg4NjUsLTUxMzQ2NzIxNCwtMTc5NTQ2OTc3OS
+w0MTM3OTA5NjgsLTEyODEyOTkwMzZdfQ==
 -->
