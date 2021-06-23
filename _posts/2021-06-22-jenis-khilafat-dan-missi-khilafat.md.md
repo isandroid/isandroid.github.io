@@ -59,15 +59,17 @@ Peri kehidupan khalifah menurut Hadhrat Mushlih Mau'ud (ra) adalah:
 
 [^fn-kata-kholafa]: [Kamus Almaany pencarian Kata _kho-la-fa_](https://www.almaany.com/id/dict/ar-id/%D8%AE%D9%84%D9%81/)
 
-[^kbbi_khalifah]: [Kamus Besar Bahasa Indonesia dalam kata Khalifah - diakses 22 Juni 2021](https://kbbi.kemdikbud.go.id/entri/khalifah)
-
 [^barakat-e-khilafat_p6]: Hadhrat Mirza Basyiruddin Mahmud Ahmad, [*Barakat-e-Khilafat* atau *Blessings-of-Khilafat*](https://www.alislam.org/library/books/Blessings-of-Khilafat.pdf) halaman 6.
 
 [^barakat-e-khilafat_p7]: Hadhrat Mirza Basyiruddin Mahmud Ahmad, [*Barakat-e-Khilafat* atau *Blessings-of-Khilafat*](https://www.alislam.org/library/books/Blessings-of-Khilafat.pdf) halaman 7.
+
+<!--
+
+-->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5NDI4MTg1OSwtMTcwMjYyODcwNywtMT
-k2MDUzNzQyMCwtMTEwMTI2MDA3MywxNTM0MjMwODY1LC0zMjIx
-ODM1MzksLTU4OTAxMjI2NCwtNjM1NzY5NzUzLDIwNDc2Mjg4Nj
-UsLTUxMzQ2NzIxNCwtMTc5NTQ2OTc3OSw0MTM3OTA5NjgsLTEy
-ODEyOTkwMzZdfQ==
+eyJoaXN0b3J5IjpbLTYwOTg4Nzk4LC0xNzAyNjI4NzA3LC0xOT
+YwNTM3NDIwLC0xMTAxMjYwMDczLDE1MzQyMzA4NjUsLTMyMjE4
+MzUzOSwtNTg5MDEyMjY0LC02MzU3Njk3NTMsMjA0NzYyODg2NS
+wtNTEzNDY3MjE0LC0xNzk1NDY5Nzc5LDQxMzc5MDk2OCwtMTI4
+MTI5OTAzNl19
 -->
