@@ -26,13 +26,7 @@ Hadhrat Mushlih Mau'ud (ra) bersabda,
 Menurut bahasa arab, Khalifah adalah:
 1. orang yang menggantikan seseorang (sebelumnya),
 2. orang yang digantikan oleh seseorang, dan
-3. orang yang mengeluarkan perintah dan tugas dan membuat mereka melaksanakannya .
-
-Peri kehidupan khalifah menurut Hadhrat Mushlih Mau'ud (ra) adalah:
-
-> Kalian mempunyai seseorang yang memiliki simpati sejati untuk kalian; Orang yang benar-benar mencintai kalian; Orang yang ikut merasakan rasa sakit dan penderitaan kalian; dan Orang yang selalu berdoa kepada Allah Ta'ala untuk kalian. 
->
-> Kalian memiliki seseorang yang selalu mengkhawatirkan kesejahteraan kalian, orang yang menempatkan dirinya dalam masalah demi kalian, dan orang yang berdoa dengan gelisah di hadapan Tuhannya demi kenyamanan dan kedamaian kalian [[^barakat-e-khilafat_p6]].
+3. orang yang mengeluarkan perintah dan tugas dan membuat mereka melaksanakannya [[^barakat-e-khilafat_p13]].
 
 Apakah seorang khalifah harus memiliki kerajaan? Hadhrat Mushlih Mau'ud (ra) bersabda,
 
@@ -78,11 +72,12 @@ Apakah seorang khalifah harus memiliki kerajaan? Hadhrat Mushlih Mau'ud (ra) ber
 
 [^barakat-e-khilafat_p12]: Hadhrat Mirza Basyiruddin Mahmud Ahmad, [*Barakat-e-Khilafat* atau *Blessings-of-Khilafat*](https://www.alislam.org/library/books/Blessings-of-Khilafat.pdf) halaman 12.
 
+[^barakat-e-khilafat_p13]: Hadhrat Mirza Basyiruddin Mahmud Ahmad, [*Barakat-e-Khilafat* atau *Blessings-of-Khilafat*](https://www.alislam.org/library/books/Blessings-of-Khilafat.pdf) halaman 13.
 <!--
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjMxNzkxODgyLDEzNTk2MDM0MzEsLTExNz
+eyJoaXN0b3J5IjpbNjc1NDU1ODI2LDEzNTk2MDM0MzEsLTExNz
 EzNjQzMzgsLTE3MDI2Mjg3MDcsLTE5NjA1Mzc0MjAsLTExMDEy
 NjAwNzMsMTUzNDIzMDg2NSwtMzIyMTgzNTM5LC01ODkwMTIyNj
 QsLTYzNTc2OTc1MywyMDQ3NjI4ODY1LC01MTM0NjcyMTQsLTE3
