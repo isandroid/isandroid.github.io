@@ -67,9 +67,11 @@ Khilafah mengukuhkan kekuasaan Allah di bumi, dan Khalifah berjuang untuk menega
 
 Hadhrat Khalifatul Masih V (atba) bersabda,
 
-> ”Khilafat pasti akan berdiri (senantiasa ada) ditengah orangorang Muslim.” Akan tetapi Dia telah berjanji bersyarat dengan beberapa syarat dan syarat pertama dari itu adalah harus ada kamil ithaa’at (ketaatan yang sempurna). Mata rantai (kesinambungan) Khilafat Rasyidah sebelumnya telah terputus karena umat Muslim telah keluar dari bingkai taat (meninggalkan ketaatan). Orang-orang Muslim menjadi mahrum (terlepas) dari Khilafat hakiki apabila mereka sudah meninggalkan ketaatan. Setelah keluar dari ketaatan, sebagian golongan mulai mengatakan, “Kami mensyaratkan baiat kami dengan sebagian syarat yang di dalamnya sebab yang paling besar adalah tuntutan pembalasan atas kesyahidan Hadhrat Usman” atau karena terpedaya dengan perkatan-perkataan sebagian penyebar fitnah, mereka menjadi orang yang keluar dari ketaatan Sekalipun pada waktu itu para sahabat masih ada. Namun ketika keluar dari ketaatan yang sempurna maka mereka dimahrumkan dari Khilafat (tidak mendapat nikmat berkat Khilafat). Sebab, keputusan untuk menjadikan Khalifah Allah Ta’ala sendiri telah mengambil alih di tangan-Nya maka kemudian sesudah perselisihan-perselisihan, sesudah keluar dari taat semua usaha-usaha mereka menjadi Khalifah dan membuat Khalifah menjadi gagal dan sia-sia. Dan Khilafat mengambil corak monarki (kerajaan) []
+> ”Khilafat pasti akan berdiri (senantiasa ada) ditengah orangorang Muslim.” Akan tetapi Dia telah berjanji bersyarat dengan beberapa syarat dan syarat pertama dari itu adalah harus ada kamil ithaa’at (ketaatan yang sempurna). Mata rantai (kesinambungan) Khilafat Rasyidah sebelumnya telah terputus karena umat Muslim telah keluar dari bingkai taat (meninggalkan ketaatan). Orang-orang Muslim menjadi mahrum (terlepas) dari Khilafat hakiki apabila mereka sudah meninggalkan ketaatan. Setelah keluar dari ketaatan, sebagian golongan mulai mengatakan, “Kami mensyaratkan baiat kami dengan sebagian syarat yang di dalamnya sebab yang paling besar adalah tuntutan pembalasan atas kesyahidan Hadhrat Usman” atau karena terpedaya dengan perkatan-perkataan sebagian penyebar fitnah, mereka menjadi orang yang keluar dari ketaatan Sekalipun pada waktu itu para sahabat masih ada. Namun ketika keluar dari ketaatan yang sempurna maka mereka dimahrumkan dari Khilafat (tidak mendapat nikmat berkat Khilafat). Sebab, keputusan untuk menjadikan Khalifah Allah Ta’ala sendiri telah mengambil alih di tangan-Nya maka kemudian sesudah perselisihan-perselisihan, sesudah keluar dari taat semua usaha-usaha mereka menjadi Khalifah dan membuat Khalifah menjadi gagal dan sia-sia. Dan Khilafat mengambil corak monarki (kerajaan) [[^khotbah20110520]] [^tafsi]
 
-1.  [Khotbah Jum’at Sayyidina Amirul Mu’minin Hadhrat Mirza Masroor Ahmad Khalifatul Masih al-Khaamis ayyadahulloohu ta’ala binashrihil ‘aziiz tanggal 20 1390 HS/Mei 2011 di Mesjid Baitul Futuh, London.](https://www.alislam.org/archives/sermons/summary/FST20110527-ID.pdf) [↩](https://pustaka.isa.web.id/2021/02/17/tafsir-ayat-istikhlaf#fnref:ft-kh-20110520)
+[^khotbah20110520]: [Khotbah Jum’at Sayyidina Amirul Mu’minin Hadhrat Mirza Masroor Ahmad Khalifatul Masih al-Khaamis ayyadahulloohu ta’ala binashrihil ‘aziiz tanggal 20 Mei 2011 di Mesjid Baitul Futuh, London.]
+
+(https://pustaka.isa.web.id/2021/02/17/tafsir-ayat-istikhlaf)
 
 ### Dasar Kemunculan Khalifah Rosyidah dan Khalifatul Masih
 
@@ -152,11 +154,11 @@ Setelah KPA usai, maka kita bisa menerapkannya sebagai berikut,
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1Njc5NDE5NzUsMjAzODkxNDU2NCwtOD
-c3NTM3NTg1LDE4OTg3NzM0NzYsMTM5OTMwNDcwOCwyMDEwMDcy
-MDYsLTEzMTExNTA1MDAsMTYwNjcyMjM1NCwxNTMzNjEzOTI2LC
-01ODIzMTc0MjgsMTA2OTA0OTUyNSwtMTEwMDcwNDc2OCwxNjc0
-Mjg5MTEwLDE0MTE4Njk4NTgsLTE0NDMwNzM5NCwtMTc3MDM1ND
-g1NCwxMzU5NjAzNDMxLC0xMTcxMzY0MzM4LC0xNzAyNjI4NzA3
-LC0xOTYwNTM3NDIwXX0=
+eyJoaXN0b3J5IjpbMjAyMzczNTA0NiwyMDM4OTE0NTY0LC04Nz
+c1Mzc1ODUsMTg5ODc3MzQ3NiwxMzk5MzA0NzA4LDIwMTAwNzIw
+NiwtMTMxMTE1MDUwMCwxNjA2NzIyMzU0LDE1MzM2MTM5MjYsLT
+U4MjMxNzQyOCwxMDY5MDQ5NTI1LC0xMTAwNzA0NzY4LDE2NzQy
+ODkxMTAsMTQxMTg2OTg1OCwtMTQ0MzA3Mzk0LC0xNzcwMzU0OD
+U0LDEzNTk2MDM0MzEsLTExNzEzNjQzMzgsLTE3MDI2Mjg3MDcs
+LTE5NjA1Mzc0MjBdfQ==
 -->
