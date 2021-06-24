@@ -51,7 +51,9 @@ Peri kehidupan khalifah menurut Hadhrat Mushlih Mau'ud (ra) adalah:
 
 #### Pengertian Khilafat
 
-Kata Khilafah berarti suksesi atau penggantian. Jamaah pengikut Nabi Allah terus memelihara akidah dan sunnah-sunnah di bawah berkat lembaga Khilafah selama Allah kehendaki. 
+Kata Khilafah berarti suksesi atau penggantian. Jamaah pengikut Nabi Allah terus memelihara akidah dan sunnah-sunnah di bawah berkat lembaga Khilafah selama Allah kehendaki [[^ahmadiyah_id_khilafat]]. 
+
+[^ahmadiyah_id_khilafat]: [Ahmadiyah.id -](https://ahmadiyah.id/khilafat/tentang-khilafah)
 
 ### Jenis-Jenis Khalifah
 
@@ -91,11 +93,11 @@ Kata Khilafah berarti suksesi atau penggantian. Jamaah pengikut Nabi Allah terus
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDA3MDQ3NjgsMTY3NDI4OTExMCwxND
-ExODY5ODU4LC0xNDQzMDczOTQsLTE3NzAzNTQ4NTQsMTM1OTYw
-MzQzMSwtMTE3MTM2NDMzOCwtMTcwMjYyODcwNywtMTk2MDUzNz
-QyMCwtMTEwMTI2MDA3MywxNTM0MjMwODY1LC0zMjIxODM1Mzks
-LTU4OTAxMjI2NCwtNjM1NzY5NzUzLDIwNDc2Mjg4NjUsLTUxMz
-Q2NzIxNCwtMTc5NTQ2OTc3OSw0MTM3OTA5NjgsLTEyODEyOTkw
-MzZdfQ==
+eyJoaXN0b3J5IjpbLTY4NTM2NDgzNywtMTEwMDcwNDc2OCwxNj
+c0Mjg5MTEwLDE0MTE4Njk4NTgsLTE0NDMwNzM5NCwtMTc3MDM1
+NDg1NCwxMzU5NjAzNDMxLC0xMTcxMzY0MzM4LC0xNzAyNjI4Nz
+A3LC0xOTYwNTM3NDIwLC0xMTAxMjYwMDczLDE1MzQyMzA4NjUs
+LTMyMjE4MzUzOSwtNTg5MDEyMjY0LC02MzU3Njk3NTMsMjA0Nz
+YyODg2NSwtNTEzNDY3MjE0LC0xNzk1NDY5Nzc5LDQxMzc5MDk2
+OCwtMTI4MTI5OTAzNl19
 -->
