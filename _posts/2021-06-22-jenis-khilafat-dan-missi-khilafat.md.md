@@ -64,8 +64,11 @@ Khilafah mengukuhkan kekuasaan Allah di bumi, dan Khalifah berjuang untuk menega
 
 Rasulullah (saw) telah menubuwwatkan berdirinya Khilafat dan kerajaan setelah beliau,
 
-<p class="aa">
+<p class="arab">
+تَكُونُ النُّبُوَّةُ فِيكُمْ مَا شَاءَ اللَّهُ أَنْ تَكُونَ ثُمَّ يَرْفَعُهَا إِذَا شَاءَ أَنْ يَرْفَعَهَا ثُمَّ تَكُونُ خِلَافَةٌ عَلَى مِنْهَاجِ النُّبُوَّةِ فَتَكُونُ مَا شَاءَ اللَّهُ أَنْ تَكُونَ ثُمَّ يَرْفَعُهَا إِذَا شَاءَ اللَّهُ أَنْ يَرْفَعَهَا ثُمَّ تَكُونُ مُلْكًا عَاضًّا فَيَكُونُ مَا شَاءَ اللَّهُ أَنْ يَكُونَ ثُمَّ يَرْفَعُهَا إِذَا شَاءَ أَنْ يَرْفَعَهَا ثُمَّ تَكُونُ مُلْكًا جَبْرِيَّةً فَتَكُونُ مَا شَاءَ اللَّهُ أَنْ تَكُونَ ثُمَّ يَرْفَعُهَا إِذَا شَاءَ أَنْ يَرْفَعَهَا ثُمَّ تَكُونُ خِلَافَةً عَلَى مِنْهَاجِ النُّبُوَّةِ ثُمَّ سَكَتَ
+</p>
 
+> Artinya, “Kenabian akan tetap berada diantara kalian selama Allah menghendaki. Kemudian akan berlaku masa khilafah yang mengikuti jejak kenabian (khilafah ‘ala minhajin-nubuwwah), dan akan tetap berada selama Allah menghendaki. Kemudian diikuti masa kerajaan yang merusak (mulkan ‘adhan), dan dia akan tetap berada selama Allah menghendaki. Kemudian setelah itu akan muncul kerajaan lalim (mulkan jabbariyyah), dan akan tetap berada selama Allah menghendaki. Kemudian muncul kembali khilafah yang mengikuti jejak kenabian (khilafah ‘ala minhajin nubuwwah).” ([H.R. Ahmad](https://pustaka.isa.web.id/ref/hds-e867723c-bda0-4fea-bdce-0774d6f3cb06))
 
 ### Misi yang Diemban Seorang Khalifatul Masih
 
@@ -101,11 +104,11 @@ Rasulullah (saw) telah menubuwwatkan berdirinya Khilafat dan kerajaan setelah be
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODkwMDQyNDMzLC01ODIzMTc0MjgsMTA2OT
-A0OTUyNSwtMTEwMDcwNDc2OCwxNjc0Mjg5MTEwLDE0MTE4Njk4
-NTgsLTE0NDMwNzM5NCwtMTc3MDM1NDg1NCwxMzU5NjAzNDMxLC
-0xMTcxMzY0MzM4LC0xNzAyNjI4NzA3LC0xOTYwNTM3NDIwLC0x
-MTAxMjYwMDczLDE1MzQyMzA4NjUsLTMyMjE4MzUzOSwtNTg5MD
-EyMjY0LC02MzU3Njk3NTMsMjA0NzYyODg2NSwtNTEzNDY3MjE0
-LC0xNzk1NDY5Nzc5XX0=
+eyJoaXN0b3J5IjpbMTUzMzYxMzkyNiwtNTgyMzE3NDI4LDEwNj
+kwNDk1MjUsLTExMDA3MDQ3NjgsMTY3NDI4OTExMCwxNDExODY5
+ODU4LC0xNDQzMDczOTQsLTE3NzAzNTQ4NTQsMTM1OTYwMzQzMS
+wtMTE3MTM2NDMzOCwtMTcwMjYyODcwNywtMTk2MDUzNzQyMCwt
+MTEwMTI2MDA3MywxNTM0MjMwODY1LC0zMjIxODM1MzksLTU4OT
+AxMjI2NCwtNjM1NzY5NzUzLDIwNDc2Mjg4NjUsLTUxMzQ2NzIx
+NCwtMTc5NTQ2OTc3OV19
 -->
