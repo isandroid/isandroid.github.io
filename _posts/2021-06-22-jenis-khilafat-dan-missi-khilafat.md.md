@@ -55,7 +55,7 @@ Kata Khilafah berarti suksesi atau penggantian. Jamaah pengikut Nabi Allah terus
 
 Sebagaimana Allah mengangkat seorang Nabi, Dia juga yang mengangkat seorang Khalifah. Dia memilih orang yang paling layak untuk menjadi seorang Khalifah, dan membimbing golongan mukmin yang bertakwa untuk mewujudkan Kehendak-Nya melalui suatu proses pemilihan Khalifah. Dengan demikian, mungkin tampaknya Khalifah dipilih oleh sekelompok orang bertakwa, tapi sebenarnya Kehendak Allah-lah yang membimbing jiwa mereka untuk memilih Khalifah Pilihan-Nya. Begitu seorang Khalifah terpilih, dia akan menjadi Khalifah seumur hidupnya sebagai bukti hidup dari Kehendak Tuhan.
 
- [[^ahmadiyah_id_khilafat]]. 
+Khilafah mengukuhkan kekuasaan Allah di bumi, dan Khalifah berjuang untuk menegakkan kekuasaan itu di dalam jamaah pengikutnya. Bagi orang-orang yang beriman, Khilafah adalah perwujudan Tauhid Ilahi, karena mereka memilih untuk menerima kekuasaan Ilahi melalui pribadi Khalifah. Orang-orang beriman mengambil bagian dari berkat Khilafah dengan memegang teguh iman dan amalan-amalan mereka, bersatu di bawahnya [[^ahmadiyah_id_khilafat]]. 
 
 ### Jenis-Jenis Khalifah
 
@@ -98,11 +98,11 @@ Sebagaimana Allah mengangkat seorang Nabi, Dia juga yang mengangkat seorang Khal
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4MjMxNzQyOCwxMDY5MDQ5NTI1LC0xMT
-AwNzA0NzY4LDE2NzQyODkxMTAsMTQxMTg2OTg1OCwtMTQ0MzA3
-Mzk0LC0xNzcwMzU0ODU0LDEzNTk2MDM0MzEsLTExNzEzNjQzMz
-gsLTE3MDI2Mjg3MDcsLTE5NjA1Mzc0MjAsLTExMDEyNjAwNzMs
-MTUzNDIzMDg2NSwtMzIyMTgzNTM5LC01ODkwMTIyNjQsLTYzNT
-c2OTc1MywyMDQ3NjI4ODY1LC01MTM0NjcyMTQsLTE3OTU0Njk3
-NzksNDEzNzkwOTY4XX0=
+eyJoaXN0b3J5IjpbLTEyMzQ3OTE3ODcsLTU4MjMxNzQyOCwxMD
+Y5MDQ5NTI1LC0xMTAwNzA0NzY4LDE2NzQyODkxMTAsMTQxMTg2
+OTg1OCwtMTQ0MzA3Mzk0LC0xNzcwMzU0ODU0LDEzNTk2MDM0Mz
+EsLTExNzEzNjQzMzgsLTE3MDI2Mjg3MDcsLTE5NjA1Mzc0MjAs
+LTExMDEyNjAwNzMsMTUzNDIzMDg2NSwtMzIyMTgzNTM5LC01OD
+kwMTIyNjQsLTYzNTc2OTc1MywyMDQ3NjI4ODY1LC01MTM0Njcy
+MTQsLTE3OTU0Njk3NzldfQ==
 -->
