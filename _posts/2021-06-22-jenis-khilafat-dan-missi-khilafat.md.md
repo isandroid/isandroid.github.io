@@ -97,7 +97,7 @@ Untuk memahami fungsi dari khalifah, kita harus melihat missi pendahulunya. Alla
 3. Mengajari mereka kitab dan
 4. Mengajarkan hikmah (kebijaksanaan) 
 
-Saya juga menjelaskan bahwa keempat tugas Nabi ini tidak dapat dilakukan oleh 'Anjuman' mana pun. Mereka hanya dapat dilakukan oleh orang yang ditunjuk oleh Allah sendiri setelah Nabi, dan yang berhak sebagai Khalifah. Saya tidak ingin masuk ke detail tentang subjek ini sekarang. Untuk saat ini, saya akan mengambil beberapa kunci [[^barakat-e-khilafat_p9]].
+Saya juga menjelaskan bahwa keempat tugas Nabi ini tidak dapat dilakukan oleh 'Anjuman' atau organisasi mana pun. Tugas-tugas tersebut hanya dapat dilakukan oleh orang yang ditunjuk oleh Allah sendiri setelah Nabi, dan yang berhak sebagai Khalifah  [[^barakat-e-khilafat_p9]].
 
 ### Kriteria Seseorang Dikatakan Taat Atau Memiliki Ikatan dengan Khalifah 
 
@@ -171,7 +171,7 @@ Setelah KPA usai, maka kita bisa menerapkannya sebagai berikut,
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDA2MjEwMDYsLTIwMDczMjk4NjUsMT
+eyJoaXN0b3J5IjpbLTEwMjk4NDg1NjksLTIwMDczMjk4NjUsMT
 AwMzI5MjI1OSwyNzM3OTU3MDMsMTM4MjMyNzA5Niw4MDg4NTk0
 MjksLTE3MjIwMDEyNywtNzM3MjU5MTIsMjAzODkxNDU2NCwtOD
 c3NTM3NTg1LDE4OTg3NzM0NzYsMTM5OTMwNDcwOCwyMDEwMDcy
