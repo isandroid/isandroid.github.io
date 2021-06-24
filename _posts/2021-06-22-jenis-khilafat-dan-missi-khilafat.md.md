@@ -129,7 +129,9 @@ Semoga kita selalu teguh, dan semoga kita dapat **memenuhi janji baiat** kita se
 
 Sebagai seorang Ahmadi, kita mengetahui bahwa dirinya terikat oleh janji Baiat. janji Baiat itu hakikatnya merupakan perjanjian kepada Allah Ta'ala melalui Hadhrat Masih Mau'ud (as). Ketika beliau sudah wafat, maka janji tersebut kita selalu ucapkan melalui Hadhrat Khalifah-e-waqt sebagai wakil beliau.
 
-janji tersebut adalah syarat baiat yang ke-10, 
+janji tersebut adalah syarat baiat yang ke-10, 1, yaitu *Akan mengikat tali persaudaraan dengan hamba ini “Imam Mahdi dan Al-Masih Al-Mau’ud” semata-mata karena Allah dengan pengakuan taat dalam hal makruf (segala hal yang baik) dan akan berdiri di atas perjanjian ini hingga mautnya, dan menjunjung tinggi ikatan perjanjian ini melebihi ikatan duniawi, baik ikatan keluarga, ikatan persahabatan ataupun ikatan kerja.* []
+
+[^baiat]: [PustakaBaiat]
 
 Huzur V (atba) menjelaskan tentang kewajiban para Ahmadi. Salah satunya adalah menjalin ikatan dengan khilafat. Beliau (atba) menjelaskan,
 
@@ -187,11 +189,11 @@ Setelah KPA usai, maka kita bisa menerapkannya sebagai berikut,
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3MDE2MzkxNiwzMTg1NDkxNjksLTIwMD
-czMjk4NjUsMTAwMzI5MjI1OSwyNzM3OTU3MDMsMTM4MjMyNzA5
-Niw4MDg4NTk0MjksLTE3MjIwMDEyNywtNzM3MjU5MTIsMjAzOD
-kxNDU2NCwtODc3NTM3NTg1LDE4OTg3NzM0NzYsMTM5OTMwNDcw
-OCwyMDEwMDcyMDYsLTEzMTExNTA1MDAsMTYwNjcyMjM1NCwxNT
-MzNjEzOTI2LC01ODIzMTc0MjgsMTA2OTA0OTUyNSwtMTEwMDcw
-NDc2OF19
+eyJoaXN0b3J5IjpbOTc5MTM0MzUsMzE4NTQ5MTY5LC0yMDA3Mz
+I5ODY1LDEwMDMyOTIyNTksMjczNzk1NzAzLDEzODIzMjcwOTYs
+ODA4ODU5NDI5LC0xNzIyMDAxMjcsLTczNzI1OTEyLDIwMzg5MT
+Q1NjQsLTg3NzUzNzU4NSwxODk4NzczNDc2LDEzOTkzMDQ3MDgs
+MjAxMDA3MjA2LC0xMzExMTUwNTAwLDE2MDY3MjIzNTQsMTUzMz
+YxMzkyNiwtNTgyMzE3NDI4LDEwNjkwNDk1MjUsLTExMDA3MDQ3
+NjhdfQ==
 -->
