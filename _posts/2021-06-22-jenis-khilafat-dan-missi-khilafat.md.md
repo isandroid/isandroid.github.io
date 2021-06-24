@@ -90,7 +90,13 @@ Rasulullah (saw) bersabda,
 > 1. bertakwa kepada Allah, 
 > 2. senantiasa taat dan mendengar meskipun yang memerintah adalah seorang budak habsyi yang hitam. 
 > 3. Sesungguhnya orang-orang yang hidup setelahku akan melihat perselisihan yang banyak. Maka, hendaklah kalian berpegang dengan sunahku, 
-> sunah para khalifah yang lurus dan mendapat petunjuk, berpegang teguhlah dengannya dan gigitlah dengan gigi geraham. Jauhilah oleh kalian perkara-perkara baru (dalam urusan agama), sebab setiap perkara yang baru adalah bid’ah dan setaip bid’ah adalah sesat.” H.R. [Abu Dawud, Kitab Sunnah, Berpegang teguh dengan sunnah](https://www.hadits.id/hadits/dawud/3991)
+> 4. (berpegang teguh kepada) sunah para khalifah yang lurus dan mendapat petunjuk, berpegang teguhlah dengannya dan gigitlah dengan gigi geraham (sekuat mungkin). 
+> 5. Jauhilah oleh kalian perkara-perkara baru (dalam urusan agama), sebab setiap perkara yang baru adalah bid’ah dan setaip bid’ah adalah sesat.” 
+
+(H.R. Abu Dawud, Kitab Sunnah, Berpegang teguh dengan sunnah) []
+
+[##   
+Hadits - Khalifah - Memegang Teguh Khalifah agar Selamat](https://pustaka.isa.web.id/ref/hds-32251d52-6f4d-4b6c-94e5-0811b08ff22b)
 
 <!-- ref khutbah Huzur pd hari Khilafat 2021 -->
 
@@ -134,7 +140,7 @@ Setelah KPA usai, maka kita bisa menerapkannya sebagai berikut,
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTUwMjY0NDAsMTM5OTMwNDcwOCwyMD
+eyJoaXN0b3J5IjpbLTE3NTM4MTk4MTcsMTM5OTMwNDcwOCwyMD
 EwMDcyMDYsLTEzMTExNTA1MDAsMTYwNjcyMjM1NCwxNTMzNjEz
 OTI2LC01ODIzMTc0MjgsMTA2OTA0OTUyNSwtMTEwMDcwNDc2OC
 wxNjc0Mjg5MTEwLDE0MTE4Njk4NTgsLTE0NDMwNzM5NCwtMTc3
