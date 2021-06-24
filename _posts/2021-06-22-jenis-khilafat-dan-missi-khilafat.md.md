@@ -53,8 +53,6 @@ Peri kehidupan khalifah menurut Hadhrat Mushlih Mau'ud (ra) adalah:
 
 Kata Khilafah berarti suksesi atau penggantian. Jamaah pengikut Nabi Allah terus memelihara akidah dan sunnah-sunnah di bawah berkat lembaga Khilafah selama Allah kehendaki [[^ahmadiyah_id_khilafat]]. 
 
-[^ahmadiyah_id_khilafat]: [Ahmadiyah.id -](https://ahmadiyah.id/khilafat/tentang-khilafah)
-
 ### Jenis-Jenis Khalifah
 
 
@@ -89,11 +87,14 @@ Kata Khilafah berarti suksesi atau penggantian. Jamaah pengikut Nabi Allah terus
 [^barakat-e-khilafat_p12]: Hadhrat Mirza Basyiruddin Mahmud Ahmad, [*Barakat-e-Khilafat* atau *Blessings-of-Khilafat*](https://www.alislam.org/library/books/Blessings-of-Khilafat.pdf) halaman 12.
 
 [^barakat-e-khilafat_p13]: Hadhrat Mirza Basyiruddin Mahmud Ahmad, [*Barakat-e-Khilafat* atau *Blessings-of-Khilafat*](https://www.alislam.org/library/books/Blessings-of-Khilafat.pdf) halaman 13.
+
+[^ahmadiyah_id_khilafat]: [Ahmadiyah.id - Khilafat](https://ahmadiyah.id/khilafat/tentang-khilafah)
+
 <!--
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4NTM2NDgzNywtMTEwMDcwNDc2OCwxNj
+eyJoaXN0b3J5IjpbMTA2OTA0OTUyNSwtMTEwMDcwNDc2OCwxNj
 c0Mjg5MTEwLDE0MTE4Njk4NTgsLTE0NDMwNzM5NCwtMTc3MDM1
 NDg1NCwxMzU5NjAzNDMxLC0xMTcxMzY0MzM4LC0xNzAyNjI4Nz
 A3LC0xOTYwNTM3NDIwLC0xMTAxMjYwMDczLDE1MzQyMzA4NjUs
