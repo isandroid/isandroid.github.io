@@ -62,6 +62,9 @@ Khilafah mengukuhkan kekuasaan Allah di bumi, dan Khalifah berjuang untuk menega
 
 ### Dasar Kemunculan Khalifah Rosyidah dan Khalifatul Masih
 
+Rasulullah (saw) telah menubuwwatkan berdirinya Khilafat dan kerajaan setelah beliau,
+
+<p class="aa">
 
 
 ### Misi yang Diemban Seorang Khalifatul Masih
@@ -98,11 +101,11 @@ Khilafah mengukuhkan kekuasaan Allah di bumi, dan Khalifah berjuang untuk menega
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzQ3OTE3ODcsLTU4MjMxNzQyOCwxMD
-Y5MDQ5NTI1LC0xMTAwNzA0NzY4LDE2NzQyODkxMTAsMTQxMTg2
-OTg1OCwtMTQ0MzA3Mzk0LC0xNzcwMzU0ODU0LDEzNTk2MDM0Mz
-EsLTExNzEzNjQzMzgsLTE3MDI2Mjg3MDcsLTE5NjA1Mzc0MjAs
-LTExMDEyNjAwNzMsMTUzNDIzMDg2NSwtMzIyMTgzNTM5LC01OD
-kwMTIyNjQsLTYzNTc2OTc1MywyMDQ3NjI4ODY1LC01MTM0Njcy
-MTQsLTE3OTU0Njk3NzldfQ==
+eyJoaXN0b3J5IjpbODkwMDQyNDMzLC01ODIzMTc0MjgsMTA2OT
+A0OTUyNSwtMTEwMDcwNDc2OCwxNjc0Mjg5MTEwLDE0MTE4Njk4
+NTgsLTE0NDMwNzM5NCwtMTc3MDM1NDg1NCwxMzU5NjAzNDMxLC
+0xMTcxMzY0MzM4LC0xNzAyNjI4NzA3LC0xOTYwNTM3NDIwLC0x
+MTAxMjYwMDczLDE1MzQyMzA4NjUsLTMyMjE4MzUzOSwtNTg5MD
+EyMjY0LC02MzU3Njk3NTMsMjA0NzYyODg2NSwtNTEzNDY3MjE0
+LC0xNzk1NDY5Nzc5XX0=
 -->
