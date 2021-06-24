@@ -100,13 +100,13 @@ Rasulullah (saw) telah menubuwwatkan berdirinya Khilafat dan kerajaan setelah be
 
 [^ahmadiyah_id_khilafat]: [Ahmadiyah.id - Khilafat](https://ahmadiyah.id/khilafat/tentang-khilafah)
 
-[^hds-e867723c-bda0-4fea-bdce-0774d6f3cb06]: https://pustaka.isa.web.id/ref/hds-e867723c-bda0-4fea-bdce-0774d6f3cb06
+[^hds-e867723c-bda0-4fea-bdce-0774d6f3cb06]: [Hadits - Khalifah - Masa Kekhalifahan dan Kerajaan](https://pustaka.isa.web.id/ref/hds-e867723c-bda0-4fea-bdce-0774d6f3cb06)
 
 <!--
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5MjM4ODEwMywxNTMzNjEzOTI2LC01OD
+eyJoaXN0b3J5IjpbMTYwNjcyMjM1NCwxNTMzNjEzOTI2LC01OD
 IzMTc0MjgsMTA2OTA0OTUyNSwtMTEwMDcwNDc2OCwxNjc0Mjg5
 MTEwLDE0MTE4Njk4NTgsLTE0NDMwNzM5NCwtMTc3MDM1NDg1NC
 wxMzU5NjAzNDMxLC0xMTcxMzY0MzM4LC0xNzAyNjI4NzA3LC0x
