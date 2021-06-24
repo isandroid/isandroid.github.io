@@ -78,9 +78,9 @@ Rasulullah (saw) telah menubuwwatkan berdirinya Khilafat dan kerajaan setelah be
 <!-- ref khutbah Huzur pd hari Khilafat 2021 -->
 
 
-### Implementasi untuk Taat pada Khilafat saat mengikuti KPA.
+### Implementasi untuk Taat kepada Khilafat Saat Mengikuti KPA
 
-
+Beberapa cara kita menerapkan ketaatan kepada khilafat ketika mengikuti KPA
 
 <!-- Rujukan pd Al-Qur'an, Hadist,Sabda Hz Masih Mau'ud (as) dan para Khalifatul Masih -->
 
@@ -106,11 +106,11 @@ Rasulullah (saw) telah menubuwwatkan berdirinya Khilafat dan kerajaan setelah be
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwNjcyMjM1NCwxNTMzNjEzOTI2LC01OD
-IzMTc0MjgsMTA2OTA0OTUyNSwtMTEwMDcwNDc2OCwxNjc0Mjg5
-MTEwLDE0MTE4Njk4NTgsLTE0NDMwNzM5NCwtMTc3MDM1NDg1NC
-wxMzU5NjAzNDMxLC0xMTcxMzY0MzM4LC0xNzAyNjI4NzA3LC0x
-OTYwNTM3NDIwLC0xMTAxMjYwMDczLDE1MzQyMzA4NjUsLTMyMj
-E4MzUzOSwtNTg5MDEyMjY0LC02MzU3Njk3NTMsMjA0NzYyODg2
-NSwtNTEzNDY3MjE0XX0=
+eyJoaXN0b3J5IjpbLTE5ODM0MTcxMjEsMTYwNjcyMjM1NCwxNT
+MzNjEzOTI2LC01ODIzMTc0MjgsMTA2OTA0OTUyNSwtMTEwMDcw
+NDc2OCwxNjc0Mjg5MTEwLDE0MTE4Njk4NTgsLTE0NDMwNzM5NC
+wtMTc3MDM1NDg1NCwxMzU5NjAzNDMxLC0xMTcxMzY0MzM4LC0x
+NzAyNjI4NzA3LC0xOTYwNTM3NDIwLC0xMTAxMjYwMDczLDE1Mz
+QyMzA4NjUsLTMyMjE4MzUzOSwtNTg5MDEyMjY0LC02MzU3Njk3
+NTMsMjA0NzYyODg2NV19
 -->
