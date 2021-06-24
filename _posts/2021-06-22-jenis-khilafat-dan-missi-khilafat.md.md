@@ -127,9 +127,9 @@ Semoga kita selalu teguh, dan semoga kita dapat **memenuhi janji baiat** kita se
 
 #### Ikatan Dengan Khilafat
 
-Sebagai seorang Ahmadi, kita mengetahui bahwa dirinya terikat oleh janji Baiat. janji Baiat itu hakikatnya merupakan perjanjian kepada Allah Ta'ala melalui Hadhrat Masih Mau'ud (as). Ketika beliau sudah wafat, maka janji tersebut kita selalu ucapkan melalui Hadhrat Khalifah-e-waqt.
+Sebagai seorang Ahmadi, kita mengetahui bahwa dirinya terikat oleh janji Baiat. janji Baiat itu hakikatnya merupakan perjanjian kepada Allah Ta'ala melalui Hadhrat Masih Mau'ud (as). Ketika beliau sudah wafat, maka janji tersebut kita selalu ucapkan melalui Hadhrat Khalifah-e-waqt sebagai wakil beliau.
 
-Janji kita kepada Khilafat hendaknya kita yakini bahwa janji tersebut adalah janji yang sama yang kita lakukan terhadap Hadhrat Masih Mau'ud (as)
+janji tersebut adalah syarat baiat yang ke-10, 
 
 Huzur V (atba) menjelaskan tentang kewajiban para Ahmadi. Salah satunya adalah menjalin ikatan dengan khilafat. Beliau (atba) menjelaskan,
 
@@ -187,7 +187,7 @@ Setelah KPA usai, maka kita bisa menerapkannya sebagai berikut,
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5MzYyNDgzNCwzMTg1NDkxNjksLTIwMD
+eyJoaXN0b3J5IjpbMTI3MDE2MzkxNiwzMTg1NDkxNjksLTIwMD
 czMjk4NjUsMTAwMzI5MjI1OSwyNzM3OTU3MDMsMTM4MjMyNzA5
 Niw4MDg4NTk0MjksLTE3MjIwMDEyNywtNzM3MjU5MTIsMjAzOD
 kxNDU2NCwtODc3NTM3NTg1LDE4OTg3NzM0NzYsMTM5OTMwNDcw
