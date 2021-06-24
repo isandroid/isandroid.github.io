@@ -90,12 +90,14 @@ Rasulullah (saw) telah menubuwwatkan berdirinya Khilafat dan kerajaan setelah be
 
 Berkenaan dengan missi atau tugas seorang khalifah, Hadhrat Mushlih Mau'ud (ra) menjelaskan,
 
-Untuk memahami fungsi dari khalifah, kita harus melihat missi pendahulunya. Allah telah menjelaskan pekerjaan Nabi Suci (saw) besertanya, yakni sebagai berikut:
+Untuk memahami fungsi dari khalifah, kita harus melihat missi pendahulunya. Allah telah menjelaskan pekerjaan Nabi Suci (saw) besertanya (sesuai surah Ali-‘Imran, 3:165), yakni sebagai berikut:
 
 1. Membacakan ayat-ayat Allah kepada orang-orang,
 2. Mensucikan mereka,
 3. Mengajari mereka kitab dan
-4. Mengajarkan hikmah (kebijaksanaan) [[^barakat-e-khilafat_p9]]
+4. Mengajarkan hikmah (kebijaksanaan) 
+
+Saya juga menjelaskan bahwa keempat tugas Nabi ini tidak dapat dilakukan oleh 'Anjuman' mana pun. Mereka hanya dapat dilakukan oleh orang yang ditunjuk oleh Allah sendiri setelah Nabi, dan yang berhak sebagai Khalifah. Saya tidak ingin masuk ke detail tentang subjek ini sekarang. Untuk saat ini, saya akan mengambil beberapa kunci [[^barakat-e-khilafat_p9]].
 
 ### Kriteria Seseorang Dikatakan Taat Atau Memiliki Ikatan dengan Khalifah 
 
@@ -169,11 +171,11 @@ Setelah KPA usai, maka kita bisa menerapkannya sebagai berikut,
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDczMjk4NjUsMTAwMzI5MjI1OSwyNz
-M3OTU3MDMsMTM4MjMyNzA5Niw4MDg4NTk0MjksLTE3MjIwMDEy
-NywtNzM3MjU5MTIsMjAzODkxNDU2NCwtODc3NTM3NTg1LDE4OT
-g3NzM0NzYsMTM5OTMwNDcwOCwyMDEwMDcyMDYsLTEzMTExNTA1
-MDAsMTYwNjcyMjM1NCwxNTMzNjEzOTI2LC01ODIzMTc0MjgsMT
-A2OTA0OTUyNSwtMTEwMDcwNDc2OCwxNjc0Mjg5MTEwLDE0MTE4
-Njk4NThdfQ==
+eyJoaXN0b3J5IjpbLTIwMDA2MjEwMDYsLTIwMDczMjk4NjUsMT
+AwMzI5MjI1OSwyNzM3OTU3MDMsMTM4MjMyNzA5Niw4MDg4NTk0
+MjksLTE3MjIwMDEyNywtNzM3MjU5MTIsMjAzODkxNDU2NCwtOD
+c3NTM3NTg1LDE4OTg3NzM0NzYsMTM5OTMwNDcwOCwyMDEwMDcy
+MDYsLTEzMTExNTA1MDAsMTYwNjcyMjM1NCwxNTMzNjEzOTI2LC
+01ODIzMTc0MjgsMTA2OTA0OTUyNSwtMTEwMDcwNDc2OCwxNjc0
+Mjg5MTEwXX0=
 -->
