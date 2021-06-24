@@ -41,7 +41,7 @@ Apakah seorang khalifah harus memiliki kerajaan? Hadhrat Mushlih Mau'ud (ra) ber
 
 > ...Orang yang menggantikan pekerjaan seorang Nabi adalah Khalifah dari Nabi itu. Jika Allah menganugerahkan kerajaan kepada Nabi-Nya, Khalifahnya juga akan berhak atasnya dan Allah pasti akan menjamin kerajaan itu atas dirinya. 
 > 
-> Tetapi jika Nabi kebetulan tanpa kerajaan, dari mana datangnya Khalifahnya? Karena Tuhan telah menganugerahkan kerajaan duniawi dan ruhani kepada Rasulullah (saw), maka khalifahnya juga diberikan kedua karunia ini (kerajaan duniawi dan kerajaan ruhani). Tapi sekarang, karena Tuhan tidak menjamin kerajaan duniawi kepada Hadhrat Masih Mau'ud as, maka apakah Khalifahnya harus berjuang untuk memilikinya? Mereka yang mengajukan keberatan ini tidak sepenuhnya merenungkan kata 'Khalifah' [[^barakat-e-khilafat_p12]].
+> ...Karena Tuhan telah menganugerahkan kerajaan duniawi dan ruhani kepada Rasulullah (saw), maka khalifahnya juga diberikan kedua karunia ini (kerajaan duniawi dan kerajaan ruhani). Tapi sekarang, karena Tuhan tidak menganugerahkan kerajaan duniawi kepada Hadhrat Masih Mau'ud as, maka apakah Khalifahnya harus berjuang untuk memilikinya? Mereka yang mengajukan keberatan ini tidak sepenuhnya merenungkan kata 'Khalifah' [[^barakat-e-khilafat_p12]].
 
 Peri kehidupan khalifah menurut Hadhrat Mushlih Mau'ud (ra) adalah:
 
@@ -91,10 +91,11 @@ Kata Khilafah berarti suksesi atau penggantian. Jamaah pengikut Nabi Allah terus
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3NDI4OTExMCwxNDExODY5ODU4LC0xND
-QzMDczOTQsLTE3NzAzNTQ4NTQsMTM1OTYwMzQzMSwtMTE3MTM2
-NDMzOCwtMTcwMjYyODcwNywtMTk2MDUzNzQyMCwtMTEwMTI2MD
-A3MywxNTM0MjMwODY1LC0zMjIxODM1MzksLTU4OTAxMjI2NCwt
-NjM1NzY5NzUzLDIwNDc2Mjg4NjUsLTUxMzQ2NzIxNCwtMTc5NT
-Q2OTc3OSw0MTM3OTA5NjgsLTEyODEyOTkwMzZdfQ==
+eyJoaXN0b3J5IjpbLTExMDA3MDQ3NjgsMTY3NDI4OTExMCwxND
+ExODY5ODU4LC0xNDQzMDczOTQsLTE3NzAzNTQ4NTQsMTM1OTYw
+MzQzMSwtMTE3MTM2NDMzOCwtMTcwMjYyODcwNywtMTk2MDUzNz
+QyMCwtMTEwMTI2MDA3MywxNTM0MjMwODY1LC0zMjIxODM1Mzks
+LTU4OTAxMjI2NCwtNjM1NzY5NzUzLDIwNDc2Mjg4NjUsLTUxMz
+Q2NzIxNCwtMTc5NTQ2OTc3OSw0MTM3OTA5NjgsLTEyODEyOTkw
+MzZdfQ==
 -->
