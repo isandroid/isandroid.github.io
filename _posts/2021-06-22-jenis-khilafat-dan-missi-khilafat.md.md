@@ -92,7 +92,10 @@ Berkenaan dengan missi atau tugas seorang khalifah, Hadhrat Mushlih Mau'ud (ra) 
 
 Untuk memahami fungsi dari khalifah, kita harus melihat missi pendahulunya. Allah telah menjelaskan pekerjaan Nabi Suci (saw) besertanya, yakni sebagai berikut:
 
- 
+1. Membacakan ayat-ayat Allah kepada orang-orang,
+2. Mensucikan mereka,
+3. Mengajari mereka kitab dan
+4. Mengajarkan hikmah (kebijaksanaan) 
 
 ### Kriteria Seseorang Dikatakan Taat Atau Memiliki Ikatan dengan Khalifah 
 
@@ -166,11 +169,11 @@ Setelah KPA usai, maka kita bisa menerapkannya sebagai berikut,
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAwMzI5MjI1OSwyNzM3OTU3MDMsMTM4Mj
-MyNzA5Niw4MDg4NTk0MjksLTE3MjIwMDEyNywtNzM3MjU5MTIs
-MjAzODkxNDU2NCwtODc3NTM3NTg1LDE4OTg3NzM0NzYsMTM5OT
-MwNDcwOCwyMDEwMDcyMDYsLTEzMTExNTA1MDAsMTYwNjcyMjM1
-NCwxNTMzNjEzOTI2LC01ODIzMTc0MjgsMTA2OTA0OTUyNSwtMT
-EwMDcwNDc2OCwxNjc0Mjg5MTEwLDE0MTE4Njk4NTgsLTE0NDMw
-NzM5NF19
+eyJoaXN0b3J5IjpbLTgzOTY0NjcxMCwxMDAzMjkyMjU5LDI3Mz
+c5NTcwMywxMzgyMzI3MDk2LDgwODg1OTQyOSwtMTcyMjAwMTI3
+LC03MzcyNTkxMiwyMDM4OTE0NTY0LC04Nzc1Mzc1ODUsMTg5OD
+c3MzQ3NiwxMzk5MzA0NzA4LDIwMTAwNzIwNiwtMTMxMTE1MDUw
+MCwxNjA2NzIyMzU0LDE1MzM2MTM5MjYsLTU4MjMxNzQyOCwxMD
+Y5MDQ5NTI1LC0xMTAwNzA0NzY4LDE2NzQyODkxMTAsMTQxMTg2
+OTg1OF19
 -->
