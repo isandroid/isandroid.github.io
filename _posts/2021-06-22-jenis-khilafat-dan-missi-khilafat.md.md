@@ -119,8 +119,8 @@ Beberapa cara kita menerapkan ketaatan kepada khilafat ketika mengikuti KPA dian
 Setelah KPA usai, maka kita bisa menerapkannya sebagai berikut,
 
 1. Menerapkan ilmu-ilmu yang didapat ketika KPA dalam ibadah-ibadah kita dan kehidupan sehari-hari sehingga berbuah sebagai amal shaleh.
- 2. Setidaknya sebulan sekali menulis surat ke Huzur.
- 3. Senantiasa mendengarkan suara khalifah lewat mengikuti Khotbah Jumat Hadhrat Khalifatul Masih V (atba) secara langsung
+2. Setidaknya sebulan sekali menulis surat ke Huzur.
+3. Senantiasa mendengarkan suara khalifah lewat mengikuti Khotbah Jumat Hadhrat Khalifatul Masih V (atba) secara langsung
 
 <!-- Rujukan pd Al-Qur'an, Hadist,Sabda Hz Masih Mau'ud (as) dan para Khalifatul Masih -->
 
@@ -142,6 +142,10 @@ Setelah KPA usai, maka kita bisa menerapkannya sebagai berikut,
 
 [^ahmadiyah_id_khilafat]: [Ahmadiyah.id - Khilafat](https://ahmadiyah.id/khilafat/tentang-khilafah)
 
+[^khotbah20110520]: [Khotbah Jum’at Sayyidina Amirul Mu’minin Hadhrat Mirza Masroor Ahmad Khalifatul Masih al-Khaamis ayyadahulloohu ta’ala binashrihil ‘aziiz tanggal 20 Mei 2011 di Mesjid Baitul Futuh, London.](https://www.alislam.org/archives/sermons/summary/FST20110527-ID.pdf) 
+
+[^tafsir_ayat_istikhlaf]: [Pustaka Isa - Tafsir ayat Istikhlaf](https://pustaka.isa.web.id/2021/02/17/tafsir-ayat-istikhlaf)
+
 [^hds-e867723c-bda0-4fea-bdce-0774d6f3cb06]: [Hadits - Khalifah - Masa Kekhalifahan dan Kerajaan](https://pustaka.isa.web.id/ref/hds-e867723c-bda0-4fea-bdce-0774d6f3cb06)
 
 [^hds-32251d52-6f4d-4b6c-94e5-0811b08ff22b]: [Hadits - Khalifah - Memegang Teguh Khalifah agar Selamat](https://pustaka.isa.web.id/ref/hds-32251d52-6f4d-4b6c-94e5-0811b08ff22b)
@@ -150,11 +154,11 @@ Setelah KPA usai, maka kita bisa menerapkannya sebagai berikut,
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTc2OTI3NTEsMjAzODkxNDU2NCwtOD
-c3NTM3NTg1LDE4OTg3NzM0NzYsMTM5OTMwNDcwOCwyMDEwMDcy
-MDYsLTEzMTExNTA1MDAsMTYwNjcyMjM1NCwxNTMzNjEzOTI2LC
-01ODIzMTc0MjgsMTA2OTA0OTUyNSwtMTEwMDcwNDc2OCwxNjc0
-Mjg5MTEwLDE0MTE4Njk4NTgsLTE0NDMwNzM5NCwtMTc3MDM1ND
-g1NCwxMzU5NjAzNDMxLC0xMTcxMzY0MzM4LC0xNzAyNjI4NzA3
-LC0xOTYwNTM3NDIwXX0=
+eyJoaXN0b3J5IjpbLTczNzI1OTEyLDIwMzg5MTQ1NjQsLTg3Nz
+UzNzU4NSwxODk4NzczNDc2LDEzOTkzMDQ3MDgsMjAxMDA3MjA2
+LC0xMzExMTUwNTAwLDE2MDY3MjIzNTQsMTUzMzYxMzkyNiwtNT
+gyMzE3NDI4LDEwNjkwNDk1MjUsLTExMDA3MDQ3NjgsMTY3NDI4
+OTExMCwxNDExODY5ODU4LC0xNDQzMDczOTQsLTE3NzAzNTQ4NT
+QsMTM1OTYwMzQzMSwtMTE3MTM2NDMzOCwtMTcwMjYyODcwNywt
+MTk2MDUzNzQyMF19
 -->
