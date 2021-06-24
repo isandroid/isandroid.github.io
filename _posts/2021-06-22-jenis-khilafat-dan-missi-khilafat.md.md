@@ -65,7 +65,7 @@ Khilafah mengukuhkan kekuasaan Allah di bumi, dan Khalifah berjuang untuk menega
 
 ### Jenis-Jenis Khalifah
 
-
+Hadhrat Khalifatul Mas
 
 ### Dasar Kemunculan Khalifah Rosyidah dan Khalifatul Masih
 
@@ -148,11 +148,11 @@ Setelah KPA usai, maka kita bisa menerapkannya sebagai berikut,
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAzODkxNDU2NCwtODc3NTM3NTg1LDE4OT
-g3NzM0NzYsMTM5OTMwNDcwOCwyMDEwMDcyMDYsLTEzMTExNTA1
-MDAsMTYwNjcyMjM1NCwxNTMzNjEzOTI2LC01ODIzMTc0MjgsMT
-A2OTA0OTUyNSwtMTEwMDcwNDc2OCwxNjc0Mjg5MTEwLDE0MTE4
-Njk4NTgsLTE0NDMwNzM5NCwtMTc3MDM1NDg1NCwxMzU5NjAzND
-MxLC0xMTcxMzY0MzM4LC0xNzAyNjI4NzA3LC0xOTYwNTM3NDIw
-LC0xMTAxMjYwMDczXX0=
+eyJoaXN0b3J5IjpbLTEwODMwNDg5MTgsMjAzODkxNDU2NCwtOD
+c3NTM3NTg1LDE4OTg3NzM0NzYsMTM5OTMwNDcwOCwyMDEwMDcy
+MDYsLTEzMTExNTA1MDAsMTYwNjcyMjM1NCwxNTMzNjEzOTI2LC
+01ODIzMTc0MjgsMTA2OTA0OTUyNSwtMTEwMDcwNDc2OCwxNjc0
+Mjg5MTEwLDE0MTE4Njk4NTgsLTE0NDMwNzM5NCwtMTc3MDM1ND
+g1NCwxMzU5NjAzNDMxLC0xMTcxMzY0MzM4LC0xNzAyNjI4NzA3
+LC0xOTYwNTM3NDIwXX0=
 -->
