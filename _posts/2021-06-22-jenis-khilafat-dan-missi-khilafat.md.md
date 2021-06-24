@@ -105,6 +105,8 @@ Rasulullah (saw) bersabda,
 (H.R. Abu Dawud, Kitab Sunnah, Berpegang teguh dengan sunnah) [[^hds-32251d52-6f4d-4b6c-94e5-0811b08ff22b]]
 
 <!-- ref khutbah Huzur pd hari Khilafat 2021 -->
+<!-- https://www.alislam.org/archives/sermons/summary/FSS20210528-ID.pdf -->
+<!-- https://pustaka.isa.web.id/2021/06/04/khilafat-mengubah-takut-menjadi-damai.html -->
 
 
 ### Implementasi untuk Taat kepada Khilafat Saat Mengikuti KPA
@@ -154,11 +156,11 @@ Setelah KPA usai, maka kita bisa menerapkannya sebagai berikut,
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczNzI1OTEyLDIwMzg5MTQ1NjQsLTg3Nz
-UzNzU4NSwxODk4NzczNDc2LDEzOTkzMDQ3MDgsMjAxMDA3MjA2
-LC0xMzExMTUwNTAwLDE2MDY3MjIzNTQsMTUzMzYxMzkyNiwtNT
-gyMzE3NDI4LDEwNjkwNDk1MjUsLTExMDA3MDQ3NjgsMTY3NDI4
-OTExMCwxNDExODY5ODU4LC0xNDQzMDczOTQsLTE3NzAzNTQ4NT
-QsMTM1OTYwMzQzMSwtMTE3MTM2NDMzOCwtMTcwMjYyODcwNywt
-MTk2MDUzNzQyMF19
+eyJoaXN0b3J5IjpbLTk4NzkyODI2OSwtNzM3MjU5MTIsMjAzOD
+kxNDU2NCwtODc3NTM3NTg1LDE4OTg3NzM0NzYsMTM5OTMwNDcw
+OCwyMDEwMDcyMDYsLTEzMTExNTA1MDAsMTYwNjcyMjM1NCwxNT
+MzNjEzOTI2LC01ODIzMTc0MjgsMTA2OTA0OTUyNSwtMTEwMDcw
+NDc2OCwxNjc0Mjg5MTEwLDE0MTE4Njk4NTgsLTE0NDMwNzM5NC
+wtMTc3MDM1NDg1NCwxMzU5NjAzNDMxLC0xMTcxMzY0MzM4LC0x
+NzAyNjI4NzA3XX0=
 -->
