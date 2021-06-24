@@ -108,7 +108,9 @@ Rasulullah (saw) bersabda,
 <!-- https://www.alislam.org/archives/sermons/summary/FSS20210528-ID.pdf -->
 <!-- https://pustaka.isa.web.id/2021/06/04/khilafat-mengubah-takut-menjadi-damai.html -->
 
-Hadhrat Hakim Maulvi Nooruddin (ra) bersabda bahwa tidak ada gunanya hanya bersumpah setia (baiat), atau beliau menerima sumpah setia dari orang lain, karena hal seperti ini bisa dilakukan oleh siapa saja. Sebaliknya, aspek yang menonjol ialah keharusan ketaatan penuh kepada Khilafat [[^khotbah20210528]].
+Hadhrat Hakim Maulvi Nooruddin (ra) bersabda bahwa tidak ada gunanya hanya bersumpah setia (baiat), atau beliau menerima sumpah setia dari orang lain, karena hal seperti ini bisa dilakukan oleh siapa saja. Sebaliknya, aspek yang menonjol ialah keharusan **ketaatan penuh kepada Khilafat** [[^khotbah20210528]].
+
+
 
 ### Implementasi untuk Taat kepada Khilafat Saat Mengikuti KPA
 
@@ -158,11 +160,11 @@ Setelah KPA usai, maka kita bisa menerapkannya sebagai berikut,
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MjIwMDEyNywtNzM3MjU5MTIsMjAzOD
-kxNDU2NCwtODc3NTM3NTg1LDE4OTg3NzM0NzYsMTM5OTMwNDcw
-OCwyMDEwMDcyMDYsLTEzMTExNTA1MDAsMTYwNjcyMjM1NCwxNT
-MzNjEzOTI2LC01ODIzMTc0MjgsMTA2OTA0OTUyNSwtMTEwMDcw
-NDc2OCwxNjc0Mjg5MTEwLDE0MTE4Njk4NTgsLTE0NDMwNzM5NC
-wtMTc3MDM1NDg1NCwxMzU5NjAzNDMxLC0xMTcxMzY0MzM4LC0x
-NzAyNjI4NzA3XX0=
+eyJoaXN0b3J5IjpbLTE1ODc4MjM5NjMsLTE3MjIwMDEyNywtNz
+M3MjU5MTIsMjAzODkxNDU2NCwtODc3NTM3NTg1LDE4OTg3NzM0
+NzYsMTM5OTMwNDcwOCwyMDEwMDcyMDYsLTEzMTExNTA1MDAsMT
+YwNjcyMjM1NCwxNTMzNjEzOTI2LC01ODIzMTc0MjgsMTA2OTA0
+OTUyNSwtMTEwMDcwNDc2OCwxNjc0Mjg5MTEwLDE0MTE4Njk4NT
+gsLTE0NDMwNzM5NCwtMTc3MDM1NDg1NCwxMzU5NjAzNDMxLC0x
+MTcxMzY0MzM4XX0=
 -->
