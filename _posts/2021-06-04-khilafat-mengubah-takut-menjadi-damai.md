@@ -90,35 +90,15 @@ Hudhur ayyadahuLlahu ta’ala mengatakan bahwa pada bulan Maret 1914, ketika Kha
 
 Hudhur ayyadahuLlahu ta’ala mengatakan bahwa ada orang-orang yang menentang Khilafat dan menentang Hadhrat Mirza Bashiruddin Mahmud Ahmad (ra) menjadi Khalifah. Hadhrat Mirza Bashiruddin Mahmud Ahmad (ra) menyatakan bahwa menurut kehendak Hadhrat Masih Mau’ud (as) dan janji yang dibuat kepadanya oleh Tuhan, harus ada Khilafat, dan beliau akan berbaiat kepada siapa pun yang dipilih. Akhirnya, meskipun secara pribadi beliau tidak menginginkan jabatan itu, Hadhrat Mirza Bashiruddin Mahmud Ahmad (ra) terpilih sebagai Khalifah berikutnya. Tercatat ada lebih dari 2.000 orang di Masjid Nur yang berbaiat kepada Khalifah Kedua (ra) dan keadaan pengabdian mereka sedemikian rupa sehingga mereka bersuara lantang untuk berbaiat kepadanya. 51 tahun era Khalifah Kedua (ra) sendiri merupakan bukti pertolongan Tuhan yang menyertai Khilafat.
 
-Pada November 1965, setelah wafatnya Khalifah Kedua, Tuhan Yang Maha Kuasa kembali
-memenuhi janji-Nya dan mendirikan Khilafat dalam sosok Khalifah Ketiga, Hadhrat Mirza Nasir Ahmad
-(rh). Selama era ini, Jemaat membuat langkah besar lagi, termasuk kesuksesan besar yang dapat
-dilihat di Afrika. Selama era inilah pemerintah Pakistan berusaha untuk menekan Jemaat Muslim
-Ahmadiyah dan menghilangkannya, tetapi Khalifah Ketiga (rh) mampu mengarahkan Jemaat keluar
-dari situasi itu dan memberikan keamanan kepada Jemaat.
+Pada November 1965, setelah wafatnya Khalifah Kedua, Tuhan Yang Maha Kuasa kembali memenuhi janji-Nya dan mendirikan Khilafat dalam sosok Khalifah Ketiga, Hadhrat Mirza Nasir Ahmad (rh). Selama era ini, Jemaat membuat langkah besar lagi, termasuk kesuksesan besar yang dapat dilihat di Afrika. Selama era inilah pemerintah Pakistan berusaha untuk menekan Jemaat Muslim Ahmadiyah dan menghilangkannya, tetapi Khalifah Ketiga (rh) mampu mengarahkan Jemaat keluar dari situasi itu dan memberikan keamanan kepada Jemaat.
 
-Hudhur ayyadahuLlahu ta’ala mengatakan bahwa kemudian, pada bulan Juni 1982, ketika
-Khalifah Ketiga (rh) wafat, Tuhan Yang Maha Kuasa mengubah ketakutan Jemaat menjadi damai
-sekali lagi dengan mendirikan Khilafat dalam bentuk Khalifah Keempat, Hadhrat Mirza Tahir Ahmad (
-rh). Tuhan memanifestasikan bantuan-Nya dengan cara yang luar biasa selama ini. Khalifah Keempat
-(rh) dapat dengan aman bermigrasi dari Pakistan ke London. Selama era inilah melalui satelit, saluran
-televisi global dimulai yang membuka jalan baru yang tidak terhitung jumlahnya.
+Hudhur ayyadahuLlahu ta’ala mengatakan bahwa kemudian, pada bulan Juni 1982, ketika Khalifah Ketiga (rh) wafat, Tuhan Yang Maha Kuasa mengubah ketakutan Jemaat menjadi damai sekali lagi dengan mendirikan Khilafat dalam bentuk Khalifah Keempat, Hadhrat Mirza Tahir Ahmad ( rh). Tuhan memanifestasikan bantuan-Nya dengan cara yang luar biasa selama ini. Khalifah Keempat (rh) dapat dengan aman bermigrasi dari Pakistan ke London. Selama era inilah melalui satelit, saluran televisi global dimulai yang membuka jalan baru yang tidak terhitung jumlahnya.
 
-Hudhur ayyadahuLlahu ta’ala mengatakan bahwa pada bulan April 2003, Jemaat dilanda duka
-yang luar biasa lagi ketika Khalifah Keempat (rh) meninggal dunia. Para penentang berpikir bahwa ini
-pasti akhir dari Jemaat, namun Tuhan Yang Maha Esa membantu Jemaat sedemikian rupa sehingga
-bahkan lawan harus mengakui bahwa pertolongan Tuhan ada dengan Jemaat ini, seperti yang
-dilaksanakan oleh Khalifah Kelima ayyadahuLlahu ta’ala. Para penentang berpikir bahwa Jemaat tidak
-akan berkembang, tetapi sedikit yang mereka tahu bahwa tangan sejati yang memimpin Jemaat ini
-adalah tangan Tuhan. Kemajuan Jemaat yang terlihat di era ini adalah melalui kasih karunia Tuhan,
-dan janji-Nya dibuat untuk Hadhrat Masih Mau’ud (as).
+Hudhur ayyadahuLlahu ta’ala mengatakan bahwa pada bulan April 2003, Jemaat dilanda duka yang luar biasa lagi ketika Khalifah Keempat (rh) meninggal dunia. Para penentang berpikir bahwa ini pasti akhir dari Jemaat, namun Tuhan Yang Maha Esa membantu Jemaat sedemikian rupa sehingga bahkan lawan harus mengakui bahwa pertolongan Tuhan ada dengan Jemaat ini, seperti yang dilaksanakan oleh Khalifah Kelima ayyadahuLlahu ta’ala. Para penentang berpikir bahwa Jemaat tidak akan berkembang, tetapi sedikit yang mereka tahu bahwa tangan sejati yang memimpin Jemaat ini adalah tangan Tuhan. Kemajuan Jemaat yang terlihat di era ini adalah melalui kasih karunia Tuhan, dan janji-Nya dibuat untuk Hadhrat Masih Mau’ud (as).
 
 ### Kemajuan yang dibuat di Bawah Kepemimpinan Khilafat
 
-Hudhur ayyadahuLlahu ta’ala menyatakan bahwa Jemaat berkembang pesat. Terjemahan AlQur'an dalam berbagai bahasa disebarkan ke seluruh dunia. MTA dimulai hanya dengan satu saluran,
-dan sekarang ada delapan saluran dan studio yang didirikan di seluruh dunia. Pesan Jemaat juga
-disebarkan melalui Media Sosial. Jalan baru yang sedang dibuka, seperti Mulaqat Virtual, dimana
-Khalifatul Masih yang berada di Inggris bertemu dengan orang-orang dari seluruh dunia dan orangorang dapat menerima bimbingan langsung dari Khalifah mereka.
+Hudhur ayyadahuLlahu ta’ala menyatakan bahwa Jemaat berkembang pesat. Terjemahan AlQur'an dalam berbagai bahasa disebarkan ke seluruh dunia. MTA dimulai hanya dengan satu saluran, dan sekarang ada delapan saluran dan studio yang didirikan di seluruh dunia. Pesan Jemaat juga disebarkan melalui Media Sosial. Jalan baru yang sedang dibuka, seperti Mulaqat Virtual, dimana Khalifatul Masih yang berada di Inggris bertemu dengan orang-orang dari seluruh dunia dan orangorang dapat menerima bimbingan langsung dari Khalifah mereka.
 
 Hudhur ayyadahuLlahu ta’ala menyatakan bahwa karunia Tuhan yang berhubungan dengan
 Khilafat tidak terhitung banyaknya. Namun, jika kita ingin mendapatkan kesepakatan, maka kita harus
@@ -146,5 +126,5 @@ Muhammad (saw) di seluruh dunia. Semoga kita melihat Keesaan Tuhan didirikan di 
 
 ### Catatan Kaki
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0NzMyODE0N119
+eyJoaXN0b3J5IjpbMTM3OTQ1OTQ3OV19
 -->
