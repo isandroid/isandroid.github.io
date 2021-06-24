@@ -32,33 +32,15 @@ ayat-ayat berikut dari Al-Qur'an:
     وَاَقِیۡمُوا الصَّلٰوۃَ وَاٰتُوا الزَّکٰوۃَ وَاَطِیۡعُوا الرَّسُوۡلَ لَعَلَّکُمۡ تُرۡحَمُوۡنَ
 </p>
 
-> “Allah telah berjanji kepada orang-orang yang beriman dari antara kamu dan berbuat amal saleh,
-bahwa Dia pasti akan menjadikan mereka itu Khalifah di bumi ini, sebagaimana Dia telah menjadikan
-Khalifah orang-orang yang sebelum mereka; dan Dia pasti akan meneguhkan bagi mereka agama
-mereka, yang telah Dia ridhai bagi mereka; dan pasti Dia akan memberi mereka keamanan dan
-kedamaian sebagai pengganti sesudah ketakutan mencekam mereka. Mereka akan menyembah Aku,
-dan mereka tidak akan mempersekutukan sesuatu dengan Aku. Dan barangsiapa ingkar sesudah itu,
-mereka itulah orang-orang durhaka.”
-
-> “Dan dirikanlah shalat, dan bayarlah zakat, dan taatlah kepada Rasul itu supaya kamu mendapat
-rahmat”, (Al-Qur'an, Surah an-Nur, 24: 56-57)
+>“Allah telah berjanji kepada orang-orang yang beriman dari antara kamu dan berbuat amalsaleh, bahwa Dia pasti akan menjadikan mereka itu Khalifah di bumi ini, sebagaimana Dia telah menjadikan Khalifah orang-orang yang sebelum mereka; dan Dia pasti akan meneguhkan bagi mereka agama mereka, yang telah Dia ridhai bagi mereka; dan pasti Dia akan memberi mereka keamanan dan kedamaian sebagai pengganti sesudah ketakutan mencekam mereka. Mereka akan menyembah Aku, dan mereka tidak akan mempersekutukan sesuatu dengan Aku. Dan barangsiapa ingkar sesudah itu, mereka itulah orang-orang durhaka.”
+>
+> “Dan dirikanlah shalat, dan bayarlah zakat, dan taatlah kepada Rasul itu supaya kamu mendapat rahmat”, (Al-Qur'an, Surah an-Nur, 24: 56-57)
 
 ### Memahami Makna Hari Khilafat 
 
-Hudhur ayyadahuLlahu ta’ala mengatakan bahwa kemarin tanggal 27 Mei, yang di dalam Jemaat
-dikenal sebagai Hari Khilafat. Pada hari ini, program diadakan agar kita dapat memahami pentingnya
-Khilafat dan memahami berkah ini sehingga kita dapat terus menuai manfaatnya. Kita beruntung telah
-menerima Hadhrat Masih Mau’ud (as), dan dengan demikian telah menerima Khilafat yang
-memungkinkan kita untuk terus mengikuti ajaran Hadhrat Masih Mau’ud (as) dan menyebarkannya
-lebih jauh di dunia juga.
+Hudhur ayyadahuLlahu ta’ala mengatakan bahwa kemarin tanggal 27 Mei, yang di dalam Jemaat dikenal sebagai Hari Khilafat. Pada hari ini, program diadakan agar kita dapat memahami pentingnya Khilafat dan memahami berkah ini sehingga kita dapat terus menuai manfaatnya. Kita beruntung telah menerima Hadhrat Masih Mau’ud (as), dan dengan demikian telah menerima Khilafat yang memungkinkan kita untuk terus mengikuti ajaran Hadhrat Masih Mau’ud (as) dan menyebarkannya lebih jauh di dunia juga.
 
-Hudhur ayyadahuLlahu ta’ala mengatakan bahwa dengan terhubung dengan Khilafat, setiap
-Ahmadi memiliki tanggung jawab yang harus dijunjung tinggi. Dalam ayat-ayat yang dibacakan, Tuhan
-telah menjanjikan kedamaian dan keamanan dengan syarat seseorang memiliki iman yang teguh,
-melakukan perbuatan baik (amal saleh), melakukan keadilan (keseimbangan) terhadap ibadah mereka
-dan tidak menyekutukan Tuhan. Untuk mencapai ini, menyembah Tuhan dan doa sangat penting.
-Seseorang harus melakukan shalat, menghabiskan waktu di jalan Allah dan mengikuti ajaran Nabi
-Muhammad shallaLlahu ‘alaihi wa sallam. 
+Hudhur ayyadahuLlahu ta’ala mengatakan bahwa dengan terhubung dengan Khilafat, setiap Ahmadi memiliki tanggung jawab yang harus dijunjung tinggi. Dalam ayat-ayat yang dibacakan, Tuhan telah menjanjikan kedamaian dan keamanan dengan syarat seseorang memiliki iman yang teguh, melakukan perbuatan baik (amal saleh), melakukan keadilan (keseimbangan) terhadap ibadah mereka
 
 Hudhur ayyadahuLlahu ta’ala bersabda bahwa ketika kita memenuhi hal-hal ini dan memenuhi
 janji setia kita untuk mendahulukan iman kita atas hal-hal duniawi, maka kita akan menerima karunia
@@ -242,3 +224,6 @@ Muhammad (saw) di seluruh dunia. Semoga kita melihat Keesaan Tuhan didirikan di 
 - Dildaar Ahmad Dartono. Sumber: The Review of Religions.
 
 ### Catatan Kaki
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTExNDgyNzMwMzRdfQ==
+-->
