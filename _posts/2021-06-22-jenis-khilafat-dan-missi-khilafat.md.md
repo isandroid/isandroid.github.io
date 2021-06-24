@@ -82,6 +82,16 @@ Rasulullah (saw) telah menubuwwatkan berdirinya Khilafat dan kerajaan setelah be
 
 
 ### Kriteria Seseorang Dikatakan Taat Atau Memiliki Ikatan dengan Khalifah 
+
+Rasulullah (saw) bersabda,
+
+> “Aku wasiatkan kepada kalian untuk: 
+> 
+> 1. bertakwa kepada Allah, 
+> 2. senantiasa taat dan mendengar meskipun yang memerintah adalah seorang budak habsyi yang hitam. 
+> 3. Sesungguhnya orang-orang yang hidup setelahku akan melihat perselisihan yang banyak. Maka, hendaklah kalian berpegang dengan sunahku, 
+> sunah para khalifah yang lurus dan mendapat petunjuk, berpegang teguhlah dengannya dan gigitlah dengan gigi geraham. Jauhilah oleh kalian perkara-perkara baru (dalam urusan agama), sebab setiap perkara yang baru adalah bid’ah dan setaip bid’ah adalah sesat.” H.R. [Abu Dawud, Kitab Sunnah, Berpegang teguh dengan sunnah](https://www.hadits.id/hadits/dawud/3991)
+
 <!-- ref khutbah Huzur pd hari Khilafat 2021 -->
 
 
@@ -124,11 +134,11 @@ Setelah KPA usai, maka kita bisa menerapkannya sebagai berikut,
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2OTkxNDY3NCwxMzk5MzA0NzA4LDIwMT
-AwNzIwNiwtMTMxMTE1MDUwMCwxNjA2NzIyMzU0LDE1MzM2MTM5
-MjYsLTU4MjMxNzQyOCwxMDY5MDQ5NTI1LC0xMTAwNzA0NzY4LD
-E2NzQyODkxMTAsMTQxMTg2OTg1OCwtMTQ0MzA3Mzk0LC0xNzcw
-MzU0ODU0LDEzNTk2MDM0MzEsLTExNzEzNjQzMzgsLTE3MDI2Mj
-g3MDcsLTE5NjA1Mzc0MjAsLTExMDEyNjAwNzMsMTUzNDIzMDg2
-NSwtMzIyMTgzNTM5XX0=
+eyJoaXN0b3J5IjpbLTEyMTUwMjY0NDAsMTM5OTMwNDcwOCwyMD
+EwMDcyMDYsLTEzMTExNTA1MDAsMTYwNjcyMjM1NCwxNTMzNjEz
+OTI2LC01ODIzMTc0MjgsMTA2OTA0OTUyNSwtMTEwMDcwNDc2OC
+wxNjc0Mjg5MTEwLDE0MTE4Njk4NTgsLTE0NDMwNzM5NCwtMTc3
+MDM1NDg1NCwxMzU5NjAzNDMxLC0xMTcxMzY0MzM4LC0xNzAyNj
+I4NzA3LC0xOTYwNTM3NDIwLC0xMTAxMjYwMDczLDE1MzQyMzA4
+NjUsLTMyMjE4MzUzOV19
 -->
