@@ -129,7 +129,9 @@ Semoga kita selalu teguh, dan semoga kita dapat **memenuhi janji baiat** kita se
 
 Huzur V (atba) menjelaskan tentang kewajiban para Ahmadi. Salah satunya adalah menjalin ikatan dengan khilafat. Beliau (atba) menjelaskan,
 
-> Kita juga (hendaknya) terus mengajarkan anak-anak kita supaya senantiasa bersyukur kepada Allah Ta‟ala karena Dia telah memperbaiki kondisi keuangan kita setelah datang ke sini kemudian menceritakan kepada mereka bahwa sebagai rasa syukur atas kesempatan akademis yang mereka dapatkan, hendaknya mereka menjalin hubungan yang kuat dengan Nizam Jemaat serta ikatan kesetiaan dan ketaatan dengan Khilafat
+> Kita juga (hendaknya) terus mengajarkan anak-anak kita supaya senantiasa bersyukur kepada Allah Ta‟ala karena Dia telah memperbaiki kondisi keuangan kita setelah datang ke sini kemudian menceritakan kepada mereka bahwa sebagai rasa syukur atas kesempatan akademis yang mereka dapatkan, **hendaknya mereka menjalin hubungan yang kuat dengan Nizam Jemaat serta ikatan kesetiaan dan ketaatan dengan Khilafat**.
+>
+> Begitu pula, merupakan kewajiban bagi setiap Ahmadi untuk **senantiasa memiliki hubungan yang kuat dengan Nizam Jemaat serta ikatan kesetiaan dan ketaatan dengan Khilafat** seperti yang telah mereka janjikan pada saat baiat. Dengan karunia Allah, para mubayi' baru, khususnya mereka yang telah menerima da'wa Hadhrat Masih Mau‟ud as dengan penuh keyakinan dan pengetahuan yang sempurna, senantiasa merenungkan janji mereka dan juga syarat-syarat baiat. Mereka juga menulis surat kepada saya sehubungan dengan hal ini.
 
 ### Implementasi untuk Taat kepada Khilafat Saat Mengikuti KPA
 
@@ -179,11 +181,11 @@ Setelah KPA usai, maka kita bisa menerapkannya sebagai berikut,
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjgyOTQ4OTEsMzE4NTQ5MTY5LC0yMD
-A3MzI5ODY1LDEwMDMyOTIyNTksMjczNzk1NzAzLDEzODIzMjcw
-OTYsODA4ODU5NDI5LC0xNzIyMDAxMjcsLTczNzI1OTEyLDIwMz
-g5MTQ1NjQsLTg3NzUzNzU4NSwxODk4NzczNDc2LDEzOTkzMDQ3
-MDgsMjAxMDA3MjA2LC0xMzExMTUwNTAwLDE2MDY3MjIzNTQsMT
-UzMzYxMzkyNiwtNTgyMzE3NDI4LDEwNjkwNDk1MjUsLTExMDA3
-MDQ3NjhdfQ==
+eyJoaXN0b3J5IjpbMTc0NTg5ODY1NiwzMTg1NDkxNjksLTIwMD
+czMjk4NjUsMTAwMzI5MjI1OSwyNzM3OTU3MDMsMTM4MjMyNzA5
+Niw4MDg4NTk0MjksLTE3MjIwMDEyNywtNzM3MjU5MTIsMjAzOD
+kxNDU2NCwtODc3NTM3NTg1LDE4OTg3NzM0NzYsMTM5OTMwNDcw
+OCwyMDEwMDcyMDYsLTEzMTExNTA1MDAsMTYwNjcyMjM1NCwxNT
+MzNjEzOTI2LC01ODIzMTc0MjgsMTA2OTA0OTUyNSwtMTEwMDcw
+NDc2OF19
 -->
