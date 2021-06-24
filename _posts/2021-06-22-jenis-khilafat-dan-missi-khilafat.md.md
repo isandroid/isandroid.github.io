@@ -70,6 +70,12 @@ Rasulullah (saw) telah menubuwwatkan berdirinya Khilafat dan kerajaan setelah be
 
 > Artinya, “Kenabian akan tetap berada diantara kalian selama Allah menghendaki. Kemudian akan berlaku masa khilafah yang mengikuti jejak kenabian (khilafah ‘ala minhajin-nubuwwah), dan akan tetap berada selama Allah menghendaki. Kemudian diikuti masa kerajaan yang merusak (mulkan ‘adhan), dan dia akan tetap berada selama Allah menghendaki. Kemudian setelah itu akan muncul kerajaan lalim (mulkan jabbariyyah), dan akan tetap berada selama Allah menghendaki. Kemudian muncul kembali khilafah yang mengikuti jejak kenabian (khilafah ‘ala minhajin nubuwwah).” (H.R. Ahmad) [[^hds-e867723c-bda0-4fea-bdce-0774d6f3cb06]]
 
+#### Hadits tentang Khalifah Rasyidah
+
+
+#### Hadits tentang Khalifatul Masih
+
+
 ### Misi yang Diemban Seorang Khalifatul Masih
 
 
@@ -117,11 +123,11 @@ Setelah KPA usai, maka kita bisa menerapkannya sebagai berikut,
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxMDA3MjA2LC0xMzExMTUwNTAwLDE2MD
-Y3MjIzNTQsMTUzMzYxMzkyNiwtNTgyMzE3NDI4LDEwNjkwNDk1
-MjUsLTExMDA3MDQ3NjgsMTY3NDI4OTExMCwxNDExODY5ODU4LC
-0xNDQzMDczOTQsLTE3NzAzNTQ4NTQsMTM1OTYwMzQzMSwtMTE3
-MTM2NDMzOCwtMTcwMjYyODcwNywtMTk2MDUzNzQyMCwtMTEwMT
-I2MDA3MywxNTM0MjMwODY1LC0zMjIxODM1MzksLTU4OTAxMjI2
-NCwtNjM1NzY5NzUzXX0=
+eyJoaXN0b3J5IjpbMTM5OTMwNDcwOCwyMDEwMDcyMDYsLTEzMT
+ExNTA1MDAsMTYwNjcyMjM1NCwxNTMzNjEzOTI2LC01ODIzMTc0
+MjgsMTA2OTA0OTUyNSwtMTEwMDcwNDc2OCwxNjc0Mjg5MTEwLD
+E0MTE4Njk4NTgsLTE0NDMwNzM5NCwtMTc3MDM1NDg1NCwxMzU5
+NjAzNDMxLC0xMTcxMzY0MzM4LC0xNzAyNjI4NzA3LC0xOTYwNT
+M3NDIwLC0xMTAxMjYwMDczLDE1MzQyMzA4NjUsLTMyMjE4MzUz
+OSwtNTg5MDEyMjY0XX0=
 -->
