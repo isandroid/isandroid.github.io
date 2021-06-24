@@ -93,10 +93,7 @@ Rasulullah (saw) bersabda,
 > 4. (berpegang teguh kepada) sunah para khalifah yang lurus dan mendapat petunjuk, berpegang teguhlah dengannya dan gigitlah dengan gigi geraham (sekuat mungkin). 
 > 5. Jauhilah oleh kalian perkara-perkara baru (dalam urusan agama), sebab setiap perkara yang baru adalah bid’ah dan setaip bid’ah adalah sesat.” 
 
-(H.R. Abu Dawud, Kitab Sunnah, Berpegang teguh dengan sunnah) []
-
-[##   
-Hadits - Khalifah - Memegang Teguh Khalifah agar Selamat](https://pustaka.isa.web.id/ref/hds-32251d52-6f4d-4b6c-94e5-0811b08ff22b)
+(H.R. Abu Dawud, Kitab Sunnah, Berpegang teguh dengan sunnah) [[^hds-32251d52-6f4d-4b6c-94e5-0811b08ff22b]]
 
 <!-- ref khutbah Huzur pd hari Khilafat 2021 -->
 
@@ -136,15 +133,17 @@ Setelah KPA usai, maka kita bisa menerapkannya sebagai berikut,
 
 [^hds-e867723c-bda0-4fea-bdce-0774d6f3cb06]: [Hadits - Khalifah - Masa Kekhalifahan dan Kerajaan](https://pustaka.isa.web.id/ref/hds-e867723c-bda0-4fea-bdce-0774d6f3cb06)
 
+[^hds-32251d52-6f4d-4b6c-94e5-0811b08ff22b]: [Hadits - Khalifah - Memegang Teguh Khalifah agar Selamat](https://pustaka.isa.web.id/ref/hds-32251d52-6f4d-4b6c-94e5-0811b08ff22b)
+
 <!--
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTM4MTk4MTcsMTM5OTMwNDcwOCwyMD
-EwMDcyMDYsLTEzMTExNTA1MDAsMTYwNjcyMjM1NCwxNTMzNjEz
-OTI2LC01ODIzMTc0MjgsMTA2OTA0OTUyNSwtMTEwMDcwNDc2OC
-wxNjc0Mjg5MTEwLDE0MTE4Njk4NTgsLTE0NDMwNzM5NCwtMTc3
-MDM1NDg1NCwxMzU5NjAzNDMxLC0xMTcxMzY0MzM4LC0xNzAyNj
-I4NzA3LC0xOTYwNTM3NDIwLC0xMTAxMjYwMDczLDE1MzQyMzA4
-NjUsLTMyMjE4MzUzOV19
+eyJoaXN0b3J5IjpbMjExMTQ5NzAyMSwxMzk5MzA0NzA4LDIwMT
+AwNzIwNiwtMTMxMTE1MDUwMCwxNjA2NzIyMzU0LDE1MzM2MTM5
+MjYsLTU4MjMxNzQyOCwxMDY5MDQ5NTI1LC0xMTAwNzA0NzY4LD
+E2NzQyODkxMTAsMTQxMTg2OTg1OCwtMTQ0MzA3Mzk0LC0xNzcw
+MzU0ODU0LDEzNTk2MDM0MzEsLTExNzEzNjQzMzgsLTE3MDI2Mj
+g3MDcsLTE5NjA1Mzc0MjAsLTExMDEyNjAwNzMsMTUzNDIzMDg2
+NSwtMzIyMTgzNTM5XX0=
 -->
