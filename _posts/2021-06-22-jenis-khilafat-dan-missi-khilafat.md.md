@@ -88,7 +88,11 @@ Rasulullah (saw) telah menubuwwatkan berdirinya Khilafat dan kerajaan setelah be
 
 ### Misi yang Diemban Seorang Khalifatul Masih
 
-Missi atau tugas seorang khal
+Berkenaan dengan missi atau tugas seorang khalifah, Hadhrat Mushlih Mau'ud (ra) menjelaskan,
+
+Untuk memahami fungsi dari khalifah, kita harus melihat missi pendahulunya. Allah telah menjelaskan pekerjaan Nabi Suci (saw) besertanya, yakni sebagai berikut:
+
+ 
 
 ### Kriteria Seseorang Dikatakan Taat Atau Memiliki Ikatan dengan Khalifah 
 
@@ -162,7 +166,7 @@ Setelah KPA usai, maka kita bisa menerapkannya sebagai berikut,
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxMDUwMDQxMCwyNzM3OTU3MDMsMTM4Mj
+eyJoaXN0b3J5IjpbMTAwMzI5MjI1OSwyNzM3OTU3MDMsMTM4Mj
 MyNzA5Niw4MDg4NTk0MjksLTE3MjIwMDEyNywtNzM3MjU5MTIs
 MjAzODkxNDU2NCwtODc3NTM3NTg1LDE4OTg3NzM0NzYsMTM5OT
 MwNDcwOCwyMDEwMDcyMDYsLTEzMTExNTA1MDAsMTYwNjcyMjM1
