@@ -99,7 +99,7 @@ Rasulullah (saw) bersabda,
 > 1. bertakwa kepada Allah, 
 > 2. senantiasa taat dan mendengar meskipun yang memerintah adalah seorang budak habsyi yang hitam. 
 > 3. Sesungguhnya orang-orang yang hidup setelahku akan melihat perselisihan yang banyak. Maka, hendaklah kalian berpegang dengan sunahku, 
-> 4. (berpegang teguh kepada) sunah para khalifah yang lurus dan mendapat petunjuk, berpegang teguhlah dengannya dan gigitlah dengan gigi geraham (sekuat mungkin). 
+> 4. **(berpegang teguh kepada) sunah para khalifah yang lurus dan mendapat petunjuk, berpegang teguhlah dengannya dan gigitlah dengan gigi geraham (sekuat mungkin)**. 
 > 5. Jauhilah oleh kalian perkara-perkara baru (dalam urusan agama), sebab setiap perkara yang baru adalah bid’ah dan setaip bid’ah adalah sesat.” 
 
 (H.R. Abu Dawud, Kitab Sunnah, Berpegang teguh dengan sunnah) [[^hds-32251d52-6f4d-4b6c-94e5-0811b08ff22b]]
@@ -160,11 +160,11 @@ Setelah KPA usai, maka kita bisa menerapkannya sebagai berikut,
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODc4MjM5NjMsLTE3MjIwMDEyNywtNz
-M3MjU5MTIsMjAzODkxNDU2NCwtODc3NTM3NTg1LDE4OTg3NzM0
-NzYsMTM5OTMwNDcwOCwyMDEwMDcyMDYsLTEzMTExNTA1MDAsMT
-YwNjcyMjM1NCwxNTMzNjEzOTI2LC01ODIzMTc0MjgsMTA2OTA0
-OTUyNSwtMTEwMDcwNDc2OCwxNjc0Mjg5MTEwLDE0MTE4Njk4NT
-gsLTE0NDMwNzM5NCwtMTc3MDM1NDg1NCwxMzU5NjAzNDMxLC0x
-MTcxMzY0MzM4XX0=
+eyJoaXN0b3J5IjpbODA4ODU5NDI5LC0xNzIyMDAxMjcsLTczNz
+I1OTEyLDIwMzg5MTQ1NjQsLTg3NzUzNzU4NSwxODk4NzczNDc2
+LDEzOTkzMDQ3MDgsMjAxMDA3MjA2LC0xMzExMTUwNTAwLDE2MD
+Y3MjIzNTQsMTUzMzYxMzkyNiwtNTgyMzE3NDI4LDEwNjkwNDk1
+MjUsLTExMDA3MDQ3NjgsMTY3NDI4OTExMCwxNDExODY5ODU4LC
+0xNDQzMDczOTQsLTE3NzAzNTQ4NTQsMTM1OTYwMzQzMSwtMTE3
+MTM2NDMzOF19
 -->
