@@ -119,9 +119,11 @@ Rasulullah (saw) bersabda,
 
 Hadhrat Hakim Maulvi Nooruddin (ra) bersabda bahwa tidak ada gunanya hanya bersumpah setia (baiat), atau beliau menerima sumpah setia dari orang lain, karena hal seperti ini bisa dilakukan oleh siapa saja. Sebaliknya, aspek yang menonjol ialah keharusan **ketaatan penuh kepada Khilafat** [[^khotbah20210528]]
 
-Hudhur V ayyadahuLLahu ta’ala menyatakan bahwa Jemaat berkembang pesat. Terjemahan AlQur’an dalam berbagai bahasa disebarkan ke seluruh dunia. MTA dimulai hanya dengan satu saluran, dan sekarang ada delapan saluran dan studio yang didirikan di seluruh dunia. Pesan Jemaat juga disebarkan melalui Media Sosial. Jalan baru yang sedang dibuka, seperti Mulaqat Virtual, dimana Khalifatul Masih yang berada di Inggris bertemu dengan orang-orang dari seluruh dunia dan orangorang dapat menerima bimbingan langsung dari Khalifah mereka. 
+Hudhur V ayyadahuLLahu ta’ala menyatakan bahwa Jemaat berkembang pesat. Terjemahan AlQur’an dalam berbagai bahasa disebarkan ke seluruh dunia. MTA dimulai hanya dengan satu saluran, dan sekarang ada delapan saluran dan studio yang didirikan di seluruh dunia. Pesan Jemaat juga disebarkan melalui Media Sosial. Jalan baru yang sedang dibuka, seperti Mulaqat Virtual, dimana Khalifatul Masih yang berada di Inggris bertemu dengan orang-orang dari seluruh dunia dan orang-orang dapat menerima bimbingan langsung dari Khalifah mereka. 
 
-Hudhur ayyadahuLlahu ta’ala menyatakan bahwa karunia Tuhan yang berhubungan dengan Khilafat tidak terhitung banyaknya. Namun, jika kita ingin mendapatkan manfaat maka kita harus memenuhi tanggung jawab kita; **kita harus benar-benar taat pada Khilafat dan menanamkan hal yang sama pada generasi mendatang** [[^khotbah20210528]].
+Hudhur ayyadahuLlahu ta’ala menyatakan bahwa karunia Tuhan yang berhubungan dengan Khilafat tidak terhitung banyaknya. Namun, jika kita ingin mendapatkan manfaat maka kita harus memenuhi tanggung jawab kita; **kita harus benar-benar taat pada Khilafat dan menanamkan hal yang sama pada generasi mendatang**. 
+
+Semoga kita selalu teguh, dan semoga kita dapat **memenuhi janji baiat** kita sehingga kita dapat melihat janji Tuhan dan kemenangan Jemaat. Semoga ibadah dan perbuatan kita mencapai keridhaan Tuhan. Semoga kita benar-benar memahami karunia Khilafat dan dapat menjelaskannya kepada generasi mendatang sehingga mereka dapat memperoleh manfaat dari Khilafat juga.[[^khotbah20210528]].
 
 ### Implementasi untuk Taat kepada Khilafat Saat Mengikuti KPA
 
@@ -171,11 +173,11 @@ Setelah KPA usai, maka kita bisa menerapkannya sebagai berikut,
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1NjY4OTUxMCwtMjAwNzMyOTg2NSwxMD
-AzMjkyMjU5LDI3Mzc5NTcwMywxMzgyMzI3MDk2LDgwODg1OTQy
-OSwtMTcyMjAwMTI3LC03MzcyNTkxMiwyMDM4OTE0NTY0LC04Nz
-c1Mzc1ODUsMTg5ODc3MzQ3NiwxMzk5MzA0NzA4LDIwMTAwNzIw
-NiwtMTMxMTE1MDUwMCwxNjA2NzIyMzU0LDE1MzM2MTM5MjYsLT
-U4MjMxNzQyOCwxMDY5MDQ5NTI1LC0xMTAwNzA0NzY4LDE2NzQy
-ODkxMTBdfQ==
+eyJoaXN0b3J5IjpbMzE4NTQ5MTY5LC0yMDA3MzI5ODY1LDEwMD
+MyOTIyNTksMjczNzk1NzAzLDEzODIzMjcwOTYsODA4ODU5NDI5
+LC0xNzIyMDAxMjcsLTczNzI1OTEyLDIwMzg5MTQ1NjQsLTg3Nz
+UzNzU4NSwxODk4NzczNDc2LDEzOTkzMDQ3MDgsMjAxMDA3MjA2
+LC0xMzExMTUwNTAwLDE2MDY3MjIzNTQsMTUzMzYxMzkyNiwtNT
+gyMzE3NDI4LDEwNjkwNDk1MjUsLTExMDA3MDQ3NjgsMTY3NDI4
+OTExMF19
 -->
