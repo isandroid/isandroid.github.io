@@ -82,7 +82,7 @@ Rasulullah (saw) telah menubuwwatkan berdirinya Khilafat dan kerajaan setelah be
 
 Beberapa cara kita menerapkan ketaatan kepada khilafat ketika mengikuti KPA diantaranya adalah sebagai berikut:
 
- 1. List item
+ 1. Mengikuti seluru
 
 <!-- Rujukan pd Al-Qur'an, Hadist,Sabda Hz Masih Mau'ud (as) dan para Khalifatul Masih -->
 
@@ -108,11 +108,11 @@ Beberapa cara kita menerapkan ketaatan kepada khilafat ketika mengikuti KPA dian
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTExNTA1MDAsMTYwNjcyMjM1NCwxNT
-MzNjEzOTI2LC01ODIzMTc0MjgsMTA2OTA0OTUyNSwtMTEwMDcw
-NDc2OCwxNjc0Mjg5MTEwLDE0MTE4Njk4NTgsLTE0NDMwNzM5NC
-wtMTc3MDM1NDg1NCwxMzU5NjAzNDMxLC0xMTcxMzY0MzM4LC0x
-NzAyNjI4NzA3LC0xOTYwNTM3NDIwLC0xMTAxMjYwMDczLDE1Mz
-QyMzA4NjUsLTMyMjE4MzUzOSwtNTg5MDEyMjY0LC02MzU3Njk3
-NTMsMjA0NzYyODg2NV19
+eyJoaXN0b3J5IjpbLTIyMTE1NDM1MCwtMTMxMTE1MDUwMCwxNj
+A2NzIyMzU0LDE1MzM2MTM5MjYsLTU4MjMxNzQyOCwxMDY5MDQ5
+NTI1LC0xMTAwNzA0NzY4LDE2NzQyODkxMTAsMTQxMTg2OTg1OC
+wtMTQ0MzA3Mzk0LC0xNzcwMzU0ODU0LDEzNTk2MDM0MzEsLTEx
+NzEzNjQzMzgsLTE3MDI2Mjg3MDcsLTE5NjA1Mzc0MjAsLTExMD
+EyNjAwNzMsMTUzNDIzMDg2NSwtMzIyMTgzNTM5LC01ODkwMTIy
+NjQsLTYzNTc2OTc1M119
 -->
