@@ -110,9 +110,9 @@ Rasulullah (saw) bersabda,
 
 Hadhrat Hakim Maulvi Nooruddin (ra) bersabda bahwa tidak ada gunanya hanya bersumpah setia (baiat), atau beliau menerima sumpah setia dari orang lain, karena hal seperti ini bisa dilakukan oleh siapa saja. Sebaliknya, aspek yang menonjol ialah keharusan **ketaatan penuh kepada Khilafat** [[^khotbah20210528]]
 
-Hudhur ayyadahuLlahu ta’ala menyatakan bahwa Jemaat berkembang pesat. Terjemahan AlQur’an dalam berbagai bahasa disebarkan ke seluruh dunia. MTA dimulai hanya dengan satu saluran, dan sekarang ada delapan saluran dan studio yang didirikan di seluruh dunia. Pesan Jemaat juga disebarkan melalui Media Sosial. Jalan baru yang sedang dibuka, seperti Mulaqat Virtual, dimana Khalifatul Masih yang berada di Inggris bertemu dengan orang-orang dari seluruh dunia dan orangorang dapat menerima bimbingan langsung dari Khalifah mereka. 
+Hudhur V ayyadahuLlahu ta’ala menyatakan bahwa Jemaat berkembang pesat. Terjemahan AlQur’an dalam berbagai bahasa disebarkan ke seluruh dunia. MTA dimulai hanya dengan satu saluran, dan sekarang ada delapan saluran dan studio yang didirikan di seluruh dunia. Pesan Jemaat juga disebarkan melalui Media Sosial. Jalan baru yang sedang dibuka, seperti Mulaqat Virtual, dimana Khalifatul Masih yang berada di Inggris bertemu dengan orang-orang dari seluruh dunia dan orangorang dapat menerima bimbingan langsung dari Khalifah mereka. 
 
-Hudhur ayyadahuLlahu ta’ala menyatakan bahwa karunia Tuhan yang berhubungan dengan Khilafat tidak terhitung banyaknya. Namun, jika kita ingin mendapatkan kesepakatan, maka kita harus memenuhi tanggung jawab kita; kita harus benar-benar taat pada Khilafat dan menanamkan hal yang sama pada generasi mendatang.
+Hudhur ayyadahuLlahu ta’ala menyatakan bahwa karunia Tuhan yang berhubungan dengan Khilafat tidak terhitung banyaknya. Namun, jika kita ingin mendapatkan kesempakatan, maka kita harus memenuhi tanggung jawab kita; **kita harus benar-benar taat pada Khilafat dan menanamkan hal yang sama pada generasi mendatang** [[^khotbah20210528]].
 
 ### Implementasi untuk Taat kepada Khilafat Saat Mengikuti KPA
 
@@ -162,7 +162,7 @@ Setelah KPA usai, maka kita bisa menerapkannya sebagai berikut,
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyNjI5MjcwNiw4MDg4NTk0MjksLTE3Mj
+eyJoaXN0b3J5IjpbMTkxNjMwMjU2Miw4MDg4NTk0MjksLTE3Mj
 IwMDEyNywtNzM3MjU5MTIsMjAzODkxNDU2NCwtODc3NTM3NTg1
 LDE4OTg3NzM0NzYsMTM5OTMwNDcwOCwyMDEwMDcyMDYsLTEzMT
 ExNTA1MDAsMTYwNjcyMjM1NCwxNTMzNjEzOTI2LC01ODIzMTc0
