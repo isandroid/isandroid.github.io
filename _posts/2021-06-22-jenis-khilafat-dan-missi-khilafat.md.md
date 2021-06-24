@@ -68,7 +68,7 @@ Rasulullah (saw) telah menubuwwatkan berdirinya Khilafat dan kerajaan setelah be
 تَكُونُ النُّبُوَّةُ فِيكُمْ مَا شَاءَ اللَّهُ أَنْ تَكُونَ ثُمَّ يَرْفَعُهَا إِذَا شَاءَ أَنْ يَرْفَعَهَا ثُمَّ تَكُونُ خِلَافَةٌ عَلَى مِنْهَاجِ النُّبُوَّةِ فَتَكُونُ مَا شَاءَ اللَّهُ أَنْ تَكُونَ ثُمَّ يَرْفَعُهَا إِذَا شَاءَ اللَّهُ أَنْ يَرْفَعَهَا ثُمَّ تَكُونُ مُلْكًا عَاضًّا فَيَكُونُ مَا شَاءَ اللَّهُ أَنْ يَكُونَ ثُمَّ يَرْفَعُهَا إِذَا شَاءَ أَنْ يَرْفَعَهَا ثُمَّ تَكُونُ مُلْكًا جَبْرِيَّةً فَتَكُونُ مَا شَاءَ اللَّهُ أَنْ تَكُونَ ثُمَّ يَرْفَعُهَا إِذَا شَاءَ أَنْ يَرْفَعَهَا ثُمَّ تَكُونُ خِلَافَةً عَلَى مِنْهَاجِ النُّبُوَّةِ ثُمَّ سَكَتَ
 </p>
 
-> Artinya, “Kenabian akan tetap berada diantara kalian selama Allah menghendaki. Kemudian akan berlaku masa khilafah yang mengikuti jejak kenabian (khilafah ‘ala minhajin-nubuwwah), dan akan tetap berada selama Allah menghendaki. Kemudian diikuti masa kerajaan yang merusak (mulkan ‘adhan), dan dia akan tetap berada selama Allah menghendaki. Kemudian setelah itu akan muncul kerajaan lalim (mulkan jabbariyyah), dan akan tetap berada selama Allah menghendaki. Kemudian muncul kembali khilafah yang mengikuti jejak kenabian (khilafah ‘ala minhajin nubuwwah).” ([H.R. Ahmad](https://pustaka.isa.web.id/ref/hds-e867723c-bda0-4fea-bdce-0774d6f3cb06))
+> Artinya, “Kenabian akan tetap berada diantara kalian selama Allah menghendaki. Kemudian akan berlaku masa khilafah yang mengikuti jejak kenabian (khilafah ‘ala minhajin-nubuwwah), dan akan tetap berada selama Allah menghendaki. Kemudian diikuti masa kerajaan yang merusak (mulkan ‘adhan), dan dia akan tetap berada selama Allah menghendaki. Kemudian setelah itu akan muncul kerajaan lalim (mulkan jabbariyyah), dan akan tetap berada selama Allah menghendaki. Kemudian muncul kembali khilafah yang mengikuti jejak kenabian (khilafah ‘ala minhajin nubuwwah).” (H.R. Ahmad) [[^hds-e867723c-bda0-4fea-bdce-0774d6f3cb06]]
 
 ### Misi yang Diemban Seorang Khalifatul Masih
 
@@ -100,15 +100,17 @@ Rasulullah (saw) telah menubuwwatkan berdirinya Khilafat dan kerajaan setelah be
 
 [^ahmadiyah_id_khilafat]: [Ahmadiyah.id - Khilafat](https://ahmadiyah.id/khilafat/tentang-khilafah)
 
+[^hds-e867723c-bda0-4fea-bdce-0774d6f3cb06]: https://pustaka.isa.web.id/ref/hds-e867723c-bda0-4fea-bdce-0774d6f3cb06
+
 <!--
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzMzYxMzkyNiwtNTgyMzE3NDI4LDEwNj
-kwNDk1MjUsLTExMDA3MDQ3NjgsMTY3NDI4OTExMCwxNDExODY5
-ODU4LC0xNDQzMDczOTQsLTE3NzAzNTQ4NTQsMTM1OTYwMzQzMS
-wtMTE3MTM2NDMzOCwtMTcwMjYyODcwNywtMTk2MDUzNzQyMCwt
-MTEwMTI2MDA3MywxNTM0MjMwODY1LC0zMjIxODM1MzksLTU4OT
-AxMjI2NCwtNjM1NzY5NzUzLDIwNDc2Mjg4NjUsLTUxMzQ2NzIx
-NCwtMTc5NTQ2OTc3OV19
+eyJoaXN0b3J5IjpbLTU5MjM4ODEwMywxNTMzNjEzOTI2LC01OD
+IzMTc0MjgsMTA2OTA0OTUyNSwtMTEwMDcwNDc2OCwxNjc0Mjg5
+MTEwLDE0MTE4Njk4NTgsLTE0NDMwNzM5NCwtMTc3MDM1NDg1NC
+wxMzU5NjAzNDMxLC0xMTcxMzY0MzM4LC0xNzAyNjI4NzA3LC0x
+OTYwNTM3NDIwLC0xMTAxMjYwMDczLDE1MzQyMzA4NjUsLTMyMj
+E4MzUzOSwtNTg5MDEyMjY0LC02MzU3Njk3NTMsMjA0NzYyODg2
+NSwtNTEzNDY3MjE0XX0=
 -->
