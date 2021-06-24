@@ -17,8 +17,6 @@ Allah Ta'ala berfirman dalam QS An-Nur (24) ayat 56:
 
 > "Allah telah berjanji kepada orang-orang yang beriman dari antara kamu dan berbuat amal saleh, bahwa Dia pasti akan menjadikan mereka itu khalifah di bumi ini, sebagaimana Dia telah menjadikan khalifah orang-orang yang sebelum mereka; dan Dia pasti akan meneguhkan bagi mereka agama mereka, yang telah Dia ridhai bagi mereka; dan pasti Dia akan memberi mereka keamanan _dan kedamaian_ sebagai pengganti sesudah ketakutan _mencekam_ mereka. Mereka akan menyembah Aku, dan mereka tidak akan mempersekutukan sesuatu dengan Aku. Dan barangsiapa ingkar sesudah itu, mereka itulah orang-orang durhaka." [[^qs_024_056]]
 
-[^qs_024_056]: [QS 24:56](/ref/qrn-024-056)
-
 Ayat ini berisikan janji, bahwa Kaum Muslimin akan dianugerahi pimpinan rohani maupun duniawi. 
 
 Hadhrat Khalifatul Masih IV (r.h) menjelaskan mengenai ayat ini,
@@ -124,6 +122,8 @@ Setelah KPA usai, maka kita bisa menerapkannya sebagai berikut,
 
 ### Catatan Kaki
 
+[^qs_024_056]: [Alquran Surah An-Nuur (24) ayat 56 dengan basmallah](/ref/qrn-024-056)
+
 [^fn-kata-kholafa]: [Kamus Almaany pencarian Kata _kho-la-fa_](https://www.almaany.com/id/dict/ar-id/%D8%AE%D9%84%D9%81/)
 
 [^barakat-e-khilafat_p6]: Hadhrat Mirza Basyiruddin Mahmud Ahmad, [*Barakat-e-Khilafat* atau *Blessings-of-Khilafat*](https://www.alislam.org/library/books/Blessings-of-Khilafat.pdf) halaman 6.
@@ -146,11 +146,11 @@ Setelah KPA usai, maka kita bisa menerapkannya sebagai berikut,
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3NzUzNzU4NSwxODk4NzczNDc2LC04Nz
-c1Mzc1ODUsMTM5OTMwNDcwOCwyMDEwMDcyMDYsLTEzMTExNTA1
-MDAsMTYwNjcyMjM1NCwxNTMzNjEzOTI2LC01ODIzMTc0MjgsMT
-A2OTA0OTUyNSwtMTEwMDcwNDc2OCwxNjc0Mjg5MTEwLDE0MTE4
-Njk4NTgsLTE0NDMwNzM5NCwtMTc3MDM1NDg1NCwxMzU5NjAzND
-MxLC0xMTcxMzY0MzM4LC0xNzAyNjI4NzA3LC0xOTYwNTM3NDIw
-LC0xMTAxMjYwMDczXX0=
+eyJoaXN0b3J5IjpbMTMzNjg5NzYwLC04Nzc1Mzc1ODUsMTg5OD
+c3MzQ3NiwxMzk5MzA0NzA4LDIwMTAwNzIwNiwtMTMxMTE1MDUw
+MCwxNjA2NzIyMzU0LDE1MzM2MTM5MjYsLTU4MjMxNzQyOCwxMD
+Y5MDQ5NTI1LC0xMTAwNzA0NzY4LDE2NzQyODkxMTAsMTQxMTg2
+OTg1OCwtMTQ0MzA3Mzk0LC0xNzcwMzU0ODU0LDEzNTk2MDM0Mz
+EsLTExNzEzNjQzMzgsLTE3MDI2Mjg3MDcsLTE5NjA1Mzc0MjAs
+LTExMDEyNjAwNzNdfQ==
 -->
