@@ -157,16 +157,16 @@ Setelah KPA usai, maka kita bisa menerapkannya sebagai berikut,
 
 [^hds-32251d52-6f4d-4b6c-94e5-0811b08ff22b]: [Hadits - Khalifah - Memegang Teguh Khalifah agar Selamat](https://pustaka.isa.web.id/ref/hds-32251d52-6f4d-4b6c-94e5-0811b08ff22b)
 
-[^khotbah20210528]: [Ringkasan Khotbah Jumat Sayyidina Amirul Mu’minin, Hadhrat Mirza Masroor Ahmad, Khalifatul Masih al-Khaamis (ayyadahullaahu Ta’ala binashrihil ‘aziiz) pada 28 Mei 2021 (Hijrah 1400 Hijriyah Syamsiyah/Syawal 1442 Hijriyah Qamariyah) di Masjid Mubarak, Tilford.](https://pustaka.isa.web.id/2021/06/04/khilafat-mengubah-takut-menjadi-damai.html) https://www.alislam.org/friday-sermon/2021-05-28.html
+[^khotbah20210528]: Ringkasan Khotbah Jumat Sayyidina Amirul Mu’minin, Hadhrat Mirza Masroor Ahmad, Khalifatul Masih al-Khaamis (ayyadahullaahu Ta’ala binashrihil ‘aziiz) pada 28 Mei 2021 (Hijrah 1400 Hijriyah Syamsiyah/Syawal 1442 Hijriyah Qamariyah) di Masjid Mubarak, Tilford dalam [Bahasa Indonesia](https://pustaka.isa.web.id/2021/06/04/khilafat-mengubah-takut-menjadi-damai.html) dan [Bahasa Inggris](https://www.alislam.org/friday-sermon/2021-05-28.html)
 <!--
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjczNzk1NzAzLDEzODIzMjcwOTYsODA4OD
-U5NDI5LC0xNzIyMDAxMjcsLTczNzI1OTEyLDIwMzg5MTQ1NjQs
-LTg3NzUzNzU4NSwxODk4NzczNDc2LDEzOTkzMDQ3MDgsMjAxMD
-A3MjA2LC0xMzExMTUwNTAwLDE2MDY3MjIzNTQsMTUzMzYxMzky
-NiwtNTgyMzE3NDI4LDEwNjkwNDk1MjUsLTExMDA3MDQ3NjgsMT
-Y3NDI4OTExMCwxNDExODY5ODU4LC0xNDQzMDczOTQsLTE3NzAz
-NTQ4NTRdfQ==
+eyJoaXN0b3J5IjpbMTc3MTU2NzgxMywyNzM3OTU3MDMsMTM4Mj
+MyNzA5Niw4MDg4NTk0MjksLTE3MjIwMDEyNywtNzM3MjU5MTIs
+MjAzODkxNDU2NCwtODc3NTM3NTg1LDE4OTg3NzM0NzYsMTM5OT
+MwNDcwOCwyMDEwMDcyMDYsLTEzMTExNTA1MDAsMTYwNjcyMjM1
+NCwxNTMzNjEzOTI2LC01ODIzMTc0MjgsMTA2OTA0OTUyNSwtMT
+EwMDcwNDc2OCwxNjc0Mjg5MTEwLDE0MTE4Njk4NTgsLTE0NDMw
+NzM5NF19
 -->
