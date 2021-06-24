@@ -85,7 +85,9 @@ Beberapa cara kita menerapkan ketaatan kepada khilafat ketika mengikuti KPA dian
  1. Mengikuti seluruh acara KPA dengan khidmat
  2. Melaksanakan tugas-tugas KPA 
  3. Mengikuti lomba semaksimal mungkin
- 4. Berusaha menjawab pertanyaan-pertanyaan yang diajukan oleh guru KPA.
+ 4. Berusaha menjawab pertanyaan-pertanyaan yang diajukan oleh guru/pengajar KPA.
+ 5. Menerapkan ilmu-ilmu yang didapat ketika KPA dalam ibadah-ibadah kita dan kehidupan sehari-hari sehingga berbuah sebagai amal shaleh.
+ 6. Setidaknya seb 
 
 <!-- Rujukan pd Al-Qur'an, Hadist,Sabda Hz Masih Mau'ud (as) dan para Khalifatul Masih -->
 
@@ -111,11 +113,11 @@ Beberapa cara kita menerapkan ketaatan kepada khilafat ketika mengikuti KPA dian
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTU2MDEyMTQsLTEzMTExNTA1MDAsMT
-YwNjcyMjM1NCwxNTMzNjEzOTI2LC01ODIzMTc0MjgsMTA2OTA0
-OTUyNSwtMTEwMDcwNDc2OCwxNjc0Mjg5MTEwLDE0MTE4Njk4NT
-gsLTE0NDMwNzM5NCwtMTc3MDM1NDg1NCwxMzU5NjAzNDMxLC0x
-MTcxMzY0MzM4LC0xNzAyNjI4NzA3LC0xOTYwNTM3NDIwLC0xMT
-AxMjYwMDczLDE1MzQyMzA4NjUsLTMyMjE4MzUzOSwtNTg5MDEy
-MjY0LC02MzU3Njk3NTNdfQ==
+eyJoaXN0b3J5IjpbODI5OTMzMjE0LC0xMzExMTUwNTAwLDE2MD
+Y3MjIzNTQsMTUzMzYxMzkyNiwtNTgyMzE3NDI4LDEwNjkwNDk1
+MjUsLTExMDA3MDQ3NjgsMTY3NDI4OTExMCwxNDExODY5ODU4LC
+0xNDQzMDczOTQsLTE3NzAzNTQ4NTQsMTM1OTYwMzQzMSwtMTE3
+MTM2NDMzOCwtMTcwMjYyODcwNywtMTk2MDUzNzQyMCwtMTEwMT
+I2MDA3MywxNTM0MjMwODY1LC0zMjIxODM1MzksLTU4OTAxMjI2
+NCwtNjM1NzY5NzUzXX0=
 -->
