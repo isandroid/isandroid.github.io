@@ -15,9 +15,15 @@ Allah Ta'ala berfirman dalam QS An-Nur (24) ayat 56:
 وَعَدَ اللّٰہُ الَّذِیۡنَ اٰمَنُوۡا مِنۡکُمۡ وَعَمِلُوا الصّٰلِحٰتِ لَیَسۡتَخۡلِفَنَّہُمۡ فِی الۡاَرۡضِ کَمَا اسۡتَخۡلَفَ الَّذِیۡنَ مِنۡ قَبۡلِہِمۡ وَلَیُمَکِّنَنَّ لَہُمۡ دِیۡنَہُمُ الَّذِی ارۡتَضٰی لَہُمۡ وَلَیُبَدِّلَنَّہُمۡ مِّنۡۢ بَعۡدِ خَوۡفِہِمۡ اَمۡنًا ۚ یَعۡبُدُوۡنَنِیۡ لَا یُشۡرِکُوۡنَ بِیۡ شَیۡـًٔا ۚ وَمَنۡ کَفَرَ بَعۡدَ ذٰلِکَ فَاُولٰٓئِکَ ہُمُ الۡفٰسِقُوۡنَ
 </p>
 
-> "Allah telah berjanji kepada orang-orang yang beriman dari antara kamu dan berbuat amal saleh, bahwa Dia pasti akan menjadikan mereka itu khalifah di bumi ini, sebagaimana Dia telah menjadikan khalifah orang-orang yang sebelum mereka; dan Dia pasti akan meneguhkan bagi mereka agama mereka, yang telah Dia ridhai bagi mereka; dan pasti Dia akan memberi mereka keamanan _dan kedamaian_ sebagai pengganti sesudah ketakutan _mencekam_ mereka. Mereka akan menyembah Aku, dan mereka tidak akan mempersekutukan sesuatu dengan Aku. Dan barangsiapa ingkar sesudah itu, mereka itulah orang-orang durhaka." ([QS 24:56](/ref/qrn-024-056))
+> "Allah telah berjanji kepada orang-orang yang beriman dari antara kamu dan berbuat amal saleh, bahwa Dia pasti akan menjadikan mereka itu khalifah di bumi ini, sebagaimana Dia telah menjadikan khalifah orang-orang yang sebelum mereka; dan Dia pasti akan meneguhkan bagi mereka agama mereka, yang telah Dia ridhai bagi mereka; dan pasti Dia akan memberi mereka keamanan _dan kedamaian_ sebagai pengganti sesudah ketakutan _mencekam_ mereka. Mereka akan menyembah Aku, dan mereka tidak akan mempersekutukan sesuatu dengan Aku. Dan barangsiapa ingkar sesudah itu, mereka itulah orang-orang durhaka." [[^qs_]]
+
+[QS 24:56](/ref/qrn-024-056)
 
 Ayat ini berisikan janji, bahwa Kaum Muslimin akan dianugerahi pimpinan rohani maupun duniawi. 
+
+Hadhrat Khalifatul Masih IV (r.h) menjelaskan mengenai ayat ini,
+
+Ayat ini disebut ayat “istikhlaf”. Di dalamnya hal ini dijelaskan, bahwa sebagaimana Allah Swt selalu menjadikan khalifah-khalifah sesudah kewafatan nabi dimasa lalu, sesudah kewafatan Rasulullah Saw pun hal ini akan terus berlangsung. Khilafat itu mengambil cahaya dari nabi dan menyebarkannya. Setiap kali seorang Khalifah akan wafat, Jemaat diliputi perasaan takut, yang dengan karunia-Nya, berkat Khilafat akan merubahnya menjadi perasaan aman. Maka tanda kebenaran Khilafat ialah ia merubah rasa tidak aman menjadi rasa aman. Inilah yang disabdakan oleh Hadhrat Masih Mau’ud As di buku ‘Al-Wasiyat’, bahwa sesudah wafatnya seorang nabi atau Khalifah, untuk sementara waktu Jemaat akan merasakan bahwa sekarang musuh akan memadamkan cahaya kenabian itu. Tapi di ayat istikhlaf ini ada janji yang qath‘i, bahwa setiap kali musuh akan gagal. Tujuan kenabian adalah tegaknya tauhid di dunia. Ini juga tanda kebenaran Khilafat, bahwa tujuan akhirnya adalah tegaknya tauhid [].
 
 ### Pengertian Khilafat dan Khalifah
 
@@ -140,7 +146,7 @@ Setelah KPA usai, maka kita bisa menerapkannya sebagai berikut,
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MTkyNzY2MjcsMTM5OTMwNDcwOCwyMD
+eyJoaXN0b3J5IjpbLTE1MTg5MzM2NjgsMTM5OTMwNDcwOCwyMD
 EwMDcyMDYsLTEzMTExNTA1MDAsMTYwNjcyMjM1NCwxNTMzNjEz
 OTI2LC01ODIzMTc0MjgsMTA2OTA0OTUyNSwtMTEwMDcwNDc2OC
 wxNjc0Mjg5MTEwLDE0MTE4Njk4NTgsLTE0NDMwNzM5NCwtMTc3
