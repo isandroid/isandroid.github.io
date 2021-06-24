@@ -100,25 +100,13 @@ Hudhur ayyadahuLlahu ta’ala mengatakan bahwa pada bulan April 2003, Jemaat dil
 
 Hudhur ayyadahuLlahu ta’ala menyatakan bahwa Jemaat berkembang pesat. Terjemahan AlQur'an dalam berbagai bahasa disebarkan ke seluruh dunia. MTA dimulai hanya dengan satu saluran, dan sekarang ada delapan saluran dan studio yang didirikan di seluruh dunia. Pesan Jemaat juga disebarkan melalui Media Sosial. Jalan baru yang sedang dibuka, seperti Mulaqat Virtual, dimana Khalifatul Masih yang berada di Inggris bertemu dengan orang-orang dari seluruh dunia dan orangorang dapat menerima bimbingan langsung dari Khalifah mereka.
 
-Hudhur ayyadahuLlahu ta’ala menyatakan bahwa karunia Tuhan yang berhubungan dengan
-Khilafat tidak terhitung banyaknya. Namun, jika kita ingin mendapatkan kesepakatan, maka kita harus
-memenuhi tanggung jawab kita; kita harus benar-benar taat pada Khilafat dan menanamkan hal yang
-sama pada generasi mendatang.
+Hudhur ayyadahuLlahu ta’ala menyatakan bahwa karunia Tuhan yang berhubungan dengan Khilafat tidak terhitung banyaknya. Namun, jika kita ingin mendapatkan kesepakatan, maka kita harus memenuhi tanggung jawab kita; kita harus benar-benar taat pada Khilafat dan menanamkan hal yang sama pada generasi mendatang.
 
-Semoga kita selalu teguh, dan semoga kita dapat memenuhi janji baiat kita sehingga kita dapat
-melihat janji Tuhan dan kemenangan Jemaat. Semoga ibadah dan perbuatan kita mencapai keridhaan
-Tuhan. Semoga kita benar-benar memahami karunia Khilafat dan dapat menjelaskannya kepada
-generasi mendatang sehingga mereka dapat memperoleh manfaat dari Khilafat juga.
+Semoga kita selalu teguh, dan semoga kita dapat memenuhi janji baiat kita sehingga kita dapat melihat janji Tuhan dan kemenangan Jemaat. Semoga ibadah dan perbuatan kita mencapai keridhaan Tuhan. Semoga kita benar-benar memahami karunia Khilafat dan dapat menjelaskannya kepada generasi mendatang sehingga mereka dapat memperoleh manfaat dari Khilafat juga.
 
 ### Permohonan Doa 
 
-Hudhur ayyadahuLlahu ta’ala memohon doa bagi para Ahmadi di Pakistan dan para Ahmadi yang
-tertindas di mana pun di dunia. Berdoalah untuk setiap Muslim dan semua Muslim yang menghadapi
-ketidakadilan di dunia, seperti yang di Palestina. Semoga Allah menciptakan kemudahan dan
-kenyamanan bagi mereka. Semoga Allah memungkinkan para Ahmadi untuk benar-benar mengikuti
-Hadhrat Masih Mau'ud (as). Semoga umat Islam yang belum mengenal Hadhrat Masih Mau'ud (as)
-menyadari kebenaran dan menerimanya. Semoga kita bisa mengibarkan bendera Islam dan Nabi
-Muhammad (saw) di seluruh dunia. Semoga kita melihat Keesaan Tuhan didirikan di seluruh dunia.
+Hudhur ayyadahuLlahu ta’ala memohon doa bagi para Ahmadi di Pakistan dan para Ahmadi yang tertindas di mana pun di dunia. Berdoalah untuk setiap Muslim dan semua Muslim yang menghadapi ketidakadilan di dunia, seperti yang di Palestina. Semoga Allah menciptakan kemudahan dan kenyamanan bagi mereka. Semoga Allah memungkinkan para Ahmadi untuk benar-benar mengikuti Hadhrat Masih Mau'ud (as). Semoga umat Islam yang belum mengenal Hadhrat Masih Mau'ud (as) menyadari kebenaran dan menerimanya. Semoga kita bisa mengibarkan bendera Islam dan Nabi Muhammad (saw) di seluruh dunia. Semoga kita melihat Keesaan Tuhan didirikan di seluruh dunia.
 
 ### Penerjemah
 
@@ -126,5 +114,5 @@ Muhammad (saw) di seluruh dunia. Semoga kita melihat Keesaan Tuhan didirikan di 
 
 ### Catatan Kaki
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3OTQ1OTQ3OV19
+eyJoaXN0b3J5IjpbMTEyNjU1NzMzMSwxMzc5NDU5NDc5XX0=
 -->
