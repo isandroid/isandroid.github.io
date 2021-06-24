@@ -56,48 +56,21 @@ Hudhur ayyadahuLlahu ta’ala mengutip Hadhrat Masih Mau’ud (as) yang mengatak
 
 Hudhur ayyadahuLlahu ta’ala bersabda bahwa melakukan perbuatan baik tidak berarti melakukan sesuatu yang menurut pikirannya baik. Sebaliknya, amal saleh adalah untuk mengikuti teladan Nabi (saw) dalam hal yang tersurat (tertulis) dan tersirat (inti dan semangatnya), tanpa noda kesombongan, ketakabburan atau kelambanan (kemalasan). Orang-orang seperti itulah yang benar-benar memiliki hubungan yang tulus dengan Khilafat dan mereka yang menjunjung tinggi kehormatan Khilafat. Dengan melakukan perbuatan baik dalam esensi sejati, orang-orang ini akan menarik perhatian Khalifah dan doa beliau terhadap diri mereka sendiri. Orang-orang seperti itu akan memiliki hubungan yang benar dengan Khilafat, dengan demikian menjadi mereka yang mencapai kedamaian dan keamanan sejati seperti yang dijanjikan oleh Tuhan.
 
-Hudhur ayyadahuLlahu ta’ala berkata bahwa ada orang-orang di dunia yang mencoba untuk
-mengambil jubah yang mirip dengan Khilafat, namun mereka pasti gagal, seperti yang selalu mereka
-lakukan, karena ini adalah sesuatu yang hanya dianugerahkan oleh Tuhan Yang Maha Kuasa, dan
-Khilafat ini yang Dia telah tetapkan akan selalu tetap.
+Hudhur ayyadahuLlahu ta’ala berkata bahwa ada orang-orang di dunia yang mencoba untuk mengambil jubah yang mirip dengan Khilafat, namun mereka pasti gagal, seperti yang selalu mereka lakukan, karena ini adalah sesuatu yang hanya dianugerahkan oleh Tuhan Yang Maha Kuasa, dan Khilafat ini yang Dia telah tetapkan akan selalu tetap.
 
-Hudhur ayyadahuLlahu ta’ala bersabda bahwa setiap Ahmadi harus bersyukur kepada Tuhan
-karena Dia telah melimpahkan karunia Khilafat. Pada saat yang sama, setiap Ahmadi harus selalu 
-merenungkan apakah mereka memenuhi persyaratan yang disebutkan oleh Tuhan. Ketika seseorang
-hidup dengan pikiran konstan ini, dan kemudian melakukan perbuatan baik yang sesuai saat berdoa
-untuk Khilafat, maka mereka akan benar-benar mendapatkan berkah Khilafat.
+Hudhur ayyadahuLlahu ta’ala bersabda bahwa setiap Ahmadi harus bersyukur kepada Tuhan karena Dia telah melimpahkan karunia Khilafat. Pada saat yang sama, setiap Ahmadi harus selalu merenungkan apakah mereka memenuhi persyaratan yang disebutkan oleh Tuhan. Ketika seseorang hidup dengan pikiran konstan ini, dan kemudian melakukan perbuatan baik yang sesuai saat berdoa untuk Khilafat, maka mereka akan benar-benar mendapatkan berkah Khilafat.
 
 ### Pemenuhan Manifestasi Kedua (Kudrat kedua)
 
-Hudhur ayyadahuLlahu ta’ala bersabda bahwa dalam buku al-Washiyyat, Hadhrat Masih Mau’ud
-(as) telah menulis secara rinci tentang pendirian Khilafat. Hadhrat Masih Mau’ud (as) bersabda bahwa
-Tuhan selalu membantu nabi-Nya bahkan setelah kematian mereka, sehingga misi mereka dapat
-berlanjut dan mencapai penyelesaian.
+Hudhur ayyadahuLlahu ta’ala bersabda bahwa dalam buku al-Washiyyat, Hadhrat Masih Mau’ud (as) telah menulis secara rinci tentang pendirian Khilafat. Hadhrat Masih Mau’ud (as) bersabda bahwa Tuhan selalu membantu nabi-Nya bahkan setelah kematian mereka, sehingga misi mereka dapat berlanjut dan mencapai penyelesaian.
 
-Hudhur ayyadahuLlahu ta’ala bersabda bahwa ketika Hadhrat Masih Mau’ud (as) wafat, para
-penentang Jemaat bersukacita dan mengatakan hal-hal paling keji tentang Hadhrat Masih Mau’ud (as).
-Mereka mengatakan bahwa sekarang setelah kematiannya, Jemaat ini akan goyah dan menghilang.
-Para penentang mengatakan bahwa tanpa Hadhrat Masih Mau’ud (as), Jemaat pasti tidak akan bisa
-beroperasi dan akan menghilang tanpa ada orang yang memimpin untuk memimpinnya.
+Hudhur ayyadahuLlahu ta’ala bersabda bahwa ketika Hadhrat Masih Mau’ud (as) wafat, para penentang Jemaat bersukacita dan mengatakan hal-hal paling keji tentang Hadhrat Masih Mau’ud (as). Mereka mengatakan bahwa sekarang setelah kematiannya, Jemaat ini akan goyah dan menghilang. Para penentang mengatakan bahwa tanpa Hadhrat Masih Mau’ud (as), Jemaat pasti tidak akan bisa beroperasi dan akan menghilang tanpa ada orang yang memimpin untuk memimpinnya.
 
-Hudhur ayyadahuLlahu ta’ala bersabda bahwa para penentang ini menutup mata terhadap
-kenyataan bahwa Tuhan telah meyakinkan Hadhrat Masih Mau’ud (as) bahwa bahkan setelah
-kewafatannya, misinya akan terus berlanjut dan mencapai penyelesaian. Oleh karena itu, Hadhrat
-Masih Mau’ud (as) telah memberitahu Jemaatnya bahwa mereka akan melihat perwujudan kedua
-(Kudrat kedua) dan bahwa Jemaat ini akan terus berlanjut.
+Hudhur ayyadahuLlahu ta’ala bersabda bahwa para penentang ini menutup mata terhadap kenyataan bahwa Tuhan telah meyakinkan Hadhrat Masih Mau’ud (as) bahwa bahkan setelah kewafatannya, misinya akan terus berlanjut dan mencapai penyelesaian. Oleh karena itu, Hadhrat Masih Mau’ud (as) telah memberitahu Jemaatnya bahwa mereka akan melihat perwujudan kedua (Kudrat kedua) dan bahwa Jemaat ini akan terus berlanjut.
 
-Hudhur ayyadahuLlahu ta’ala bersabda mengutip Hadhrat Masih Mau’ud (as) yang mengatakan
-bahwa suatu Jemaat Ilahi melihat dua perwujudan, yang pertama adalah perwujudan dalam corak
-adanya Nabi itu sendiri. Manifestasi kedua datang ketika seorang Nabi meninggal dunia, dan
-Jemaatnya mengalami kesulitan besar. Pada saat itulah perwujudan kedua muncul, sebagaimana yang
-telah terjadi setelah wafatnya Nabi (saw), ketika Tuhan Yang Maha Kuasa menetapkan perwujudan
-kedua dan menugaskan Hadhrat Abu Bakar (ra) sebagai Khalifah. 
+Hudhur ayyadahuLlahu ta’ala bersabda mengutip Hadhrat Masih Mau’ud (as) yang mengatakan bahwa suatu Jemaat Ilahi melihat dua perwujudan, yang pertama adalah perwujudan dalam corak adanya Nabi itu sendiri. Manifestasi kedua datang ketika seorang Nabi meninggal dunia, dan Jemaatnya mengalami kesulitan besar. Pada saat itulah perwujudan kedua muncul, sebagaimana yang telah terjadi setelah wafatnya Nabi (saw), ketika Tuhan Yang Maha Kuasa menetapkan perwujudan kedua dan menugaskan Hadhrat Abu Bakar (ra) sebagai Khalifah.
 
-Hudhur ayyadahuLlahu ta’ala mengutip Hadhrat Masih Mau’ud (as) yang pernah bersabda, “Maka
-dari itu, janganlah kalian bersedih hati karena uraian yang saya terangkan di depan kalian ini.
-Janganlah hati kalian menjadi kusut karena bagi kalian perlu pula melihat Kudrat kedua.
-Kedatangannya kepada kalian membawa kebaikan karena ia (Kudrat kedua) selamanya akan tinggal
-bersama kalian dan sampai hari kiamat, kesinambungannya ini tidak akan terputus.
+Hudhur ayyadahuLlahu ta’ala mengutip Hadhrat Masih Mau’ud (as) yang pernah bersabda, “Maka dari itu, janganlah kalian bersedih hati karena uraian yang saya terangkan di depan kalian ini. Janganlah hati kalian menjadi kusut karena bagi kalian perlu pula melihat Kudrat kedua. Kedatangannya kepada kalian membawa kebaikan karena ia (Kudrat kedua) selamanya akan tinggal bersama kalian dan sampai hari kiamat, kesinambungannya ini tidak akan terputus.
 
 Kudrat kedua itu tidak dapat datang sebelum saya pergi; namun bila saya telah pergi, Tuhan akan
 mengirimkan Kudrat kedua itu kepadamu yang akan tinggal bersama kamu selama-lamanya;
@@ -202,5 +175,5 @@ Muhammad (saw) di seluruh dunia. Semoga kita melihat Keesaan Tuhan didirikan di 
 
 ### Catatan Kaki
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODk2MjQ1MzNdfQ==
+eyJoaXN0b3J5IjpbNzQ4OTQ1NjI5XX0=
 -->
