@@ -131,7 +131,9 @@ Huzur V (atba) menjelaskan tentang kewajiban para Ahmadi. Salah satunya adalah m
 
 > Kita juga (hendaknya) terus mengajarkan anak-anak kita supaya senantiasa bersyukur kepada Allah Ta‟ala karena Dia telah memperbaiki kondisi keuangan kita setelah datang ke sini kemudian menceritakan kepada mereka bahwa sebagai rasa syukur atas kesempatan akademis yang mereka dapatkan, **hendaknya mereka menjalin hubungan yang kuat dengan Nizam Jemaat serta ikatan kesetiaan dan ketaatan dengan Khilafat**.
 >
-> Begitu pula, merupakan kewajiban bagi setiap Ahmadi untuk **senantiasa memiliki hubungan yang kuat dengan Nizam Jemaat serta ikatan kesetiaan dan ketaatan dengan Khilafat** seperti yang telah mereka janjikan pada saat baiat. Dengan karunia Allah, para mubayi' baru, khususnya mereka yang telah menerima da'wa Hadhrat Masih Mau‟ud as dengan penuh keyakinan dan pengetahuan yang sempurna, senantiasa merenungkan janji mereka dan juga syarat-syarat baiat. Mereka juga menulis surat kepada saya sehubungan dengan hal ini.
+> Begitu pula, merupakan kewajiban bagi setiap Ahmadi untuk **senantiasa memiliki hubungan yang kuat dengan Nizam Jemaat serta ikatan kesetiaan dan ketaatan dengan Khilafat** seperti yang telah mereka janjikan pada saat baiat. Dengan karunia Allah, para mubayi' baru, khususnya mereka yang telah menerima da'wa Hadhrat Masih Mau'ud as dengan penuh keyakinan dan pengetahuan yang sempurna, senantiasa merenungkan janji mereka dan juga syarat-syarat baiat. Mereka juga menulis surat kepada saya sehubungan dengan hal ini [[^khotbah20151009]].
+
+[^khotbah20151009]: [Ringkasan Khotbah Jumat Sayyidina Amirul Mu‟minin, Hadhrat Mirza Masrur Ahmad, Khalifatul Masih al-Khaamis ayyadahullaahu Ta'ala binashrihil 'aziiz 9 Oktober 2015 di Masjid Nur, Nunspeet, Holland (Belanda)](https://www.alislam.org/archives/sermons/summary/FSS20151009-ID.pdf)
 
 ### Implementasi untuk Taat kepada Khilafat Saat Mengikuti KPA
 
@@ -181,7 +183,7 @@ Setelah KPA usai, maka kita bisa menerapkannya sebagai berikut,
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0NTg5ODY1NiwzMTg1NDkxNjksLTIwMD
+eyJoaXN0b3J5IjpbMTUyMzU4NzA0NSwzMTg1NDkxNjksLTIwMD
 czMjk4NjUsMTAwMzI5MjI1OSwyNzM3OTU3MDMsMTM4MjMyNzA5
 Niw4MDg4NTk0MjksLTE3MjIwMDEyNywtNzM3MjU5MTIsMjAzOD
 kxNDU2NCwtODc3NTM3NTg1LDE4OTg3NzM0NzYsMTM5OTMwNDcw
