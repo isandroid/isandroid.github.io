@@ -38,6 +38,7 @@ Hadhrat Mushlih Mau'ud (ra) bersabda,
 > Kata Khalifah berarti seseorang yang menggantikan orang lain dan melanjutkan pekerjaan pendahulunya. Untuk memahami tugas dari khalifah, kita harus melihat tugas dari pendahulunya [[^barakat-e-khilafat_p9]].
 
 Menurut bahasa arab, Khalifah adalah:
+
 1. Orang yang menggantikan seseorang (sebelumnya),
 2. Orang yang digantikan oleh seseorang, dan
 3. Orang yang mengeluarkan perintah dan tugas dan membuatnya dilaksanakan (oleh para pengikutnya) [[^barakat-e-khilafat_p13]].
@@ -63,6 +64,7 @@ Sebagaimana Allah mengangkat seorang Nabi, Dia juga yang mengangkat seorang Khal
 Khilafah mengukuhkan kekuasaan Allah di bumi, dan Khalifah berjuang untuk menegakkan kekuasaan itu di dalam jamaah pengikutnya. Bagi orang-orang yang beriman, Khilafah adalah perwujudan Tauhid Ilahi, karena mereka memilih untuk menerima kekuasaan Ilahi melalui pribadi Khalifah. Orang-orang beriman mengambil bagian dari berkat Khilafah dengan memegang teguh iman dan amalan-amalan mereka, bersatu di bawahnya [[^ahmadiyah_id_khilafat]]. 
 
 ### Jenis-Jenis Khalifah
+
 
 
 ### Dasar Kemunculan Khalifah Rosyidah dan Khalifatul Masih
@@ -146,11 +148,11 @@ Setelah KPA usai, maka kita bisa menerapkannya sebagai berikut,
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzNjg5NzYwLC04Nzc1Mzc1ODUsMTg5OD
-c3MzQ3NiwxMzk5MzA0NzA4LDIwMTAwNzIwNiwtMTMxMTE1MDUw
-MCwxNjA2NzIyMzU0LDE1MzM2MTM5MjYsLTU4MjMxNzQyOCwxMD
-Y5MDQ5NTI1LC0xMTAwNzA0NzY4LDE2NzQyODkxMTAsMTQxMTg2
-OTg1OCwtMTQ0MzA3Mzk0LC0xNzcwMzU0ODU0LDEzNTk2MDM0Mz
-EsLTExNzEzNjQzMzgsLTE3MDI2Mjg3MDcsLTE5NjA1Mzc0MjAs
-LTExMDEyNjAwNzNdfQ==
+eyJoaXN0b3J5IjpbMjAzODkxNDU2NCwtODc3NTM3NTg1LDE4OT
+g3NzM0NzYsMTM5OTMwNDcwOCwyMDEwMDcyMDYsLTEzMTExNTA1
+MDAsMTYwNjcyMjM1NCwxNTMzNjEzOTI2LC01ODIzMTc0MjgsMT
+A2OTA0OTUyNSwtMTEwMDcwNDc2OCwxNjc0Mjg5MTEwLDE0MTE4
+Njk4NTgsLTE0NDMwNzM5NCwtMTc3MDM1NDg1NCwxMzU5NjAzND
+MxLC0xMTcxMzY0MzM4LC0xNzAyNjI4NzA3LC0xOTYwNTM3NDIw
+LC0xMTAxMjYwMDczXX0=
 -->
