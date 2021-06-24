@@ -91,7 +91,7 @@ Setelah KPA usai, maka kita bisa menerapkannya sebagai berikut,
 
 1. Menerapkan ilmu-ilmu yang didapat ketika KPA dalam ibadah-ibadah kita dan kehidupan sehari-hari sehingga berbuah sebagai amal shaleh.
  2. Setidaknya sebulan sekali menulis surat ke Huzur.
- 3. Senantiasa mendengarkan suara khalifah lewat mengikuti Khotbah Jumat Hadhrat 
+ 3. Senantiasa mendengarkan suara khalifah lewat mengikuti Khotbah Jumat Hadhrat Khalifatul Masih V (atba) secara langsung
 
 <!-- Rujukan pd Al-Qur'an, Hadist,Sabda Hz Masih Mau'ud (as) dan para Khalifatul Masih -->
 
@@ -117,11 +117,11 @@ Setelah KPA usai, maka kita bisa menerapkannya sebagai berikut,
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1MzE5MTgyNiwtMTMxMTE1MDUwMCwxNj
-A2NzIyMzU0LDE1MzM2MTM5MjYsLTU4MjMxNzQyOCwxMDY5MDQ5
-NTI1LC0xMTAwNzA0NzY4LDE2NzQyODkxMTAsMTQxMTg2OTg1OC
-wtMTQ0MzA3Mzk0LC0xNzcwMzU0ODU0LDEzNTk2MDM0MzEsLTEx
-NzEzNjQzMzgsLTE3MDI2Mjg3MDcsLTE5NjA1Mzc0MjAsLTExMD
-EyNjAwNzMsMTUzNDIzMDg2NSwtMzIyMTgzNTM5LC01ODkwMTIy
-NjQsLTYzNTc2OTc1M119
+eyJoaXN0b3J5IjpbMjAxMDA3MjA2LC0xMzExMTUwNTAwLDE2MD
+Y3MjIzNTQsMTUzMzYxMzkyNiwtNTgyMzE3NDI4LDEwNjkwNDk1
+MjUsLTExMDA3MDQ3NjgsMTY3NDI4OTExMCwxNDExODY5ODU4LC
+0xNDQzMDczOTQsLTE3NzAzNTQ4NTQsMTM1OTYwMzQzMSwtMTE3
+MTM2NDMzOCwtMTcwMjYyODcwNywtMTk2MDUzNzQyMCwtMTEwMT
+I2MDA3MywxNTM0MjMwODY1LC0zMjIxODM1MzksLTU4OTAxMjI2
+NCwtNjM1NzY5NzUzXX0=
 -->
