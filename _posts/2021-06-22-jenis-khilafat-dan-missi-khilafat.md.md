@@ -80,7 +80,9 @@ Rasulullah (saw) telah menubuwwatkan berdirinya Khilafat dan kerajaan setelah be
 
 ### Implementasi untuk Taat kepada Khilafat Saat Mengikuti KPA
 
-Beberapa cara kita menerapkan ketaatan kepada khilafat ketika mengikuti KPA
+Beberapa cara kita menerapkan ketaatan kepada khilafat ketika mengikuti KPA diantaranya adalah sebagai berikut:
+
+ 1. List item
 
 <!-- Rujukan pd Al-Qur'an, Hadist,Sabda Hz Masih Mau'ud (as) dan para Khalifatul Masih -->
 
@@ -106,7 +108,7 @@ Beberapa cara kita menerapkan ketaatan kepada khilafat ketika mengikuti KPA
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODM0MTcxMjEsMTYwNjcyMjM1NCwxNT
+eyJoaXN0b3J5IjpbLTEzMTExNTA1MDAsMTYwNjcyMjM1NCwxNT
 MzNjEzOTI2LC01ODIzMTc0MjgsMTA2OTA0OTUyNSwtMTEwMDcw
 NDc2OCwxNjc0Mjg5MTEwLDE0MTE4Njk4NTgsLTE0NDMwNzM5NC
 wtMTc3MDM1NDg1NCwxMzU5NjAzNDMxLC0xMTcxMzY0MzM4LC0x
