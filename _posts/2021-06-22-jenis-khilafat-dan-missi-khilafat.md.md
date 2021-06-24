@@ -112,7 +112,7 @@ Hadhrat Hakim Maulvi Nooruddin (ra) bersabda bahwa tidak ada gunanya hanya bersu
 
 Hudhur V ayyadahuLlahu ta’ala menyatakan bahwa Jemaat berkembang pesat. Terjemahan AlQur’an dalam berbagai bahasa disebarkan ke seluruh dunia. MTA dimulai hanya dengan satu saluran, dan sekarang ada delapan saluran dan studio yang didirikan di seluruh dunia. Pesan Jemaat juga disebarkan melalui Media Sosial. Jalan baru yang sedang dibuka, seperti Mulaqat Virtual, dimana Khalifatul Masih yang berada di Inggris bertemu dengan orang-orang dari seluruh dunia dan orangorang dapat menerima bimbingan langsung dari Khalifah mereka. 
 
-Hudhur ayyadahuLlahu ta’ala menyatakan bahwa karunia Tuhan yang berhubungan dengan Khilafat tidak terhitung banyaknya. Namun, jika kita ingin mendapatkan kesempatan, maka kita harus memenuhi tanggung jawab kita; **kita harus benar-benar taat pada Khilafat dan menanamkan hal yang sama pada generasi mendatang** [[^khotbah20210528]].
+Hudhur ayyadahuLlahu ta’ala menyatakan bahwa karunia Tuhan yang berhubungan dengan Khilafat tidak terhitung banyaknya. Namun, jika kita ingin mendapatkan manfaat maka kita harus memenuhi tanggung jawab kita; **kita harus benar-benar taat pada Khilafat dan menanamkan hal yang sama pada generasi mendatang** [[^khotbah20210528]].
 
 ### Implementasi untuk Taat kepada Khilafat Saat Mengikuti KPA
 
@@ -157,16 +157,16 @@ Setelah KPA usai, maka kita bisa menerapkannya sebagai berikut,
 
 [^hds-32251d52-6f4d-4b6c-94e5-0811b08ff22b]: [Hadits - Khalifah - Memegang Teguh Khalifah agar Selamat](https://pustaka.isa.web.id/ref/hds-32251d52-6f4d-4b6c-94e5-0811b08ff22b)
 
-[^khotbah20210528]: [Ringkasan Khotbah Jumat Sayyidina Amirul Mu’minin, Hadhrat Mirza Masroor Ahmad, Khalifatul Masih al-Khaamis (ayyadahullaahu Ta’ala binashrihil ‘aziiz) pada 28 Mei 2021 (Hijrah 1400 Hijriyah Syamsiyah/Syawal 1442 Hijriyah Qamariyah) di Masjid Mubarak, Tilford.](https://pustaka.isa.web.id/2021/06/04/khilafat-mengubah-takut-menjadi-damai.html)
+[^khotbah20210528]: [Ringkasan Khotbah Jumat Sayyidina Amirul Mu’minin, Hadhrat Mirza Masroor Ahmad, Khalifatul Masih al-Khaamis (ayyadahullaahu Ta’ala binashrihil ‘aziiz) pada 28 Mei 2021 (Hijrah 1400 Hijriyah Syamsiyah/Syawal 1442 Hijriyah Qamariyah) di Masjid Mubarak, Tilford.](https://pustaka.isa.web.id/2021/06/04/khilafat-mengubah-takut-menjadi-damai.html) https://www.alislam.org/friday-sermon/2021-05-28.html
 <!--
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4MjMyNzA5Niw4MDg4NTk0MjksLTE3Mj
-IwMDEyNywtNzM3MjU5MTIsMjAzODkxNDU2NCwtODc3NTM3NTg1
-LDE4OTg3NzM0NzYsMTM5OTMwNDcwOCwyMDEwMDcyMDYsLTEzMT
-ExNTA1MDAsMTYwNjcyMjM1NCwxNTMzNjEzOTI2LC01ODIzMTc0
-MjgsMTA2OTA0OTUyNSwtMTEwMDcwNDc2OCwxNjc0Mjg5MTEwLD
-E0MTE4Njk4NTgsLTE0NDMwNzM5NCwtMTc3MDM1NDg1NCwxMzU5
-NjAzNDMxXX0=
+eyJoaXN0b3J5IjpbMjczNzk1NzAzLDEzODIzMjcwOTYsODA4OD
+U5NDI5LC0xNzIyMDAxMjcsLTczNzI1OTEyLDIwMzg5MTQ1NjQs
+LTg3NzUzNzU4NSwxODk4NzczNDc2LDEzOTkzMDQ3MDgsMjAxMD
+A3MjA2LC0xMzExMTUwNTAwLDE2MDY3MjIzNTQsMTUzMzYxMzky
+NiwtNTgyMzE3NDI4LDEwNjkwNDk1MjUsLTExMDA3MDQ3NjgsMT
+Y3NDI4OTExMCwxNDExODY5ODU4LC0xNDQzMDczOTQsLTE3NzAz
+NTQ4NTRdfQ==
 -->
