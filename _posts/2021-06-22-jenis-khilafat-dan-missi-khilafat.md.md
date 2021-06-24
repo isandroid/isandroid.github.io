@@ -125,6 +125,12 @@ Hudhur ayyadahuLlahu ta’ala menyatakan bahwa karunia Tuhan yang berhubungan de
 
 Semoga kita selalu teguh, dan semoga kita dapat **memenuhi janji baiat** kita sehingga kita dapat melihat janji Tuhan dan kemenangan Jemaat. Semoga ibadah dan perbuatan kita mencapai keridhaan Tuhan. Semoga kita benar-benar memahami karunia Khilafat dan dapat menjelaskannya kepada generasi mendatang sehingga mereka dapat memperoleh manfaat dari Khilafat juga.[[^khotbah20210528]].
 
+#### Ikatan Dengan Khilafat
+
+Huzur V (atba) menjelaskan tentang kewajiban para Ahmadi. Salah satunya adalah menjalin ikatan dengan khilafat. Beliau (atba) menjelaskan,
+
+> Kita juga (hendaknya) terus mengajarkan anak-anak kita supaya senantiasa bersyukur kepada Allah Ta‟ala karena Dia telah memperbaiki kondisi keuangan kita setelah datang ke sini kemudian menceritakan kepada mereka bahwa sebagai rasa syukur atas kesempatan akademis yang mereka dapatkan, hendaknya mereka menjalin hubungan yang kuat dengan Nizam Jemaat serta ikatan kesetiaan dan ketaatan dengan Khilafat
+
 ### Implementasi untuk Taat kepada Khilafat Saat Mengikuti KPA
 
 Beberapa cara kita menerapkan ketaatan kepada khilafat ketika mengikuti KPA diantaranya adalah sebagai berikut:
@@ -173,11 +179,11 @@ Setelah KPA usai, maka kita bisa menerapkannya sebagai berikut,
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzE4NTQ5MTY5LC0yMDA3MzI5ODY1LDEwMD
-MyOTIyNTksMjczNzk1NzAzLDEzODIzMjcwOTYsODA4ODU5NDI5
-LC0xNzIyMDAxMjcsLTczNzI1OTEyLDIwMzg5MTQ1NjQsLTg3Nz
-UzNzU4NSwxODk4NzczNDc2LDEzOTkzMDQ3MDgsMjAxMDA3MjA2
-LC0xMzExMTUwNTAwLDE2MDY3MjIzNTQsMTUzMzYxMzkyNiwtNT
-gyMzE3NDI4LDEwNjkwNDk1MjUsLTExMDA3MDQ3NjgsMTY3NDI4
-OTExMF19
+eyJoaXN0b3J5IjpbLTEzNjgyOTQ4OTEsMzE4NTQ5MTY5LC0yMD
+A3MzI5ODY1LDEwMDMyOTIyNTksMjczNzk1NzAzLDEzODIzMjcw
+OTYsODA4ODU5NDI5LC0xNzIyMDAxMjcsLTczNzI1OTEyLDIwMz
+g5MTQ1NjQsLTg3NzUzNzU4NSwxODk4NzczNDc2LDEzOTkzMDQ3
+MDgsMjAxMDA3MjA2LC0xMzExMTUwNTAwLDE2MDY3MjIzNTQsMT
+UzMzYxMzkyNiwtNTgyMzE3NDI4LDEwNjkwNDk1MjUsLTExMDA3
+MDQ3NjhdfQ==
 -->
