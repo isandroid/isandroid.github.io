@@ -15,9 +15,9 @@ Allah Ta'ala berfirman dalam QS An-Nur (24) ayat 56:
 وَعَدَ اللّٰہُ الَّذِیۡنَ اٰمَنُوۡا مِنۡکُمۡ وَعَمِلُوا الصّٰلِحٰتِ لَیَسۡتَخۡلِفَنَّہُمۡ فِی الۡاَرۡضِ کَمَا اسۡتَخۡلَفَ الَّذِیۡنَ مِنۡ قَبۡلِہِمۡ وَلَیُمَکِّنَنَّ لَہُمۡ دِیۡنَہُمُ الَّذِی ارۡتَضٰی لَہُمۡ وَلَیُبَدِّلَنَّہُمۡ مِّنۡۢ بَعۡدِ خَوۡفِہِمۡ اَمۡنًا ۚ یَعۡبُدُوۡنَنِیۡ لَا یُشۡرِکُوۡنَ بِیۡ شَیۡـًٔا ۚ وَمَنۡ کَفَرَ بَعۡدَ ذٰلِکَ فَاُولٰٓئِکَ ہُمُ الۡفٰسِقُوۡنَ
 </p>
 
-> "Allah telah berjanji kepada orang-orang yang beriman dari antara kamu dan berbuat amal saleh, bahwa Dia pasti akan menjadikan mereka itu khalifah di bumi ini, sebagaimana Dia telah menjadikan khalifah orang-orang yang sebelum mereka; dan Dia pasti akan meneguhkan bagi mereka agama mereka, yang telah Dia ridhai bagi mereka; dan pasti Dia akan memberi mereka keamanan _dan kedamaian_ sebagai pengganti sesudah ketakutan _mencekam_ mereka. Mereka akan menyembah Aku, dan mereka tidak akan mempersekutukan sesuatu dengan Aku. Dan barangsiapa ingkar sesudah itu, mereka itulah orang-orang durhaka." [[^qs_]]
+> "Allah telah berjanji kepada orang-orang yang beriman dari antara kamu dan berbuat amal saleh, bahwa Dia pasti akan menjadikan mereka itu khalifah di bumi ini, sebagaimana Dia telah menjadikan khalifah orang-orang yang sebelum mereka; dan Dia pasti akan meneguhkan bagi mereka agama mereka, yang telah Dia ridhai bagi mereka; dan pasti Dia akan memberi mereka keamanan _dan kedamaian_ sebagai pengganti sesudah ketakutan _mencekam_ mereka. Mereka akan menyembah Aku, dan mereka tidak akan mempersekutukan sesuatu dengan Aku. Dan barangsiapa ingkar sesudah itu, mereka itulah orang-orang durhaka." [[^qs_024_056]]
 
-[QS 24:56](/ref/qrn-024-056)
+[^qs_024_056]: [QS 24:56](/ref/qrn-024-056)
 
 Ayat ini berisikan janji, bahwa Kaum Muslimin akan dianugerahi pimpinan rohani maupun duniawi. 
 
@@ -146,11 +146,11 @@ Setelah KPA usai, maka kita bisa menerapkannya sebagai berikut,
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTg5MzM2NjgsMTM5OTMwNDcwOCwyMD
-EwMDcyMDYsLTEzMTExNTA1MDAsMTYwNjcyMjM1NCwxNTMzNjEz
-OTI2LC01ODIzMTc0MjgsMTA2OTA0OTUyNSwtMTEwMDcwNDc2OC
-wxNjc0Mjg5MTEwLDE0MTE4Njk4NTgsLTE0NDMwNzM5NCwtMTc3
-MDM1NDg1NCwxMzU5NjAzNDMxLC0xMTcxMzY0MzM4LC0xNzAyNj
-I4NzA3LC0xOTYwNTM3NDIwLC0xMTAxMjYwMDczLDE1MzQyMzA4
-NjUsLTMyMjE4MzUzOV19
+eyJoaXN0b3J5IjpbLTg3NzUzNzU4NSwxMzk5MzA0NzA4LDIwMT
+AwNzIwNiwtMTMxMTE1MDUwMCwxNjA2NzIyMzU0LDE1MzM2MTM5
+MjYsLTU4MjMxNzQyOCwxMDY5MDQ5NTI1LC0xMTAwNzA0NzY4LD
+E2NzQyODkxMTAsMTQxMTg2OTg1OCwtMTQ0MzA3Mzk0LC0xNzcw
+MzU0ODU0LDEzNTk2MDM0MzEsLTExNzEzNjQzMzgsLTE3MDI2Mj
+g3MDcsLTE5NjA1Mzc0MjAsLTExMDEyNjAwNzMsMTUzNDIzMDg2
+NSwtMzIyMTgzNTM5XX0=
 -->
