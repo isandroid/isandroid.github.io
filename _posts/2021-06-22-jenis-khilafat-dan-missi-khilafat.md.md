@@ -17,7 +17,7 @@ Allah Ta'ala berfirman dalam QS An-Nur (24) ayat 56:
 
 > "Allah telah berjanji kepada orang-orang yang beriman dari antara kamu dan berbuat amal saleh, bahwa Dia pasti akan menjadikan mereka itu khalifah di bumi ini, sebagaimana Dia telah menjadikan khalifah orang-orang yang sebelum mereka; dan Dia pasti akan meneguhkan bagi mereka agama mereka, yang telah Dia ridhai bagi mereka; dan pasti Dia akan memberi mereka keamanan _dan kedamaian_ sebagai pengganti sesudah ketakutan _mencekam_ mereka. Mereka akan menyembah Aku, dan mereka tidak akan mempersekutukan sesuatu dengan Aku. Dan barangsiapa ingkar sesudah itu, mereka itulah orang-orang durhaka." [[^qs_024_056]]
 
-q[^qs_024_056]: [QS 24:56](/ref/qrn-024-056)
+[^qs_024_056]: [QS 24:56](/ref/qrn-024-056)
 
 Ayat ini berisikan janji, bahwa Kaum Muslimin akan dianugerahi pimpinan rohani maupun duniawi. 
 
@@ -146,11 +146,11 @@ Setelah KPA usai, maka kita bisa menerapkannya sebagai berikut,
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5ODc3MzQ3NiwtODc3NTM3NTg1LDEzOT
-kzMDQ3MDgsMjAxMDA3MjA2LC0xMzExMTUwNTAwLDE2MDY3MjIz
-NTQsMTUzMzYxMzkyNiwtNTgyMzE3NDI4LDEwNjkwNDk1MjUsLT
-ExMDA3MDQ3NjgsMTY3NDI4OTExMCwxNDExODY5ODU4LC0xNDQz
-MDczOTQsLTE3NzAzNTQ4NTQsMTM1OTYwMzQzMSwtMTE3MTM2ND
-MzOCwtMTcwMjYyODcwNywtMTk2MDUzNzQyMCwtMTEwMTI2MDA3
-MywxNTM0MjMwODY1XX0=
+eyJoaXN0b3J5IjpbLTg3NzUzNzU4NSwxODk4NzczNDc2LC04Nz
+c1Mzc1ODUsMTM5OTMwNDcwOCwyMDEwMDcyMDYsLTEzMTExNTA1
+MDAsMTYwNjcyMjM1NCwxNTMzNjEzOTI2LC01ODIzMTc0MjgsMT
+A2OTA0OTUyNSwtMTEwMDcwNDc2OCwxNjc0Mjg5MTEwLDE0MTE4
+Njk4NTgsLTE0NDMwNzM5NCwtMTc3MDM1NDg1NCwxMzU5NjAzND
+MxLC0xMTcxMzY0MzM4LC0xNzAyNjI4NzA3LC0xOTYwNTM3NDIw
+LC0xMTAxMjYwMDczXX0=
 -->
