@@ -83,7 +83,9 @@ Rasulullah (saw) telah menubuwwatkan berdirinya Khilafat dan kerajaan setelah be
 Beberapa cara kita menerapkan ketaatan kepada khilafat ketika mengikuti KPA diantaranya adalah sebagai berikut:
 
  1. Mengikuti seluruh acara KPA dengan khidmat
- 2. 
+ 2. Melaksanakan tugas-tugas KPA 
+ 3. Mengikuti lomba semaksimal mungkin
+ 4. Berusaha menjawab pertanyaan-pertanyaan yang dia
 
 <!-- Rujukan pd Al-Qur'an, Hadist,Sabda Hz Masih Mau'ud (as) dan para Khalifatul Masih -->
 
@@ -109,11 +111,11 @@ Beberapa cara kita menerapkan ketaatan kepada khilafat ketika mengikuti KPA dian
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkzNzE2MzM2MSwtMTMxMTE1MDUwMCwxNj
-A2NzIyMzU0LDE1MzM2MTM5MjYsLTU4MjMxNzQyOCwxMDY5MDQ5
-NTI1LC0xMTAwNzA0NzY4LDE2NzQyODkxMTAsMTQxMTg2OTg1OC
-wtMTQ0MzA3Mzk0LC0xNzcwMzU0ODU0LDEzNTk2MDM0MzEsLTEx
-NzEzNjQzMzgsLTE3MDI2Mjg3MDcsLTE5NjA1Mzc0MjAsLTExMD
-EyNjAwNzMsMTUzNDIzMDg2NSwtMzIyMTgzNTM5LC01ODkwMTIy
-NjQsLTYzNTc2OTc1M119
+eyJoaXN0b3J5IjpbOTM1ODg5NjU0LC0xMzExMTUwNTAwLDE2MD
+Y3MjIzNTQsMTUzMzYxMzkyNiwtNTgyMzE3NDI4LDEwNjkwNDk1
+MjUsLTExMDA3MDQ3NjgsMTY3NDI4OTExMCwxNDExODY5ODU4LC
+0xNDQzMDczOTQsLTE3NzAzNTQ4NTQsMTM1OTYwMzQzMSwtMTE3
+MTM2NDMzOCwtMTcwMjYyODcwNywtMTk2MDUzNzQyMCwtMTEwMT
+I2MDA3MywxNTM0MjMwODY1LC0zMjIxODM1MzksLTU4OTAxMjI2
+NCwtNjM1NzY5NzUzXX0=
 -->
