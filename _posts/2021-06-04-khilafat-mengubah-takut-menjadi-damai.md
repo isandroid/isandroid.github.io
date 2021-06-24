@@ -72,52 +72,23 @@ Hudhur ayyadahuLlahu ta’ala bersabda mengutip Hadhrat Masih Mau’ud (as) yang
 
 Hudhur ayyadahuLlahu ta’ala mengutip Hadhrat Masih Mau’ud (as) yang pernah bersabda, “Maka dari itu, janganlah kalian bersedih hati karena uraian yang saya terangkan di depan kalian ini. Janganlah hati kalian menjadi kusut karena bagi kalian perlu pula melihat Kudrat kedua. Kedatangannya kepada kalian membawa kebaikan karena ia (Kudrat kedua) selamanya akan tinggal bersama kalian dan sampai hari kiamat, kesinambungannya ini tidak akan terputus.
 
-Kudrat kedua itu tidak dapat datang sebelum saya pergi; namun bila saya telah pergi, Tuhan akan
-mengirimkan Kudrat kedua itu kepadamu yang akan tinggal bersama kamu selama-lamanya;
-sebagaimana janji Tuhan dalam Barahin Ahmadiyah. Janji itu bukan untuk saya, melainkan untuk
-kamu. Seperti firman Tuhan, ‘Aku akan memberi kepada Jemaat ini, yakni pengikut-pengikut engkau,
-kemenangan di atas golongan-golongan lain sampai kiamat.’
+Kudrat kedua itu tidak dapat datang sebelum saya pergi; namun bila saya telah pergi, Tuhan akan mengirimkan Kudrat kedua itu kepadamu yang akan tinggal bersama kamu selama-lamanya; sebagaimana janji Tuhan dalam Barahin Ahmadiyah. Janji itu bukan untuk saya, melainkan untuk kamu. Seperti firman Tuhan, ‘Aku akan memberi kepada Jemaat ini, yakni pengikut-pengikut engkau, kemenangan di atas golongan-golongan lain sampai kiamat.’
 
-Dari itu mestilah datang kepadamu hari perpisahan saya supaya sesudah itu baru datang hari
-yang jadi hari perjanjian kekal. Tuhan kita adalah Tuhan yang menepati janji, setia dan benar. Dia akan
-memperlihatkan kepadamu segala apa yang sudah dijanjikan-Nya. Meskipun masa ini adalah masa
-akhir dunia dan banyak malapetaka akan tiba, tetapi mestilah dunia akan tetap ada sampai semua hal
-yang telah dinubuatkan oleh Tuhan menjadi kenyataan. Saya lahir sebagai suatu kudrat dari Tuhan.
-Saya adalah kudrat Tuhan yang berjasad. 
+Dari itu mestilah datang kepadamu hari perpisahan saya supaya sesudah itu baru datang hari yang jadi hari perjanjian kekal. Tuhan kita adalah Tuhan yang menepati janji, setia dan benar. Dia akan memperlihatkan kepadamu segala apa yang sudah dijanjikan-Nya. Meskipun masa ini adalah masa akhir dunia dan banyak malapetaka akan tiba, tetapi mestilah dunia akan tetap ada sampai semua hal yang telah dinubuatkan oleh Tuhan menjadi kenyataan. Saya lahir sebagai suatu kudrat dari Tuhan. Saya adalah kudrat Tuhan yang berjasad.
 
-Kemudian, sesudah saya ada lagi beberapa wujud yang jadi mazhar (cerminan) Kudrat Kedua.
-Sebab itu senantiasalah kamu berhimpun sambil berdoa, menanti kudrat Tuhan yang kedua itu.” [[^rk_v20_305_306]]
+Kemudian, sesudah saya ada lagi beberapa wujud yang jadi mazhar (cerminan) Kudrat Kedua. Sebab itu senantiasalah kamu berhimpun sambil berdoa, menanti kudrat Tuhan yang kedua itu.” [[^rk_v20_305_306]]
 
 [^rk_v20_305_306]: Risalah al-Wasiyyat, Ruhani Khazain jilid 20, h. 305-306, terj. Indonesia, 2001, h. 14
 
 ### Kelanjutan dari Lembaga Khilafat
 
-Hudhur ayyadahuLlahu ta’ala mengatakan bahwa selama 113 tahun terakhir, Jemaat ini telah
-melihat pemenuhan janji yang dibuat oleh Tuhan Yang Maha Esa kepada Hadhrat Masih Mau’ud (as).
-Para penentang tidak menyadari bahwa tujuan dari perwujudan kedua ini adalah sama dengan doa
-yang dibuat oleh Nabi Ibrahim (as) bagi seseorang yang akan diutus setelahnya untuk melanjutkan
-misinya. Itu untuk alasan yang sama bahwa Hadhrat Masih Mau’ud (as) ditugaskan, untuk melanjutkan
-ajaran Nabi Muhammad (saw).
+Hudhur ayyadahuLlahu ta’ala mengatakan bahwa selama 113 tahun terakhir, Jemaat ini telah melihat pemenuhan janji yang dibuat oleh Tuhan Yang Maha Esa kepada Hadhrat Masih Mau’ud (as). Para penentang tidak menyadari bahwa tujuan dari perwujudan kedua ini adalah sama dengan doa yang dibuat oleh Nabi Ibrahim (as) bagi seseorang yang akan diutus setelahnya untuk melanjutkan misinya. Itu untuk alasan yang sama bahwa Hadhrat Masih Mau’ud (as) ditugaskan, untuk melanjutkan ajaran Nabi Muhammad (saw).
 
-Hudhur ayyadahuLlahu ta’ala bersabda bahwa dalam pidato pertamanya sebagai Khalifah,
-Khalifah Pertama, Hadhrat Hakim Maulvi Nooruddin (ra) mengatakan bahwa semua harus
-mematuhinya sebagai Khalifah. Beliau (ra) mengatakan bahwa tidak ada gunanya hanya bersumpah
-setia (baiat), atau beliau menerima sumpah setia dari orang lain, karena hal seperti ini bisa dilakukan
-oleh siapa saja. Sebaliknya, aspek yang menonjol ialah keharusan ketaatan penuh kepada Khilafat.
+Hudhur ayyadahuLlahu ta’ala bersabda bahwa dalam pidato pertamanya sebagai Khalifah, Khalifah Pertama, Hadhrat Hakim Maulvi Nooruddin (ra) mengatakan bahwa semua harus mematuhinya sebagai Khalifah. Beliau (ra) mengatakan bahwa tidak ada gunanya hanya bersumpah setia (baiat), atau beliau menerima sumpah setia dari orang lain, karena hal seperti ini bisa dilakukan oleh siapa saja. Sebaliknya, aspek yang menonjol ialah keharusan ketaatan penuh kepada Khilafat.
 
-Hudhur ayyadahuLlahu ta’ala mengatakan bahwa pada bulan Maret 1914, ketika Khalifah
-Pertama (ra) meninggal dunia, ada lagi masa ketakutan, tetapi sekali lagi, Tuhan memenuhi janji yang
-dibuat kepada Hadhrat Masih Mau’ud (as) dan mendirikan lagi Khilafat.
+Hudhur ayyadahuLlahu ta’ala mengatakan bahwa pada bulan Maret 1914, ketika Khalifah Pertama (ra) meninggal dunia, ada lagi masa ketakutan, tetapi sekali lagi, Tuhan memenuhi janji yang dibuat kepada Hadhrat Masih Mau’ud (as) dan mendirikan lagi Khilafat.
 
-Hudhur ayyadahuLlahu ta’ala mengatakan bahwa ada orang-orang yang menentang Khilafat dan
-menentang Hadhrat Mirza Bashiruddin Mahmud Ahmad (ra) menjadi Khalifah. Hadhrat Mirza
-Bashiruddin Mahmud Ahmad (ra) menyatakan bahwa menurut kehendak Hadhrat Masih Mau’ud (as)
-dan janji yang dibuat kepadanya oleh Tuhan, harus ada Khilafat, dan beliau akan berbaiat kepada
-siapa pun yang dipilih. Akhirnya, meskipun secara pribadi beliau tidak menginginkan jabatan itu,
-Hadhrat Mirza Bashiruddin Mahmud Ahmad (ra) terpilih sebagai Khalifah berikutnya. Tercatat ada lebih
-dari 2.000 orang di Masjid Nur yang berbaiat kepada Khalifah Kedua (ra) dan keadaan pengabdian
-mereka sedemikian rupa sehingga mereka bersuara lantang untuk berbaiat kepadanya. 51 tahun era
-Khalifah Kedua (ra) sendiri merupakan bukti pertolongan Tuhan yang menyertai Khilafat.
+Hudhur ayyadahuLlahu ta’ala mengatakan bahwa ada orang-orang yang menentang Khilafat dan menentang Hadhrat Mirza Bashiruddin Mahmud Ahmad (ra) menjadi Khalifah. Hadhrat Mirza Bashiruddin Mahmud Ahmad (ra) menyatakan bahwa menurut kehendak Hadhrat Masih Mau’ud (as) dan janji yang dibuat kepadanya oleh Tuhan, harus ada Khilafat, dan beliau akan berbaiat kepada siapa pun yang dipilih. Akhirnya, meskipun secara pribadi beliau tidak menginginkan jabatan itu, Hadhrat Mirza Bashiruddin Mahmud Ahmad (ra) terpilih sebagai Khalifah berikutnya. Tercatat ada lebih dari 2.000 orang di Masjid Nur yang berbaiat kepada Khalifah Kedua (ra) dan keadaan pengabdian mereka sedemikian rupa sehingga mereka bersuara lantang untuk berbaiat kepadanya. 51 tahun era Khalifah Kedua (ra) sendiri merupakan bukti pertolongan Tuhan yang menyertai Khilafat.
 
 Pada November 1965, setelah wafatnya Khalifah Kedua, Tuhan Yang Maha Kuasa kembali
 memenuhi janji-Nya dan mendirikan Khilafat dalam sosok Khalifah Ketiga, Hadhrat Mirza Nasir Ahmad
@@ -175,5 +146,5 @@ Muhammad (saw) di seluruh dunia. Semoga kita melihat Keesaan Tuhan didirikan di 
 
 ### Catatan Kaki
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQ4OTQ1NjI5XX0=
+eyJoaXN0b3J5IjpbMTk0NzMyODE0N119
 -->
