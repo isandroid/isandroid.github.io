@@ -108,9 +108,11 @@ Rasulullah (saw) bersabda,
 <!-- https://www.alislam.org/archives/sermons/summary/FSS20210528-ID.pdf -->
 <!-- https://pustaka.isa.web.id/2021/06/04/khilafat-mengubah-takut-menjadi-damai.html -->
 
-Hadhrat Hakim Maulvi Nooruddin (ra) bersabda bahwa tidak ada gunanya hanya bersumpah setia (baiat), atau beliau menerima sumpah setia dari orang lain, karena hal seperti ini bisa dilakukan oleh siapa saja. Sebaliknya, aspek yang menonjol ialah keharusan **ketaatan penuh kepada Khilafat** [[^khotbah20210528]].
+Hadhrat Hakim Maulvi Nooruddin (ra) bersabda bahwa tidak ada gunanya hanya bersumpah setia (baiat), atau beliau menerima sumpah setia dari orang lain, karena hal seperti ini bisa dilakukan oleh siapa saja. Sebaliknya, aspek yang menonjol ialah keharusan **ketaatan penuh kepada Khilafat** [[^khotbah20210528]]
 
+Hudhur ayyadahuLlahu ta’ala menyatakan bahwa Jemaat berkembang pesat. Terjemahan AlQur’an dalam berbagai bahasa disebarkan ke seluruh dunia. MTA dimulai hanya dengan satu saluran, dan sekarang ada delapan saluran dan studio yang didirikan di seluruh dunia. Pesan Jemaat juga disebarkan melalui Media Sosial. Jalan baru yang sedang dibuka, seperti Mulaqat Virtual, dimana Khalifatul Masih yang berada di Inggris bertemu dengan orang-orang dari seluruh dunia dan orangorang dapat menerima bimbingan langsung dari Khalifah mereka. 
 
+Hudhur ayyadahuLlahu ta’ala menyatakan bahwa karunia Tuhan yang berhubungan dengan Khilafat tidak terhitung banyaknya. Namun, jika kita ingin mendapatkan kesepakatan, maka kita harus memenuhi tanggung jawab kita; kita harus benar-benar taat pada Khilafat dan menanamkan hal yang sama pada generasi mendatang.
 
 ### Implementasi untuk Taat kepada Khilafat Saat Mengikuti KPA
 
@@ -160,11 +162,11 @@ Setelah KPA usai, maka kita bisa menerapkannya sebagai berikut,
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODA4ODU5NDI5LC0xNzIyMDAxMjcsLTczNz
-I1OTEyLDIwMzg5MTQ1NjQsLTg3NzUzNzU4NSwxODk4NzczNDc2
-LDEzOTkzMDQ3MDgsMjAxMDA3MjA2LC0xMzExMTUwNTAwLDE2MD
-Y3MjIzNTQsMTUzMzYxMzkyNiwtNTgyMzE3NDI4LDEwNjkwNDk1
-MjUsLTExMDA3MDQ3NjgsMTY3NDI4OTExMCwxNDExODY5ODU4LC
-0xNDQzMDczOTQsLTE3NzAzNTQ4NTQsMTM1OTYwMzQzMSwtMTE3
-MTM2NDMzOF19
+eyJoaXN0b3J5IjpbMTkyNjI5MjcwNiw4MDg4NTk0MjksLTE3Mj
+IwMDEyNywtNzM3MjU5MTIsMjAzODkxNDU2NCwtODc3NTM3NTg1
+LDE4OTg3NzM0NzYsMTM5OTMwNDcwOCwyMDEwMDcyMDYsLTEzMT
+ExNTA1MDAsMTYwNjcyMjM1NCwxNTMzNjEzOTI2LC01ODIzMTc0
+MjgsMTA2OTA0OTUyNSwtMTEwMDcwNDc2OCwxNjc0Mjg5MTEwLD
+E0MTE4Njk4NTgsLTE0NDMwNzM5NCwtMTc3MDM1NDg1NCwxMzU5
+NjAzNDMxXX0=
 -->
