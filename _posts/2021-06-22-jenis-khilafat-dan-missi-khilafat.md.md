@@ -73,6 +73,7 @@ Rasulullah (saw) telah menubuwwatkan berdirinya Khilafat dan kerajaan setelah be
 #### Hadits tentang Khalifah Rasyidah
 
 
+
 #### Hadits tentang Khalifatul Masih
 
 
@@ -123,11 +124,11 @@ Setelah KPA usai, maka kita bisa menerapkannya sebagai berikut,
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5OTMwNDcwOCwyMDEwMDcyMDYsLTEzMT
-ExNTA1MDAsMTYwNjcyMjM1NCwxNTMzNjEzOTI2LC01ODIzMTc0
-MjgsMTA2OTA0OTUyNSwtMTEwMDcwNDc2OCwxNjc0Mjg5MTEwLD
-E0MTE4Njk4NTgsLTE0NDMwNzM5NCwtMTc3MDM1NDg1NCwxMzU5
-NjAzNDMxLC0xMTcxMzY0MzM4LC0xNzAyNjI4NzA3LC0xOTYwNT
-M3NDIwLC0xMTAxMjYwMDczLDE1MzQyMzA4NjUsLTMyMjE4MzUz
-OSwtNTg5MDEyMjY0XX0=
+eyJoaXN0b3J5IjpbMTE2OTkxNDY3NCwxMzk5MzA0NzA4LDIwMT
+AwNzIwNiwtMTMxMTE1MDUwMCwxNjA2NzIyMzU0LDE1MzM2MTM5
+MjYsLTU4MjMxNzQyOCwxMDY5MDQ5NTI1LC0xMTAwNzA0NzY4LD
+E2NzQyODkxMTAsMTQxMTg2OTg1OCwtMTQ0MzA3Mzk0LC0xNzcw
+MzU0ODU0LDEzNTk2MDM0MzEsLTExNzEzNjQzMzgsLTE3MDI2Mj
+g3MDcsLTE5NjA1Mzc0MjAsLTExMDEyNjAwNzMsMTUzNDIzMDg2
+NSwtMzIyMTgzNTM5XX0=
 -->
