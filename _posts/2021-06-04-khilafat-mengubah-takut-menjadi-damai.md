@@ -40,44 +40,21 @@ ayat-ayat berikut dari Al-Qur'an:
 
 Hudhur ayyadahuLlahu ta’ala mengatakan bahwa kemarin tanggal 27 Mei, yang di dalam Jemaat dikenal sebagai Hari Khilafat. Pada hari ini, program diadakan agar kita dapat memahami pentingnya Khilafat dan memahami berkah ini sehingga kita dapat terus menuai manfaatnya. Kita beruntung telah menerima Hadhrat Masih Mau’ud (as), dan dengan demikian telah menerima Khilafat yang memungkinkan kita untuk terus mengikuti ajaran Hadhrat Masih Mau’ud (as) dan menyebarkannya lebih jauh di dunia juga.
 
-Hudhur ayyadahuLlahu ta’ala mengatakan bahwa dengan terhubung dengan Khilafat, setiap Ahmadi memiliki tanggung jawab yang harus dijunjung tinggi. Dalam ayat-ayat yang dibacakan, Tuhan telah menjanjikan kedamaian dan keamanan dengan syarat seseorang memiliki iman yang teguh, melakukan perbuatan baik (amal saleh), melakukan keadilan (keseimbangan) terhadap ibadah mereka
+Hudhur ayyadahuLlahu ta’ala mengatakan bahwa dengan terhubung dengan Khilafat, setiap Ahmadi memiliki tanggung jawab yang harus dijunjung tinggi. Dalam ayat-ayat yang dibacakan, Tuhan telah menjanjikan kedamaian dan keamanan dengan syarat seseorang memiliki iman yang teguh, melakukan perbuatan baik (amal saleh), melakukan keadilan (keseimbangan) terhadap ibadah mereka dan tidak menyekutukan Tuhan. Untuk mencapai ini, menyembah Tuhan dan doa sangat penting. Seseorang harus melakukan shalat, menghabiskan waktu di jalan Allah dan mengikuti ajaran Nabi Muhammad shallaLlahu ‘alaihi wa sallam.
 
-Hudhur ayyadahuLlahu ta’ala bersabda bahwa ketika kita memenuhi hal-hal ini dan memenuhi
-janji setia kita untuk mendahulukan iman kita atas hal-hal duniawi, maka kita akan menerima karunia
-dan berkah yang dijanjikan oleh Tuhan, dan kita akan dapat benar-benar mendapatkan manfaat dari
-Khilafat. Dengan demikian, janji Tuhan ini tidak hanya menjadi sarana kegembiraan besar, tetapi juga
-menjadi sumber perhatian bagi kita, karena kita harus memeriksa diri dan melihat apakah kita
-memenuhi persyaratan yang telah ditetapkan oleh Tuhan. 
 
-Tidaklah cukup hanya dengan mengenal sejarah Khilafat, tetapi kita harus mempertimbangkan
-apakah kita benar-benar bertakwa, apakah kita telah melakukan pemenuhan hak-hak ibadah, apakah
-kita mengikuti ajaran yang disajikan oleh Nabi Muhammad (saw)? Kita harus mempertimbangkan
-apakah perbuatan baik kita dilakukan demi Tuhan atau untuk menunjukkan kepada orang lain (riya). 
+Hudhur ayyadahuLlahu ta’ala bersabda bahwa ketika kita memenuhi hal-hal ini dan memenuhi janji setia kita untuk mendahulukan iman kita atas hal-hal duniawi, maka kita akan menerima karunia dan berkah yang dijanjikan oleh Tuhan, dan kita akan dapat benar-benar mendapatkan manfaat dari Khilafat. Dengan demikian, janji Tuhan ini tidak hanya menjadi sarana kegembiraan besar, tetapi juga menjadi sumber perhatian bagi kita, karena kita harus memeriksa diri dan melihat apakah kita memenuhi persyaratan yang telah ditetapkan oleh Tuhan. 
+
+Tidaklah cukup hanya dengan mengenal sejarah Khilafat, tetapi kita harus mempertimbangkan apakah kita benar-benar bertakwa, apakah kita telah melakukan pemenuhan hak-hak ibadah, apakah kita mengikuti ajaran yang disajikan oleh Nabi Muhammad (saw)? Kita harus mempertimbangkan apakah perbuatan baik kita dilakukan demi Tuhan atau untuk menunjukkan kepada orang lain (riya).
 
 ### Meraih Berkat dari Janji Ilahi ini
 
-Hudhur ayyadahuLlahu ta’ala mengatakan bahwa hanya ketika setiap tindakan kita adalah demi
-Tuhan, kita akan dapat memperoleh berkat dari janji yang dibuat oleh Tuhan ini. Inilah arti sebenarnya
-dari 'melakukan perbuatan baik' seperti yang ditetapkan oleh Tuhan.
 
-Hudhur ayyadahuLlahu ta’ala mengutip Hadhrat Masih Mau’ud (as) yang mengatakan bahwa di
-dalam Al-Qur'an, di mana Tuhan menyebutkan keyakinan (iman), Dia juga menyebutkan perbuatan
-baik (amal saleh). Seorang mukmin sejati adalah orang yang melakukan perbuatan baik, seiring itu dia
-menghindari hal-hal yang membuat perbuatan itu batal, seperti melakukannya untuk menunjukkan
-kepada orang lain. Lebih jauh, tidak hanya seseorang menghindari hal-hal yang meniadakan perbuatan
-baik, tetapi mereka bahkan tidak membiarkan pemikiran seperti itu terlintas dalam pikiran mereka. Saat
-itulah seseorang menjadi orang yang benar-benar beriman. Jadi, bersama dengan keyakinan,
-melakukan perbuatan baik juga merupakan syarat.
+Hudhur ayyadahuLlahu ta’ala mengatakan bahwa hanya ketika setiap tindakan kita adalah demi Tuhan, kita akan dapat memperoleh berkat dari janji yang dibuat oleh Tuhan ini. Inilah arti sebenarnya dari 'melakukan perbuatan baik' seperti yang ditetapkan oleh Tuhan. 
 
-Hudhur ayyadahuLlahu ta’ala bersabda bahwa melakukan perbuatan baik tidak berarti melakukan
-sesuatu yang menurut pikirannya baik. Sebaliknya, amal saleh adalah untuk mengikuti teladan Nabi
-(saw) dalam hal yang tersurat (tertulis) dan tersirat (inti dan semangatnya), tanpa noda kesombongan,
-ketakabburan atau kelambanan (kemalasan). Orang-orang seperti itulah yang benar-benar memiliki
-hubungan yang tulus dengan Khilafat dan mereka yang menjunjung tinggi kehormatan Khilafat.
-Dengan melakukan perbuatan baik dalam esensi sejati, orang-orang ini akan menarik perhatian
-Khalifah dan doa beliau terhadap diri mereka sendiri. Orang-orang seperti itu akan memiliki hubungan
-yang benar dengan Khilafat, dengan demikian menjadi mereka yang mencapai kedamaian dan
-keamanan sejati seperti yang dijanjikan oleh Tuhan.
+Hudhur ayyadahuLlahu ta’ala mengutip Hadhrat Masih Mau’ud (as) yang mengatakan bahwa di dalam Al-Qur'an, di mana Tuhan menyebutkan keyakinan (iman), Dia juga menyebutkan perbuatan baik (amal saleh). Seorang mukmin sejati adalah orang yang melakukan perbuatan baik, seiring itu dia menghindari hal-hal yang membuat perbuatan itu batal, seperti melakukannya untuk menunjukkan kepada orang lain. Lebih jauh, tidak hanya seseorang menghindari hal-hal yang meniadakan perbuatan baik, tetapi mereka bahkan tidak membiarkan pemikiran seperti itu terlintas dalam pikiran mereka. Saat itulah seseorang menjadi orang yang benar-benar beriman. Jadi, bersama dengan keyakinan, melakukan perbuatan baik juga merupakan syarat.
+
+Hudhur ayyadahuLlahu ta’ala bersabda bahwa melakukan perbuatan baik tidak berarti melakukan sesuatu yang menurut pikirannya baik. Sebaliknya, amal saleh adalah untuk mengikuti teladan Nabi (saw) dalam hal yang tersurat (tertulis) dan tersirat (inti dan semangatnya), tanpa noda kesombongan, ketakabburan atau kelambanan (kemalasan). Orang-orang seperti itulah yang benar-benar memiliki hubungan yang tulus dengan Khilafat dan mereka yang menjunjung tinggi kehormatan Khilafat. Dengan melakukan perbuatan baik dalam esensi sejati, orang-orang ini akan menarik perhatian Khalifah dan doa beliau terhadap diri mereka sendiri. Orang-orang seperti itu akan memiliki hubungan yang benar dengan Khilafat, dengan demikian menjadi mereka yang mencapai kedamaian dan keamanan sejati seperti yang dijanjikan oleh Tuhan.
 
 Hudhur ayyadahuLlahu ta’ala berkata bahwa ada orang-orang di dunia yang mencoba untuk
 mengambil jubah yang mirip dengan Khilafat, namun mereka pasti gagal, seperti yang selalu mereka
@@ -225,5 +202,5 @@ Muhammad (saw) di seluruh dunia. Semoga kita melihat Keesaan Tuhan didirikan di 
 
 ### Catatan Kaki
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDgyNzMwMzRdfQ==
+eyJoaXN0b3J5IjpbLTE3ODk2MjQ1MzNdfQ==
 -->
