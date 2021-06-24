@@ -49,7 +49,6 @@ Tidaklah cukup hanya dengan mengenal sejarah Khilafat, tetapi kita harus mempert
 
 ### Meraih Berkat dari Janji Ilahi ini
 
-
 Hudhur ayyadahuLlahu ta’ala mengatakan bahwa hanya ketika setiap tindakan kita adalah demi Tuhan, kita akan dapat memperoleh berkat dari janji yang dibuat oleh Tuhan ini. Inilah arti sebenarnya dari 'melakukan perbuatan baik' seperti yang ditetapkan oleh Tuhan. 
 
 Hudhur ayyadahuLlahu ta’ala mengutip Hadhrat Masih Mau’ud (as) yang mengatakan bahwa di dalam Al-Qur'an, di mana Tuhan menyebutkan keyakinan (iman), Dia juga menyebutkan perbuatan baik (amal saleh). Seorang mukmin sejati adalah orang yang melakukan perbuatan baik, seiring itu dia menghindari hal-hal yang membuat perbuatan itu batal, seperti melakukannya untuk menunjukkan kepada orang lain. Lebih jauh, tidak hanya seseorang menghindari hal-hal yang meniadakan perbuatan baik, tetapi mereka bahkan tidak membiarkan pemikiran seperti itu terlintas dalam pikiran mereka. Saat itulah seseorang menjadi orang yang benar-benar beriman. Jadi, bersama dengan keyakinan, melakukan perbuatan baik juga merupakan syarat.
@@ -114,5 +113,6 @@ Hudhur ayyadahuLlahu ta’ala memohon doa bagi para Ahmadi di Pakistan dan para 
 
 ### Catatan Kaki
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyNjU1NzMzMSwxMzc5NDU5NDc5XX0=
+eyJoaXN0b3J5IjpbMjk5NDg0NTQ1LDExMjY1NTczMzEsMTM3OT
+Q1OTQ3OV19
 -->
