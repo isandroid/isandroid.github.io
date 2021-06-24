@@ -97,7 +97,7 @@ Untuk memahami fungsi dari khalifah, kita harus melihat missi pendahulunya. Alla
 3. Mengajari mereka kitab dan
 4. Mengajarkan hikmah (kebijaksanaan) 
 
-Saya juga menjelaskan bahwa keempat tugas Nabi ini tidak dapat dilakukan oleh 'Anjuman' atau organisasi mana pun. Tugas-tugas tersebut hanya dapat dilakukan oleh orang yang ditunjuk oleh Allah sendiri setelah Nabi, dan yang berhak sebagai Khalifah  [[^barakat-e-khilafat_p9]].
+Saya juga menjelaskan bahwa keempat tugas Nabi ini tidak dapat dilakukan oleh 'Anjuman' atau organisasi mana pun. Tugas-tugas tersebut hanya dapat dilakukan oleh orang yang ditunjuk oleh Allah sendiri (Nabi) dan orang yang berhak (menjabat) sebagai Khalifah  [[^barakat-e-khilafat_p9]].
 
 ### Kriteria Seseorang Dikatakan Taat Atau Memiliki Ikatan dengan Khalifah 
 
@@ -119,7 +119,7 @@ Rasulullah (saw) bersabda,
 
 Hadhrat Hakim Maulvi Nooruddin (ra) bersabda bahwa tidak ada gunanya hanya bersumpah setia (baiat), atau beliau menerima sumpah setia dari orang lain, karena hal seperti ini bisa dilakukan oleh siapa saja. Sebaliknya, aspek yang menonjol ialah keharusan **ketaatan penuh kepada Khilafat** [[^khotbah20210528]]
 
-Hudhur V ayyadahuLlahu ta’ala menyatakan bahwa Jemaat berkembang pesat. Terjemahan AlQur’an dalam berbagai bahasa disebarkan ke seluruh dunia. MTA dimulai hanya dengan satu saluran, dan sekarang ada delapan saluran dan studio yang didirikan di seluruh dunia. Pesan Jemaat juga disebarkan melalui Media Sosial. Jalan baru yang sedang dibuka, seperti Mulaqat Virtual, dimana Khalifatul Masih yang berada di Inggris bertemu dengan orang-orang dari seluruh dunia dan orangorang dapat menerima bimbingan langsung dari Khalifah mereka. 
+Hudhur V ayyadahuLLahu ta’ala menyatakan bahwa Jemaat berkembang pesat. Terjemahan AlQur’an dalam berbagai bahasa disebarkan ke seluruh dunia. MTA dimulai hanya dengan satu saluran, dan sekarang ada delapan saluran dan studio yang didirikan di seluruh dunia. Pesan Jemaat juga disebarkan melalui Media Sosial. Jalan baru yang sedang dibuka, seperti Mulaqat Virtual, dimana Khalifatul Masih yang berada di Inggris bertemu dengan orang-orang dari seluruh dunia dan orangorang dapat menerima bimbingan langsung dari Khalifah mereka. 
 
 Hudhur ayyadahuLlahu ta’ala menyatakan bahwa karunia Tuhan yang berhubungan dengan Khilafat tidak terhitung banyaknya. Namun, jika kita ingin mendapatkan manfaat maka kita harus memenuhi tanggung jawab kita; **kita harus benar-benar taat pada Khilafat dan menanamkan hal yang sama pada generasi mendatang** [[^khotbah20210528]].
 
@@ -171,11 +171,11 @@ Setelah KPA usai, maka kita bisa menerapkannya sebagai berikut,
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMjk4NDg1NjksLTIwMDczMjk4NjUsMT
-AwMzI5MjI1OSwyNzM3OTU3MDMsMTM4MjMyNzA5Niw4MDg4NTk0
-MjksLTE3MjIwMDEyNywtNzM3MjU5MTIsMjAzODkxNDU2NCwtOD
-c3NTM3NTg1LDE4OTg3NzM0NzYsMTM5OTMwNDcwOCwyMDEwMDcy
-MDYsLTEzMTExNTA1MDAsMTYwNjcyMjM1NCwxNTMzNjEzOTI2LC
-01ODIzMTc0MjgsMTA2OTA0OTUyNSwtMTEwMDcwNDc2OCwxNjc0
-Mjg5MTEwXX0=
+eyJoaXN0b3J5IjpbLTU1NjY4OTUxMCwtMjAwNzMyOTg2NSwxMD
+AzMjkyMjU5LDI3Mzc5NTcwMywxMzgyMzI3MDk2LDgwODg1OTQy
+OSwtMTcyMjAwMTI3LC03MzcyNTkxMiwyMDM4OTE0NTY0LC04Nz
+c1Mzc1ODUsMTg5ODc3MzQ3NiwxMzk5MzA0NzA4LDIwMTAwNzIw
+NiwtMTMxMTE1MDUwMCwxNjA2NzIyMzU0LDE1MzM2MTM5MjYsLT
+U4MjMxNzQyOCwxMDY5MDQ5NTI1LC0xMTAwNzA0NzY4LDE2NzQy
+ODkxMTBdfQ==
 -->
