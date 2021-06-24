@@ -127,6 +127,9 @@ Semoga kita selalu teguh, dan semoga kita dapat **memenuhi janji baiat** kita se
 
 #### Ikatan Dengan Khilafat
 
+Sebagai seorang Ahmadi, kita mengetah
+Janji kita kepada Khilafat hendaknya kita yakini bahwa janji tersebut adalah janji yang sama yang kita lakukan terhadap Hadhrat Masih Mau'ud (as)
+
 Huzur V (atba) menjelaskan tentang kewajiban para Ahmadi. Salah satunya adalah menjalin ikatan dengan khilafat. Beliau (atba) menjelaskan,
 
 > Kita juga (hendaknya) terus mengajarkan anak-anak kita supaya senantiasa bersyukur kepada Allah Ta‟ala karena Dia telah memperbaiki kondisi keuangan kita setelah datang ke sini kemudian menceritakan kepada mereka bahwa sebagai rasa syukur atas kesempatan akademis yang mereka dapatkan, **hendaknya mereka menjalin hubungan yang kuat dengan Nizam Jemaat serta ikatan kesetiaan dan ketaatan dengan Khilafat**.
@@ -183,7 +186,7 @@ Setelah KPA usai, maka kita bisa menerapkannya sebagai berikut,
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyMzU4NzA0NSwzMTg1NDkxNjksLTIwMD
+eyJoaXN0b3J5IjpbLTE0MTA4Mzc2OSwzMTg1NDkxNjksLTIwMD
 czMjk4NjUsMTAwMzI5MjI1OSwyNzM3OTU3MDMsMTM4MjMyNzA5
 Niw4MDg4NTk0MjksLTE3MjIwMDEyNywtNzM3MjU5MTIsMjAzOD
 kxNDU2NCwtODc3NTM3NTg1LDE4OTg3NzM0NzYsMTM5OTMwNDcw
