@@ -71,8 +71,8 @@ Beberapa jenis khilafat yang diketahui dari Alquran dan Hadits adalah sebagai be
 	- Khalifatulloh sekaligus Khalifatur Rasul (contohnya Nabi Harun sebagai wakil dari Nabi Musa; Nabi Ismail dan Nabi Ishaq yang membantu Nabi Ibrahim (as))
 	- Khalifatulloh sekaligus Khalifah Mamlukiyah (Kerajaan) (contohnya Nabi Daud (as); Nabi Sulaiman (as) dan Rasulullah (saw))
 2. Khalifatur Rasul
-	- Khalifatur Rasul sekaligus Khalifah Mamlukiyah (Kerajaan)
-3. Khalifah Mamlukiyah (Kerajaan)
+	- Khalifatur Rasul sekaligus Khalifah Mamlukiyah (Kerajaan) (contoh: Khulafa-ur-Rosyidin)
+3. Khalifah Mamlukiyah (Kerajaan) (Contoh khalifah-khalifah Bani Umayah, Bani Abasiyah, Bani Fatimiyah dll)
 
 Hadhrat Khalifatul Masih V (atba) bersabda,
 
@@ -204,7 +204,7 @@ Setelah KPA usai, maka kita bisa menerapkannya sebagai berikut,
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwNjQ5MzgxOCwtOTI1Nzg4ODQ4LDE5NT
+eyJoaXN0b3J5IjpbLTc0MDQwODgyMiwtOTI1Nzg4ODQ4LDE5NT
 EwNjE2OTIsMzE4NTQ5MTY5LC0yMDA3MzI5ODY1LDEwMDMyOTIy
 NTksMjczNzk1NzAzLDEzODIzMjcwOTYsODA4ODU5NDI5LC0xNz
 IyMDAxMjcsLTczNzI1OTEyLDIwMzg5MTQ1NjQsLTg3NzUzNzU4
