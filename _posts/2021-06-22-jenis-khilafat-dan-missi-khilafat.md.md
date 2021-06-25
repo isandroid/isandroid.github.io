@@ -67,13 +67,19 @@ Khilafah mengukuhkan kekuasaan Allah di bumi, dan Khalifah berjuang untuk menega
 
 Beberapa jenis khilafat yang diketahui dari Alquran dan Hadits adalah sebagai berikut:
 
-1. **Khalifatulloh** (Seorang Nabi atau Rasul)
-	- Seorang Nabi atau Rasul (memimpin secara ruhani) (contoh Nabi Adam (as), Nabi Idris (as), Nabi Nuh (as), Nabi Isa (as) dll)
-	- Khalifatulloh sekaligus Khalifatur Rasul (contohnya Nabi Harun sebagai wakil dari Nabi Musa; Nabi Ismail dan Nabi Ishaq yang membantu Nabi Ibrahim (as))
-	- Khalifatulloh sekaligus Khalifah Mamlukiyah (Kerajaan) (contohnya Nabi Daud (as); Nabi Sulaiman (as) dan Rasulullah (saw))
-3. **Khalifatur Rasul**
-	- Khalifatur Rasul (memimpin secara ruhani) (Contoh para khalifatul Masih) 
-	- Khalifatur Rasul sekaligus Khalifah Mamlukiyah (Kerajaan) (contoh: Khulafa-ur-Rosyidin)
+#### 1. **Khalifatulloh** (Seorang Nabi atau Rasul)
+
+- Seorang Nabi atau Rasul (memimpin secara ruhani) (contoh Nabi Adam (as), Nabi Idris (as), Nabi Nuh (as), Nabi Isa (as) dll)
+
+- Khalifatulloh sekaligus Khalifatur Rasul (contohnya Nabi Harun sebagai wakil dari Nabi Musa; Nabi Ismail dan Nabi Ishaq yang membantu Nabi Ibrahim (as))
+
+- Khalifatulloh sekaligus Khalifah Mamlukiyah (Kerajaan) (contohnya Nabi Daud (as); Nabi Sulaiman (as) dan Rasulullah (saw))
+
+#### 2. **Khalifatur Rasul**
+
+- Khalifatur Rasul (memimpin secara ruhani) (Contoh para khalifatul Masih) 
+
+- Khalifatur Rasul sekaligus Khalifah Mamlukiyah (Kerajaan) (contoh: Khulafa-ur-Rosyidin)
 4. Khalifah Mamlukiyah (Kerajaan) (Contoh khalifah-khalifah Bani Umayah, Bani Abasiyah, Bani Fatimiyah dll)
 
 Hadhrat Khalifatul Masih V (atba) bersabda,
@@ -206,11 +212,11 @@ Setelah KPA usai, maka kita bisa menerapkannya sebagai berikut,
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDA5MjUzMDAsLTkyNTc4ODg0OCwxOT
-UxMDYxNjkyLDMxODU0OTE2OSwtMjAwNzMyOTg2NSwxMDAzMjky
-MjU5LDI3Mzc5NTcwMywxMzgyMzI3MDk2LDgwODg1OTQyOSwtMT
-cyMjAwMTI3LC03MzcyNTkxMiwyMDM4OTE0NTY0LC04Nzc1Mzc1
-ODUsMTg5ODc3MzQ3NiwxMzk5MzA0NzA4LDIwMTAwNzIwNiwtMT
-MxMTE1MDUwMCwxNjA2NzIyMzU0LDE1MzM2MTM5MjYsLTU4MjMx
-NzQyOF19
+eyJoaXN0b3J5IjpbLTE0NjI1MzM0MTEsLTExMDA5MjUzMDAsLT
+kyNTc4ODg0OCwxOTUxMDYxNjkyLDMxODU0OTE2OSwtMjAwNzMy
+OTg2NSwxMDAzMjkyMjU5LDI3Mzc5NTcwMywxMzgyMzI3MDk2LD
+gwODg1OTQyOSwtMTcyMjAwMTI3LC03MzcyNTkxMiwyMDM4OTE0
+NTY0LC04Nzc1Mzc1ODUsMTg5ODc3MzQ3NiwxMzk5MzA0NzA4LD
+IwMTAwNzIwNiwtMTMxMTE1MDUwMCwxNjA2NzIyMzU0LDE1MzM2
+MTM5MjZdfQ==
 -->
