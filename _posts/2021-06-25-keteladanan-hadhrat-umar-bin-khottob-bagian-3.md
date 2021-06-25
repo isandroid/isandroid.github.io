@@ -19,19 +19,22 @@ Khotbah Jumat Sayyidina Amirul Mu’minin, Hadhrat Mirza Masroor Ahmad, Khalifat
 بِسۡمِ اللّٰہِ الرَّحۡمٰنِ الرَّحِیۡمِ﴿۱﴾ اَلۡحَمۡدُ لِلّٰہِ رَبِّ الۡعٰلَمِیۡنَ ۙ﴿۲﴾ الرَّحۡمٰنِ الرَّحِیۡمِ ۙ﴿۳﴾ مٰلِکِ یَوۡمِ الدِّیۡنِ ؕ﴿۴﴾ اِیَّاکَ نَعۡبُدُ وَ اِیَّاکَ نَسۡتَعِیۡنُ ؕ﴿۵﴾ اِہۡدِ نَا الصِّرَاطَ الۡمُسۡتَقِیۡمَ ۙ﴿۶﴾ صِرَاطَ الَّذِیۡنَ اَنۡعَمۡتَ عَلَیۡہِمۡ ۬ۙ غَیۡرِ الۡمَغۡضُوۡبِ عَلَیۡہِمۡ وَ لَا الضَّآلِّیۡنَ ٪﴿۷﴾
 </p>
 
-Saat ini tengah dibahas berkenaan dengan Hadhrat ‘Umar ra. Ketika waktu kewafatan Hadhrat Abu Bakr sudah dekat, Hadhrat Abu Bakr memanggil Hadhrat Abdurrahman Bin Auf lalu bersabda: Berikan saya saran berkenaan dengan ‘Umar. Hadhrat Abdurrahman Bin Auf mengatakan: Wahai Khalifah Rasulullah! Demi Tuhan, Hadhrat ‘Umar lebih afdhal dari apa yang ada di benak tuan, kecuali, beliau memiliki tabiat yang keras.
+### Wasiat Hadhrat Abu Bakr (ra)
 
-Hadhrat Abu Bakr bersabda: Beliau bersikap keras untuk mengimbangi kelembutan saya. Namun jika kepadanya diserahkan tanggung jawab untuk memimpin, beliau akan melepaskan hal hal seperti itu. Karena saya perhatikan, Ketika saya bersikap keras terhadap seseorang, ‘Umar ra berusaha untuk meyakinkan saya berkenaan dengan orang tersebut. Begitu pula, ketika saya bersikap lembut, ‘Umar ra biasanya meminta saya untuk bersikap tegas pada orang tersebut.
+Hudhur ayyadahullaahu Ta’ala menyampaikan bahwa sebelum Hadhrat Abu Bakr (ra) meninggal, Hadhrat Abu Bakr (ra) memanggil Hadhrat ‘Utsman (ra) agar beliau bisa menuliskan wasiatnya. Saat Hadhrat ‘Utsman (ra) baru saja mulai menulis ungkapan wasiat Khalifah Abu Bakr (ra), Khalifah Abu Bakr (ra) jatuh pingsan. Selama waktu pingsan beliau ini, Hadhrat ‘Utsman (ra) menulis bahwa Hadhrat ‘Umar (ra) akan menjadi Khalifah berikutnya. Kemudian ketika Hadhrat Abu Bakr (ra) sadar kembali dan meminta Hadhrat ‘Utsman (ra) untuk membacakan apa yang telah ditulisnya. Oleh karena itu, Hadhrat ‘Utsman (ra) membacakan apa yang telah ia tulis tentang Hadhrat ‘Umar (ra), dan Hadhrat Abu Bakr (ra) menyetujuinya. Beliau tidak mengubahnya, bahkan mengatakan bahwa Hadhrat ‘Utsman (ra) telah melakukan perbuatan yang berjasa besar.
 
-Setelah itu Hadhrat Abu Bakr memanggil Hadhrat ‘Utsman dan meminta pendapat berkenaan dengan Hadhrat ‘Umar. Hadhrat ‘Utsman berkata: Batin beliau lebih baik dari penampilan lahiriah beliau dan tidak ada diantara kami yang menyerupai beliau.
+Wasiat Hadhrat Abu Bakr (ra) dibacakan kepada orang-orang, dan Hadhrat Abu Bakr (ra) bertanya kepada mereka apakah mereka setuju dengan keputusan yang telah Beliau buat, dan semua orang menjawab bahwa mereka akan mematuhi keputusan ini dan Khalifah berikutnya. 
 
-Hadhrat Abu Bakr bersabda kepada Hadhrat Abdurrahman Bin Auf dan Hadhrat ‘Utsman: Apapun yang saya katakan kepada kalian berdua, jangan sampaikan kepada orang siapapun. Begitu pula, Jika saya mengabaikan (tidak memilih- Pent) ‘Umar, maka (pilihan kedua) tidak akan lepas dari ‘Utsman. (Dalam pandangan Hadhrat Abu Bakr, keduanya (Hadhrat ‘Umar dan Hadhrat ‘Utsman) layak untuk memenuhi hak sebagai Khalifah). Hadhrat Abu Bakr bersabda: Dan siapapun yang terpilih diantara mereka berdua nantinya, berhak untuk tidak mengurangi apapun yang berkaitan dengan urusan kalian. Saya akan terlepas dari segala urusan kalian dan menjadi pendahulu kalian (wafat).
+Pada suatu kali, seseorang bertanya kepada ‘Umar (ra) tentang sifat kemarahannya dan itu sepertinya tidak lagi terlihat. Hadhrat ‘Umar (ra) menjawab bahwa itu masih ada, tetapi itu hanya dimanifestasikan terhadap orang-orang kafir. 
 
-Ketika Hadhrat Abu Bakr sakit, Hadhrat Talha Bin Ubaidullah datang menemui beliau. Hadhrat Talha berkata kepada beliau: Tuan telah menetapkan Hadhrat ‘Umar sebagai Khalifah penerus anda bagi umat Islam, padahal tuan sendiri mengetahui bagaimana beliau memperlakukan orang-orang ditengah keberadaan anda, lantas bagaimana keadaannya nanti sepeninggal tuan? Tuan (Hadhrat Abu Bakr) akan pergi berjumpa dengan Tuhan. (di akhirat nanti) Tuhan akan menanyakan kepada anda perihal pengikut anda.
+### Pidato Pertama Hadhrat ‘Umar (ra) sebagai Khalifah
 
-Hadhrat Abu Bakr bersabda: Dudukkan saya. Lalu mereka membantu membuat duduk Hadhrat Abu Bakr. Hadhrat Abu Bakr bersabda: Apakah kamu memperingatkan saya dengan Allah Ta’ala? Ketika saya berjumpa dengan Allah Ta’ala nanti dan Dia bertanya kepadaku, aku akan mengatakan: Saya telah memilih yang terbaik dari antara hamba-Mu untuk menjadi Khalifah bagi mereka
+Dalam pidato pertamanya setelah menjadi Khalifah, Hadhrat ‘Umar (ra) mengatakan bahwa masalah apapun yang datang kepadanya akan beliau putuskan sendiri. Dan masalah apa pun yang jauh, akan beliau menunjuk perwakilan untuk menanganinya. Siapa pun yang berbuat baik akan diberi pahala, tetapi siapa pun yang melakukan kejahatan, dia akan diperlakukan hukuman yang sesuai.
 
+Pada hari ketiga setelah menjadi Khalifah, Hadhrat ‘Umar (ra) menyampaikan pidato di mana beliau mengatakan telah mendengar orang-orang takut dengan temperamennya yang berapi-api dan orang-orang merasa beliau akan bersikap keras sebagai seorang pemimpin. Hadhrat ‘Umar (ra) mengatakan bahwa selama masa Nabi (sa) tidak ada yang bisa menandingi kebaikan dan kasih sayang Nabi (sa), dan pada saat kematiannya, Nabi (sa) merasa ridha (senang hati) dengan Hadhrat ‘Umar (ra). Kemudian mengenai Hadhrat Abu Bakr (ra), Hadhrat ‘Umar (ra) bersabda bahwa semua orang menyadari bahwa Hadhrat Abu Bakr (ra) sangat baik dan beliau (Hadhrat ‘‘Umar) adalah pelayan dan penolongnya. Pada saat kematiannya, Hadhrat Abu Bakr (ra) senang hati dengan Hadhrat ‘Umar (ra). Hadhrat ‘Umar (ra) mengatakan bahwa beliau akan sangat baik, namun pada saat yang sama beliau akan tegas dalam memastikan bahwa keadilan selalu ditegakkan. 
+
+### Kerendahan Hati Hadhrat ‘Umar (ra)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcxNDg4NDk3OV19
+eyJoaXN0b3J5IjpbNzY4ODg1MTA3LDE3MTQ4ODQ5NzldfQ==
 -->
