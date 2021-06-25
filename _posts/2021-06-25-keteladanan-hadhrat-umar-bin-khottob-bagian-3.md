@@ -43,11 +43,32 @@ Hadhrat ‘Utsman berkata: Ya, benar demikian.
 
 Hadhrat Abu Bakr bersabda: Semoga Allah Ta’ala memberikan ganjaran kepadamu dari pihak Islam dan umat muslim. Yakni Hadhrat Abu Bakr tidak berkeberatan atas apa yang ditulis oleh Hadhrat ‘Utsman berkenaan dengan penetapan Hadhrat ‘Umar sebagai Khalifah. 
 
-Tertulis dalam Tarikh Tabari bahwa Muhammad Bin Ibrahim Bin Harits meriwayatkan, Hadhrat Abu Bakr memanggil Hadhrat ‘Utsman secara terpisah dan bersabda: Tulislah Bismillaahirrahmaanirrahiim. Persetujuan ini diterbitkan oleh Abu Bakr Bin Abu Quhafah teruntuk Umat Muslim, amma Ba’du. Setelah mengucapkan itu Hadhrat Abu Bakr pingsan. Seperti yang disebutkan tadi, Ketika sadarkan diri beliau memerintahkan Hadhrat ‘Utsman untuk memperdengarkan apa yang telah ditulis.
+Tertulis dalam Tarikh Tabari bahwa Muhammad Bin Ibrahim Bin Harits meriwayatkan, Hadhrat Abu Bakr memanggil Hadhrat ‘Utsman secara terpisah dan bersabda: Tulislah Bismillaahirrahmaanirrahiim. Persetujuan ini diterbitkan oleh Abu Bakr Bin Abu Quhafah teruntuk Umat Muslim, amma Ba’du. Setelah mengucapkan itu Hadhrat Abu Bakr pingsan. 
 
-### Catatan Kaki
+Seperti yang disebutkan tadi, Ketika sadarkan diri beliau memerintahkan Hadhrat ‘Utsman untuk memperdengarkan apa yang telah ditulis.
 
+Setelah mendengarnya, Hadhrat Abu Bakr bersabda: Allahu Akbar. Bersabda: Semoga Allah Ta’ala memberikan ganjaran kebaikan padamu dari pihak Islam dan Umat Islam atas kalimat yang telah anda tulis ini. Hadhrat Abu Bakr membiarkan tulisn tersebut dan tidak merubahnya.
+
+Dalam satu Riwayat, Hadhrat Abu Bakr memanggil Hadhrat ‘Utsman lalu bersabda: Berikanlah masukan kepadau perihal orang yang akan ditetapkan sebagai khalifah selanjutnya. Demi Tuhan! Dalam pandanganku, anda layak untuk dimintai musyawarah.
+
+Hadhrat ‘Utsman berkata: ‘Umar. 
+
+Hadhrat Abu Bakr bersabda: Tulislah. Lalu Hadhrat ‘Utsman mencatatnya. Setelah menuliskan nama tersebut, kemudian Hadhrat Abu Bakr pingsan. Setelah sadarkan diri, Hadhrat Abu Bakr bersabda: Tulislah nama ‘Umar.
+
+Dalam Riwayat lain dikatakan, Hadhrat Aisyah meriwayatkan, Hadhrat ‘Utsman tengah mencatat wasiyat yang didiktekan oleh Hadhrat Abu Bakr. Lalu Hadhrat Abu Bakr pingsan. Kemudian Hadhrat ‘Utsman menuliskan nama Hadhrat ‘Umar.. Setelah sadarkan diri, Hadhrat Abu Bakr bertanya: apa yang kamu tulis? 
+
+Hadhrat ‘Utsman menjawab: Saya telah menuliskan nama ‘Umar.
+
+Hadhrat Abu Bakr bersabda: Kamu telah menulis apa yang ingin saya katakan. Jika anda menuliskan nama anda juga, andapun layak untuk itu.
+
+Dalam satu Riwayat disebutkan bahwa Ketika Hadhrat Abu Bakr jatuh sakit, beliau ra menyampaikan pesan kepada Hadhrat Ali, Hadhrat ‘Utsman dan beberapa orang dari kalangan Muhajirin dan anshar lalu bersabda: Sekarang telah tiba saatnya, seperti apa yang kalian saksikan dan tidak ada yang berdiri untuk memberikan instruksi kepada kalian. Jika kalian menghendaki, kalian bisa memilih salah seorang diantara kalian, namun jika kalian menghendaki aku akan pilihkan sendiri untuk kalian. Mereka berkata: Mohon tuan pilihkan untuk kami.
+
+Hadhrat Abu Bakr bersabda kepada Hadhrat ‘Utsman: Tulislah! Ini merupakan ikrar janji yang disampaikan oleh Abu Bakr Bin Abu Qahafah pada masa masa akhir sebelum meninggalkan dunia ini dan merupakan janji pertama ketika menjelang masuk ke alam Akhirat, dimana para pendosa akan taubat, orang kafir akan beriman, pendusta akan membenarkan. Janji itu adalah mereka memberikan kesaksian bahwa tidak ada yang patut disembah selain Allah dan Muhammad Saw adalah hambaNya dan RasulNya. Saya tetapkan Khalifah. 
+
+Setelah mengatakan itu, Hadhrat Abu Bakr pingsan.
+
+Kemudian Hadhrat ‘Utsman sendiri berinisiatif menulis nama ‘Umar Bin Khattab. Setelah Hadhrat Abu Bakr sadarkan diri, beliau bersabda: Apakah anda telah menuliskan sesuatu?
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzc2MTE4MzUyLDE3MTQ4ODQ5NzldfQ==
+eyJoaXN0b3J5IjpbLTU2NTM3NTIwNywxNzE0ODg0OTc5XX0=
 -->
