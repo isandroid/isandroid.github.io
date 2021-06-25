@@ -88,6 +88,28 @@ Hadhrat Abu Bakr lalu memanggil Hadhrat ‘Umar dan bersabda: Saya telah menetap
 Wahai ‘Umar! Tidakkah kamu melihat bahwa ketahuilah bahwa orang-orang yang memiliki timbangan amalan kebaikan yang berat di akhirat, adalah mereka yang selalu mengikuti kebenaran di dunia. Kebenaran itulah yang memberatkan timbangan mereka. Sungguh, timbangan tidak akan menjadi berat kecuali di atasnya ada kebenaran. 
 
 Adapun orang-orang yang memiliki timbangan amal kebaikan yang ringan di akhirat adalah mereka yang mengikuti kebatilan selama hidup di dunia. Kebatilan itulah yang membuat timbangan mereka menjadi ringan. Sungguh, timbangan tidak akan menjadi ringan kecuali di atasnya ada kebatilan.
+
+Tidakkah engkau tahu bahwa Allah menurunkan ayat yang mengandung harapan bersamaan dengan ayat yang mengandung kesulitan, dan ayat yang mengandung kesulitan bersamaan ayat yang mengandung harapan? Hal ini dimaksudkan agar manusia selalu berharap dan takut kepada Allah, tidak membinasakan dirinya serta tidak memohon kepada Allah pada sesuatu yang tidak benar. 
+
+Wahai ‘Umar! Tidakkah kamu melihat bahwa Allah Ta’ala mengingat para penghuni neraka semata mata disebabkan oleh amalan buruknya. Jadi, ketika kamu mengingat mereka, katakanlah bahwa sesungguhnya aku berharap agar aku tidak termasuk diantara mereka. Dan Allah Ta’ala mengingat para penghuni surga semata mata disebabkan oleh amalan baiknya. Karena Allah Ta’ala telah memaafkan keburukan mereka. Jadi, Ketika kamu mengingat mereka, katakanlah bahwa Apakah amalanku seperti amalan mereka? Tanyakanlah kepada hatimu.’”
+
+Ketika waktu kewafatan Hadhrat Abu Bakr telah dekat, beliau bersabda: Kembalikanlah harta umat muslim yang ada pada saya, saya tidak ingin menggunakan harta itu walaupun sedikit. Beberapa lahan tanah yang terletak diberbagai tempat saya peruntukkan untuk umat Muslim sebagai ganti dari harta yang saya ambil dari Baitul Maal sebagai nafkah. 
+
+Lahan tanah, unta, pedang, budak belian tukang politur dan kain cadar seharga 5 dirham, semuanya telah diberikan kepada Hadhrat ‘Umar. Ketika Hadhrat ‘Umar melihat semua barang itu, beliau mengatakan: Hadhrat Abu Bakr telah menyulitkan orang yang menjadi pengganti beliau.
+
+Hadhrat Khalifatul Masih pertama menjelaskan, “Ada yang bertanya kepada Hadhrat ‘Umar, Saat ini kami tidak melihat sifat kasar pada diri anda seperti yang kami dapati pada masa jahiliyah.
+
+Hadhrat ‘Umar menjawab: Sifat kasar itu masih ada, namun saat ini hanya ditampakkan Ketika menghadapi orang Kafir.’”
+
+Hadhrat Muslih Mauud ra bersabda: Orang-orang berkata kepada Hadhrat Abu Bakr ra: Anda telah menetapkan ‘Umar ra sebagai pengganti sepeninggal anda, adapaun beliau memiliki tabiat yang kasar, karena beliau orangnya galak. 
+
+Hadhrat Abu Bakr bersabda: Gejolak amarah beliau akan Nampak selama saya masih ada, namun jika saya telah tiada nanti, dengan sendirinya beliau akan menjadi lembut.
+
+Berkenaan dengan Hadhrat ‘Umar ra, Hadhrat Masih Mauud as bersabda: Berkenaan dengan sifat kasar beliau diriwayatkan bahwa ada seseorang yang bertanya kepada Hadhrat ‘Umar: Sebelum datang Islam, anda adalah seorang yang galak. 
+
+Hadhrat ‘Umar menjawab: Sifat itu bahkan masih melekat dalam diri saya sampai saat ini. Namun bedanya, dahulu bukan pada tempatnya, tapi kalau saat ini sifat keras saya pada tempatnya.’”
+
+Jami’ Bin Syidad meriwayatkan dari kerabat dekat bahwa: Saya mendengar Hadhrat ‘Umar pernah mengatakan: Ya Tuhan aku sangat lemah, maka berikanlah aku kekuatan. aku sungguh keras/kasar, maka lunakkanlah hatiku, aku kikir, untuk itu jadikanlah aku dermawan. Pidato pertama yang disampaikan oleh Hadhrat ‘Umar setelah terpilih sebagai Khalifah terdapat dalam beragam Riwayat. Salah satunya diriwayatkan bahwa Hamid Bin Halal meriwayatkan, Orang yang hadir pada saat kewafatan Hadhrat Abu Bakr memberitahukan kepada kami bahwa setelah selesai dari proses pemakaman Hadhrat Abu Bakr, Hadhrat ‘Umar merapikan tanah yang ada diatas kuburan, dengan tangan sendiri lalu berdiri pada tempatnya dan bersabda: Allah telah menguji kalian dengan diriku dan menguji diriku lewat kalian. Sepeninggal kedua sahabatku, sekarang aku ada di tengah-tengah kalian.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTY3ODYwNjYsMTcxNDg4NDk3OV19
+eyJoaXN0b3J5IjpbLTIwNzU2NzI1MDIsMTcxNDg4NDk3OV19
 -->
