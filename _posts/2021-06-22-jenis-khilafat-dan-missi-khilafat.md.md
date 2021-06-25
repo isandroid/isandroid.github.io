@@ -69,7 +69,9 @@ Beberapa jenis khilafat yang diketahui dari Alquran dan Hadits adalah sebagai be
 
  1. Khalifatulloh
  2. Khalifatur Rasul
- 3. 
+ 3. Khalifatulloh yang juga Khalifatur Rasul
+ 4. 
+ 5. Khalifah dalam arti Raja
 
 Hadhrat Khalifatul Masih V (atba) bersabda,
 
@@ -195,11 +197,11 @@ Setelah KPA usai, maka kita bisa menerapkannya sebagai berikut,
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjg0MDMwMjMxLDE5NTEwNjE2OTIsMzE4NT
-Q5MTY5LC0yMDA3MzI5ODY1LDEwMDMyOTIyNTksMjczNzk1NzAz
-LDEzODIzMjcwOTYsODA4ODU5NDI5LC0xNzIyMDAxMjcsLTczNz
-I1OTEyLDIwMzg5MTQ1NjQsLTg3NzUzNzU4NSwxODk4NzczNDc2
-LDEzOTkzMDQ3MDgsMjAxMDA3MjA2LC0xMzExMTUwNTAwLDE2MD
-Y3MjIzNTQsMTUzMzYxMzkyNiwtNTgyMzE3NDI4LDEwNjkwNDk1
-MjVdfQ==
+eyJoaXN0b3J5IjpbMTY1MzI2Mjg4OSwxOTUxMDYxNjkyLDMxOD
+U0OTE2OSwtMjAwNzMyOTg2NSwxMDAzMjkyMjU5LDI3Mzc5NTcw
+MywxMzgyMzI3MDk2LDgwODg1OTQyOSwtMTcyMjAwMTI3LC03Mz
+cyNTkxMiwyMDM4OTE0NTY0LC04Nzc1Mzc1ODUsMTg5ODc3MzQ3
+NiwxMzk5MzA0NzA4LDIwMTAwNzIwNiwtMTMxMTE1MDUwMCwxNj
+A2NzIyMzU0LDE1MzM2MTM5MjYsLTU4MjMxNzQyOCwxMDY5MDQ5
+NTI1XX0=
 -->
