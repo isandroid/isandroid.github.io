@@ -55,6 +55,12 @@ Peri kehidupan khalifah menurut Hadhrat Mushlih Mau'ud (ra) adalah:
 >
 > Kalian memiliki seseorang yang selalu mengkhawatirkan kesejahteraan kalian, orang yang menempatkan dirinya dalam masalah demi kalian, dan orang yang berdoa dengan gelisah di hadapan Tuhannya demi kenyamanan dan kedamaian kalian [[^barakat-e-khilafat_p6]].
 
+Hadhrat Masih Mau'ud a.s. bersabda,  
+  
+> "Mengapa Rasulullah saw tidak menetapkan khalifah pengganti beliau? Hikmah yang terkandung di dalamnya adalah, beliau benar-benar mengetahui bahwa Allah Ta'ala sendiri yang akan menetapkan seorang khalifah. Sebab, itu merupakan pekerjaan Allah, dan pilihan Allah tidak mengandung cacat sedikitpun. Demikianlah Allah Ta'ala telah menjadikan Hz. Abu Bakar Shiddiq menjadi khalifah untuk tugas tersebut. Dan di dalam kalbu beliau lah pertama sekali dimasukkan haq/kebenaran.”  
+  
+[^malfuzat_jld10_]: Malfuzhat, Add. Nazir Isyaat, London, 1984, Jld. 10 h. 229/MI 04.10.2000
+
 #### Pengertian Khilafat
 
 Kata Khilafah berarti suksesi atau penggantian. Jamaah pengikut Nabi Allah terus memelihara akidah dan sunnah-sunnah di bawah berkat lembaga Khilafah selama Allah kehendaki.
@@ -198,11 +204,11 @@ Setelah KPA usai, maka kita bisa menerapkannya sebagai berikut,
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4OTU0MTU3MywxOTUxMDYxNjkyLDMxOD
-U0OTE2OSwtMjAwNzMyOTg2NSwxMDAzMjkyMjU5LDI3Mzc5NTcw
-MywxMzgyMzI3MDk2LDgwODg1OTQyOSwtMTcyMjAwMTI3LC03Mz
-cyNTkxMiwyMDM4OTE0NTY0LC04Nzc1Mzc1ODUsMTg5ODc3MzQ3
-NiwxMzk5MzA0NzA4LDIwMTAwNzIwNiwtMTMxMTE1MDUwMCwxNj
-A2NzIyMzU0LDE1MzM2MTM5MjYsLTU4MjMxNzQyOCwxMDY5MDQ5
-NTI1XX0=
+eyJoaXN0b3J5IjpbLTE2ODkzOTgzOTcsMTk1MTA2MTY5MiwzMT
+g1NDkxNjksLTIwMDczMjk4NjUsMTAwMzI5MjI1OSwyNzM3OTU3
+MDMsMTM4MjMyNzA5Niw4MDg4NTk0MjksLTE3MjIwMDEyNywtNz
+M3MjU5MTIsMjAzODkxNDU2NCwtODc3NTM3NTg1LDE4OTg3NzM0
+NzYsMTM5OTMwNDcwOCwyMDEwMDcyMDYsLTEzMTExNTA1MDAsMT
+YwNjcyMjM1NCwxNTMzNjEzOTI2LC01ODIzMTc0MjgsMTA2OTA0
+OTUyNV19
 -->
