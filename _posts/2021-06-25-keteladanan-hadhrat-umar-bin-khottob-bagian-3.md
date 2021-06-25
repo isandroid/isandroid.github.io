@@ -153,9 +153,18 @@ lalu
 
 Yakni tatkala Tuhan memerintahkan kalian untuk melakukan suatu tugas, dan orang-orang di tempatmu dan kerabatmu memilih kalian untuk memimpin, maka menjadi kewajiban bagimu untuk berlaku adil dan menyerahkan segenap kekuatanmu untuk kebaikan dan kemajuan umat manusia.
 
+Alhasil, betapa pedihnya peristiwa yang dialami Hadhrat ‘Umar ini, tatkala ada seorang yang dangkal, yang menganggap beliau sebagai zalim, dengan kejinya telah menusuk beliau dengan pisau sehingga beliau pun yakin akan kewafatan beliau; dan di atas tempat tidur, beliau dengan sangat pilu dan meronta berkali-kali mengucapkan, 
+
+*Allahumma laa 'alayya wa laa lii. Allahumma laa 'alayya wa laa lii.* 
+
+Wahai Tuhan, Engkau telah menegakkan [amanat] pemerintahan ini atas diriku, dan Engkau telah meletakkan satu amanat [ini] diatas pundakku. Aku tidak tahu apakah diriku telah menjalankan sepenuhnya kewajibanku ini ataukah tidak. Kini waktu kematianku telah dekat dan aku akan meninggalkan dunia ini dan datang menuju Engkau. Wahai Tuhanku, Aku tidak mengharapkan ganjaran terbaik atas apapun amalku, dan aku tidak mengharapkan hadiah apapun. Tetapi wahai Tuhanku, aku hanya berharap Engkau berbelas kasih padakudan memaafkanku. Dan apabila terdapat kesalahan dalam memenuhi tanggung jawabku ini, kiranya Engkau memaafkanku.
+
+Umar adalah insan berderajat mulia, dimana contoh keadilan seperti yang dicontohkan beliau amatlah sedikit di dunia ini. Yaitu sebagaimana ayat بالعدل تحکموا ان اس ّ م بین الن ُ ت ْ م َ ک َ ِ ذا ح ا َ و Tatkala beliau wafat, beliau wafat dalam keadaan yang sedemikian resah dan gelisah, dimana meskipun dengan segenap hasil pengkhidmatan yang telah beliau persembahkan demi kebaikan negeri dan segenap manusia, bersama segenap pengkhidmatan beliau demi kemajuan Islam, semua itu sangatlah hina dimata beliau.
+
+
 ### Catatan Kaki
 
 [^qs_004-59]: QS An-Nisaa ayat 59 dengan basmallah
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5OTYxMTQ0NCwxNzE0ODg0OTc5XX0=
+eyJoaXN0b3J5IjpbMzkzOTIyMTg3LDE3MTQ4ODQ5NzldfQ==
 -->
