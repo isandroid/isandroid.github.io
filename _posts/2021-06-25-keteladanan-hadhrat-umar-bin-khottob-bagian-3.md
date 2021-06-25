@@ -135,11 +135,21 @@ Lalu, wahai manusia, saya telah menjadi pemimpin atas urusan-urusan Anda semua. 
 
 Wahai segenap manusia! Banyak sekali hak-hak kalian atas diri saya, yang [ingin] saya sampaikan kepada kalian. kalian dapat menuntut saya atas ini semua: Anda berhak untuk mengetahui kemana saja harta ini akan saya pergunakan; dan terhadap harta ganimah yang Allah Ta’ala berikan kepadamu, saya [berhak] agar membelanjakannya demi pekerjaan Allah Ta’ala. Saya memiliki kewajiban untuk membelanjakan harta itu sesuai dengan kebutuhannya, dan saya memiliki kewajiban untuk terus memberi tunjangan untuk memenuhi kebutuhanmu, dan saya memiliki kewajiban untuk menjaga kalian agar jangan jatuh kedalam kebinasaan. Lalu tatkala kalian bergabung untuk perang dan meninggalkan rumahmu, maka saya akan menjadi ayah bagi anak dan keluargamu hingga kalian pulang kembali. Saya mengatakan hal ini dan memohonkan ampunan kepada Allah bagi saya dan kalian.
 
-Dalam menjelaskan masa kekhalifahan Hadhrat ‘Umar, Hadhrat Muslih Mau’ud (ra) bersabda: Ayat ini, 
+Dalam menjelaskan masa kekhalifahan Hadhrat ‘Umar, Hadhrat Muslih Mau’ud (ra) bersabda: Ayat ini [[^qs_004-59]], 
 
 <p class="quran">...تُؤَدُّوا الۡاَمٰنٰتِ اِلٰۤی اَہۡلِہَا...</p>
 
 senantiasa hadir di mata umat Islam; yakni, bagi mereka yang berkemampuan dalam mengelola perkara pemerintahan, hendaknya amanat ini dibebankan kepada mereka. Lalu tatkala amanat ini telah dibebankan pada beberapa orang, maka hendaknya mereka memperhatikan perintah syariat ini yaitu supaya mereka memerintah dengan kejujuran dan keadilan. Lalu apabila engkau mengabaikan keadilan, apabila engkau tidak mengutamakan kejujuran, dan berlaku khianat terhadap amanat ini, maka yakinlah bahwa Tuhan akan mengambil perhitungan, dan engkau akan mendapat hukuman atas kejahatan ini. Inilah hal yang sangat membekas dan melekat pada kepribadian Hadhrat ‘Umar (ra), dimana manusia akan bergetar mendengarnya.
+
+Hadhrat ‘Umar yang merupakan khalifah kedua Islam, beliau telah sedemikian banyak berkorban demi kemajuan Islam dan umat muslim, hingga para penulis eropa yang di kesehariannya mereka terus melontarkan keberatan kepada Rasulullah (saw) (di mana di dalam berbagai bukunya mereka dengan sangat keji menuliskan tentang Rasulullah (saw.) bahwa na’udzubillah beliau tidak berlaku jujur) mereka dengan terpaksa harus menyebutkan tentang Abu Bakr dan ‘Umar bahwa kerja keras dan pengorbanan yang dilakukan oleh keduanya tidak ditemukan bandingannya dalam pemerintahan apapun di dunia. Secara khusus tentang jasa Hadhrat ‘Umar (ra), mereka sangat memujinya dan mengatakan bahwa inilah sosok yang siang malam dan dengan sangat tekun telah memenuhi kewajibannya untuk menyebarkan dan memajukan Islam.
+
+Namun demikian kita lihat bagaimana Hadhrat ‘Umar. Di hadapannya, meskipun beliau telah menyelesaikan ribuan pekerjaan, meskipun beliau telah memberi ribuan pengurbanan, meskipun beliau telah melewati ribuan kesulitan, ayat ini senantiasa ada [dalam diri beliau], yaitu 
+
+Yakni tatkala Tuhan memerintahkan kalian untuk melakukan suatu tugas, dan orang-orang di tempatmu dan kerabatmu memilih kalian untuk memimpin, maka menjadi kewajiban bagimu untuk berlaku adil dan menyerahkan segenap kekuatanmu untuk kebaikan dan kemajuan umat manusia.
+
+### Catatan Kaki
+
+[^qs_004-59]: QS An-Nisaa ayat 59 dengan basmallah
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcwMjkwNDAxMCwxNzE0ODg0OTc5XX0=
+eyJoaXN0b3J5IjpbMzg3MDI5NjQ1LDE3MTQ4ODQ5NzldfQ==
 -->
