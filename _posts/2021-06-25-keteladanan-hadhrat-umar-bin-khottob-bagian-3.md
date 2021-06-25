@@ -31,9 +31,15 @@ Ketika Hadhrat Abu Bakr sakit, Hadhrat Talha Bin Ubaidullah datang menemui belia
 
 Hadhrat Abu Bakr bersabda: Dudukkan saya. Lalu mereka membantu membuat duduk Hadhrat Abu Bakr. Hadhrat Abu Bakr bersabda: Apakah kamu memperingatkan saya dengan Allah Ta’ala? Ketika saya berjumpa dengan Allah Ta’ala nanti dan Dia bertanya kepadaku, aku akan mengatakan: Saya telah memilih yang terbaik dari antara hamba-Mu untuk menjadi Khalifah bagi mereka.[[^1]]
 
+Ketika Hadhrat Abu Bakr memanggil Hadhrat ‘Utsman secara terpisah untu mencatat wasiyat berkenaan dengan Hadhrat ‘Umar, Hadhrat Abu Bakr bersabda, ‘Tulislah, Bismillaahirrahmaanirrahiim. Berikut ini adalah wasiyat Abu Bakr Bin Quhafah untuk umat Muslim.’
+
+Setelah mengatakan itu, Hadhrat Abu Bakr pingsan. Kemudian Hadhrat ‘Utsman menuliskan sendiri sbb: إ َ ، ف ُ د ْ ع َ ا ب َّ م َ أ آلكم خيرا مَه ْ م َ ل َ ب، و ا َّ ط َ خ ْ ال َ ن ْ ب َ ر َ م ُ ع ْ م ُ ك ْ ي َ ل َ ع ت ُ ْ ف َ ل ْ خ َ ت د اسْ َ ي ق ِّ ن’ Aku telah menetapkan ‘Umar Bin Khatab untuk menjadi Khalifah bagi kalian dan aku tidak mengurangi dalam kebaikan berkenaan dengan kalian.’
+
 ### Catatan Kaki
 
-[^1]: (تاري خ الطبري = تاري خ الرسل والملوك، وصلة تاري خ الطبري نویسنده : الطبري، أبو جعفر) Thabari-ath Tarikh 1
+[^1]: Tarikh ath-Thabari (تاري خ الطبري = تاري خ الرسل والملوك، وصلة تاري خ الطبري نویسنده : الطبري، أبو جعفر) - 
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2MzEzMjYzMywxNzE0ODg0OTc5XX0=
+eyJoaXN0b3J5IjpbLTgyMzIyMDEzNiwxNzE0ODg0OTc5XX0=
 -->
