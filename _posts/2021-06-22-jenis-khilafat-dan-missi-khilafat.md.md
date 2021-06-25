@@ -68,11 +68,11 @@ Khilafah mengukuhkan kekuasaan Allah di bumi, dan Khalifah berjuang untuk menega
 Beberapa jenis khilafat yang diketahui dari Alquran dan Hadits adalah sebagai berikut:
 
 1. Khalifatulloh
-	- Khalifatulloh yang juga Khalifatur Rasul
-	- Khalifatulloh yang juga seorang Raja
+	- Khalifatulloh sekaligus Khalifatur Rasul
+	- Khalifatulloh sekaligus Khalifah Mamlukiyah (Kerajaan)
 2. Khalifatur Rasul
 	- Khalifatur Rasul yang juga seorang Raja
-3. Khalifah dalam arti Raja
+3. Khalifah Mamlukiyah (Kerajaan)
 
 Hadhrat Khalifatul Masih V (atba) bersabda,
 
@@ -204,11 +204,11 @@ Setelah KPA usai, maka kita bisa menerapkannya sebagai berikut,
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkyNTc4ODg0OCwxOTUxMDYxNjkyLDMxOD
-U0OTE2OSwtMjAwNzMyOTg2NSwxMDAzMjkyMjU5LDI3Mzc5NTcw
-MywxMzgyMzI3MDk2LDgwODg1OTQyOSwtMTcyMjAwMTI3LC03Mz
-cyNTkxMiwyMDM4OTE0NTY0LC04Nzc1Mzc1ODUsMTg5ODc3MzQ3
-NiwxMzk5MzA0NzA4LDIwMTAwNzIwNiwtMTMxMTE1MDUwMCwxNj
-A2NzIyMzU0LDE1MzM2MTM5MjYsLTU4MjMxNzQyOCwxMDY5MDQ5
-NTI1XX0=
+eyJoaXN0b3J5IjpbLTIzMzg0MDIsLTkyNTc4ODg0OCwxOTUxMD
+YxNjkyLDMxODU0OTE2OSwtMjAwNzMyOTg2NSwxMDAzMjkyMjU5
+LDI3Mzc5NTcwMywxMzgyMzI3MDk2LDgwODg1OTQyOSwtMTcyMj
+AwMTI3LC03MzcyNTkxMiwyMDM4OTE0NTY0LC04Nzc1Mzc1ODUs
+MTg5ODc3MzQ3NiwxMzk5MzA0NzA4LDIwMTAwNzIwNiwtMTMxMT
+E1MDUwMCwxNjA2NzIyMzU0LDE1MzM2MTM5MjYsLTU4MjMxNzQy
+OF19
 -->
