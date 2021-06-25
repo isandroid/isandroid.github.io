@@ -65,6 +65,12 @@ Khilafah mengukuhkan kekuasaan Allah di bumi, dan Khalifah berjuang untuk menega
 
 ### Jenis-Jenis Khalifah
 
+Beberapa jenis khilafat yang diketahui dari Alquran dan Hadits adalah sebagai berikut:
+
+ 1. Khalifatulloh
+ 2. Khalifatur Rasul
+ 3. 
+
 Hadhrat Khalifatul Masih V (atba) bersabda,
 
 > ”Khilafat pasti akan berdiri (senantiasa ada) ditengah orangorang Muslim.” Akan tetapi Dia telah berjanji bersyarat dengan beberapa syarat dan syarat pertama dari itu adalah harus ada kamil ithaa’at (ketaatan yang sempurna). Mata rantai (kesinambungan) Khilafat Rasyidah sebelumnya telah terputus karena umat Muslim telah keluar dari bingkai taat (meninggalkan ketaatan). Orang-orang Muslim menjadi mahrum (terlepas) dari Khilafat hakiki apabila mereka sudah meninggalkan ketaatan. Setelah keluar dari ketaatan, sebagian golongan mulai mengatakan, “Kami mensyaratkan baiat kami dengan sebagian syarat yang di dalamnya sebab yang paling besar adalah tuntutan pembalasan atas kesyahidan Hadhrat Usman” atau karena terpedaya dengan perkatan-perkataan sebagian penyebar fitnah, mereka menjadi orang yang keluar dari ketaatan Sekalipun pada waktu itu para sahabat masih ada. Namun ketika keluar dari ketaatan yang sempurna maka mereka dimahrumkan dari Khilafat (tidak mendapat nikmat berkat Khilafat). Sebab, keputusan untuk menjadikan Khalifah Allah Ta’ala sendiri telah mengambil alih di tangan-Nya maka kemudian sesudah perselisihan-perselisihan, sesudah keluar dari taat semua usaha-usaha mereka menjadi Khalifah dan membuat Khalifah menjadi gagal dan sia-sia. Dan Khilafat mengambil corak monarki (kerajaan) [[^khotbah20110520]] [[^tafsir_ayat_istikhlaf]]
@@ -189,11 +195,11 @@ Setelah KPA usai, maka kita bisa menerapkannya sebagai berikut,
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk1MTA2MTY5MiwzMTg1NDkxNjksLTIwMD
-czMjk4NjUsMTAwMzI5MjI1OSwyNzM3OTU3MDMsMTM4MjMyNzA5
-Niw4MDg4NTk0MjksLTE3MjIwMDEyNywtNzM3MjU5MTIsMjAzOD
-kxNDU2NCwtODc3NTM3NTg1LDE4OTg3NzM0NzYsMTM5OTMwNDcw
-OCwyMDEwMDcyMDYsLTEzMTExNTA1MDAsMTYwNjcyMjM1NCwxNT
-MzNjEzOTI2LC01ODIzMTc0MjgsMTA2OTA0OTUyNSwtMTEwMDcw
-NDc2OF19
+eyJoaXN0b3J5IjpbMjg0MDMwMjMxLDE5NTEwNjE2OTIsMzE4NT
+Q5MTY5LC0yMDA3MzI5ODY1LDEwMDMyOTIyNTksMjczNzk1NzAz
+LDEzODIzMjcwOTYsODA4ODU5NDI5LC0xNzIyMDAxMjcsLTczNz
+I1OTEyLDIwMzg5MTQ1NjQsLTg3NzUzNzU4NSwxODk4NzczNDc2
+LDEzOTkzMDQ3MDgsMjAxMDA3MjA2LC0xMzExMTUwNTAwLDE2MD
+Y3MjIzNTQsMTUzMzYxMzkyNiwtNTgyMzE3NDI4LDEwNjkwNDk1
+MjVdfQ==
 -->
