@@ -68,7 +68,7 @@ Khilafah mengukuhkan kekuasaan Allah di bumi, dan Khalifah berjuang untuk menega
 Beberapa jenis khilafat yang diketahui dari Alquran dan Hadits adalah sebagai berikut:
 
 1. **Khalifatulloh** (Seorang Nabi atau Rasul)
-	- 
+	- Seorang Nabi atau Rasul (memimpin secara ruhani) (contoh Nabi Adam (as), Nabi Idris (as), Nabi Nuh (as), Nabi Isa (as) dll)
 	- Khalifatulloh sekaligus Khalifatur Rasul (contohnya Nabi Harun sebagai wakil dari Nabi Musa; Nabi Ismail dan Nabi Ishaq yang membantu Nabi Ibrahim (as))
 	- Khalifatulloh sekaligus Khalifah Mamlukiyah (Kerajaan) (contohnya Nabi Daud (as); Nabi Sulaiman (as) dan Rasulullah (saw))
 3. **Khalifatur Rasul**
@@ -206,11 +206,11 @@ Setelah KPA usai, maka kita bisa menerapkannya sebagai berikut,
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjIyMDUyOTIwLC05MjU3ODg4NDgsMTk1MT
-A2MTY5MiwzMTg1NDkxNjksLTIwMDczMjk4NjUsMTAwMzI5MjI1
-OSwyNzM3OTU3MDMsMTM4MjMyNzA5Niw4MDg4NTk0MjksLTE3Mj
-IwMDEyNywtNzM3MjU5MTIsMjAzODkxNDU2NCwtODc3NTM3NTg1
-LDE4OTg3NzM0NzYsMTM5OTMwNDcwOCwyMDEwMDcyMDYsLTEzMT
-ExNTA1MDAsMTYwNjcyMjM1NCwxNTMzNjEzOTI2LC01ODIzMTc0
-MjhdfQ==
+eyJoaXN0b3J5IjpbLTExMDA5MjUzMDAsLTkyNTc4ODg0OCwxOT
+UxMDYxNjkyLDMxODU0OTE2OSwtMjAwNzMyOTg2NSwxMDAzMjky
+MjU5LDI3Mzc5NTcwMywxMzgyMzI3MDk2LDgwODg1OTQyOSwtMT
+cyMjAwMTI3LC03MzcyNTkxMiwyMDM4OTE0NTY0LC04Nzc1Mzc1
+ODUsMTg5ODc3MzQ3NiwxMzk5MzA0NzA4LDIwMTAwNzIwNiwtMT
+MxMTE1MDUwMCwxNjA2NzIyMzU0LDE1MzM2MTM5MjYsLTU4MjMx
+NzQyOF19
 -->
