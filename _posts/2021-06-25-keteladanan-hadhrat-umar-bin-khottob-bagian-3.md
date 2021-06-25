@@ -9,7 +9,9 @@ published: true
 
 ## {{ page.title }}
 
+Khotbah Jumat Sayyidina Amirul Mu’minin, Hadhrat Mirza Masroor Ahmad, Khalifatul Masih al-Khaamis (ayyadahullaahu Ta’ala binashrihil ‘aziiz) pada 18 Juni 2021 (Ihsan 1400 Hijriyah Syamsiyah/07 Dzulqa’idah 1442 Hijriyah Qamariyah) di Masjid Mubarak, Tilford, UK (United Kingdom of Britain/Britania Raya).
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQyMjE1NDI3NV19
+eyJoaXN0b3J5IjpbLTE3Mzc2NDc2ODBdfQ==
 -->
