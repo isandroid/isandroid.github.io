@@ -67,8 +67,27 @@ Hadhrat Abu Bakr bersabda kepada Hadhrat ‘Utsman: Tulislah! Ini merupakan ikra
 
 Setelah mengatakan itu, Hadhrat Abu Bakr pingsan.
 
-Kemudian Hadhrat ‘Utsman sendiri berinisiatif menulis nama ‘Umar Bin Khattab. Setelah Hadhrat Abu Bakr sadarkan diri, beliau bersabda: Apakah anda telah menuliskan sesuatu?
+Kemudian Hadhrat ‘Utsman sendiri berinisiatif menulis nama ‘Umar Bin Khattab. 
 
+Setelah Hadhrat Abu Bakr sadarkan diri, beliau bersabda: Apakah anda telah menuliskan sesuatu?
+
+Hadhrat ‘Utsman menjawab: Ya, saya menulis ‘Umar Bin Khatab. 
+
+Mendengar itu Hadhrat Abu Bakr bersabda: Semoga Allah Ta’ala mencurahkan rahmatNya padamu. Jika seandainya anda menulis nama anda sendiri, andapun layak untuk itu (menjadi Khalifah).
+
+Hadhrat Abu Bakr bersabda: Tulislah bahwa aku menetapkan ‘Umar Bin Khatab sebagai Khalifah penggantiku bagi kalian dan aku ridha kepadanya bagi kalian. Setelah menulis wasiyat, Hadhrat Abu Bakr bersabda: Bacakan wasiyat ini di hadapan orang-orang.
+
+Kemudian Hadhrat ‘Utsman mengumpulkan umat muslim dan beliau mengirimkan surat dengan melalui bekas budak beliau. Pada saat itu Hadhrat ‘Umar Bersama dengannya. Hadhrat ‘Umar berkata kepada orang-orang yang tengah berkumpul: Diam dan simaklah perkataan Khalifah Rasulullah karena beliau (Hadhrat Abu Bakr) tidak mengurangi bagian kalian dalam itikad baik. Kemudian orang-orang duduk dengan tenang.
+
+Lalu wasiyyat dibacakan di hadapan hadirin. Hadirin telah mendengarnya dan taat. Saat itu Hadhrat Abu Bakr mengarah kepada kumpulan orang dan bersabda: Apakah kalian setuju dengan orang yang telah saya angkat sebagai Khalifah? Karena saya tidaklah menetapkan Khalifah dari antara kerabat saya, sesungguhnya saya menetapkan ‘Umar sebagai Khalifah bagi kalian. Untuk itu dengarkanlah dan taatlah pada perintahnya. Demi Tuhan! Sesungguhnya saya telah menimbang dan merenungkan dengan baik berkenaan dengan hal ini dan tidak ada yang saya kurangi.
+
+Orang-orang mengatakan: Kami telah mendengarnya dan kami taat. 
+
+Hadhrat Abu Bakr lalu memanggil Hadhrat ‘Umar dan bersabda: Saya telah menetapkan anda untuk menjadi Khalifah atas para sahabat Rasulullah. Kemudian beliau mewasiyatkan kepada Hadhrat ‘Umar untuk menempuh jalan takwa, ‘Wahai ‘Umar! Wahai ‘Umar! Sesungguhnya ada perbuatan yang harus dikerjakan untuk Allah pada malam hari dan tidak diterima jika dikerjakan pada siang hari. Ada juga perbuatan yang harus dikerjakan untuk Allah pada siang hari dan tidak akan diterima jika dikerjakan pada malam hari. Sesungguhnya ibadah nafal tidak akan diterima sebelum ibadah fardu dilaksanakan.
+
+Wahai ‘Umar! Tidakkah kamu melihat bahwa ketahuilah bahwa orang-orang yang memiliki timbangan amalan kebaikan yang berat di akhirat, adalah mereka yang selalu mengikuti kebenaran di dunia. Kebenaran itulah yang memberatkan timbangan mereka. Sungguh, timbangan tidak akan menjadi berat kecuali di atasnya ada kebenaran. 
+
+Adapun orang-orang yang memiliki timbangan amal kebaikan yang ringan di akhirat adalah mereka yang mengikuti kebatilan selama hidup di dunia. Kebatilan itulah yang membuat timbangan mereka menjadi ringan. Sungguh, timbangan tidak akan menjadi ringan kecuali di atasnya ada kebatilan.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2NTM3NTIwNywxNzE0ODg0OTc5XX0=
+eyJoaXN0b3J5IjpbLTEyOTY3ODYwNjYsMTcxNDg4NDk3OV19
 -->
