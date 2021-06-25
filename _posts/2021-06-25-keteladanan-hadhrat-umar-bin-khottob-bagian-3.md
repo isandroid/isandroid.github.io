@@ -109,7 +109,21 @@ Berkenaan dengan Hadhrat ‘Umar ra, Hadhrat Masih Mauud as bersabda: Berkenaan 
 
 Hadhrat ‘Umar menjawab: Sifat itu bahkan masih melekat dalam diri saya sampai saat ini. Namun bedanya, dahulu bukan pada tempatnya, tapi kalau saat ini sifat keras saya pada tempatnya.’”
 
-Jami’ Bin Syidad meriwayatkan dari kerabat dekat bahwa: Saya mendengar Hadhrat ‘Umar pernah mengatakan: Ya Tuhan aku sangat lemah, maka berikanlah aku kekuatan. aku sungguh keras/kasar, maka lunakkanlah hatiku, aku kikir, untuk itu jadikanlah aku dermawan. Pidato pertama yang disampaikan oleh Hadhrat ‘Umar setelah terpilih sebagai Khalifah terdapat dalam beragam Riwayat. Salah satunya diriwayatkan bahwa Hamid Bin Halal meriwayatkan, Orang yang hadir pada saat kewafatan Hadhrat Abu Bakr memberitahukan kepada kami bahwa setelah selesai dari proses pemakaman Hadhrat Abu Bakr, Hadhrat ‘Umar merapikan tanah yang ada diatas kuburan, dengan tangan sendiri lalu berdiri pada tempatnya dan bersabda: Allah telah menguji kalian dengan diriku dan menguji diriku lewat kalian. Sepeninggal kedua sahabatku, sekarang aku ada di tengah-tengah kalian.
+Jami’ Bin Syidad meriwayatkan dari kerabat dekat bahwa: Saya mendengar Hadhrat ‘Umar pernah mengatakan: Ya Tuhan aku sangat lemah, maka berikanlah aku kekuatan. aku sungguh keras/kasar, maka lunakkanlah hatiku, aku kikir, untuk itu jadikanlah aku dermawan. 
+
+Pidato pertama yang disampaikan oleh Hadhrat ‘Umar setelah terpilih sebagai Khalifah terdapat dalam beragam Riwayat. Salah satunya diriwayatkan bahwa Hamid Bin Halal meriwayatkan, Orang yang hadir pada saat kewafatan Hadhrat Abu Bakr memberitahukan kepada kami bahwa setelah selesai dari proses pemakaman Hadhrat Abu Bakr, Hadhrat ‘Umar merapikan tanah yang ada diatas kuburan, dengan tangan sendiri lalu berdiri pada tempatnya dan bersabda: Allah telah menguji kalian dengan diriku dan menguji diriku lewat kalian. Sepeninggal kedua sahabatku, sekarang aku ada di tengah-tengah kalian.
+
+Demi Tuhan! Apapun urusan kalian yang dihadirkan kehadapanku, maka tidak ada yang akan memperhatikannya selain dari aku. Adapun urusan yang tidak dihadapkan kepadaku, aku akan tetapkan untuknya orang yang Tangguh dan amanah yang akan mengawasi kalian. Kalau orang-orang berlaku baik, maka akan kuperlakukan dengan baik, tetapi kalau berbuat jahat, maka aku akan menghukumnya."
+
+Hasan mengatakan: kami beranggapan bahwa pidato pertama yang disampaikan oleh Hadhrat ‘Umar adalah: beliau menyampaikan puji sanjung kehadirat Ilahi Rabbi lalu bersabda: Amma Ba’du, Allah telah menguji kalian dengan diriku dan menguji diriku melalui kalian. Sepeninggal kedua sahabatku, sekarang aku ada di tengah-tengah kalian. Apapun urusan kalian yang dihadirkan kehadapanku , maka tidak ada yang akan memperhatikannya selain dari aku. Adapun urusan yang tidak dihadapkan kepadaku, aku akan tetapkan untuknya orang yang Tangguh dan amanah yang akan mengawasi kalian. Kalau orang-orang berlaku baik, maka akan kuperlakukan dengan baik, tetapi kalau berbuat jahat, maka aku akan menghukumnya." Semoga Allah mengampuni kalian.
+
+Jami’ Bin Syidad meriwayatkan dari ayahnya, Ketika Hadhrat ‘Umar menaiki mimbar, kalimat pertama yang beliau sabdakan adalah "Ya Allah, aku ini sungguh keras, kasar, maka lunakkanlah hatiku, Ya Allah aku sangat lemah, maka berikanlah kekuatan, Ya Allah aku ini kikir, jadikanlah aku dermawan bermurah hati."
+
+Jami’ Bin Syidad meriwayatkan dari ayahnya, Ketika Hadhrat ‘Umar terpilih sebagai Khalifah, beliau naik mimbar dan bersabda: Saya akan sampaikan beberapa patah kata, maka jawablah dengan amin. Itulah ucapan pertama yang beliau sampaikan Ketika terpilih sebagai Khalifah.
+
+Husein Mauri meriwayatkan, Hadhrat ‘Umar bersabda: Sesungguhnya orang-orang Arab laksana unta jinak yang dengan patuh mengikuti penggembalanya. Oleh karena itu, penggembala hendaklah memperhatikan hewan yang hendak dibawa itu. Adapun aku demi tuhan ka’bah, aku akan membawa mereka berada di atas jalan yang lurus.
+
+Riwayat yang terdahulu yang menyebutkan untuk menjawab Amin, tidak diterangkan lebih lanjut. Atau Riwayat unt aini penjelasannya yang lebih lanjut. Alhasil, paska terpilih sebagai Khalifah, pada hari ketiga, beliau menyampaikan pidato lengkap, sebagai berikut: Ketika Hadhrat ‘Umar mengetahui bahwa orang-orang khawatir dengan terpilihnya beliau sebagai Khalifah, Maka atas perintah beliau diserukanlah Ash-sholaatul(shalat akan dimulai) secara lantang kepada orang-orang, sehingga orangorang pun hadir. Lalu (Hadhrat ‘Umar) naik ke atas mimbar di tempat Hadhrat Abu Bakr biasa menginjakkan kaki.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzU2NzI1MDIsMTcxNDg4NDk3OV19
+eyJoaXN0b3J5IjpbLTE2NDEwMTM2MTcsMTcxNDg4NDk3OV19
 -->
