@@ -191,11 +191,21 @@ Diriwayatkan oleh Hadhrat Ibnu Abbas bahwa ketika di masa Hadhrat ‘Umar, para 
 
 Hadhrat Hasan berkata, “Wahai Amirul Mukminin, dari harta yang telah Allah Ta’ala berikan kepada umat muslim ini, berikanlah yang menjadi bagian hak saya darinya ”. Lalu Hadhrat ‘Umar menjawab dengan ungkapan yang sangat senang dan hormat kepada beliau dan memerintahkan untuk memberi 1.000 dirham kepada Hadhrat Hasan. Lalu Hadhrat Hasan pergi dan Hadhrat Husain bin Ali pun maju menuju beliau dan berkata, “Wahai Amirul Mukminin, dari harta yang telah Allah Ta’ala berikan kepada umat muslim ini, berikanlah yang menjadi bagian hak saya darinya”. Lalu Hadhrat ‘Umar menjawab dengan ungkapan yang sangat senang dan hormat kepada beliau dan memerintahkan untuk memberi 1.000 dirham kepada Hadhrat Husain. Lalu putra Hadhrat ‘Umar, yaitu Hadhrat Abdullah bin ‘Umar datang dan berkata, “Wahai Amirul Mukminin, dari harta yang telah Allah Ta’ala berikan kepada umat muslim ini, berikanlah yang menjadi bagian hak saya darinya”. Lalu Hadhrat ‘Umar menjawab dengan ungkapan yang sangat senang dan hormat kepadanya dan memerintahkan untuk memberi 500 dirham kepada Hadhrat Abdullah. Atas hal ini Hadhrat Abdullah bin ‘Umar berkata, “Wahai Amirul Mukminin, saya adalah pria tangguh yang senantiasa menghunuskan pedang di depan Rasulullah (saw), sementara Hasan dan Husain saat itu masihlah seperti anak kecil yang kesana kemari di lorong-lorong Madinah, namun anda memberikan kepada keduanya masingmasing 1.000 dirham sementara saya 500 dirham” [[^2]]
 
+Hadhrat ‘Umar bersabda, “ “Pergilah dan bawalah ke hadapanku seorang ayah yang seperti ayah mereka berdua, seorang ibu yang seperti ibu mereka berdua, seorang kakek yang seperti kakek mereka berdua, dan seorang nenek yang seperti nenek mereka berdua, seorang paman dari pihak ayah yang seperti paman dari pihak ayah mereka berdua, seorang paman dari pihak ibu yang seperti paman dari pihak ibu mereka berdua, dan seorang bibi yang seperti bibi mereka berdua, dan tentu saja engkau tidak akan bisa membawanya ke hadapanku.”
+
+Diriwayatkan dari Abu Ja’far bahwa ketika Hadhrat ‘Umar (ra) berniat untuk menetapkan gaji bagi orang-orang dan pendapat beliau lebih baik dari pendapat semua orang. Orang-orang berkata, “Mulailah dari diri anda sendiri?”
+
+Beliau (ra) bersabda, “Tidak”. Lalu beliau (ra) memulai dari kerabat yang paling dekat dengan Rasulullah saw. Pertama beliau menetapkan bagian Hadhrat Abbas (ra) dan kemudian Hadhrat Ali (ra)
+
+Hadhrat ‘Umar bin Khattab (ra) menghormati Hadhrat Imam Hasan (ra) dan Hadhrat Imam Husain (ra) dan menaikkan mereka ke tunggangan, serta memberikan kepada mereka sebagaimana beliau memberikan kepada ayahanda mereka. Suatu kali datang beberapa setelan pakaian dari Yaman, maka beliau membagikannya kepada putra para sahabat dan tidak memberikan satu pun kepada mereka berdua, dan beliau (ra) bersabda, “Di antara semua ini tidak ada yang layak untuk mereka berdua.” Lantas beliau (ra) mengirim pesan kepada utusan dari Yaman, maka ia membuatkan setelan pakaian yang pantas untuk mereka berdua.
+
+Riwayat ini in syaa Allah masih akan berlanjut pada kesempatan yang akan datang.
+
 ### Catatan Kaki
 
 [^qs_004-59]: QS An-Nisaa ayat 59 dengan basmallah
 
-‘Abdullah bin ‘Umar lahir di zaman Makkah sedangkan Imam Hasan dan Imam Husain lahir di zaman Madinah. Jadi, beliau lebih dewasa
+[^2]: ‘Abdullah bin ‘Umar lahir di zaman Makkah sedangkan Imam Hasan dan Imam Husain lahir di zaman Madinah. Jadi, beliau lebih dewasa
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODcxMDgyMTcyLDE3MTQ4ODQ5NzldfQ==
+eyJoaXN0b3J5IjpbLTM0MTY1MDQ5OSwxNzE0ODg0OTc5XX0=
 -->
