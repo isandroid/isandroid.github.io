@@ -33,13 +33,23 @@ Hadhrat Abu Bakr bersabda: Dudukkan saya. Lalu mereka membantu membuat duduk Had
 
 Ketika Hadhrat Abu Bakr memanggil Hadhrat ‘Utsman secara terpisah untu mencatat wasiyat berkenaan dengan Hadhrat ‘Umar, Hadhrat Abu Bakr bersabda, ‘Tulislah, Bismillaahirrahmaanirrahiim. Berikut ini adalah wasiyat Abu Bakr Bin Quhafah untuk umat Muslim.’
 
-Setelah mengatakan itu, Hadhrat Abu Bakr pingsan. Kemudian Hadhrat ‘Utsman menuliskan sendiri sbb: إ َ ، ف ُ د ْ ع َ ا ب َّ م َ أ آلكم خيرا مَه ْ م َ ل َ ب، و ا َّ ط َ خ ْ ال َ ن ْ ب َ ر َ م ُ ع ْ م ُ ك ْ ي َ ل َ ع ت ُ ْ ف َ ل ْ خ َ ت د اسْ َ ي ق ِّ ن’ Aku telah menetapkan ‘Umar Bin Khatab untuk menjadi Khalifah bagi kalian dan aku tidak mengurangi dalam kebaikan berkenaan dengan kalian.’
+Setelah mengatakan itu, Hadhrat Abu Bakr pingsan. Kemudian Hadhrat ‘Utsman menuliskan sendiri sbb: 'Aku telah menetapkan ‘Umar Bin Khatab untuk menjadi Khalifah bagi kalian dan aku tidak mengurangi dalam kebaikan berkenaan dengan kalian.'
+
+Lalu Hadhrat Abu Bakr sadarkan diri dan bersabda, ‘Coba bacakan kepada saya, apa yang ditulis?’ 
+
+Hadhrat ‘Utsman membacakannya untuk beliau. Setelah mendengar itu, Hadhrat Abu Bakr mengucapkan Allahu Akbar dan bersabda: Saya beranggapan bahwa anda khawatir, jika pada saat pingsan tadi saya wafat, jangan sampai timbul perselisihan didalam umat.
+
+Hadhrat ‘Utsman berkata: Ya, benar demikian. 
+
+Hadhrat Abu Bakr bersabda: Semoga Allah Ta’ala memberikan ganjaran kepadamu dari pihak Islam dan umat muslim. [[^2]] Yakni Hadhrat Abu Bakr tidak berkeberatan atas apa yang ditulis oleh Hadhrat ‘Utsman berkenaan dengan penetapan Hadhrat ‘Umar sebagai Khalifah.
 
 ### Catatan Kaki
 
 [^1]: Tarikh ath-Thabari (تاري خ الطبري = تاري خ الرسل والملوك، وصلة تاري خ الطبري نویسنده : الطبري، أبو جعفر) - 
 
+[^2]: Tarikh ath-Thabari 
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyMzIyMDEzNiwxNzE0ODg0OTc5XX0=
+eyJoaXN0b3J5IjpbLTExMjU5NTIyNjksMTcxNDg4NDk3OV19
 -->
