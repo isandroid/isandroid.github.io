@@ -8,6 +8,8 @@ published: true
 <p class="quran">بِسۡمِ اللّٰہِ الرَّحۡمٰنِ الرَّحِیۡمِ</p>
 
 ## {{ page.title }}
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTAwMjAxNTNdfQ==
+eyJoaXN0b3J5IjpbMTQyMjE1NDI3NV19
 -->
