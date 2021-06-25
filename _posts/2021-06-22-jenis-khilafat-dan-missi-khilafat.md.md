@@ -144,8 +144,6 @@ Ikatan Khilafat hakikatnya adalah ikatan pemenuhan kita terhadap Janji Baiat. Ja
 
 janji tersebut adalah syarat baiat yang ke-10, yaitu Akan mengikat tali persaudaraan dengan hamba ini “Imam Mahdi dan Al-Masih Al-Mau’ud” semata-mata karena Allah dengan pengakuan taat dalam hal makruf (segala hal yang baik) dan akan berdiri di atas perjanjian ini hingga mautnya, dan menjunjung tinggi **ikatan perjanjian** ini melebihi ikatan duniawi, baik ikatan keluarga, ikatan persahabatan ataupun ikatan kerja.[[^baiat]]
 
-[^baiat]: [Pustaka Isa - Baiat](/islam/baiat.html)
-
 Huzur V (atba) menjelaskan tentang kewajiban para Ahmadi. Salah satunya adalah menjalin ikatan dengan khilafat. Beliau (atba) menjelaskan,
 
 > Kita juga (hendaknya) terus mengajarkan anak-anak kita supaya senantiasa bersyukur kepada Allah Ta‟ala karena Dia telah memperbaiki kondisi keuangan kita setelah datang ke sini kemudian menceritakan kepada mereka bahwa sebagai rasa syukur atas kesempatan akademis yang mereka dapatkan, **hendaknya mereka menjalin hubungan yang kuat dengan Nizam Jemaat serta ikatan kesetiaan dan ketaatan dengan Khilafat**.
@@ -199,12 +197,14 @@ Setelah KPA usai, maka kita bisa menerapkannya sebagai berikut,
 
 [^hds-32251d52-6f4d-4b6c-94e5-0811b08ff22b]: [Hadits - Khalifah - Memegang Teguh Khalifah agar Selamat](https://pustaka.isa.web.id/ref/hds-32251d52-6f4d-4b6c-94e5-0811b08ff22b)
 
+[^baiat]: [Pustaka Isa - Baiat](/islam/baiat.html)
+
 [^khotbah20210528]: Ringkasan Khotbah Jumat Sayyidina Amirul Mu’minin, Hadhrat Mirza Masroor Ahmad, Khalifatul Masih al-Khaamis (ayyadahullaahu Ta’ala binashrihil ‘aziiz) pada 28 Mei 2021 (Hijrah 1400 Hijriyah Syamsiyah/Syawal 1442 Hijriyah Qamariyah) di Masjid Mubarak, Tilford dalam [Bahasa Indonesia](https://pustaka.isa.web.id/2021/06/04/khilafat-mengubah-takut-menjadi-damai.html) dan [Bahasa Inggris](https://www.alislam.org/friday-sermon/2021-05-28.html)
 <!--
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1NDI0OTg4MCwxOTUxMDYxNjkyLDMxOD
+eyJoaXN0b3J5IjpbLTkyNTc4ODg0OCwxOTUxMDYxNjkyLDMxOD
 U0OTE2OSwtMjAwNzMyOTg2NSwxMDAzMjkyMjU5LDI3Mzc5NTcw
 MywxMzgyMzI3MDk2LDgwODg1OTQyOSwtMTcyMjAwMTI3LC03Mz
 cyNTkxMiwyMDM4OTE0NTY0LC04Nzc1Mzc1ODUsMTg5ODc3MzQ3
