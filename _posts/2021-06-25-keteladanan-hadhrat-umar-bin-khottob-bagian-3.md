@@ -23,13 +23,15 @@ Saat ini tengah dibahas berkenaan dengan Hadhrat ‘Umar ra. Ketika waktu kewafa
 
 Hadhrat Abu Bakr bersabda: Beliau bersikap keras untuk mengimbangi kelembutan saya. Namun jika kepadanya diserahkan tanggung jawab untuk memimpin, beliau akan melepaskan hal hal seperti itu. Karena saya perhatikan, Ketika saya bersikap keras terhadap seseorang, ‘Umar ra berusaha untuk meyakinkan saya berkenaan dengan orang tersebut. Begitu pula, ketika saya bersikap lembut, ‘Umar ra biasanya meminta saya untuk bersikap tegas pada orang tersebut.
 
-Setelah itu Hadhrat Abu Bakr memanggil Hadhrat ‘Utsman dan meminta pendapat berkenaan dengan Hadhrat ‘Umar. Hadhrat ‘Utsman berkata:
+Setelah itu Hadhrat Abu Bakr memanggil Hadhrat ‘Utsman dan meminta pendapat berkenaan dengan Hadhrat ‘Umar. Hadhrat ‘Utsman berkata: Batin beliau lebih baik dari penampilan lahiriah beliau dan tidak ada diantara kami yang menyerupai beliau.
 
-()
+Hadhrat Abu Bakr bersabda kepada Hadhrat Abdurrahman Bin Auf dan Hadhrat ‘Utsman: Apapun yang saya katakan kepada kalian berdua, jangan sampaikan kepada orang siapapun. Begitu pula, Jika saya mengabaikan (tidak memilih- Pent) ‘Umar, maka (pilihan kedua) tidak akan lepas dari ‘Utsman. (Dalam pandangan Hadhrat Abu Bakr, keduanya (Hadhrat ‘Umar dan Hadhrat ‘Utsman) layak untuk memenuhi hak sebagai Khalifah). Hadhrat Abu Bakr bersabda: Dan siapapun yang terpilih diantara mereka berdua nantinya, berhak untuk tidak mengurangi apapun yang berkaitan dengan urusan kalian. Saya akan terlepas dari segala urusan kalian dan menjadi pendahulu kalian (wafat).
 
-Batin beliau lebih baik dari penampilan lahiriah beliau dan tidak ada diantara kami yang menyerupai beliau.
+Ketika Hadhrat Abu Bakr sakit, Hadhrat Talha Bin Ubaidullah datang menemui beliau. Hadhrat Talha berkata kepada beliau: Tuan telah menetapkan Hadhrat ‘Umar sebagai Khalifah penerus anda bagi umat Islam, padahal tuan sendiri mengetahui bagaimana beliau memperlakukan orang-orang ditengah keberadaan anda, lantas bagaimana keadaannya nanti sepeninggal tuan? Tuan (Hadhrat Abu Bakr) akan pergi berjumpa dengan Tuhan. (di akhirat nanti) Tuhan akan menanyakan kepada anda perihal pengikut anda.
+
+Hadhrat Abu Bakr bersabda: Dudukkan saya. Lalu mereka membantu membuat duduk Hadhrat Abu Bakr. Hadhrat Abu Bakr bersabda: Apakah kamu memperingatkan saya dengan Allah Ta’ala? Ketika saya berjumpa dengan Allah Ta’ala nanti dan Dia bertanya kepadaku, aku akan mengatakan: Saya telah memilih yang terbaik dari antara hamba-Mu untuk menjadi Khalifah bagi mereka
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTc0ODY3MzVdfQ==
+eyJoaXN0b3J5IjpbMTcxNDg4NDk3OV19
 -->
