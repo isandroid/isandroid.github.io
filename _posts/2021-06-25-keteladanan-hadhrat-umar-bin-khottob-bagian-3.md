@@ -135,7 +135,11 @@ Lalu, wahai manusia, saya telah menjadi pemimpin atas urusan-urusan Anda semua. 
 
 Wahai segenap manusia! Banyak sekali hak-hak kalian atas diri saya, yang [ingin] saya sampaikan kepada kalian. kalian dapat menuntut saya atas ini semua: Anda berhak untuk mengetahui kemana saja harta ini akan saya pergunakan; dan terhadap harta ganimah yang Allah Ta’ala berikan kepadamu, saya [berhak] agar membelanjakannya demi pekerjaan Allah Ta’ala. Saya memiliki kewajiban untuk membelanjakan harta itu sesuai dengan kebutuhannya, dan saya memiliki kewajiban untuk terus memberi tunjangan untuk memenuhi kebutuhanmu, dan saya memiliki kewajiban untuk menjaga kalian agar jangan jatuh kedalam kebinasaan. Lalu tatkala kalian bergabung untuk perang dan meninggalkan rumahmu, maka saya akan menjadi ayah bagi anak dan keluargamu hingga kalian pulang kembali. Saya mengatakan hal ini dan memohonkan ampunan kepada Allah bagi saya dan kalian.
 
-Dalam menjelaskan masa kekhalifahan Hadhrat ‘Umar, Hadhrat Muslih Mau’ud (ra) bersabda: Ayat ini, senantiasa hadir di mata umat Islam; yakni, bagi mereka yang berkemampuan dalam mengelola perkara pemerintahan, hendaknya amanat ini dibebankan kepada mereka. Lalu tatkala amanat ini telah dibebankan pada beberapa orang, maka hendaknya mereka memperhatikan perintah syariat ini yaitu supaya mereka memerintah dengan kejujuran dan keadilan. Lalu apabila engkau mengabaikan keadilan, apabila engkau tidak mengutamakan kejujuran, dan berlaku khianat terhadap amanat ini, maka yakinlah bahwa Tuhan akan mengambil perhitungan, dan engkau akan mendapat hukuman atas kejahatan ini. Inilah hal yang sangat membekas dan melekat pada kepribadian Hadhrat ‘Umar (ra), dimana manusia akan bergetar mendengarnya.
+Dalam menjelaskan masa kekhalifahan Hadhrat ‘Umar, Hadhrat Muslih Mau’ud (ra) bersabda: Ayat ini, 
+
+<p class="quran">...تُؤَدُّوا الۡاَمٰنٰتِ اِلٰۤی اَہۡلِہَا...</p>
+
+senantiasa hadir di mata umat Islam; yakni, bagi mereka yang berkemampuan dalam mengelola perkara pemerintahan, hendaknya amanat ini dibebankan kepada mereka. Lalu tatkala amanat ini telah dibebankan pada beberapa orang, maka hendaknya mereka memperhatikan perintah syariat ini yaitu supaya mereka memerintah dengan kejujuran dan keadilan. Lalu apabila engkau mengabaikan keadilan, apabila engkau tidak mengutamakan kejujuran, dan berlaku khianat terhadap amanat ini, maka yakinlah bahwa Tuhan akan mengambil perhitungan, dan engkau akan mendapat hukuman atas kejahatan ini. Inilah hal yang sangat membekas dan melekat pada kepribadian Hadhrat ‘Umar (ra), dimana manusia akan bergetar mendengarnya.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3NDY0ODQzNiwxNzE0ODg0OTc5XX0=
+eyJoaXN0b3J5IjpbLTcwMjkwNDAxMCwxNzE0ODg0OTc5XX0=
 -->
