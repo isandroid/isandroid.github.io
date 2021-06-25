@@ -143,7 +143,13 @@ senantiasa hadir di mata umat Islam; yakni, bagi mereka yang berkemampuan dalam 
 
 Hadhrat ‘Umar yang merupakan khalifah kedua Islam, beliau telah sedemikian banyak berkorban demi kemajuan Islam dan umat muslim, hingga para penulis eropa yang di kesehariannya mereka terus melontarkan keberatan kepada Rasulullah (saw) (di mana di dalam berbagai bukunya mereka dengan sangat keji menuliskan tentang Rasulullah (saw.) bahwa na’udzubillah beliau tidak berlaku jujur) mereka dengan terpaksa harus menyebutkan tentang Abu Bakr dan ‘Umar bahwa kerja keras dan pengorbanan yang dilakukan oleh keduanya tidak ditemukan bandingannya dalam pemerintahan apapun di dunia. Secara khusus tentang jasa Hadhrat ‘Umar (ra), mereka sangat memujinya dan mengatakan bahwa inilah sosok yang siang malam dan dengan sangat tekun telah memenuhi kewajibannya untuk menyebarkan dan memajukan Islam.
 
-Namun demikian kita lihat bagaimana Hadhrat ‘Umar. Di hadapannya, meskipun beliau telah menyelesaikan ribuan pekerjaan, meskipun beliau telah memberi ribuan pengurbanan, meskipun beliau telah melewati ribuan kesulitan, ayat ini senantiasa ada [dalam diri beliau], yaitu 
+Namun demikian kita lihat bagaimana Hadhrat ‘Umar. Di hadapannya, meskipun beliau telah menyelesaikan ribuan pekerjaan, meskipun beliau telah memberi ribuan pengurbanan, meskipun beliau telah melewati ribuan kesulitan, ayat ini senantiasa ada [dalam diri beliau], yaitu [[^qs_004-59]]
+
+<p class="quran">...اِنَّ اللّٰہَ یَاۡمُرُکُمۡ اَنۡ تُؤَدُّوا الۡاَمٰنٰتِ اِلٰۤی اَہۡلِہَا...</p>
+
+lalu
+
+<p class="quran">...وَاِذَا حَکَمۡتُمۡ بَیۡنَ النَّاسِ اَنۡ تَحۡکُمُوۡا بِالۡعَدۡلِ...</p>
 
 Yakni tatkala Tuhan memerintahkan kalian untuk melakukan suatu tugas, dan orang-orang di tempatmu dan kerabatmu memilih kalian untuk memimpin, maka menjadi kewajiban bagimu untuk berlaku adil dan menyerahkan segenap kekuatanmu untuk kebaikan dan kemajuan umat manusia.
 
@@ -151,5 +157,5 @@ Yakni tatkala Tuhan memerintahkan kalian untuk melakukan suatu tugas, dan orang-
 
 [^qs_004-59]: QS An-Nisaa ayat 59 dengan basmallah
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzg3MDI5NjQ1LDE3MTQ4ODQ5NzldfQ==
+eyJoaXN0b3J5IjpbLTI5OTYxMTQ0NCwxNzE0ODg0OTc5XX0=
 -->
