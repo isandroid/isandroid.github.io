@@ -159,12 +159,27 @@ Alhasil, betapa pedihnya peristiwa yang dialami Hadhrat ‘Umar ini, tatkala ada
 
 Wahai Tuhan, Engkau telah menegakkan [amanat] pemerintahan ini atas diriku, dan Engkau telah meletakkan satu amanat [ini] diatas pundakku. Aku tidak tahu apakah diriku telah menjalankan sepenuhnya kewajibanku ini ataukah tidak. Kini waktu kematianku telah dekat dan aku akan meninggalkan dunia ini dan datang menuju Engkau. Wahai Tuhanku, Aku tidak mengharapkan ganjaran terbaik atas apapun amalku, dan aku tidak mengharapkan hadiah apapun. Tetapi wahai Tuhanku, aku hanya berharap Engkau berbelas kasih padakudan memaafkanku. Dan apabila terdapat kesalahan dalam memenuhi tanggung jawabku ini, kiranya Engkau memaafkanku.
 
-Umar adalah insan berderajat mulia, dimana contoh keadilan seperti yang dicontohkan beliau amatlah sedikit di dunia ini. Yaitu sebagaimana ayat بالعدل تحکموا ان اس ّ م بین الن ُ ت ْ م َ ک َ ِ ذا ح ا َ و Tatkala beliau wafat, beliau wafat dalam keadaan yang sedemikian resah dan gelisah, dimana meskipun dengan segenap hasil pengkhidmatan yang telah beliau persembahkan demi kebaikan negeri dan segenap manusia, bersama segenap pengkhidmatan beliau demi kemajuan Islam, semua itu sangatlah hina dimata beliau.
+Umar adalah insan berderajat mulia, dimana contoh keadilan seperti yang dicontohkan beliau amatlah sedikit di dunia ini. Yaitu sebagaimana ayat
+
+<p class="quran">...وَاِذَا حَکَمۡتُمۡ بَیۡنَ النَّاسِ اَنۡ تَحۡکُمُوۡا بِالۡعَدۡلِ...</p>
+
+Tatkala beliau wafat, beliau wafat dalam keadaan yang sedemikian resah dan gelisah, dimana meskipun dengan segenap hasil pengkhidmatan yang telah beliau persembahkan demi kebaikan negeri dan segenap manusia, bersama segenap pengkhidmatan beliau demi kemajuan Islam, semua itu sangatlah hina dimata beliau.
+
+Seluruh pengkhidmatan yang baik di pandangan segenap muslim di negeri beliau, seluruh pengkhidmatan yang juga baik di pandangan kaum non muslim yang hidup di negeri beliau, seluruh pengkhidmatan yang tidak hanya dianggap baik oleh orang muslim dan non muslim di negeri beliau, bahkan oleh mereka yang di luar negeri beliau sekalipun, seluruh pengkhidmatan yang tidak hanya dianggap baik oleh orang-orang di masa beliau tetapi juga mereka yang ada sekarang setelah berlalu 1300 tahun lamanya, meskipun mereka menyerang junjungan beliau [yaitu Rasulullah (saw)], tatkala menyebut pengkhidmatan Hadhrat ‘Umar, mereka berkata, “tidak diragukan lagi, ‘Umar adalah sosok Istimewa di dalam jasa-jasanya”. Semua pengkhidmatan yang pada pandangan Hadhrat ‘Umar adalah sangat hina, hingga dengan gelisah beliau mengatakan,
+
+*Allahumma laa 'alayya wa laa lii.*
+
+yaitu “wahai Tuhanku, ada satu amanat yang telah diletakkan diatas pundakku. Aku tidak tahu apakah aku telah memenuhi kewajibanku ataukah tidak. Oleh karena itu, hanya inilah yang kumohonkan supaya kiranya Engkau memaafkan kelemahan-kelemahanku, dan lindungilah aku dari hukuman”.
+
+Lalu Hadhrat Muslih Mau’ud di dalam satu ceramah “Pembawa kebaikan bagi Dunia” menjelaskan: Hadhrat ‘Umar ada satu sosok dimana meskipun para sejarawan kristen menuliskan hal yang berbeda terkait Rasulullah (saw), mereka menulis bahwa tidak ada seseorang pun di dunia ini yang memerintah seperti beliau. Mereka melontarkan celaan kepada Rasulullah (saw) namun memuji Hadhrat ‘Umar (ra).
+
+Sosok demikian, yang senantiasa dekat dengan beliau (saw), ia berharap agar di waktu wafat mendapatkan tempat di dekat telapak kaki Rasulullah (saw). Seandainya di dalam suatu tindakan Rasulullah (saw) terdapat suatu hal dimana beliau (saw) tidak melangkah sesuai dengan keridaan Tuhan, maka apakah sosok yang sampai pada derajat tinggi seperti Hadhrat ‘Umar ini akan memiliki suatu harapan agar mendapat tempat di dekat telapak kaki beliau (saw)?
+
 
 
 ### Catatan Kaki
 
 [^qs_004-59]: QS An-Nisaa ayat 59 dengan basmallah
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzkzOTIyMTg3LDE3MTQ4ODQ5NzldfQ==
+eyJoaXN0b3J5IjpbLTE1Mjk4NTE4OTUsMTcxNDg4NDk3OV19
 -->
