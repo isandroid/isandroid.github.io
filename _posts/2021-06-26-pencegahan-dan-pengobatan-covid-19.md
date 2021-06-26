@@ -19,27 +19,17 @@ Resep Homeopathy untuk pencegahan adalah sebagai berikut:
 -   ARSENIC ALB 200
 -   GELSEMIUM 200
 
-Untuk anak-anak di bawah s/d usia 12 tahun, 1 x seminggu Untuk anak-anak di atas usia 12 tahun dan orang dewasa, 2 x seminggu (setiap
+Penggunaan:
+- Untuk anak-anak di bawah s/d usia 12 tahun, 1 x seminggu 
+- Untuk anak-anak di atas usia 12 tahun dan orang dewasa, 2 x seminggu (setiap 3 hari sekali 1 dosis) 
+- Untuk wanita hamil dan ibu menyusui, 1 x seminggu (anak yang sedang disusui tidak perlu diberikan obat) 
+- Setelah mengkonsumsi obat Pencegahan selama 3 minggu, berikan jeda 1 minggu untuk berhenti dan seterusnya, lanjutkan sampai 3 atau 4 bulan kedepan.
 
-  
+### Perawatan Pengobatan
 
-3 hari sekali 1 dosis) Untuk wanita hamil dan ibu menyusui, 1 x seminggu (anak yang sedang di susui
+Jika seseorang sudah terinfeksi virus Corona (Covid-19), ia harus tetap mengkonsumsi secara teratur obat Homeopathy untuk pengobatan Covid-19. Sebagai tambahan, bagi orang-orang yang berada di sekitar orang yang terinfeksi Covid 19 (biar pun tidak kontak dengan penderita Covid-19) obat yang dapat diminum adalah:
 
-  
-
-tidak perlu diberikan obat) Setelah mengkonsumsi obat Pencegahan selama 3 minggu, berikan jeda 1 minggu untuk berhenti dan seterusnya, lanjutkan sampai 3 atau 4 bulan kedepan.
-
-  
-
-PERAWATAN PENGOBATAN
-
-  
-
-Jika seseorang sudah terinfeksi virus Corona (Covid-19), harus tetap mengkonsumsi secara teratur obat Homeopathy untuk pengobatan Covid-19. Sebagai tambahan, bagi orang-orang yang berada di sekitar orang yang terinfeksi Covid 19 (biar pun tidak kontak dengan penderita Covid-19) obat yang dapat diminum adalah:
-
-  
-
-1. BACILLINUM DIPHTERINUM INFLUENZINUM OSCILLOCOCCINUM
+- BACILLINUM DIPHTERINUM INFLUENZINUM OSCILLOCOCCINUM
 
   
 
@@ -105,5 +95,5 @@ Jika seseorang mempunyai keluhan flu ringan, demam dan batuk dapat mengkonsumsi 
 
 30
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3OTcxODQ2NCwxNTE4MDA3MzcxXX0=
+eyJoaXN0b3J5IjpbLTYzOTQ5NDE3NywxNTE4MDA3MzcxXX0=
 -->
