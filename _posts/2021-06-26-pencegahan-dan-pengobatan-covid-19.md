@@ -59,30 +59,14 @@ Catatan:
 - Sebagai informasi *Echinaforce drops* adalah obat herbal (bukan sediaan Homeopathy) yang bisa dibeli di apotik, toko obat atau secara online. *Echinaforce* yang direkomendasikan oleh Hadhrat Khalifatul Masih Al Khamis (aba) di Indonesia harganya sangat mahal, 
 - Atas saran dari dr. Ahmad Bhutti (Dispensary Homeopathi London) ECHINACEA dalam sediaan Homeopathy dapat dikonsumsi, 1 tables 1 x sehari.
 
-  
+### Obat Tradisional
 
 Selama mengkonsumsi obat Homeopathy dapat juga mengkonsumsi obat rumahan sebagai berikut:
 
-  
-
 1. Sejumput jahe bubuk dan sejumput lada hitam bubuk dicampur dengan 1 sendok makan madu, diminum 1 x sehari.
-
-  
-
-2. Tambahkan 1/3 sendok the kunyit bubuk kedalam 1 sendok makan minyak
-
-  
-
-zaitun, dikonsumsi 2 x sehari.
-
-  
+2. Tambahkan 1/3 sendok the kunyit bubuk kedalam 1 sendok makan minyak zaitun, dikonsumsi 2 x sehari.
 
 Jika seseorang mempunyai keluhan flu ringan, demam dan batuk dapat mengkonsumsi "obat rumahan" ini.
-
-  
-
-Jin Balikpapan 1/10 Jakarta 10130 Telp: (021) 6321631-6321630, 63868832 Fax (021)-6321640 Jin Raya Parung No. 27 PO BOX 33/SWG-Sawangan 16501, Tlp. (0251) 8614524, Fax: 0251) 8619073 www.ahmadiaal-Email: sekum plzahmadiyya.or.id
-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2OTAzNTA0NCwxNTE4MDA3MzcxXX0=
+eyJoaXN0b3J5IjpbLTEwNjIyMjIyNDIsMTUxODAwNzM3MV19
 -->
