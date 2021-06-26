@@ -9,29 +9,15 @@ published: true
 
 ## {{ page.title }}
 
-Khalifah Ahmadiyah telah mengeluarkan satu resep terbaru untuk menghadapi gelombang kedua Covid-19 
+Dikarenakan oleh gelombang kedua virus Corona (Covid-19), dengan memperhatikan keadaan sekarang ini, banyak Ahmadi yang mempertanyakan penggunaan lebih lanjut obat Homeopathy untuk pencegahan dan penyembuhan (pengobatan) nya. Permohonan petunjuk telah dikirimkan kehadapan Hadhrat Khalifatul Masih Al Khamis (aba). Dengan penuh kasih sayang, Hudhur (aba) memberikan petunjuk untuk menggunakan resep berikut ini:  
 
-PANDUAN TERBARU UNTUK GELOMBANG KEDUA COVID-19
+### Pencegahan Covid-19
 
-  
+Resep Homeopathy untuk pencegahan adalah sebagai berikut:
 
-Dikarenakan oleh gelombang kedua virus Corona (Covid-19), dengan memperhatikan keadaan sekarang ini, banyak warga Jemaat yang mempertanyakan penggunaan lebih lanjut obat Homeopathy untuk pencegahan dan penyembuhan (pengobatan) nya. Permohonan petunjuk telah dikirimkan kehadapan Hadhrat Khalifatul Masih Al Khamis (aba). Dengan penuh kasih sayang, Hudhur (aba) memberikan petunjuk untuk menggunakan resep berikut ini:
-
-  
-
-SEBAGAI PENCEGAHAN
-
-  
-
--   ACONITE 200
-    
+-   ACONITE 200    
 -   ARSENIC ALB 200
-    
 -   GELSEMIUM 200
-    
-
-  
-  
 
 Untuk anak-anak di bawah s/d usia 12 tahun, 1 x seminggu Untuk anak-anak di atas usia 12 tahun dan orang dewasa, 2 x seminggu (setiap
 
@@ -119,5 +105,5 @@ Jika seseorang mempunyai keluhan flu ringan, demam dan batuk dapat mengkonsumsi 
 
 30
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0MDUxMjI5NSwxNTE4MDA3MzcxXX0=
+eyJoaXN0b3J5IjpbLTI3OTcxODQ2NCwxNTE4MDA3MzcxXX0=
 -->
