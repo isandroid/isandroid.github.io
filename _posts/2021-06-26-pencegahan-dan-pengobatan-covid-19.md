@@ -9,8 +9,11 @@ published: true
 
 ## {{ page.title }}
 
+Khalifah Ahmadiyah telah mengeluarkan satu resep terbaru untuk menghadapi gelombang kedua Covid-19 
 
 PANDUAN TERBARU UNTUK GELOMBANG KEDUA COVID-19
+
+  
 
 Dikarenakan oleh gelombang kedua virus Corona (Covid-19), dengan memperhatikan keadaan sekarang ini, banyak warga Jemaat yang mempertanyakan penggunaan lebih lanjut obat Homeopathy untuk pencegahan dan penyembuhan (pengobatan) nya. Permohonan petunjuk telah dikirimkan kehadapan Hadhrat Khalifatul Masih Al Khamis (aba). Dengan penuh kasih sayang, Hudhur (aba) memberikan petunjuk untuk menggunakan resep berikut ini:
 
@@ -115,14 +118,6 @@ Jika seseorang mempunyai keluhan flu ringan, demam dan batuk dapat mengkonsumsi 
   
 
 30
-
-  
-
-Jinakpapan 1/10 Jakarta 10130 Telp: (021) 6321631-6321630, 63868832 Fax (021)-6321640
-
-  
-
-Jin Raya Panung No. 27 PO BOX 33/SWG-Sawangan 16501, Tp. 102518614524, Fax: 251) 619073
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUxODAwNzM3MV19
+eyJoaXN0b3J5IjpbLTY0MDUxMjI5NSwxNTE4MDA3MzcxXX0=
 -->
