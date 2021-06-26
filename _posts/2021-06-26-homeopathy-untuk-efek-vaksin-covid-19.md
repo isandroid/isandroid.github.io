@@ -61,7 +61,11 @@ Aturan Pakai:
 
 - Dua atau tiga kali sehari 
 
-CATATAN: Instruksi ini bukanlah pengganti dari obat-obatan yang disarankan para dokter. Mohonlah selalu arahan dari dokter anda atau penyedia kesehatan profesional lainnya terkait pertanyaan apapun yang anda miliki mengenai keadaan keseahtan anda. Seandainya terjadi keadaan kesehatan yang serius atau keadaan darurat lainnya, hubungilah selalu dokter anda dan/atau pelayanan gawat darurat yang berwenang. (Hafeez Ahmad Bhatti, Homeopathic Dept. London)
+### CATATAN
+
+- Instruksi ini bukanlah pengganti dari obat-obatan yang disarankan para dokter. 
+- Mohonlah selalu arahan dari dokter anda atau penyedia kesehatan profesional lainnya terkait pertanyaan apapun yang anda miliki mengenai keadaan keseahtan anda. 
+- Seandainya terjadi keadaan kesehatan yang serius atau keadaan darurat lainnya, hubungilah selalu dokter anda dan/atau pelayanan gawat darurat yang berwenang. (Hafeez Ahmad Bhatti, Homeopathic Dept. London)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMxMDk1MDIyM119
+eyJoaXN0b3J5IjpbLTY5MDYzOTgzNV19
 -->
