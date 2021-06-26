@@ -56,10 +56,8 @@ Aturan Pakai:
 - Echinaforse Drops (Echinacea Purpurea) 15 tetes dalam sedikit air, 1 x sehari.
 
 Catatan:
-- Obat ini adalah obat herbal dan dapat dibeli secara online, apotik atau di toko obat
-  
-
-Sebagai informasi Echinaforce drops adalah obat herbal (bukan sediaan Homeopathy) yang bisa dibeli di apotik, took obat atau secara online. Echinaforce yang direkomendasikan oleh Hadhrat Khalifatul Masih Al Khamis (aba) di Indonesia harganya sangat mahal, tetapi atas saran dari dr. Ahmad Bhutti (Dispensary Homeopathi London) ECHINACEA dalam sediaan Homeopathy dapat dikonsumsi, 1 tables 1 x sehari.
+- Sebagai informasi *Echinaforce drops* adalah obat herbal (bukan sediaan Homeopathy) yang bisa dibeli di apotik, toko obat atau secara online. *Echinaforce* yang direkomendasikan oleh Hadhrat Khalifatul Masih Al Khamis (aba) di Indonesia harganya sangat mahal, 
+- Atas saran dari dr. Ahmad Bhutti (Dispensary Homeopathi London) ECHINACEA dalam sediaan Homeopathy dapat dikonsumsi, 1 tables 1 x sehari.
 
   
 
@@ -86,5 +84,5 @@ Jika seseorang mempunyai keluhan flu ringan, demam dan batuk dapat mengkonsumsi 
 Jin Balikpapan 1/10 Jakarta 10130 Telp: (021) 6321631-6321630, 63868832 Fax (021)-6321640 Jin Raya Parung No. 27 PO BOX 33/SWG-Sawangan 16501, Tlp. (0251) 8614524, Fax: 0251) 8619073 www.ahmadiaal-Email: sekum plzahmadiyya.or.id
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0MjI2MTU5MCwxNTE4MDA3MzcxXX0=
+eyJoaXN0b3J5IjpbLTY2OTAzNTA0NCwxNTE4MDA3MzcxXX0=
 -->
