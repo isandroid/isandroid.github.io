@@ -3,7 +3,7 @@ layout: post
 title:  Skripsi Sufni Ahmad - Bab III
 tags: skripsi
 description: skripsi sufni ahmad bab iii
-published: false
+published: true
 ---
 
 ### BAB III
@@ -117,5 +117,5 @@ Akibat buruk tidak akan menimpa Jemaat Ilahi ini, justru akibat buruk akan menim
 
 [^19]: **_Ibid._**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4MjQxMDM3Ml19
+eyJoaXN0b3J5IjpbLTE4MjcwMjAwMjMsLTI4MjQxMDM3Ml19
 -->
