@@ -26,9 +26,11 @@ Untuk pencegahan dari efek samping Vakin Covid-19 (khususnya Astrazaneca dan Pfi
 
 Jika seseorang mengalami gejala berikut seperti:
 
-	- penggumpalan darah, 
-	- kesulitan bernapas 
-	- atau jantung berdebar, maka mereka harus meminum obat berikut: 
+- penggumpalan darah, 
+- kesulitan bernapas 
+- atau jantung berdebar, 
+
+maka mereka harus meminum obat berikut: 
 
 - Arnica 200
 - Lachesis 200 
@@ -41,14 +43,25 @@ Aturan Pakai:
 #### Keluhan Kedua
 
 Jika seseorang mengalami gejala berikut seperti 
+
 - demam, 
 - sakit kepala, 
 - pegal-pegal, 
-- mual atau gemetaran, maka mereka harus meminum obat berikut: 
+- mual atau gemetaran, 
 
-- Bryonia China Ipecac 30 – Dua atau tiga kali sehari Eupatorium Rhustox
+maka mereka harus meminum obat berikut: 
+
+- Bryonia 30
+- China 30
+- Ipecac 30
+- Eupatorium 30
+- Rhustox 30
+
+Aturan Pakai:
+
+- Dua atau tiga kali sehari 
 
 CATATAN: Instruksi ini bukanlah pengganti dari obat-obatan yang disarankan para dokter. Mohonlah selalu arahan dari dokter anda atau penyedia kesehatan profesional lainnya terkait pertanyaan apapun yang anda miliki mengenai keadaan keseahtan anda. Seandainya terjadi keadaan kesehatan yang serius atau keadaan darurat lainnya, hubungilah selalu dokter anda dan/atau pelayanan gawat darurat yang berwenang. (Hafeez Ahmad Bhatti, Homeopathic Dept. London)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1NjgzNDgyXX0=
+eyJoaXN0b3J5IjpbMTMxMDk1MDIyM119
 -->
