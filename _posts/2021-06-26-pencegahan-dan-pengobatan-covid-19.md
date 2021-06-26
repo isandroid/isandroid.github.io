@@ -29,25 +29,28 @@ Aturan Pakai:
 
 Jika seseorang sudah terinfeksi virus Corona (Covid-19), ia harus tetap mengkonsumsi secara teratur obat Homeopathy untuk pengobatan Covid-19. Sebagai tambahan, bagi orang-orang yang berada di sekitar orang yang terinfeksi Covid 19 (biar pun tidak kontak dengan penderita Covid-19) obat yang dapat diminum adalah:
 
+#### Racikan Pertama
+
 - BACILLINUM 200
 - DIPHTERINUM 200
 - INFLUENZINUM 200
 - OSCILLOCOCCINUM 200
 
 Aturan Pakai:
-- Minggu Pertama, 2 x sehari (Pagi dan Sore) Kemudian 2 x seminggu (setiap 3 hari sekali)
+- Minggu Pertama, 2 x sehari (Pagi dan Sore) 
+- Kemudian 2 x seminggu (setiap 3 hari sekali)
 
-  
-
-
-  
+#### Racikan Kedua
 
 - ARNICA
-- BAPTISIA ARSENIC ALB HEPAR SULPH NAT SULPH
+- BAPTISIA 
+- ARSENIC ALB 
+- HEPAR SULPH 
+- NAT SULPH
 
   
 
-> 2 atau 3x sehari
+2 atau 3x sehari
 
   
 
@@ -91,7 +94,8 @@ Jika seseorang mempunyai keluhan flu ringan, demam dan batuk dapat mengkonsumsi 
 
   
 
-30
+Jin Balikpapan 1/10 Jakarta 10130 Telp: (021) 6321631-6321630, 63868832 Fax (021)-6321640 Jin Raya Parung No. 27 PO BOX 33/SWG-Sawangan 16501, Tlp. (0251) 8614524, Fax: 0251) 8619073 www.ahmadiaal-Email: sekum plzahmadiyya.or.id
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1NTQ0MzMxNCwxNTE4MDA3MzcxXX0=
+eyJoaXN0b3J5IjpbLTExNjg5NDYyOTgsMTUxODAwNzM3MV19
 -->
