@@ -271,8 +271,6 @@ Dalam sejarah tidak bisa dipungkiri bahwa terdapat pencapaian-pencapaian luar bi
 - Huzur menyampaikan pidato bersejarah di Parlemen Eropa di Brussel (4 Desember 2012)
 - Huzur menyampaikan pidato utama di ‘The Conference of World Religions’ yang diadakan di Guildhall, London (11 Februari 2014) [[^khalifah_islam_saat_ini]]
 
-[]
-
 ### Implementasi untuk Taat kepada Khilafat Saat Mengikuti KPA
 
 Beberapa cara kita menerapkan ketaatan kepada khilafat ketika mengikuti KPA diantaranya adalah sebagai berikut:
@@ -337,16 +335,18 @@ Setelah KPA usai, maka kita bisa menerapkannya sebagai berikut,
 
 [^alislam_important_date]: [Alislam.org - Tanggal-tanggal penting](https://www.alislam.org/book/brief-history-ahmadiyya-muslim/important-dates/)
 
+[^khalifah_islam_saat_ini]: [Pustaka Isa - Khalifah Islam Saat Ini](https://pustaka.isa.web.id/2021/04/03/khalifah-islam-saat-ini.html)
+
 <!--
 - kudrat kedua dalam Alwasiyat
 - poin poin pencapaian khalifah 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjg4NTUzMzM5LC04Njk2MTM2MDgsMTU3ND
-gyMDExNywxODM2NzE5OTAxLC0xNTExNjgyMTkxLC0xMTAwOTI1
-MzAwLC05MjU3ODg4NDgsMTk1MTA2MTY5MiwzMTg1NDkxNjksLT
-IwMDczMjk4NjUsMTAwMzI5MjI1OSwyNzM3OTU3MDMsMTM4MjMy
-NzA5Niw4MDg4NTk0MjksLTE3MjIwMDEyNywtNzM3MjU5MTIsMj
-AzODkxNDU2NCwtODc3NTM3NTg1LDE4OTg3NzM0NzYsMTM5OTMw
-NDcwOF19
+eyJoaXN0b3J5IjpbLTc5NzQ2MTk3NywtODY5NjEzNjA4LDE1Nz
+Q4MjAxMTcsMTgzNjcxOTkwMSwtMTUxMTY4MjE5MSwtMTEwMDky
+NTMwMCwtOTI1Nzg4ODQ4LDE5NTEwNjE2OTIsMzE4NTQ5MTY5LC
+0yMDA3MzI5ODY1LDEwMDMyOTIyNTksMjczNzk1NzAzLDEzODIz
+MjcwOTYsODA4ODU5NDI5LC0xNzIyMDAxMjcsLTczNzI1OTEyLD
+IwMzg5MTQ1NjQsLTg3NzUzNzU4NSwxODk4NzczNDc2LDEzOTkz
+MDQ3MDhdfQ==
 -->
