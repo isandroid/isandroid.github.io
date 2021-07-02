@@ -81,11 +81,14 @@ Beberapa jenis khilafat yang diketahui dari Alquran dan Hadits adalah sebagai be
 
 - Khalifatur Rasul sekaligus Khalifah Mamlukiyah (Kerajaan) (contoh: Khulafa-ur-Rosyidin)
 
-Diriwayatkan ada salah seorang sahabat yang memanggil Hadhrat Abu Bakar (ra) dengan khal
+Satu kali ada salah seorang sahabat yang memanggil Hadhrat Abu Bakar (ra) dengan _khalifatullah_ namun beliau (ra) menolak. Diriwayatkan,
 
 <p class="arab">عَنْ ابْنِ أَبِي مُلَيْكَةَ قَالَ قِيلَ لِأَبِي بَكْرٍ رَضِيَ اللَّهُ عَنْهُ يَا خَلِيفَةَ اللَّهِ فَقَالَ أَنَا خَلِيفَةُ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ وَأَنَا رَاضٍ بِهِ وَأَنَا رَاضٍ بِهِ وَأَنَا رَاضٍ</p>
 
-Wahai _khalifatullah_! Ia (Hadhrat Abu Bakar Ash-Shiddiq (ra)) berkata: Saya adalah _khalifaturrasuulillaah_ saw, yakni penerus dari Rasulullah (ﷺ) dan saya rido (dipanggil) dengan itu. ([H.R. Ahmad]
+Wahai _khalifatullah_! Ia (Hadhrat Abu Bakar Ash-Shiddiq (ra)) berkata: Saya adalah _khalifaturrasuulillaah_ saw, yakni penerus dari Rasulullah (ﷺ) dan saya rido (dipanggil) dengan itu. ([H.R. Ahmad] []
+
+[^atr-262db43c-6af3-44b9-9f28-5d580a6c5c84]: [Atsar - Khalifah Abu Bakar Rido bergelar Khalifaturrasuulullah saw
+](/ref/atr-262db43c-6af3-44b9-9f28-5d580a6c5c84)
 
 #### 3. Khalifah Mamlukiyah (Kerajaan)
 
@@ -226,7 +229,7 @@ Setelah KPA usai, maka kita bisa menerapkannya sebagai berikut,
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODc2NzkxNDEsMTgzNjcxOTkwMSwtMT
+eyJoaXN0b3J5IjpbLTE1ODQ3Njc3MTgsMTgzNjcxOTkwMSwtMT
 UxMTY4MjE5MSwtMTEwMDkyNTMwMCwtOTI1Nzg4ODQ4LDE5NTEw
 NjE2OTIsMzE4NTQ5MTY5LC0yMDA3MzI5ODY1LDEwMDMyOTIyNT
 ksMjczNzk1NzAzLDEzODIzMjcwOTYsODA4ODU5NDI5LC0xNzIy
