@@ -131,13 +131,13 @@ Hadhrat Masih Mau'ud (as) menjelaskan bahwa beliau (as) adalah _Kudrat awwal_ da
 
 > Jangan hendaknya hatimu jadi kusut, karena bagimu perlu pula melihat Kudrat yang Kedua. Kedatangannya kepadamu membawa kebaikan bagimu, karena ia selamanya akan tinggal bersama kamu, dan sampai hari kiamat silsilahnya tidak akan berakhir. Kudrat yang Kedua itu tidak dapat datang sebelum aku pergi; akan tetapi bila aku pergi, maka Tuhan akan mengirimkan Kudrat yang Kedua itu kepadamu, yang akan tinggal bersama kamu selama-lamanya; sebagaimana janji Allah Ta’ala dalam “Barāhīn-e-Ahmadiyah”. Dan janji itu bukan untuk aku, melainkan untuk kamu, seperti firman Allah Ta’ala:
 >
-> “Aku akan menjadikan Jemaat ini, [[13](https://pustaka.isa.web.id/buku/al-wasiat.html#fn:17)] yakni pengikut-pengikut engkau menang di atas golongan-golongan lain sampai kiamat.”
+> “Aku akan menjadikan Jemaat ini, yakni pengikut-pengikut engkau menang di atas golongan-golongan lain sampai kiamat.”
+>
+> Oleh karena itu tidaklah dapat dihindari bahwa kamu akan menyaksikan hari perpisahan denganku, sehingga sesudah itu barulah datang Hari yang menjadi Hari Perjanjian yang kekal. Tuhan kita adalah Tuhan yang menepati janji, setia dan benar. Dia akan memperlihatkan kepadamu segala apa yang sudah Dia janjikan. Meskipun masa ini adalah masa akhir dunia, serta banyak bala-bencana yang masih akan terjadi, namun demikian dunia ini akan tetap ada hingga segala hal yang telah dikabarkan Tuhan itu terjadi semuanya. Aku datang dari Tuhan sebagai sebuah penzahiran Kudrat Ilahi dan aku adalah Kudrat Tuhan yang berjasad. Kemudian sesudah aku tiada, akan ada lagi beberapa wujud lain yang akan menjadi mazhar penampakkan Kudrat Kedua.
+>
+> Oleh sebab itu, sambil menanti kedatangan Kudrat Tuhan yang kedua itu, kamu semua hendaklah senantiasa sibuk berdoa. Dan hendaklah tiap Jemaat orang-orang saleh tanpa kecuali, di tiap negeri, senantiasa terus menerus berdoa sehingga mudah-mudahan Kudrat Kedua itu turun dari Langit, dan menzahirkan kepada kamu bahwa Tuhan kamu adalah Tuhan Yang Maha Kuasa. Anggaplah ajalmu telah dekat karena kamu tidak tahu kapan saat itu akan tiba. []
 
-Oleh karena itu tidaklah dapat dihindari bahwa kamu akan menyaksikan hari perpisahan denganku, sehingga sesudah itu barulah datang Hari yang menjadi Hari Perjanjian yang kekal. Tuhan kita adalah Tuhan yang menepati janji, setia dan benar. Dia akan memperlihatkan kepadamu segala apa yang sudah Dia janjikan. Meskipun masa ini adalah masa akhir dunia, serta banyak bala-bencana yang masih akan terjadi, namun demikian dunia ini akan tetap ada hingga segala hal yang telah dikabarkan Tuhan itu terjadi semuanya. Aku datang dari Tuhan sebagai sebuah penzahiran Kudrat Ilahi dan aku adalah Kudrat Tuhan yang berjasad. Kemudian sesudah aku tiada, akan ada lagi beberapa wujud lain yang akan menjadi mazhar penampakkan Kudrat Kedua.
-
-### [](https://pustaka.isa.web.id/buku/al-wasiat.html#halaman-09)halaman-09
-
-Oleh sebab itu, sambil menanti kedatangan Kudrat Tuhan yang kedua itu, kamu semua hendaklah senantiasa sibuk berdoa. Dan hendaklah tiap Jemaat orang-orang saleh tanpa kecuali, di tiap negeri, senantiasa terus menerus berdoa sehingga mudah-mudahan Kudrat Kedua itu turun dari Langit, dan menzahirkan kepada kamu bahwa Tuhan kamu adalah Tuhan Yang Maha Kuasa. Anggaplah ajalmu telah dekat karena kamu tidak tahu kapan saat itu akan tiba.
+[]: [Hadhrat Mirza Ghulam Ahmad (as), Al-Wasiyat, ]
 
 ### Misi yang Diemban Seorang Khalifatul Masih
 
@@ -255,11 +255,11 @@ Setelah KPA usai, maka kita bisa menerapkannya sebagai berikut,
 - poin poin pencapaian khalifah 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyNTQ1Nzk2MCwtODY5NjEzNjA4LDE1Nz
-Q4MjAxMTcsMTgzNjcxOTkwMSwtMTUxMTY4MjE5MSwtMTEwMDky
-NTMwMCwtOTI1Nzg4ODQ4LDE5NTEwNjE2OTIsMzE4NTQ5MTY5LC
-0yMDA3MzI5ODY1LDEwMDMyOTIyNTksMjczNzk1NzAzLDEzODIz
-MjcwOTYsODA4ODU5NDI5LC0xNzIyMDAxMjcsLTczNzI1OTEyLD
-IwMzg5MTQ1NjQsLTg3NzUzNzU4NSwxODk4NzczNDc2LDEzOTkz
-MDQ3MDhdfQ==
+eyJoaXN0b3J5IjpbLTE0NzIwNjE5NDgsLTg2OTYxMzYwOCwxNT
+c0ODIwMTE3LDE4MzY3MTk5MDEsLTE1MTE2ODIxOTEsLTExMDA5
+MjUzMDAsLTkyNTc4ODg0OCwxOTUxMDYxNjkyLDMxODU0OTE2OS
+wtMjAwNzMyOTg2NSwxMDAzMjkyMjU5LDI3Mzc5NTcwMywxMzgy
+MzI3MDk2LDgwODg1OTQyOSwtMTcyMjAwMTI3LC03MzcyNTkxMi
+wyMDM4OTE0NTY0LC04Nzc1Mzc1ODUsMTg5ODc3MzQ3NiwxMzk5
+MzA0NzA4XX0=
 -->
