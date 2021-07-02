@@ -81,6 +81,12 @@ Beberapa jenis khilafat yang diketahui dari Alquran dan Hadits adalah sebagai be
 
 - Khalifatur Rasul sekaligus Khalifah Mamlukiyah (Kerajaan) (contoh: Khulafa-ur-Rosyidin)
 
+Diriwayatkan ada salah seorang sahabat yang memanggil Hadhrat Abu Bakar (ra) dengan khal
+
+<p class="arab">عَنْ ابْنِ أَبِي مُلَيْكَةَ قَالَ قِيلَ لِأَبِي بَكْرٍ رَضِيَ اللَّهُ عَنْهُ يَا خَلِيفَةَ اللَّهِ فَقَالَ أَنَا خَلِيفَةُ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ وَأَنَا رَاضٍ بِهِ وَأَنَا رَاضٍ بِهِ وَأَنَا رَاضٍ</p>
+
+Wahai _khalifatullah_! Ia (Hadhrat Abu Bakar Ash-Shiddiq (ra)) berkata: Saya adalah _khalifaturrasuulillaah_ saw, yakni penerus dari Rasulullah (ﷺ) dan saya rido (dipanggil) dengan itu. ([H.R. Ahmad]
+
 #### 3. Khalifah Mamlukiyah (Kerajaan)
 
 - (Contoh khalifah-khalifah Bani Umayah, Bani Abasiyah, Bani Fatimiyah dll)
@@ -220,11 +226,11 @@ Setelah KPA usai, maka kita bisa menerapkannya sebagai berikut,
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyMTYxNTc4NiwxODM2NzE5OTAxLC0xNT
-ExNjgyMTkxLC0xMTAwOTI1MzAwLC05MjU3ODg4NDgsMTk1MTA2
-MTY5MiwzMTg1NDkxNjksLTIwMDczMjk4NjUsMTAwMzI5MjI1OS
-wyNzM3OTU3MDMsMTM4MjMyNzA5Niw4MDg4NTk0MjksLTE3MjIw
-MDEyNywtNzM3MjU5MTIsMjAzODkxNDU2NCwtODc3NTM3NTg1LD
-E4OTg3NzM0NzYsMTM5OTMwNDcwOCwyMDEwMDcyMDYsLTEzMTEx
-NTA1MDBdfQ==
+eyJoaXN0b3J5IjpbLTEyODc2NzkxNDEsMTgzNjcxOTkwMSwtMT
+UxMTY4MjE5MSwtMTEwMDkyNTMwMCwtOTI1Nzg4ODQ4LDE5NTEw
+NjE2OTIsMzE4NTQ5MTY5LC0yMDA3MzI5ODY1LDEwMDMyOTIyNT
+ksMjczNzk1NzAzLDEzODIzMjcwOTYsODA4ODU5NDI5LC0xNzIy
+MDAxMjcsLTczNzI1OTEyLDIwMzg5MTQ1NjQsLTg3NzUzNzU4NS
+wxODk4NzczNDc2LDEzOTkzMDQ3MDgsMjAxMDA3MjA2LC0xMzEx
+MTUwNTAwXX0=
 -->
