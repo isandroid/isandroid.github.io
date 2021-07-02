@@ -93,7 +93,7 @@ Wahai _khalifatullah_! Ia (Hadhrat Abu Bakar Ash-Shiddiq (ra)) berkata: Saya ada
 
 Apa perbedaan antara khalifah yang mendapatkan bimbingan dengan kerajaan. Ahli sejarah Islam yang terkenal, Muhammad Ibnu Jarir Al Tabari, menuliskan sebuah peristiwa dibawah ini,
 
-“Umar bertanya kepada Salman,” Apakah aku seorang Khalifah atau seorang Raja?” Salman Menjawab, “Jika tuan mengumpulkan pajak dari tanah orang-orang Islam satu Dirham, atau lebih, atau kurang, dan menggunakannya dengan tidak sah, maka tuan adalah seorang Raja bukan Khalifah.” Kemudian Umar menangis.” (_At Tabari_, Tarikh al-Rusul wal Muluk) [[^attabary_tarikh_arrusul_wal_muluk]] [[^berdirinya_khalifah_islam_keruntuhan_dan_kebangkitannya]]
+Umar bertanya kepada Salman, "Apakah aku seorang Khalifah atau seorang Raja?” Salman Menjawab, “Jika tuan mengumpulkan pajak dari tanah orang-orang Islam satu Dirham, atau lebih, atau kurang, dan menggunakannya dengan tidak sah, maka tuan adalah seorang Raja bukan Khalifah.” Kemudian Umar menangis.” (_At Tabari_, Tarikh al-Rusul wal Muluk) [[^attabary_tarikh_arrusul_wal_muluk]] [[^berdirinya_khalifah_islam_keruntuhan_dan_kebangkitannya]]
 
 Hadhrat Khalifatul Masih V (atba) bersabda,
 
@@ -239,11 +239,11 @@ Setelah KPA usai, maka kita bisa menerapkannya sebagai berikut,
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTA5NjM2NDMsMTU3NDgyMDExNywxOD
-M2NzE5OTAxLC0xNTExNjgyMTkxLC0xMTAwOTI1MzAwLC05MjU3
-ODg4NDgsMTk1MTA2MTY5MiwzMTg1NDkxNjksLTIwMDczMjk4Nj
-UsMTAwMzI5MjI1OSwyNzM3OTU3MDMsMTM4MjMyNzA5Niw4MDg4
-NTk0MjksLTE3MjIwMDEyNywtNzM3MjU5MTIsMjAzODkxNDU2NC
-wtODc3NTM3NTg1LDE4OTg3NzM0NzYsMTM5OTMwNDcwOCwyMDEw
-MDcyMDZdfQ==
+eyJoaXN0b3J5IjpbNTI3Njg0MzMyLDE1NzQ4MjAxMTcsMTgzNj
+cxOTkwMSwtMTUxMTY4MjE5MSwtMTEwMDkyNTMwMCwtOTI1Nzg4
+ODQ4LDE5NTEwNjE2OTIsMzE4NTQ5MTY5LC0yMDA3MzI5ODY1LD
+EwMDMyOTIyNTksMjczNzk1NzAzLDEzODIzMjcwOTYsODA4ODU5
+NDI5LC0xNzIyMDAxMjcsLTczNzI1OTEyLDIwMzg5MTQ1NjQsLT
+g3NzUzNzU4NSwxODk4NzczNDc2LDEzOTkzMDQ3MDgsMjAxMDA3
+MjA2XX0=
 -->
