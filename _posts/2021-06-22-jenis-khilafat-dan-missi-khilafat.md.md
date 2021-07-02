@@ -204,15 +204,15 @@ Dalam sejarah tidak bisa dipungkiri bahwa terdapat pencapaian-pencapaian luar bi
 - Pemilihan Khalifat al-Masih Kedua (14 Maret 1914)
 - Pendirian Misi pertama di AS, Chicago (1921)
 - Pembentukan Dewan Penasehat (1922)
-- Pendirian Misi pertama di Berlin Jerman (1923
-- Organisasi Badan _Lajnah Imaillah_ didirikan tahun 1922
-- Perjalanan pertama Khalifat al-Masih ke Eropa 1924
-- Peletakan batu pondasi untuk Masjid Fazl di London 19 Oktober 1924
-- Peresmian Jamia Ahmadiyah 20 Mei 1928
-- Kelahiran Hazrat Khalifat al-Masih Keempat 18 Desember 1928
-- Organisasi Tehrike Jadid didirikan pada 23 November 1934
-- Organisasi Khudam al-Ahmadiyya didirikan tahun 1938
-- Perayaan Jubilee Khilafat (Perak) 1939
+- Pendirian Misi pertama di Berlin Jerman (1923)
+- Organisasi Badan _Lajnah Imaillah_ didirikan tahun (1922)
+- Perjalanan pertama Khalifat al-Masih ke Eropa (1924)
+- Peletakan batu pondasi untuk Masjid Fazl di London (19 Oktober 1924)
+- Peresmian Jamia Ahmadiyah (20 Mei 1928)
+- Kelahiran Hazrat Khalifat al-Masih Keempat (18 Desember 1928)
+- Organisasi Tahrik Jadid didirikan (23 November 1934)
+- Organisasi Khudam al-Ahmadiyya didirikan (1938)
+- Perayaan Jubilee Khilafat (Perak) (1939)
 - Standar Ahmadiyah Dikibarkan 28 Desember 1939
 - Pendirian Organisasi Ansar al-Allah 1940
 - Hijrah dari Qadian menuju Rabwah 1947
@@ -336,11 +336,11 @@ Setelah KPA usai, maka kita bisa menerapkannya sebagai berikut,
 - poin poin pencapaian khalifah 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjg2MTQwMjQ2LC04Njk2MTM2MDgsMTU3ND
-gyMDExNywxODM2NzE5OTAxLC0xNTExNjgyMTkxLC0xMTAwOTI1
-MzAwLC05MjU3ODg4NDgsMTk1MTA2MTY5MiwzMTg1NDkxNjksLT
-IwMDczMjk4NjUsMTAwMzI5MjI1OSwyNzM3OTU3MDMsMTM4MjMy
-NzA5Niw4MDg4NTk0MjksLTE3MjIwMDEyNywtNzM3MjU5MTIsMj
-AzODkxNDU2NCwtODc3NTM3NTg1LDE4OTg3NzM0NzYsMTM5OTMw
-NDcwOF19
+eyJoaXN0b3J5IjpbMjA4MTQxNTgzOCwtODY5NjEzNjA4LDE1Nz
+Q4MjAxMTcsMTgzNjcxOTkwMSwtMTUxMTY4MjE5MSwtMTEwMDky
+NTMwMCwtOTI1Nzg4ODQ4LDE5NTEwNjE2OTIsMzE4NTQ5MTY5LC
+0yMDA3MzI5ODY1LDEwMDMyOTIyNTksMjczNzk1NzAzLDEzODIz
+MjcwOTYsODA4ODU5NDI5LC0xNzIyMDAxMjcsLTczNzI1OTEyLD
+IwMzg5MTQ1NjQsLTg3NzUzNzU4NSwxODk4NzczNDc2LDEzOTkz
+MDQ3MDhdfQ==
 -->
