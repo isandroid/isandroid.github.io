@@ -85,6 +85,8 @@ Beberapa jenis khilafat yang diketahui dari Alquran dan Hadits adalah sebagai be
 
 - (Contoh khalifah-khalifah Bani Umayah, Bani Abasiyah, Bani Fatimiyah dll)
 
+Apa perbedaan antara khalifah yang mendapa
+
 Hadhrat Khalifatul Masih V (atba) bersabda,
 
 > ”Khilafat pasti akan berdiri (senantiasa ada) ditengah orangorang Muslim.” Akan tetapi Dia telah berjanji bersyarat dengan beberapa syarat dan syarat pertama dari itu adalah harus ada kamil ithaa’at (ketaatan yang sempurna). Mata rantai (kesinambungan) Khilafat Rasyidah sebelumnya telah terputus karena umat Muslim telah keluar dari bingkai taat (meninggalkan ketaatan). Orang-orang Muslim menjadi mahrum (terlepas) dari Khilafat hakiki apabila mereka sudah meninggalkan ketaatan. Setelah keluar dari ketaatan, sebagian golongan mulai mengatakan, “Kami mensyaratkan baiat kami dengan sebagian syarat yang di dalamnya sebab yang paling besar adalah tuntutan pembalasan atas kesyahidan Hadhrat Usman” atau karena terpedaya dengan perkatan-perkataan sebagian penyebar fitnah, mereka menjadi orang yang keluar dari ketaatan Sekalipun pada waktu itu para sahabat masih ada. Namun ketika keluar dari ketaatan yang sempurna maka mereka dimahrumkan dari Khilafat (tidak mendapat nikmat berkat Khilafat). Sebab, keputusan untuk menjadikan Khalifah Allah Ta’ala sendiri telah mengambil alih di tangan-Nya maka kemudian sesudah perselisihan-perselisihan, sesudah keluar dari taat semua usaha-usaha mereka menjadi Khalifah dan membuat Khalifah menjadi gagal dan sia-sia. Dan Khilafat mengambil corak monarki (kerajaan) [[^khotbah20110520]] [[^tafsir_ayat_istikhlaf]]
@@ -216,11 +218,11 @@ Setelah KPA usai, maka kita bisa menerapkannya sebagai berikut,
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzNjcxOTkwMSwtMTUxMTY4MjE5MSwtMT
-EwMDkyNTMwMCwtOTI1Nzg4ODQ4LDE5NTEwNjE2OTIsMzE4NTQ5
-MTY5LC0yMDA3MzI5ODY1LDEwMDMyOTIyNTksMjczNzk1NzAzLD
-EzODIzMjcwOTYsODA4ODU5NDI5LC0xNzIyMDAxMjcsLTczNzI1
-OTEyLDIwMzg5MTQ1NjQsLTg3NzUzNzU4NSwxODk4NzczNDc2LD
-EzOTkzMDQ3MDgsMjAxMDA3MjA2LC0xMzExMTUwNTAwLDE2MDY3
-MjIzNTRdfQ==
+eyJoaXN0b3J5IjpbNTcyMjQyNjYzLDE4MzY3MTk5MDEsLTE1MT
+E2ODIxOTEsLTExMDA5MjUzMDAsLTkyNTc4ODg0OCwxOTUxMDYx
+NjkyLDMxODU0OTE2OSwtMjAwNzMyOTg2NSwxMDAzMjkyMjU5LD
+I3Mzc5NTcwMywxMzgyMzI3MDk2LDgwODg1OTQyOSwtMTcyMjAw
+MTI3LC03MzcyNTkxMiwyMDM4OTE0NTY0LC04Nzc1Mzc1ODUsMT
+g5ODc3MzQ3NiwxMzk5MzA0NzA4LDIwMTAwNzIwNiwtMTMxMTE1
+MDUwMF19
 -->
