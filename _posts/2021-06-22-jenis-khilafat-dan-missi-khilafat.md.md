@@ -253,7 +253,6 @@ Dalam sejarah tidak bisa dipungkiri bahwa terdapat pencapaian-pencapaian luar bi
 - Peresmian Masjid Bait ul-Futooh di Morden, Inggris 3 Oktober 2003 [[^alislam_important_date]]
 
 
-
 ### Implementasi untuk Taat kepada Khilafat Saat Mengikuti KPA
 
 Beberapa cara kita menerapkan ketaatan kepada khilafat ketika mengikuti KPA diantaranya adalah sebagai berikut:
@@ -316,16 +315,18 @@ Setelah KPA usai, maka kita bisa menerapkannya sebagai berikut,
 
 [^alwasiyat_h8_9]: [Hadhrat Mirza Ghulam Ahmad (as), Al-Wasiyat, Penerbit: Neratja Press, Cetakan Ke: ke-tiga belas, Tahun Terbit: 2018, hlm 8-9]
 
+[^alislam_important_date]: [Alislam.org - Tanggal-tanggal penting](https://www.alislam.org/book/brief-history-ahmadiyya-muslim/important-dates/)
+
 <!--
 - kudrat kedua dalam Alwasiyat
 - poin poin pencapaian khalifah 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzUyMjc1ODg3LC04Njk2MTM2MDgsMTU3ND
-gyMDExNywxODM2NzE5OTAxLC0xNTExNjgyMTkxLC0xMTAwOTI1
-MzAwLC05MjU3ODg4NDgsMTk1MTA2MTY5MiwzMTg1NDkxNjksLT
-IwMDczMjk4NjUsMTAwMzI5MjI1OSwyNzM3OTU3MDMsMTM4MjMy
-NzA5Niw4MDg4NTk0MjksLTE3MjIwMDEyNywtNzM3MjU5MTIsMj
-AzODkxNDU2NCwtODc3NTM3NTg1LDE4OTg3NzM0NzYsMTM5OTMw
-NDcwOF19
+eyJoaXN0b3J5IjpbMzgwNDA5NDAsLTg2OTYxMzYwOCwxNTc0OD
+IwMTE3LDE4MzY3MTk5MDEsLTE1MTE2ODIxOTEsLTExMDA5MjUz
+MDAsLTkyNTc4ODg0OCwxOTUxMDYxNjkyLDMxODU0OTE2OSwtMj
+AwNzMyOTg2NSwxMDAzMjkyMjU5LDI3Mzc5NTcwMywxMzgyMzI3
+MDk2LDgwODg1OTQyOSwtMTcyMjAwMTI3LC03MzcyNTkxMiwyMD
+M4OTE0NTY0LC04Nzc1Mzc1ODUsMTg5ODc3MzQ3NiwxMzk5MzA0
+NzA4XX0=
 -->
