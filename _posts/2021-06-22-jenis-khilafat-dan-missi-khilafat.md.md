@@ -161,8 +161,6 @@ Huzur V (atba) menjelaskan tentang kewajiban para Ahmadi. Salah satunya adalah m
 >
 > Begitu pula, merupakan kewajiban bagi setiap Ahmadi untuk **senantiasa memiliki hubungan yang kuat dengan Nizam Jemaat serta ikatan kesetiaan dan ketaatan dengan Khilafat** seperti yang telah mereka janjikan pada saat baiat. Dengan karunia Allah, para mubayi' baru, khususnya mereka yang telah menerima da'wa Hadhrat Masih Mau'ud as dengan penuh keyakinan dan pengetahuan yang sempurna, senantiasa merenungkan janji mereka dan juga syarat-syarat baiat. Mereka juga menulis surat kepada saya sehubungan dengan hal ini [[^khotbah20151009]].
 
-[^khotbah20151009]: [Ringkasan Khotbah Jumat Sayyidina Amirul Mu‟minin, Hadhrat Mirza Masrur Ahmad, Khalifatul Masih al-Khaamis ayyadahullaahu Ta'ala binashrihil 'aziiz 9 Oktober 2015 di Masjid Nur, Nunspeet, Holland (Belanda)](https://www.alislam.org/archives/sermons/summary/FSS20151009-ID.pdf)
-
 ### Implementasi untuk Taat kepada Khilafat Saat Mengikuti KPA
 
 Beberapa cara kita menerapkan ketaatan kepada khilafat ketika mengikuti KPA diantaranya adalah sebagai berikut:
@@ -212,15 +210,17 @@ Setelah KPA usai, maka kita bisa menerapkannya sebagai berikut,
 [^baiat]: [Pustaka Isa - Baiat](/islam/baiat.html)
 
 [^khotbah20210528]: Ringkasan Khotbah Jumat Sayyidina Amirul Mu’minin, Hadhrat Mirza Masroor Ahmad, Khalifatul Masih al-Khaamis (ayyadahullaahu Ta’ala binashrihil ‘aziiz) pada 28 Mei 2021 (Hijrah 1400 Hijriyah Syamsiyah/Syawal 1442 Hijriyah Qamariyah) di Masjid Mubarak, Tilford dalam [Bahasa Indonesia](https://pustaka.isa.web.id/2021/06/04/khilafat-mengubah-takut-menjadi-damai.html) dan [Bahasa Inggris](https://www.alislam.org/friday-sermon/2021-05-28.html)
+
+[^khotbah20151009]: [Ringkasan Khotbah Jumat Sayyidina Amirul Mu‟minin, Hadhrat Mirza Masrur Ahmad, Khalifatul Masih al-Khaamis ayyadahullaahu Ta'ala binashrihil 'aziiz 9 Oktober 2015 di Masjid Nur, Nunspeet, Holland (Belanda)](https://www.alislam.org/archives/sermons/summary/FSS20151009-ID.pdf)
 <!--
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4ODY2MTMxMjQsLTE1MTE2ODIxOTEsLT
-ExMDA5MjUzMDAsLTkyNTc4ODg0OCwxOTUxMDYxNjkyLDMxODU0
-OTE2OSwtMjAwNzMyOTg2NSwxMDAzMjkyMjU5LDI3Mzc5NTcwMy
-wxMzgyMzI3MDk2LDgwODg1OTQyOSwtMTcyMjAwMTI3LC03Mzcy
-NTkxMiwyMDM4OTE0NTY0LC04Nzc1Mzc1ODUsMTg5ODc3MzQ3Ni
-wxMzk5MzA0NzA4LDIwMTAwNzIwNiwtMTMxMTE1MDUwMCwxNjA2
-NzIyMzU0XX0=
+eyJoaXN0b3J5IjpbMTk4OTU2NzIwLC0xNTExNjgyMTkxLC0xMT
+AwOTI1MzAwLC05MjU3ODg4NDgsMTk1MTA2MTY5MiwzMTg1NDkx
+NjksLTIwMDczMjk4NjUsMTAwMzI5MjI1OSwyNzM3OTU3MDMsMT
+M4MjMyNzA5Niw4MDg4NTk0MjksLTE3MjIwMDEyNywtNzM3MjU5
+MTIsMjAzODkxNDU2NCwtODc3NTM3NTg1LDE4OTg3NzM0NzYsMT
+M5OTMwNDcwOCwyMDEwMDcyMDYsLTEzMTExNTA1MDAsMTYwNjcy
+MjM1NF19
 -->
