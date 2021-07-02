@@ -91,9 +91,9 @@ Wahai _khalifatullah_! Ia (Hadhrat Abu Bakar Ash-Shiddiq (ra)) berkata: Saya ada
 
 - (Contoh khalifah-khalifah Bani Umayah, Bani Abasiyah, Bani Fatimiyah dll)
 
-Apa perbedaan antara khalifah yang mendapatkan bimbingan dengan kerajaan. Hadhrat Umar bin Khottob (ra) pernah menyampaikan,
+Apa perbedaan antara khalifah yang mendapatkan bimbingan dengan kerajaan. Ahli sejarah Islam yang terkenal, Muhammad Ibnu Jarir Al Tabari, menuliskan sebuah peristiwa dibawah ini,
 
-
+“Umar bertanya kepada Salman,” Apakah aku seorang Khalifah atau seorang Raja?” Salman Menjawab, “Jika tuan mengumpulkan pajak dari tanah orang-orang Islam satu Dirham, atau lebih, atau kurang, dan menggunakannya dengan tidak sah, maka tuan adalah seorang Raja bukan Khalifah.” Kemudian Umar menangis.” (_At Tabari_, Tarikh al-Rusul wal Muluk)
 
 Hadhrat Khalifatul Masih V (atba) bersabda,
 
@@ -229,11 +229,11 @@ Setelah KPA usai, maka kita bisa menerapkannya sebagai berikut,
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQ0MzEyNjQ3LDE4MzY3MTk5MDEsLTE1MT
-E2ODIxOTEsLTExMDA5MjUzMDAsLTkyNTc4ODg0OCwxOTUxMDYx
-NjkyLDMxODU0OTE2OSwtMjAwNzMyOTg2NSwxMDAzMjkyMjU5LD
-I3Mzc5NTcwMywxMzgyMzI3MDk2LDgwODg1OTQyOSwtMTcyMjAw
-MTI3LC03MzcyNTkxMiwyMDM4OTE0NTY0LC04Nzc1Mzc1ODUsMT
-g5ODc3MzQ3NiwxMzk5MzA0NzA4LDIwMTAwNzIwNiwtMTMxMTE1
-MDUwMF19
+eyJoaXN0b3J5IjpbLTU0OTc1NjY2MSwxODM2NzE5OTAxLC0xNT
+ExNjgyMTkxLC0xMTAwOTI1MzAwLC05MjU3ODg4NDgsMTk1MTA2
+MTY5MiwzMTg1NDkxNjksLTIwMDczMjk4NjUsMTAwMzI5MjI1OS
+wyNzM3OTU3MDMsMTM4MjMyNzA5Niw4MDg4NTk0MjksLTE3MjIw
+MDEyNywtNzM3MjU5MTIsMjAzODkxNDU2NCwtODc3NTM3NTg1LD
+E4OTg3NzM0NzYsMTM5OTMwNDcwOCwyMDEwMDcyMDYsLTEzMTEx
+NTA1MDBdfQ==
 -->
