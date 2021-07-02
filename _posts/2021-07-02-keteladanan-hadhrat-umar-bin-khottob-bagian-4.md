@@ -46,6 +46,20 @@ Hadhrat ‘Umar (ra) bertanya berapa usia anak itu. Ketika wanita itu memberi ta
 Keengganan untuk bersikap Malas: riwayat seorang tua yang merasa dekat waktu kematian namun tetap dimotivasi berbuat yang bermanfaat yaitu menanam pohon 
 
 Hadhrat Masih Mau'ud (as) mengutip sebuah riwayat yang menyatakan bahwa suatu kali, Hadhrat ‘Umar (ra) bertanya kepada seorang pria mengapa dia tidak lagi menanam pohon di tanahnya. Pria itu mengatakan bahwa dia tidak lagi melakukannya karena dia semakin tua. Hadhrat ‘Umar (ra) mengatakan bahwa ini bukan alasan, dan kemudian membantu orang itu sendiri dalam menanam pohon. Hadhrat Masih Mau'ud as mengutip kejadian ini untuk menunjukkan bahwa seseorang tidak boleh malas. Demikian pula, seseorang seharusnya tidak hanya mengambil manfaat dari buah yang ditanam oleh generasi sebelumnya, tetapi juga harus meninggalkan sesuatu untuk generasi berikutnya.
+
+### Khalifah ‘Umar (ra) bersama istri Mengkhidmati Perempuan yang melahirkan 
+
+Suatu ketika, Hadhrat ‘Umar (ra) melewati sebuah tenda di mana seorang wanita dapat didengar melalui rasa sakit saat melahirkan. Hadhrat ‘Umar (ra) kemudian bergegas pulang, dan memberitahu istrinya, Hadhrat Umm Kulthoom binti Ali (ra) situasinya. Hadhrat ‘Umar (ra) mengambil beberapa makanan dan Hadhrat Umm Kulthoom (ra) mengambil bahan-bahan yang diperlukan, dan mereka berdua pergi ke tenda. Hadhrat Umm Kulthoom (ra) pergi ke tenda untuk membantu wanita itu, dan Hadhrat ‘Umar (ra) duduk di luar bersama suaminya, yang tidak mengenalinya. Wanita itu melahirkan seorang putra. Kemudian ketika pria itu menyadari siapa yang duduk di sebelahnya, dia merasa malu. Hadhrat ‘Umar (ra) mengatakan kepadanya bahwa itu tidak masalah, dan memberinya sejumlah uang untuk membantu dia dan keluarganya.
+
+### Perhatian Hadhrat ‘Umar (ra) untuk Keberhasilan Islam dan motivasi pada pria Muslim yang putus asa di tengah masa kemenangan Islam 
+
+Suatu ketika Hadhrat ‘Umar (ra) melihat seorang pria yang berjalan dengan kepala tertunduk. Hadhrat ‘Umar (ra) mengatakan kepadanya bahwa zaman itu adalah era kemenangan bagiIslam. Kesulitan kecil apa pun seharusnya tidak membuat seseorang putus asa, tetapi orang harus melihat semua kemenangan besar yang telah diberikan kepada Islam.
+
+### Kutipan dari Khalifatul Masih Kedua (ra) 
+
+Khalifah Kedua (ra) mengutip contoh ini setelah migrasi dari Qadian ke Rabwah untuk menunjukkan bahwa seseorang tidak boleh putus asa atas kesulitan, melainkan orang harus mempertimbangkan alasan mengapa kesulitan itu dialami.
+
+Kutipan dari Khalifatul Masih Kedua (ra) mengenai bagaimana Khalifah ‘Umar (ra) menegakkan Hukum Kesetaraan dalam umat Islam Khalifah Kedua (ra) mengutip contoh lain dari Hadhrat ‘Umar (ra) di mana beliau harus menanggung kesulitan, tetapi tidak peduli karena itu demi Islam. Alkisah, ada seorang kepala suku yang sangat kaya bernama Jabalah yang dulunya adalah seorang pemimpin suku Kristen yang kemudian menjadi Muslim. Suatu ketika, dia pergi haji, ketika seorang Muslim bertelanjang kaki secara tidak sengaja menginjak ujung pakaian Jabalah. Setelah ini, Jabalah berbalik dan menampar pria itu bertanya apakah dia tahu siapa dia. Seorang pria Muslim lain berbicara dan mengatakan bahwa dia telah memasuki agama Islam, di mana tidak ada perbedaan antara orang kaya dan orang miskin. Jabalah mengatakan bahwa dia tidak peduli dengan hal ini.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzNjM5NTQyM119
+eyJoaXN0b3J5IjpbLTE3NTY2Njc1NzNdfQ==
 -->
