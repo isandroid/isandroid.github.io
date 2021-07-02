@@ -194,17 +194,17 @@ Dalam sejarah tidak bisa dipungkiri bahwa terdapat pencapaian-pencapaian luar bi
 
 #### Khalifatul Masih Awwal (ra)
 
-- Berdirinya Khilafah Ahmadiyah 27 Mei 1908
-- Kelahiran Khalifat al-Masih Ketiga 16 November 1909
-- Penerbitan surat kabar Al-Fazal dimulai 19 Juni 1913
-- Wafatnya Khalifah Pertama 13 Maret 1914
+- Berdirinya Khilafah Ahmadiyah (27 Mei 1908)
+- Kelahiran Khalifat al-Masih Ketiga (16 November 1909)
+- Penerbitan surat kabar Al-Fazal dimulai (19 Juni 1913)
+- Wafatnya Khalifah Pertama (13 Maret 1914)
 
 #### Khalifatul Masih Ats-Tsani (ra)
 
-- Pemilihan Khalifat al-Masih Kedua 14 Maret 1914
-- Pendirian Misi pertama di AS 1921, Chicago
-- Pembentukan Dewan Penasehat 1922
-- Pendirian Misi pertama di Jerman 1923 Berlin
+- Pemilihan Khalifat al-Masih Kedua (14 Maret 1914)
+- Pendirian Misi pertama di AS, Chicago (1921)
+- Pembentukan Dewan Penasehat (1922)
+- Pendirian Misi pertama di Berlin Jerman (1923
 - Organisasi Badan _Lajnah Imaillah_ didirikan tahun 1922
 - Perjalanan pertama Khalifat al-Masih ke Eropa 1924
 - Peletakan batu pondasi untuk Masjid Fazl di London 19 Oktober 1924
@@ -258,7 +258,7 @@ Dalam sejarah tidak bisa dipungkiri bahwa terdapat pencapaian-pencapaian luar bi
 - Batu fondasi diletakkan untuk masjid baru Inggris, Morden 19 Oktober 1999
 - Upacara Yubileum Emas sekolah menengah, Ghana 30 Januari 2000
 - Kunjungan pertama Hudhur ke Indonesia 19 Juni 2000
-- Konferensi Messiah 2000, Sion, AS 12 Agustus 2000
+- Konferensi Al-Masih 2000, Sion, AS 12 Agustus 2000
 - Wafatnya Khalifah Keempat 19 April 2003
 
 #### Khalifatul Masih Al-Khomis (atba)
@@ -336,11 +336,11 @@ Setelah KPA usai, maka kita bisa menerapkannya sebagai berikut,
 - poin poin pencapaian khalifah 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4ODQ5MTYwODcsLTg2OTYxMzYwOCwxNT
-c0ODIwMTE3LDE4MzY3MTk5MDEsLTE1MTE2ODIxOTEsLTExMDA5
-MjUzMDAsLTkyNTc4ODg0OCwxOTUxMDYxNjkyLDMxODU0OTE2OS
-wtMjAwNzMyOTg2NSwxMDAzMjkyMjU5LDI3Mzc5NTcwMywxMzgy
-MzI3MDk2LDgwODg1OTQyOSwtMTcyMjAwMTI3LC03MzcyNTkxMi
-wyMDM4OTE0NTY0LC04Nzc1Mzc1ODUsMTg5ODc3MzQ3NiwxMzk5
-MzA0NzA4XX0=
+eyJoaXN0b3J5IjpbMjg2MTQwMjQ2LC04Njk2MTM2MDgsMTU3ND
+gyMDExNywxODM2NzE5OTAxLC0xNTExNjgyMTkxLC0xMTAwOTI1
+MzAwLC05MjU3ODg4NDgsMTk1MTA2MTY5MiwzMTg1NDkxNjksLT
+IwMDczMjk4NjUsMTAwMzI5MjI1OSwyNzM3OTU3MDMsMTM4MjMy
+NzA5Niw4MDg4NTk0MjksLTE3MjIwMDEyNywtNzM3MjU5MTIsMj
+AzODkxNDU2NCwtODc3NTM3NTg1LDE4OTg3NzM0NzYsMTM5OTMw
+NDcwOF19
 -->
