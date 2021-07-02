@@ -59,7 +59,13 @@ Suatu ketika Hadhrat ‘Umar (ra) melihat seorang pria yang berjalan dengan kepa
 
 Khalifah Kedua (ra) mengutip contoh ini setelah migrasi dari Qadian ke Rabwah untuk menunjukkan bahwa seseorang tidak boleh putus asa atas kesulitan, melainkan orang harus mempertimbangkan alasan mengapa kesulitan itu dialami.
 
-Kutipan dari Khalifatul Masih Kedua (ra) mengenai bagaimana Khalifah ‘Umar (ra) menegakkan Hukum Kesetaraan dalam umat Islam Khalifah Kedua (ra) mengutip contoh lain dari Hadhrat ‘Umar (ra) di mana beliau harus menanggung kesulitan, tetapi tidak peduli karena itu demi Islam. Alkisah, ada seorang kepala suku yang sangat kaya bernama Jabalah yang dulunya adalah seorang pemimpin suku Kristen yang kemudian menjadi Muslim. Suatu ketika, dia pergi haji, ketika seorang Muslim bertelanjang kaki secara tidak sengaja menginjak ujung pakaian Jabalah. Setelah ini, Jabalah berbalik dan menampar pria itu bertanya apakah dia tahu siapa dia. Seorang pria Muslim lain berbicara dan mengatakan bahwa dia telah memasuki agama Islam, di mana tidak ada perbedaan antara orang kaya dan orang miskin. Jabalah mengatakan bahwa dia tidak peduli dengan hal ini.
+### Kutipan dari Khalifatul Masih Kedua (ra) mengenai bagaimana Khalifah ‘Umar (ra) menegakkan Hukum Kesetaraan dalam umat Islam 
+
+Khalifah Kedua (ra) mengutip contoh lain dari Hadhrat ‘Umar (ra) di mana beliau harus menanggung kesulitan, tetapi tidak peduli karena itu demi Islam. Alkisah, ada seorang kepala suku yang sangat kaya bernama Jabalah yang dulunya adalah seorang pemimpin suku Kristen yang kemudian menjadi Muslim. Suatu ketika, dia pergi haji, ketika seorang Muslim bertelanjang kaki secara tidak sengaja menginjak ujung pakaian Jabalah. Setelah ini, Jabalah berbalik dan menampar pria itu bertanya apakah dia tahu siapa dia. Seorang pria Muslim lain berbicara dan mengatakan bahwa dia telah memasuki agama Islam, di mana tidak ada perbedaan antara orang kaya dan orang miskin. Jabalah mengatakan bahwa dia tidak peduli dengan hal ini.
+
+Pria Muslim itu berkata bahwa jika Hadhrat ‘Umar (ra) mengetahui hal ini, dia tidak akan menerima hal ini. Jabalah kemudian pergi ke Hadhrat ‘Umar (ra) dan bertanya apa yang akan beliau lakukan jika orang terkemuka menampar orang biasa. Hadhrat ‘Umar (ra) mengatakan bahwa dia akan meminta orang biasa itu untuk menampar kepalanya, karena Islam tidak membedakan antara yang terkemuka dan yang biasa. Ini adalah kesetaraan yang ditetapkan oleh Islam. Mengetahui hal ini, Jabalah beberapa waktu kemudian keluar dari Islam dan berpihak kepada bangsa Romawi yang Kristen dan tengah memerangi umat Islam. 
+
+Hudhur ayyadahullaahu Ta’ala mengatakan bahwa beliau akan terus menyoroti kehidupan Hadhrat ‘Umar (ra) dalam khotbah-khotbah mendatang.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTY2Njc1NzNdfQ==
+eyJoaXN0b3J5IjpbMjUzMTUyMTI0XX0=
 -->
