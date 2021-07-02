@@ -254,18 +254,17 @@ Dalam sejarah tidak bisa dipungkiri bahwa terdapat pencapaian-pencapaian luar bi
 - Baiat Internasional Pertama (Juli 1993)
 - Perayaan Nubuatan Gerhana (1994)
 - Peresmian Masjid Bait al-Rahman di Amerika Serikat (14 Oktober 1994)
-- Perayaan seratus tahun Ajaran Islam (1996
-- Batu fondasi diletakkan untuk masjid baru Inggris, Morden 19 Oktober 1999
-- Upacara Yubileum Emas sekolah menengah, Ghana 30 Januari 2000
-- Kunjungan pertama Hudhur ke Indonesia 19 Juni 2000
-- Konferensi Al-Masih 2000, Sion, AS 12 Agustus 2000
-- Wafatnya Khalifah Keempat 19 April 2003
+- Peletakan Batu fondasi untuk masjid di Morden, UK (19 Oktober 1999)
+- Upacara Yubileum Emas sekolah menengah, Ghana (30 Januari 2000)
+- Kunjungan pertama Hudhur ke Indonesia (19 Juni 2000)
+- Konferensi Al-Masih 2000, Sion, AS (12 Agustus 2000)
+- Wafatnya Khalifah Keempat (19 April 2003)
 
 #### Khalifatul Masih Al-Khomis (atba)
 
-- Pemilihan Khalifah Kelima 22 April 2003
-- Peresmian Masjid Bait ul-Futooh di Morden, Inggris 3 Oktober 2003 [[^alislam_important_date]]
-
+- Pemilihan Khalifah Kelima (22 April 2003)
+- Peresmian Masjid Bait ul-Futooh di Morden, Inggris (3 Oktober 2003) [[^alislam_important_date]]
+- 
 
 ### Implementasi untuk Taat kepada Khilafat Saat Mengikuti KPA
 
@@ -336,11 +335,11 @@ Setelah KPA usai, maka kita bisa menerapkannya sebagai berikut,
 - poin poin pencapaian khalifah 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1MzMwMDI1LC04Njk2MTM2MDgsMTU3ND
-gyMDExNywxODM2NzE5OTAxLC0xNTExNjgyMTkxLC0xMTAwOTI1
-MzAwLC05MjU3ODg4NDgsMTk1MTA2MTY5MiwzMTg1NDkxNjksLT
-IwMDczMjk4NjUsMTAwMzI5MjI1OSwyNzM3OTU3MDMsMTM4MjMy
-NzA5Niw4MDg4NTk0MjksLTE3MjIwMDEyNywtNzM3MjU5MTIsMj
-AzODkxNDU2NCwtODc3NTM3NTg1LDE4OTg3NzM0NzYsMTM5OTMw
-NDcwOF19
+eyJoaXN0b3J5IjpbLTU1MDUwNTg3NSwtODY5NjEzNjA4LDE1Nz
+Q4MjAxMTcsMTgzNjcxOTkwMSwtMTUxMTY4MjE5MSwtMTEwMDky
+NTMwMCwtOTI1Nzg4ODQ4LDE5NTEwNjE2OTIsMzE4NTQ5MTY5LC
+0yMDA3MzI5ODY1LDEwMDMyOTIyNTksMjczNzk1NzAzLDEzODIz
+MjcwOTYsODA4ODU5NDI5LC0xNzIyMDAxMjcsLTczNzI1OTEyLD
+IwMzg5MTQ1NjQsLTg3NzUzNzU4NSwxODk4NzczNDc2LDEzOTkz
+MDQ3MDhdfQ==
 -->
