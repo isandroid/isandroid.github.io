@@ -199,7 +199,7 @@ Dalam sejarah tidak bisa dipungkiri bahwa terdapat pencapaian-pencapaian luar bi
 - Penerbitan surat kabar Al-Fazal dimulai 19 Juni 1913
 - Wafatnya Khalifah Pertama 13 Maret 1914
 
-#### Khalifatul Masih Tsani (ra)
+#### Khalifatul Masih Ats-Tsani (ra)
 
 - Pemilihan Khalifat al-Masih Kedua 14 Maret 1914
 - Pendirian Misi pertama di AS 1921, Chicago
@@ -225,7 +225,7 @@ Dalam sejarah tidak bisa dipungkiri bahwa terdapat pencapaian-pencapaian luar bi
 - Pembangunan Masjid Mahmud di Zürich 1962
 - Wafatnya Khalifah Kedua 8 November 1965
 
-#### Khalifatul Masih Tsalits (rh)
+#### Khalifatul Masih Ats-Tsalits (rh)
 
 - Pemilihan Khalifah Ketiga 8 November 1965
 - Jamia Ahmadiyah didirikan di Ghana Maret 1966
@@ -240,7 +240,7 @@ Dalam sejarah tidak bisa dipungkiri bahwa terdapat pencapaian-pencapaian luar bi
 - Jamia Ahmadiyah berdiri di Indonesia tahun 1982
 - Wafatnya Khalifah Ketiga 8 Juni 1982
 
-#### Khalifatul Masih Tsalits (rh)
+#### Khalifatul Masih Ar-Rabi' (rh)
 
 - Pemilihan Khalifah Keempat 9 Juni 1982
 - Peresmian masjid pertama di Spanyol 10 September 1982
@@ -260,6 +260,9 @@ Dalam sejarah tidak bisa dipungkiri bahwa terdapat pencapaian-pencapaian luar bi
 - Kunjungan pertama Hudhur ke Indonesia 19 Juni 2000
 - Konferensi Messiah 2000, Sion, AS 12 Agustus 2000
 - Wafatnya Khalifah Keempat 19 April 2003
+
+#### Khalifatul Masih Al-Khomis (atba)
+
 - Pemilihan Khalifah Kelima 22 April 2003
 - Peresmian Masjid Bait ul-Futooh di Morden, Inggris 3 Oktober 2003 [[^alislam_important_date]]
 
@@ -333,11 +336,11 @@ Setelah KPA usai, maka kita bisa menerapkannya sebagai berikut,
 - poin poin pencapaian khalifah 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQ0NDE1MTcsLTg2OTYxMzYwOCwxNTc0OD
-IwMTE3LDE4MzY3MTk5MDEsLTE1MTE2ODIxOTEsLTExMDA5MjUz
-MDAsLTkyNTc4ODg0OCwxOTUxMDYxNjkyLDMxODU0OTE2OSwtMj
-AwNzMyOTg2NSwxMDAzMjkyMjU5LDI3Mzc5NTcwMywxMzgyMzI3
-MDk2LDgwODg1OTQyOSwtMTcyMjAwMTI3LC03MzcyNTkxMiwyMD
-M4OTE0NTY0LC04Nzc1Mzc1ODUsMTg5ODc3MzQ3NiwxMzk5MzA0
-NzA4XX0=
+eyJoaXN0b3J5IjpbLTE4ODQ5MTYwODcsLTg2OTYxMzYwOCwxNT
+c0ODIwMTE3LDE4MzY3MTk5MDEsLTE1MTE2ODIxOTEsLTExMDA5
+MjUzMDAsLTkyNTc4ODg0OCwxOTUxMDYxNjkyLDMxODU0OTE2OS
+wtMjAwNzMyOTg2NSwxMDAzMjkyMjU5LDI3Mzc5NTcwMywxMzgy
+MzI3MDk2LDgwODg1OTQyOSwtMTcyMjAwMTI3LC03MzcyNTkxMi
+wyMDM4OTE0NTY0LC04Nzc1Mzc1ODUsMTg5ODc3MzQ3NiwxMzk5
+MzA0NzA4XX0=
 -->
