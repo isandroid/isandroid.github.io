@@ -213,10 +213,10 @@ dan janji-Nya dibuat untuk Hadhrat Masih Mau’ud (as).
 
 ### Kemajuan yang dibuat di Bawah Kepemimpinan Khilafat
 
-Hudhur ayyadahuLlahu ta’ala menyatakan bahwa Jemaat berkembang pesat. Terjemahan AlQur'an dalam berbagai bahasa disebarkan ke seluruh dunia. MTA dimulai hanya dengan satu saluran, 
+Hudhur ayyadahuLlahu ta’ala menyatakan bahwa Jemaat berkembang pesat. Terjemahan Al Qur'an dalam berbagai bahasa disebarkan ke seluruh dunia. MTA dimulai hanya dengan satu saluran, 
 dan sekarang ada delapan saluran dan studio yang didirikan di seluruh dunia. Pesan Jemaat juga 
 disebarkan melalui Media Sosial. Jalan baru yang sedang dibuka, seperti Mulaqat Virtual, dimana 
-Khalifatul Masih yang berada di Inggris bertemu dengan orang-orang dari seluruh dunia dan orangorang dapat menerima bimbingan langsung dari Khalifah mereka.
+Khalifatul Masih yang berada di Inggris bertemu dengan orang-orang dari seluruh dunia dan orang-orang dapat menerima bimbingan langsung dari Khalifah mereka.
 
 Hudhur ayyadahuLlahu ta’ala menyatakan bahwa karunia Tuhan yang berhubungan dengan 
 Khilafat tidak terhitung banyaknya. Namun, jika kita ingin mendapatkan kesepakatan, maka kita harus 
@@ -244,6 +244,6 @@ Muhammad (saw) di seluruh dunia. Semoga kita melihat Keesaan Tuhan didirikan di 
 
 ### Catatan Kaki
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4ODEwMTc4MDcsMjk5NDg0NTQ1LDExMj
-Y1NTczMzEsMTM3OTQ1OTQ3OV19
+eyJoaXN0b3J5IjpbLTIxMzg3MjQ4NCwtMTg4MTAxNzgwNywyOT
+k0ODQ1NDUsMTEyNjU1NzMzMSwxMzc5NDU5NDc5XX0=
 -->
