@@ -85,10 +85,7 @@ Satu kali ada salah seorang sahabat yang memanggil Hadhrat Abu Bakar (ra) dengan
 
 <p class="arab">عَنْ ابْنِ أَبِي مُلَيْكَةَ قَالَ قِيلَ لِأَبِي بَكْرٍ رَضِيَ اللَّهُ عَنْهُ يَا خَلِيفَةَ اللَّهِ فَقَالَ أَنَا خَلِيفَةُ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ وَأَنَا رَاضٍ بِهِ وَأَنَا رَاضٍ بِهِ وَأَنَا رَاضٍ</p>
 
-Wahai _khalifatullah_! Ia (Hadhrat Abu Bakar Ash-Shiddiq (ra)) berkata: Saya adalah _khalifaturrasuulillaah_ saw, yakni penerus dari Rasulullah (ﷺ) dan saya rido (dipanggil) dengan itu. ([H.R. Ahmad] []
-
-[^atr-262db43c-6af3-44b9-9f28-5d580a6c5c84]: [Atsar - Khalifah Abu Bakar Rido bergelar Khalifaturrasuulullah saw
-](/ref/atr-262db43c-6af3-44b9-9f28-5d580a6c5c84)
+Wahai _khalifatullah_! Ia (Hadhrat Abu Bakar Ash-Shiddiq (ra)) berkata: Saya adalah _khalifaturrasuulillaah_ saw, yakni penerus dari Rasulullah (ﷺ) dan saya rido (dipanggil) dengan itu. ([H.R. Ahmad] [[^atr-262db43c-6af3-44b9-9f28-5d580a6c5c84]]
 
 #### 3. Khalifah Mamlukiyah (Kerajaan)
 
@@ -225,15 +222,18 @@ Setelah KPA usai, maka kita bisa menerapkannya sebagai berikut,
 [^khotbah20210528]: Ringkasan Khotbah Jumat Sayyidina Amirul Mu’minin, Hadhrat Mirza Masroor Ahmad, Khalifatul Masih al-Khaamis (ayyadahullaahu Ta’ala binashrihil ‘aziiz) pada 28 Mei 2021 (Hijrah 1400 Hijriyah Syamsiyah/Syawal 1442 Hijriyah Qamariyah) di Masjid Mubarak, Tilford dalam [Bahasa Indonesia](https://pustaka.isa.web.id/2021/06/04/khilafat-mengubah-takut-menjadi-damai.html) dan [Bahasa Inggris](https://www.alislam.org/friday-sermon/2021-05-28.html)
 
 [^khotbah20151009]: [Ringkasan Khotbah Jumat Sayyidina Amirul Mu‟minin, Hadhrat Mirza Masrur Ahmad, Khalifatul Masih al-Khaamis ayyadahullaahu Ta'ala binashrihil 'aziiz 9 Oktober 2015 di Masjid Nur, Nunspeet, Holland (Belanda)](https://www.alislam.org/archives/sermons/summary/FSS20151009-ID.pdf)
+
+[^atr-262db43c-6af3-44b9-9f28-5d580a6c5c84]: [Atsar - Khalifah Abu Bakar Rido bergelar Khalifaturrasuulullah (saw)](/ref/atr-262db43c-6af3-44b9-9f28-5d580a6c5c84)
+
 <!--
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODQ3Njc3MTgsMTgzNjcxOTkwMSwtMT
-UxMTY4MjE5MSwtMTEwMDkyNTMwMCwtOTI1Nzg4ODQ4LDE5NTEw
-NjE2OTIsMzE4NTQ5MTY5LC0yMDA3MzI5ODY1LDEwMDMyOTIyNT
-ksMjczNzk1NzAzLDEzODIzMjcwOTYsODA4ODU5NDI5LC0xNzIy
-MDAxMjcsLTczNzI1OTEyLDIwMzg5MTQ1NjQsLTg3NzUzNzU4NS
-wxODk4NzczNDc2LDEzOTkzMDQ3MDgsMjAxMDA3MjA2LC0xMzEx
-MTUwNTAwXX0=
+eyJoaXN0b3J5IjpbNjQ0MzEyNjQ3LDE4MzY3MTk5MDEsLTE1MT
+E2ODIxOTEsLTExMDA5MjUzMDAsLTkyNTc4ODg0OCwxOTUxMDYx
+NjkyLDMxODU0OTE2OSwtMjAwNzMyOTg2NSwxMDAzMjkyMjU5LD
+I3Mzc5NTcwMywxMzgyMzI3MDk2LDgwODg1OTQyOSwtMTcyMjAw
+MTI3LC03MzcyNTkxMiwyMDM4OTE0NTY0LC04Nzc1Mzc1ODUsMT
+g5ODc3MzQ3NiwxMzk5MzA0NzA4LDIwMTAwNzIwNiwtMTMxMTE1
+MDUwMF19
 -->
