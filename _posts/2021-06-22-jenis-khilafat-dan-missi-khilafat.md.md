@@ -23,6 +23,8 @@ Hadhrat Khalifatul Masih IV (r.h) menjelaskan mengenai ayat ini,
 
 Ayat ini disebut ayat “istikhlaf”. Di dalamnya hal ini dijelaskan, bahwa sebagaimana Allah Swt selalu menjadikan khalifah-khalifah sesudah kewafatan nabi dimasa lalu, sesudah kewafatan Rasulullah Saw pun hal ini akan terus berlangsung. Khilafat itu mengambil cahaya dari nabi dan menyebarkannya. Setiap kali seorang Khalifah akan wafat, Jemaat diliputi perasaan takut, yang dengan karunia-Nya, berkat Khilafat akan merubahnya menjadi perasaan aman. Maka tanda kebenaran Khilafat ialah ia merubah rasa tidak aman menjadi rasa aman. Inilah yang disabdakan oleh Hadhrat Masih Mau’ud As di buku ‘Al-Wasiyat’, bahwa sesudah wafatnya seorang nabi atau Khalifah, untuk sementara waktu Jemaat akan merasakan bahwa sekarang musuh akan memadamkan cahaya kenabian itu. Tapi di ayat istikhlaf ini ada janji yang qath‘i, bahwa setiap kali musuh akan gagal. Tujuan kenabian adalah tegaknya tauhid di dunia. Ini juga tanda kebenaran Khilafat, bahwa tujuan akhirnya adalah tegaknya tauhid [].
 
+[Ayat Istikhlaf](
+
 ### Pengertian Khilafat dan Khalifah
 
 Dalam bahasa arab, **Khilafat** dan **Khalifah** memiliki akar kata yang sama, yaitu kata "*kho-la-fa*" yang artinya menggantikan, mengangkat, mengikuti dan mengambil tempat [[^fn-kata-kholafa]].
@@ -216,7 +218,7 @@ Setelah KPA usai, maka kita bisa menerapkannya sebagai berikut,
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4OTU2NzIwLC0xNTExNjgyMTkxLC0xMT
+eyJoaXN0b3J5IjpbOTUzODM0NzA0LC0xNTExNjgyMTkxLC0xMT
 AwOTI1MzAwLC05MjU3ODg4NDgsMTk1MTA2MTY5MiwzMTg1NDkx
 NjksLTIwMDczMjk4NjUsMTAwMzI5MjI1OSwyNzM3OTU3MDMsMT
 M4MjMyNzA5Niw4MDg4NTk0MjksLTE3MjIwMDEyNywtNzM3MjU5
