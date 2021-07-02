@@ -101,14 +101,6 @@ Hadhrat Khalifatul Masih V (atba) bersabda,
 
 ### Dasar Kemunculan Khalifah Rosyidah dan Khalifatul Masih
 
-Rasulullah (saw) telah menubuwwatkan berdirinya Khilafat dan kerajaan setelah beliau,
-
-<p class="arab">
-تَكُونُ النُّبُوَّةُ فِيكُمْ مَا شَاءَ اللَّهُ أَنْ تَكُونَ ثُمَّ يَرْفَعُهَا إِذَا شَاءَ أَنْ يَرْفَعَهَا ثُمَّ تَكُونُ خِلَافَةٌ عَلَى مِنْهَاجِ النُّبُوَّةِ فَتَكُونُ مَا شَاءَ اللَّهُ أَنْ تَكُونَ ثُمَّ يَرْفَعُهَا إِذَا شَاءَ اللَّهُ أَنْ يَرْفَعَهَا ثُمَّ تَكُونُ مُلْكًا عَاضًّا فَيَكُونُ مَا شَاءَ اللَّهُ أَنْ يَكُونَ ثُمَّ يَرْفَعُهَا إِذَا شَاءَ أَنْ يَرْفَعَهَا ثُمَّ تَكُونُ مُلْكًا جَبْرِيَّةً فَتَكُونُ مَا شَاءَ اللَّهُ أَنْ تَكُونَ ثُمَّ يَرْفَعُهَا إِذَا شَاءَ أَنْ يَرْفَعَهَا ثُمَّ تَكُونُ خِلَافَةً عَلَى مِنْهَاجِ النُّبُوَّةِ ثُمَّ سَكَتَ
-</p>
-
-> Artinya, “Kenabian akan tetap berada diantara kalian selama Allah menghendaki. Kemudian akan berlaku masa khilafah yang mengikuti jejak kenabian (khilafah ‘ala minhajin-nubuwwah), dan akan tetap berada selama Allah menghendaki. Kemudian diikuti masa kerajaan yang merusak (mulkan ‘adhan), dan dia akan tetap berada selama Allah menghendaki. Kemudian setelah itu akan muncul kerajaan lalim (mulkan jabbariyyah), dan akan tetap berada selama Allah menghendaki. Kemudian muncul kembali khilafah yang mengikuti jejak kenabian (khilafah ‘ala minhajin nubuwwah).” (H.R. Ahmad) [[^hds-e867723c-bda0-4fea-bdce-0774d6f3cb06]]
-
 Hadhrat Masih Mau'ud a.s. bersabda,  
 
 > "Mengapa Rasulullah saw tidak menetapkan khalifah pengganti beliau? Hikmah yang terkandung di dalamnya adalah, beliau benar-benar mengetahui bahwa Allah Ta'ala sendiri yang akan menetapkan seorang khalifah. Sebab, itu merupakan pekerjaan Allah, dan pilihan Allah tidak mengandung cacat sedikitpun. Demikianlah Allah Ta'ala telah menjadikan Hz. Abu Bakar Shiddiq menjadi khalifah untuk tugas tersebut. Dan di dalam kalbu beliau lah pertama sekali dimasukkan haq/kebenaran.” [[^malfuzat_jld10_h229]] 
@@ -123,7 +115,15 @@ Diriwayatkan,
 
 #### Hadits tentang Khalifatul Masih
 
+Rasulullah (saw) telah menubuwwatkan berdirinya Khilafat dan kerajaan setelah beliau,
 
+<p class="arab">
+تَكُونُ النُّبُوَّةُ فِيكُمْ مَا شَاءَ اللَّهُ أَنْ تَكُونَ ثُمَّ يَرْفَعُهَا إِذَا شَاءَ أَنْ يَرْفَعَهَا ثُمَّ تَكُونُ خِلَافَةٌ عَلَى مِنْهَاجِ النُّبُوَّةِ فَتَكُونُ مَا شَاءَ اللَّهُ أَنْ تَكُونَ ثُمَّ يَرْفَعُهَا إِذَا شَاءَ اللَّهُ أَنْ يَرْفَعَهَا ثُمَّ تَكُونُ مُلْكًا عَاضًّا فَيَكُونُ مَا شَاءَ اللَّهُ أَنْ يَكُونَ ثُمَّ يَرْفَعُهَا إِذَا شَاءَ أَنْ يَرْفَعَهَا ثُمَّ تَكُونُ مُلْكًا جَبْرِيَّةً فَتَكُونُ مَا شَاءَ اللَّهُ أَنْ تَكُونَ ثُمَّ يَرْفَعُهَا إِذَا شَاءَ أَنْ يَرْفَعَهَا ثُمَّ تَكُونُ خِلَافَةً عَلَى مِنْهَاجِ النُّبُوَّةِ ثُمَّ سَكَتَ
+</p>
+
+> Artinya, “Kenabian akan tetap berada diantara kalian selama Allah menghendaki. Kemudian akan berlaku masa khilafah yang mengikuti jejak kenabian (khilafah ‘ala minhajin-nubuwwah), dan akan tetap berada selama Allah menghendaki. Kemudian diikuti masa kerajaan yang merusak (mulkan ‘adhan), dan dia akan tetap berada selama Allah menghendaki. Kemudian setelah itu akan muncul kerajaan lalim (mulkan jabbariyyah), dan akan tetap berada selama Allah menghendaki. Kemudian muncul kembali khilafah yang mengikuti jejak kenabian (khilafah ‘ala minhajin nubuwwah).” (H.R. Ahmad) [[^hds-e867723c-bda0-4fea-bdce-0774d6f3cb06]]
+
+Dalam hadits d
 
 ### Misi yang Diemban Seorang Khalifatul Masih
 
@@ -241,7 +241,7 @@ Setelah KPA usai, maka kita bisa menerapkannya sebagai berikut,
 - poin poin pencapaian khalifah 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5MDAwODQ5LC04Njk2MTM2MDgsMTU3ND
+eyJoaXN0b3J5IjpbNjE5MzY0OTIzLC04Njk2MTM2MDgsMTU3ND
 gyMDExNywxODM2NzE5OTAxLC0xNTExNjgyMTkxLC0xMTAwOTI1
 MzAwLC05MjU3ODg4NDgsMTk1MTA2MTY5MiwzMTg1NDkxNjksLT
 IwMDczMjk4NjUsMTAwMzI5MjI1OSwyNzM3OTU3MDMsMTM4MjMy
