@@ -210,43 +210,43 @@ Dalam sejarah tidak bisa dipungkiri bahwa terdapat pencapaian-pencapaian luar bi
 - Perayaan Jubilee Khilafat (Perak) 1939
 - Standar Ahmadiyah Dikibarkan 28 Desember 1939
 - Pendirian Organisasi Ansar al-Allah 1940
-- Hij dari Qadian 1947
-Pendirian New World Center di Rabwah 30 September 1948
-Perpustakaan Khilafat didirikan tahun 1952
-Perjalanan kedua Khalifat al-Masih ke Eropa 1955
-Pembangunan Rumah Sakit Fazle Umar di Rabwah 1956
-Wakaf Jadid dilembagakan tahun 1958
-Hadiah Al-Qur'an diberikan kepada Presiden Eisenhower 1960
-Pembangunan Masjid Mahmud di Zürich 1962
-Wafatnya Khalifah Kedua 8 November 1965
-Pemilihan Khalifah Ketiga 8 November 1965
-Jamia Ahmadiyah didirikan di Ghana Maret 1966
-Terjemahan Al-Qur'an ke dalam Esperanto 1969
-Peresmian Masjid Aqsha di Rabwah 31 Maret 1972
-Peresmian Masjid Nasir di Swedia 20 Agustus 1976
-Kunjungan pertama Khalifat al-Masih ke AS dan Kanada 1976
-Konferensi Tahunan Kanada Pertama diadakan di Toronto Desember 1977
-Pembangunan masjid pertama di Oslo, Norwegia 1 Agustus 1980
-Empat puluh hektar tanah untuk Misi di Calgary, Kanada 1980
-Sitarae Ahmadiyah berdiri 27 Desember 1981
-Jamia Ahmadiyah berdiri di Indonesia tahun 1982
-Wafatnya Khalifah Ketiga 8 Juni 1982
-Pemilihan Khalifah Keempat 9 Juni 1982
-Peresmian masjid pertama di Spanyol 10 September 1982
-Peresmian masjid pertama di Australia 30 September 1983
-Pendirian pers terkomputerisasi di London April 1986
-Hudhur meresmikan tiga masjid baru di AS Desember 1986
-Waqfe Nau dimulai 3 April 1987
-Perayaan seratus tahun Ahmadiyah sedunia 23 Maret 1989
-Peresmian Masjid Bait al-Islam – Kanada 16 Oktober 1992
-Televisi Muslim Ahmadiyah (MTA) mulai 21 Agustus 1992
-Baiat Internasional Pertama Juli 1993
-Perayaan Nubuatan Gerhana 1994
-Peresmian Masjid Bait al-Rahman di Amerika Serikat 14 Oktober 1994
-Perayaan seratus tahun Ajaran Islam 1996
-Batu fondasi diletakkan untuk masjid baru Inggris, Morden 19 Oktober 1999
-Upacara Yubileum Emas sekolah menengah, Ghana 30 Januari 2000
-Kunjungan pertama Hudhur ke Indonesia 19 Juni 2000
+- Hijrah dari Qadian menuju Rabwah 1947
+- Pendirian New World Center di Rabwah 30 September 1948
+- Perpustakaan Khilafat didirikan tahun 1952
+- Perjalanan kedua Khalifat al-Masih ke Eropa 1955
+- Pembangunan Rumah Sakit Fazle Umar di Rabwah 1956
+- Wakaf Jadid dilembagakan tahun 1958
+- Hadiah Al-Qur'an diberikan kepada Presiden Eisenhower 1960
+- Pembangunan Masjid Mahmud di Zürich 1962
+- Wafatnya Khalifah Kedua 8 November 1965
+- Pemilihan Khalifah Ketiga 8 November 1965
+- Jamia Ahmadiyah didirikan di Ghana Maret 1966
+- Terjemahan Al-Qur'an ke dalam Esperanto 1969
+- Peresmian Masjid Aqsha di Rabwah 31 Maret 1972
+- Peresmian Masjid Nasir di Swedia 20 Agustus 1976
+- Kunjungan pertama Khalifat al-Masih ke AS dan Kanada 1976
+- Konferensi Tahunan Kanada Pertama diadakan di Toronto Desember 1977
+- Pembangunan masjid pertama di Oslo, Norwegia 1 Agustus 1980
+- Empat puluh hektar tanah untuk Misi di Calgary, Kanada 1980
+- Sitarae Ahmadiyah berdiri 27 Desember 1981
+- Jamia Ahmadiyah berdiri di Indonesia tahun 1982
+- Wafatnya Khalifah Ketiga 8 Juni 1982
+- Pemilihan Khalifah Keempat 9 Juni 1982
+- Peresmian masjid pertama di Spanyol 10 September 1982
+- Peresmian masjid pertama di Australia 30 September 1983
+- Pendirian pers terkomputerisasi di London April 1986
+- Hudhur meresmikan tiga masjid baru di AS Desember 1986
+- Waqfe Nau dimulai 3 April 1987
+- Perayaan seratus tahun Ahmadiyah sedunia 23 Maret 1989
+- Peresmian Masjid Bait al-Islam – Kanada 16 Oktober 1992
+- Televisi Muslim Ahmadiyah (MTA) mulai 21 Agustus 1992
+- Baiat Internasional Pertama Juli 1993
+- Perayaan Nubuatan Gerhana 1994
+- Peresmian Masjid Bait al-Rahman di Amerika Serikat 14 Oktober 1994
+- Perayaan seratus tahun Ajaran Islam 1996
+- Batu fondasi diletakkan untuk masjid baru Inggris, Morden 19 Oktober 1999
+- Upacara Yubileum Emas sekolah menengah, Ghana 30 Januari 2000
+- Kunjungan pertama Hudhur ke Indonesia 19 Juni 2000
 Konferensi Messiah 2000, Sion, AS 12 Agustus 2000
 Wafatnya Khalifah Keempat 19 April 2003
 Pemilihan Khalifah Kelima 22 April 2003
@@ -319,11 +319,11 @@ Setelah KPA usai, maka kita bisa menerapkannya sebagai berikut,
 - poin poin pencapaian khalifah 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1NTkzMzYzNCwtODY5NjEzNjA4LDE1Nz
-Q4MjAxMTcsMTgzNjcxOTkwMSwtMTUxMTY4MjE5MSwtMTEwMDky
-NTMwMCwtOTI1Nzg4ODQ4LDE5NTEwNjE2OTIsMzE4NTQ5MTY5LC
-0yMDA3MzI5ODY1LDEwMDMyOTIyNTksMjczNzk1NzAzLDEzODIz
-MjcwOTYsODA4ODU5NDI5LC0xNzIyMDAxMjcsLTczNzI1OTEyLD
-IwMzg5MTQ1NjQsLTg3NzUzNzU4NSwxODk4NzczNDc2LDEzOTkz
-MDQ3MDhdfQ==
+eyJoaXN0b3J5IjpbOTE1NTM4ODg2LC04Njk2MTM2MDgsMTU3ND
+gyMDExNywxODM2NzE5OTAxLC0xNTExNjgyMTkxLC0xMTAwOTI1
+MzAwLC05MjU3ODg4NDgsMTk1MTA2MTY5MiwzMTg1NDkxNjksLT
+IwMDczMjk4NjUsMTAwMzI5MjI1OSwyNzM3OTU3MDMsMTM4MjMy
+NzA5Niw4MDg4NTk0MjksLTE3MjIwMDEyNywtNzM3MjU5MTIsMj
+AzODkxNDU2NCwtODc3NTM3NTg1LDE4OTg3NzM0NzYsMTM5OTMw
+NDcwOF19
 -->
