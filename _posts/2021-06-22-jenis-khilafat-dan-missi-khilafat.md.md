@@ -237,14 +237,15 @@ Setelah KPA usai, maka kita bisa menerapkannya sebagai berikut,
 [^hds-c034adf3-3702-467d-9be0-f4871abddd5c]: [Pustaka Isa - Hadits - Khalifah - Tiga Puluh Tahun Masa Kekhalifahan](/ref/hds-c034adf3-3702-467d-9be0-f4871abddd5c)
 
 <!--
-
+- kudrat kedua dalam Alwasiyat
+- poin poin pencapaian khalifah 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2OTYxMzYwOCwxNTc0ODIwMTE3LDE4Mz
-Y3MTk5MDEsLTE1MTE2ODIxOTEsLTExMDA5MjUzMDAsLTkyNTc4
-ODg0OCwxOTUxMDYxNjkyLDMxODU0OTE2OSwtMjAwNzMyOTg2NS
-wxMDAzMjkyMjU5LDI3Mzc5NTcwMywxMzgyMzI3MDk2LDgwODg1
-OTQyOSwtMTcyMjAwMTI3LC03MzcyNTkxMiwyMDM4OTE0NTY0LC
-04Nzc1Mzc1ODUsMTg5ODc3MzQ3NiwxMzk5MzA0NzA4LDIwMTAw
-NzIwNl19
+eyJoaXN0b3J5IjpbLTk5MDAwODQ5LC04Njk2MTM2MDgsMTU3ND
+gyMDExNywxODM2NzE5OTAxLC0xNTExNjgyMTkxLC0xMTAwOTI1
+MzAwLC05MjU3ODg4NDgsMTk1MTA2MTY5MiwzMTg1NDkxNjksLT
+IwMDczMjk4NjUsMTAwMzI5MjI1OSwyNzM3OTU3MDMsMTM4MjMy
+NzA5Niw4MDg4NTk0MjksLTE3MjIwMDEyNywtNzM3MjU5MTIsMj
+AzODkxNDU2NCwtODc3NTM3NTg1LDE4OTg3NzM0NzYsMTM5OTMw
+NDcwOF19
 -->
