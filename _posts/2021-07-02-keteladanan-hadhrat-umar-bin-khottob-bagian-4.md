@@ -66,6 +66,16 @@ Khalifah Kedua (ra) mengutip contoh lain dari Hadhrat ‘Umar (ra) di mana belia
 Pria Muslim itu berkata bahwa jika Hadhrat ‘Umar (ra) mengetahui hal ini, dia tidak akan menerima hal ini. Jabalah kemudian pergi ke Hadhrat ‘Umar (ra) dan bertanya apa yang akan beliau lakukan jika orang terkemuka menampar orang biasa. Hadhrat ‘Umar (ra) mengatakan bahwa dia akan meminta orang biasa itu untuk menampar kepalanya, karena Islam tidak membedakan antara yang terkemuka dan yang biasa. Ini adalah kesetaraan yang ditetapkan oleh Islam. Mengetahui hal ini, Jabalah beberapa waktu kemudian keluar dari Islam dan berpihak kepada bangsa Romawi yang Kristen dan tengah memerangi umat Islam. 
 
 Hudhur ayyadahullaahu Ta’ala mengatakan bahwa beliau akan terus menyoroti kehidupan Hadhrat ‘Umar (ra) dalam khotbah-khotbah mendatang.
+
+### Khotbah Ke-II
+
+<p class="arab">
+اَلْحَمْدُ لِلَّهْ , اَلْحَمْدُ لِلَّهِ نَحْمَدُهُ وَنَسْتَعِيْنُهُ وَنَسْتَغْفِرُهُ وَنُؤْمِنُ بِهِ وَنَتَوَكَّلُ عَلَيْه وَنَعُوْذُ بِاللَّهِ مِنْ شُرُوْرِ أَنْفُسِنَا وَمِنْ سَيِّئَاتِ أَعْمَالِنَا مَنْ يَّهْدِهِ اللَّهُ فَلَا مُضِلَّ لَهُ وَمَنْ يُّضْلِلْهُ فَلَا هَادِيَ لَهُ وَنَشْهَدُ أَنْ لَّا إِلَهَ إِلَّا اللَّهُ وَنَشْهَدُ أَنَّ مُحَمَّدًا عَبْدُهُ وَرَسُوْلُهُ عِبَادَ اللَّهِ! رَحِمَكُمُ اللَّهُ! إِنَّ اللَّهَ يَأْمُرُ بِالْعَدْلِ وَالْإِحْسَانِ وَإِيْتَاءِ ذِى الْقُرْبَى وَيَنْهَى عَنِ الْفَحْشَاءِ وَالْمُنْكَرِ وَالْبَغْيِ, يَعِظُكُمْ لَعَلَّكُمْ تَذَكَّرُوْنَ أُذْكُرُوا اللَّهَ يَذْكُرْكُمْ وَادْعُوْهُ يَسْتَجِبْ لَكُمْ وَلَذِكْرُ اللَّهِ أَكْبَرُ
+</p>
+
+*Alhamdulillâhi nahmaduhû wa nasta’înuhû wa nastaghfiruhû wa nu-minu bihî wa natawakkalu ‘alayhi wa na’ûdzubillâhi min syurûri anfusinâ wa min sayyi-âti a-’mâlinâ may-yahdihil-Lâhu fa lâ mudhilla lahû, wa may-yudhlilhû fa lâ hâdiya lah – wa nasyhadu al-lâ ilâha illal-Lôhohu wa nasyhadu annâ muhammadan ‘abduhû wa rosûluhû – ‘ibâdal-Lôh! Rohimakumul-Lôh! Innal-Lôha ya-muru bil‘adli wal-ihsâni wa iytâ-i dzil-qurbâ wa yanhâ ‘anil-fahsyâ-i wal-munkari wal-baghyi ya’idzukum la’allakum tadzakkarûn – udzkurul-Lôha yadzkurkum wad’ûhu yastajiblakum wa ladzikrul-Lôhi akbar.*
+    
+Artinya:  “Segala puji bagi Allah Ta’ala. Kami memuji-Nya dan meminta pertolongan pada-Nya dan kami memohon ampun kepada-Nya dan kami beriman kepada-Nya dan kami bertawakal atas-Nya. Dan kami berlindung kepada Allah Ta’ala dari kejahatan-kejahatan nafsu-nafsu kami dan dari amalan kami yang jahat. Barangsiapa diberi petunjuk oleh Allah Ta’ala, tak ada yang dapat menyesatkannya. Dan barangsiapa yang dinyatakan sesat oleh-Nya, maka tidak ada yang dapat memberikan petunjuk kepadanya. Dan kami bersaksi bahwa tiada Tuhan selain Allah Ta’ala dan kami bersaksi bahwa Muhammadsaw. itu adalah hamba dan utusan-Nya. Wahai hamba-hamba Allah Ta’ala! Semoga Allah Ta’ala memberi mengasihi kalian. Sesungguhnya Allah Ta’ala menyuruh supaya kalian berlaku adil dan ihsan (berbuat baik kepada manusia) dan îtâ-i dzil qurbâ (memenuhi hak kerabat dekat). Dan Dia melarang kalian berbuat fahsyâ (kejahatan yang berhubungan dengan dirimu) dan munkar (kejahatan yang berhubungan dengan masyarakat) dan dari baghyi (pemberontakan terhadap pemerintah). Dia memberi nasehat supaya kalian mengingat-Nya. Ingatlah Allah Ta’ala, maka Dia akan mengingat kalian. Berdoalah kepada-Nya, maka Dia akan mengabulkan doa kalian dan mengingat Allah Ta’ala (dzikir) itu lebih besar (pahalanya).”
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjUzMTUyMTI0XX0=
+eyJoaXN0b3J5IjpbLTEzNDUyMzk1NzZdfQ==
 -->
