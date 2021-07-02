@@ -268,7 +268,10 @@ Dalam sejarah tidak bisa dipungkiri bahwa terdapat pencapaian-pencapaian luar bi
 - Peluncurkan trofi tahunan yaitu ‘Trofi Muslim Ahmadiyah bagi Kemajuan Perdamaian’ (2009)
 - Menjadi pembicara dalam Kongres Amerika Serikat dan Parlemen Eropa (2012)
 - Hazrat Mirza Masroor Ahmad disambut di Capitol Hill di Washington DC di mana beliau menyampaikan pidato utama berjudul, ‘Jalan Menuju Perdamaian, Hubungan yang Adil antar Bangsa (27 Juni 2012)
-- 
+- Huzur menyampaikan pidato bersejarah di Parlemen Eropa di Brussel (4 Desember 2012)
+- Huzur menyampaikan pidato utama di ‘The Conference of World Religions’ yang diadakan di Guildhall, London (11 Februari 2014) [[^khalifah_islam_saat_ini]]
+
+[]
 
 ### Implementasi untuk Taat kepada Khilafat Saat Mengikuti KPA
 
@@ -339,7 +342,7 @@ Setelah KPA usai, maka kita bisa menerapkannya sebagai berikut,
 - poin poin pencapaian khalifah 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzk0NzIxNzIyLC04Njk2MTM2MDgsMTU3ND
+eyJoaXN0b3J5IjpbMjg4NTUzMzM5LC04Njk2MTM2MDgsMTU3ND
 gyMDExNywxODM2NzE5OTAxLC0xNTExNjgyMTkxLC0xMTAwOTI1
 MzAwLC05MjU3ODg4NDgsMTk1MTA2MTY5MiwzMTg1NDkxNjksLT
 IwMDczMjk4NjUsMTAwMzI5MjI1OSwyNzM3OTU3MDMsMTM4MjMy
