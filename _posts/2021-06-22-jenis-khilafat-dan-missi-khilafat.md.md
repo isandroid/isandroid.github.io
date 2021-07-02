@@ -190,7 +190,67 @@ Huzur V (atba) menjelaskan tentang kewajiban para Ahmadi. Salah satunya adalah m
 
 ### Pencapaian Khilafat Ahmadiyah
 
-Dalam sejarah tidak bisa dipungkiri bahwa terdapat pencapaian-pencapaian luar biasa dalam kepemimpinan para Khalifatul Masih. Berikut ini akan kami uraikan sebagian sejarah dal
+Dalam sejarah tidak bisa dipungkiri bahwa terdapat pencapaian-pencapaian luar biasa dalam kepemimpinan para Khalifatul Masih. Berikut ini akan kami uraikan sebagian sejarah dalam di zaman khalifatul masih.
+
+- Berdirinya Khilafah Ahmadiyah 27 Mei 1908
+- Kelahiran Khalifat al-Masih Ketiga 16 November 1909
+- Penerbitan surat kabar Al-Fazal dimulai 19 Juni 1913
+- Wafatnya Khalifah Pertama 13 Maret 1914
+- Pemilihan Khalifat al-Masih Kedua 14 Maret 1914
+- Pendirian Misi pertama di AS 1921, Chicago
+- Pembentukan Dewan Penasehat 1922
+- Pendirian Misi pertama di Jerman 1923 Berlin
+- Organisasi Badan _Lajnah Imaillah_ didirikan tahun 1922
+- Perjalanan pertama Khalifat al-Masih ke Eropa 1924
+- Peletakan batu pondasi untuk Masjid Fazl di London 19 Oktober 1924
+- Peresmian Jamia Ahmadiyah 20 Mei 1928
+- Kelahiran Hazrat Khalifat al-Masih Keempat 18 Desember 1928
+- Organisasi Tehrike Jadid didirikan pada 23 November 1934
+- Organisasi Khudam al-Ahmadiyya didirikan tahun 1938
+- Perayaan Jubilee Khilafat (Perak) 1939
+- Standar Ahmadiyah Dikibarkan 28 Desember 1939
+- Pendirian Organisasi Ansar al-Allah 1940
+- Hij dari Qadian 1947
+Pendirian New World Center di Rabwah 30 September 1948
+Perpustakaan Khilafat didirikan tahun 1952
+Perjalanan kedua Khalifat al-Masih ke Eropa 1955
+Pembangunan Rumah Sakit Fazle Umar di Rabwah 1956
+Wakaf Jadid dilembagakan tahun 1958
+Hadiah Al-Qur'an diberikan kepada Presiden Eisenhower 1960
+Pembangunan Masjid Mahmud di Zürich 1962
+Wafatnya Khalifah Kedua 8 November 1965
+Pemilihan Khalifah Ketiga 8 November 1965
+Jamia Ahmadiyah didirikan di Ghana Maret 1966
+Terjemahan Al-Qur'an ke dalam Esperanto 1969
+Peresmian Masjid Aqsha di Rabwah 31 Maret 1972
+Peresmian Masjid Nasir di Swedia 20 Agustus 1976
+Kunjungan pertama Khalifat al-Masih ke AS dan Kanada 1976
+Konferensi Tahunan Kanada Pertama diadakan di Toronto Desember 1977
+Pembangunan masjid pertama di Oslo, Norwegia 1 Agustus 1980
+Empat puluh hektar tanah untuk Misi di Calgary, Kanada 1980
+Sitarae Ahmadiyah berdiri 27 Desember 1981
+Jamia Ahmadiyah berdiri di Indonesia tahun 1982
+Wafatnya Khalifah Ketiga 8 Juni 1982
+Pemilihan Khalifah Keempat 9 Juni 1982
+Peresmian masjid pertama di Spanyol 10 September 1982
+Peresmian masjid pertama di Australia 30 September 1983
+Pendirian pers terkomputerisasi di London April 1986
+Hudhur meresmikan tiga masjid baru di AS Desember 1986
+Waqfe Nau dimulai 3 April 1987
+Perayaan seratus tahun Ahmadiyah sedunia 23 Maret 1989
+Peresmian Masjid Bait al-Islam – Kanada 16 Oktober 1992
+Televisi Muslim Ahmadiyah (MTA) mulai 21 Agustus 1992
+Baiat Internasional Pertama Juli 1993
+Perayaan Nubuatan Gerhana 1994
+Peresmian Masjid Bait al-Rahman di Amerika Serikat 14 Oktober 1994
+Perayaan seratus tahun Ajaran Islam 1996
+Batu fondasi diletakkan untuk masjid baru Inggris, Morden 19 Oktober 1999
+Upacara Yubileum Emas sekolah menengah, Ghana 30 Januari 2000
+Kunjungan pertama Hudhur ke Indonesia 19 Juni 2000
+Konferensi Messiah 2000, Sion, AS 12 Agustus 2000
+Wafatnya Khalifah Keempat 19 April 2003
+Pemilihan Khalifah Kelima 22 April 2003
+Peresmian Masjid Bait ul-Futooh di Morden, Inggris 3 Oktober 2003
 
 ### Implementasi untuk Taat kepada Khilafat Saat Mengikuti KPA
 
@@ -259,7 +319,7 @@ Setelah KPA usai, maka kita bisa menerapkannya sebagai berikut,
 - poin poin pencapaian khalifah 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3MjcwMTExMSwtODY5NjEzNjA4LDE1Nz
+eyJoaXN0b3J5IjpbMTA1NTkzMzYzNCwtODY5NjEzNjA4LDE1Nz
 Q4MjAxMTcsMTgzNjcxOTkwMSwtMTUxMTY4MjE5MSwtMTEwMDky
 NTMwMCwtOTI1Nzg4ODQ4LDE5NTEwNjE2OTIsMzE4NTQ5MTY5LC
 0yMDA3MzI5ODY1LDEwMDMyOTIyNTksMjczNzk1NzAzLDEzODIz
