@@ -127,7 +127,7 @@ Dalam hadits diatas Khalifatul Masih itu disebut oleh Rasulullah (saw) dalam cor
 
 Hal ini diperkuat dengan nubuwwatan yang disampaikan oleh 
 
-Hadhrat Masih Mau'ud (as) menjelaskan bahwa beliau (as) adalah _Qudrat awwal_ dan akan ada _Qudrat tsani_ (Qudrat kedua) sepeninggal beliau. Beliau (as) menulis,
+Hadhrat Masih Mau'ud (as) menjelaskan bahwa beliau (as) adalah _Kudrat awwal_ dan akan ada _Kudrat tsaniyah_ (Qudrat kedua) sepeninggal beliau. Beliau (as) menulis,
 
 
 
@@ -247,11 +247,11 @@ Setelah KPA usai, maka kita bisa menerapkannya sebagai berikut,
 - poin poin pencapaian khalifah 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0MjM1NDk1MiwtODY5NjEzNjA4LDE1Nz
-Q4MjAxMTcsMTgzNjcxOTkwMSwtMTUxMTY4MjE5MSwtMTEwMDky
-NTMwMCwtOTI1Nzg4ODQ4LDE5NTEwNjE2OTIsMzE4NTQ5MTY5LC
-0yMDA3MzI5ODY1LDEwMDMyOTIyNTksMjczNzk1NzAzLDEzODIz
-MjcwOTYsODA4ODU5NDI5LC0xNzIyMDAxMjcsLTczNzI1OTEyLD
-IwMzg5MTQ1NjQsLTg3NzUzNzU4NSwxODk4NzczNDc2LDEzOTkz
-MDQ3MDhdfQ==
+eyJoaXN0b3J5IjpbLTEyOTM3NzAwNjAsLTg2OTYxMzYwOCwxNT
+c0ODIwMTE3LDE4MzY3MTk5MDEsLTE1MTE2ODIxOTEsLTExMDA5
+MjUzMDAsLTkyNTc4ODg0OCwxOTUxMDYxNjkyLDMxODU0OTE2OS
+wtMjAwNzMyOTg2NSwxMDAzMjkyMjU5LDI3Mzc5NTcwMywxMzgy
+MzI3MDk2LDgwODg1OTQyOSwtMTcyMjAwMTI3LC03MzcyNTkxMi
+wyMDM4OTE0NTY0LC04Nzc1Mzc1ODUsMTg5ODc3MzQ3NiwxMzk5
+MzA0NzA4XX0=
 -->
