@@ -192,10 +192,15 @@ Huzur V (atba) menjelaskan tentang kewajiban para Ahmadi. Salah satunya adalah m
 
 Dalam sejarah tidak bisa dipungkiri bahwa terdapat pencapaian-pencapaian luar biasa dalam kepemimpinan para Khalifatul Masih. Berikut ini akan kami uraikan sebagian sejarah dalam di zaman khalifatul masih.
 
+#### Khalifatul Masih Awwal (ra)
+
 - Berdirinya Khilafah Ahmadiyah 27 Mei 1908
 - Kelahiran Khalifat al-Masih Ketiga 16 November 1909
 - Penerbitan surat kabar Al-Fazal dimulai 19 Juni 1913
 - Wafatnya Khalifah Pertama 13 Maret 1914
+
+#### Khalifatul Masih Tsani (ra)
+
 - Pemilihan Khalifat al-Masih Kedua 14 Maret 1914
 - Pendirian Misi pertama di AS 1921, Chicago
 - Pembentukan Dewan Penasehat 1922
@@ -219,6 +224,9 @@ Dalam sejarah tidak bisa dipungkiri bahwa terdapat pencapaian-pencapaian luar bi
 - Hadiah Al-Qur'an diberikan kepada Presiden Eisenhower 1960
 - Pembangunan Masjid Mahmud di Zürich 1962
 - Wafatnya Khalifah Kedua 8 November 1965
+
+#### Khalifatul Masih Tsalits (rh)
+
 - Pemilihan Khalifah Ketiga 8 November 1965
 - Jamia Ahmadiyah didirikan di Ghana Maret 1966
 - Terjemahan Al-Qur'an ke dalam Esperanto 1969
@@ -231,6 +239,9 @@ Dalam sejarah tidak bisa dipungkiri bahwa terdapat pencapaian-pencapaian luar bi
 - Sitarae Ahmadiyah berdiri 27 Desember 1981
 - Jamia Ahmadiyah berdiri di Indonesia tahun 1982
 - Wafatnya Khalifah Ketiga 8 Juni 1982
+
+#### Khalifatul Masih Tsalits (rh)
+
 - Pemilihan Khalifah Keempat 9 Juni 1982
 - Peresmian masjid pertama di Spanyol 10 September 1982
 - Peresmian masjid pertama di Australia 30 September 1983
@@ -322,7 +333,7 @@ Setelah KPA usai, maka kita bisa menerapkannya sebagai berikut,
 - poin poin pencapaian khalifah 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzgwNDA5NDAsLTg2OTYxMzYwOCwxNTc0OD
+eyJoaXN0b3J5IjpbODQ0NDE1MTcsLTg2OTYxMzYwOCwxNTc0OD
 IwMTE3LDE4MzY3MTk5MDEsLTE1MTE2ODIxOTEsLTExMDA5MjUz
 MDAsLTkyNTc4ODg0OCwxOTUxMDYxNjkyLDMxODU0OTE2OSwtMj
 AwNzMyOTg2NSwxMDAzMjkyMjU5LDI3Mzc5NTcwMywxMzgyMzI3
