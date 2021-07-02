@@ -127,7 +127,9 @@ Dalam hadits diatas Khalifatul Masih itu disebut oleh Rasulullah (saw) dalam cor
 
 Hal ini diperkuat dengan nubuwwatan yang disampaikan oleh 
 
-Hadhrat Masih Mau'ud (as) juga menubuwwatkan adanya Qudrat kedua
+Hadhrat Masih Mau'ud (as) menjelaskan bahwa beliau (as) adalah _Qudrat awwal_ dan akan ada _Qudrat tsani_ (Qudrat kedua) sepeninggal beliau. Beliau (as) menulis,
+
+
 
 ### Misi yang Diemban Seorang Khalifatul Masih
 
@@ -245,7 +247,7 @@ Setelah KPA usai, maka kita bisa menerapkannya sebagai berikut,
 - poin poin pencapaian khalifah 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxMjM4MzgxOSwtODY5NjEzNjA4LDE1Nz
+eyJoaXN0b3J5IjpbMTU0MjM1NDk1MiwtODY5NjEzNjA4LDE1Nz
 Q4MjAxMTcsMTgzNjcxOTkwMSwtMTUxMTY4MjE5MSwtMTEwMDky
 NTMwMCwtOTI1Nzg4ODQ4LDE5NTEwNjE2OTIsMzE4NTQ5MTY5LC
 0yMDA3MzI5ODY1LDEwMDMyOTIyNTksMjczNzk1NzAzLDEzODIz
