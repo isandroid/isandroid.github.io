@@ -57,7 +57,7 @@ Peri kehidupan khalifah menurut Hadhrat Mushlih Mau'ud (ra) adalah:
 
 #### Pengertian Khilafat
 
-Kata Khilafah berarti suksesi atau penggantian. Jamaah pengikut Nabi Allah terus memelihara akidah dan sunnah-sunnah di bawah berkat lembaga Khilafah selama Allah kehendaki.
+Kata Khilafah berarti suksesi atau penggantian. Jamaah pengikut Nabi Allah terus memelihara akidah dan sunnah-sunnah di bawah berkat lembaga Khilafah selama Allah kehendaki. Dalam arti yang ringkas, khilafat adalah **sistem** kekhalifahan
 
 Sebagaimana Allah mengangkat seorang Nabi, Dia juga yang mengangkat seorang Khalifah. Dia memilih orang yang paling layak untuk menjadi seorang Khalifah, dan membimbing golongan mukmin yang bertakwa untuk mewujudkan Kehendak-Nya melalui suatu proses pemilihan Khalifah. Dengan demikian, mungkin tampaknya Khalifah dipilih oleh sekelompok orang bertakwa, tapi sebenarnya Kehendak Allah-lah yang membimbing jiwa mereka untuk memilih Khalifah Pilihan-Nya. Begitu seorang Khalifah terpilih, dia akan menjadi Khalifah seumur hidupnya sebagai bukti hidup dari Kehendak Tuhan.
 
@@ -122,6 +122,7 @@ Diriwayatkan,
 "Khilafah di ummatku selama tigapuluh tahun kemudian setelah itu kerajaan." (H.R. [At-Tirmidzi, Kitab Fitnah, Bab Kekhilafahan] [[^hds-c034adf3-3702-467d-9be0-f4871abddd5c]]
 
 #### Hadits tentang Khalifatul Masih
+
 
 
 ### Misi yang Diemban Seorang Khalifatul Masih
@@ -239,11 +240,11 @@ Setelah KPA usai, maka kita bisa menerapkannya sebagai berikut,
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTI3Njg0MzMyLDE1NzQ4MjAxMTcsMTgzNj
-cxOTkwMSwtMTUxMTY4MjE5MSwtMTEwMDkyNTMwMCwtOTI1Nzg4
-ODQ4LDE5NTEwNjE2OTIsMzE4NTQ5MTY5LC0yMDA3MzI5ODY1LD
-EwMDMyOTIyNTksMjczNzk1NzAzLDEzODIzMjcwOTYsODA4ODU5
-NDI5LC0xNzIyMDAxMjcsLTczNzI1OTEyLDIwMzg5MTQ1NjQsLT
-g3NzUzNzU4NSwxODk4NzczNDc2LDEzOTkzMDQ3MDgsMjAxMDA3
-MjA2XX0=
+eyJoaXN0b3J5IjpbLTg2OTYxMzYwOCwxNTc0ODIwMTE3LDE4Mz
+Y3MTk5MDEsLTE1MTE2ODIxOTEsLTExMDA5MjUzMDAsLTkyNTc4
+ODg0OCwxOTUxMDYxNjkyLDMxODU0OTE2OSwtMjAwNzMyOTg2NS
+wxMDAzMjkyMjU5LDI3Mzc5NTcwMywxMzgyMzI3MDk2LDgwODg1
+OTQyOSwtMTcyMjAwMTI3LC03MzcyNTkxMiwyMDM4OTE0NTY0LC
+04Nzc1Mzc1ODUsMTg5ODc3MzQ3NiwxMzk5MzA0NzA4LDIwMTAw
+NzIwNl19
 -->
