@@ -133,9 +133,9 @@ Hadhrat Masih Mau'ud (as) menjelaskan bahwa beliau (as) adalah _Kudrat awwal_ da
 >
 > “Aku akan menjadikan Jemaat ini, yakni pengikut-pengikut engkau menang di atas golongan-golongan lain sampai kiamat.”
 >
-> Oleh karena itu tidaklah dapat dihindari bahwa kamu akan menyaksikan hari perpisahan denganku, sehingga sesudah itu barulah datang Hari yang menjadi Hari Perjanjian yang kekal. Tuhan kita adalah Tuhan yang menepati janji, setia dan benar. Dia akan memperlihatkan kepadamu segala apa yang sudah Dia janjikan. Meskipun masa ini adalah masa akhir dunia, serta banyak bala-bencana yang masih akan terjadi, namun demikian dunia ini akan tetap ada hingga segala hal yang telah dikabarkan Tuhan itu terjadi semuanya. Aku datang dari Tuhan sebagai sebuah penzahiran Kudrat Ilahi dan aku adalah Kudrat Tuhan yang berjasad. Kemudian sesudah aku tiada, akan ada lagi beberapa wujud lain yang akan menjadi mazhar penampakkan Kudrat Kedua.
+> Oleh karena itu tidaklah dapat dihindari bahwa kamu akan menyaksikan hari perpisahan denganku, sehingga sesudah itu barulah datang Hari yang menjadi Hari Perjanjian yang kekal. Tuhan kita adalah Tuhan yang menepati janji, setia dan benar. Dia akan memperlihatkan kepadamu segala apa yang sudah Dia janjikan. Meskipun masa ini adalah masa akhir dunia, serta banyak bala-bencana yang masih akan terjadi, namun demikian dunia ini akan tetap ada hingga segala hal yang telah dikabarkan Tuhan itu terjadi semuanya. **Aku datang dari Tuhan sebagai sebuah penzahiran Kudrat Ilahi dan aku adalah Kudrat Tuhan yang berjasad. Kemudian sesudah aku tiada, akan ada lagi beberapa wujud lain yang akan menjadi mazhar penampakkan Kudrat Kedua**.
 >
-> Oleh sebab itu, sambil menanti kedatangan Kudrat Tuhan yang kedua itu, kamu semua hendaklah senantiasa sibuk berdoa. Dan hendaklah tiap Jemaat orang-orang saleh tanpa kecuali, di tiap negeri, senantiasa terus menerus berdoa sehingga mudah-mudahan Kudrat Kedua itu turun dari Langit, dan menzahirkan kepada kamu bahwa Tuhan kamu adalah Tuhan Yang Maha Kuasa. Anggaplah ajalmu telah dekat karena kamu tidak tahu kapan saat itu akan tiba. [[^alwasiyat_h8_9]]
+> Oleh sebab itu, sambil menanti kedatangan **Kudrat Tuhan yang kedua** itu, kamu semua hendaklah senantiasa sibuk berdoa. Dan hendaklah tiap Jemaat orang-orang saleh tanpa kecuali, di tiap negeri, senantiasa terus menerus berdoa sehingga mudah-mudahan **Kudrat Kedua** itu turun dari Langit, dan menzahirkan kepada kamu bahwa Tuhan kamu adalah Tuhan Yang Maha Kuasa. Anggaplah ajalmu telah dekat karena kamu tidak tahu kapan saat itu akan tiba. [[^alwasiyat_h8_9]]
 
 ### Misi yang Diemban Seorang Khalifatul Masih
 
@@ -255,7 +255,7 @@ Setelah KPA usai, maka kita bisa menerapkannya sebagai berikut,
 - poin poin pencapaian khalifah 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyMDAwODgxMSwtODY5NjEzNjA4LDE1Nz
+eyJoaXN0b3J5IjpbMjA0ODQ3NDAyNywtODY5NjEzNjA4LDE1Nz
 Q4MjAxMTcsMTgzNjcxOTkwMSwtMTUxMTY4MjE5MSwtMTEwMDky
 NTMwMCwtOTI1Nzg4ODQ4LDE5NTEwNjE2OTIsMzE4NTQ5MTY5LC
 0yMDA3MzI5ODY1LDEwMDMyOTIyNTksMjczNzk1NzAzLDEzODIz
