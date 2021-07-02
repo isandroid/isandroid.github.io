@@ -264,7 +264,8 @@ Dalam sejarah tidak bisa dipungkiri bahwa terdapat pencapaian-pencapaian luar bi
 
 - Pemilihan Khalifah Kelima (22 April 2003)
 - Peresmian Masjid Bait ul-Futooh di Morden, Inggris (3 Oktober 2003) [[^alislam_important_date]]
-- 
+- Simposium Perdamaian Nasional tahunan (2004)
+- , Yang Mulia juga meluncurkan trofi tahunan yaitu ‘Trofi Muslim Ahmadiyah bagi Kemajuan Perdamaian’,
 
 ### Implementasi untuk Taat kepada Khilafat Saat Mengikuti KPA
 
@@ -335,7 +336,7 @@ Setelah KPA usai, maka kita bisa menerapkannya sebagai berikut,
 - poin poin pencapaian khalifah 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1MDUwNTg3NSwtODY5NjEzNjA4LDE1Nz
+eyJoaXN0b3J5IjpbLTM2MzkxNTM2MiwtODY5NjEzNjA4LDE1Nz
 Q4MjAxMTcsMTgzNjcxOTkwMSwtMTUxMTY4MjE5MSwtMTEwMDky
 NTMwMCwtOTI1Nzg4ODQ4LDE5NTEwNjE2OTIsMzE4NTQ5MTY5LC
 0yMDA3MzI5ODY1LDEwMDMyOTIyNTksMjczNzk1NzAzLDEzODIz
