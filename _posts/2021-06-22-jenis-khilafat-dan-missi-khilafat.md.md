@@ -265,7 +265,10 @@ Dalam sejarah tidak bisa dipungkiri bahwa terdapat pencapaian-pencapaian luar bi
 - Pemilihan Khalifah Kelima (22 April 2003)
 - Peresmian Masjid Bait ul-Futooh di Morden, Inggris (3 Oktober 2003) [[^alislam_important_date]]
 - Simposium Perdamaian Nasional tahunan (2004)
-- , Yang Mulia juga meluncurkan trofi tahunan yaitu ‘Trofi Muslim Ahmadiyah bagi Kemajuan Perdamaian’,
+- Peluncurkan trofi tahunan yaitu ‘Trofi Muslim Ahmadiyah bagi Kemajuan Perdamaian’ (2009)
+- Menjadi pembicara dalam Kongres Amerika Serikat dan Parlemen Eropa (2012)
+- Hazrat Mirza Masroor Ahmad disambut di Capitol Hill di Washington DC di mana beliau menyampaikan pidato utama berjudul, ‘Jalan Menuju Perdamaian, Hubungan yang Adil antar Bangsa (27 Juni 2012)
+- 
 
 ### Implementasi untuk Taat kepada Khilafat Saat Mengikuti KPA
 
@@ -336,11 +339,11 @@ Setelah KPA usai, maka kita bisa menerapkannya sebagai berikut,
 - poin poin pencapaian khalifah 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2MzkxNTM2MiwtODY5NjEzNjA4LDE1Nz
-Q4MjAxMTcsMTgzNjcxOTkwMSwtMTUxMTY4MjE5MSwtMTEwMDky
-NTMwMCwtOTI1Nzg4ODQ4LDE5NTEwNjE2OTIsMzE4NTQ5MTY5LC
-0yMDA3MzI5ODY1LDEwMDMyOTIyNTksMjczNzk1NzAzLDEzODIz
-MjcwOTYsODA4ODU5NDI5LC0xNzIyMDAxMjcsLTczNzI1OTEyLD
-IwMzg5MTQ1NjQsLTg3NzUzNzU4NSwxODk4NzczNDc2LDEzOTkz
-MDQ3MDhdfQ==
+eyJoaXN0b3J5IjpbMzk0NzIxNzIyLC04Njk2MTM2MDgsMTU3ND
+gyMDExNywxODM2NzE5OTAxLC0xNTExNjgyMTkxLC0xMTAwOTI1
+MzAwLC05MjU3ODg4NDgsMTk1MTA2MTY5MiwzMTg1NDkxNjksLT
+IwMDczMjk4NjUsMTAwMzI5MjI1OSwyNzM3OTU3MDMsMTM4MjMy
+NzA5Niw4MDg4NTk0MjksLTE3MjIwMDEyNywtNzM3MjU5MTIsMj
+AzODkxNDU2NCwtODc3NTM3NTg1LDE4OTg3NzM0NzYsMTM5OTMw
+NDcwOF19
 -->
