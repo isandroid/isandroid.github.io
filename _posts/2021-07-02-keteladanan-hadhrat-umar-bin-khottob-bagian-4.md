@@ -30,6 +30,12 @@ Kemudian Hadhrat ‘Umar (ra) pergi dan membawa beberapa makanan yang dia bawa s
 Kemudian, wanita itu mengucapkan terima kasih, dan mengatakan bahwa dia lebih layak dipuji daripada Hadhrat ‘Umar (ra). Hadhrat ‘Umar (ra) memberi tahu wanita itu bahwa ketika dia pergi menemui pemimpin orang-orang beriman, dia juga akan menemukannya di sana.
 
 Hadhrat ‘Umar (ra) kemudian pergi dan berhenti agak jauh dan melihat ke arah anak-anak, yang sedang bermain. Dia kemudian mengatakan bahwa setelah menemukan wanita itu dan anak-anaknya dalam keadaan kelaparan, dia tidak bisa pergi sebelum melihat mereka bahagia dan puas.
+
+### Tidak mendorong Kemalasan, sifat meminta-minta dan ketergantungan pada orang lain 
+
+Huzur (aba) mengatakan bahwa Hadhrat ‘Umar (ra) akan membantu mereka yang membutuhkan, tetapi juga tidak mempromosikan kemalasan melalui bantuan ini. Dengan kata lain, jika seseorang masih muda dan mampu, maka dia akan menasihati mereka agar tidak mencari dari orang lain. Misalnya, suatu ketika ada seorang pemuda yang membawa tepung bersamanya, namun dia masih mencari dari orang lain. 
+
+Hadhrat ‘Umar (ra) mengambil tepung dan meletakkannya di depan beberapa unta, dan kemudian memberi tahu pemuda itu bahwa sekarang dia harus mencari dari yang lain. Dia mengatakan bahwa sementara dia memiliki beberapa perbekalan, dia tidak boleh mencari dari orang lain. Dengan demikian, menunjukkan bahwa di mana Hadhrat ‘Umar (ra) akan membantu mereka yang membutuhkan, dia tidak melakukannya untuk mempromosikan kemalasan dan ketergantungan pada orang lain.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ2MzY0MjQ1NV19
+eyJoaXN0b3J5IjpbLTEyNTgyMjgwMTRdfQ==
 -->
