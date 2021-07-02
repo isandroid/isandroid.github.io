@@ -115,15 +115,11 @@ Hadhrat Masih Mau'ud a.s. bersabda,
 
 #### Hadits tentang Khalifah Rasyidah
 
-permalink: /ref/hds-c034adf3-3702-467d-9be0-f4871abddd5c
----
-## {{page.title}}
-
 Diriwayatkan,
 
 <p class="arab">الْخِلَافَةُ فِي أُمَّتِي ثَلَاثُونَ سَنَةً ثُمَّ مُلْكٌ بَعْدَ ذَلِكَ</p>
 
-"Khilafah di ummatku selama tigapuluh tahun kemudian setelah itu kerajaan." (H.R. [At-Tirmidzi, Kitab Fitnah, Bab Kekhilafahan]
+"Khilafah di ummatku selama tigapuluh tahun kemudian setelah itu kerajaan." (H.R. [At-Tirmidzi, Kitab Fitnah, Bab Kekhilafahan] [[^hds-c034adf3-3702-467d-9be0-f4871abddd5c]]
 
 #### Hadits tentang Khalifatul Masih
 
@@ -237,15 +233,17 @@ Setelah KPA usai, maka kita bisa menerapkannya sebagai berikut,
 
 [^berdirinya_khalifah_islam_keruntuhan_dan_kebangkitannya]: [Ahmadiyah.id - Berdirinya Khilafah Islam, Keruntuhan Dan Kebangkitannya Kembali](https://ahmadiyah.id/khilafat/khilafah-islam-keruntuhan-kebangkitan)
 
+[^hds-c034adf3-3702-467d-9be0-f4871abddd5c]: [Pustaka Isa - Hadits - Khalifah - Tiga Puluh Tahun Masa Kekhalifahan](/ref/hds-c034adf3-3702-467d-9be0-f4871abddd5c)
+
 <!--
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5Nzc1NzkxOSwxNTc0ODIwMTE3LDE4Mz
-Y3MTk5MDEsLTE1MTE2ODIxOTEsLTExMDA5MjUzMDAsLTkyNTc4
-ODg0OCwxOTUxMDYxNjkyLDMxODU0OTE2OSwtMjAwNzMyOTg2NS
-wxMDAzMjkyMjU5LDI3Mzc5NTcwMywxMzgyMzI3MDk2LDgwODg1
-OTQyOSwtMTcyMjAwMTI3LC03MzcyNTkxMiwyMDM4OTE0NTY0LC
-04Nzc1Mzc1ODUsMTg5ODc3MzQ3NiwxMzk5MzA0NzA4LDIwMTAw
-NzIwNl19
+eyJoaXN0b3J5IjpbLTEyNTA5NjM2NDMsMTU3NDgyMDExNywxOD
+M2NzE5OTAxLC0xNTExNjgyMTkxLC0xMTAwOTI1MzAwLC05MjU3
+ODg4NDgsMTk1MTA2MTY5MiwzMTg1NDkxNjksLTIwMDczMjk4Nj
+UsMTAwMzI5MjI1OSwyNzM3OTU3MDMsMTM4MjMyNzA5Niw4MDg4
+NTk0MjksLTE3MjIwMDEyNywtNzM3MjU5MTIsMjAzODkxNDU2NC
+wtODc3NTM3NTg1LDE4OTg3NzM0NzYsMTM5OTMwNDcwOCwyMDEw
+MDcyMDZdfQ==
 -->
