@@ -36,6 +36,16 @@ Hadhrat ‘Umar (ra) kemudian pergi dan berhenti agak jauh dan melihat ke arah a
 Huzur (aba) mengatakan bahwa Hadhrat ‘Umar (ra) akan membantu mereka yang membutuhkan, tetapi juga tidak mempromosikan kemalasan melalui bantuan ini. Dengan kata lain, jika seseorang masih muda dan mampu, maka dia akan menasihati mereka agar tidak mencari dari orang lain. Misalnya, suatu ketika ada seorang pemuda yang membawa tepung bersamanya, namun dia masih mencari dari orang lain. 
 
 Hadhrat ‘Umar (ra) mengambil tepung dan meletakkannya di depan beberapa unta, dan kemudian memberi tahu pemuda itu bahwa sekarang dia harus mencari dari yang lain. Dia mengatakan bahwa sementara dia memiliki beberapa perbekalan, dia tidak boleh mencari dari orang lain. Dengan demikian, menunjukkan bahwa di mana Hadhrat ‘Umar (ra) akan membantu mereka yang membutuhkan, dia tidak melakukannya untuk mempromosikan kemalasan dan ketergantungan pada orang lain.
+
+### Pola Kebijakan Pemberian Tunjangan untuk anak-anak, baik yang tidak lagi menyusu maupun yang masih menyusu 
+
+Pada mulanya Hadhrat ‘Umar (ra) menetapkan tunjangan untuk anak-anak yang tidak lagi menyusu. Suatu ketika, Hadhrat ‘Umar (ra) bertemu dengan seorang ibu dengan anaknya yang sedang menangis. Saat menanyakan mengapa anak itu menangis, wanita itu memberi tahu Hadhrat ‘Umar (ra) bahwa anak itu menginginkan susu, sementara dia mencoba memuaskannya dengan sesuatu yang lain. Dia melakukannya karena Hadhrat ‘Umar (ra) hanya menetapkan tunjangan untuk anak-anak yang tidak lagi menyusu. 
+
+Hadhrat ‘Umar (ra) bertanya berapa usia anak itu. Ketika wanita itu memberi tahu dia, dia mengatakan kepadanya bahwa dia tidak boleh berhenti menyusui anak sebelum waktunya. Dengan demikian, Hadhrat ‘Umar (ra) telah mengumumkan bahwa tidak seorang pun harus berhenti menyusui anak-anak mereka sebelum waktunya dan juga mengumumkan bahwa tunjangan akan ditetapkan untuk anak-anak sejak mereka lahir.
+
+Keengganan untuk bersikap Malas: riwayat seorang tua yang merasa dekat waktu kematian namun tetap dimotivasi berbuat yang bermanfaat yaitu menanam pohon 
+
+Hadhrat Masih Mau'ud (as) mengutip sebuah riwayat yang menyatakan bahwa suatu kali, Hadhrat ‘Umar (ra) bertanya kepada seorang pria mengapa dia tidak lagi menanam pohon di tanahnya. Pria itu mengatakan bahwa dia tidak lagi melakukannya karena dia semakin tua. Hadhrat ‘Umar (ra) mengatakan bahwa ini bukan alasan, dan kemudian membantu orang itu sendiri dalam menanam pohon. Hadhrat Masih Mau'ud as mengutip kejadian ini untuk menunjukkan bahwa seseorang tidak boleh malas. Demikian pula, seseorang seharusnya tidak hanya mengambil manfaat dari buah yang ditanam oleh generasi sebelumnya, tetapi juga harus meninggalkan sesuatu untuk generasi berikutnya.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTgyMjgwMTRdfQ==
+eyJoaXN0b3J5IjpbLTUzNjM5NTQyM119
 -->
