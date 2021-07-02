@@ -212,17 +212,17 @@ Dalam sejarah tidak bisa dipungkiri bahwa terdapat pencapaian-pencapaian luar bi
 - Kelahiran Hazrat Khalifat al-Masih Keempat (18 Desember 1928)
 - Organisasi Tahrik Jadid didirikan (23 November 1934)
 - Organisasi Khudam al-Ahmadiyya didirikan (1938)
-- Perayaan Jubilee Khilafat (Perak) (1939)
-- Standar Ahmadiyah Dikibarkan 28 Desember 1939
-- Pendirian Organisasi Ansar al-Allah 1940
-- Hijrah dari Qadian menuju Rabwah 1947
-- Pendirian New World Center di Rabwah 30 September 1948
-- Perpustakaan Khilafat didirikan tahun 1952
-- Perjalanan kedua Khalifat al-Masih ke Eropa 1955
-- Pembangunan Rumah Sakit Fazle Umar di Rabwah 1956
-- Wakaf Jadid dilembagakan tahun 1958
-- Hadiah Al-Qur'an diberikan kepada Presiden Eisenhower 1960
-- Pembangunan Masjid Mahmud di Zürich 1962
+- Perayaan Jubilee Khilafat ke-30 tahun (1939)
+- Standar Ahmadiyah Dikibarkan (28 Desember 1939)
+- Pendirian Organisasi Ansar al-Allah (1940)
+- Hijrah dari Qadian menuju Rabwah (1947)
+- Pendirian New World Center di Rabwah (30 September 1948)
+- Perpustakaan Khilafat didirikan tahun (1952)
+- Perjalanan kedua Khalifaul-Masih ke Eropa (1955)
+- Pembangunan Rumah Sakit Fazle Umar di Rabwah (1956)
+- Wakaf Jadid dilembagakan (1958)
+- Hadiah Al-Qur'an diberikan kepada Presiden Eisenhower (1960)
+- Pembangunan Masjid Mahmud di Zürich (1962)
 - Wafatnya Khalifah Kedua 8 November 1965
 
 #### Khalifatul Masih Ats-Tsalits (rh)
@@ -336,7 +336,7 @@ Setelah KPA usai, maka kita bisa menerapkannya sebagai berikut,
 - poin poin pencapaian khalifah 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4MTQxNTgzOCwtODY5NjEzNjA4LDE1Nz
+eyJoaXN0b3J5IjpbLTU0MzQxMjc2MiwtODY5NjEzNjA4LDE1Nz
 Q4MjAxMTcsMTgzNjcxOTkwMSwtMTUxMTY4MjE5MSwtMTEwMDky
 NTMwMCwtOTI1Nzg4ODQ4LDE5NTEwNjE2OTIsMzE4NTQ5MTY5LC
 0yMDA3MzI5ODY1LDEwMDMyOTIyNTksMjczNzk1NzAzLDEzODIz
