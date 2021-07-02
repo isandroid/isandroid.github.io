@@ -247,10 +247,12 @@ Dalam sejarah tidak bisa dipungkiri bahwa terdapat pencapaian-pencapaian luar bi
 - Batu fondasi diletakkan untuk masjid baru Inggris, Morden 19 Oktober 1999
 - Upacara Yubileum Emas sekolah menengah, Ghana 30 Januari 2000
 - Kunjungan pertama Hudhur ke Indonesia 19 Juni 2000
-Konferensi Messiah 2000, Sion, AS 12 Agustus 2000
-Wafatnya Khalifah Keempat 19 April 2003
-Pemilihan Khalifah Kelima 22 April 2003
-Peresmian Masjid Bait ul-Futooh di Morden, Inggris 3 Oktober 2003
+- Konferensi Messiah 2000, Sion, AS 12 Agustus 2000
+- Wafatnya Khalifah Keempat 19 April 2003
+- Pemilihan Khalifah Kelima 22 April 2003
+- Peresmian Masjid Bait ul-Futooh di Morden, Inggris 3 Oktober 2003 [[^alislam_important_date]]
+
+
 
 ### Implementasi untuk Taat kepada Khilafat Saat Mengikuti KPA
 
@@ -319,7 +321,7 @@ Setelah KPA usai, maka kita bisa menerapkannya sebagai berikut,
 - poin poin pencapaian khalifah 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTE1NTM4ODg2LC04Njk2MTM2MDgsMTU3ND
+eyJoaXN0b3J5IjpbMzUyMjc1ODg3LC04Njk2MTM2MDgsMTU3ND
 gyMDExNywxODM2NzE5OTAxLC0xNTExNjgyMTkxLC0xMTAwOTI1
 MzAwLC05MjU3ODg4NDgsMTk1MTA2MTY5MiwzMTg1NDkxNjksLT
 IwMDczMjk4NjUsMTAwMzI5MjI1OSwyNzM3OTU3MDMsMTM4MjMy
