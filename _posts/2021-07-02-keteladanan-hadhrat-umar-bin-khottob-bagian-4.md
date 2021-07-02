@@ -11,7 +11,25 @@ published: true
 
 Ringkasan Khotbah Jumat Sayyidina Amirul Mu’minin, Hadhrat Mirza Masroor Ahmad, Khalifatul Masih al-Khaamis (ayyadahullaahu Ta’ala binashrihil ‘aziiz) pada 25 Juni 2021 (Ihsan 1400 Hijriyah Syamsiyah/14 Dzulqa’idah 1442 Hijriyah Qamariyah) di Masjid Mubarak, Tilford, UK (United Kingdom of Britain/Britania Raya).
 
+<p class="arab">
+	أَشْهَدُ أنْ لَّا إِلٰهَ إِلَّا اللّٰهُ وَحْدَهُ لَا شَرِيْكَ لَهُ وَأَشْهَدُ أنَّ مُحَمَّدًا عَبْدُهُ وَرَسُوْلُهُ - أَمَّا بَعْدُ فَأَعُوْذُ بِاللّٰهِ مِنَ الشَّيْطَانِ الرَّجِيْمِ -
+</p>
 
+<p class="quran">
+بِسۡمِ اللّٰہِ الرَّحۡمٰنِ الرَّحِیۡمِ﴿۱﴾ اَلۡحَمۡدُ لِلّٰہِ رَبِّ الۡعٰلَمِیۡنَ ۙ﴿۲﴾ الرَّحۡمٰنِ الرَّحِیۡمِ ۙ﴿۳﴾ مٰلِکِ یَوۡمِ الدِّیۡنِ ؕ﴿۴﴾ اِیَّاکَ نَعۡبُدُ وَ اِیَّاکَ نَسۡتَعِیۡنُ ؕ﴿۵﴾ اِہۡدِ نَا الصِّرَاطَ الۡمُسۡتَقِیۡمَ ۙ﴿۶﴾ صِرَاطَ الَّذِیۡنَ اَنۡعَمۡتَ عَلَیۡہِمۡ ۬ۙ غَیۡرِ الۡمَغۡضُوۡبِ عَلَیۡہِمۡ وَ لَا الضَّآلِّیۡنَ ٪﴿۷﴾
+</p>
+
+### Kepedulian Hadhrat ‘Umar (ra) untuk Mereka yang Membutuhkan 
+
+Hudhur ayyadahullaahu Ta’ala menyampaikan bahwa Hadhrat ‘Umar (ra) pernah bertemu dengan beberapa musafir (orang dalam perjalanan). Setelah mendekat, dia menemukan mereka adalah seorang wanita dan anak-anaknya, yang menangis karena kelaparan.
+
+Hadhrat ‘Umar (ra) bertanya apakah mereka punya sesuatu, dan dia menjawab bahwa dia hanya punya air yang dia rebus. Kemudian, wanita itu berkata bahwa Allah akan mengadili antara mereka dan Hadhrat ‘Umar (ra), karena dia harus menjaga mereka dan tidak mengetahui keadaan mereka. 
+
+Kemudian Hadhrat ‘Umar (ra) pergi dan membawa beberapa makanan yang dia bawa sendiri. Orang lain yang menemaninya meminta agar dia membawanya sebagai ganti Hadhrat ‘Umar (ra), tetapi Hadhrat ‘Umar (ra) bersikeras untuk membawanya sendiri. Hadhrat ‘Umar (ra) kemudian mengirimkan makanan itu kepada wanita itu dan anak-anaknya. Dengan demikian, anak-anak dan ibu mereka bisa makan sepuasnya. 
+
+Kemudian, wanita itu mengucapkan terima kasih, dan mengatakan bahwa dia lebih layak dipuji daripada Hadhrat ‘Umar (ra). Hadhrat ‘Umar (ra) memberi tahu wanita itu bahwa ketika dia pergi menemui pemimpin orang-orang beriman, dia juga akan menemukannya di sana.
+
+Hadhrat ‘Umar (ra) kemudian pergi dan berhenti agak jauh dan melihat ke arah anak-anak, yang sedang bermain. Dia kemudian mengatakan bahwa setelah menemukan wanita itu dan anak-anaknya dalam keadaan kelaparan, dia tidak bisa pergi sebelum melihat mereka bahagia dan puas.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjczNzUyOTldfQ==
+eyJoaXN0b3J5IjpbMTQ2MzY0MjQ1NV19
 -->
