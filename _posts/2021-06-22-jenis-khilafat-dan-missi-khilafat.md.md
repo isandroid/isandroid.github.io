@@ -171,6 +171,7 @@ Beberapa cara kita menerapkan ketaatan kepada khilafat ketika mengikuti KPA dian
  2. Melaksanakan tugas-tugas KPA 
  3. Mengikuti lomba semaksimal mungkin
  4. Berusaha menjawab pertanyaan-pertanyaan yang diajukan oleh guru/pengajar KPA.
+ 5. Mematuhi apa yang diperintahkan oleh para mentor dan panitia lokal.
 
 Setelah KPA usai, maka kita bisa menerapkannya sebagai berikut,
 
@@ -215,11 +216,11 @@ Setelah KPA usai, maka kita bisa menerapkannya sebagai berikut,
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTE2ODIxOTEsLTExMDA5MjUzMDAsLT
-kyNTc4ODg0OCwxOTUxMDYxNjkyLDMxODU0OTE2OSwtMjAwNzMy
-OTg2NSwxMDAzMjkyMjU5LDI3Mzc5NTcwMywxMzgyMzI3MDk2LD
-gwODg1OTQyOSwtMTcyMjAwMTI3LC03MzcyNTkxMiwyMDM4OTE0
-NTY0LC04Nzc1Mzc1ODUsMTg5ODc3MzQ3NiwxMzk5MzA0NzA4LD
-IwMTAwNzIwNiwtMTMxMTE1MDUwMCwxNjA2NzIyMzU0LDE1MzM2
-MTM5MjZdfQ==
+eyJoaXN0b3J5IjpbLTE4ODY2MTMxMjQsLTE1MTE2ODIxOTEsLT
+ExMDA5MjUzMDAsLTkyNTc4ODg0OCwxOTUxMDYxNjkyLDMxODU0
+OTE2OSwtMjAwNzMyOTg2NSwxMDAzMjkyMjU5LDI3Mzc5NTcwMy
+wxMzgyMzI3MDk2LDgwODg1OTQyOSwtMTcyMjAwMTI3LC03Mzcy
+NTkxMiwyMDM4OTE0NTY0LC04Nzc1Mzc1ODUsMTg5ODc3MzQ3Ni
+wxMzk5MzA0NzA4LDIwMTAwNzIwNiwtMTMxMTE1MDUwMCwxNjA2
+NzIyMzU0XX0=
 -->
