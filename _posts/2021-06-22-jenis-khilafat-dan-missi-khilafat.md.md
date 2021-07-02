@@ -247,14 +247,14 @@ Dalam sejarah tidak bisa dipungkiri bahwa terdapat pencapaian-pencapaian luar bi
 - Peresmian masjid pertama di Australia (30 September 1983)
 - Pendirian pers terkomputerisasi di London (April 1986)
 - Hudhur meresmikan tiga masjid baru di AS (Desember 1986)
-- Waqfe Nau dimulai 3 April 1987
-- Perayaan seratus tahun Ahmadiyah sedunia 23 Maret 1989
-- Peresmian Masjid Bait al-Islam – Kanada 16 Oktober 1992
-- Televisi Muslim Ahmadiyah (MTA) mulai 21 Agustus 1992
-- Baiat Internasional Pertama Juli 1993
-- Perayaan Nubuatan Gerhana 1994
-- Peresmian Masjid Bait al-Rahman di Amerika Serikat 14 Oktober 1994
-- Perayaan seratus tahun Ajaran Islam 1996
+- Waqfe Nau dimulai (3 April 1987)
+- Perayaan seratus tahun Ahmadiyah sedunia (23 Maret 1989)
+- Peresmian Masjid Bait al-Islam, Kanada (16 Oktober 1992)
+- Televisi Muslim Ahmadiyah (MTA) mengudara (21 Agustus 1992)
+- Baiat Internasional Pertama (Juli 1993)
+- Perayaan Nubuatan Gerhana (1994)
+- Peresmian Masjid Bait al-Rahman di Amerika Serikat (14 Oktober 1994)
+- Perayaan seratus tahun Ajaran Islam (1996
 - Batu fondasi diletakkan untuk masjid baru Inggris, Morden 19 Oktober 1999
 - Upacara Yubileum Emas sekolah menengah, Ghana 30 Januari 2000
 - Kunjungan pertama Hudhur ke Indonesia 19 Juni 2000
@@ -336,7 +336,7 @@ Setelah KPA usai, maka kita bisa menerapkannya sebagai berikut,
 - poin poin pencapaian khalifah 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDkxNjkwMTc5LC04Njk2MTM2MDgsMTU3ND
+eyJoaXN0b3J5IjpbMTE1MzMwMDI1LC04Njk2MTM2MDgsMTU3ND
 gyMDExNywxODM2NzE5OTAxLC0xNTExNjgyMTkxLC0xMTAwOTI1
 MzAwLC05MjU3ODg4NDgsMTk1MTA2MTY5MiwzMTg1NDkxNjksLT
 IwMDczMjk4NjUsMTAwMzI5MjI1OSwyNzM3OTU3MDMsMTM4MjMy
