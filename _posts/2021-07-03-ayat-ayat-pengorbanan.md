@@ -33,14 +33,18 @@ Pengorbanan merupakan salah satu cara kita untuk bisa meraih cinta dari yang kit
 مَّثَلُ الَّذِیۡنَ یُنۡفِقُوۡنَ اَمۡوٰلَہُمۡ فِیۡ سَبِیۡلِ اللّٰہِ کَمَثَلِ حَبَّۃٍ اَنۡۢبَتَتۡ سَبۡعَ سَنَابِلَ فِیۡ کُلِّ سُنۡۢبُلَۃٍ مِّائَۃُ حَبَّۃٍ ۗ وَاللّٰہُ یُضٰعِفُ لِمَنۡ یَّشَآءُ ۗ وَاللّٰہُ وٰسِعٌ عَلِیۡمٌ
 </p>
 
-"Perumpamaan orangorang yang membelanjakan harta mereka di jalan Allah, adalah seumpama sebuah biji menumbuhkan tujuh bulir, pada setiap bulir terdapat seratus biji, Allah melipatgandakan ganjaran-Nya bagi siapa yang Dia kehendaki, dan Allah Mahaluas karunia-Nya, Maha Mengetahui" ([QS Al Baqarah [2]: 262](https://openquran.com/2:262))
+"Perumpamaan orang-orang yang membelanjakan harta mereka di jalan Allah, adalah seumpama sebuah biji menumbuhkan tujuh bulir, pada setiap bulir *terdapat* seratus biji, Allah melipat-gandakan *ganjaran-Nya* bagi siapa yang Dia kehendaki, dan Allah Mahaluas *karunia-Nya*, Maha Mengetahui" ([QS Al Baqarah [2]: 262](https://openquran.com/2:262))
+
+### Ayat Ketiga
+
+(QS Al Baqarah [2]: 266
 
 
 ### Catatan Kaki
 
 [^almaany_qurbaanun]: [Kamus Al-Maany - kata qurbaanun](https://www.almaany.com/id/dict/ar-id/%D9%82%D8%B1%D8%A8%D8%A7%D9%86/) 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTMwOTQ4OTUsLTE2NjM2OTUzMDMsLT
-Y5ODY2MTAzMiw0ODUxNDQyMTcsLTE3NDE0MTk5NzIsLTExMTk2
-NzYzODIsLTExMTc2OTQ0MTJdfQ==
+eyJoaXN0b3J5IjpbNDYyMjk4ODg3LC0xNjYzNjk1MzAzLC02OT
+g2NjEwMzIsNDg1MTQ0MjE3LC0xNzQxNDE5OTcyLC0xMTE5Njc2
+MzgyLC0xMTE3Njk0NDEyXX0=
 -->
