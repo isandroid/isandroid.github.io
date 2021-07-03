@@ -27,13 +27,13 @@ Pengorbanan merupakan salah satu cara kita untuk bisa meraih cinta dari yang kit
 
 ### Ayat Kedua
 
-
+- Pe
 
 ### Catatan Kaki
 
 [^almaany_qurbaanun]: [Kamus Al-Maany - kata qurbaanun](https://www.almaany.com/id/dict/ar-id/%D9%82%D8%B1%D8%A8%D8%A7%D9%86/) 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NjM2OTUzMDMsLTY5ODY2MTAzMiw0OD
-UxNDQyMTcsLTE3NDE0MTk5NzIsLTExMTk2NzYzODIsLTExMTc2
-OTQ0MTJdfQ==
+eyJoaXN0b3J5IjpbNTI1NzU5MDUsLTE2NjM2OTUzMDMsLTY5OD
+Y2MTAzMiw0ODUxNDQyMTcsLTE3NDE0MTk5NzIsLTExMTk2NzYz
+ODIsLTExMTc2OTQ0MTJdfQ==
 -->
