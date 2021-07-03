@@ -125,9 +125,7 @@ Rasulullah (saw) telah menubuwwatkan berdirinya Khilafat dan kerajaan setelah be
 
 Dalam hadits diatas Khalifatul Masih itu disebut oleh Rasulullah (saw) dalam corak _khilafah ‘ala minhajin nubuwwah_ atau khilafah yang mengikuti jejak kenabian.
 
-Hal ini diperkuat dengan nubuwwatan yang disampaikan oleh 
-
-Hadhrat Masih Mau'ud (as) menjelaskan bahwa beliau (as) adalah _Kudrat awwal_ dan akan ada _Kudrat tsaniyah_ (Qudrat kedua) sepeninggal beliau. Beliau (as) menulis,
+Hal ini diperkuat dengan nubuwwatan yang disampaikan oleh Hadhrat Masih Mau'ud (as). Beliau (as) menjelaskan bahwa beliau (as) adalah _Kudrat awwal_ dan akan ada _Kudrat tsaniyah_ (Qudrat kedua) sepeninggal beliau. Beliau (as) menjelaskan,
 
 > Jangan hendaknya hatimu jadi kusut, karena bagimu perlu pula melihat **Kudrat yang Kedua**. Kedatangannya kepadamu membawa kebaikan bagimu, karena ia selamanya akan tinggal bersama kamu, dan sampai hari kiamat silsilahnya tidak akan berakhir. **Kudrat yang Kedua** itu tidak dapat datang sebelum aku pergi; akan tetapi bila aku pergi, maka Tuhan akan mengirimkan **Kudrat yang Kedua** itu kepadamu, yang akan tinggal bersama kamu selama-lamanya; sebagaimana janji Allah Ta’ala dalam “Barāhīn-e-Ahmadiyah”. Dan janji itu bukan untuk aku, melainkan untuk kamu, seperti firman Allah Ta’ala:
 >
@@ -342,5 +340,5 @@ Setelah KPA usai, maka kita bisa menerapkannya sebagai berikut,
 - poin poin pencapaian khalifah 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc5NzQ2MTk3N119
+eyJoaXN0b3J5IjpbLTY1NTk2OTY3OCwtNzk3NDYxOTc3XX0=
 -->
