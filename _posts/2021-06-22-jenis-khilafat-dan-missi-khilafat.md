@@ -186,6 +186,7 @@ Huzur V (atba) menjelaskan tentang kewajiban para Ahmadi. Salah satunya adalah m
 >
 > Begitu pula, merupakan kewajiban bagi setiap Ahmadi untuk **senantiasa memiliki hubungan yang kuat dengan Nizam Jemaat serta ikatan kesetiaan dan ketaatan dengan Khilafat** seperti yang telah mereka janjikan pada saat baiat. Dengan karunia Allah, para mubayi' baru, khususnya mereka yang telah menerima da'wa Hadhrat Masih Mau'ud as dengan penuh keyakinan dan pengetahuan yang sempurna, senantiasa merenungkan janji mereka dan juga syarat-syarat baiat. Mereka juga menulis surat kepada saya sehubungan dengan hal ini [[^khotbah20151009]].
 
+
 ### Pencapaian Khilafat Ahmadiyah
 
 Dalam sejarah tidak bisa dipungkiri bahwa terdapat pencapaian-pencapaian luar biasa dalam kepemimpinan para Khalifatul Masih. Berikut ini akan kami uraikan sebagian sejarah dalam di zaman khalifatul masih.
@@ -340,5 +341,5 @@ Setelah KPA usai, maka kita bisa menerapkannya sebagai berikut,
 - poin poin pencapaian khalifah 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1NTk2OTY3OCwtNzk3NDYxOTc3XX0=
+eyJoaXN0b3J5IjpbLTM2MzUzMzcyOCwtNzk3NDYxOTc3XX0=
 -->
