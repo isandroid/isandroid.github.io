@@ -188,7 +188,9 @@ Huzur V (atba) menjelaskan tentang kewajiban para Ahmadi. Salah satunya adalah m
 
 Huzur V (atba) menjelaskan bagaimana agar kita mendapatkan berkat-berkat khilafat,
 
-> Salah satu syarat utama adalah bahwa pahala Khilafat akan diberikan kepada mereka yang menyembah Allah SWT dan tidak menerima sekutu bagi-Nya. Mereka harus teratur dalam shalat dan memperhatikan penuh pemenuhan hak-hak ibadah. Mereka harus menunaikan zakat dan taat sepenuhnya kepada Nabi Suci ( saw )Islam. Dengan demikian menurut syarat-syarat tersebut orang-orang beriman harus menyembah Allah semata dan taat sepenuhnya kepada Rasul-Nya. Mereka harus mengabdikan diri untuk berdoa dan siap untuk pengorbanan finansial demi iman mereka. Hanya dengan begitu mereka akan layak mendapatkan hadiah ini. Oleh karena itu betapa beruntungnya kita bahwa hari ini hanya Jemaat Muslim Ahmadiyah saja yang dikaruniai Allah pahala besar Khilafat ini.
+- Salah satu syarat utama adalah bahwa pahala Khilafat akan diberikan kepada mereka yang menyembah Allah SWT dan tidak menerima sekutu bagi-Nya. Mereka harus teratur dalam shalat dan memperhatikan penuh pemenuhan hak-hak ibadah. 
+- Mereka harus menunaikan zakat dan taat sepenuhnya kepada Rasulullah (saw). Dengan demikian menurut syarat-syarat tersebut orang-orang beriman harus menyembah Allah semata dan taat sepenuhnya kepada Rasul-Nya. 
+- Mereka harus mengabdikan diri untuk shalat dan siap untuk pengorbanan harta demi (menjaga) iman mereka. Hanya dengan begitu mereka akan layak mendapatkan hadiah ini. Oleh karena itu betapa beruntungnya kita bahwa hari ini hanya Jemaat Muslim Ahmadiyah saja yang dikaruniai Allah pahala besar Khilafat ini.
 
 https://www.alislam.org/articles/connecting-to-khilafat-guidance-for-todays-muslim-youth/
 
@@ -346,6 +348,6 @@ Setelah KPA usai, maka kita bisa menerapkannya sebagai berikut,
 - poin poin pencapaian khalifah 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODMwODkwNzYsMTIwNDI4Njc2NSwtNzk3ND
-YxOTc3XX0=
+eyJoaXN0b3J5IjpbMTM3NzEzOTkyNywxMjA0Mjg2NzY1LC03OT
+c0NjE5NzddfQ==
 -->
