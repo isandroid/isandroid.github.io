@@ -21,7 +21,7 @@ Pengorbanan merupakan salah satu cara kita untuk bisa meraih cinta dari yang kit
 تُؤۡمِنُوۡنَ بِاللّٰہِ وَرَسُوۡلِہٖ وَتُجٰہِدُوۡنَ فِیۡ سَبِیۡلِ اللّٰہِ بِاَمۡوٰلِکُمۡ وَاَنۡفُسِکُمۡ ۚ ذٰلِکُمۡ خَیۡرٌ لَّکُمۡ اِنۡ کُنۡتُمۡ تَعۡلَمُوۡنَ
 </p>
 
-
+Hai orang-orang yang beriman, Maukah Aku tunjukkan kepadamu perdagangan3041 yang akan menyelamatkan kamu dari azab yang pedih?
 
 (QS Ash-Shaaf [61]: [11](https://openquran.com/61:11)-[12](https://openquran.com/61:12))
 
@@ -29,6 +29,6 @@ Pengorbanan merupakan salah satu cara kita untuk bisa meraih cinta dari yang kit
 
 [^almaany_qurbaanun]: [Kamus Al-Maany - kata qurbaanun](https://www.almaany.com/id/dict/ar-id/%D9%82%D8%B1%D8%A8%D8%A7%D9%86/) 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODc4ODg5NDE3LC0xNzQxNDE5OTcyLC0xMT
+eyJoaXN0b3J5IjpbNDg1MTQ0MjE3LC0xNzQxNDE5OTcyLC0xMT
 E5Njc2MzgyLC0xMTE3Njk0NDEyXX0=
 -->
