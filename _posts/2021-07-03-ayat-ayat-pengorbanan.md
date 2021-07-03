@@ -13,6 +13,8 @@ Pengorbanan merupakan salah satu cara kita untuk bisa meraih cinta dari yang kit
 
 ### Ayat Pertama
 
+- Pengorbanan bisa menyelamatkan manusia dari azab yang pedih
+
 <p class="quran">
 یٰۤاَیُّہَا الَّذِیۡنَ اٰمَنُوۡا ہَلۡ اَدُلُّکُمۡ عَلٰی تِجٰرَۃٍ تُنۡجِیۡکُمۡ مِّنۡ عَذَابٍ اَلِیۡمٍ
 </p>
@@ -21,7 +23,7 @@ Pengorbanan merupakan salah satu cara kita untuk bisa meraih cinta dari yang kit
 تُؤۡمِنُوۡنَ بِاللّٰہِ وَرَسُوۡلِہٖ وَتُجٰہِدُوۡنَ فِیۡ سَبِیۡلِ اللّٰہِ بِاَمۡوٰلِکُمۡ وَاَنۡفُسِکُمۡ ۚ ذٰلِکُمۡ خَیۡرٌ لَّکُمۡ اِنۡ کُنۡتُمۡ تَعۡلَمُوۡنَ
 </p>
 
-"Hai orang-orang yang beriman, Maukah Aku tunjukkan kepadamu perdagangan yang akan menyelamatkan kamu dari azab yang pedih? - Kamu beriman kepada Allah dan Rasul-Nya, dan kamu berjihad di jalan Allah dengan harta dan jiwamu. Hal itu lebih baik bagimu jika kamu mengetahui" (QS Ash-Shaaf [61]: [11](https://openquran.com/61:11)-[12](https://openquran.com/61:12))
+"Hai orang-orang yang beriman, Maukah Aku tunjukkan kepadamu perdagangan yang akan menyelamatkan kamu dari azab yang pedih? - Kamu beriman kepada Allah dan Rasul-Nya, dan kamu **berjihad di jalan Allah dengan harta dan jiwamu**. Hal itu lebih baik bagimu jika kamu mengetahui" (QS Ash-Shaaf [61]: [11](https://openquran.com/61:11)-[12](https://openquran.com/61:12))
 
 ### Ayat Kedua
 
@@ -31,6 +33,7 @@ Pengorbanan merupakan salah satu cara kita untuk bisa meraih cinta dari yang kit
 
 [^almaany_qurbaanun]: [Kamus Al-Maany - kata qurbaanun](https://www.almaany.com/id/dict/ar-id/%D9%82%D8%B1%D8%A8%D8%A7%D9%86/) 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5ODY2MTAzMiw0ODUxNDQyMTcsLTE3ND
-E0MTk5NzIsLTExMTk2NzYzODIsLTExMTc2OTQ0MTJdfQ==
+eyJoaXN0b3J5IjpbLTE2NjM2OTUzMDMsLTY5ODY2MTAzMiw0OD
+UxNDQyMTcsLTE3NDE0MTk5NzIsLTExMTk2NzYzODIsLTExMTc2
+OTQ0MTJdfQ==
 -->
