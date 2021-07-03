@@ -49,13 +49,13 @@ Pengorbanan akan menarik ridho Allah dan memperteguh jiwa
 
 اَلَّذِیۡنَ یُنۡفِقُوۡنَ اَمۡوٰلَہُمۡ فِیۡ سَبِیۡلِ اللّٰہِ ثُمَّ لَا یُتۡبِعُوۡنَ مَاۤ اَنۡفَقُوۡا مَنًّا وَّلَاۤ اَذًی ۙ لَّہُمۡ اَجۡرُہُمۡ عِنۡدَ رَبِّہِمۡ وَلَا خَوۡفٌ عَلَیۡہِمۡ وَلَا ہُمۡ یَحۡزَنُوۡنَ
 
-[QS Al Baqarah [2]: 263](https://openquran.com/2:263)
+([QS Al Baqarah [2]: 263](https://openquran.com/2:263))
 
 ### Catatan Kaki
 
 [^almaany_qurbaanun]: [Kamus Al-Maany - kata qurbaanun](https://www.almaany.com/id/dict/ar-id/%D9%82%D8%B1%D8%A8%D8%A7%D9%86/) 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1ODgyMjM5OCwtMTY2MzY5NTMwMywtNj
-k4NjYxMDMyLDQ4NTE0NDIxNywtMTc0MTQxOTk3MiwtMTExOTY3
-NjM4MiwtMTExNzY5NDQxMl19
+eyJoaXN0b3J5IjpbLTE0NjY1MTYzMDksMTA1ODgyMjM5OCwtMT
+Y2MzY5NTMwMywtNjk4NjYxMDMyLDQ4NTE0NDIxNywtMTc0MTQx
+OTk3MiwtMTExOTY3NjM4MiwtMTExNzY5NDQxMl19
 -->
