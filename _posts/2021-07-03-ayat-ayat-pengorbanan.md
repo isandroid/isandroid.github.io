@@ -13,12 +13,21 @@ Pengorbanan merupakan salah satu cara kita untuk bisa meraih cinta dari yang kit
 
 ### Ayat Pertama
 
+<p class="quran">
+یٰۤاَیُّہَا الَّذِیۡنَ اٰمَنُوۡا ہَلۡ اَدُلُّکُمۡ عَلٰی تِجٰرَۃٍ تُنۡجِیۡکُمۡ مِّنۡ عَذَابٍ اَلِیۡمٍ
+</p>
+
+<p class="quran">
+تُؤۡمِنُوۡنَ بِاللّٰہِ وَرَسُوۡلِہٖ وَتُجٰہِدُوۡنَ فِیۡ سَبِیۡلِ اللّٰہِ بِاَمۡوٰلِکُمۡ وَاَنۡفُسِکُمۡ ۚ ذٰلِکُمۡ خَیۡرٌ لَّکُمۡ اِنۡ کُنۡتُمۡ تَعۡلَمُوۡنَ
+</p>
+
+
 
 
 ### Catatan Kaki
 
 [^almaany_qurbaanun]: [Kamus Al-Maany - kata qurbaanun](https://www.almaany.com/id/dict/ar-id/%D9%82%D8%B1%D8%A8%D8%A7%D9%86/) 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NDE0MTk5NzIsLTExMTk2NzYzODIsLT
-ExMTc2OTQ0MTJdfQ==
+eyJoaXN0b3J5IjpbMTQ0NjczMTk0OCwtMTc0MTQxOTk3MiwtMT
+ExOTY3NjM4MiwtMTExNzY5NDQxMl19
 -->
