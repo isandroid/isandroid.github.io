@@ -9,7 +9,8 @@ published: false
 
 ## {{ page.title }}
 
-Pengorbanan merupakan salah satu cara kita untuk bisa meraih cinta dari yang kita cintai. Hal ini kita lihat dari kata "qurban" 
+Pengorbanan merupakan salah satu cara kita untuk bisa meraih cinta dari yang kita cintai. Hal ini kita lihat dari kata "qurban" yang artinya dekat
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyMjM1NzgwOCwtMTExNzY5NDQxMl19
+eyJoaXN0b3J5IjpbLTExMTk2NzYzODIsLTExMTc2OTQ0MTJdfQ
+==
 -->
