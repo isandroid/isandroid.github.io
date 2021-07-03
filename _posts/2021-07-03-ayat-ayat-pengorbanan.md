@@ -17,10 +17,13 @@ Pengorbanan merupakan salah satu cara kita untuk bisa meraih cinta dari yang kit
 یٰۤاَیُّہَا الَّذِیۡنَ اٰمَنُوۡا ہَلۡ اَدُلُّکُمۡ عَلٰی تِجٰرَۃٍ تُنۡجِیۡکُمۡ مِّنۡ عَذَابٍ اَلِیۡمٍ
 </p>
 
+https://openquran.com/61:11
+
 <p class="quran">
 تُؤۡمِنُوۡنَ بِاللّٰہِ وَرَسُوۡلِہٖ وَتُجٰہِدُوۡنَ فِیۡ سَبِیۡلِ اللّٰہِ بِاَمۡوٰلِکُمۡ وَاَنۡفُسِکُمۡ ۚ ذٰلِکُمۡ خَیۡرٌ لَّکُمۡ اِنۡ کُنۡتُمۡ تَعۡلَمُوۡنَ
 </p>
 
+https://openquran.com/61:12
 
 
 
@@ -28,6 +31,6 @@ Pengorbanan merupakan salah satu cara kita untuk bisa meraih cinta dari yang kit
 
 [^almaany_qurbaanun]: [Kamus Al-Maany - kata qurbaanun](https://www.almaany.com/id/dict/ar-id/%D9%82%D8%B1%D8%A8%D8%A7%D9%86/) 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0NjczMTk0OCwtMTc0MTQxOTk3MiwtMT
-ExOTY3NjM4MiwtMTExNzY5NDQxMl19
+eyJoaXN0b3J5IjpbLTE1NTE2MjM3NTMsLTE3NDE0MTk5NzIsLT
+ExMTk2NzYzODIsLTExMTc2OTQ0MTJdfQ==
 -->
