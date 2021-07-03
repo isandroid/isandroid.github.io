@@ -27,13 +27,20 @@ Pengorbanan merupakan salah satu cara kita untuk bisa meraih cinta dari yang kit
 
 ### Ayat Kedua
 
-- Pe
+- Pengorbanan kita akan dilipat-gandakan 
+
+<p class="quran">
+مَّثَلُ الَّذِیۡنَ یُنۡفِقُوۡنَ اَمۡوٰلَہُمۡ فِیۡ سَبِیۡلِ اللّٰہِ کَمَثَلِ حَبَّۃٍ اَنۡۢبَتَتۡ سَبۡعَ سَنَابِلَ فِیۡ کُلِّ سُنۡۢبُلَۃٍ مِّائَۃُ حَبَّۃٍ ۗ وَاللّٰہُ یُضٰعِفُ لِمَنۡ یَّشَآءُ ۗ وَاللّٰہُ وٰسِعٌ عَلِیۡمٌ
+</p>
+
+[](https://openquran.com/2:262)
+
 
 ### Catatan Kaki
 
 [^almaany_qurbaanun]: [Kamus Al-Maany - kata qurbaanun](https://www.almaany.com/id/dict/ar-id/%D9%82%D8%B1%D8%A8%D8%A7%D9%86/) 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTI1NzU5MDUsLTE2NjM2OTUzMDMsLTY5OD
-Y2MTAzMiw0ODUxNDQyMTcsLTE3NDE0MTk5NzIsLTExMTk2NzYz
-ODIsLTExMTc2OTQ0MTJdfQ==
+eyJoaXN0b3J5IjpbLTEwNjQyMjA1NTksLTE2NjM2OTUzMDMsLT
+Y5ODY2MTAzMiw0ODUxNDQyMTcsLTE3NDE0MTk5NzIsLTExMTk2
+NzYzODIsLTExMTc2OTQ0MTJdfQ==
 -->
