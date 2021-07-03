@@ -57,21 +57,20 @@ Orang yang berkorban akan diberikan ganjaran dan keberkahan hidup
 
 ### Ayat Kelima
 
-Pengorbanan akan men
+Pengorbanan akan mensucikan dan membersihkan hati/jiwa/harta kita
 
 <p class="quran">
 خُذۡ مِنۡ اَمۡوٰلِہِمۡ صَدَقَۃً تُطَہِّرُہُمۡ وَتُزَکِّیۡہِمۡ بِہَا وَصَلِّ عَلَیۡہِمۡ ۖ اِنَّ صَلَوٰتَکَ سَکَنٌ لَّہُمۡ ۗ وَاللّٰہُ سَمِیۡعٌ عَلِیۡمٌ
 </p>
 
-
-([QS At Taubah [9]: 103](https://openquran.com/9:103))
+"Ambillah sedekah dari harta mereka agar engkau dapat membersihkan mereka dan mensucikan mereka dengannya. Dan berdoalah untuk mereka; sesungguhnya doa engkau adalah *sumber* ketenteraman bagi mereka. Dan, Allah itu Maha Mendengar, Maha Mengetahui." ([QS At Taubah [9]: 103](https://openquran.com/9:103))
 
 ### Catatan Kaki
 
 [^almaany_qurbaanun]: [Kamus Al-Maany - kata qurbaanun](https://www.almaany.com/id/dict/ar-id/%D9%82%D8%B1%D8%A8%D8%A7%D9%86/) 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3OTQ5Mjc2OSwtMTE1OTc2MTc1OSwxMD
-U4ODIyMzk4LC0xNjYzNjk1MzAzLC02OTg2NjEwMzIsNDg1MTQ0
-MjE3LC0xNzQxNDE5OTcyLC0xMTE5Njc2MzgyLC0xMTE3Njk0ND
-EyXX0=
+eyJoaXN0b3J5IjpbNzMzODMyNzE5LC0xMTU5NzYxNzU5LDEwNT
+g4MjIzOTgsLTE2NjM2OTUzMDMsLTY5ODY2MTAzMiw0ODUxNDQy
+MTcsLTE3NDE0MTk5NzIsLTExMTk2NzYzODIsLTExMTc2OTQ0MT
+JdfQ==
 -->
