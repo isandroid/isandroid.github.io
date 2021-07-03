@@ -49,19 +49,29 @@ Pengorbanan akan menarik ridho Allah dan memperteguh jiwa
 
 Orang yang berkorban akan diberikan ganjaran dan keberkahan hidup
 
+<p class="quran">
 اَلَّذِیۡنَ یُنۡفِقُوۡنَ اَمۡوٰلَہُمۡ فِیۡ سَبِیۡلِ اللّٰہِ ثُمَّ لَا یُتۡبِعُوۡنَ مَاۤ اَنۡفَقُوۡا مَنًّا وَّلَاۤ اَذًی ۙ لَّہُمۡ اَجۡرُہُمۡ عِنۡدَ رَبِّہِمۡ وَلَا خَوۡفٌ عَلَیۡہِمۡ وَلَا ہُمۡ یَحۡزَنُوۡنَ
+</p>
 
 "Orang-orang yang membelanjakan hartanya di jalan Allah kemudian mereka tidak mengiringi apa yang dibelanjakannya itu dengan menyebut-nyebut kebaikan dan tidak *pula* menyakiti *hati*, bagi mereka ada ganjarannya di sisi Tuhan-nya, dan **tidak ada ketakutan pada mereka dan tidak pula mereka akan bersedih**" ([QS Al Baqarah [2]: 263](https://openquran.com/2:263))
 
 ### Ayat Kelima
 
-([QS At Taubah [9]: 103]())
+Pengorbanan akan men
+
+<p class="quran">
+خُذۡ مِنۡ اَمۡوٰلِہِمۡ صَدَقَۃً تُطَہِّرُہُمۡ وَتُزَکِّیۡہِمۡ بِہَا وَصَلِّ عَلَیۡہِمۡ ۖ اِنَّ صَلَوٰتَکَ سَکَنٌ لَّہُمۡ ۗ وَاللّٰہُ سَمِیۡعٌ عَلِیۡمٌ
+</p>
+
+
+([QS At Taubah [9]: 103](https://openquran.com/9:103))
 
 ### Catatan Kaki
 
 [^almaany_qurbaanun]: [Kamus Al-Maany - kata qurbaanun](https://www.almaany.com/id/dict/ar-id/%D9%82%D8%B1%D8%A8%D8%A7%D9%86/) 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTk3NjE3NTksMTA1ODgyMjM5OCwtMT
-Y2MzY5NTMwMywtNjk4NjYxMDMyLDQ4NTE0NDIxNywtMTc0MTQx
-OTk3MiwtMTExOTY3NjM4MiwtMTExNzY5NDQxMl19
+eyJoaXN0b3J5IjpbMTg3OTQ5Mjc2OSwtMTE1OTc2MTc1OSwxMD
+U4ODIyMzk4LC0xNjYzNjk1MzAzLC02OTg2NjEwMzIsNDg1MTQ0
+MjE3LC0xNzQxNDE5OTcyLC0xMTE5Njc2MzgyLC0xMTE3Njk0ND
+EyXX0=
 -->
