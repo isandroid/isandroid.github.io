@@ -192,7 +192,7 @@ Huzur V (atba) menjelaskan bagaimana agar kita mendapatkan berkat-berkat khilafa
 - Mereka harus menunaikan zakat dan taat sepenuhnya kepada Rasulullah (saw). Dengan demikian menurut syarat-syarat tersebut orang-orang beriman harus menyembah Allah semata dan taat sepenuhnya kepada Rasul-Nya. 
 - Mereka harus mengabdikan diri untuk shalat dan siap untuk pengorbanan harta demi (menjaga) iman mereka. Hanya dengan begitu mereka akan layak mendapatkan hadiah ini. Oleh karena itu betapa beruntungnya kita bahwa hari ini hanya Jemaat Muslim Ahmadiyah saja yang dikaruniai Allah pahala besar Khilafat ini.
 
-https://www.alislam.org/articles/connecting-to-khilafat-guidance-for-todays-muslim-youth/
+[^pidato_ijtima_uk_2015]: [Alislam.org - Terhubung dengan Khilafat: Pedoman Pemuda Muslim Masa Kini, Pidato Huzur V (atba) dalam Ijtima Khuddam UK tahun 2015](https://www.alislam.org/articles/connecting-to-khilafat-guidance-for-todays-muslim-youth/)
 
 ### Pencapaian Khilafat Ahmadiyah
 
@@ -348,6 +348,6 @@ Setelah KPA usai, maka kita bisa menerapkannya sebagai berikut,
 - poin poin pencapaian khalifah 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3NzEzOTkyNywxMjA0Mjg2NzY1LC03OT
-c0NjE5NzddfQ==
+eyJoaXN0b3J5IjpbMzY2OTI5NDQ0LDEyMDQyODY3NjUsLTc5Nz
+Q2MTk3N119
 -->
