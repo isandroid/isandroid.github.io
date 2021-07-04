@@ -76,6 +76,7 @@ Katakanlah, “Sesungguhnya shalatku, **pengorbananku**, hidupku, dan matiku han
 "Orang-orang yang membelanjakan hartanya di jalan Allah kemudian mereka tidak mengiringi apa yang dibelanjakannya itu dengan menyebut-nyebut kebaikan dan tidak *pula* menyakiti *hati*, bagi mereka ada ganjarannya di sisi Tuhan-nya, dan **tidak ada ketakutan pada mereka dan tidak pula mereka akan bersedih**" ([QS Al Baqarah [2]: 263](https://openquran.com/2:263))
 
 - Orang yang berkorban akan diberikan ganjaran dan keberkahan hidup atau kebahagiaan hidup.
+- Selain itu ayat ini menjelaskan bahwa tiap-tiap perbuatan baik dapat disalahgunakan. Penyalahgunaan belanja harta di jalan Allah ialah menyertakannya dengan Mann (dengan sombong menyebut-nyebut perbuatan baiknya) dan Adzā (menyatakannya dengan menyakiti). Mereka yang membelanjakan kekayaan mereka di jalan Allah dilarang menyebut-nyebut dengan tanpa guna dan tidak pada tempatnya mengenai uang yang mereka belanjakan serta bakti yang mereka berikan demi kepentingan kebenaran; sebab, perbuatan demikian termasuk Mann (celaan, ejekan). Demikian pula mereka diperintahkan agar tidak menuntut sesuatu sebagai imbalan atas bantuan mereka
 
 ### QS Al Baqarah (2): 266
 
@@ -124,11 +125,11 @@ Katakanlah, “Sesungguhnya shalatku, **pengorbananku**, hidupku, dan matiku han
 37:108 -- pengorbanan nabi Ibrohim
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUxNzY5MzAzMiwtMTU4NjM0NTQxNCwtMT
-U0NTQwNjAzNCwtNjMxMzcwOTM5LC0xNjgyNjE0NTk1LC05MDE2
-MDg1MDcsLTE3MTU0NjEwNzksLTIwMzI0Mjg2OTUsMjAxOTE4NT
-E0MCw0MDE4MTcwMTUsMTc2MjM1MzY2NSwtMTczMjUyMzAxOCw3
-MzM4MzI3MTksLTExNTk3NjE3NTksMTA1ODgyMjM5OCwtMTY2Mz
-Y5NTMwMywtNjk4NjYxMDMyLDQ4NTE0NDIxNywtMTc0MTQxOTk3
-MiwtMTExOTY3NjM4Ml19
+eyJoaXN0b3J5IjpbLTIwNDgxNjg3ODAsMTUxNzY5MzAzMiwtMT
+U4NjM0NTQxNCwtMTU0NTQwNjAzNCwtNjMxMzcwOTM5LC0xNjgy
+NjE0NTk1LC05MDE2MDg1MDcsLTE3MTU0NjEwNzksLTIwMzI0Mj
+g2OTUsMjAxOTE4NTE0MCw0MDE4MTcwMTUsMTc2MjM1MzY2NSwt
+MTczMjUyMzAxOCw3MzM4MzI3MTksLTExNTk3NjE3NTksMTA1OD
+gyMjM5OCwtMTY2MzY5NTMwMywtNjk4NjYxMDMyLDQ4NTE0NDIx
+NywtMTc0MTQxOTk3Ml19
 -->
