@@ -91,6 +91,10 @@ Apa perbedaan antara khalifah yang mendapatkan bimbingan dengan khalifah yang me
 
 Umar bertanya kepada Salman, "Apakah aku seorang Khalifah atau seorang Raja?” Salman Menjawab, “Jika tuan mengumpulkan pajak dari tanah orang-orang Islam satu Dirham, atau lebih, atau kurang, dan menggunakannya dengan tidak sah, maka tuan adalah seorang Raja bukan Khalifah.” Kemudian Umar menangis.” (_At Tabari_, Tarikh al-Rusul wal Muluk) [[^attabary_tarikh_arrusul_wal_muluk]] [[^berdirinya_khalifah_islam_keruntuhan_dan_kebangkitannya]]
 
+Hadhrat Khalifatul Masih V (atba) bersabda,
+
+> ”Khilafat pasti akan berdiri (senantiasa ada) ditengah orang-orang Muslim.” Akan tetapi Dia telah berjanji bersyarat dengan beberapa syarat dan syarat pertama dari itu adalah harus ada kamil ithaa’at (ketaatan yang sempurna). Mata rantai (kesinambungan) Khilafat Rasyidah sebelumnya telah terputus karena umat Muslim telah keluar dari bingkai taat (meninggalkan ketaatan). Orang-orang Muslim menjadi mahrum (terlepas) dari Khilafat hakiki apabila mereka sudah meninggalkan ketaatan. Setelah keluar dari ketaatan, sebagian golongan mulai mengatakan, “Kami mensyaratkan baiat kami dengan sebagian syarat yang di dalamnya sebab yang paling besar adalah tuntutan pembalasan atas kesyahidan Hadhrat Usman” atau karena terpedaya dengan perkatan-perkataan sebagian penyebar fitnah, mereka menjadi orang yang keluar dari ketaatan Sekalipun pada waktu itu para sahabat masih ada. Namun ketika keluar dari ketaatan yang sempurna maka mereka dimahrumkan dari Khilafat (tidak mendapat nikmat berkat Khilafat). Sebab, keputusan untuk menjadikan Khalifah Allah Ta’ala sendiri telah mengambil alih di tangan-Nya maka kemudian sesudah perselisihan-perselisihan, sesudah keluar dari taat semua usaha-usaha mereka menjadi Khalifah dan membuat Khalifah menjadi gagal dan sia-sia. Dan Khilafat mengambil corak monarki (kerajaan) [[^khotbah20110520]] [[^tafsir_ayat_istikhlaf]]
+
 #### Perpaduan dari Jenis Khalifah Di atas 
 
 - **Khalifatulloh** sekaligus **Khalifatur Rasul**, contohnya Nabi Harun sebagai wakil dari Nabi Musa; Nabi Ismail dan Nabi Ishaq yang membantu Nabi Ibrahim (as)
@@ -98,11 +102,6 @@ Umar bertanya kepada Salman, "Apakah aku seorang Khalifah atau seorang Raja?” 
 - **Khalifatulloh** sekaligus **Khalifah Mamlukiyah** (memimpin Kerajaan) contohnya Nabi Daud (as); Nabi Sulaiman (as) dan Rasulullah (saw))
 
 - **Khalifatur Rasul** sekaligus **Khalifah Mamlukiyah** (Kerajaan) (contoh: Khulafa-ur-Rosyidin)
-
-
-
-
-
 
 ### Dasar Kemunculan Khalifah Rosyidah dan Khalifatul Masih
 
@@ -366,6 +365,6 @@ Dalam sejarah tidak bisa dipungkiri bahwa terdapat pencapaian-pencapaian luar bi
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwNjA5MTA2NiwxOTgyODQ1NTk1LC0xNz
-QzMzA4OTMzXX0=
+eyJoaXN0b3J5IjpbLTEwNTgwNzA5MzQsMTk4Mjg0NTU5NSwtMT
+c0MzMwODkzM119
 -->
