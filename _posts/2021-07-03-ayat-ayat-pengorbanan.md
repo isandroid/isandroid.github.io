@@ -25,7 +25,7 @@ Dengan berkorban, maka kita akan mendapatkan *qurub ilahi* atau kedekatan dengan
 
 "Hai orang-orang yang beriman, Maukah Aku tunjukkan kepadamu perdagangan yang akan menyelamatkan kamu dari azab yang pedih? - Kamu beriman kepada Allah dan Rasul-Nya, dan kamu **berjihad di jalan Allah dengan harta dan jiwamu**. Hal itu lebih baik bagimu jika kamu mengetahui" (QS Ash-Shaaf [61]: [11](https://openquran.com/61:11)-[12](https://openquran.com/61:12))
 
-Jadi disini kita bisa mengetahui bahwa berkorban merupakan salah satu jihad di jalan Allah Ta'ala.
+- Jadi disini kita bisa mengetahui bahwa berkorban merupakan salah satu jihad di jalan Allah Ta'ala.
 
 ### Ayat Kedua
 
@@ -35,7 +35,7 @@ Jadi disini kita bisa mengetahui bahwa berkorban merupakan salah satu jihad di j
 
 "Perumpamaan orang-orang yang membelanjakan harta mereka di jalan Allah, adalah seumpama sebuah biji menumbuhkan tujuh bulir, pada setiap bulir *terdapat* seratus biji, **Allah melipat-gandakan *ganjaran-Nya*** bagi siapa yang Dia kehendaki, dan Allah Mahaluas *karunia-Nya*, Maha Mengetahui" ([QS Al Baqarah [2]: 262](https://openquran.com/2:262))
 
-Dalam ayat ini, Allah Ta'ala akan melipatgandakan amal-shaleh atau pengorbanan yang telah kita lakukan. 
+- Dalam ayat ini, Allah Ta'ala akan melipatgandakan amal-shaleh atau pengorbanan yang telah kita lakukan. 
 
 ### Ayat Ketiga
 
@@ -49,17 +49,15 @@ Pengorbanan akan menarik ridho Allah dan memperteguh jiwa
 
 ### Ayat Keempat
 
-Orang yang berkorban akan diberikan ganjaran dan keberkahan hidup
-
 <p class="quran">
 اَلَّذِیۡنَ یُنۡفِقُوۡنَ اَمۡوٰلَہُمۡ فِیۡ سَبِیۡلِ اللّٰہِ ثُمَّ لَا یُتۡبِعُوۡنَ مَاۤ اَنۡفَقُوۡا مَنًّا وَّلَاۤ اَذًی ۙ لَّہُمۡ اَجۡرُہُمۡ عِنۡدَ رَبِّہِمۡ وَلَا خَوۡفٌ عَلَیۡہِمۡ وَلَا ہُمۡ یَحۡزَنُوۡنَ
 </p>
 
 "Orang-orang yang membelanjakan hartanya di jalan Allah kemudian mereka tidak mengiringi apa yang dibelanjakannya itu dengan menyebut-nyebut kebaikan dan tidak *pula* menyakiti *hati*, bagi mereka ada ganjarannya di sisi Tuhan-nya, dan **tidak ada ketakutan pada mereka dan tidak pula mereka akan bersedih**" ([QS Al Baqarah [2]: 263](https://openquran.com/2:263))
 
-### Ayat Kelima
+- Orang yang berkorban akan diberikan ganjaran dan keberkahan hidup
 
-Pengorbanan akan mensucikan dan membersihkan hati/jiwa/harta kita
+### Ayat Kelima
 
 <p class="quran">
 خُذۡ مِنۡ اَمۡوٰلِہِمۡ صَدَقَۃً تُطَہِّرُہُمۡ وَتُزَکِّیۡہِمۡ بِہَا وَصَلِّ عَلَیۡہِمۡ ۖ اِنَّ صَلَوٰتَکَ سَکَنٌ لَّہُمۡ ۗ وَاللّٰہُ سَمِیۡعٌ عَلِیۡمٌ
@@ -67,12 +65,21 @@ Pengorbanan akan mensucikan dan membersihkan hati/jiwa/harta kita
 
 "Ambillah sedekah dari harta mereka agar engkau dapat membersihkan mereka dan mensucikan mereka dengannya. Dan berdoalah untuk mereka; sesungguhnya doa engkau adalah *sumber* ketenteraman bagi mereka. Dan, Allah itu Maha Mendengar, Maha Mengetahui." ([QS At Taubah [9]: 103](https://openquran.com/9:103))
 
+- Pengorbanan akan mensucikan dan membersihkan hati/jiwa/harta kita
+
+### Ayat Keenam
+
+<p class="quran">
+
+</p>
+
 ### Catatan Kaki
 
-[^almaany_qurbaanun]: [Kamus Al-Maany - kata qurbaanun](https://www.almaany.com/id/dict/ar-id/%D9%82%D8%B1%D8%A8%D8%A7%D9%86/) 
+[^almaany_qurbaanun]: [Kamus Al-Maany - kata *qurbaanun*](https://www.almaany.com/id/dict/ar-id/%D9%82%D8%B1%D8%A8%D8%A7%D9%86/) 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2MjM1MzY2NSwtMTczMjUyMzAxOCw3Mz
-M4MzI3MTksLTExNTk3NjE3NTksMTA1ODgyMjM5OCwtMTY2MzY5
-NTMwMywtNjk4NjYxMDMyLDQ4NTE0NDIxNywtMTc0MTQxOTk3Mi
-wtMTExOTY3NjM4MiwtMTExNzY5NDQxMl19
+eyJoaXN0b3J5IjpbLTUxODA1MzI3NywxNzYyMzUzNjY1LC0xNz
+MyNTIzMDE4LDczMzgzMjcxOSwtMTE1OTc2MTc1OSwxMDU4ODIy
+Mzk4LC0xNjYzNjk1MzAzLC02OTg2NjEwMzIsNDg1MTQ0MjE3LC
+0xNzQxNDE5OTcyLC0xMTE5Njc2MzgyLC0xMTE3Njk0NDEyXX0=
+
 -->
