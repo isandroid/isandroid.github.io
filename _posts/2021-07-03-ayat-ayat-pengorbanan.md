@@ -70,14 +70,14 @@ Pengorbanan akan menarik ridho Allah dan memperteguh jiwa
 ### Ayat Keenam
 
 <p class="quran">
-
+اَلَّذِیۡنَ یُقِیۡمُوۡنَ الصَّلٰوۃَ وَمِمَّا رَزَقۡنٰہُمۡ یُنۡفِقُوۡنَ
 </p>
 
 <p class="quran">
 
 </p>
 
-QS Al Anfal [8]: 4-5
+(QS Al Anfal [8]: [4](https://openquran.com/8:4)-[5](https://openquran.com/8:5))
 
 ### Ayat Ketujuh
 
@@ -109,9 +109,9 @@ QS Thaha [20]: 76-77
 2:197
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2MzY3MDkzMCw0MDE4MTcwMTUsMTc2Mj
-M1MzY2NSwtMTczMjUyMzAxOCw3MzM4MzI3MTksLTExNTk3NjE3
-NTksMTA1ODgyMjM5OCwtMTY2MzY5NTMwMywtNjk4NjYxMDMyLD
-Q4NTE0NDIxNywtMTc0MTQxOTk3MiwtMTExOTY3NjM4MiwtMTEx
-NzY5NDQxMl19
+eyJoaXN0b3J5IjpbNDk5NjkzMDg5LDQwMTgxNzAxNSwxNzYyMz
+UzNjY1LC0xNzMyNTIzMDE4LDczMzgzMjcxOSwtMTE1OTc2MTc1
+OSwxMDU4ODIyMzk4LC0xNjYzNjk1MzAzLC02OTg2NjEwMzIsND
+g1MTQ0MjE3LC0xNzQxNDE5OTcyLC0xMTE5Njc2MzgyLC0xMTE3
+Njk0NDEyXX0=
 -->
