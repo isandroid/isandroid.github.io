@@ -128,6 +128,10 @@ Hai orang-orang yang beriman, janganlah kamu menjadikan sedekah-sedekahmu sia-si
 
 - Jadi di ayat ini, pengorbanan itu merupakan tanda sempurnanya iman dan Allah Ta'ala akan menganugerahkan derajat yang tinggi. 
 
+### Penutup
+
+Demikian materi pengorbanan ini
+
 ### Catatan Kaki
 
 [^almaany_qurbaanun]: [Kamus Al-Maany - kata *qurbaanun*](https://www.almaany.com/id/dict/ar-id/%D9%82%D8%B1%D8%A8%D8%A7%D9%86/) 
@@ -140,11 +144,11 @@ Hai orang-orang yang beriman, janganlah kamu menjadikan sedekah-sedekahmu sia-si
 37:108 -- pengorbanan nabi Ibrohim
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTI5OTcwNjIsMTUxNzY5MzAzMiwtMT
-U4NjM0NTQxNCwtMTU0NTQwNjAzNCwtNjMxMzcwOTM5LC0xNjgy
-NjE0NTk1LC05MDE2MDg1MDcsLTE3MTU0NjEwNzksLTIwMzI0Mj
-g2OTUsMjAxOTE4NTE0MCw0MDE4MTcwMTUsMTc2MjM1MzY2NSwt
-MTczMjUyMzAxOCw3MzM4MzI3MTksLTExNTk3NjE3NTksMTA1OD
-gyMjM5OCwtMTY2MzY5NTMwMywtNjk4NjYxMDMyLDQ4NTE0NDIx
-NywtMTc0MTQxOTk3Ml19
+eyJoaXN0b3J5IjpbLTExNzIxMTg1NTMsLTEyMTI5OTcwNjIsMT
+UxNzY5MzAzMiwtMTU4NjM0NTQxNCwtMTU0NTQwNjAzNCwtNjMx
+MzcwOTM5LC0xNjgyNjE0NTk1LC05MDE2MDg1MDcsLTE3MTU0Nj
+EwNzksLTIwMzI0Mjg2OTUsMjAxOTE4NTE0MCw0MDE4MTcwMTUs
+MTc2MjM1MzY2NSwtMTczMjUyMzAxOCw3MzM4MzI3MTksLTExNT
+k3NjE3NTksMTA1ODgyMjM5OCwtMTY2MzY5NTMwMywtNjk4NjYx
+MDMyLDQ4NTE0NDIxN119
 -->
