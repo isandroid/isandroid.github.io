@@ -12,7 +12,7 @@ published: true
 *Assalamu 'alaikum wa rahmatulloohi wa barookaatuh*
 
 <p class="arab">
-	أَشْهَدُ أنْ لَّا إِلٰهَ إِلَّا اللّٰهُ وَحْدَهُ لَا شَرِيْكَ لَهُ وَأَشْهَدُ أنَّ مُحَمَّدًا عَبْدُهُ وَرَسُوْلُهُ - أَمَّا بَعْدُ فَأَعُوْذُ بِاللّٰهِ مِنَ الشَّيْطَانِ الرَّجِيْمِ -
+	أَشْهَدُ أنْ لَّا إِلٰهَ إِلَّا اللّٰهُ وَحْدَهُ لَا شَرِيْكَ لَهُ وَأَشْهَدُ أنَّ مُحَمَّدًا عَبْدُهُ وَرَسُوْلُهُ
 </p>
 
 Materi yang akan disampaikan adalah Materi Kelas B untuk mata pelajaran Pengorbanan dan Nizam. Dan kali ini adalah pertemuan ke tiga.
@@ -154,7 +154,7 @@ Demikianlah, semoga petunjuk-petunjuk dari Alquran tersebut bisa menjadikan kita
 37:108 -- pengorbanan nabi Ibrohim
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxNTU2OTE0LC0xMjEyOTk3MDYyLDE1MT
+eyJoaXN0b3J5IjpbOTY4NjExODA2LC0xMjEyOTk3MDYyLDE1MT
 c2OTMwMzIsLTE1ODYzNDU0MTQsLTE1NDU0MDYwMzQsLTYzMTM3
 MDkzOSwtMTY4MjYxNDU5NSwtOTAxNjA4NTA3LC0xNzE1NDYxMD
 c5LC0yMDMyNDI4Njk1LDIwMTkxODUxNDAsNDAxODE3MDE1LDE3
