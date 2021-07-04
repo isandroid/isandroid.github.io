@@ -74,7 +74,7 @@ Pengorbanan akan menarik ridho Allah dan memperteguh jiwa
 </p>
 
 <p class="quran">
-
+اُولٰٓئِکَ ہُمُ الۡمُؤۡمِنُوۡنَ حَقًّا ۚ لَّہُمۡ دَرَجٰتٌ عِنۡدَ رَبِّہِمۡ وَمَغۡفِرَۃٌ وَّرِزۡقٌ کَرِیۡمٌ
 </p>
 
 (QS Al Anfal [8]: [4](https://openquran.com/8:4)-[5](https://openquran.com/8:5))
@@ -109,9 +109,9 @@ QS Thaha [20]: 76-77
 2:197
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDk5NjkzMDg5LDQwMTgxNzAxNSwxNzYyMz
-UzNjY1LC0xNzMyNTIzMDE4LDczMzgzMjcxOSwtMTE1OTc2MTc1
-OSwxMDU4ODIyMzk4LC0xNjYzNjk1MzAzLC02OTg2NjEwMzIsND
-g1MTQ0MjE3LC0xNzQxNDE5OTcyLC0xMTE5Njc2MzgyLC0xMTE3
-Njk0NDEyXX0=
+eyJoaXN0b3J5IjpbMTg4ODg0NzQ3OCw0MDE4MTcwMTUsMTc2Mj
+M1MzY2NSwtMTczMjUyMzAxOCw3MzM4MzI3MTksLTExNTk3NjE3
+NTksMTA1ODgyMjM5OCwtMTY2MzY5NTMwMywtNjk4NjYxMDMyLD
+Q4NTE0NDIxNywtMTc0MTQxOTk3MiwtMTExOTY3NjM4MiwtMTEx
+NzY5NDQxMl19
 -->
