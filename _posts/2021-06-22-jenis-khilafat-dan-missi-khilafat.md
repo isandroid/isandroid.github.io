@@ -283,18 +283,15 @@ Dalam sejarah tidak bisa dipungkiri bahwa terdapat pencapaian-pencapaian luar bi
 
 HAL-HAL YANG PERLU DIINGAT DAN DIPAHAMI TENTANG KEITAATAN KEPADA KHILAFAT
 
-Unta memiliki  rasa ketaatan. Unta berjalan dalam satu garis panjang dan  dipimpin oleh unta berpengalaman di depan. Selebihnya  mengikutinya dengan kecepatan yang sama dan tidak ada yang  punya rencana atau cita-cita untuk berjalan sejajar dengan yang  memimpin mereka, seperti hewan lain, misalnya kuda. Karena itu,  di dalam ayat pertama, Allah telah menggunakan kata Arab khusus  untuk unta, [yaitu ibil] guna menarik perhatian pada landasan  umum unta yang bepergian dalam satu baris panjang dan dengan  demikian telah menekankan pada perlunya Imam untuk menjaga  persatuan.
+1. Unta memiliki  rasa ketaatan. Unta berjalan dalam satu garis panjang dan  dipimpin oleh unta berpengalaman di depan. Selebihnya  mengikutinya dengan kecepatan yang sama dan tidak ada yang  punya rencana atau cita-cita untuk berjalan sejajar dengan yang  memimpin mereka, seperti hewan lain, misalnya kuda. Karena itu,  di dalam ayat pertama, Allah telah menggunakan kata Arab khusus  untuk unta, [yaitu ibil] guna menarik perhatian pada landasan  umum unta yang bepergian dalam satu baris panjang dan dengan  demikian telah menekankan pada perlunya Imam untuk menjaga  persatuan.
 
-Makna unta bepergian dalam satu barisan adalah  bahwa Imam diperlukan untuk memandu perjalanan hidup dan  untuk menghindari tersesat. Unta tidak lalai dalam melakukan  perjalanan panjang, artinya bahwa mereka menyimpan air.  [mereka sekali minum, sangat banyak volume air yang diminum,  untuk perjalanan berhari-hari, baru minum lagi, red.] Demikian  pula orang-orang mukmin sejati harus sadar dan siap untuk  perjalanan hidup mereka dan menyiapkan perbekalan, dan  perbekalan terbaik dalam hidup adalah ketakwaan.
+2. Makna unta bepergian dalam satu barisan adalah  bahwa Imam diperlukan untuk memandu perjalanan hidup dan  untuk menghindari tersesat. Unta tidak lalai dalam melakukan  perjalanan panjang, artinya bahwa mereka menyimpan air.  [mereka sekali minum, sangat banyak volume air yang diminum,  untuk perjalanan berhari-hari, baru minum lagi, red.] Demikian  pula orang-orang mukmin sejati harus sadar dan siap untuk  perjalanan hidup mereka dan menyiapkan perbekalan, dan  perbekalan terbaik dalam hidup adalah ketakwaan.
 
-  
+3. Baginda Nabi Muhammad shallAllahu  ‘alaihi wa sallam bersabda, " الإمام  جُنّة " (*Al-Imaamu junnatun*) bahwa Imam adalah seperti perisai. Selama anda berada di belakang  perisai, anda akan terlindungi dari serangan setan. Makna dari  tetap berada di belakang perisai ialah ketaatan yang sempurna  kepada Imam. Berjalan pada barisan secara lurus dalam batasbatas  wilayah yang telah ditentukan. Bila sedikit saja keluar dari  barisan tersebut, maka akan tersesat dan membahayakan.
 
-2. Baginda Nabi Muhammad shallAllahu  ‘alaihi wa sallam bersabda, ‘Al-Imaamu junnatun’
-" الإمام  جُنّة " bahwa  Imam adalah seperti perisai.1F  Selama anda berada di belakang  perisai, anda akan terlindungi dari serangan setan. Makna dari  tetap berada di belakang perisai ialah ketaatan yang sempurna  kepada Imam. Berjalan pada barisan secara lurus dalam batasbatas  wilayah yang telah ditentukan. Bila sedikit saja keluar dari  barisan tersebut, maka akan tersesat dan membahayakan.
+4. Beberapa pengurus bertindak atas instruksi yang diterima dari Khalifah-e-waqt tetapi dengan sedikit ragu-ragu. Ini tidak memperlihatkan ketaatan. Ketaatan adalah ketika sesuatu diikuti secara langsung dan sepenuhnya.
 
-3. Beberapa pengurus bertindak atas instruksi yang diterima dari Khalifah-e-waqt tetapi dengan sedikit ragu-ragu. Ini tidak memperlihatkan ketaatan. Ketaatan adalah ketika sesuatu diikuti secara langsung dan sepenuhnya.
-
-4. Hadhrat Khalifatul Masih Awwal ra bersabda, “Serahkanlah diri kalian kepada Imam layaknya mayat di tangan orang yang memandikannya. Suatu mayat tidak bisa bergerak ke sana kemari, melainkan digerakkan sesuai keinginan yang memandikannya.”
+5. Hadhrat Khalifatul Masih Awwal ra bersabda, “Serahkanlah diri kalian kepada Imam layaknya mayat di tangan orang yang memandikannya. Suatu mayat tidak bisa bergerak ke sana kemari, melainkan digerakkan sesuai keinginan yang memandikannya.”
 
 5. Khilafat didirikan setelah menerima Imam Zaman dan semua orang berjanji untuk bekerja untuk melanggengkan Khilafat.
 
@@ -393,6 +390,6 @@ Setelah KPA usai, maka kita bisa menerapkannya sebagai berikut,
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4NjA3NDI5OCwyNTM2NjMyMjcsLTIwMj
+eyJoaXN0b3J5IjpbMTI4MDU3MjA1MywyNTM2NjMyMjcsLTIwMj
 EwNTgxMDEsMTIwNDI4Njc2NSwtNzk3NDYxOTc3XX0=
 -->
