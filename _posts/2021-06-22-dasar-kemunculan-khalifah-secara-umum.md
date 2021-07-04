@@ -193,7 +193,9 @@ Huzur V (atba) menjelaskan tentang kewajiban para Ahmadi. Salah satunya adalah m
 Huzur V (atba) menjelaskan bagaimana agar kita mendapatkan berkat-berkat khilafat,
 
 - Salah satu syarat utama adalah bahwa pahala Khilafat akan diberikan kepada mereka yang menyembah Allah Ta'ala dan tidak menyekutukan-Nya. Mereka harus teratur dalam shalat dan memperhatikan penuh pemenuhan hak-hak ibadah. 
+
 - Mereka harus menunaikan zakat dan taat sepenuhnya kepada Rasulullah (saw). Dengan demikian menurut syarat-syarat tersebut orang-orang beriman harus menyembah Allah semata dan taat sepenuhnya kepada Rasul-Nya. 
+
 - Mereka harus mengabdikan diri untuk shalat dan siap untuk pengorbanan harta demi (menjaga) iman mereka. Hanya dengan begitu mereka akan layak mendapatkan hadiah ini. Oleh karena itu betapa beruntungnya kita bahwa hari ini hanya Jemaat Muslim Ahmadiyah saja yang dikaruniai Allah pahala besar Khilafat ini [[^pidato_ijtima_uk_2015]].
 
 ### Pencapaian Khilafat Ahmadiyah
@@ -363,5 +365,5 @@ Dalam sejarah tidak bisa dipungkiri bahwa terdapat pencapaian-pencapaian luar bi
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE1MTM2NTM5LC0xNzQzMzA4OTMzXX0=
+eyJoaXN0b3J5IjpbMTk4Mjg0NTU5NSwtMTc0MzMwODkzM119
 -->
