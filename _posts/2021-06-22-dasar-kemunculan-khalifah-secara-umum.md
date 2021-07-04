@@ -69,15 +69,11 @@ Ayat ini disebut ayat “istikhlaf”. Di dalamnya hal ini dijelaskan, bahwa seb
 
 Beberapa jenis khilafat yang diketahui dari Alquran dan Hadits adalah sebagai berikut:
 
-#### 3. 1. Khalifatulloh (Seorang Nabi atau Rasul)
+#### 3.1. Khalifatulloh (Seorang Nabi atau Rasul)
 
-- Seorang Nabi atau Rasul (memimpin secara ruhani) (contoh Nabi Adam (as), Nabi Idris (as), Nabi Nuh (as), Nabi Isa (as) dll)
+Seorang Nabi atau Rasul (memimpin secara ruhani) (contoh Nabi Adam (as), Nabi Idris (as), Nabi Nuh (as), Nabi Isa (as) dll)
 
-- Khalifatulloh sekaligus Khalifatur Rasul (contohnya Nabi Harun sebagai wakil dari Nabi Musa; Nabi Ismail dan Nabi Ishaq yang membantu Nabi Ibrahim (as))
-
-- Khalifatulloh sekaligus Khalifah Mamlukiyah (Kerajaan) (contohnya Nabi Daud (as); Nabi Sulaiman (as) dan Rasulullah (saw))
-
-#### 2. **Khalifatur Rasul**
+#### 3.2. **Khalifatur Rasul**
 
 - Khalifah yang hadir setelah kedatangan seorang Rasul
 
@@ -91,11 +87,9 @@ Satu kali ada salah seorang sahabat yang memanggil Hadhrat Abu Bakar (ra) dengan
 
 Wahai _khalifatullah_! Ia (Hadhrat Abu Bakar Ash-Shiddiq (ra)) berkata: Saya adalah _khalifaturrasuulillaah_ saw, yakni penerus dari Rasulullah (ﷺ) dan saya rido (dipanggil) dengan itu. ([H.R. Ahmad] [[^atr-262db43c-6af3-44b9-9f28-5d580a6c5c84]]
 
-#### 3. Khalifah Mamlukiyah (Kerajaan)
+#### 3.3. Khalifah Mamlukiyah (Kerajaan)
 
-- Khalifah yang memimpin kerajaan
-
-- (Contoh khalifah-khalifah Bani Umayah, Bani Abasiyah, Bani Fatimiyah dll)
+- Khalifah yang memimpin kerajaan. Contoh khalifah-khalifah Bani Umayah, Bani Abasiyah, Bani Fatimiyah dll.
 
 Apa perbedaan antara khalifah yang mendapatkan bimbingan dengan khalifah yang memimpin kerajaan. Ahli sejarah Islam yang terkenal, Muhammad Ibnu Jarir Al Tabari, menuliskan sebuah peristiwa dibawah ini,
 
@@ -104,6 +98,8 @@ Umar bertanya kepada Salman, "Apakah aku seorang Khalifah atau seorang Raja?” 
 Hadhrat Khalifatul Masih V (atba) bersabda,
 
 > ”Khilafat pasti akan berdiri (senantiasa ada) ditengah orang-orang Muslim.” Akan tetapi Dia telah berjanji bersyarat dengan beberapa syarat dan syarat pertama dari itu adalah harus ada kamil ithaa’at (ketaatan yang sempurna). Mata rantai (kesinambungan) Khilafat Rasyidah sebelumnya telah terputus karena umat Muslim telah keluar dari bingkai taat (meninggalkan ketaatan). Orang-orang Muslim menjadi mahrum (terlepas) dari Khilafat hakiki apabila mereka sudah meninggalkan ketaatan. Setelah keluar dari ketaatan, sebagian golongan mulai mengatakan, “Kami mensyaratkan baiat kami dengan sebagian syarat yang di dalamnya sebab yang paling besar adalah tuntutan pembalasan atas kesyahidan Hadhrat Usman” atau karena terpedaya dengan perkatan-perkataan sebagian penyebar fitnah, mereka menjadi orang yang keluar dari ketaatan Sekalipun pada waktu itu para sahabat masih ada. Namun ketika keluar dari ketaatan yang sempurna maka mereka dimahrumkan dari Khilafat (tidak mendapat nikmat berkat Khilafat). Sebab, keputusan untuk menjadikan Khalifah Allah Ta’ala sendiri telah mengambil alih di tangan-Nya maka kemudian sesudah perselisihan-perselisihan, sesudah keluar dari taat semua usaha-usaha mereka menjadi Khalifah dan membuat Khalifah menjadi gagal dan sia-sia. Dan Khilafat mengambil corak monarki (kerajaan) [[^khotbah20110520]] [[^tafsir_ayat_istikhlaf]]
+
+
 
 ### Dasar Kemunculan Khalifah Rosyidah dan Khalifatul Masih
 
@@ -367,6 +363,6 @@ Dalam sejarah tidak bisa dipungkiri bahwa terdapat pencapaian-pencapaian luar bi
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzMjgyNDUsMTk4Mjg0NTU5NSwtMTc0Mz
-MwODkzM119
+eyJoaXN0b3J5IjpbLTg5NDU4ODEzOSwxOTgyODQ1NTk1LC0xNz
+QzMzA4OTMzXX0=
 -->
