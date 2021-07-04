@@ -91,7 +91,7 @@ Katakanlah, “Sesungguhnya shalatku, **pengorbananku**, hidupku, dan matiku han
 
 Hai orang-orang yang beriman, janganlah kamu menjadikan sedekah-sedekahmu sia-sia dengan menyebut-nyebut jasa baik dan menyakiti, seperti orang yang membelanjakan hartanya untuk dilihat manusia, sedangkan ia tidak beriman kepada Allah dan Hari Kemudian, maka keadaannya seperti batu licin yang di atasnya tertutup tanah, lalu hujan lebat menimpanya dan meninggalkannya licin. Mereka tidak akan memperoleh sesuatu dari apa yang mereka usahakan, dan Allah tidak memberi petunjuk kepada kaum kafir. ([QS Al Baqarah [2]: 265](https://openquran.com/2:265))
 
-- Ayat ini diantaranya menjelaskan bahwa jika kita berkorban dan ada niat untuk riya atau dilihat orang lain maka Orang demikian kehilangan sama sekali hak memperoleh ganjaran dari Tuhan.
+- Ayat ini diantaranya menjelaskan bahwa jika kita berkorban dan ada niat untuk riya atau dilihat orang lain maka orang yang melakukan demikian akan kehilangan sama sekali hak memperoleh ganjaran dari Allah Ta'ala.
 
 ### QS Al Baqarah (2): 266
 
@@ -101,8 +101,8 @@ Hai orang-orang yang beriman, janganlah kamu menjadikan sedekah-sedekahmu sia-si
 
 "Dan perumpamaan orang-orang yang menginfakkan harta mereka demi **mencari keridhoan Allah dan memperteguh jiwa mereka** adalah seperti perumpamaan kebun yang terletak di dataran tinggi, hujan lebat menimpanya lalu menghasilkan  buahnya dua kali lipat, tetapi jika hujan lebat tidak menimpanya, maka hujan gerimis *pun memadai*. Dan Allah Maha Melihat apa-apa yang kamu kerjakan." ([QS Al Baqarah [2]: 266](https://openquran.com/2:266))
 
-- Jadi ayat ini menjelaskan bahwa pengorbanan itu bisa menarik ridho Allah dan memperteguh jiwa.
-
+- Ayat ini menjelaskan bahwa pengorbanan harta di jalan Allah memberi kekuatan kepada jiwa manusia, sebab dengan membelanjakan harta yang diperolehnya dengan susah payah, ia secara sukarela meletakkan beban atas diri sendiri dan menjadikannya lebih kuat serta lebih teguh dalam keimanan.
+- 
 
 ### QS At Taubah (9): 103
 
@@ -140,11 +140,11 @@ Hai orang-orang yang beriman, janganlah kamu menjadikan sedekah-sedekahmu sia-si
 37:108 -- pengorbanan nabi Ibrohim
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2MTkwMTE1MSwxNTE3NjkzMDMyLC0xNT
-g2MzQ1NDE0LC0xNTQ1NDA2MDM0LC02MzEzNzA5MzksLTE2ODI2
-MTQ1OTUsLTkwMTYwODUwNywtMTcxNTQ2MTA3OSwtMjAzMjQyOD
-Y5NSwyMDE5MTg1MTQwLDQwMTgxNzAxNSwxNzYyMzUzNjY1LC0x
-NzMyNTIzMDE4LDczMzgzMjcxOSwtMTE1OTc2MTc1OSwxMDU4OD
-IyMzk4LC0xNjYzNjk1MzAzLC02OTg2NjEwMzIsNDg1MTQ0MjE3
-LC0xNzQxNDE5OTcyXX0=
+eyJoaXN0b3J5IjpbNzQzNDQ5MDMwLDE1MTc2OTMwMzIsLTE1OD
+YzNDU0MTQsLTE1NDU0MDYwMzQsLTYzMTM3MDkzOSwtMTY4MjYx
+NDU5NSwtOTAxNjA4NTA3LC0xNzE1NDYxMDc5LC0yMDMyNDI4Nj
+k1LDIwMTkxODUxNDAsNDAxODE3MDE1LDE3NjIzNTM2NjUsLTE3
+MzI1MjMwMTgsNzMzODMyNzE5LC0xMTU5NzYxNzU5LDEwNTg4Mj
+IzOTgsLTE2NjM2OTUzMDMsLTY5ODY2MTAzMiw0ODUxNDQyMTcs
+LTE3NDE0MTk5NzJdfQ==
 -->
