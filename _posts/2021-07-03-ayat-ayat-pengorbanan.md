@@ -91,7 +91,7 @@ Katakanlah, “Sesungguhnya shalatku, **pengorbananku**, hidupku, dan matiku han
 
 Hai orang-orang yang beriman, janganlah kamu menjadikan sedekah-sedekahmu sia-sia dengan menyebut-nyebut jasa baik dan menyakiti, seperti orang yang membelanjakan hartanya untuk dilihat manusia, sedangkan ia tidak beriman kepada Allah dan Hari Kemudian, maka keadaannya seperti batu licin yang di atasnya tertutup tanah, lalu hujan lebat menimpanya dan meninggalkannya licin. Mereka tidak akan memperoleh sesuatu dari apa yang mereka usahakan, dan Allah tidak memberi petunjuk kepada kaum kafir. ([QS Al Baqarah [2]: 265](https://openquran.com/2:265))
 
-- Ayat ini diantaranya menjelaskan bahwa jika kita berkorban dan ada niat untuk riya atau dilihat orang lain maka orang yang melakukan demikian akan kehilangan sama sekali hak memperoleh ganjaran dari Allah Ta'ala.
+- Ayat ini diantaranya menjelaskan melalui perumpamaan bahwa orang mukmin diperingatkan bahwa jika ia membelanjakan harta bendanya untuk pamer atau mengiringi sedekahnya dengan membangkit-bangkit jasa baiknya dan menyakiti perasaan orang yang disedekahinya, maka semua yang dibelanjakannya itu akan menjadi sia-sia belaka.
 
 ### QS Al Baqarah (2): 266
 
@@ -140,11 +140,11 @@ Hai orang-orang yang beriman, janganlah kamu menjadikan sedekah-sedekahmu sia-si
 37:108 -- pengorbanan nabi Ibrohim
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyNTM5MTYzNCwxNTE3NjkzMDMyLC0xNT
-g2MzQ1NDE0LC0xNTQ1NDA2MDM0LC02MzEzNzA5MzksLTE2ODI2
-MTQ1OTUsLTkwMTYwODUwNywtMTcxNTQ2MTA3OSwtMjAzMjQyOD
-Y5NSwyMDE5MTg1MTQwLDQwMTgxNzAxNSwxNzYyMzUzNjY1LC0x
-NzMyNTIzMDE4LDczMzgzMjcxOSwtMTE1OTc2MTc1OSwxMDU4OD
-IyMzk4LC0xNjYzNjk1MzAzLC02OTg2NjEwMzIsNDg1MTQ0MjE3
-LC0xNzQxNDE5OTcyXX0=
+eyJoaXN0b3J5IjpbLTEyMTI5OTcwNjIsMTUxNzY5MzAzMiwtMT
+U4NjM0NTQxNCwtMTU0NTQwNjAzNCwtNjMxMzcwOTM5LC0xNjgy
+NjE0NTk1LC05MDE2MDg1MDcsLTE3MTU0NjEwNzksLTIwMzI0Mj
+g2OTUsMjAxOTE4NTE0MCw0MDE4MTcwMTUsMTc2MjM1MzY2NSwt
+MTczMjUyMzAxOCw3MzM4MzI3MTksLTExNTk3NjE3NTksMTA1OD
+gyMjM5OCwtMTY2MzY5NTMwMywtNjk4NjYxMDMyLDQ4NTE0NDIx
+NywtMTc0MTQxOTk3Ml19
 -->
