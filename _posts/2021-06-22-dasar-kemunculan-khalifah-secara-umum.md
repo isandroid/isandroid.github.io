@@ -75,11 +75,7 @@ Seorang Nabi atau Rasul (memimpin secara ruhani) (contoh Nabi Adam (as), Nabi Id
 
 #### 3.2. **Khalifatur Rasul**
 
-- Khalifah yang hadir setelah kedatangan seorang Rasul
-
-- Khalifatur Rasul (memimpin secara ruhani) (Contoh para khalifatul Masih) 
-
-- Khalifatur Rasul sekaligus Khalifah Mamlukiyah (Kerajaan) (contoh: Khulafa-ur-Rosyidin)
+Khalifah yang hadir setelah kedatangan seorang Rasul 
 
 Satu kali ada salah seorang sahabat yang memanggil Hadhrat Abu Bakar (ra) dengan _khalifatullah_ namun beliau (ra) menolak. Diriwayatkan,
 
@@ -94,6 +90,15 @@ Wahai _khalifatullah_! Ia (Hadhrat Abu Bakar Ash-Shiddiq (ra)) berkata: Saya ada
 Apa perbedaan antara khalifah yang mendapatkan bimbingan dengan khalifah yang memimpin kerajaan. Ahli sejarah Islam yang terkenal, Muhammad Ibnu Jarir Al Tabari, menuliskan sebuah peristiwa dibawah ini,
 
 Umar bertanya kepada Salman, "Apakah aku seorang Khalifah atau seorang Raja?” Salman Menjawab, “Jika tuan mengumpulkan pajak dari tanah orang-orang Islam satu Dirham, atau lebih, atau kurang, dan menggunakannya dengan tidak sah, maka tuan adalah seorang Raja bukan Khalifah.” Kemudian Umar menangis.” (_At Tabari_, Tarikh al-Rusul wal Muluk) [[^attabary_tarikh_arrusul_wal_muluk]] [[^berdirinya_khalifah_islam_keruntuhan_dan_kebangkitannya]]
+
+#### 3.4. Perpaduan
+
+- **Khalifatulloh** sekaligus Khalifatur Rasul (contohnya Nabi Harun sebagai wakil dari Nabi Musa; Nabi Ismail dan Nabi Ishaq yang membantu Nabi Ibrahim (as))
+
+- Khalifatulloh sekaligus Khalifah Mamlukiyah (Kerajaan) (contohnya Nabi Daud (as); Nabi Sulaiman (as) dan Rasulullah (saw))
+
+- Khalifatur Rasul sekaligus Khalifah Mamlukiyah (Kerajaan) (contoh: Khulafa-ur-Rosyidin)
+
 
 Hadhrat Khalifatul Masih V (atba) bersabda,
 
@@ -363,6 +368,6 @@ Dalam sejarah tidak bisa dipungkiri bahwa terdapat pencapaian-pencapaian luar bi
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5NDU4ODEzOSwxOTgyODQ1NTk1LC0xNz
-QzMzA4OTMzXX0=
+eyJoaXN0b3J5IjpbNTMzMjc2Mzk1LDE5ODI4NDU1OTUsLTE3ND
+MzMDg5MzNdfQ==
 -->
