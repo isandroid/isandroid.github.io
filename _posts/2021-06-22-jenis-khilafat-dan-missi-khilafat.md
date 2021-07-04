@@ -2,7 +2,7 @@
 title: Dasar Kemunculan Khalifah Secara Umum
 layout: post
 tags: khilafat
-description: khilafat bisa menjadikan rasa takut menjadi rasa aman
+description: Penjelasan mengenai dasar kemunculan khalifah secara umum
 published: true
 ---
 <p class="quran">بِسۡمِ اللّٰہِ الرَّحۡمٰنِ الرَّحِیۡمِ</p>
@@ -388,6 +388,6 @@ Setelah KPA usai, maka kita bisa menerapkannya sebagai berikut,
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5ODg4MTQ1NCwyNTM2NjMyMjcsLTIwMj
-EwNTgxMDEsMTIwNDI4Njc2NSwtNzk3NDYxOTc3XX0=
+eyJoaXN0b3J5IjpbLTEyMTg5MTUyMjksMjUzNjYzMjI3LC0yMD
+IxMDU4MTAxLDEyMDQyODY3NjUsLTc5NzQ2MTk3N119
 -->
