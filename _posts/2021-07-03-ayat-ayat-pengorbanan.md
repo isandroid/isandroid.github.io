@@ -11,11 +11,11 @@ published: true
 
 Materi yang akan saya sampaikan adalah Materi untuk Kelas B untuk mata pelajaran Pengorbanan dan Nizam. Dan kali ini adalah pertemuan ke tiga.
 
-Adik-adik, seperti yang kita ketahui bahwa pengorbanan merupakan salah satu cara kita untuk bisa meraih cinta dari sesuatu yang kita cintai. Misalnya, jika kita ingin seseorang mencintai kita, maka kita hendaknya berkorban agar mendapatkan kedekatan. Begitu pula apabila kita ingin mendapatkan 
+Adik-adik, seperti yang kita ketahui bahwa pengorbanan merupakan salah satu cara kita untuk bisa meraih cinta dari sesuatu yang kita cintai. Misalnya, jika kita ingin seseorang mencintai kita, maka kita hendaknya berkorban agar mendapatkan kedekatan. Begitu pula apabila kita ingin mendapatkan *qurub ilahi* atau kedekatan dengan Allah Ta'ala, maka wajiblah atas kita melaksanakan pengorbanan. 
 
-Hal ini kita lihat dari kata "qurban" yang artinya pendekatan diri dan persembahan [[^almaany_qurbaanun]].
+Kita mengetahui bahwa kata "qurban" yang artinya pendekatan diri dan persembahan [[^almaany_qurbaanun]].
 
-Dengan berkorban, maka kita akan mendapatkan *qurub ilahi* atau kedekatan dengan Allah Ta'ala. Selain itu masih banyak kelebihan-kelebihan dan keberkahan-keberkahan dalam pengorbanan. Sebagaimana firman Allah Ta'ala, 
+Kali ini kami akan membahas ayat-ayat Alquran yang membahas keberkahan-keberkahan dalam pengorbanan. Allah Ta'ala berfirman, 
 
 ### Ayat Pertama
 
@@ -103,10 +103,10 @@ Pengorbanan akan menarik ridho Allah dan memperteguh jiwa
 2:197
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjI0MTU1MTUzLC0xNzE1NDYxMDc5LC0yMD
-MyNDI4Njk1LDIwMTkxODUxNDAsNDAxODE3MDE1LDE3NjIzNTM2
-NjUsLTE3MzI1MjMwMTgsNzMzODMyNzE5LC0xMTU5NzYxNzU5LD
-EwNTg4MjIzOTgsLTE2NjM2OTUzMDMsLTY5ODY2MTAzMiw0ODUx
-NDQyMTcsLTE3NDE0MTk5NzIsLTExMTk2NzYzODIsLTExMTc2OT
-Q0MTJdfQ==
+eyJoaXN0b3J5IjpbLTE3NTg2NTIwNDcsLTE3MTU0NjEwNzksLT
+IwMzI0Mjg2OTUsMjAxOTE4NTE0MCw0MDE4MTcwMTUsMTc2MjM1
+MzY2NSwtMTczMjUyMzAxOCw3MzM4MzI3MTksLTExNTk3NjE3NT
+ksMTA1ODgyMjM5OCwtMTY2MzY5NTMwMywtNjk4NjYxMDMyLDQ4
+NTE0NDIxNywtMTc0MTQxOTk3MiwtMTExOTY3NjM4MiwtMTExNz
+Y5NDQxMl19
 -->
