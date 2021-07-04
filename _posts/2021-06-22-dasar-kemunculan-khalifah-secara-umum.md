@@ -139,7 +139,7 @@ Hal ini diperkuat dengan nubuwwatan yang disampaikan oleh Hadhrat Masih Mau'ud (
 >
 > Oleh sebab itu, sambil menanti kedatangan **Kudrat Tuhan yang kedua** itu, kamu semua hendaklah senantiasa sibuk berdoa. Dan hendaklah tiap Jemaat orang-orang saleh tanpa kecuali, di tiap negeri, senantiasa terus menerus berdoa sehingga mudah-mudahan **Kudrat Kedua** itu turun dari Langit, dan menzahirkan kepada kamu bahwa Tuhan kamu adalah Tuhan Yang Maha Kuasa. Anggaplah ajalmu telah dekat karena kamu tidak tahu kapan saat itu akan tiba. [[^alwasiyat_h8_9]]
 
-### Misi yang Diemban Seorang Khalifatul Masih
+### 5. Misi yang Diemban Seorang Khalifatul Masih
 
 Berkenaan dengan missi atau tugas seorang khalifah, Hadhrat Mushlih Mau'ud (ra) menjelaskan,
 
@@ -152,7 +152,9 @@ Untuk memahami fungsi dari khalifah, kita harus melihat missi pendahulunya. Alla
 
 Saya juga menjelaskan bahwa keempat tugas Nabi ini tidak dapat dilakukan oleh 'Anjuman' atau organisasi mana pun. Tugas-tugas tersebut hanya dapat dilakukan oleh orang yang ditunjuk oleh Allah sendiri (Nabi) dan orang yang berhak (menjabat) sebagai Khalifah  [[^barakat-e-khilafat_p9]].
 
-### Kriteria Seseorang Dikatakan Taat Atau Memiliki Ikatan dengan Khalifah 
+### 6. Kriteria Seseorang Dikatakan Taat Atau Memiliki Ikatan dengan Khalifah 
+
+#### 6.1. Taat kepada Khilafat
 
 Rasulullah (saw) bersabda,
 
@@ -178,7 +180,7 @@ Hudhur V ayyadahuLlahu ta’ala menyatakan bahwa karunia Tuhan yang berhubungan 
 
 Semoga kita selalu teguh, dan semoga kita dapat **memenuhi janji baiat** kita sehingga kita dapat melihat janji Tuhan dan kemenangan Jemaat. Semoga ibadah dan perbuatan kita mencapai keridhaan Tuhan. Semoga kita benar-benar memahami karunia Khilafat dan dapat menjelaskannya kepada generasi mendatang sehingga mereka dapat memperoleh manfaat dari Khilafat juga [[^khotbah20210528]].
 
-#### Ikatan Dengan Khilafat
+#### 6.2. Ikatan dengan Khilafat
 
 Ikatan Khilafat hakikatnya adalah ikatan pemenuhan kita terhadap Janji Baiat. Janji Baiat itu hakikatnya merupakan perjanjian kita kepada Allah Ta'ala melalui Hadhrat Masih Mau'ud (as). Ketika beliau sudah wafat, maka janji tersebut kita selalu ucapkan melalui Hadhrat Khalifah-e-waqt sebagai wakil beliau.
 
@@ -198,18 +200,18 @@ Huzur V (atba) menjelaskan bagaimana agar kita mendapatkan berkat-berkat khilafa
 
 - Mereka harus mengabdikan diri untuk shalat dan siap untuk pengorbanan harta demi (menjaga) iman mereka. Hanya dengan begitu mereka akan layak mendapatkan hadiah ini. Oleh karena itu betapa beruntungnya kita bahwa hari ini hanya Jemaat Muslim Ahmadiyah saja yang dikaruniai Allah pahala besar Khilafat ini [[^pidato_ijtima_uk_2015]].
 
-### Pencapaian Khilafat Ahmadiyah
+### 7. Pencapaian Khilafat Ahmadiyah
 
 Dalam sejarah tidak bisa dipungkiri bahwa terdapat pencapaian-pencapaian luar biasa dalam kepemimpinan para Khalifatul Masih. Berikut ini akan kami uraikan sebagian sejarah dalam di zaman khalifatul masih.
 
-#### Khalifatul Masih Awwal (ra)
+#### 7.1 Khalifatul Masih Awwal (ra)
 
 - Berdirinya Khilafah Ahmadiyah (27 Mei 1908)
 - Kelahiran Khalifat al-Masih Ketiga (16 November 1909)
 - Penerbitan surat kabar Al-Fazal dimulai (19 Juni 1913)
 - Wafatnya Khalifah Pertama (13 Maret 1914)
 
-#### Khalifatul Masih Ats-Tsani (ra)
+#### 7.2. Khalifatul Masih Ats-Tsani (ra)
 
 - Pemilihan Khalifat al-Masih Kedua (14 Maret 1914)
 - Pendirian Misi pertama di AS, Chicago (1921)
@@ -235,7 +237,7 @@ Dalam sejarah tidak bisa dipungkiri bahwa terdapat pencapaian-pencapaian luar bi
 - Pembangunan Masjid Mahmud di Zürich, Swiss (1962)
 - Wafatnya Khalifah Kedua (8 November 1965)
 
-#### Khalifatul Masih Ats-Tsalits (rh)
+#### 7.3. Khalifatul Masih Ats-Tsalits (rh)
 
 - Pemilihan Khalifah Ketiga (8 November 1965)
 - Jamia Ahmadiyah didirikan di Ghana Maret (1966)
@@ -250,7 +252,7 @@ Dalam sejarah tidak bisa dipungkiri bahwa terdapat pencapaian-pencapaian luar bi
 - Jamia Ahmadiyah berdiri di Indonesia (1982)
 - Wafatnya Khalifah Ketiga (8 Juni 1982)
 
-#### Khalifatul Masih Ar-Rabi' (rh)
+#### 7.Khalifatul Masih Ar-Rabi' (rh)
 
 - Pemilihan Khalifah Keempat (9 Juni 1982)
 - Peresmian masjid pertama di Spanyol (10 September 1982)
@@ -365,6 +367,6 @@ Dalam sejarah tidak bisa dipungkiri bahwa terdapat pencapaian-pencapaian luar bi
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxMzU4MjYyMiwxOTgyODQ1NTk1LC0xNz
-QzMzA4OTMzXX0=
+eyJoaXN0b3J5IjpbLTEwODY4MDA4OTksMTk4Mjg0NTU5NSwtMT
+c0MzMwODkzM119
 -->
