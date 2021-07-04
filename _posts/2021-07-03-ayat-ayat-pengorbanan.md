@@ -81,17 +81,6 @@ Pengorbanan akan menarik ridho Allah dan memperteguh jiwa
 
 ### Ayat Ketujuh
 
-<p class="quran">
-
-</p>
-
-QS Thaha [20]: 76-77
-
-### Ayat Kedelapan
-
-<p class="quran">
-
-</p>
 
 ### Catatan Kaki
 
@@ -109,7 +98,7 @@ QS Thaha [20]: 76-77
 2:197
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4ODg0NzQ3OCw0MDE4MTcwMTUsMTc2Mj
+eyJoaXN0b3J5IjpbMTEzOTE3Njg5MSw0MDE4MTcwMTUsMTc2Mj
 M1MzY2NSwtMTczMjUyMzAxOCw3MzM4MzI3MTksLTExNTk3NjE3
 NTksMTA1ODgyMjM5OCwtMTY2MzY5NTMwMywtNjk4NjYxMDMyLD
 Q4NTE0NDIxNywtMTc0MTQxOTk3MiwtMTExOTY3NjM4MiwtMTEx
