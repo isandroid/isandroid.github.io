@@ -13,7 +13,7 @@ Materi yang akan kami sampaikan adalah Materi Kelas B untuk mata pelajaran Pengo
 
 Adik-adik, seperti yang kita ketahui bahwa pengorbanan merupakan salah satu cara kita untuk bisa meraih cinta. Misalnya, jika kita ingin seseorang mencintai kita, maka kita hendaknya berkorban. Begitu pula apabila kita ingin mendapatkan *qurub ilahi* atau kedekatan dengan Allah Ta'ala, maka wajiblah atas kita melaksanakan pengorbanan.  Hal ini karena kata "qurban" itu memiliki makna "pendekatan diri" dan "persembahan" [[^almaany_qurbaanun]].
 
-Kali ini marilah kita simak bersama ayat-ayat Alquran yang membahas keberkahan-keberkahan dalam pengorbanan. 
+Kali ini marilah kita simak bersama ayat-ayat Alquran yang membahas mengenai pengorbanan. 
 
 Allah Ta'ala berfirman, 
 
@@ -21,7 +21,7 @@ Allah Ta'ala berfirman,
 أَعُوذُ بِاللَّهِ مِنَ الشَّيْطَانِ الرَّجِيمِ
 </p>
 
-### Ayat Pertama
+### QS Ash-Shaaf (61): 11 s.d. 12
 
 <p class="quran">
 یٰۤاَیُّہَا الَّذِیۡنَ اٰمَنُوۡا ہَلۡ اَدُلُّکُمۡ عَلٰی تِجٰرَۃٍ تُنۡجِیۡکُمۡ مِّنۡ عَذَابٍ اَلِیۡمٍ
@@ -35,7 +35,7 @@ Allah Ta'ala berfirman,
 
 - Jadi disini kita bisa mengetahui bahwa berkorban merupakan salah satu jihad di jalan Allah Ta'ala. Dan dengan hal itu Allah Ta'ala akan menyelamatkan dari azab yang pedih.
 
-### Ayat Kedua
+### QS Al Baqarah (2): 262
 
 <p class="quran">
 مَّثَلُ الَّذِیۡنَ یُنۡفِقُوۡنَ اَمۡوٰلَہُمۡ فِیۡ سَبِیۡلِ اللّٰہِ کَمَثَلِ حَبَّۃٍ اَنۡۢبَتَتۡ سَبۡعَ سَنَابِلَ فِیۡ کُلِّ سُنۡۢبُلَۃٍ مِّائَۃُ حَبَّۃٍ ۗ وَاللّٰہُ یُضٰعِفُ لِمَنۡ یَّشَآءُ ۗ وَاللّٰہُ وٰسِعٌ عَلِیۡمٌ
@@ -46,8 +46,6 @@ Allah Ta'ala berfirman,
 - Dalam ayat ini, Allah Ta'ala akan melipatgandakan amal-shaleh atau pengorbanan yang telah kita lakukan.  
 
 ### Ayat Ketiga
-
-Pengorbanan akan menarik ridho Allah dan memperteguh jiwa 
 
 <p class="quran">
 وَمَثَلُ الَّذِیۡنَ یُنۡفِقُوۡنَ اَمۡوٰلَہُمُ ابۡتِغَآءَ مَرۡضَاتِ اللّٰہِ وَتَثۡبِیۡتًا مِّنۡ اَنۡفُسِہِمۡ کَمَثَلِ جَنَّۃٍۭ بِرَبۡوَۃٍ اَصَابَہَا وَابِلٌ فَاٰتَتۡ اُکُلَہَا ضِعۡفَیۡنِ فَاِنۡ لَّمۡ یُصِبۡہَا وَابِلٌ فَطَلٌّ ۗ وَاللّٰہُ بِمَا تَعۡمَلُوۡنَ بَصِیۡرٌ
@@ -107,10 +105,11 @@ Pengorbanan akan menarik ridho Allah dan memperteguh jiwa
 2:197
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzMTM3MDkzOSwtMTY4MjYxNDU5NSwtOT
-AxNjA4NTA3LC0xNzE1NDYxMDc5LC0yMDMyNDI4Njk1LDIwMTkx
-ODUxNDAsNDAxODE3MDE1LDE3NjIzNTM2NjUsLTE3MzI1MjMwMT
-gsNzMzODMyNzE5LC0xMTU5NzYxNzU5LDEwNTg4MjIzOTgsLTE2
-NjM2OTUzMDMsLTY5ODY2MTAzMiw0ODUxNDQyMTcsLTE3NDE0MT
-k5NzIsLTExMTk2NzYzODIsLTExMTc2OTQ0MTJdfQ==
+eyJoaXN0b3J5IjpbLTUwMzA3OTk4OSwtNjMxMzcwOTM5LC0xNj
+gyNjE0NTk1LC05MDE2MDg1MDcsLTE3MTU0NjEwNzksLTIwMzI0
+Mjg2OTUsMjAxOTE4NTE0MCw0MDE4MTcwMTUsMTc2MjM1MzY2NS
+wtMTczMjUyMzAxOCw3MzM4MzI3MTksLTExNTk3NjE3NTksMTA1
+ODgyMjM5OCwtMTY2MzY5NTMwMywtNjk4NjYxMDMyLDQ4NTE0ND
+IxNywtMTc0MTQxOTk3MiwtMTExOTY3NjM4MiwtMTExNzY5NDQx
+Ml19
 -->
