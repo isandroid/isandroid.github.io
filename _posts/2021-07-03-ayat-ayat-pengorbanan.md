@@ -73,6 +73,26 @@ Pengorbanan akan menarik ridho Allah dan memperteguh jiwa
 
 </p>
 
+<p class="quran">
+
+</p>
+
+QS Al Anfal [8]: 4-5
+
+### Ayat Ketujuh
+
+<p class="quran">
+
+</p>
+
+QS Thaha [20]: 76-77
+
+### Ayat Kedelapan
+
+<p class="quran">
+
+</p>
+
 ### Catatan Kaki
 
 [^almaany_qurbaanun]: [Kamus Al-Maany - kata *qurbaanun*](https://www.almaany.com/id/dict/ar-id/%D9%82%D8%B1%D8%A8%D8%A7%D9%86/) 
@@ -89,9 +109,9 @@ Pengorbanan akan menarik ridho Allah dan memperteguh jiwa
 2:197
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDAxODE3MDE1LDE3NjIzNTM2NjUsLTE3Mz
-I1MjMwMTgsNzMzODMyNzE5LC0xMTU5NzYxNzU5LDEwNTg4MjIz
-OTgsLTE2NjM2OTUzMDMsLTY5ODY2MTAzMiw0ODUxNDQyMTcsLT
-E3NDE0MTk5NzIsLTExMTk2NzYzODIsLTExMTc2OTQ0MTJdfQ==
-
+eyJoaXN0b3J5IjpbMjA2MzY3MDkzMCw0MDE4MTcwMTUsMTc2Mj
+M1MzY2NSwtMTczMjUyMzAxOCw3MzM4MzI3MTksLTExNTk3NjE3
+NTksMTA1ODgyMjM5OCwtMTY2MzY5NTMwMywtNjk4NjYxMDMyLD
+Q4NTE0NDIxNywtMTc0MTQxOTk3MiwtMTExOTY3NjM4MiwtMTEx
+NzY5NDQxMl19
 -->
