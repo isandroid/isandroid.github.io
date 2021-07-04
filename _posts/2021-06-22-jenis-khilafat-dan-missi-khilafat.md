@@ -293,11 +293,9 @@ HAL-HAL YANG PERLU DIINGAT DAN DIPAHAMI TENTANG KEITAATAN KEPADA KHILAFAT
 
 5. Hadhrat Khalifatul Masih Awwal ra bersabda, “Serahkanlah diri kalian kepada Imam layaknya mayat di tangan orang yang memandikannya. Suatu mayat tidak bisa bergerak ke sana kemari, melainkan digerakkan sesuai keinginan yang memandikannya.”
 
-5. Khilafat didirikan setelah menerima Imam Zaman dan semua orang berjanji untuk bekerja untuk melanggengkan Khilafat.
+6. Khilafat didirikan setelah menerima Imam Zaman dan semua orang berjanji untuk bekerja untuk melanggengkan Khilafat.
 
-6. Keputusan Ma’ruf adalah keputusan yang dibuat berdasarkan Al-Qur'an dan Sunnah. Sesuai nubuatan Nabi saw, Khilafat akan didirikan mengikuti kenabian dan menurut Hadhrat Masih Mau'ud as Khilafat tersebut adalah kekal.
-
-7. Dengan demikian, Khilafat tidak dapat berjalan bertentangan dengan Al-Qur'an dan Sunnah. Inilah makna dari ma’ruf.
+7. Keputusan Ma’ruf adalah keputusan yang dibuat berdasarkan Al-Qur'an dan Sunnah. Sesuai nubuatan Nabi saw, Khilafat akan didirikan mengikuti kenabian dan menurut Hadhrat Masih Mau'ud as Khilafat tersebut adalah kekal. Dengan demikian, Khilafat tidak dapat berjalan bertentangan dengan Al-Qur'an dan Sunnah. Inilah makna dari ma’ruf.
 
 8. Hadhrat Masih Mau’ud as bersabda bahwa ketika benar-benar menjalankan ketaatan menghasilkan cahaya di dalam hati. beliau mengatakan usaha kerohanian tidak dibutuhkan sebanyak dibutuhkannya ketaatan. beliau juga mengatakan persatuan tidak dapat dibangun tanpa ketaatan.
 
@@ -390,6 +388,6 @@ Setelah KPA usai, maka kita bisa menerapkannya sebagai berikut,
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4MDU3MjA1MywyNTM2NjMyMjcsLTIwMj
+eyJoaXN0b3J5IjpbMTU5ODg4MTQ1NCwyNTM2NjMyMjcsLTIwMj
 EwNTgxMDEsMTIwNDI4Njc2NSwtNzk3NDYxOTc3XX0=
 -->
