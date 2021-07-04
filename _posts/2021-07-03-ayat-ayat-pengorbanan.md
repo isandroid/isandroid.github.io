@@ -25,7 +25,7 @@ Dengan berkorban, maka kita akan mendapatkan *qurub ilahi* atau kedekatan dengan
 
 "Hai orang-orang yang beriman, Maukah Aku tunjukkan kepadamu perdagangan yang akan menyelamatkan kamu dari azab yang pedih? - Kamu beriman kepada Allah dan Rasul-Nya, dan kamu **berjihad di jalan Allah dengan harta dan jiwamu**. Hal itu lebih baik bagimu jika kamu mengetahui" (QS Ash-Shaaf [61]: [11](https://openquran.com/61:11)-[12](https://openquran.com/61:12))
 
-- Jadi disini kita bisa mengetahui bahwa berkorban merupakan salah satu jihad di jalan Allah Ta'ala. Dan dengan 
+- Jadi disini kita bisa mengetahui bahwa berkorban merupakan salah satu jihad di jalan Allah Ta'ala. Dan dengan hal itu Allah Ta'ala akan menyelamatkan dari azab yang pedih.
 
 ### Ayat Kedua
 
@@ -35,7 +35,7 @@ Dengan berkorban, maka kita akan mendapatkan *qurub ilahi* atau kedekatan dengan
 
 "Perumpamaan orang-orang yang membelanjakan harta mereka di jalan Allah, adalah seumpama sebuah biji menumbuhkan tujuh bulir, pada setiap bulir *terdapat* seratus biji, **Allah melipat-gandakan *ganjaran-Nya*** bagi siapa yang Dia kehendaki, dan Allah Mahaluas *karunia-Nya*, Maha Mengetahui" ([QS Al Baqarah [2]: 262](https://openquran.com/2:262))
 
-- Dalam ayat ini, Allah Ta'ala akan melipatgandakan amal-shaleh atau pengorbanan yang telah kita lakukan. 
+- Dalam ayat ini, Allah Ta'ala akan melipatgandakan amal-shaleh atau pengorbanan yang telah kita lakukan.  
 
 ### Ayat Ketiga
 
@@ -46,6 +46,8 @@ Pengorbanan akan menarik ridho Allah dan memperteguh jiwa
 </p>
 
 "Dan perumpamaan orang-orang yang menginfakkan harta mereka demi **mencari keridhoan Allah dan memperteguh jiwa mereka** adalah seperti perumpamaan kebun yang terletak di dataran tinggi, hujan lebat menimpanya lalu menghasilkan  buahnya dua kali lipat, tetapi jika hujan lebat tidak menimpanya, maka hujan gerimis *pun memadai*. Dan Allah Maha Melihat apa-apa yang kamu kerjakan." ([QS Al Baqarah [2]: 266](https://openquran.com/2:266))
+
+- Jadi ayat ini menjelaskan bahwa pengorbanan itu bisa m
 
 ### Ayat Keempat
 
@@ -97,9 +99,9 @@ Pengorbanan akan menarik ridho Allah dan memperteguh jiwa
 2:197
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgwMjU0OTQ5MSwyMDE5MTg1MTQwLDQwMT
-gxNzAxNSwxNzYyMzUzNjY1LC0xNzMyNTIzMDE4LDczMzgzMjcx
-OSwtMTE1OTc2MTc1OSwxMDU4ODIyMzk4LC0xNjYzNjk1MzAzLC
-02OTg2NjEwMzIsNDg1MTQ0MjE3LC0xNzQxNDE5OTcyLC0xMTE5
-Njc2MzgyLC0xMTE3Njk0NDEyXX0=
+eyJoaXN0b3J5IjpbLTIwMzM0NTkxNDIsMjAxOTE4NTE0MCw0MD
+E4MTcwMTUsMTc2MjM1MzY2NSwtMTczMjUyMzAxOCw3MzM4MzI3
+MTksLTExNTk3NjE3NTksMTA1ODgyMjM5OCwtMTY2MzY5NTMwMy
+wtNjk4NjYxMDMyLDQ4NTE0NDIxNywtMTc0MTQxOTk3MiwtMTEx
+OTY3NjM4MiwtMTExNzY5NDQxMl19
 -->
