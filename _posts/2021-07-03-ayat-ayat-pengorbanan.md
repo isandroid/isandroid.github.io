@@ -21,6 +21,8 @@ Allah Ta'ala berfirman,
 أَعُوذُ بِاللَّهِ مِنَ الشَّيْطَانِ الرَّجِيمِ
 </p>
 
+
+
 ### QS Ash-Shaaf (61): 11 s.d. 12
 
 <p class="quran">
@@ -45,7 +47,7 @@ Allah Ta'ala berfirman,
 
 - Dalam ayat ini, Allah Ta'ala akan melipatgandakan amal-shaleh atau pengorbanan yang telah kita lakukan.  
 
-### Ayat Ketiga
+### QS Al Baqarah (2): 266
 
 <p class="quran">
 وَمَثَلُ الَّذِیۡنَ یُنۡفِقُوۡنَ اَمۡوٰلَہُمُ ابۡتِغَآءَ مَرۡضَاتِ اللّٰہِ وَتَثۡبِیۡتًا مِّنۡ اَنۡفُسِہِمۡ کَمَثَلِ جَنَّۃٍۭ بِرَبۡوَۃٍ اَصَابَہَا وَابِلٌ فَاٰتَتۡ اُکُلَہَا ضِعۡفَیۡنِ فَاِنۡ لَّمۡ یُصِبۡہَا وَابِلٌ فَطَلٌّ ۗ وَاللّٰہُ بِمَا تَعۡمَلُوۡنَ بَصِیۡرٌ
@@ -55,7 +57,7 @@ Allah Ta'ala berfirman,
 
 - Jadi ayat ini menjelaskan bahwa pengorbanan itu bisa menarik ridho Allah dan memperteguh jiwa.
 
-### Ayat Keempat
+### QS Al Baqarah (2): 263
 
 <p class="quran">
 اَلَّذِیۡنَ یُنۡفِقُوۡنَ اَمۡوٰلَہُمۡ فِیۡ سَبِیۡلِ اللّٰہِ ثُمَّ لَا یُتۡبِعُوۡنَ مَاۤ اَنۡفَقُوۡا مَنًّا وَّلَاۤ اَذًی ۙ لَّہُمۡ اَجۡرُہُمۡ عِنۡدَ رَبِّہِمۡ وَلَا خَوۡفٌ عَلَیۡہِمۡ وَلَا ہُمۡ یَحۡزَنُوۡنَ
@@ -65,7 +67,7 @@ Allah Ta'ala berfirman,
 
 - Orang yang berkorban akan diberikan ganjaran dan keberkahan hidup atau kebahagiaan hidup.
 
-### Ayat Kelima
+### QS At Taubah (9): 103
 
 <p class="quran">
 خُذۡ مِنۡ اَمۡوٰلِہِمۡ صَدَقَۃً تُطَہِّرُہُمۡ وَتُزَکِّیۡہِمۡ بِہَا وَصَلِّ عَلَیۡہِمۡ ۖ اِنَّ صَلَوٰتَکَ سَکَنٌ لَّہُمۡ ۗ وَاللّٰہُ سَمِیۡعٌ عَلِیۡمٌ
@@ -75,7 +77,7 @@ Allah Ta'ala berfirman,
 
 - Pengorbanan akan mensucikan dan membersihkan hati/jiwa/harta kita
 
-### Ayat Keenam
+### QS Al Anfal (8): 4 s.d. 5
 
 <p class="quran">
 اَلَّذِیۡنَ یُقِیۡمُوۡنَ الصَّلٰوۃَ وَمِمَّا رَزَقۡنٰہُمۡ یُنۡفِقُوۡنَ
@@ -105,11 +107,11 @@ Allah Ta'ala berfirman,
 2:197
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwMzA3OTk4OSwtNjMxMzcwOTM5LC0xNj
-gyNjE0NTk1LC05MDE2MDg1MDcsLTE3MTU0NjEwNzksLTIwMzI0
-Mjg2OTUsMjAxOTE4NTE0MCw0MDE4MTcwMTUsMTc2MjM1MzY2NS
-wtMTczMjUyMzAxOCw3MzM4MzI3MTksLTExNTk3NjE3NTksMTA1
-ODgyMjM5OCwtMTY2MzY5NTMwMywtNjk4NjYxMDMyLDQ4NTE0ND
-IxNywtMTc0MTQxOTk3MiwtMTExOTY3NjM4MiwtMTExNzY5NDQx
-Ml19
+eyJoaXN0b3J5IjpbLTEzMjM3Nzk5OTIsLTYzMTM3MDkzOSwtMT
+Y4MjYxNDU5NSwtOTAxNjA4NTA3LC0xNzE1NDYxMDc5LC0yMDMy
+NDI4Njk1LDIwMTkxODUxNDAsNDAxODE3MDE1LDE3NjIzNTM2Nj
+UsLTE3MzI1MjMwMTgsNzMzODMyNzE5LC0xMTU5NzYxNzU5LDEw
+NTg4MjIzOTgsLTE2NjM2OTUzMDMsLTY5ODY2MTAzMiw0ODUxND
+QyMTcsLTE3NDE0MTk5NzIsLTExMTk2NzYzODIsLTExMTc2OTQ0
+MTJdfQ==
 -->
