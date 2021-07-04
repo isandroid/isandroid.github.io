@@ -23,7 +23,7 @@ Allah Ta'ala berfirman,
 
 ### QS Al-Kautsar (108): 3 
 
-<p class="arab">
+<p class="quran">
 فَصَلِّ لِرَبِّکَ وَانۡحَرۡ
 </p>
 
@@ -114,7 +114,7 @@ Allah Ta'ala berfirman,
 2:197
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc1NDA2ODM2OSwtNjMxMzcwOTM5LC0xNj
+eyJoaXN0b3J5IjpbMTExNDM2MDE3NiwtNjMxMzcwOTM5LC0xNj
 gyNjE0NTk1LC05MDE2MDg1MDcsLTE3MTU0NjEwNzksLTIwMzI0
 Mjg2OTUsMjAxOTE4NTE0MCw0MDE4MTcwMTUsMTc2MjM1MzY2NS
 wtMTczMjUyMzAxOCw3MzM4MzI3MTksLTExNTk3NjE3NTksMTA1
