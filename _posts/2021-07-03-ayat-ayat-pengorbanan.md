@@ -130,7 +130,9 @@ Hai orang-orang yang beriman, janganlah kamu menjadikan sedekah-sedekahmu sia-si
 
 ### Penutup
 
-Demikian materi pengorbanan ini
+Demikianlah, semoga petunjuk-petunjuk dari Alquran tersebut bisa menjadikan kita memahami pengorbanan di jalan Allah Ta'ala bisa diamalkan dalam kehidupan ini sehingga bisa menjadi bekal yang baik di masa yang akan datang.
+
+Wa aakhiru da'wanaa anil-hamdulillaahi robbil 'aalamiin
 
 ### Catatan Kaki
 
@@ -144,11 +146,11 @@ Demikian materi pengorbanan ini
 37:108 -- pengorbanan nabi Ibrohim
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzIxMTg1NTMsLTEyMTI5OTcwNjIsMT
-UxNzY5MzAzMiwtMTU4NjM0NTQxNCwtMTU0NTQwNjAzNCwtNjMx
-MzcwOTM5LC0xNjgyNjE0NTk1LC05MDE2MDg1MDcsLTE3MTU0Nj
-EwNzksLTIwMzI0Mjg2OTUsMjAxOTE4NTE0MCw0MDE4MTcwMTUs
-MTc2MjM1MzY2NSwtMTczMjUyMzAxOCw3MzM4MzI3MTksLTExNT
-k3NjE3NTksMTA1ODgyMjM5OCwtMTY2MzY5NTMwMywtNjk4NjYx
-MDMyLDQ4NTE0NDIxN119
+eyJoaXN0b3J5IjpbLTYxMzU2NjY0OCwtMTIxMjk5NzA2MiwxNT
+E3NjkzMDMyLC0xNTg2MzQ1NDE0LC0xNTQ1NDA2MDM0LC02MzEz
+NzA5MzksLTE2ODI2MTQ1OTUsLTkwMTYwODUwNywtMTcxNTQ2MT
+A3OSwtMjAzMjQyODY5NSwyMDE5MTg1MTQwLDQwMTgxNzAxNSwx
+NzYyMzUzNjY1LC0xNzMyNTIzMDE4LDczMzgzMjcxOSwtMTE1OT
+c2MTc1OSwxMDU4ODIyMzk4LC0xNjYzNjk1MzAzLC02OTg2NjEw
+MzIsNDg1MTQ0MjE3XX0=
 -->
