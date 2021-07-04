@@ -9,7 +9,13 @@ published: true
 
 ## {{ page.title }}
 
-Materi yang akan kami sampaikan adalah Materi Kelas B untuk mata pelajaran Pengorbanan dan Nizam. Dan kali ini adalah pertemuan ke tiga.
+*Assalamu 'alaikum wa rahmatulloohi wa barookaatuh*
+
+<p class="arab">
+	أَشْهَدُ أنْ لَّا إِلٰهَ إِلَّا اللّٰهُ وَحْدَهُ لَا شَرِيْكَ لَهُ وَأَشْهَدُ أنَّ مُحَمَّدًا عَبْدُهُ وَرَسُوْلُهُ - أَمَّا بَعْدُ فَأَعُوْذُ بِاللّٰهِ مِنَ الشَّيْطَانِ الرَّجِيْمِ -
+</p>
+
+Materi yang akan disampaikan adalah Materi Kelas B untuk mata pelajaran Pengorbanan dan Nizam. Dan kali ini adalah pertemuan ke tiga.
 
 Adik-adik, seperti yang kita ketahui bahwa pengorbanan merupakan salah satu cara kita untuk bisa meraih cinta. Misalnya, jika kita ingin seseorang mencintai kita, maka kita hendaknya berkorban. Begitu pula apabila kita ingin mendapatkan *qurub ilahi* atau kedekatan dengan Allah Ta'ala, maka wajiblah atas kita melaksanakan pengorbanan.  Hal ini karena kata "qurban" itu memiliki makna "pendekatan diri" dan "persembahan" [[^almaany_qurbaanun]].
 
@@ -132,7 +138,9 @@ Hai orang-orang yang beriman, janganlah kamu menjadikan sedekah-sedekahmu sia-si
 
 Demikianlah, semoga petunjuk-petunjuk dari Alquran tersebut bisa menjadikan kita memahami pengorbanan di jalan Allah Ta'ala bisa diamalkan dalam kehidupan ini sehingga bisa menjadi bekal yang baik di masa yang akan datang.
 
-Wa aakhiru da'wanaa anil-hamdulillaahi robbil 'aalamiin
+*Wa aakhiru da'wanaa anil-hamdulillaahi robbil 'aalamiin,*
+
+*Wassalamu 'alaikum wa rahmatullohi wa barokaatuh*.
 
 ### Catatan Kaki
 
@@ -146,11 +154,11 @@ Wa aakhiru da'wanaa anil-hamdulillaahi robbil 'aalamiin
 37:108 -- pengorbanan nabi Ibrohim
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxMzU2NjY0OCwtMTIxMjk5NzA2MiwxNT
-E3NjkzMDMyLC0xNTg2MzQ1NDE0LC0xNTQ1NDA2MDM0LC02MzEz
-NzA5MzksLTE2ODI2MTQ1OTUsLTkwMTYwODUwNywtMTcxNTQ2MT
-A3OSwtMjAzMjQyODY5NSwyMDE5MTg1MTQwLDQwMTgxNzAxNSwx
-NzYyMzUzNjY1LC0xNzMyNTIzMDE4LDczMzgzMjcxOSwtMTE1OT
-c2MTc1OSwxMDU4ODIyMzk4LC0xNjYzNjk1MzAzLC02OTg2NjEw
-MzIsNDg1MTQ0MjE3XX0=
+eyJoaXN0b3J5IjpbLTUxNTU2OTE0LC0xMjEyOTk3MDYyLDE1MT
+c2OTMwMzIsLTE1ODYzNDU0MTQsLTE1NDU0MDYwMzQsLTYzMTM3
+MDkzOSwtMTY4MjYxNDU5NSwtOTAxNjA4NTA3LC0xNzE1NDYxMD
+c5LC0yMDMyNDI4Njk1LDIwMTkxODUxNDAsNDAxODE3MDE1LDE3
+NjIzNTM2NjUsLTE3MzI1MjMwMTgsNzMzODMyNzE5LC0xMTU5Nz
+YxNzU5LDEwNTg4MjIzOTgsLTE2NjM2OTUzMDMsLTY5ODY2MTAz
+Miw0ODUxNDQyMTddfQ==
 -->
