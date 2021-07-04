@@ -279,9 +279,7 @@ Dalam sejarah tidak bisa dipungkiri bahwa terdapat pencapaian-pencapaian luar bi
 - Huzur menyampaikan pidato bersejarah di Parlemen Eropa di Brussel (4 Desember 2012)
 - Huzur menyampaikan pidato utama di ‘The Conference of World Religions’ yang diadakan di Guildhall, London (11 Februari 2014) [[^khalifah_islam_saat_ini]]
 
-  
-
-HAL-HAL YANG PERLU DIINGAT DAN DIPAHAMI TENTANG KEITAATAN KEPADA KHILAFAT
+### Hal-Hal yang Perlu Diingat dan Dipahami Tentang Keitaatan KEPADA KHILAFAT
 
 1. Unta memiliki  rasa ketaatan. Unta berjalan dalam satu garis panjang dan  dipimpin oleh unta berpengalaman di depan. Selebihnya  mengikutinya dengan kecepatan yang sama dan tidak ada yang  punya rencana atau cita-cita untuk berjalan sejajar dengan yang  memimpin mereka, seperti hewan lain, misalnya kuda. Karena itu,  di dalam ayat pertama, Allah telah menggunakan kata Arab khusus  untuk unta, [yaitu ibil] guna menarik perhatian pada landasan  umum unta yang bepergian dalam satu baris panjang dan dengan  demikian telah menekankan pada perlunya Imam untuk menjaga  persatuan.
 
@@ -388,6 +386,7 @@ Setelah KPA usai, maka kita bisa menerapkannya sebagai berikut,
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTg5MTUyMjksMjUzNjYzMjI3LC0yMD
-IxMDU4MTAxLDEyMDQyODY3NjUsLTc5NzQ2MTk3N119
+eyJoaXN0b3J5IjpbLTE5ODEyMDI1MTgsLTEyMTg5MTUyMjksMj
+UzNjYzMjI3LC0yMDIxMDU4MTAxLDEyMDQyODY3NjUsLTc5NzQ2
+MTk3N119
 -->
