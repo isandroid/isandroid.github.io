@@ -25,7 +25,7 @@ Dengan berkorban, maka kita akan mendapatkan *qurub ilahi* atau kedekatan dengan
 
 "Hai orang-orang yang beriman, Maukah Aku tunjukkan kepadamu perdagangan yang akan menyelamatkan kamu dari azab yang pedih? - Kamu beriman kepada Allah dan Rasul-Nya, dan kamu **berjihad di jalan Allah dengan harta dan jiwamu**. Hal itu lebih baik bagimu jika kamu mengetahui" (QS Ash-Shaaf [61]: [11](https://openquran.com/61:11)-[12](https://openquran.com/61:12))
 
-- Jadi disini kita bisa mengetahui bahwa berkorban merupakan salah satu jihad di jalan Allah Ta'ala.
+- Jadi disini kita bisa mengetahui bahwa berkorban merupakan salah satu jihad di jalan Allah Ta'ala. Dan dengan 
 
 ### Ayat Kedua
 
@@ -77,9 +77,7 @@ Pengorbanan akan menarik ridho Allah dan memperteguh jiwa
 اُولٰٓئِکَ ہُمُ الۡمُؤۡمِنُوۡنَ حَقًّا ۚ لَّہُمۡ دَرَجٰتٌ عِنۡدَ رَبِّہِمۡ وَمَغۡفِرَۃٌ وَّرِزۡقٌ کَرِیۡمٌ
 </p>
 
-Orang-orang yang senantiasa mendirikan shalat dan menginfakkan *sebagian* dari apa yang Kami rezekikan kepada mereka * 
-
-(QS Al Anfal [8]: [4](https://openquran.com/8:4)-[5](https://openquran.com/8:5))
+"Orang-orang yang senantiasa mendirikan shalat dan menginfakkan *sebagian* dari apa yang Kami rezekikan kepada mereka * Mereka inilah orang-orang mukmin yang sejati. Bagi mereka ada derajat-derajat *yang tinggi* di sisi Tuhan mereka, ampunan dan rezeki yang mulia" (QS Al Anfal [8]: [4](https://openquran.com/8:4)-[5](https://openquran.com/8:5))
 
 - Tanda sempurnanya iman
 
@@ -99,9 +97,9 @@ Orang-orang yang senantiasa mendirikan shalat dan menginfakkan *sebagian* dari a
 2:197
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzM5ODg5MDYsMjAxOTE4NTE0MCw0MD
-E4MTcwMTUsMTc2MjM1MzY2NSwtMTczMjUyMzAxOCw3MzM4MzI3
-MTksLTExNTk3NjE3NTksMTA1ODgyMjM5OCwtMTY2MzY5NTMwMy
-wtNjk4NjYxMDMyLDQ4NTE0NDIxNywtMTc0MTQxOTk3MiwtMTEx
-OTY3NjM4MiwtMTExNzY5NDQxMl19
+eyJoaXN0b3J5IjpbMTgwMjU0OTQ5MSwyMDE5MTg1MTQwLDQwMT
+gxNzAxNSwxNzYyMzUzNjY1LC0xNzMyNTIzMDE4LDczMzgzMjcx
+OSwtMTE1OTc2MTc1OSwxMDU4ODIyMzk4LC0xNjYzNjk1MzAzLC
+02OTg2NjEwMzIsNDg1MTQ0MjE3LC0xNzQxNDE5OTcyLC0xMTE5
+Njc2MzgyLC0xMTE3Njk0NDEyXX0=
 -->
