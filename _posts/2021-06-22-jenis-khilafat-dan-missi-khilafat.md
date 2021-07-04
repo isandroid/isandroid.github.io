@@ -289,51 +289,30 @@ Makna unta bepergian dalam satu barisan adalah  bahwa Imam diperlukan untuk mema
 
   
 
-Baginda Nabi Muhammad shallAllahu  ‘alaihi wa sallam bersabda, ‘Al-Imaamu junnatun’
-
+2. Baginda Nabi Muhammad shallAllahu  ‘alaihi wa sallam bersabda, ‘Al-Imaamu junnatun’
 " الإمام  جُنّة " bahwa  Imam adalah seperti perisai.1F  Selama anda berada di belakang  perisai, anda akan terlindungi dari serangan setan. Makna dari  tetap berada di belakang perisai ialah ketaatan yang sempurna  kepada Imam. Berjalan pada barisan secara lurus dalam batasbatas  wilayah yang telah ditentukan. Bila sedikit saja keluar dari  barisan tersebut, maka akan tersesat dan membahayakan.
 
-  
+3. Beberapa pengurus bertindak atas instruksi yang diterima dari Khalifah-e-waqt tetapi dengan sedikit ragu-ragu. Ini tidak memperlihatkan ketaatan. Ketaatan adalah ketika sesuatu diikuti secara langsung dan sepenuhnya.
 
-Beberapa pengurus bertindak atas instruksi yang diterima dari Khalifah-e-waqt tetapi dengan sedikit ragu-ragu. Ini tidak memperlihatkan ketaatan. Ketaatan adalah ketika sesuatu diikuti secara langsung dan sepenuhnya.
+4. Hadhrat Khalifatul Masih Awwal ra bersabda, “Serahkanlah diri kalian kepada Imam layaknya mayat di tangan orang yang memandikannya. Suatu mayat tidak bisa bergerak ke sana kemari, melainkan digerakkan sesuai keinginan yang memandikannya.”
 
-  
+5. Khilafat didirikan setelah menerima Imam Zaman dan semua orang berjanji untuk bekerja untuk melanggengkan Khilafat.
 
-Hadhrat Khalifatul Masih Awwal ra bersabda, “Serahkanlah diri kalian kepada Imam layaknya mayat di tangan orang yang memandikannya. Suatu mayat tidak bisa bergerak ke sana kemari, melainkan digerakkan sesuai keinginan yang memandikannya.”
+6. Keputusan Ma’ruf adalah keputusan yang dibuat berdasarkan Al-Qur'an dan Sunnah. Sesuai nubuatan Nabi saw, Khilafat akan didirikan mengikuti kenabian dan menurut Hadhrat Masih Mau'ud as Khilafat tersebut adalah kekal.
 
-  
+7. Dengan demikian, Khilafat tidak dapat berjalan bertentangan dengan Al-Qur'an dan Sunnah. Inilah makna dari ma’ruf.
 
-Khilafat didirikan setelah menerima Imam Zaman dan semua orang berjanji untuk bekerja untuk melanggengkan Khilafat.
+8. Hadhrat Masih Mau’ud as bersabda bahwa ketika benar-benar menjalankan ketaatan menghasilkan cahaya di dalam hati. beliau mengatakan usaha kerohanian tidak dibutuhkan sebanyak dibutuhkannya ketaatan. beliau juga mengatakan persatuan tidak dapat dibangun tanpa ketaatan.
 
-  
+9. Kita sendiri dan menyebarkan pesan kebenaran dan ini harus dilakukan mengikuti Khalifah-e-waqt. Agar diselamatkan dari kehancuran kita perlu untuk meningkatkan derajat ketaatan kita. Tidak peduli berapa banyak musuh-musuh Ahmadiyah menganiaya kita Allah akan membawa kita ke tujuan, tetapi ketaatan adalah syaratnya dan ketaatan harus sempurna.
 
-Keputusan Ma’ruf adalah keputusan yang dibuat berdasarkan Al-Qur'an dan Sunnah. Sesuai nubuatan Nabi saw, Khilafat akan didirikan mengikuti kenabian dan menurut Hadhrat Masih Mau'ud as Khilafat tersebut adalah kekal.
+10. Jika petunjuk dari Khalifah-e-waqt tidak sepenuhnya dipahami, daripada mengira-ngira penafsirannya, hendaknya menulis surat kepada Khalifah-e-waqt dan meminta saran lebih lanjut.
 
-Dengan demikian, Khilafat tidak dapat berjalan bertentangan dengan Al-Qur'an dan Sunnah. Inilah makna dari ma’ruf.
+11. Jika setiap anggota Jemaat taat, kita akan menuju ke arah ketinggian rohaniah, iman kita akan sekuat gunung dan sebagai hasilnya pesan Islam akan menyebar ke segala penjuru di dunia.
 
-  
+12. Kita tidak perlu takut atau bersikap defensif (bertahan), pemerintahan duniawi bukanlah tujuan kita. Tugas kita adalah untuk menanamkan kasih sayang Allah dalam hati dan kita akan terus melakukan hal ini dan untuk ini setiap Ahmadi harus benar-benar taat kepada Khilafat.
 
-Hadhrat Masih Mau’ud as bersabda bahwa ketika benar-benar menjalankan ketaatan menghasilkan cahaya di dalam hati. beliau mengatakan usaha kerohanian tidak dibutuhkan sebanyak dibutuhkannya ketaatan. beliau juga mengatakan persatuan tidak dapat dibangun tanpa ketaatan.
-
-  
-
-kita sendiri dan menyebarkan pesan kebenaran dan ini harus dilakukan mengikuti Khalifah-e-waqt. Agar diselamatkan dari kehancuran kita perlu untuk meningkatkan derajat ketaatan kita. Tidak peduli berapa banyak musuh-musuh Ahmadiyah menganiaya kita Allah akan membawa kita ke tujuan, tetapi ketaatan adalah syaratnya dan ketaatan harus sempurna.
-
-  
-
-Jika petunjuk dari Khalifah-e-waqt tidak sepenuhnya dipahami, daripada mengira-ngira penafsirannya, hendaknya menulis surat kepada Khalifah-e-waqt dan meminta saran lebih lanjut.
-
-  
-
-Jika setiap anggota Jemaat taat, kita akan menuju ke arah ketinggian rohaniah, iman kita akan sekuat gunung dan sebagai hasilnya pesan Islam akan menyebar ke segala penjuru di dunia.
-
-  
-
-Kita tidak perlu takut atau bersikap defensif (bertahan), pemerintahan duniawi bukanlah tujuan kita. Tugas kita adalah untuk menanamkan kasih sayang Allah dalam hati dan kita akan terus melakukan hal ini dan untuk ini setiap Ahmadi harus benar-benar taat kepada Khilafat.
-
-  
-
-13.Love for All Hatred For None.
+13. Love for All Hatred For None.
 
 <!--
 ### Implementasi untuk Taat kepada Khilafat Saat Mengikuti KPA
@@ -414,6 +393,6 @@ Setelah KPA usai, maka kita bisa menerapkannya sebagai berikut,
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzM5NzA1MTIsMjUzNjYzMjI3LC0yMD
-IxMDU4MTAxLDEyMDQyODY3NjUsLTc5NzQ2MTk3N119
+eyJoaXN0b3J5IjpbMTE4NjA3NDI5OCwyNTM2NjMyMjcsLTIwMj
+EwNTgxMDEsMTIwNDI4Njc2NSwtNzk3NDYxOTc3XX0=
 -->
