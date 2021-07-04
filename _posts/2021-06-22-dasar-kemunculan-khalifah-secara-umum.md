@@ -95,7 +95,7 @@ Hadhrat Khalifatul Masih V (atba) bersabda,
 
 > ”Khilafat pasti akan berdiri (senantiasa ada) ditengah orang-orang Muslim.” Akan tetapi Dia telah berjanji bersyarat dengan beberapa syarat dan syarat pertama dari itu adalah harus ada kamil ithaa’at (ketaatan yang sempurna). Mata rantai (kesinambungan) Khilafat Rasyidah sebelumnya telah terputus karena umat Muslim telah keluar dari bingkai taat (meninggalkan ketaatan). Orang-orang Muslim menjadi mahrum (terlepas) dari Khilafat hakiki apabila mereka sudah meninggalkan ketaatan. Setelah keluar dari ketaatan, sebagian golongan mulai mengatakan, “Kami mensyaratkan baiat kami dengan sebagian syarat yang di dalamnya sebab yang paling besar adalah tuntutan pembalasan atas kesyahidan Hadhrat Usman” atau karena terpedaya dengan perkatan-perkataan sebagian penyebar fitnah, mereka menjadi orang yang keluar dari ketaatan Sekalipun pada waktu itu para sahabat masih ada. Namun ketika keluar dari ketaatan yang sempurna maka mereka dimahrumkan dari Khilafat (tidak mendapat nikmat berkat Khilafat). Sebab, keputusan untuk menjadikan Khalifah Allah Ta’ala sendiri telah mengambil alih di tangan-Nya maka kemudian sesudah perselisihan-perselisihan, sesudah keluar dari taat semua usaha-usaha mereka menjadi Khalifah dan membuat Khalifah menjadi gagal dan sia-sia. Dan Khilafat mengambil corak monarki (kerajaan) [[^khotbah20110520]] [[^tafsir_ayat_istikhlaf]]
 
-#### Perpaduan dari Jenis Khalifah Di atas 
+#### 3.4. Perpaduan dari Jenis Khalifah Di atas 
 
 - **Khalifatulloh** sekaligus **Khalifatur Rasul**, contohnya Nabi Harun sebagai wakil dari Nabi Musa; Nabi Ismail dan Nabi Ishaq yang membantu Nabi Ibrahim (as)
 
@@ -103,13 +103,13 @@ Hadhrat Khalifatul Masih V (atba) bersabda,
 
 - **Khalifatur Rasul** sekaligus **Khalifah Mamlukiyah** (Kerajaan) (contoh: Khulafa-ur-Rosyidin)
 
-### Dasar Kemunculan Khalifah Rosyidah dan Khalifatul Masih
+### 4. Dasar Kemunculan Khalifah Rosyidah dan Khalifatul Masih
 
 Hadhrat Masih Mau'ud a.s. bersabda,  
 
 > "Mengapa Rasulullah (saw) tidak menetapkan khalifah pengganti beliau? Hikmah yang terkandung di dalamnya adalah, beliau benar-benar mengetahui bahwa Allah Ta'ala sendiri yang akan menetapkan seorang khalifah. Sebab, itu merupakan pekerjaan Allah, dan pilihan Allah tidak mengandung cacat sedikitpun. Demikianlah Allah Ta'ala telah menjadikan Hz. Abu Bakar Shiddiq menjadi khalifah untuk tugas tersebut. Dan di dalam kalbu beliau lah pertama sekali dimasukkan haq/kebenaran.” [[^malfuzat_jld10_h229]] 
 
-#### Hadits tentang Khalifah Rasyidah
+#### 4.1. Hadits tentang Khalifah Rasyidah
 
 Diriwayatkan,
 
@@ -117,7 +117,7 @@ Diriwayatkan,
 
 "Khilafah di ummatku selama tigapuluh tahun kemudian setelah itu kerajaan." (H.R. [At-Tirmidzi, Kitab Fitnah, Bab Kekhilafahan] [[^hds-c034adf3-3702-467d-9be0-f4871abddd5c]]
 
-#### Hadits tentang Khalifatul Masih
+#### 4.2. Hadits tentang Khalifatul Masih
 
 Rasulullah (saw) telah menubuwwatkan berdirinya Khilafat dan kerajaan setelah beliau,
 
@@ -365,6 +365,6 @@ Dalam sejarah tidak bisa dipungkiri bahwa terdapat pencapaian-pencapaian luar bi
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTgwNzA5MzQsMTk4Mjg0NTU5NSwtMT
-c0MzMwODkzM119
+eyJoaXN0b3J5IjpbMTQxMzU4MjYyMiwxOTgyODQ1NTk1LC0xNz
+QzMzA4OTMzXX0=
 -->
