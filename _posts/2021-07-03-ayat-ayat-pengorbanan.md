@@ -15,7 +15,9 @@ Adik-adik, seperti yang kita ketahui bahwa pengorbanan merupakan salah satu cara
 
 Kali ini kita akan menyimak ayat-ayat Alquran yang membahas keberkahan-keberkahan dalam pengorbanan. Allah Ta'ala berfirman, 
 
-
+<p class="arab">
+أَعُوذُ بِاللَّهِ مِنَ الشَّيْطَانِ الرَّجِيمِ
+</p>
 
 ### Ayat Pertama
 
@@ -103,10 +105,10 @@ Pengorbanan akan menarik ridho Allah dan memperteguh jiwa
 2:197
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkwMTYwODUwNywtMTcxNTQ2MTA3OSwtMj
-AzMjQyODY5NSwyMDE5MTg1MTQwLDQwMTgxNzAxNSwxNzYyMzUz
-NjY1LC0xNzMyNTIzMDE4LDczMzgzMjcxOSwtMTE1OTc2MTc1OS
-wxMDU4ODIyMzk4LC0xNjYzNjk1MzAzLC02OTg2NjEwMzIsNDg1
-MTQ0MjE3LC0xNzQxNDE5OTcyLC0xMTE5Njc2MzgyLC0xMTE3Nj
-k0NDEyXX0=
+eyJoaXN0b3J5IjpbLTE2ODI2MTQ1OTUsLTkwMTYwODUwNywtMT
+cxNTQ2MTA3OSwtMjAzMjQyODY5NSwyMDE5MTg1MTQwLDQwMTgx
+NzAxNSwxNzYyMzUzNjY1LC0xNzMyNTIzMDE4LDczMzgzMjcxOS
+wtMTE1OTc2MTc1OSwxMDU4ODIyMzk4LC0xNjYzNjk1MzAzLC02
+OTg2NjEwMzIsNDg1MTQ0MjE3LC0xNzQxNDE5OTcyLC0xMTE5Nj
+c2MzgyLC0xMTE3Njk0NDEyXX0=
 -->
