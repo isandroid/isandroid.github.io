@@ -83,6 +83,14 @@ Katakanlah, “Sesungguhnya shalatku, **pengorbananku**, hidupku, dan matiku han
 
 - Mereka yang membelanjakan kekayaan mereka di jalan Allah dilarang menyebut-nyebut dengan tanpa guna dan tidak pada tempatnya mengenai uang yang mereka belanjakan serta bakti yang mereka berikan demi kebenaran; sebab, perbuatan demikian termasuk *Mann* (celaan, ejekan). Demikian pula mereka diperintahkan agar tidak menuntut sesuatu sebagai imbalan atas bantuan mereka.
 
+### QS Al Baqarah (2): 265
+
+<p class="quran">
+
+</p>
+
+(https://openquran.com/2:265)
+
 ### QS Al Baqarah (2): 266
 
 <p class="quran">
@@ -130,11 +138,11 @@ Katakanlah, “Sesungguhnya shalatku, **pengorbananku**, hidupku, dan matiku han
 37:108 -- pengorbanan nabi Ibrohim
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDcxMTk4ODMsMTUxNzY5MzAzMiwtMT
-U4NjM0NTQxNCwtMTU0NTQwNjAzNCwtNjMxMzcwOTM5LC0xNjgy
-NjE0NTk1LC05MDE2MDg1MDcsLTE3MTU0NjEwNzksLTIwMzI0Mj
-g2OTUsMjAxOTE4NTE0MCw0MDE4MTcwMTUsMTc2MjM1MzY2NSwt
-MTczMjUyMzAxOCw3MzM4MzI3MTksLTExNTk3NjE3NTksMTA1OD
-gyMjM5OCwtMTY2MzY5NTMwMywtNjk4NjYxMDMyLDQ4NTE0NDIx
-NywtMTc0MTQxOTk3Ml19
+eyJoaXN0b3J5IjpbNzQwMTYwNDk4LDE1MTc2OTMwMzIsLTE1OD
+YzNDU0MTQsLTE1NDU0MDYwMzQsLTYzMTM3MDkzOSwtMTY4MjYx
+NDU5NSwtOTAxNjA4NTA3LC0xNzE1NDYxMDc5LC0yMDMyNDI4Nj
+k1LDIwMTkxODUxNDAsNDAxODE3MDE1LDE3NjIzNTM2NjUsLTE3
+MzI1MjMwMTgsNzMzODMyNzE5LC0xMTU5NzYxNzU5LDEwNTg4Mj
+IzOTgsLTE2NjM2OTUzMDMsLTY5ODY2MTAzMiw0ODUxNDQyMTcs
+LTE3NDE0MTk5NzJdfQ==
 -->
