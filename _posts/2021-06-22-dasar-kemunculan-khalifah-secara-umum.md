@@ -252,7 +252,7 @@ Dalam sejarah tidak bisa dipungkiri bahwa terdapat pencapaian-pencapaian luar bi
 - Jamia Ahmadiyah berdiri di Indonesia (1982)
 - Wafatnya Khalifah Ketiga (8 Juni 1982)
 
-#### 7.Khalifatul Masih Ar-Rabi' (rh)
+#### 7.4. Khalifatul Masih Ar-Rabi' (rh)
 
 - Pemilihan Khalifah Keempat (9 Juni 1982)
 - Peresmian masjid pertama di Spanyol (10 September 1982)
@@ -272,7 +272,7 @@ Dalam sejarah tidak bisa dipungkiri bahwa terdapat pencapaian-pencapaian luar bi
 - Konferensi Al-Masih 2000, Sion, AS (12 Agustus 2000)
 - Wafatnya Khalifah Keempat (19 April 2003)
 
-#### Khalifatul Masih Al-Khomis (atba)
+#### 7.5. Khalifatul Masih Al-Khomis (atba)
 
 - Pemilihan Khalifah Kelima (22 April 2003)
 - Peresmian Masjid Bait ul-Futooh di Morden, Inggris (3 Oktober 2003) [[^alislam_important_date]]
@@ -283,7 +283,7 @@ Dalam sejarah tidak bisa dipungkiri bahwa terdapat pencapaian-pencapaian luar bi
 - Huzur menyampaikan pidato bersejarah di Parlemen Eropa di Brussel (4 Desember 2012)
 - Huzur menyampaikan pidato utama di ‘The Conference of World Religions’ yang diadakan di Guildhall, London (11 Februari 2014) [[^khalifah_islam_saat_ini]]
 
-### Hal-Hal yang Perlu Diingat dan Dipahami Tentang Keitaatan kepada Khilafat
+### 8. Hal-Hal yang Perlu Diingat dan Dipahami Tentang Keitaatan kepada Khilafat
 
 1. Unta memiliki  rasa ketaatan. Unta berjalan dalam satu garis panjang dan  dipimpin oleh unta berpengalaman di depan. Selebihnya  mengikutinya dengan kecepatan yang sama dan tidak ada yang  punya rencana atau cita-cita untuk berjalan sejajar dengan yang  memimpin mereka, seperti hewan lain, misalnya kuda. Karena itu,  di dalam ayat pertama, Allah telah menggunakan kata Arab khusus  untuk unta, [yaitu ibil] guna menarik perhatian pada landasan  umum unta yang bepergian dalam satu baris panjang dan dengan  demikian telah menekankan pada perlunya Imam untuk menjaga  persatuan.
 
@@ -313,7 +313,7 @@ Dalam sejarah tidak bisa dipungkiri bahwa terdapat pencapaian-pencapaian luar bi
 
 <!-- Rujukan pd Al-Qur'an, Hadist,Sabda Hz Masih Mau'ud (as) dan para Khalifatul Masih -->
 
-### Catatan Kaki
+### 9. Catatan Kaki
 
 [^qs_024_056]: [Alquran Surah An-Nuur (24) ayat 56 dengan basmallah](/ref/qrn-024-056)
 
@@ -367,6 +367,6 @@ Dalam sejarah tidak bisa dipungkiri bahwa terdapat pencapaian-pencapaian luar bi
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODY4MDA4OTksMTk4Mjg0NTU5NSwtMT
+eyJoaXN0b3J5IjpbLTExNzE2ODQxMjIsMTk4Mjg0NTU5NSwtMT
 c0MzMwODkzM119
 -->
