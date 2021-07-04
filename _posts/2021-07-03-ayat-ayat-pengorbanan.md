@@ -47,7 +47,7 @@ Pengorbanan akan menarik ridho Allah dan memperteguh jiwa
 
 "Dan perumpamaan orang-orang yang menginfakkan harta mereka demi **mencari keridhoan Allah dan memperteguh jiwa mereka** adalah seperti perumpamaan kebun yang terletak di dataran tinggi, hujan lebat menimpanya lalu menghasilkan  buahnya dua kali lipat, tetapi jika hujan lebat tidak menimpanya, maka hujan gerimis *pun memadai*. Dan Allah Maha Melihat apa-apa yang kamu kerjakan." ([QS Al Baqarah [2]: 266](https://openquran.com/2:266))
 
-- Jadi ayat ini menjelaskan bahwa pengorbanan itu bisa m
+- Jadi ayat ini menjelaskan bahwa pengorbanan itu bisa menarik ridho Allah dan memperteguh jiwa.
 
 ### Ayat Keempat
 
@@ -57,7 +57,7 @@ Pengorbanan akan menarik ridho Allah dan memperteguh jiwa
 
 "Orang-orang yang membelanjakan hartanya di jalan Allah kemudian mereka tidak mengiringi apa yang dibelanjakannya itu dengan menyebut-nyebut kebaikan dan tidak *pula* menyakiti *hati*, bagi mereka ada ganjarannya di sisi Tuhan-nya, dan **tidak ada ketakutan pada mereka dan tidak pula mereka akan bersedih**" ([QS Al Baqarah [2]: 263](https://openquran.com/2:263))
 
-- Orang yang berkorban akan diberikan ganjaran dan keberkahan hidup
+- Orang yang berkorban akan diberikan ganjaran dan keberkahan hidup atau kebahagiaan hidup.
 
 ### Ayat Kelima
 
@@ -65,7 +65,7 @@ Pengorbanan akan menarik ridho Allah dan memperteguh jiwa
 خُذۡ مِنۡ اَمۡوٰلِہِمۡ صَدَقَۃً تُطَہِّرُہُمۡ وَتُزَکِّیۡہِمۡ بِہَا وَصَلِّ عَلَیۡہِمۡ ۖ اِنَّ صَلَوٰتَکَ سَکَنٌ لَّہُمۡ ۗ وَاللّٰہُ سَمِیۡعٌ عَلِیۡمٌ
 </p>
 
-"Ambillah sedekah dari harta mereka agar engkau dapat membersihkan mereka dan mensucikan mereka dengannya. Dan berdoalah untuk mereka; sesungguhnya doa engkau adalah *sumber* ketenteraman bagi mereka. Dan, Allah itu Maha Mendengar, Maha Mengetahui." ([QS At Taubah [9]: 103](https://openquran.com/9:103))
+"Ambillah sedekah dari harta mereka agar engkau dapat **membersihkan mereka dan mensucikan mereka dengannya**. Dan berdoalah untuk mereka; sesungguhnya doa engkau adalah *sumber* ketenteraman bagi mereka. Dan, Allah itu Maha Mendengar, Maha Mengetahui." ([QS At Taubah [9]: 103](https://openquran.com/9:103))
 
 - Pengorbanan akan mensucikan dan membersihkan hati/jiwa/harta kita
 
@@ -79,9 +79,9 @@ Pengorbanan akan menarik ridho Allah dan memperteguh jiwa
 اُولٰٓئِکَ ہُمُ الۡمُؤۡمِنُوۡنَ حَقًّا ۚ لَّہُمۡ دَرَجٰتٌ عِنۡدَ رَبِّہِمۡ وَمَغۡفِرَۃٌ وَّرِزۡقٌ کَرِیۡمٌ
 </p>
 
-"Orang-orang yang senantiasa mendirikan shalat dan menginfakkan *sebagian* dari apa yang Kami rezekikan kepada mereka * Mereka inilah orang-orang mukmin yang sejati. Bagi mereka ada derajat-derajat *yang tinggi* di sisi Tuhan mereka, ampunan dan rezeki yang mulia" (QS Al Anfal [8]: [4](https://openquran.com/8:4)-[5](https://openquran.com/8:5))
+"Orang-orang yang senantiasa mendirikan shalat dan menginfakkan *sebagian* dari apa yang Kami rezekikan kepada mereka * Mereka inilah **orang-orang mukmin yang sejati**. Bagi mereka ada **derajat-derajat *yang tinggi*** di sisi Tuhan mereka, ampunan dan rezeki yang mulia" (QS Al Anfal [8]: [4](https://openquran.com/8:4)-[5](https://openquran.com/8:5))
 
-- Tanda sempurnanya iman
+- Tanda sempurnanya iman dan 
 
 ### Catatan Kaki
 
@@ -99,7 +99,7 @@ Pengorbanan akan menarik ridho Allah dan memperteguh jiwa
 2:197
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzM0NTkxNDIsMjAxOTE4NTE0MCw0MD
+eyJoaXN0b3J5IjpbLTIwMzI0Mjg2OTUsMjAxOTE4NTE0MCw0MD
 E4MTcwMTUsMTc2MjM1MzY2NSwtMTczMjUyMzAxOCw3MzM4MzI3
 MTksLTExNTk3NjE3NTksMTA1ODgyMjM5OCwtMTY2MzY5NTMwMy
 wtNjk4NjYxMDMyLDQ4NTE0NDIxNywtMTc0MTQxOTk3MiwtMTEx
