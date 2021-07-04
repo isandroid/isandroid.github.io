@@ -47,7 +47,7 @@ Katakanlah, “Sesungguhnya shalatku, **pengorbananku**, hidupku, dan matiku han
 
 - Ayat ini menjelaskan bahwa Shalat, korban, hidup, dan mati meliputi seluruh bidang amal perbuatan manusia; 
 - Rasulullah (saw) diperintah untuk menyatakan bahwa semua segi kehidupan di dunia ini dipersembahkan oleh beliau kepada Allah Ta'ala. Semua amal ibadah beliau (saw) dipersembahkan kepada Allah Ta'ala. Semua pengorbanan beliau lakukan untuk Allah Ta'ala. Seluruh kehidupan beliau (saw) persembahkan untuk berbakti kepada-Nya, maka bila saja ketika mengkhidmati agama beliau syahid, maka itu pun guna meraih keridhaan-Nya.
-- Oleh karena itu segala ibadah termasuk pengorbanan kita hendaknya kita persembahkan hanya kepada Allah Ta'ala
+- Oleh karena itu segala ibadah, termasuk pengorbanan,  hendaknya kita persembahkan hanya kepada Allah Ta'ala.
 
 ### QS Ash-Shaaf (61): 11 s.d. 12
 
@@ -154,11 +154,11 @@ Demikianlah, semoga petunjuk-petunjuk dari Alquran tersebut bisa menjadikan kita
 37:108 -- pengorbanan nabi Ibrohim
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzk2MjgxMzIwLDk2ODYxMTgwNiwtMTIxMj
-k5NzA2MiwxNTE3NjkzMDMyLC0xNTg2MzQ1NDE0LC0xNTQ1NDA2
-MDM0LC02MzEzNzA5MzksLTE2ODI2MTQ1OTUsLTkwMTYwODUwNy
-wtMTcxNTQ2MTA3OSwtMjAzMjQyODY5NSwyMDE5MTg1MTQwLDQw
-MTgxNzAxNSwxNzYyMzUzNjY1LC0xNzMyNTIzMDE4LDczMzgzMj
-cxOSwtMTE1OTc2MTc1OSwxMDU4ODIyMzk4LC0xNjYzNjk1MzAz
-LC02OTg2NjEwMzJdfQ==
+eyJoaXN0b3J5IjpbLTE1ODczODc3MzksOTY4NjExODA2LC0xMj
+EyOTk3MDYyLDE1MTc2OTMwMzIsLTE1ODYzNDU0MTQsLTE1NDU0
+MDYwMzQsLTYzMTM3MDkzOSwtMTY4MjYxNDU5NSwtOTAxNjA4NT
+A3LC0xNzE1NDYxMDc5LC0yMDMyNDI4Njk1LDIwMTkxODUxNDAs
+NDAxODE3MDE1LDE3NjIzNTM2NjUsLTE3MzI1MjMwMTgsNzMzOD
+MyNzE5LC0xMTU5NzYxNzU5LDEwNTg4MjIzOTgsLTE2NjM2OTUz
+MDMsLTY5ODY2MTAzMl19
 -->
