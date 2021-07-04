@@ -29,7 +29,7 @@ Allah Ta'ala berfirman,
 
 "Maka beribadahlah kepada Tuhan engkau dan berkorbanlah" ([QS Al-Kautsar [108]: 3 ](https://openquran.com/108:3))
 
-- Ayat ini menjelaskan bahwa tidak hanya shalat saja yang diperintahkan Allah, tetapi berkorban juga tidak kalah pen
+- Ayat ini menjelaskan tentang perintah beribadah (shalat) dan berkorban. Perintah itu diberikan secara beriringan.
 
 ### QS Ash-Shaaf (61): 11 s.d. 12
 
@@ -114,7 +114,7 @@ Allah Ta'ala berfirman,
 2:197
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3NTkyNDg2NywtNjMxMzcwOTM5LC0xNj
+eyJoaXN0b3J5IjpbMTc1NDA2ODM2OSwtNjMxMzcwOTM5LC0xNj
 gyNjE0NTk1LC05MDE2MDg1MDcsLTE3MTU0NjEwNzksLTIwMzI0
 Mjg2OTUsMjAxOTE4NTE0MCw0MDE4MTcwMTUsMTc2MjM1MzY2NS
 wtMTczMjUyMzAxOCw3MzM4MzI3MTksLTExNTk3NjE3NTksMTA1
