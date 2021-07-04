@@ -9,13 +9,13 @@ published: true
 
 ## {{ page.title }}
 
-### 1Pengertian Khilafat dan Khalifah
+### 1. Pengertian Khilafat dan Khalifah
 
 Dalam bahasa arab, **Khilafat** dan **Khalifah** memiliki akar kata yang sama, yaitu kata "*kho-la-fa*" yang artinya menggantikan, mengangkat, mengikuti dan mengambil tempat [[^fn-kata-kholafa]].
 
 Sedangkan kata dalam bentuk "*kholfun*" berarti di belakang, di punggung dan setelah. [[^fn-kata-kholafa]]
 
-#### Pengertian Khilafat
+#### 1.1. Pengertian Khilafat
 
 Kata Khilafah berarti suksesi atau penggantian. Jamaah pengikut Nabi Allah terus memelihara akidah dan sunnah-sunnah di bawah berkat lembaga Khilafah selama Allah kehendaki. Dalam arti yang ringkas, khilafat adalah **sistem** kekhalifahan
 
@@ -23,7 +23,7 @@ Sebagaimana Allah mengangkat seorang Nabi, Dia juga yang mengangkat seorang Khal
 
 Khilafah mengukuhkan kekuasaan Allah di bumi, dan Khalifah berjuang untuk menegakkan kekuasaan itu di dalam jamaah pengikutnya. Bagi orang-orang yang beriman, Khilafah adalah perwujudan Tauhid Ilahi, karena mereka memilih untuk menerima kekuasaan Ilahi melalui pribadi Khalifah. Orang-orang beriman mengambil bagian dari berkat Khilafah dengan memegang teguh iman dan amalan-amalan mereka, bersatu di bawahnya [[^ahmadiyah_id_khilafat]]. 
 
-#### Pengertian Khalifah
+#### 1.2. Pengertian Khalifah
 
 Hadhrat Mushlih Mau'ud (ra) bersabda,
 
@@ -49,6 +49,7 @@ Peri kehidupan khalifah menurut Hadhrat Mushlih Mau'ud (ra) adalah:
 >
 > Kalian memiliki seseorang yang selalu mengkhawatirkan kesejahteraan kalian, orang yang menempatkan dirinya dalam masalah demi kalian, dan orang yang berdoa dengan gelisah di hadapan Tuhannya demi kenyamanan dan kedamaian kalian [[^barakat-e-khilafat_p6]].
 
+### 2. Dasar Kemunculan Khalifah Secara Umum
 
 Allah Ta'ala berfirman dalam QS An-Nur (24) ayat 56:
 
@@ -64,11 +65,11 @@ Hadhrat Khalifatul Masih IV (r.h) menjelaskan mengenai ayat ini,
 
 Ayat ini disebut ayat “istikhlaf”. Di dalamnya hal ini dijelaskan, bahwa sebagaimana Allah Swt selalu menjadikan khalifah-khalifah sesudah kewafatan nabi dimasa lalu, sesudah kewafatan Rasulullah Saw pun hal ini akan terus berlangsung. Khilafat itu mengambil cahaya dari nabi dan menyebarkannya. Setiap kali seorang Khalifah akan wafat, Jemaat diliputi perasaan takut, yang dengan karunia-Nya, berkat Khilafat akan merubahnya menjadi perasaan aman. Maka tanda kebenaran Khilafat ialah ia merubah rasa tidak aman menjadi rasa aman. Inilah yang disabdakan oleh Hadhrat Masih Mau’ud As di buku ‘Al-Wasiyat’, bahwa sesudah wafatnya seorang nabi atau Khalifah, untuk sementara waktu Jemaat akan merasakan bahwa sekarang musuh akan memadamkan cahaya kenabian itu. Tapi di ayat istikhlaf ini ada janji yang qath‘i, bahwa setiap kali musuh akan gagal. Tujuan kenabian adalah tegaknya tauhid di dunia. Ini juga tanda kebenaran Khilafat, bahwa tujuan akhirnya adalah tegaknya tauhid [[^qs_024_056]].
 
-### Jenis-Jenis Khalifah
+### 3. Jenis-Jenis Khalifah
 
 Beberapa jenis khilafat yang diketahui dari Alquran dan Hadits adalah sebagai berikut:
 
-#### 1. Khalifatulloh (Seorang Nabi atau Rasul)
+#### 3. 1. Khalifatulloh (Seorang Nabi atau Rasul)
 
 - Seorang Nabi atau Rasul (memimpin secara ruhani) (contoh Nabi Adam (as), Nabi Idris (as), Nabi Nuh (as), Nabi Isa (as) dll)
 
@@ -366,6 +367,6 @@ Dalam sejarah tidak bisa dipungkiri bahwa terdapat pencapaian-pencapaian luar bi
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MzkwMjAyMzgsMTk4Mjg0NTU5NSwtMT
-c0MzMwODkzM119
+eyJoaXN0b3J5IjpbMTkzMjgyNDUsMTk4Mjg0NTU5NSwtMTc0Mz
+MwODkzM119
 -->
