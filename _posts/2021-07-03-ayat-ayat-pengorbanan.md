@@ -79,6 +79,8 @@ Pengorbanan akan menarik ridho Allah dan memperteguh jiwa
 
 (QS Al Anfal [8]: [4](https://openquran.com/8:4)-[5](https://openquran.com/8:5))
 
+- Tanda sempurnanya iman
+
 ### Ayat Ketujuh
 
 
@@ -98,9 +100,9 @@ Pengorbanan akan menarik ridho Allah dan memperteguh jiwa
 2:197
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxOTE4NTE0MCw0MDE4MTcwMTUsMTc2Mj
-M1MzY2NSwtMTczMjUyMzAxOCw3MzM4MzI3MTksLTExNTk3NjE3
-NTksMTA1ODgyMjM5OCwtMTY2MzY5NTMwMywtNjk4NjYxMDMyLD
-Q4NTE0NDIxNywtMTc0MTQxOTk3MiwtMTExOTY3NjM4MiwtMTEx
-NzY5NDQxMl19
+eyJoaXN0b3J5IjpbMTgwMjcwMTY5MSwyMDE5MTg1MTQwLDQwMT
+gxNzAxNSwxNzYyMzUzNjY1LC0xNzMyNTIzMDE4LDczMzgzMjcx
+OSwtMTE1OTc2MTc1OSwxMDU4ODIyMzk4LC0xNjYzNjk1MzAzLC
+02OTg2NjEwMzIsNDg1MTQ0MjE3LC0xNzQxNDE5OTcyLC0xMTE5
+Njc2MzgyLC0xMTE3Njk0NDEyXX0=
 -->
