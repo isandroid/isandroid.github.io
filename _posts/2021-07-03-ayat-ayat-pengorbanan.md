@@ -1,8 +1,8 @@
 ---
-title: Ayat-ayat Pengorbanan
+title: Berkat-Berkat Pengorbanan
 layout: post
 tags: pengorbanan
-description: beberapa ayat-ayat Alquran yang menjelaskan tentang pengorbanan
+description: beberapa ayat-ayat Alquran yang menjelaskan tentang berkat atau berkah pengorbanan
 published: true
 ---
 <p class="quran">بِسۡمِ اللّٰہِ الرَّحۡمٰنِ الرَّحِیۡمِ</p>
@@ -98,7 +98,7 @@ Pengorbanan akan menarik ridho Allah dan memperteguh jiwa
 2:197
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzOTE3Njg5MSw0MDE4MTcwMTUsMTc2Mj
+eyJoaXN0b3J5IjpbMjAxOTE4NTE0MCw0MDE4MTcwMTUsMTc2Mj
 M1MzY2NSwtMTczMjUyMzAxOCw3MzM4MzI3MTksLTExNTk3NjE3
 NTksMTA1ODgyMjM5OCwtMTY2MzY5NTMwMywtNjk4NjYxMDMyLD
 Q4NTE0NDIxNywtMTc0MTQxOTk3MiwtMTExOTY3NjM4MiwtMTEx
