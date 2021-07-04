@@ -35,7 +35,7 @@ Jadi disini kita bisa mengetahui bahwa berkorban merupakan salah satu jihad di j
 
 "Perumpamaan orang-orang yang membelanjakan harta mereka di jalan Allah, adalah seumpama sebuah biji menumbuhkan tujuh bulir, pada setiap bulir *terdapat* seratus biji, **Allah melipat-gandakan *ganjaran-Nya*** bagi siapa yang Dia kehendaki, dan Allah Mahaluas *karunia-Nya*, Maha Mengetahui" ([QS Al Baqarah [2]: 262](https://openquran.com/2:262))
 
-Pengorbanan kita akan dilipat-gandakan 
+Dalam ayat ini, Allah Ta'ala akan melipatgandakan amal-shaleh atau pengorbanan yang telah kita lakukan. 
 
 ### Ayat Ketiga
 
@@ -71,8 +71,8 @@ Pengorbanan akan mensucikan dan membersihkan hati/jiwa/harta kita
 
 [^almaany_qurbaanun]: [Kamus Al-Maany - kata qurbaanun](https://www.almaany.com/id/dict/ar-id/%D9%82%D8%B1%D8%A8%D8%A7%D9%86/) 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDU5OTA2NjcxLC0xNzMyNTIzMDE4LDczMz
-gzMjcxOSwtMTE1OTc2MTc1OSwxMDU4ODIyMzk4LC0xNjYzNjk1
-MzAzLC02OTg2NjEwMzIsNDg1MTQ0MjE3LC0xNzQxNDE5OTcyLC
-0xMTE5Njc2MzgyLC0xMTE3Njk0NDEyXX0=
+eyJoaXN0b3J5IjpbMTc2MjM1MzY2NSwtMTczMjUyMzAxOCw3Mz
+M4MzI3MTksLTExNTk3NjE3NTksMTA1ODgyMjM5OCwtMTY2MzY5
+NTMwMywtNjk4NjYxMDMyLDQ4NTE0NDIxNywtMTc0MTQxOTk3Mi
+wtMTExOTY3NjM4MiwtMTExNzY5NDQxMl19
 -->
