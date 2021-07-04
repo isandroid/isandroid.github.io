@@ -279,7 +279,7 @@ Dalam sejarah tidak bisa dipungkiri bahwa terdapat pencapaian-pencapaian luar bi
 - Huzur menyampaikan pidato bersejarah di Parlemen Eropa di Brussel (4 Desember 2012)
 - Huzur menyampaikan pidato utama di ‘The Conference of World Religions’ yang diadakan di Guildhall, London (11 Februari 2014) [[^khalifah_islam_saat_ini]]
 
-### Hal-Hal yang Perlu Diingat dan Dipahami Tentang Keitaatan KEPADA KHILAFAT
+### Hal-Hal yang Perlu Diingat dan Dipahami Tentang Keitaatan kepada Khilafat
 
 1. Unta memiliki  rasa ketaatan. Unta berjalan dalam satu garis panjang dan  dipimpin oleh unta berpengalaman di depan. Selebihnya  mengikutinya dengan kecepatan yang sama dan tidak ada yang  punya rencana atau cita-cita untuk berjalan sejajar dengan yang  memimpin mereka, seperti hewan lain, misalnya kuda. Karena itu,  di dalam ayat pertama, Allah telah menggunakan kata Arab khusus  untuk unta, [yaitu ibil] guna menarik perhatian pada landasan  umum unta yang bepergian dalam satu baris panjang dan dengan  demikian telah menekankan pada perlunya Imam untuk menjaga  persatuan.
 
@@ -306,25 +306,6 @@ Dalam sejarah tidak bisa dipungkiri bahwa terdapat pencapaian-pencapaian luar bi
 12. Kita tidak perlu takut atau bersikap defensif (bertahan), pemerintahan duniawi bukanlah tujuan kita. Tugas kita adalah untuk menanamkan kasih sayang Allah dalam hati dan kita akan terus melakukan hal ini dan untuk ini setiap Ahmadi harus benar-benar taat kepada Khilafat.
 
 13. Love for All Hatred For None.
-
-<!--
-### Implementasi untuk Taat kepada Khilafat Saat Mengikuti KPA
-
-Beberapa cara kita menerapkan ketaatan kepada khilafat ketika mengikuti KPA diantaranya adalah sebagai berikut:
-
- 1. Mengikuti seluruh acara KPA dengan khidmat
- 2. Melaksanakan tugas-tugas KPA 
- 3. Mengikuti lomba semaksimal mungkin
- 4. Berusaha menjawab pertanyaan-pertanyaan yang diajukan oleh guru/pengajar KPA.
- 5. Mematuhi apa yang diperintahkan oleh para mentor dan panitia lokal.
-
-Setelah KPA usai, maka kita bisa menerapkannya sebagai berikut,
-
-1. Menerapkan ilmu-ilmu yang didapat ketika KPA dalam ibadah-ibadah kita dan kehidupan sehari-hari sehingga berbuah sebagai amal shaleh.
-2. Setidaknya sebulan sekali menulis surat ke Huzur.
-3. Senantiasa mendengarkan suara khalifah lewat mengikuti Khotbah Jumat Hadhrat Khalifatul Masih V (atba) secara langsung
-
--->
 
 <!-- Rujukan pd Al-Qur'an, Hadist,Sabda Hz Masih Mau'ud (as) dan para Khalifatul Masih -->
 
@@ -386,7 +367,7 @@ Setelah KPA usai, maka kita bisa menerapkannya sebagai berikut,
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODEyMDI1MTgsLTEyMTg5MTUyMjksMj
-UzNjYzMjI3LC0yMDIxMDU4MTAxLDEyMDQyODY3NjUsLTc5NzQ2
-MTk3N119
+eyJoaXN0b3J5IjpbMTk0MDQ4MzY2LC0xMjE4OTE1MjI5LDI1Mz
+Y2MzIyNywtMjAyMTA1ODEwMSwxMjA0Mjg2NzY1LC03OTc0NjE5
+NzddfQ==
 -->
