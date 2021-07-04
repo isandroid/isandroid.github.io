@@ -91,7 +91,7 @@ Wahai _khalifatullah_! Ia (Hadhrat Abu Bakar Ash-Shiddiq (ra)) berkata: Saya ada
 
 #### 3. Khalifah Mamlukiyah (Kerajaan)
 
-- Khalifah yang berbentuk Kerajaan
+- Khalifah yang memimpin kerajaan
 
 - (Contoh khalifah-khalifah Bani Umayah, Bani Abasiyah, Bani Fatimiyah dll)
 
@@ -363,5 +363,6 @@ Dalam sejarah tidak bisa dipungkiri bahwa terdapat pencapaian-pencapaian luar bi
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NDMzMDg5MzNdfQ==
+eyJoaXN0b3J5IjpbLTE0NTg4MTY1OTEsLTE3NDMzMDg5MzNdfQ
+==
 -->
