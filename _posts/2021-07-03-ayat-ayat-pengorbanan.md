@@ -27,7 +27,9 @@ Allah Ta'ala berfirman,
 فَصَلِّ لِرَبِّکَ وَانۡحَرۡ
 </p>
 
-([QS Al-Kautsar [108]: 3 ](https://openquran.com/108:3))
+"Maka beribadahlah kepada Tuhan engkau dan berkorbanlah" ([QS Al-Kautsar [108]: 3 ](https://openquran.com/108:3))
+
+- Ayat ini menjelaskan bahwa tidak hanya shalat saja yang diperintahkan Allah, tetapi berkorban juga tidak kalah pen
 
 ### QS Ash-Shaaf (61): 11 s.d. 12
 
@@ -112,11 +114,11 @@ Allah Ta'ala berfirman,
 2:197
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4Mjk2NTIwMDMsLTYzMTM3MDkzOSwtMT
-Y4MjYxNDU5NSwtOTAxNjA4NTA3LC0xNzE1NDYxMDc5LC0yMDMy
-NDI4Njk1LDIwMTkxODUxNDAsNDAxODE3MDE1LDE3NjIzNTM2Nj
-UsLTE3MzI1MjMwMTgsNzMzODMyNzE5LC0xMTU5NzYxNzU5LDEw
-NTg4MjIzOTgsLTE2NjM2OTUzMDMsLTY5ODY2MTAzMiw0ODUxND
-QyMTcsLTE3NDE0MTk5NzIsLTExMTk2NzYzODIsLTExMTc2OTQ0
-MTJdfQ==
+eyJoaXN0b3J5IjpbLTI3NTkyNDg2NywtNjMxMzcwOTM5LC0xNj
+gyNjE0NTk1LC05MDE2MDg1MDcsLTE3MTU0NjEwNzksLTIwMzI0
+Mjg2OTUsMjAxOTE4NTE0MCw0MDE4MTcwMTUsMTc2MjM1MzY2NS
+wtMTczMjUyMzAxOCw3MzM4MzI3MTksLTExNTk3NjE3NTksMTA1
+ODgyMjM5OCwtMTY2MzY5NTMwMywtNjk4NjYxMDMyLDQ4NTE0ND
+IxNywtMTc0MTQxOTk3MiwtMTExOTY3NjM4MiwtMTExNzY5NDQx
+Ml19
 -->
