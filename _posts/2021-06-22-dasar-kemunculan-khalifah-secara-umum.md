@@ -95,7 +95,7 @@ Wahai _khalifatullah_! Ia (Hadhrat Abu Bakar Ash-Shiddiq (ra)) berkata: Saya ada
 
 - (Contoh khalifah-khalifah Bani Umayah, Bani Abasiyah, Bani Fatimiyah dll)
 
-Apa perbedaan antara khalifah yang mendapatkan bimbingan dengan kerajaan. Ahli sejarah Islam yang terkenal, Muhammad Ibnu Jarir Al Tabari, menuliskan sebuah peristiwa dibawah ini,
+Apa perbedaan antara khalifah yang mendapatkan bimbingan dengan khalifah yang memimpin kerajaan. Ahli sejarah Islam yang terkenal, Muhammad Ibnu Jarir Al Tabari, menuliskan sebuah peristiwa dibawah ini,
 
 Umar bertanya kepada Salman, "Apakah aku seorang Khalifah atau seorang Raja?” Salman Menjawab, “Jika tuan mengumpulkan pajak dari tanah orang-orang Islam satu Dirham, atau lebih, atau kurang, dan menggunakannya dengan tidak sah, maka tuan adalah seorang Raja bukan Khalifah.” Kemudian Umar menangis.” (_At Tabari_, Tarikh al-Rusul wal Muluk) [[^attabary_tarikh_arrusul_wal_muluk]] [[^berdirinya_khalifah_islam_keruntuhan_dan_kebangkitannya]]
 
@@ -363,6 +363,5 @@ Dalam sejarah tidak bisa dipungkiri bahwa terdapat pencapaian-pencapaian luar bi
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTg4MTY1OTEsLTE3NDMzMDg5MzNdfQ
-==
+eyJoaXN0b3J5IjpbMzAzMjk3MTEwLC0xNzQzMzA4OTMzXX0=
 -->
