@@ -11,11 +11,11 @@ published: true
 
 Materi yang akan saya sampaikan adalah Materi untuk Kelas B untuk mata pelajaran Pengorbanan dan Nizam. Dan kali ini adalah pertemuan ke tiga.
 
-Adik-adik, seperti yang kita ketahui bahwa pengorbanan merupakan salah satu cara kita untuk bisa meraih cinta dari sesuatu yang kita cintai. Misalnya, jika kita ingin seseorang mencintai kita, maka kita hendaknya berkorban agar mendapatkan kedekatan. Begitu pula apabila kita ingin mendapatkan *qurub ilahi* atau kedekatan dengan Allah Ta'ala, maka wajiblah atas kita melaksanakan pengorbanan. 
+Adik-adik, seperti yang kita ketahui bahwa pengorbanan merupakan salah satu cara kita untuk bisa meraih cinta dari sesuatu yang kita cintai. Misalnya, jika kita ingin seseorang mencintai kita, maka kita hendaknya berkorban agar mendapatkan kedekatan. Begitu pula apabila kita ingin mendapatkan *qurub ilahi* atau kedekatan dengan Allah Ta'ala, maka wajiblah atas kita melaksanakan pengorbanan.  Hal ini karena kata "qurban" itu memiliki arti pendekatan diri dan persembahan [[^almaany_qurbaanun]].
 
-Kita mengetahui bahwa kata "qurban" yang artinya pendekatan diri dan persembahan [[^almaany_qurbaanun]].
+Kali ini kita akan menyimak ayat-ayat Alquran yang membahas keberkahan-keberkahan dalam pengorbanan. Allah Ta'ala berfirman, 
 
-Kali ini kami akan membahas ayat-ayat Alquran yang membahas keberkahan-keberkahan dalam pengorbanan. Allah Ta'ala berfirman, 
+
 
 ### Ayat Pertama
 
@@ -103,10 +103,10 @@ Pengorbanan akan menarik ridho Allah dan memperteguh jiwa
 2:197
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTg2NTIwNDcsLTE3MTU0NjEwNzksLT
-IwMzI0Mjg2OTUsMjAxOTE4NTE0MCw0MDE4MTcwMTUsMTc2MjM1
-MzY2NSwtMTczMjUyMzAxOCw3MzM4MzI3MTksLTExNTk3NjE3NT
-ksMTA1ODgyMjM5OCwtMTY2MzY5NTMwMywtNjk4NjYxMDMyLDQ4
-NTE0NDIxNywtMTc0MTQxOTk3MiwtMTExOTY3NjM4MiwtMTExNz
-Y5NDQxMl19
+eyJoaXN0b3J5IjpbLTkwMTYwODUwNywtMTcxNTQ2MTA3OSwtMj
+AzMjQyODY5NSwyMDE5MTg1MTQwLDQwMTgxNzAxNSwxNzYyMzUz
+NjY1LC0xNzMyNTIzMDE4LDczMzgzMjcxOSwtMTE1OTc2MTc1OS
+wxMDU4ODIyMzk4LC0xNjYzNjk1MzAzLC02OTg2NjEwMzIsNDg1
+MTQ0MjE3LC0xNzQxNDE5OTcyLC0xMTE5Njc2MzgyLC0xMTE3Nj
+k0NDEyXX0=
 -->
