@@ -11,6 +11,8 @@ published: true
 
 Pengorbanan merupakan salah satu cara kita untuk bisa meraih cinta dari yang kita cintai. Hal ini kita lihat dari kata "qurban" yang artinya pendekatan diri dan persembahan [[^almaany_qurbaanun]].
 
+Dengan berkorban, maka kita akan mendapatkan *qurub ilahi* atau kedekatan dengan Allah Ta'ala. Selain itu masih banyak kelebihan-kelebihan dan keberkahan-keberkahan dalam pengorbanan. Beberapa petunjuk dari Allah Ta'ala adalah sebagai beri 
+
 ### Ayat Pertama
 
 Pengorbanan bisa menyelamatkan manusia dari azab yang pedih
@@ -69,8 +71,8 @@ Pengorbanan akan mensucikan dan membersihkan hati/jiwa/harta kita
 
 [^almaany_qurbaanun]: [Kamus Al-Maany - kata qurbaanun](https://www.almaany.com/id/dict/ar-id/%D9%82%D8%B1%D8%A8%D8%A7%D9%86/) 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MzI1MjMwMTgsNzMzODMyNzE5LC0xMT
-U5NzYxNzU5LDEwNTg4MjIzOTgsLTE2NjM2OTUzMDMsLTY5ODY2
-MTAzMiw0ODUxNDQyMTcsLTE3NDE0MTk5NzIsLTExMTk2NzYzOD
-IsLTExMTc2OTQ0MTJdfQ==
+eyJoaXN0b3J5IjpbOTQ3MTQ3MTUxLC0xNzMyNTIzMDE4LDczMz
+gzMjcxOSwtMTE1OTc2MTc1OSwxMDU4ODIyMzk4LC0xNjYzNjk1
+MzAzLC02OTg2NjEwMzIsNDg1MTQ0MjE3LC0xNzQxNDE5OTcyLC
+0xMTE5Njc2MzgyLC0xMTE3Njk0NDEyXX0=
 -->
