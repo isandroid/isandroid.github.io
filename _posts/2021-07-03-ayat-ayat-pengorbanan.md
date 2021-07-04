@@ -66,7 +66,7 @@ Katakanlah, “Sesungguhnya shalatku, **pengorbananku**, hidupku, dan matiku han
 "Perumpamaan orang-orang yang membelanjakan harta mereka di jalan Allah, adalah seumpama sebuah biji menumbuhkan tujuh bulir, pada setiap bulir *terdapat* seratus biji, **Allah melipat-gandakan *ganjaran-Nya*** bagi siapa yang Dia kehendaki, dan Allah Mahaluas *karunia-Nya*, Maha Mengetahui" ([QS Al Baqarah [2]: 262](https://openquran.com/2:262))
 
 - Dalam ayat ini, Allah Ta'ala akan melipatgandakan amal-shaleh atau pengorbanan yang telah kita lakukan.  
-
+- Dalam ayat-ayat yang lalu dijelaskan bahwa, menurut hukum Ilahi, Tuhan memberikan hidup baru kepada bangsa-bangsa yang layak menerimanya sesudah mereka mati, dan ihwal Bani Israil disebut sebagai contoh. Kemudian dinyatakan bahwa keturunan Ibrahim As akan bangkit empat kali: Bani Israil dan Bani Ismail masing-masing akan bangkit dua kali. Guna mempersiapkan kaum Muslimin untuk kebangkitan yang dijanjikan. Tuhan kembali membahas jalan kemajuan nasional dan memerintahkan orang-orang mukmin supaya membelanjakan harta dengan suka rela di jalan Allah.
 ### QS Al Baqarah (2): 266
 
 <p class="quran">
@@ -123,11 +123,11 @@ Katakanlah, “Sesungguhnya shalatku, **pengorbananku**, hidupku, dan matiku han
 37:108 -- pengorbanan nabi Ibrohim
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODYzNDU0MTQsLTE1NDU0MDYwMzQsLT
-YzMTM3MDkzOSwtMTY4MjYxNDU5NSwtOTAxNjA4NTA3LC0xNzE1
-NDYxMDc5LC0yMDMyNDI4Njk1LDIwMTkxODUxNDAsNDAxODE3MD
-E1LDE3NjIzNTM2NjUsLTE3MzI1MjMwMTgsNzMzODMyNzE5LC0x
-MTU5NzYxNzU5LDEwNTg4MjIzOTgsLTE2NjM2OTUzMDMsLTY5OD
-Y2MTAzMiw0ODUxNDQyMTcsLTE3NDE0MTk5NzIsLTExMTk2NzYz
-ODIsLTExMTc2OTQ0MTJdfQ==
+eyJoaXN0b3J5IjpbMTY2MjkwNDUzOSwtMTU4NjM0NTQxNCwtMT
+U0NTQwNjAzNCwtNjMxMzcwOTM5LC0xNjgyNjE0NTk1LC05MDE2
+MDg1MDcsLTE3MTU0NjEwNzksLTIwMzI0Mjg2OTUsMjAxOTE4NT
+E0MCw0MDE4MTcwMTUsMTc2MjM1MzY2NSwtMTczMjUyMzAxOCw3
+MzM4MzI3MTksLTExNTk3NjE3NTksMTA1ODgyMjM5OCwtMTY2Mz
+Y5NTMwMywtNjk4NjYxMDMyLDQ4NTE0NDIxNywtMTc0MTQxOTk3
+MiwtMTExOTY3NjM4Ml19
 -->
