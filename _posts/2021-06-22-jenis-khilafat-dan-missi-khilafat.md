@@ -360,14 +360,10 @@ Dalam sejarah tidak bisa dipungkiri bahwa terdapat pencapaian-pencapaian luar bi
 [^pidato_ijtima_uk_2015]: [Alislam.org - Terhubung dengan Khilafat: Pedoman Pemuda Muslim Masa Kini, Pidato Huzur V (atba) dalam Ijtima Khuddam UK tahun 2015](https://www.alislam.org/articles/connecting-to-khilafat-guidance-for-todays-muslim-youth/)
 
 <!--
-- kudrat kedua dalam Alwasiyat
-- poin poin pencapaian khalifah 
-
-- Dasar Kemunculan Khalifah Secara Umum
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0MDQ4MzY2LC0xMjE4OTE1MjI5LDI1Mz
-Y2MzIyNywtMjAyMTA1ODEwMSwxMjA0Mjg2NzY1LC03OTc0NjE5
-NzddfQ==
+eyJoaXN0b3J5IjpbLTE3NDMzMDg5MzMsLTEyMTg5MTUyMjksMj
+UzNjYzMjI3LC0yMDIxMDU4MTAxLDEyMDQyODY3NjUsLTc5NzQ2
+MTk3N119
 -->
