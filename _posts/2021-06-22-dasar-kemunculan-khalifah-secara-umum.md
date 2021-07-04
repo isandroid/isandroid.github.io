@@ -81,7 +81,7 @@ Satu kali ada salah seorang sahabat yang memanggil Hadhrat Abu Bakar (ra) dengan
 
 <p class="arab">عَنْ ابْنِ أَبِي مُلَيْكَةَ قَالَ قِيلَ لِأَبِي بَكْرٍ رَضِيَ اللَّهُ عَنْهُ يَا خَلِيفَةَ اللَّهِ فَقَالَ أَنَا خَلِيفَةُ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ وَأَنَا رَاضٍ بِهِ وَأَنَا رَاضٍ بِهِ وَأَنَا رَاضٍ</p>
 
-Wahai _khalifatullah_! Ia (Hadhrat Abu Bakar Ash-Shiddiq (ra)) berkata: Saya adalah _khalifaturrasuulillaah_ saw, yakni penerus dari Rasulullah (ﷺ) dan saya rido (dipanggil) dengan itu. ([H.R. Ahmad] [[^atr-262db43c-6af3-44b9-9f28-5d580a6c5c84]]
+Wahai _khalifatullah_! Ia (Hadhrat Abu Bakar Ash-Shiddiq (ra)) berkata: Saya adalah _khalifaturrasuulillaah_ saw, yakni penerus dari Rasulullah (saw) dan saya rido (dipanggil) dengan itu. (H.R. Ahmad) [[^atr-262db43c-6af3-44b9-9f28-5d580a6c5c84]]
 
 #### 3.3. Khalifah Mamlukiyah (Kerajaan)
 
@@ -367,6 +367,6 @@ Dalam sejarah tidak bisa dipungkiri bahwa terdapat pencapaian-pencapaian luar bi
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzE2ODQxMjIsMTk4Mjg0NTU5NSwtMT
-c0MzMwODkzM119
+eyJoaXN0b3J5IjpbLTY4OTM4ODI1MiwtMTE3MTY4NDEyMiwxOT
+gyODQ1NTk1LC0xNzQzMzA4OTMzXX0=
 -->
