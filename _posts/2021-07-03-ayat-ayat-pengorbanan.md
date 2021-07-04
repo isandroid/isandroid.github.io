@@ -37,10 +37,11 @@ Allah Ta'ala berfirman,
 قُلۡ اِنَّ صَلَاتِیۡ وَنُسُکِیۡ وَمَحۡیَایَ وَمَمَاتِیۡ لِلّٰہِ رَبِّ الۡعٰلَمِیۡنَ
 </p>
 
-Katakanlah, “Sesungguhnya shalatku, pengorbananku, hidupku, dan matiku hanyalah untuk Allah, Tuhan seluruh alam (QS Al-An'aam [6]:163](https://openquran.com/6:163))
+Katakanlah, “Sesungguhnya shalatku, **pengorbananku**, hidupku, dan matiku hanyalah untuk Allah, Tuhan seluruh alam (QS Al-An'aam [6]:163](https://openquran.com/6:163))
 
 - Ayat ini menjelaskan bahwa Shalat, korban, hidup, dan mati meliputi seluruh bidang amal perbuatan manusia; 
-- Rasulullah (saw) diperintah untuk menyatakan bahwa semua segi kehidupan di dunia ini dipersembahkan oleh beliau kepada Allah Ta'ala. Semua amal ibadah beliau (saw) dipersembahkan kepada Allah Ta'ala. Semua pengorbanan beliau lakukan untuk Allah Ta'ala. Seluruh kehidupan beliau (saw) persembahkan untuk berbakti kepada-Nya, maka bila saja ketika mengkhidmati agama beliau mendapat kematian, itu pun guna meraih keridhaan-Nya.
+- Rasulullah (saw) diperintah untuk menyatakan bahwa semua segi kehidupan di dunia ini dipersembahkan oleh beliau kepada Allah Ta'ala. Semua amal ibadah beliau (saw) dipersembahkan kepada Allah Ta'ala. Semua pengorbanan beliau lakukan untuk Allah Ta'ala. Seluruh kehidupan beliau (saw) persembahkan untuk berbakti kepada-Nya, maka bila saja ketika mengkhidmati agama beliau syahid, maka itu pun guna meraih keridhaan-Nya.
+- Oleh karena itu segala ibadah termasuk pengorbanan kita hendaknya kita persembahkan hanya kepada Allah Ta'ala
 
 ### QS Ash-Shaaf (61): 11 s.d. 12
 
@@ -119,15 +120,14 @@ Katakanlah, “Sesungguhnya shalatku, pengorbananku, hidupku, dan matiku hanyala
 48:26
 22:34
 22:35
-6:163
 37:108 -- pengorbanan nabi Ibrohim
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5MjA3MTQ1MSwtNjMxMzcwOTM5LC0xNj
-gyNjE0NTk1LC05MDE2MDg1MDcsLTE3MTU0NjEwNzksLTIwMzI0
-Mjg2OTUsMjAxOTE4NTE0MCw0MDE4MTcwMTUsMTc2MjM1MzY2NS
-wtMTczMjUyMzAxOCw3MzM4MzI3MTksLTExNTk3NjE3NTksMTA1
-ODgyMjM5OCwtMTY2MzY5NTMwMywtNjk4NjYxMDMyLDQ4NTE0ND
-IxNywtMTc0MTQxOTk3MiwtMTExOTY3NjM4MiwtMTExNzY5NDQx
-Ml19
+eyJoaXN0b3J5IjpbMTc0NzkwOTM2LC02MzEzNzA5MzksLTE2OD
+I2MTQ1OTUsLTkwMTYwODUwNywtMTcxNTQ2MTA3OSwtMjAzMjQy
+ODY5NSwyMDE5MTg1MTQwLDQwMTgxNzAxNSwxNzYyMzUzNjY1LC
+0xNzMyNTIzMDE4LDczMzgzMjcxOSwtMTE1OTc2MTc1OSwxMDU4
+ODIyMzk4LC0xNjYzNjk1MzAzLC02OTg2NjEwMzIsNDg1MTQ0Mj
+E3LC0xNzQxNDE5OTcyLC0xMTE5Njc2MzgyLC0xMTE3Njk0NDEy
+XX0=
 -->
