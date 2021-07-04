@@ -139,7 +139,7 @@ Hal ini diperkuat dengan nubuwwatan yang disampaikan oleh Hadhrat Masih Mau'ud (
 >
 > Oleh sebab itu, sambil menanti kedatangan **Kudrat Tuhan yang kedua** itu, kamu semua hendaklah senantiasa sibuk berdoa. Dan hendaklah tiap Jemaat orang-orang saleh tanpa kecuali, di tiap negeri, senantiasa terus menerus berdoa sehingga mudah-mudahan **Kudrat Kedua** itu turun dari Langit, dan menzahirkan kepada kamu bahwa Tuhan kamu adalah Tuhan Yang Maha Kuasa. Anggaplah ajalmu telah dekat karena kamu tidak tahu kapan saat itu akan tiba. [[^alwasiyat_h8_9]]
 
-### 5. Misi yang Diemban Seorang Khalifatul Masih
+### 5. Missi yang Diemban Seorang Khalifatul Masih
 
 Berkenaan dengan missi atau tugas seorang khalifah, Hadhrat Mushlih Mau'ud (ra) menjelaskan,
 
@@ -367,6 +367,6 @@ Dalam sejarah tidak bisa dipungkiri bahwa terdapat pencapaian-pencapaian luar bi
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4OTM4ODI1MiwtMTE3MTY4NDEyMiwxOT
-gyODQ1NTk1LC0xNzQzMzA4OTMzXX0=
+eyJoaXN0b3J5IjpbLTE2NDAwNTQyNTEsLTY4OTM4ODI1MiwtMT
+E3MTY4NDEyMiwxOTgyODQ1NTk1LC0xNzQzMzA4OTMzXX0=
 -->
