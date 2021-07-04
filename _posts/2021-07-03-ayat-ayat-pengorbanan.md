@@ -102,7 +102,7 @@ Hai orang-orang yang beriman, janganlah kamu menjadikan sedekah-sedekahmu sia-si
 "Dan perumpamaan orang-orang yang menginfakkan harta mereka demi **mencari keridhoan Allah dan memperteguh jiwa mereka** adalah seperti perumpamaan kebun yang terletak di dataran tinggi, hujan lebat menimpanya lalu menghasilkan  buahnya dua kali lipat, tetapi jika hujan lebat tidak menimpanya, maka hujan gerimis *pun memadai*. Dan Allah Maha Melihat apa-apa yang kamu kerjakan." ([QS Al Baqarah [2]: 266](https://openquran.com/2:266))
 
 - Ayat ini menjelaskan bahwa pengorbanan harta di jalan Allah memberi kekuatan kepada jiwa manusia, sebab dengan membelanjakan harta yang diperolehnya dengan susah payah, ia secara sukarela meletakkan beban atas diri sendiri dan menjadikannya lebih kuat serta lebih teguh dalam keimanan.
-- 
+- Ayat ini juga menerangkan bahwa hati orang-orang beriman yang membelanjakan harta dengan sukarela di jalan Allah adalah laksana sebidang tanah tinggi yang akan mendapat faedah dari hujan, baik itu hujan besar ataupun kecil.
 
 ### QS At Taubah (9): 103
 
@@ -140,11 +140,11 @@ Hai orang-orang yang beriman, janganlah kamu menjadikan sedekah-sedekahmu sia-si
 37:108 -- pengorbanan nabi Ibrohim
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQzNDQ5MDMwLDE1MTc2OTMwMzIsLTE1OD
-YzNDU0MTQsLTE1NDU0MDYwMzQsLTYzMTM3MDkzOSwtMTY4MjYx
-NDU5NSwtOTAxNjA4NTA3LC0xNzE1NDYxMDc5LC0yMDMyNDI4Nj
-k1LDIwMTkxODUxNDAsNDAxODE3MDE1LDE3NjIzNTM2NjUsLTE3
-MzI1MjMwMTgsNzMzODMyNzE5LC0xMTU5NzYxNzU5LDEwNTg4Mj
-IzOTgsLTE2NjM2OTUzMDMsLTY5ODY2MTAzMiw0ODUxNDQyMTcs
-LTE3NDE0MTk5NzJdfQ==
+eyJoaXN0b3J5IjpbMTgyNTM5MTYzNCwxNTE3NjkzMDMyLC0xNT
+g2MzQ1NDE0LC0xNTQ1NDA2MDM0LC02MzEzNzA5MzksLTE2ODI2
+MTQ1OTUsLTkwMTYwODUwNywtMTcxNTQ2MTA3OSwtMjAzMjQyOD
+Y5NSwyMDE5MTg1MTQwLDQwMTgxNzAxNSwxNzYyMzUzNjY1LC0x
+NzMyNTIzMDE4LDczMzgzMjcxOSwtMTE1OTc2MTc1OSwxMDU4OD
+IyMzk4LC0xNjYzNjk1MzAzLC02OTg2NjEwMzIsNDg1MTQ0MjE3
+LC0xNzQxNDE5OTcyXX0=
 -->
