@@ -77,7 +77,7 @@ Beberapa jenis khilafat yang diketahui dari Alquran dan Hadits adalah sebagai be
 
 #### 2. **Khalifatur Rasul**
 
-- Khalifah yan
+- Khalifah yang hadir setelah kedatangan seorang Rasul
 
 - Khalifatur Rasul (memimpin secara ruhani) (Contoh para khalifatul Masih) 
 
@@ -90,6 +90,8 @@ Satu kali ada salah seorang sahabat yang memanggil Hadhrat Abu Bakar (ra) dengan
 Wahai _khalifatullah_! Ia (Hadhrat Abu Bakar Ash-Shiddiq (ra)) berkata: Saya adalah _khalifaturrasuulillaah_ saw, yakni penerus dari Rasulullah (ﷺ) dan saya rido (dipanggil) dengan itu. ([H.R. Ahmad] [[^atr-262db43c-6af3-44b9-9f28-5d580a6c5c84]]
 
 #### 3. Khalifah Mamlukiyah (Kerajaan)
+
+- Khalifah yang berbentuk Kerajaan
 
 - (Contoh khalifah-khalifah Bani Umayah, Bani Abasiyah, Bani Fatimiyah dll)
 
@@ -353,6 +355,6 @@ Setelah KPA usai, maka kita bisa menerapkannya sebagai berikut,
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEwNTQ4MjYyMiwtMjAyMTA1ODEwMSwxMj
-A0Mjg2NzY1LC03OTc0NjE5NzddfQ==
+eyJoaXN0b3J5IjpbLTE1MzEyMTM2OTgsLTIwMjEwNTgxMDEsMT
+IwNDI4Njc2NSwtNzk3NDYxOTc3XX0=
 -->
