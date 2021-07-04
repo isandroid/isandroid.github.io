@@ -15,9 +15,9 @@ published: true
 	أَشْهَدُ أنْ لَّا إِلٰهَ إِلَّا اللّٰهُ وَحْدَهُ لَا شَرِيْكَ لَهُ وَأَشْهَدُ أنَّ مُحَمَّدًا عَبْدُهُ وَرَسُوْلُهُ
 </p>
 
-Materi yang akan disampaikan adalah Materi Kelas B untuk mata pelajaran Pengorbanan dan Nizam. Dan kali ini adalah pertemuan ke tiga.
+Hadirin peserta KPA yang berbahagia, kali ini akan disampaikan Materi Kelas B untuk mata pelajaran Pengorbanan dan Nizam. Ini adalah pertemuan ke tiga dari materi pengorbanan.
 
-Adik-adik, seperti yang kita ketahui bahwa pengorbanan merupakan salah satu cara kita untuk bisa meraih cinta. Misalnya, jika kita ingin seseorang mencintai kita, maka kita hendaknya berkorban. Begitu pula apabila kita ingin mendapatkan *qurub ilahi* atau kedekatan dengan Allah Ta'ala, maka wajiblah atas kita melaksanakan pengorbanan.  Hal ini karena kata "qurban" itu memiliki makna "pendekatan diri" dan "persembahan" [[^almaany_qurbaanun]].
+Seperti yang kita ketahui bahwa pengorbanan merupakan salah satu cara kita untuk bisa meraih cinta. Misalnya, jika kita ingin seseorang mencintai kita, maka kita hendaknya berkorban. Begitu pula apabila kita ingin mendapatkan *qurub ilahi* atau kedekatan dengan Allah Ta'ala, maka wajiblah atas kita melaksanakan pengorbanan.  Hal ini karena kata "qurban" itu memiliki makna "pendekatan diri" dan "persembahan" [[^almaany_qurbaanun]].
 
 Kali ini marilah kita simak bersama ayat-ayat Alquran yang membahas mengenai pengorbanan. 
 
@@ -154,11 +154,11 @@ Demikianlah, semoga petunjuk-petunjuk dari Alquran tersebut bisa menjadikan kita
 37:108 -- pengorbanan nabi Ibrohim
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTY4NjExODA2LC0xMjEyOTk3MDYyLDE1MT
-c2OTMwMzIsLTE1ODYzNDU0MTQsLTE1NDU0MDYwMzQsLTYzMTM3
-MDkzOSwtMTY4MjYxNDU5NSwtOTAxNjA4NTA3LC0xNzE1NDYxMD
-c5LC0yMDMyNDI4Njk1LDIwMTkxODUxNDAsNDAxODE3MDE1LDE3
-NjIzNTM2NjUsLTE3MzI1MjMwMTgsNzMzODMyNzE5LC0xMTU5Nz
-YxNzU5LDEwNTg4MjIzOTgsLTE2NjM2OTUzMDMsLTY5ODY2MTAz
-Miw0ODUxNDQyMTddfQ==
+eyJoaXN0b3J5IjpbNjc2ODkwMDg1LDk2ODYxMTgwNiwtMTIxMj
+k5NzA2MiwxNTE3NjkzMDMyLC0xNTg2MzQ1NDE0LC0xNTQ1NDA2
+MDM0LC02MzEzNzA5MzksLTE2ODI2MTQ1OTUsLTkwMTYwODUwNy
+wtMTcxNTQ2MTA3OSwtMjAzMjQyODY5NSwyMDE5MTg1MTQwLDQw
+MTgxNzAxNSwxNzYyMzUzNjY1LC0xNzMyNTIzMDE4LDczMzgzMj
+cxOSwtMTE1OTc2MTc1OSwxMDU4ODIyMzk4LC0xNjYzNjk1MzAz
+LC02OTg2NjEwMzJdfQ==
 -->
