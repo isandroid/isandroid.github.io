@@ -76,10 +76,19 @@ Pengorbanan akan menarik ridho Allah dan memperteguh jiwa
 ### Catatan Kaki
 
 [^almaany_qurbaanun]: [Kamus Al-Maany - kata *qurbaanun*](https://www.almaany.com/id/dict/ar-id/%D9%82%D8%B1%D8%A8%D8%A7%D9%86/) 
+
+<!--
+22:37
+48:26
+22:34
+22:35
+6:163
+37
+-->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxODA1MzI3NywxNzYyMzUzNjY1LC0xNz
-MyNTIzMDE4LDczMzgzMjcxOSwtMTE1OTc2MTc1OSwxMDU4ODIy
-Mzk4LC0xNjYzNjk1MzAzLC02OTg2NjEwMzIsNDg1MTQ0MjE3LC
-0xNzQxNDE5OTcyLC0xMTE5Njc2MzgyLC0xMTE3Njk0NDEyXX0=
+eyJoaXN0b3J5IjpbNDUwODEyNjcxLDE3NjIzNTM2NjUsLTE3Mz
+I1MjMwMTgsNzMzODMyNzE5LC0xMTU5NzYxNzU5LDEwNTg4MjIz
+OTgsLTE2NjM2OTUzMDMsLTY5ODY2MTAzMiw0ODUxNDQyMTcsLT
+E3NDE0MTk5NzIsLTExMTk2NzYzODIsLTExMTc2OTQ0MTJdfQ==
 
 -->
