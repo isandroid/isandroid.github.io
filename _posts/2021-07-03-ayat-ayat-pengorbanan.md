@@ -77,10 +77,11 @@ Katakanlah, “Sesungguhnya shalatku, **pengorbananku**, hidupku, dan matiku han
 
 - Orang yang berkorban akan diberikan ganjaran dan keberkahan hidup atau kebahagiaan hidup.
 - Selain itu ayat ini menjelaskan bahwa tiap-tiap perbuatan baik dapat disalahgunakan. Penyalahgunaan pengorbanan di jalan Allah ialah menyertakan:
+
 	1.  *Mann* yaitu sombong menyebut-nyebut perbuatan baiknya
 	2.  *Adzā* yaitu menyatakannya sambil menyakiti). 
 
-- Mereka yang membelanjakan kekayaan mereka di jalan Allah dilarang menyebut-nyebut dengan tanpa guna dan tidak pada tempatnya mengenai uang yang mereka belanjakan serta bakti yang mereka berikan demi kebenaran; sebab, perbuatan demikian termasuk Mann (celaan, ejekan). Demikian pula mereka diperintahkan agar tidak menuntut sesuatu sebagai imbalan atas bantuan mereka
+- Mereka yang membelanjakan kekayaan mereka di jalan Allah dilarang menyebut-nyebut dengan tanpa guna dan tidak pada tempatnya mengenai uang yang mereka belanjakan serta bakti yang mereka berikan demi kebenaran; sebab, perbuatan demikian termasuk *Mann* (celaan, ejekan). Demikian pula mereka diperintahkan agar tidak menuntut sesuatu sebagai imbalan atas bantuan mereka.
 
 ### QS Al Baqarah (2): 266
 
@@ -129,7 +130,7 @@ Katakanlah, “Sesungguhnya shalatku, **pengorbananku**, hidupku, dan matiku han
 37:108 -- pengorbanan nabi Ibrohim
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTcyMDA3MzksMTUxNzY5MzAzMiwtMT
+eyJoaXN0b3J5IjpbLTE2MDcxMTk4ODMsMTUxNzY5MzAzMiwtMT
 U4NjM0NTQxNCwtMTU0NTQwNjAzNCwtNjMxMzcwOTM5LC0xNjgy
 NjE0NTk1LC05MDE2MDg1MDcsLTE3MTU0NjEwNzksLTIwMzI0Mj
 g2OTUsMjAxOTE4NTE0MCw0MDE4MTcwMTUsMTc2MjM1MzY2NSwt
