@@ -66,16 +66,6 @@ Katakanlah, “Sesungguhnya shalatku, **pengorbananku**, hidupku, dan matiku han
 "Perumpamaan orang-orang yang membelanjakan harta mereka di jalan Allah, adalah seumpama sebuah biji menumbuhkan tujuh bulir, pada setiap bulir *terdapat* seratus biji, **Allah melipat-gandakan *ganjaran-Nya*** bagi siapa yang Dia kehendaki, dan Allah Mahaluas *karunia-Nya*, Maha Mengetahui" ([QS Al Baqarah [2]: 262](https://openquran.com/2:262))
 
 - Dalam ayat ini, Allah Ta'ala akan melipatgandakan amal-shaleh atau pengorbanan yang telah kita lakukan.  
-- Dalam ayat-ayat yang lalu dijelaskan bahwa, menurut hukum Ilahi, Tuhan memberikan hidup baru kepada bangsa-bangsa yang layak menerimanya sesudah mereka mati, dan ihwal Bani Israil disebut sebagai contoh. Kemudian dinyatakan bahwa keturunan Ibrahim As akan bangkit empat kali: Bani Israil dan Bani Ismail masing-masing akan bangkit dua kali. Guna mempersiapkan kaum Muslimin untuk kebangkitan yang dijanjikan. Tuhan kembali membahas jalan kemajuan nasional dan memerintahkan orang-orang mukmin supaya membelanjakan harta dengan suka rela di jalan Allah.
-### QS Al Baqarah (2): 266
-
-<p class="quran">
-وَمَثَلُ الَّذِیۡنَ یُنۡفِقُوۡنَ اَمۡوٰلَہُمُ ابۡتِغَآءَ مَرۡضَاتِ اللّٰہِ وَتَثۡبِیۡتًا مِّنۡ اَنۡفُسِہِمۡ کَمَثَلِ جَنَّۃٍۭ بِرَبۡوَۃٍ اَصَابَہَا وَابِلٌ فَاٰتَتۡ اُکُلَہَا ضِعۡفَیۡنِ فَاِنۡ لَّمۡ یُصِبۡہَا وَابِلٌ فَطَلٌّ ۗ وَاللّٰہُ بِمَا تَعۡمَلُوۡنَ بَصِیۡرٌ
-</p>
-
-"Dan perumpamaan orang-orang yang menginfakkan harta mereka demi **mencari keridhoan Allah dan memperteguh jiwa mereka** adalah seperti perumpamaan kebun yang terletak di dataran tinggi, hujan lebat menimpanya lalu menghasilkan  buahnya dua kali lipat, tetapi jika hujan lebat tidak menimpanya, maka hujan gerimis *pun memadai*. Dan Allah Maha Melihat apa-apa yang kamu kerjakan." ([QS Al Baqarah [2]: 266](https://openquran.com/2:266))
-
-- Jadi ayat ini menjelaskan bahwa pengorbanan itu bisa menarik ridho Allah dan memperteguh jiwa.
 
 ### QS Al Baqarah (2): 263
 
@@ -86,6 +76,17 @@ Katakanlah, “Sesungguhnya shalatku, **pengorbananku**, hidupku, dan matiku han
 "Orang-orang yang membelanjakan hartanya di jalan Allah kemudian mereka tidak mengiringi apa yang dibelanjakannya itu dengan menyebut-nyebut kebaikan dan tidak *pula* menyakiti *hati*, bagi mereka ada ganjarannya di sisi Tuhan-nya, dan **tidak ada ketakutan pada mereka dan tidak pula mereka akan bersedih**" ([QS Al Baqarah [2]: 263](https://openquran.com/2:263))
 
 - Orang yang berkorban akan diberikan ganjaran dan keberkahan hidup atau kebahagiaan hidup.
+
+### QS Al Baqarah (2): 266
+
+<p class="quran">
+وَمَثَلُ الَّذِیۡنَ یُنۡفِقُوۡنَ اَمۡوٰلَہُمُ ابۡتِغَآءَ مَرۡضَاتِ اللّٰہِ وَتَثۡبِیۡتًا مِّنۡ اَنۡفُسِہِمۡ کَمَثَلِ جَنَّۃٍۭ بِرَبۡوَۃٍ اَصَابَہَا وَابِلٌ فَاٰتَتۡ اُکُلَہَا ضِعۡفَیۡنِ فَاِنۡ لَّمۡ یُصِبۡہَا وَابِلٌ فَطَلٌّ ۗ وَاللّٰہُ بِمَا تَعۡمَلُوۡنَ بَصِیۡرٌ
+</p>
+
+"Dan perumpamaan orang-orang yang menginfakkan harta mereka demi **mencari keridhoan Allah dan memperteguh jiwa mereka** adalah seperti perumpamaan kebun yang terletak di dataran tinggi, hujan lebat menimpanya lalu menghasilkan  buahnya dua kali lipat, tetapi jika hujan lebat tidak menimpanya, maka hujan gerimis *pun memadai*. Dan Allah Maha Melihat apa-apa yang kamu kerjakan." ([QS Al Baqarah [2]: 266](https://openquran.com/2:266))
+
+- Jadi ayat ini menjelaskan bahwa pengorbanan itu bisa menarik ridho Allah dan memperteguh jiwa.
+
 
 ### QS At Taubah (9): 103
 
@@ -123,7 +124,7 @@ Katakanlah, “Sesungguhnya shalatku, **pengorbananku**, hidupku, dan matiku han
 37:108 -- pengorbanan nabi Ibrohim
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2MjkwNDUzOSwtMTU4NjM0NTQxNCwtMT
+eyJoaXN0b3J5IjpbMTUxNzY5MzAzMiwtMTU4NjM0NTQxNCwtMT
 U0NTQwNjAzNCwtNjMxMzcwOTM5LC0xNjgyNjE0NTk1LC05MDE2
 MDg1MDcsLTE3MTU0NjEwNzksLTIwMzI0Mjg2OTUsMjAxOTE4NT
 E0MCw0MDE4MTcwMTUsMTc2MjM1MzY2NSwtMTczMjUyMzAxOCw3
