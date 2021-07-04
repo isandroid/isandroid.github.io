@@ -81,7 +81,7 @@ Pengorbanan akan menarik ridho Allah dan memperteguh jiwa
 
 "Orang-orang yang senantiasa mendirikan shalat dan menginfakkan *sebagian* dari apa yang Kami rezekikan kepada mereka * Mereka inilah **orang-orang mukmin yang sejati**. Bagi mereka ada **derajat-derajat *yang tinggi*** di sisi Tuhan mereka, ampunan dan rezeki yang mulia" (QS Al Anfal [8]: [4](https://openquran.com/8:4)-[5](https://openquran.com/8:5))
 
-- Jadi di ayat ini, pengorbanan itu merupakan tanda sempurnanya iman dan Allah Ta'ala akan menga 
+- Jadi di ayat ini, pengorbanan itu merupakan tanda sempurnanya iman dan Allah Ta'ala akan menganugerahkan derajat yang tinggi. 
 
 ### Catatan Kaki
 
@@ -99,9 +99,9 @@ Pengorbanan akan menarik ridho Allah dan memperteguh jiwa
 2:197
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4MTc1MjUwMSwtMjAzMjQyODY5NSwyMD
-E5MTg1MTQwLDQwMTgxNzAxNSwxNzYyMzUzNjY1LC0xNzMyNTIz
-MDE4LDczMzgzMjcxOSwtMTE1OTc2MTc1OSwxMDU4ODIyMzk4LC
-0xNjYzNjk1MzAzLC02OTg2NjEwMzIsNDg1MTQ0MjE3LC0xNzQx
-NDE5OTcyLC0xMTE5Njc2MzgyLC0xMTE3Njk0NDEyXX0=
+eyJoaXN0b3J5IjpbLTE3MTU0NjEwNzksLTIwMzI0Mjg2OTUsMj
+AxOTE4NTE0MCw0MDE4MTcwMTUsMTc2MjM1MzY2NSwtMTczMjUy
+MzAxOCw3MzM4MzI3MTksLTExNTk3NjE3NTksMTA1ODgyMjM5OC
+wtMTY2MzY5NTMwMywtNjk4NjYxMDMyLDQ4NTE0NDIxNywtMTc0
+MTQxOTk3MiwtMTExOTY3NjM4MiwtMTExNzY5NDQxMl19
 -->
