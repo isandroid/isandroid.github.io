@@ -1,5 +1,5 @@
 ---
-title: Jenis-Jenis Khilafat dan Missi Khilafat
+title: Dasar Kemunculan Khalifah Secara Umum
 layout: post
 tags: khilafat
 description: khilafat bisa menjadikan rasa takut menjadi rasa aman
@@ -29,6 +29,14 @@ Dalam bahasa arab, **Khilafat** dan **Khalifah** memiliki akar kata yang sama, y
 
 Sedangkan kata dalam bentuk "*kholfun*" berarti di belakang, di punggung dan setelah. [[^fn-kata-kholafa]]
 
+#### Pengertian Khilafat
+
+Kata Khilafah berarti suksesi atau penggantian. Jamaah pengikut Nabi Allah terus memelihara akidah dan sunnah-sunnah di bawah berkat lembaga Khilafah selama Allah kehendaki. Dalam arti yang ringkas, khilafat adalah **sistem** kekhalifahan
+
+Sebagaimana Allah mengangkat seorang Nabi, Dia juga yang mengangkat seorang Khalifah. Dia memilih orang yang paling layak untuk menjadi seorang Khalifah, dan membimbing golongan mukmin yang bertakwa untuk mewujudkan Kehendak-Nya melalui suatu proses pemilihan Khalifah. Dengan demikian, mungkin tampaknya Khalifah dipilih oleh sekelompok orang bertakwa, tapi sebenarnya Kehendak Allah-lah yang membimbing jiwa mereka untuk memilih Khalifah Pilihan-Nya. Begitu seorang Khalifah terpilih, dia akan menjadi Khalifah seumur hidupnya sebagai bukti hidup dari Kehendak Tuhan.
+
+Khilafah mengukuhkan kekuasaan Allah di bumi, dan Khalifah berjuang untuk menegakkan kekuasaan itu di dalam jamaah pengikutnya. Bagi orang-orang yang beriman, Khilafah adalah perwujudan Tauhid Ilahi, karena mereka memilih untuk menerima kekuasaan Ilahi melalui pribadi Khalifah. Orang-orang beriman mengambil bagian dari berkat Khilafah dengan memegang teguh iman dan amalan-amalan mereka, bersatu di bawahnya [[^ahmadiyah_id_khilafat]]. 
+
 #### Pengertian Khalifah
 
 Hadhrat Mushlih Mau'ud (ra) bersabda,
@@ -55,14 +63,6 @@ Peri kehidupan khalifah menurut Hadhrat Mushlih Mau'ud (ra) adalah:
 >
 > Kalian memiliki seseorang yang selalu mengkhawatirkan kesejahteraan kalian, orang yang menempatkan dirinya dalam masalah demi kalian, dan orang yang berdoa dengan gelisah di hadapan Tuhannya demi kenyamanan dan kedamaian kalian [[^barakat-e-khilafat_p6]].
 
-#### Pengertian Khilafat
-
-Kata Khilafah berarti suksesi atau penggantian. Jamaah pengikut Nabi Allah terus memelihara akidah dan sunnah-sunnah di bawah berkat lembaga Khilafah selama Allah kehendaki. Dalam arti yang ringkas, khilafat adalah **sistem** kekhalifahan
-
-Sebagaimana Allah mengangkat seorang Nabi, Dia juga yang mengangkat seorang Khalifah. Dia memilih orang yang paling layak untuk menjadi seorang Khalifah, dan membimbing golongan mukmin yang bertakwa untuk mewujudkan Kehendak-Nya melalui suatu proses pemilihan Khalifah. Dengan demikian, mungkin tampaknya Khalifah dipilih oleh sekelompok orang bertakwa, tapi sebenarnya Kehendak Allah-lah yang membimbing jiwa mereka untuk memilih Khalifah Pilihan-Nya. Begitu seorang Khalifah terpilih, dia akan menjadi Khalifah seumur hidupnya sebagai bukti hidup dari Kehendak Tuhan.
-
-Khilafah mengukuhkan kekuasaan Allah di bumi, dan Khalifah berjuang untuk menegakkan kekuasaan itu di dalam jamaah pengikutnya. Bagi orang-orang yang beriman, Khilafah adalah perwujudan Tauhid Ilahi, karena mereka memilih untuk menerima kekuasaan Ilahi melalui pribadi Khalifah. Orang-orang beriman mengambil bagian dari berkat Khilafah dengan memegang teguh iman dan amalan-amalan mereka, bersatu di bawahnya [[^ahmadiyah_id_khilafat]]. 
-
 ### Jenis-Jenis Khalifah
 
 Beberapa jenis khilafat yang diketahui dari Alquran dan Hadits adalah sebagai berikut:
@@ -76,6 +76,8 @@ Beberapa jenis khilafat yang diketahui dari Alquran dan Hadits adalah sebagai be
 - Khalifatulloh sekaligus Khalifah Mamlukiyah (Kerajaan) (contohnya Nabi Daud (as); Nabi Sulaiman (as) dan Rasulullah (saw))
 
 #### 2. **Khalifatur Rasul**
+
+- Khalifah yan
 
 - Khalifatur Rasul (memimpin secara ruhani) (Contoh para khalifatul Masih) 
 
@@ -346,8 +348,11 @@ Setelah KPA usai, maka kita bisa menerapkannya sebagai berikut,
 <!--
 - kudrat kedua dalam Alwasiyat
 - poin poin pencapaian khalifah 
+
+- Dasar Kemunculan Khalifah Secara Umum
+
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMjEwNTgxMDEsMTIwNDI4Njc2NSwtNz
-k3NDYxOTc3XX0=
+eyJoaXN0b3J5IjpbMTEwNTQ4MjYyMiwtMjAyMTA1ODEwMSwxMj
+A0Mjg2NzY1LC03OTc0NjE5NzddfQ==
 -->
