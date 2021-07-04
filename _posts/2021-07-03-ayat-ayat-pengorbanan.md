@@ -3,7 +3,7 @@ title: Ayat-ayat Pengorbanan
 layout: post
 tags: pengorbanan
 description: beberapa ayat-ayat Alquran yang menjelaskan tentang pengorbanan
-published: false
+published: true
 ---
 <p class="quran">بِسۡمِ اللّٰہِ الرَّحۡمٰنِ الرَّحِیۡمِ</p>
 
@@ -69,8 +69,8 @@ Pengorbanan akan mensucikan dan membersihkan hati/jiwa/harta kita
 
 [^almaany_qurbaanun]: [Kamus Al-Maany - kata qurbaanun](https://www.almaany.com/id/dict/ar-id/%D9%82%D8%B1%D8%A8%D8%A7%D9%86/) 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzMzODMyNzE5LC0xMTU5NzYxNzU5LDEwNT
-g4MjIzOTgsLTE2NjM2OTUzMDMsLTY5ODY2MTAzMiw0ODUxNDQy
-MTcsLTE3NDE0MTk5NzIsLTExMTk2NzYzODIsLTExMTc2OTQ0MT
-JdfQ==
+eyJoaXN0b3J5IjpbLTE3MzI1MjMwMTgsNzMzODMyNzE5LC0xMT
+U5NzYxNzU5LDEwNTg4MjIzOTgsLTE2NjM2OTUzMDMsLTY5ODY2
+MTAzMiw0ODUxNDQyMTcsLTE3NDE0MTk5NzIsLTExMTk2NzYzOD
+IsLTExMTc2OTQ0MTJdfQ==
 -->
