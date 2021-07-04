@@ -86,10 +86,12 @@ Katakanlah, “Sesungguhnya shalatku, **pengorbananku**, hidupku, dan matiku han
 ### QS Al Baqarah (2): 265
 
 <p class="quran">
-
+یٰۤاَیُّہَا الَّذِیۡنَ اٰمَنُوۡا لَا تُبۡطِلُوۡا صَدَقٰتِکُمۡ بِالۡمَنِّ وَالۡاَذٰی کَالَّذِیۡ یُنۡفِقُ مَالَہٗ رِئَآءَ النَّاسِ وَلَا یُؤۡمِنُ بِاللّٰہِ وَالۡیَوۡمِ الۡاٰخِرِ ۖ فَمَثَلُہٗ کَمَثَلِ صَفۡوَانٍ عَلَیۡہِ تُرَابٌ فَاَصَابَہٗ وَابِلٌ فَتَرَکَہٗ صَلۡدًا ۖ لَّا یَقۡدِرُوۡنَ عَلٰی شَیۡءٍ مِّمَّا کَسَبُوۡا ۗ وَاللّٰہُ لَا یَہۡدِی الۡقَوۡمَ الۡکٰفِرِیۡنَ
 </p>
 
-(https://openquran.com/2:265)
+Hai orang-orang yang beriman, janganlah kamu menjadikan sedekah-sedekahmu sia-sia dengan menyebut-nyebut jasa baik dan menyakiti, seperti orang yang membelanjakan hartanya untuk dilihat manusia, sedangkan ia tidak beriman kepada Allah dan Hari Kemudian, maka keadaannya seperti batu licin yang di atasnya tertutup tanah, lalu hujan lebat menimpanya dan meninggalkannya licin. Mereka tidak akan memperoleh sesuatu dari apa yang mereka usahakan, dan Allah tidak memberi petunjuk kepada kaum kafir. ([QS Al Baqarah [2]: 265](https://openquran.com/2:265))
+
+
 
 ### QS Al Baqarah (2): 266
 
@@ -138,11 +140,11 @@ Katakanlah, “Sesungguhnya shalatku, **pengorbananku**, hidupku, dan matiku han
 37:108 -- pengorbanan nabi Ibrohim
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQwMTYwNDk4LDE1MTc2OTMwMzIsLTE1OD
-YzNDU0MTQsLTE1NDU0MDYwMzQsLTYzMTM3MDkzOSwtMTY4MjYx
-NDU5NSwtOTAxNjA4NTA3LC0xNzE1NDYxMDc5LC0yMDMyNDI4Nj
-k1LDIwMTkxODUxNDAsNDAxODE3MDE1LDE3NjIzNTM2NjUsLTE3
-MzI1MjMwMTgsNzMzODMyNzE5LC0xMTU5NzYxNzU5LDEwNTg4Mj
-IzOTgsLTE2NjM2OTUzMDMsLTY5ODY2MTAzMiw0ODUxNDQyMTcs
-LTE3NDE0MTk5NzJdfQ==
+eyJoaXN0b3J5IjpbMjcwMzA1NzcsMTUxNzY5MzAzMiwtMTU4Nj
+M0NTQxNCwtMTU0NTQwNjAzNCwtNjMxMzcwOTM5LC0xNjgyNjE0
+NTk1LC05MDE2MDg1MDcsLTE3MTU0NjEwNzksLTIwMzI0Mjg2OT
+UsMjAxOTE4NTE0MCw0MDE4MTcwMTUsMTc2MjM1MzY2NSwtMTcz
+MjUyMzAxOCw3MzM4MzI3MTksLTExNTk3NjE3NTksMTA1ODgyMj
+M5OCwtMTY2MzY5NTMwMywtNjk4NjYxMDMyLDQ4NTE0NDIxNywt
+MTc0MTQxOTk3Ml19
 -->
