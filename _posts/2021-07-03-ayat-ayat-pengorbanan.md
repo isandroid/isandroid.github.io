@@ -9,6 +9,10 @@ published: true
 
 ## {{ page.title }}
 
+Materi yang akan saya sampaikan adalah Materi untuk Kelas B untuk mata pelajaran Pengorbanan dan Nizam. Dan kali ini adalah pertemuan ke tiga.
+
+Ad
+
 Pengorbanan merupakan salah satu cara kita untuk bisa meraih cinta dari yang kita cintai. Hal ini kita lihat dari kata "qurban" yang artinya pendekatan diri dan persembahan [[^almaany_qurbaanun]].
 
 Dengan berkorban, maka kita akan mendapatkan *qurub ilahi* atau kedekatan dengan Allah Ta'ala. Selain itu masih banyak kelebihan-kelebihan dan keberkahan-keberkahan dalam pengorbanan. Sebagaimana firman Allah Ta'ala, 
@@ -99,9 +103,10 @@ Pengorbanan akan menarik ridho Allah dan memperteguh jiwa
 2:197
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTU0NjEwNzksLTIwMzI0Mjg2OTUsMj
-AxOTE4NTE0MCw0MDE4MTcwMTUsMTc2MjM1MzY2NSwtMTczMjUy
-MzAxOCw3MzM4MzI3MTksLTExNTk3NjE3NTksMTA1ODgyMjM5OC
-wtMTY2MzY5NTMwMywtNjk4NjYxMDMyLDQ4NTE0NDIxNywtMTc0
-MTQxOTk3MiwtMTExOTY3NjM4MiwtMTExNzY5NDQxMl19
+eyJoaXN0b3J5IjpbLTE3ODc3MTI0OTUsLTE3MTU0NjEwNzksLT
+IwMzI0Mjg2OTUsMjAxOTE4NTE0MCw0MDE4MTcwMTUsMTc2MjM1
+MzY2NSwtMTczMjUyMzAxOCw3MzM4MzI3MTksLTExNTk3NjE3NT
+ksMTA1ODgyMjM5OCwtMTY2MzY5NTMwMywtNjk4NjYxMDMyLDQ4
+NTE0NDIxNywtMTc0MTQxOTk3MiwtMTExOTY3NjM4MiwtMTExNz
+Y5NDQxMl19
 -->
