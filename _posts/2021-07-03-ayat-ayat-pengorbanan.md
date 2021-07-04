@@ -11,11 +11,9 @@ published: true
 
 Pengorbanan merupakan salah satu cara kita untuk bisa meraih cinta dari yang kita cintai. Hal ini kita lihat dari kata "qurban" yang artinya pendekatan diri dan persembahan [[^almaany_qurbaanun]].
 
-Dengan berkorban, maka kita akan mendapatkan *qurub ilahi* atau kedekatan dengan Allah Ta'ala. Selain itu masih banyak kelebihan-kelebihan dan keberkahan-keberkahan dalam pengorbanan. Beberapa petunjuk dari Allah Ta'ala adalah sebagai beri 
+Dengan berkorban, maka kita akan mendapatkan *qurub ilahi* atau kedekatan dengan Allah Ta'ala. Selain itu masih banyak kelebihan-kelebihan dan keberkahan-keberkahan dalam pengorbanan. Sebagaimana firman Allah Ta'ala, 
 
 ### Ayat Pertama
-
-Pengorbanan bisa menyelamatkan manusia dari azab yang pedih
 
 <p class="quran">
 یٰۤاَیُّہَا الَّذِیۡنَ اٰمَنُوۡا ہَلۡ اَدُلُّکُمۡ عَلٰی تِجٰرَۃٍ تُنۡجِیۡکُمۡ مِّنۡ عَذَابٍ اَلِیۡمٍ
@@ -27,15 +25,17 @@ Pengorbanan bisa menyelamatkan manusia dari azab yang pedih
 
 "Hai orang-orang yang beriman, Maukah Aku tunjukkan kepadamu perdagangan yang akan menyelamatkan kamu dari azab yang pedih? - Kamu beriman kepada Allah dan Rasul-Nya, dan kamu **berjihad di jalan Allah dengan harta dan jiwamu**. Hal itu lebih baik bagimu jika kamu mengetahui" (QS Ash-Shaaf [61]: [11](https://openquran.com/61:11)-[12](https://openquran.com/61:12))
 
-### Ayat Kedua
+Jadi disini kita bisa mengetahui bahwa berkorban merupakan salah satu jihad di jalan Allah Ta'ala.
 
-Pengorbanan kita akan dilipat-gandakan 
+### Ayat Kedua
 
 <p class="quran">
 مَّثَلُ الَّذِیۡنَ یُنۡفِقُوۡنَ اَمۡوٰلَہُمۡ فِیۡ سَبِیۡلِ اللّٰہِ کَمَثَلِ حَبَّۃٍ اَنۡۢبَتَتۡ سَبۡعَ سَنَابِلَ فِیۡ کُلِّ سُنۡۢبُلَۃٍ مِّائَۃُ حَبَّۃٍ ۗ وَاللّٰہُ یُضٰعِفُ لِمَنۡ یَّشَآءُ ۗ وَاللّٰہُ وٰسِعٌ عَلِیۡمٌ
 </p>
 
 "Perumpamaan orang-orang yang membelanjakan harta mereka di jalan Allah, adalah seumpama sebuah biji menumbuhkan tujuh bulir, pada setiap bulir *terdapat* seratus biji, **Allah melipat-gandakan *ganjaran-Nya*** bagi siapa yang Dia kehendaki, dan Allah Mahaluas *karunia-Nya*, Maha Mengetahui" ([QS Al Baqarah [2]: 262](https://openquran.com/2:262))
+
+Pengorbanan kita akan dilipat-gandakan 
 
 ### Ayat Ketiga
 
@@ -71,7 +71,7 @@ Pengorbanan akan mensucikan dan membersihkan hati/jiwa/harta kita
 
 [^almaany_qurbaanun]: [Kamus Al-Maany - kata qurbaanun](https://www.almaany.com/id/dict/ar-id/%D9%82%D8%B1%D8%A8%D8%A7%D9%86/) 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQ3MTQ3MTUxLC0xNzMyNTIzMDE4LDczMz
+eyJoaXN0b3J5IjpbNDU5OTA2NjcxLC0xNzMyNTIzMDE4LDczMz
 gzMjcxOSwtMTE1OTc2MTc1OSwxMDU4ODIyMzk4LC0xNjYzNjk1
 MzAzLC02OTg2NjEwMzIsNDg1MTQ0MjE3LC0xNzQxNDE5OTcyLC
 0xMTE5Njc2MzgyLC0xMTE3Njk0NDEyXX0=
