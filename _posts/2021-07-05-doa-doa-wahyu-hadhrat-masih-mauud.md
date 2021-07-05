@@ -11,11 +11,11 @@ published: true
 
 ## {{ page.title }}
 
-Doa yang
+Doa yang doa yang diwahyukan kepada Hadhrat Masih Mau'ud (as) dan mewasiatkannya kepada para anggota jemaat untuk sering mengulanginya
 
 <p class="arab">
 رَبِّ كُلُّ شَيْءٍ خَادِمُكَ رَبِّ فَاحْفَظْنِيْ وَانْصُرْنِيْ وَارْحَمْنِيْ
 </p>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2NDUxNTI1NSwtMTIxMjUxMjMzMV19
+eyJoaXN0b3J5IjpbOTQ2NzczODY4LC0xMjEyNTEyMzMxXX0=
 -->
