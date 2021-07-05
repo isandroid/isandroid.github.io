@@ -73,37 +73,46 @@ _Robbi kullu syay-in khoodimuKa, robbi fahfadznaa wanshurnaa warhamnaa_
 
 <p class="arab">
 رَبِّ اغْفِرْ وَارْحَمْ مِّنَ السَّمَاءِ
+</p>
 
 ### Doa Kesembilan
 
 <p class="arab">
 رَبِّ أَصْلِحْ أُمَّةَ مُحَمَّدٍ
+</p>
 
 ### Doa Kesepuluh
 
 <p class="arab">
 رَبِّ تَوَفَّنِيْ مُسْلِمًا وَّأَلْحِقْنِيْ بِالصَّالِحِيْنَ
+</p>
 
 ### Doa Kesebelas
 
 <p class="arab">
 رَبِّ اجْعَلْنِيْ غَالِبًا عَلٰى غَيْرِيْ
+</p>
 
 ### Doa Kedua Belas
 
 <p class="arab">
 رَبِّ أَذْهِبْ عَنِّى الرِّجْسَ وَطَهِّرْنِيْ تَطْهِيْرًا
+</p>
 
 ### Doa Ketiga Belas
 
 <p class="arab">
 رَبِّ أَرِنِيْ آيَةً مِّنَ السَّمَاءِ
+</p>
 
 ### Doa Keempat Belas
 
 <p class="arab">
 رَبِّ أَرِنِيْ أَنْوَارَكَ الْكُلِّيَّةَ
+</p>
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDYxNDc0NTMsLTE1ODk2MTQ1MjJdfQ
+eyJoaXN0b3J5IjpbLTExNTY0MjQwNTIsLTE1ODk2MTQ1MjJdfQ
 ==
 -->
