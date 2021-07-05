@@ -103,7 +103,7 @@ Sesungguhnya Hadhrat Khalifatul Masih IV (rh) menasihatkan para pelajar untuk me
 
 "Ya Tuhanku! Anugerahkanlah ampunan dan rahmat dari langit"
 
-### Doa Kesembilan
+---
 
 <p class="arab">
 رَبِّ أَصْلِحْ أُمَّةَ مُحَمَّدٍ
@@ -113,7 +113,7 @@ Sesungguhnya Hadhrat Khalifatul Masih IV (rh) menasihatkan para pelajar untuk me
 
 "Ya Tuhanku! Perbaikilah umat Muhammad"
 
-### Doa Kesepuluh
+---
 
 <p class="arab">
 رَبِّ تَوَفَّنِيْ مُسْلِمًا وَّأَلْحِقْنِيْ بِالصَّالِحِيْنَ
@@ -123,7 +123,7 @@ Sesungguhnya Hadhrat Khalifatul Masih IV (rh) menasihatkan para pelajar untuk me
 
 "Ya Tuhanku! Wafatkanlah aku dalam keadaan menyerahkan diri dan pertemukanlah aku dengan orang-orang saleh"
 
-### Doa Kesebelas
+---
 
 <p class="arab">
 رَبِّ اجْعَلْنِيْ غَالِبًا عَلٰى غَيْرِيْ
@@ -133,7 +133,7 @@ Sesungguhnya Hadhrat Khalifatul Masih IV (rh) menasihatkan para pelajar untuk me
 
 "Ya Tuhanku! Jadikanlah aku unggul terhadap lawanku"
 
-### Doa Kedua Belas
+---
 
 <p class="arab">
 رَبِّ أَذْهِبْ عَنِّى الرِّجْسَ وَطَهِّرْنِيْ تَطْهِيْرًا
@@ -143,7 +143,7 @@ Sesungguhnya Hadhrat Khalifatul Masih IV (rh) menasihatkan para pelajar untuk me
 
 "Ya Tuhanku! Singkirkanlah kesedihan dariku dan sucikan aku sesuci-sucinya"
 
-### Doa Ketiga Belas
+---
 
 <p class="arab">
 رَبِّ أَرِنِيْ آيَةً مِّنَ السَّمَاءِ
@@ -153,7 +153,7 @@ Sesungguhnya Hadhrat Khalifatul Masih IV (rh) menasihatkan para pelajar untuk me
 
 "Ya Tuhanku! Tunjukanlah kepadaku tanda dari langit"
 
-### Doa Keempat Belas
+---
 
 <p class="arab">
 رَبِّ أَرِنِيْ أَنْوَارَكَ الْكُلِّيَّةَ
@@ -163,6 +163,8 @@ Sesungguhnya Hadhrat Khalifatul Masih IV (rh) menasihatkan para pelajar untuk me
 
 "Ya Tuhanku! Tunjukanlah kepada semua cahaya-Mu"
 
+---
+
 ### Sumber
 
 - [ahmadiyya-islam.org](https://www.ahmadiyya-islam.org/altaqwa/articles/4547-2/)
@@ -170,6 +172,6 @@ Sesungguhnya Hadhrat Khalifatul Masih IV (rh) menasihatkan para pelajar untuk me
 - Diterjemahkan oleh [Mln. Agus Mulyana]()
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjE2MjYxNjkzLC0xMTU2NDI0MDUyLC0xNT
-g5NjE0NTIyXX0=
+eyJoaXN0b3J5IjpbLTE2NDQ0MDQwNTUsLTExNTY0MjQwNTIsLT
+E1ODk2MTQ1MjJdfQ==
 -->
