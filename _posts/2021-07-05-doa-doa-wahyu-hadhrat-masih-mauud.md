@@ -11,7 +11,11 @@ published: true
 
 ## {{ page.title }}
 
+Doa yang
 
+<p class="arab">
+رَبِّ كُلُّ شَيْءٍ خَادِمُكَ رَبِّ فَاحْفَظْنِيْ وَانْصُرْنِيْ وَارْحَمْنِيْ
+</p>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTI1MTIzMzFdfQ==
+eyJoaXN0b3J5IjpbLTM2NDUxNTI1NSwtMTIxMjUxMjMzMV19
 -->
