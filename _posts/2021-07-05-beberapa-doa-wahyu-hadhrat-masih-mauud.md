@@ -11,8 +11,6 @@ published: true
 
 ## {{ page.title }}
 
-### Doa Pertama
-
 Doa yang doa yang diwahyukan kepada Hadhrat Masih Mau'ud (as) dan mewasiatkannya kepada para anggota jemaat untuk sering mengulanginya.
 
 <p class="arab">
@@ -33,7 +31,7 @@ _Robbi kullu syay-in khoodimuKa, robbi fahfadznaa wanshurnaa warhamnaa_
 
 “Ya Tuhan-ku,segala sesuatu adalah  _khadim_/hamba-Mu, ya Tuhan-ku, lindungilah kami, tolonglah kami dan kasihanilah kami.”
 
-### Doa Kedua
+---
 
 <p class="arab">
 سُبْحَانَ اللّٰهِ وَبِحَمْدِهِ سُبْحَانَ اللّٰهِ الْعَظِيْمِ، اَللّٰهُمَّ صَلِّ عَلٰى مُحَمَّدٍ وَّآلِ مُحَمَّدٍ
@@ -43,7 +41,7 @@ _Robbi kullu syay-in khoodimuKa, robbi fahfadznaa wanshurnaa warhamnaa_
 
 "Mahasuci Allah dan dengan pujian-Nya, Mahasuci Allah Yang Maha Agung. Ya Allah! Limpahkanlah rahmat kepada Muhammad dan keluarga Muhammad"
 
-### Doa Ketiga
+---
 
 <p class="arab">
 رَبِّ أَرِنِيْ حَقَائِقَ الْأَشْيَاءِ
@@ -55,7 +53,7 @@ _Robbi kullu syay-in khoodimuKa, robbi fahfadznaa wanshurnaa warhamnaa_
 
 Sesungguhnya Hadhrat Khalifatul Masih IV (rh) menasihatkan para pelajar untuk mengulangi doa ini pada hari2 ujian
 
-### Doa Keempat
+---
 
 <p class="arab">
 رَبِّ عَلِّمْنِيْ مَا هُوَ خَيْرٌ عِنْدَكَ
@@ -65,7 +63,7 @@ Sesungguhnya Hadhrat Khalifatul Masih IV (rh) menasihatkan para pelajar untuk me
 
 "Ya Tuhanku! Ajarkanlah kepadaku apa yang baik di hadapan-Mu."
 
-### Doa Kelima
+---
 
 <p class="arab">
 رَبِّ لاَ تُبْقِ لِيْ مِنَ الْمُخْزِيَاتِ ذِكْرًا
@@ -75,7 +73,7 @@ Sesungguhnya Hadhrat Khalifatul Masih IV (rh) menasihatkan para pelajar untuk me
 
 "Ya Tuhanku! Jangan meninggalkan bagiku kenangan-kenangan *dari perkara-perkara* yang menghinakan."
 
-### Doa Keenam
+---
 
 <p class="arab">
 رَبِّ إِنِّىْ مَغْلُوْبٌ فَانْتَصِرْ
@@ -85,7 +83,7 @@ Sesungguhnya Hadhrat Khalifatul Masih IV (rh) menasihatkan para pelajar untuk me
 
 "Ya Tuhanku! Sesungguhnya aku kalah, tolonglah aku"
 
-### Doa Ketujuh
+---
 
 <p class="arab">
 رَبِّ إِنِّيْ مَظْلُوْمٌ فَانْتَصِرْ
@@ -95,7 +93,7 @@ Sesungguhnya Hadhrat Khalifatul Masih IV (rh) menasihatkan para pelajar untuk me
 
 "Ya Tuhanku! Sesungguhnya aku teraniaya, tolonglah aku"
 
-### Doa Kedelapan
+---
 
 <p class="arab">
 رَبِّ اغْفِرْ وَارْحَمْ مِّنَ السَّمَاءِ
@@ -172,6 +170,6 @@ Sesungguhnya Hadhrat Khalifatul Masih IV (rh) menasihatkan para pelajar untuk me
 - Diterjemahkan oleh [Mln. Agus Mulyana]()
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDA3NjgyMDU3LC0xMTU2NDI0MDUyLC0xNT
+eyJoaXN0b3J5IjpbNjE2MjYxNjkzLC0xMTU2NDI0MDUyLC0xNT
 g5NjE0NTIyXX0=
 -->
