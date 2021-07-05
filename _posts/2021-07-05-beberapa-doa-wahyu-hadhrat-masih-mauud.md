@@ -65,7 +65,7 @@ Sesungguhnya Hadhrat Khalifatul Masih IV (rh) menasihatkan para pelajar untuk me
 رَبِّ لاَ تُبْقِ لِيْ مِنَ الْمُخْزِيَاتِ ذِكْرًا
 </p>
 
-"Ya Tuhanku! Jangan meninggalkan bagiku kenangan-kenangan dari perkara-perkara yang menghinakan."
+"Ya Tuhanku! Jangan meninggalkan bagiku kenangan-kenangan *dari perkara-perkara* yang menghinakan."
 
 ### Doa Keenam
 
@@ -73,11 +73,15 @@ Sesungguhnya Hadhrat Khalifatul Masih IV (rh) menasihatkan para pelajar untuk me
 رَبِّ إِنِّىْ مَغْلُوْبٌ فَانْتَصِرْ
 </p>
 
+"Ya Tuhanku! Sesungguhnya aku kalah, tolonglah aku"
+
 ### Doa Ketujuh
 
 <p class="arab">
 رَبِّ إِنِّيْ مَظْلُوْمٌ فَانْتَصِرْ
 </p>
+
+"Ya Tuhanku! Sesungguhnya aku teraniaya, tolonglah aku"
 
 ### Doa Kedelapan
 
@@ -85,17 +89,23 @@ Sesungguhnya Hadhrat Khalifatul Masih IV (rh) menasihatkan para pelajar untuk me
 رَبِّ اغْفِرْ وَارْحَمْ مِّنَ السَّمَاءِ
 </p>
 
+"Ya Tuhanku! Anugerahkanlah ampunan dan rahmat dari langit"
+
 ### Doa Kesembilan
 
 <p class="arab">
 رَبِّ أَصْلِحْ أُمَّةَ مُحَمَّدٍ
 </p>
 
+"Ya Tuhanku! Perbaikilah umat Muhammad"
+
 ### Doa Kesepuluh
 
 <p class="arab">
 رَبِّ تَوَفَّنِيْ مُسْلِمًا وَّأَلْحِقْنِيْ بِالصَّالِحِيْنَ
 </p>
+
+"Ya Tuhanku! Wafatkanlah aku dalam keadaan menyerahkan diri dan pertemukanlah aku dengan orang-orang saleh"
 
 ### Doa Kesebelas
 
@@ -123,6 +133,6 @@ Sesungguhnya Hadhrat Khalifatul Masih IV (rh) menasihatkan para pelajar untuk me
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwMDE3MjI5MCwtMTE1NjQyNDA1MiwtMT
+eyJoaXN0b3J5IjpbLTI3NjgwMDQwMCwtMTE1NjQyNDA1MiwtMT
 U4OTYxNDUyMl19
 -->
