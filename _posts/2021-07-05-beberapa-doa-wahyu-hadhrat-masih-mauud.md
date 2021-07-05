@@ -121,7 +121,7 @@ Sesungguhnya Hadhrat Khalifatul Masih IV (rh) menasihatkan para pelajar untuk me
 رَبِّ تَوَفَّنِيْ مُسْلِمًا وَّأَلْحِقْنِيْ بِالصَّالِحِيْنَ
 </p>
 
-*Robbi tawaffa*
+*Robbi tawaffanii muslimaw-wa alhiqnii bish-shoolihiin*
 
 "Ya Tuhanku! Wafatkanlah aku dalam keadaan menyerahkan diri dan pertemukanlah aku dengan orang-orang saleh"
 
@@ -131,6 +131,8 @@ Sesungguhnya Hadhrat Khalifatul Masih IV (rh) menasihatkan para pelajar untuk me
 رَبِّ اجْعَلْنِيْ غَالِبًا عَلٰى غَيْرِيْ
 </p>
 
+*Robbij 'alnii ghooliban 'alaa ghoirii*
+
 "Ya Tuhanku! Jadikanlah aku unggul terhadap lawanku"
 
 ### Doa Kedua Belas
@@ -138,6 +140,8 @@ Sesungguhnya Hadhrat Khalifatul Masih IV (rh) menasihatkan para pelajar untuk me
 <p class="arab">
 رَبِّ أَذْهِبْ عَنِّى الرِّجْسَ وَطَهِّرْنِيْ تَطْهِيْرًا
 </p>
+
+*Robbi adzhib 'annir-rijsa wa thohhirnii tath*
 
 "Ya Tuhanku! Singkirkanlah kesedihan dariku dan sucikan aku sesuci-sucinya"
 
@@ -159,6 +163,6 @@ Sesungguhnya Hadhrat Khalifatul Masih IV (rh) menasihatkan para pelajar untuk me
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODAxNjI2MjA0LC0xMTU2NDI0MDUyLC0xNT
-g5NjE0NTIyXX0=
+eyJoaXN0b3J5IjpbMTU1Mzg3MzY2MiwtMTE1NjQyNDA1MiwtMT
+U4OTYxNDUyMl19
 -->
