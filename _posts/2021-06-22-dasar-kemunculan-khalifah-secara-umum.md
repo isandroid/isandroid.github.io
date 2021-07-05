@@ -67,7 +67,7 @@ Ayat ini disebut ayat “istikhlaf”. Di dalamnya hal ini dijelaskan, bahwa seb
 
 ### 3. Jenis-Jenis Khalifah
 
-Beberapa jenis khilafat yang diketahui dari Alquran dan Hadits adalah sebagai berikut:
+Beberapa jenis khalifah yang diketahui dari Alquran dan Hadits adalah sebagai berikut:
 
 #### 3.1. Khalifatulloh (Seorang Nabi atau Rasul)
 
@@ -367,6 +367,7 @@ Dalam sejarah tidak bisa dipungkiri bahwa terdapat pencapaian-pencapaian luar bi
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NDAwNTQyNTEsLTY4OTM4ODI1MiwtMT
-E3MTY4NDEyMiwxOTgyODQ1NTk1LC0xNzQzMzA4OTMzXX0=
+eyJoaXN0b3J5IjpbMjM4NTMxNzQ1LC0xNjQwMDU0MjUxLC02OD
+kzODgyNTIsLTExNzE2ODQxMjIsMTk4Mjg0NTU5NSwtMTc0MzMw
+ODkzM119
 -->
