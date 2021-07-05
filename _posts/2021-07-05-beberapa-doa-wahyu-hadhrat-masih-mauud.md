@@ -34,7 +34,7 @@ _Robbi kullu syay-in khoodimuKa, robbi fahfadznaa wanshurnaa warhamnaa_
 ---
 
 <p class="arab">
-سُبْحَانَ اللّٰهِ وَبِحَمْدِهِ سُبْحَانَ اللّٰهِ الْعَظِيْمِ، اَللّٰهُمَّ صَلِّ عَلٰى مُحَمَّدٍ وَّآلِ مُحَمَّدٍ
+سُبْحَانَ اللّٰهِ وَبِحَمْدِهِ سُبْحَانَ اللّٰهِ الْعَظِيْمِ - اَللّٰهُمَّ صَلِّ عَلٰى مُحَمَّدٍ وَّآلِ مُحَمَّدٍ
 </p>
 
 *SubhaanaLLoohi wa bihamdihi subhaanalLLoohil 'adziim. Allahumma sholli 'alaa Muhammad wa aali Muhammad*
@@ -172,6 +172,6 @@ Sesungguhnya Hadhrat Khalifatul Masih IV (rh) menasihatkan para pelajar untuk me
 - Diterjemahkan oleh [Mln. Agus Mulyana]()
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NDQ0MDQwNTUsLTExNTY0MjQwNTIsLT
-E1ODk2MTQ1MjJdfQ==
+eyJoaXN0b3J5IjpbMTA4NzM1Mzg5NiwtMTE1NjQyNDA1MiwtMT
+U4OTYxNDUyMl19
 -->
