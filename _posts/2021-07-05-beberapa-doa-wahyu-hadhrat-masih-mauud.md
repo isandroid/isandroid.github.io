@@ -65,7 +65,7 @@ Sesungguhnya Hadhrat Khalifatul Masih IV (rh) menasihatkan para pelajar untuk me
 رَبِّ لاَ تُبْقِ لِيْ مِنَ الْمُخْزِيَاتِ ذِكْرًا
 </p>
 
-""
+"Ya Tuhanku! Jangan meninggalkan bagiku kenangan-kenangan dari perkara-perkara yang menghinakan."
 
 ### Doa Keenam
 
@@ -123,6 +123,6 @@ Sesungguhnya Hadhrat Khalifatul Masih IV (rh) menasihatkan para pelajar untuk me
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0NzQ0NTU3NywtMTE1NjQyNDA1MiwtMT
+eyJoaXN0b3J5IjpbMTYwMDE3MjI5MCwtMTE1NjQyNDA1MiwtMT
 U4OTYxNDUyMl19
 -->
