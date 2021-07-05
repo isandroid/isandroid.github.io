@@ -61,7 +61,7 @@ Sesungguhnya Hadhrat Khalifatul Masih IV (rh) menasihatkan para pelajar untuk me
 رَبِّ عَلِّمْنِيْ مَا هُوَ خَيْرٌ عِنْدَكَ
 </p>
 
-""
+*Robbi 'allimnii maa huwa khoirun 'indak*
 
 "Ya Tuhanku! Ajarkanlah kepadaku apa yang baik di hadapan-Mu."
 
@@ -71,6 +71,8 @@ Sesungguhnya Hadhrat Khalifatul Masih IV (rh) menasihatkan para pelajar untuk me
 رَبِّ لاَ تُبْقِ لِيْ مِنَ الْمُخْزِيَاتِ ذِكْرًا
 </p>
 
+*Robbi laa tubqi lii minal mukhziyaati dzikroo*
+
 "Ya Tuhanku! Jangan meninggalkan bagiku kenangan-kenangan *dari perkara-perkara* yang menghinakan."
 
 ### Doa Keenam
@@ -78,6 +80,8 @@ Sesungguhnya Hadhrat Khalifatul Masih IV (rh) menasihatkan para pelajar untuk me
 <p class="arab">
 رَبِّ إِنِّىْ مَغْلُوْبٌ فَانْتَصِرْ
 </p>
+
+*Robbi innii maghluubun fa*
 
 "Ya Tuhanku! Sesungguhnya aku kalah, tolonglah aku"
 
@@ -147,6 +151,6 @@ Sesungguhnya Hadhrat Khalifatul Masih IV (rh) menasihatkan para pelajar untuk me
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTI5NTc1MzksLTExNTY0MjQwNTIsLTE1OD
-k2MTQ1MjJdfQ==
+eyJoaXN0b3J5IjpbMzgwNzU1NDgzLC0xMTU2NDI0MDUyLC0xNT
+g5NjE0NTIyXX0=
 -->
