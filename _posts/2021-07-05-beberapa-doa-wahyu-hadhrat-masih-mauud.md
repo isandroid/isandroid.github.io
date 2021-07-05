@@ -39,6 +39,8 @@ _Robbi kullu syay-in khoodimuKa, robbi fahfadznaa wanshurnaa warhamnaa_
 سُبْحَانَ اللّٰهِ وَبِحَمْدِهِ سُبْحَانَ اللّٰهِ الْعَظِيْمِ، اَللّٰهُمَّ صَلِّ عَلٰى مُحَمَّدٍ وَّآلِ مُحَمَّدٍ
 </p>
 
+*SubhaanaLLoohi wa bihamdihi *
+
 "Mahasuci Allah dan dengan pujian-Nya, Mahasuci Allah Yang Maha Agung. Ya Allah! Limpahkanlah rahmat kepada Muhammad dan keluarga Muhammad"
 
 ### Doa Ketiga
@@ -113,11 +115,15 @@ Sesungguhnya Hadhrat Khalifatul Masih IV (rh) menasihatkan para pelajar untuk me
 رَبِّ اجْعَلْنِيْ غَالِبًا عَلٰى غَيْرِيْ
 </p>
 
+"Ya Tuhanku! Jadikanlah aku unggul terhadap lawanku"
+
 ### Doa Kedua Belas
 
 <p class="arab">
 رَبِّ أَذْهِبْ عَنِّى الرِّجْسَ وَطَهِّرْنِيْ تَطْهِيْرًا
 </p>
+
+"Ya Tuhanku! Singkirkanlah kesedihan dariku dan sucikan aku sesuci-sucinya"
 
 ### Doa Ketiga Belas
 
@@ -125,14 +131,18 @@ Sesungguhnya Hadhrat Khalifatul Masih IV (rh) menasihatkan para pelajar untuk me
 رَبِّ أَرِنِيْ آيَةً مِّنَ السَّمَاءِ
 </p>
 
+"Ya Tuhanku! Tunjukanlah kepadaku tanda dari langit"
+
 ### Doa Keempat Belas
 
 <p class="arab">
 رَبِّ أَرِنِيْ أَنْوَارَكَ الْكُلِّيَّةَ
 </p>
 
+"Ya Tuhanku! Tunjukanlah kepada semua cahaya-Mu"
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3NjgwMDQwMCwtMTE1NjQyNDA1MiwtMT
+eyJoaXN0b3J5IjpbMjA5OTY1MTY2MCwtMTE1NjQyNDA1MiwtMT
 U4OTYxNDUyMl19
 -->
