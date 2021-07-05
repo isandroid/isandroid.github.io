@@ -81,7 +81,7 @@ Sesungguhnya Hadhrat Khalifatul Masih IV (rh) menasihatkan para pelajar untuk me
 رَبِّ إِنِّىْ مَغْلُوْبٌ فَانْتَصِرْ
 </p>
 
-*Robbi innii maghluubun fa*
+*Robbi innii maghluubun fantashir*
 
 "Ya Tuhanku! Sesungguhnya aku kalah, tolonglah aku"
 
@@ -91,6 +91,8 @@ Sesungguhnya Hadhrat Khalifatul Masih IV (rh) menasihatkan para pelajar untuk me
 رَبِّ إِنِّيْ مَظْلُوْمٌ فَانْتَصِرْ
 </p>
 
+*Robbi innii mazhluumun fantashir*
+
 "Ya Tuhanku! Sesungguhnya aku teraniaya, tolonglah aku"
 
 ### Doa Kedelapan
@@ -98,6 +100,8 @@ Sesungguhnya Hadhrat Khalifatul Masih IV (rh) menasihatkan para pelajar untuk me
 <p class="arab">
 رَبِّ اغْفِرْ وَارْحَمْ مِّنَ السَّمَاءِ
 </p>
+
+*Robbigh-fir warham-minas-samaa-(i)*
 
 "Ya Tuhanku! Anugerahkanlah ampunan dan rahmat dari langit"
 
@@ -107,6 +111,8 @@ Sesungguhnya Hadhrat Khalifatul Masih IV (rh) menasihatkan para pelajar untuk me
 رَبِّ أَصْلِحْ أُمَّةَ مُحَمَّدٍ
 </p>
 
+*Robbi ashlih ummata Muhammad*
+
 "Ya Tuhanku! Perbaikilah umat Muhammad"
 
 ### Doa Kesepuluh
@@ -114,6 +120,8 @@ Sesungguhnya Hadhrat Khalifatul Masih IV (rh) menasihatkan para pelajar untuk me
 <p class="arab">
 رَبِّ تَوَفَّنِيْ مُسْلِمًا وَّأَلْحِقْنِيْ بِالصَّالِحِيْنَ
 </p>
+
+*Robbi tawaffa*
 
 "Ya Tuhanku! Wafatkanlah aku dalam keadaan menyerahkan diri dan pertemukanlah aku dengan orang-orang saleh"
 
@@ -151,6 +159,6 @@ Sesungguhnya Hadhrat Khalifatul Masih IV (rh) menasihatkan para pelajar untuk me
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzgwNzU1NDgzLC0xMTU2NDI0MDUyLC0xNT
+eyJoaXN0b3J5IjpbODAxNjI2MjA0LC0xMTU2NDI0MDUyLC0xNT
 g5NjE0NTIyXX0=
 -->
