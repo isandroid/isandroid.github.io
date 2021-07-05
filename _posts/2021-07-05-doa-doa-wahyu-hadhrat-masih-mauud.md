@@ -21,7 +21,12 @@ Doa yang doa yang diwahyukan kepada Hadhrat Masih Mau'ud (as) dan mewasiatkannya
 
 *Robbi kullu syai-in khoodimuka Robbi Fa-hfazhnii wanshurnii wa-rhamnii*
 
+“Ya Tuhan-ku, segala sesuatu adalah khadim/hamba-Mu, ya Tuhan-ku, lindungilah aku, tolonglah aku dan kasihanilah aku.”
+
+Doa ini juga bisa dibac
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3MzY2MDA1MCwtMTIxMjUxMjMzMV19
+eyJoaXN0b3J5IjpbMTczNjEzNDEwMSwxODczNjYwMDUwLC0xMj
+EyNTEyMzMxXX0=
 -->
