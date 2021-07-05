@@ -35,8 +35,19 @@ _Robbi kullu syay-in khoodimuKa, robbi fahfadznaa wanshurnaa warhamnaa_
 
 ### Doa Kedua
 
+سُبْحَانَ اللّٰهِ وَبِحَمْدِهِ سُبْحَانَ اللّٰهِ الْعَظِيْمِ، اَللّٰهُمَّ صَلِّ عَلٰى مُحَمَّدٍ وَّآلِ مُحَمَّدٍ
+
+### Doa Ketiga
+
+### Doa Keempat
+
+### Doa Kelima
+
+### Doa Keenam
+
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1MjcwOTM0NF19
+eyJoaXN0b3J5IjpbLTEwMDI1NjA1NTBdfQ==
 -->
