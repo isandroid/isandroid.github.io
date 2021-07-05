@@ -5,14 +5,16 @@ tags: pengorbanan
 description: beberapa ayat-ayat Alquran yang menjelaskan tentang berkat atau berkah pengorbanan
 published: true
 ---
-<p class="quran">بِسۡمِ اللّٰہِ الرَّحۡمٰنِ الرَّحِیۡمِ</p>
+<p class="quran">
+بِسۡمِ اللّٰہِ الرَّحۡمٰنِ الرَّحِیۡمِ
+</p>
 
 ## {{ page.title }}
 
 *Assalamu 'alaikum wa rahmatulloohi wa barookaatuh*
 
 <p class="arab">
-	أَشْهَدُ أنْ لَّا إِلٰهَ إِلَّا اللّٰهُ وَحْدَهُ لَا شَرِيْكَ لَهُ وَأَشْهَدُ أنَّ مُحَمَّدًا عَبْدُهُ وَرَسُوْلُهُ
+أَشْهَدُ أنْ لَّا إِلٰهَ إِلَّا اللّٰهُ وَحْدَهُ لَا شَرِيْكَ لَهُ وَأَشْهَدُ أنَّ مُحَمَّدًا عَبْدُهُ وَرَسُوْلُهُ
 </p>
 
 Hadirin peserta KPA yang berbahagia, kali ini akan disampaikan Materi Kelas B untuk mata pelajaran Pengorbanan dan Nizam. Ini adalah pertemuan ke tiga dari materi pengorbanan.
@@ -154,11 +156,11 @@ Demikianlah, semoga petunjuk-petunjuk dari Alquran tersebut bisa menjadikan kita
 37:108 -- pengorbanan nabi Ibrohim
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODczODc3MzksOTY4NjExODA2LC0xMj
-EyOTk3MDYyLDE1MTc2OTMwMzIsLTE1ODYzNDU0MTQsLTE1NDU0
-MDYwMzQsLTYzMTM3MDkzOSwtMTY4MjYxNDU5NSwtOTAxNjA4NT
-A3LC0xNzE1NDYxMDc5LC0yMDMyNDI4Njk1LDIwMTkxODUxNDAs
-NDAxODE3MDE1LDE3NjIzNTM2NjUsLTE3MzI1MjMwMTgsNzMzOD
-MyNzE5LC0xMTU5NzYxNzU5LDEwNTg4MjIzOTgsLTE2NjM2OTUz
-MDMsLTY5ODY2MTAzMl19
+eyJoaXN0b3J5IjpbLTE0OTUwMDI3NjcsLTE1ODczODc3MzksOT
+Y4NjExODA2LC0xMjEyOTk3MDYyLDE1MTc2OTMwMzIsLTE1ODYz
+NDU0MTQsLTE1NDU0MDYwMzQsLTYzMTM3MDkzOSwtMTY4MjYxND
+U5NSwtOTAxNjA4NTA3LC0xNzE1NDYxMDc5LC0yMDMyNDI4Njk1
+LDIwMTkxODUxNDAsNDAxODE3MDE1LDE3NjIzNTM2NjUsLTE3Mz
+I1MjMwMTgsNzMzODMyNzE5LC0xMTU5NzYxNzU5LDEwNTg4MjIz
+OTgsLTE2NjM2OTUzMDNdfQ==
 -->
