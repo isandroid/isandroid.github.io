@@ -168,10 +168,6 @@ Rasulullah (saw) bersabda,
 
 (H.R. Abu Dawud, Kitab Sunnah, Berpegang teguh dengan sunnah) [[^hds-32251d52-6f4d-4b6c-94e5-0811b08ff22b]]
 
-<!-- ref khutbah Huzur pd hari Khilafat 2021 -->
-<!-- https://www.alislam.org/archives/sermons/summary/FSS20210528-ID.pdf -->
-<!-- https://pustaka.isa.web.id/2021/06/04/khilafat-mengubah-takut-menjadi-damai.html -->
-
 Hadhrat Hakim Maulvi Nooruddin (ra) bersabda bahwa tidak ada gunanya hanya bersumpah setia (baiat), atau beliau menerima sumpah setia dari orang lain, karena hal seperti ini bisa dilakukan oleh siapa saja. Sebaliknya, aspek yang menonjol ialah keharusan **ketaatan penuh kepada Khilafat** [[^khotbah20210528]]
 
 Hudhur V ayyadahuLLahu ta’ala menyatakan bahwa Jemaat berkembang pesat. Terjemahan Al-Qur’an dalam berbagai bahasa disebarkan ke seluruh dunia. MTA dimulai hanya dengan satu saluran, dan sekarang ada delapan saluran dan studio yang didirikan di seluruh dunia. Pesan Jemaat juga disebarkan melalui Media Sosial. Jalan baru yang sedang dibuka, seperti Mulaqat Virtual, dimana Khalifatul Masih yang berada di Inggris bertemu dengan orang-orang dari seluruh dunia dan orang-orang dapat menerima bimbingan langsung dari Khalifah mereka. 
@@ -367,7 +363,7 @@ Dalam sejarah tidak bisa dipungkiri bahwa terdapat pencapaian-pencapaian luar bi
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzY1MTg3MDIsMTc0OTYzMzg1LC0xNj
-QwMDU0MjUxLC02ODkzODgyNTIsLTExNzE2ODQxMjIsMTk4Mjg0
-NTU5NSwtMTc0MzMwODkzM119
+eyJoaXN0b3J5IjpbMTgzNzU0MTAxOSwtMjEzNjUxODcwMiwxNz
+Q5NjMzODUsLTE2NDAwNTQyNTEsLTY4OTM4ODI1MiwtMTE3MTY4
+NDEyMiwxOTgyODQ1NTk1LC0xNzQzMzA4OTMzXX0=
 -->
