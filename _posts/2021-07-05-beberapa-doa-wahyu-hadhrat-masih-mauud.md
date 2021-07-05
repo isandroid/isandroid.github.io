@@ -39,7 +39,7 @@ _Robbi kullu syay-in khoodimuKa, robbi fahfadznaa wanshurnaa warhamnaa_
 سُبْحَانَ اللّٰهِ وَبِحَمْدِهِ سُبْحَانَ اللّٰهِ الْعَظِيْمِ، اَللّٰهُمَّ صَلِّ عَلٰى مُحَمَّدٍ وَّآلِ مُحَمَّدٍ
 </p>
 
-*SubhaanaLLoohi wa bihamdihi *
+*SubhaanaLLoohi wa bihamdihi subhaanalLLoohil 'adziim. Allahumma sholli 'alaa Muhammad wa aali Muhammad*
 
 "Mahasuci Allah dan dengan pujian-Nya, Mahasuci Allah Yang Maha Agung. Ya Allah! Limpahkanlah rahmat kepada Muhammad dan keluarga Muhammad"
 
@@ -48,6 +48,8 @@ _Robbi kullu syay-in khoodimuKa, robbi fahfadznaa wanshurnaa warhamnaa_
 <p class="arab">
 رَبِّ أَرِنِيْ حَقَائِقَ الْأَشْيَاءِ
 </p>
+
+*Robbi arinii haqooiqol-asy-yaa-(i)*
 
 "Ya Tuhanku! Perlihatkanlah kepadaku hakikat segala sesuatu."
 
@@ -58,6 +60,8 @@ Sesungguhnya Hadhrat Khalifatul Masih IV (rh) menasihatkan para pelajar untuk me
 <p class="arab">
 رَبِّ عَلِّمْنِيْ مَا هُوَ خَيْرٌ عِنْدَكَ
 </p>
+
+""
 
 "Ya Tuhanku! Ajarkanlah kepadaku apa yang baik di hadapan-Mu."
 
@@ -143,6 +147,6 @@ Sesungguhnya Hadhrat Khalifatul Masih IV (rh) menasihatkan para pelajar untuk me
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5OTY1MTY2MCwtMTE1NjQyNDA1MiwtMT
-U4OTYxNDUyMl19
+eyJoaXN0b3J5IjpbOTI5NTc1MzksLTExNTY0MjQwNTIsLTE1OD
+k2MTQ1MjJdfQ==
 -->
