@@ -39,6 +39,8 @@ _Robbi kullu syay-in khoodimuKa, robbi fahfadznaa wanshurnaa warhamnaa_
 سُبْحَانَ اللّٰهِ وَبِحَمْدِهِ سُبْحَانَ اللّٰهِ الْعَظِيْمِ، اَللّٰهُمَّ صَلِّ عَلٰى مُحَمَّدٍ وَّآلِ مُحَمَّدٍ
 </p>
 
+
+
 ### Doa Ketiga
 
 <p class="arab">
@@ -113,6 +115,6 @@ _Robbi kullu syay-in khoodimuKa, robbi fahfadznaa wanshurnaa warhamnaa_
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTY0MjQwNTIsLTE1ODk2MTQ1MjJdfQ
-==
+eyJoaXN0b3J5IjpbLTgwNDY1NTYwLC0xMTU2NDI0MDUyLC0xNT
+g5NjE0NTIyXX0=
 -->
