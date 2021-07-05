@@ -63,17 +63,27 @@ _Robbi kullu syay-in khoodimuKa, robbi fahfadznaa wanshurnaa warhamnaa_
 
 ### Doa Kesembilan
 
-
+رَبِّ أَصْلِحْ أُمَّةَ مُحَمَّدٍ
 
 ### Doa Kesepuluh
 
+رَبِّ تَوَفَّنِيْ مُسْلِمًا وَّأَلْحِقْنِيْ بِالصَّالِحِيْنَ
+
 ### Doa Kesebelas
+
+رَبِّ اجْعَلْنِيْ غَالِبًا عَلٰى غَيْرِيْ
 
 ### Doa Kedua Belas
 
+رَبِّ أَذْهِبْ عَنِّى الرِّجْسَ وَطَهِّرْنِيْ تَطْهِيْرًا
+
 ### Doa Ketiga Belas
 
+رَبِّ أَرِنِيْ آيَةً مِّنَ السَّمَاءِ
+
 ### Doa Keempat Belas
+
+رَبِّ أَرِنِيْ أَنْوَارَكَ الْكُلِّيَّةَ
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQ4NzQxMTk3XX0=
+eyJoaXN0b3J5IjpbLTE1ODk2MTQ1MjJdfQ==
 -->
