@@ -289,7 +289,7 @@ Dalam sejarah tidak bisa dipungkiri bahwa terdapat pencapaian-pencapaian luar bi
 
 2. Makna unta bepergian dalam satu barisan adalah  bahwa Imam diperlukan untuk memandu perjalanan hidup dan  untuk menghindari tersesat. Unta tidak lalai dalam melakukan  perjalanan panjang, artinya bahwa mereka menyimpan air.  [mereka sekali minum, sangat banyak volume air yang diminum,  untuk perjalanan berhari-hari, baru minum lagi, red.] Demikian  pula orang-orang mukmin sejati harus sadar dan siap untuk  perjalanan hidup mereka dan menyiapkan perbekalan, dan  perbekalan terbaik dalam hidup adalah ketakwaan.
 
-3. Baginda Nabi Muhammad shallAllahu  ‘alaihi wa sallam bersabda, " الإمام  جُنّة " (*Al-Imaamu junnatun*) bahwa Imam adalah seperti perisai. Selama anda berada di belakang  perisai, anda akan terlindungi dari serangan setan. Makna dari  tetap berada di belakang perisai ialah ketaatan yang sempurna  kepada Imam. Berjalan pada barisan secara lurus dalam batasbatas  wilayah yang telah ditentukan. Bila sedikit saja keluar dari  barisan tersebut, maka akan tersesat dan membahayakan.
+3. Baginda Nabi Muhammad shallAllahu  ‘alaihi wa sallam bersabda, " الإمام  جُنّة " (*Al-Imaamu junnatun*) bahwa Imam adalah seperti perisai. Selama anda berada di belakang  perisai, anda akan terlindungi dari serangan setan. Makna dari  tetap berada di belakang perisai ialah ketaatan yang sempurna  kepada Imam. Berjalan pada barisan secara lurus dalam batas-batas  wilayah yang telah ditentukan. Bila sedikit saja keluar dari  barisan tersebut, maka akan tersesat dan membahayakan.
 
 4. Beberapa pengurus bertindak atas instruksi yang diterima dari Khalifah-e-waqt tetapi dengan sedikit ragu-ragu. Ini tidak memperlihatkan ketaatan. Ketaatan adalah ketika sesuatu diikuti secara langsung dan sepenuhnya.
 
@@ -367,7 +367,7 @@ Dalam sejarah tidak bisa dipungkiri bahwa terdapat pencapaian-pencapaian luar bi
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0OTYzMzg1LC0xNjQwMDU0MjUxLC02OD
-kzODgyNTIsLTExNzE2ODQxMjIsMTk4Mjg0NTU5NSwtMTc0MzMw
-ODkzM119
+eyJoaXN0b3J5IjpbLTIxMzY1MTg3MDIsMTc0OTYzMzg1LC0xNj
+QwMDU0MjUxLC02ODkzODgyNTIsLTExNzE2ODQxMjIsMTk4Mjg0
+NTU5NSwtMTc0MzMwODkzM119
 -->
