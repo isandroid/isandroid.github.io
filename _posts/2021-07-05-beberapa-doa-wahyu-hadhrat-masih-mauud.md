@@ -167,10 +167,11 @@ Sesungguhnya Hadhrat Khalifatul Masih IV (rh) menasihatkan para pelajar untuk me
 
 ### Sumber
 
+- [ahmadiyya-islam.org](https://www.ahmadiyya-islam.org/altaqwa/articles/4547-2/)
 
-
+- Diterjemahkan oleh [Mln. Agus Mulyana]()
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDcyMTk0ODY3LC0xMTU2NDI0MDUyLC0xNT
+eyJoaXN0b3J5IjpbNDA3NjgyMDU3LC0xMTU2NDI0MDUyLC0xNT
 g5NjE0NTIyXX0=
 -->
