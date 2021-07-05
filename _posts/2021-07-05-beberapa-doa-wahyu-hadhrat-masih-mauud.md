@@ -39,7 +39,7 @@ _Robbi kullu syay-in khoodimuKa, robbi fahfadznaa wanshurnaa warhamnaa_
 سُبْحَانَ اللّٰهِ وَبِحَمْدِهِ سُبْحَانَ اللّٰهِ الْعَظِيْمِ، اَللّٰهُمَّ صَلِّ عَلٰى مُحَمَّدٍ وَّآلِ مُحَمَّدٍ
 </p>
 
-
+"Mahasuci Allah dan dengan pujian-Nya, Mahasuci Allah Yang Maha Agung. Ya Allah! Limpahkanlah rahmat kepada Muhammad dan keluarga Muhammad"
 
 ### Doa Ketiga
 
@@ -47,17 +47,25 @@ _Robbi kullu syay-in khoodimuKa, robbi fahfadznaa wanshurnaa warhamnaa_
 رَبِّ أَرِنِيْ حَقَائِقَ الْأَشْيَاءِ
 </p>
 
+"Ya Tuhanku! Perlihatkanlah kepadaku hakikat segala sesuatu."
+
+Sesungguhnya Hadhrat Khalifatul Masih IV (rh) menasihatkan para pelajar untuk mengulangi doa ini pada hari2 ujian
+
 ### Doa Keempat
 
 <p class="arab">
 رَبِّ عَلِّمْنِيْ مَا هُوَ خَيْرٌ عِنْدَكَ
 </p>
 
+"Ya Tuhanku! Ajarkanlah kepadaku apa yang baik di hadapan-Mu."
+
 ### Doa Kelima
 
 <p class="arab">
 رَبِّ لاَ تُبْقِ لِيْ مِنَ الْمُخْزِيَاتِ ذِكْرًا
 </p>
+
+""
 
 ### Doa Keenam
 
@@ -115,6 +123,6 @@ _Robbi kullu syay-in khoodimuKa, robbi fahfadznaa wanshurnaa warhamnaa_
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwNDY1NTYwLC0xMTU2NDI0MDUyLC0xNT
-g5NjE0NTIyXX0=
+eyJoaXN0b3J5IjpbLTU0NzQ0NTU3NywtMTE1NjQyNDA1MiwtMT
+U4OTYxNDUyMl19
 -->
