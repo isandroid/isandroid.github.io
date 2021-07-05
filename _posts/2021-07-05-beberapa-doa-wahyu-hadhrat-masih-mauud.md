@@ -141,7 +141,7 @@ Sesungguhnya Hadhrat Khalifatul Masih IV (rh) menasihatkan para pelajar untuk me
 رَبِّ أَذْهِبْ عَنِّى الرِّجْسَ وَطَهِّرْنِيْ تَطْهِيْرًا
 </p>
 
-*Robbi adzhib 'annir-rijsa wa thohhirnii tath*
+*Robbi adzhib 'annir-rijsa wa thohhirnii tath-hiiroo*
 
 "Ya Tuhanku! Singkirkanlah kesedihan dariku dan sucikan aku sesuci-sucinya"
 
@@ -151,6 +151,8 @@ Sesungguhnya Hadhrat Khalifatul Masih IV (rh) menasihatkan para pelajar untuk me
 رَبِّ أَرِنِيْ آيَةً مِّنَ السَّمَاءِ
 </p>
 
+*Robbi arinii aayatam-minas-samaa-(i)*
+
 "Ya Tuhanku! Tunjukanlah kepadaku tanda dari langit"
 
 ### Doa Keempat Belas
@@ -159,10 +161,16 @@ Sesungguhnya Hadhrat Khalifatul Masih IV (rh) menasihatkan para pelajar untuk me
 رَبِّ أَرِنِيْ أَنْوَارَكَ الْكُلِّيَّةَ
 </p>
 
+*Robbi arinii anwaarokal-kulliyyata*
+
 "Ya Tuhanku! Tunjukanlah kepada semua cahaya-Mu"
+
+### Sumber
+
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1Mzg3MzY2MiwtMTE1NjQyNDA1MiwtMT
-U4OTYxNDUyMl19
+eyJoaXN0b3J5IjpbNDcyMTk0ODY3LC0xMTU2NDI0MDUyLC0xNT
+g5NjE0NTIyXX0=
 -->
