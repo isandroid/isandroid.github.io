@@ -39,19 +39,31 @@ _Robbi kullu syay-in khoodimuKa, robbi fahfadznaa wanshurnaa warhamnaa_
 
 ### Doa Ketiga
 
-رَبِّ أَرِنِيْ حَقَائِقَ الْأَشْيَاءِ. وَقَدْ نَصَحَ سَيِّدُنَا الْخَلِيْفَةُ الرَّابِعُ لِلْمَسِيْحِ
+رَبِّ أَرِنِيْ حَقَائِقَ الْأَشْيَاءِ
 
 ### Doa Keempat
 
+رَبِّ عَلِّمْنِيْ مَا هُوَ خَيْرٌ عِنْدَكَ
+
 ### Doa Kelima
+
+رَبِّ لاَ تُبْقِ لِيْ مِنَ الْمُخْزِيَاتِ ذِكْرًا
 
 ### Doa Keenam
 
+رَبِّ إِنِّىْ مَغْلُوْبٌ فَانْتَصِرْ
+
 ### Doa Ketujuh
+
+رَبِّ إِنِّيْ مَظْلُوْمٌ فَانْتَصِرْ
 
 ### Doa Kedelapan
 
+رَبِّ اغْفِرْ وَارْحَمْ مِّنَ السَّمَاءِ
+
 ### Doa Kesembilan
+
+
 
 ### Doa Kesepuluh
 
@@ -63,5 +75,5 @@ _Robbi kullu syay-in khoodimuKa, robbi fahfadznaa wanshurnaa warhamnaa_
 
 ### Doa Keempat Belas
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ2NjkxNDQ5XX0=
+eyJoaXN0b3J5IjpbNzQ4NzQxMTk3XX0=
 -->
