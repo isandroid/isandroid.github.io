@@ -35,55 +35,75 @@ _Robbi kullu syay-in khoodimuKa, robbi fahfadznaa wanshurnaa warhamnaa_
 
 ### Doa Kedua
 
+<p class="arab">
 سُبْحَانَ اللّٰهِ وَبِحَمْدِهِ سُبْحَانَ اللّٰهِ الْعَظِيْمِ، اَللّٰهُمَّ صَلِّ عَلٰى مُحَمَّدٍ وَّآلِ مُحَمَّدٍ
+</p>
 
 ### Doa Ketiga
 
+<p class="arab">
 رَبِّ أَرِنِيْ حَقَائِقَ الْأَشْيَاءِ
+</p>
 
 ### Doa Keempat
 
+<p class="arab">
 رَبِّ عَلِّمْنِيْ مَا هُوَ خَيْرٌ عِنْدَكَ
+</p>
 
 ### Doa Kelima
 
+<p class="arab">
 رَبِّ لاَ تُبْقِ لِيْ مِنَ الْمُخْزِيَاتِ ذِكْرًا
+</p>
 
 ### Doa Keenam
 
+<p class="arab">
 رَبِّ إِنِّىْ مَغْلُوْبٌ فَانْتَصِرْ
+</p>
 
 ### Doa Ketujuh
 
+<p class="arab">
 رَبِّ إِنِّيْ مَظْلُوْمٌ فَانْتَصِرْ
+</p>
 
 ### Doa Kedelapan
 
+<p class="arab">
 رَبِّ اغْفِرْ وَارْحَمْ مِّنَ السَّمَاءِ
 
 ### Doa Kesembilan
 
+<p class="arab">
 رَبِّ أَصْلِحْ أُمَّةَ مُحَمَّدٍ
 
 ### Doa Kesepuluh
 
+<p class="arab">
 رَبِّ تَوَفَّنِيْ مُسْلِمًا وَّأَلْحِقْنِيْ بِالصَّالِحِيْنَ
 
 ### Doa Kesebelas
 
+<p class="arab">
 رَبِّ اجْعَلْنِيْ غَالِبًا عَلٰى غَيْرِيْ
 
 ### Doa Kedua Belas
 
+<p class="arab">
 رَبِّ أَذْهِبْ عَنِّى الرِّجْسَ وَطَهِّرْنِيْ تَطْهِيْرًا
 
 ### Doa Ketiga Belas
 
+<p class="arab">
 رَبِّ أَرِنِيْ آيَةً مِّنَ السَّمَاءِ
 
 ### Doa Keempat Belas
 
+<p class="arab">
 رَبِّ أَرِنِيْ أَنْوَارَكَ الْكُلِّيَّةَ
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODk2MTQ1MjJdfQ==
+eyJoaXN0b3J5IjpbLTE5MDYxNDc0NTMsLTE1ODk2MTQ1MjJdfQ
+==
 -->
