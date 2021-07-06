@@ -31,7 +31,13 @@ Beliau (ra) juga bersabda:
 
 > “Saya berharap Tahrik Jadid akan bertahan selama berabad-abad, seperti bintang-bintang di langit, begitu pula Allah Ta'ala berfirman kepada Hazrat Ibrahim bahwa keturunannya akan tak terhitung jumlahnya. Dan keturunan Hazrat Ibrahim sangat besar pengkhidmatannya kepada keimanan (agama) dan (hal ini) sama dengan yang dilakukan Tahrik Jadid.” [[^ahmadipedia_org_tahrik_e_jadid]]
 
-Hadhrat Khalifatul Masih II (ra) membentuk sebuah komite dan membuatnya bertanggung jawab atas perolehan dana dan membelanjakannya semata-mata untuk penyebaran Islam dan Ahmadiyah di bawah instruksi langsungnya. Badan ini bernama Anjuman-e-Taraqi-e-Islam – dewan untuk kemajuan dan kemajuan Islam [[^alhakam_Taraqi_e_Islam_to_Tahrik_e_Jadid]].
+Hadhrat Khalifatul Masih II (ra) membentuk sebuah komite dan membuatnya bertanggung jawab atas perolehan dana dan membelanjakannya semata-mata untuk penyebaran Islam dan Ahmadiyah di bawah instruksi langsungnya. Badan ini bernama Anjuman-e-Taraqi-e-Islam – dewan untuk kemajuan dan kemajuan Islam.
+
+Hadhrat Khalifatul Masih II (ra) menunjuk Hazrat Maulvi Sher Ali (ra) sebagai sekretaris komite. Semua usaha tabligh dilakukan oleh **Anjuman Taraqi-e-Islam** ini selama beberapa dekade berikutnya. Misi ke luar negeri dimulai, para mubalig dikirim ke luar negeri, literatur diterbitkan dan diedarkan ke seluruh dunia dan banyak lagi.
+
+Inisiatif inilah yang kemudian berkembang menjadi **Tahrik Jadid** pada tahun 1934 oleh Hazrat Khalifatul Masih II ra  melalui ilham. Skema ini mengambil alih tugas Anjuman Taraqi-e-Islam tetapi dikembangkan di atas skema yang jauh lebih luas; Ekspansi global Jemaat membutuhkan pandangan internasional dan itulah yang menjadi dasar Tahrik Jadid. Berbagai departemen – otonom dalam fungsinya – dikembangkan dan ditunjuk dengan tugas keuangan, publikasi, misi luar negeri, pendidikan, dll.
+
+ [[^alhakam_Taraqi_e_Islam_to_Tahrik_e_Jadid]].
 
 Artikel terkait:
 
@@ -55,6 +61,7 @@ Maka, melalui petunjuk Allah Ta'ala, sebagai solusi atas masalah ini, Hazrat Mir
 
 [^alhakam_Taraqi_e_Islam_to_Tahrik_e_Jadid]: [Al-Hakam - Taraqi-e-Islam to Tahrik-e-Jadid: A single tree to a global orchard](https://www.alhakam.org/taraqi-e-islam-to-tahrik-e-jadid-a-single-tree-to-a-global-orchard/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTE1NjQyMzEsNDY3ODQ1MDExLC0xMT
-E0NjY5MjYwLC0xNDcyOTMyNzM1LC0zMzY1MjE4MDNdfQ==
+eyJoaXN0b3J5IjpbLTk1NzIyNjI1NSwtMTU1MTU2NDIzMSw0Nj
+c4NDUwMTEsLTExMTQ2NjkyNjAsLTE0NzI5MzI3MzUsLTMzNjUy
+MTgwM119
 -->
