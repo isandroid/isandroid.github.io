@@ -27,9 +27,9 @@ Awalnya silsilah ini dimulai sebagai skema sementara, tetapi di akhir periode ya
 
 > “Sekarang sembilan belas tahun (Tahrik Jadid) akan segera berakhir, saya telah memutuskan bahwa Tahrik Jadid akan terus berlanjut hingga nafas terakhir kalian”
 
-Beliau (ra) ju:
+Beliau (ra) juga bersabda:
 
-“Saya berharap Tahrik-e-Jadid akan bertahan selama berabad-abad, seperti bintang-bintang di langit, begitu pula Allah berfirman kepada Hazrat Ibrahim bahwa keturunannya akan tak terhitung jumlahnya. Dan keturunan Hazrat Ibrahim sangat mengabdi pada iman, dan sama halnya dilakukan dengan Tahrik Jadid.” [[^ahmadipedia_org_tahrik_e_jadid]]
+> “Saya berharap Tahrik Jadid akan bertahan selama berabad-abad, seperti bintang-bintang di langit, begitu pula Allah Ta'ala berfirman kepada Hazrat Ibrahim bahwa keturunannya akan tak terhitung jumlahnya. Dan keturunan Hazrat Ibrahim sangat mengabdi pada iman, dan sama halnya dilakukan dengan Tahrik Jadid.” [[^ahmadipedia_org_tahrik_e_jadid]]
 
 ### Waqfi Jadid
 
@@ -37,5 +37,6 @@ Beliau (ra) ju:
 
 [^ahmadipedia_org_tahrik_e_jadid]: [ahmadipedia.org - tahrik-e-jadid](https://www.ahmadipedia.org/content/scheme/7)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NzI5MzI3MzUsLTMzNjUyMTgwM119
+eyJoaXN0b3J5IjpbMzQyMDg0MzcyLC0xNDcyOTMyNzM1LC0zMz
+Y1MjE4MDNdfQ==
 -->
