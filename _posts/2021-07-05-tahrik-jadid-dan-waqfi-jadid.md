@@ -31,7 +31,7 @@ Beliau (ra) juga bersabda:
 
 > “Saya berharap Tahrik Jadid akan bertahan selama berabad-abad, seperti bintang-bintang di langit, begitu pula Allah Ta'ala berfirman kepada Hazrat Ibrahim bahwa keturunannya akan tak terhitung jumlahnya. Dan keturunan Hazrat Ibrahim sangat besar pengkhidmatannya kepada keimanan (agama) dan (hal ini) sama dengan yang dilakukan Tahrik Jadid.” [[^ahmadipedia_org_tahrik_e_jadid]]
 
-Hadhrat Khalifatul Masih II (ra) membentuk sebuah komite dan membuatnya bertanggung jawab atas perolehan dana dan membelanjakannya semata-mata untuk penyebaran Islam dan Ahmadiyah di bawah instruksi langsungnya. Badan ini bernama Anjuman-e-Taraqi-e-Islam – dewan untuk kemajuan dan kemajuan Islam.
+Hadhrat Khalifatul Masih II (ra) membentuk sebuah komite dan membuatnya bertanggung jawab atas perolehan dana dan membelanjakannya semata-mata untuk penyebaran Islam dan Ahmadiyah di bawah instruksi langsungnya. Badan ini bernama Anjuman-e-Taraqi-e-Islam – dewan untuk kemajuan dan kemajuan Islam [[^alhakam_Taraqi_e_Islam_to_Tahrik_e_Jadid]].
 
 Artikel terkait:
 
@@ -53,8 +53,8 @@ Maka, melalui petunjuk Allah Ta'ala, sebagai solusi atas masalah ini, Hazrat Mir
 
 [^ahmadipedia_org_waqf_e_jadid]: [ahmadipedia.org - waqf-e-jadid](https://www.ahmadipedia.org/content/scheme/19)
 
-[]
+[^alhakam_Taraqi_e_Islam_to_Tahrik_e_Jadid]: [Al-Hakam - Taraqi-e-Islam to Tahrik-e-Jadid: A single tree to a global orchard](https://www.alhakam.org/taraqi-e-islam-to-tahrik-e-jadid-a-single-tree-to-a-global-orchard/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzE4NjIwMzUsNDY3ODQ1MDExLC0xMT
+eyJoaXN0b3J5IjpbLTE1NTE1NjQyMzEsNDY3ODQ1MDExLC0xMT
 E0NjY5MjYwLC0xNDcyOTMyNzM1LC0zMzY1MjE4MDNdfQ==
 -->
