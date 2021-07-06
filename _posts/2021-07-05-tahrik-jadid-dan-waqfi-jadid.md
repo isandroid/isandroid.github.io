@@ -33,7 +33,7 @@ Beliau (ra) juga bersabda:
 
 Artikel terkait:
 
-- 
+- [Pustaka Isa - 27 Tuntutan Tahrik Jadid](/2021/04/04/27-tuntutan-tahrik-jadid.html)
 
 ### Waqfi Jadid
 
@@ -51,6 +51,6 @@ Maka, melalui petunjuk Allah Ta'ala, sebagai solusi atas masalah ini, Hazrat Mir
 
 [^ahmadipedia_org_waqf_e_jadid]: [ahmadipedia.org - waqf-e-jadid](https://www.ahmadipedia.org/content/scheme/19)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAwNTAxOTcwOCw0Njc4NDUwMTEsLTExMT
+eyJoaXN0b3J5IjpbLTI3NzM3NzYxOSw0Njc4NDUwMTEsLTExMT
 Q2NjkyNjAsLTE0NzI5MzI3MzUsLTMzNjUyMTgwM119
 -->
