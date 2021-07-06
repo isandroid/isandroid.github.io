@@ -29,7 +29,7 @@ Awalnya silsilah ini dimulai sebagai skema sementara, tetapi di akhir periode ya
 
 Beliau (ra) juga bersabda:
 
-> “Saya berharap Tahrik Jadid akan bertahan selama berabad-abad, seperti bintang-bintang di langit, begitu pula Allah Ta'ala berfirman kepada Hazrat Ibrahim bahwa keturunannya akan tak terhitung jumlahnya. Dan keturunan Hazrat Ibrahim sangat mengabdi pada iman, dan sama halnya dilakukan dengan Tahrik Jadid.” [[^ahmadipedia_org_tahrik_e_jadid]]
+> “Saya berharap Tahrik Jadid akan bertahan selama berabad-abad, seperti bintang-bintang di langit, begitu pula Allah Ta'ala berfirman kepada Hazrat Ibrahim bahwa keturunannya akan tak terhitung jumlahnya. Dan keturunan Hazrat Ibrahim sangat besar pengkhidmatannya kepada keimanan (agama) dan (hal ini) sama dengan yang dilakukan Tahrik Jadid.” [[^ahmadipedia_org_tahrik_e_jadid]]
 
 ### Waqfi Jadid
 
@@ -37,6 +37,6 @@ Beliau (ra) juga bersabda:
 
 [^ahmadipedia_org_tahrik_e_jadid]: [ahmadipedia.org - tahrik-e-jadid](https://www.ahmadipedia.org/content/scheme/7)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQyMDg0MzcyLC0xNDcyOTMyNzM1LC0zMz
-Y1MjE4MDNdfQ==
+eyJoaXN0b3J5IjpbLTExMTQ2NjkyNjAsLTE0NzI5MzI3MzUsLT
+MzNjUyMTgwM119
 -->
