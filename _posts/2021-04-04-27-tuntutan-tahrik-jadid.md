@@ -54,7 +54,7 @@ published: true
 
 23. Bentuk Darul Qada Ahmadiyah dan mematuhi keputusannya.
 
-24. Jika memungkinkan,para anggota hendaknya membangun rumah di Markaz
+24. Jika memungkinkan, para anggota hendaknya membangun rumah di Markaz
 
 25. Keluarkanlah pengorbanan uang untuk program Tabligh Khusus
 
@@ -66,5 +66,5 @@ published: true
 
 Ketentuan dan Peraturan Tahrik Jadid Anjuman Ahmadiyah -revisi 2008
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1OTAxNDQ2Nl19
+eyJoaXN0b3J5IjpbMjAzMTk3OTA2NCwxMzU5MDE0NDY2XX0=
 -->
