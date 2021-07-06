@@ -38,12 +38,18 @@ published: true
 صِرٰطَ الَّذِیۡنَ اَنۡعَمۡتَ عَلَیۡہِمۡ غَیۡرِ الۡمَغۡضُوۡبِ عَلَیۡہِمۡ وَلَا الضَّآلِّیۡنَ
 </p>
 
-([QS Al-Fatihah (1): 1-7](https://openquran.com/1))
+([QS Al-Fatihah [1]: 1-7](https://openquran.com/1))
 
 ### Doa Memohon Keamanan dan Rejeki
+
+<p class="quran">
+صِرٰطَ الَّذِیۡنَ اَنۡعَمۡتَ عَلَیۡہِمۡ غَیۡرِ الۡمَغۡضُوۡبِ عَلَیۡہِمۡ وَلَا الضَّآلِّیۡنَ
+</p>
+
+([QS Al-Baqarah [2]:127]())
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2NTAyNjgzOF19
+eyJoaXN0b3J5IjpbMTMxNTUyMjk3MF19
 -->
