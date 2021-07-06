@@ -10,9 +10,35 @@ published: true
 
 ### QS Al-Fatihah (1): 1-7
 
+<p class="quran">
+بِسۡمِ اللّٰہِ الرَّحۡمٰنِ الرَّحِیۡمِ
+</p>
 
+<p class="quran">
+اَلۡحَمۡدُ لِلّٰہِ رَبِّ الۡعٰلَمِیۡنَ
+</p>
+
+<p class="quran">
+
+</p>
+
+<p class="quran">
+
+</p>
+
+<p class="quran">
+
+</p>
+
+<p class="quran">
+
+</p>
+
+<p class="quran">
+
+</p>
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTczMDE3Mjc1XX0=
+eyJoaXN0b3J5IjpbLTk1NDgwMTUxOF19
 -->
