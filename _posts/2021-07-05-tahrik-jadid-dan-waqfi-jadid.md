@@ -23,9 +23,9 @@ Maka, pada saat itu beliau memulai silsilah Tahrik Jadid, yang tentangnya beliau
 
 > “Tujuan diadakannya Tahrik Jadid adalah untuk memperoleh dana yang dengannya risalah Allah dapat disampaikan sampai ke pelosok bumi dengan mudah dan lancar.”
 
-Awalnya  dimulai sebagai skema sementara, tetapi pada akhir sembilan belas tahun, Hazrat Muslih Ma'ud (ra) mengatakan:
+Awalnya silsilah ini dimulai sebagai skema sementara, tetapi di akhir periode yang kesembilan belas tahun, Hazrat Muslih Ma'ud (ra) bersabda:
 
-“Sekarang sembilan belas tahun akan segera berakhir, saya telah memutuskan bahwa Tahrik Jadid akan terus berlanjut hingga nafas terakhir Anda.”
+> “Sekarang sembilan belas tahun ( akan segera berakhir, saya telah memutuskan bahwa Tahrik Jadid akan terus berlanjut hingga nafas terakhir Anda.”
 
 Dia berkata:
 
@@ -37,5 +37,5 @@ Dia berkata:
 
 [^ahmadipedia_org_tahrik_e_jadid]: [ahmadipedia.org - tahrik-e-jadid](https://www.ahmadipedia.org/content/scheme/7)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0NDQ1NzA5MCwtMzM2NTIxODAzXX0=
+eyJoaXN0b3J5IjpbMTIwODYzNDg3NCwtMzM2NTIxODAzXX0=
 -->
