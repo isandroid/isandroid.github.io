@@ -8,7 +8,7 @@ published: true
 
 ## {{ page.title }}
 
-### QS Al-Fatihah (1): 1-7
+### Doa 
 
 <p class="quran">
 بِسۡمِ اللّٰہِ الرَّحۡمٰنِ الرَّحِیۡمِ
@@ -19,26 +19,26 @@ published: true
 </p>
 
 <p class="quran">
-
+اَلرَّحۡمٰنِ الرَّحِیۡمِ
 </p>
 
 <p class="quran">
-
+مٰلِکِ یَوۡمِ الدِّیۡنِ
 </p>
 
 <p class="quran">
-
+اِیَّاکَ نَعۡبُدُ وَاِیَّاکَ نَسۡتَعِیۡنُ
 </p>
 
 <p class="quran">
-
+اِہۡدِنَا الصِّرٰطَ الۡمُسۡتَقِیۡمَ
 </p>
 
 <p class="quran">
-
+صِرٰطَ الَّذِیۡنَ اَنۡعَمۡتَ عَلَیۡہِمۡ غَیۡرِ الۡمَغۡضُوۡبِ عَلَیۡہِمۡ وَلَا الضَّآلِّیۡنَ
 </p>
 
-
+QS Al-Fatihah (1): 1-7
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk1NDgwMTUxOF19
+eyJoaXN0b3J5IjpbNDgzNDgyMDc0XX0=
 -->
