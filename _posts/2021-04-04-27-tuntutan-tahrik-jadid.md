@@ -16,7 +16,7 @@ published: true
 
 4. Anggota agar mengabdikan dirinya untuk kepentingan Islam dan Ahmadiyah
 
-5. Mengorbankan masa libur musiman untuk pelayanan Jemaat
+5. Mengorbankan masa libur musiman untuk mengkhidmati Jemaat
 
 6. Mewakafkan anak-anak kalian untuk seumur hidup.
 
@@ -66,5 +66,5 @@ published: true
 
 Ketentuan dan Peraturan Tahrik Jadid Anjuman Ahmadiyah -revisi 2008
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0ODc3MDUzMF19
+eyJoaXN0b3J5IjpbMTc0NDAyMzg2M119
 -->
