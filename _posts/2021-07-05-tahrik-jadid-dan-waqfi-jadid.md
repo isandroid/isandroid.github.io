@@ -35,9 +35,9 @@ Beliau (ra) juga bersabda:
 
 Skema Tahrik Jadid diprakarsai oleh Hazrat Mirza Basyiruddin Mahmud Ahmad (ra) pada tanggal 27 December 1957. 
 
-Setelah pemisahan anak benua India, anggota Jamaah Ahmadiyah yang tinggal di kota-kota besar dapat mengambil manfaat dari nizam-e-Jamaat dan mendirikan organisasi tambahan. Namun, mereka yang tinggal di desa tidak memiliki sumber daya yang cukup untuk menghidupkan kembali infrastruktur pendidikan dan kesejahteraan moral yang diperlukan untuk membawa perubahan transformatif spiritual yang diajarkan Hazrat Mirza Ghulam Ahmad (as).
+Setelah pemisahan anak benua India, anggota Jamaah Ahmadiyah yang tinggal di kota-kota besar dapat mengambil manfaat dari nizam Jamaat dan mendirikan organisasi tambahan. Namun, mereka yang tinggal di desa tidak memiliki sumber daya yang cukup untuk menghidupkan kembali sarana pendidikan dan kesejahteraan moral yang diperlukan untuk membawa perubahan ruhani yang diajarkan Hazrat Mirza Ghulam Ahmad (as).
 
-Maka, dari hidayah Ilahi, sebagai solusi atas masalah ini, Hazrat Mirza Bashiruddin Mahmud Ahmad (ra) memprakarsai skema Waqf-e-Jadid (Pengabdian Baru) yang diberkahi. Skema ini dimulai pada 27 Desember 1957 (walaupun pertama kali disebutkan olehnya pada 9 Juli 1957, pada saat khutbah Idul Adha). Dia telah menyatakan:
+Maka, melalui pet Ilahi, sebagai solusi atas masalah ini, Hazrat Mirza Bashiruddin Mahmud Ahmad (ra) memprakarsai skema Waqf-e-Jadid (Pengabdian Baru) yang diberkahi. Skema ini dimulai pada 27 Desember 1957 (walaupun pertama kali disebutkan olehnya pada 9 Juli 1957, pada saat khutbah Idul Adha). Dia telah menyatakan:
 
 > “Sekarang, saya meluncurkan skema untuk wakaf jenis baru. Saya telah menyebutkannya dalam sebuah khotbah pada 9 Juli 1957 …
 >  
@@ -50,6 +50,6 @@ Maka, dari hidayah Ilahi, sebagai solusi atas masalah ini, Hazrat Mirza Bashirud
 
 [^ahmadipedia_org_waqf_e_jadid]: [ahmadipedia.org - waqf-e-jadid](https://www.ahmadipedia.org/content/scheme/19)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDY3ODQ1MDExLC0xMTE0NjY5MjYwLC0xND
-cyOTMyNzM1LC0zMzY1MjE4MDNdfQ==
+eyJoaXN0b3J5IjpbLTE5NzcxMDIyMDIsNDY3ODQ1MDExLC0xMT
+E0NjY5MjYwLC0xNDcyOTMyNzM1LC0zMzY1MjE4MDNdfQ==
 -->
