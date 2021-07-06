@@ -19,9 +19,9 @@ Pada tahun 1934, Ada satu gerakan anti Ahmadiyah yang bernama Majlis-e-Ahrar. Me
 
 > “Saya melihat bumi tergelincir dari bawah kaki Ahrar. Mereka mengatakan mereka akan melenyapkan Jemaat ini, tetapi Allah Ta'ala telah memberi tahu saya tentang sebuah rencana yang dengannya Jemaat akan menyebar di semua negara di dunia dan tidak seorang pun akan mampu menghancurkannya."
 
-Maka, pada saat itu beliau memulai silsilah Tahrik Jadid, yang tentangnya dia berkata:
+Maka, pada saat itu beliau memulai silsilah Tahrik Jadid, yang tentangnya beliau bersabda:
 
-“Tujuan diadakannya Tahrik Jadid adalah untuk memperoleh dana yang dengannya risalah Allah dapat disampaikan sampai ke pelosok bumi dengan mudah dan lancar.”
+> “Tujuan diadakannya Tahrik Jadid adalah untuk memperoleh dana yang dengannya risalah Allah dapat disampaikan sampai ke pelosok bumi dengan mudah dan lancar.”
 
 Ini dimulai sebagai skema sementara, tetapi pada akhir sembilan belas tahun, Hazrat Muslih Ma'ud (ra) mengatakan:
 
@@ -37,5 +37,5 @@ Dia berkata:
 
 [^ahmadipedia_org_tahrik_e_jadid]: [ahmadipedia.org - tahrik-e-jadid](https://www.ahmadipedia.org/content/scheme/7)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQwNTYyNjA5OV19
+eyJoaXN0b3J5IjpbLTMzNjUyMTgwM119
 -->
