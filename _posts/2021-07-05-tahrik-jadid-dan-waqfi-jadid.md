@@ -31,6 +31,10 @@ Beliau (ra) juga bersabda:
 
 > “Saya berharap Tahrik Jadid akan bertahan selama berabad-abad, seperti bintang-bintang di langit, begitu pula Allah Ta'ala berfirman kepada Hazrat Ibrahim bahwa keturunannya akan tak terhitung jumlahnya. Dan keturunan Hazrat Ibrahim sangat besar pengkhidmatannya kepada keimanan (agama) dan (hal ini) sama dengan yang dilakukan Tahrik Jadid.” [[^ahmadipedia_org_tahrik_e_jadid]]
 
+Artikel terkait:
+
+- 
+
 ### Waqfi Jadid
 
 Setelah pemisahan anak benua India, anggota Jamaah Ahmadiyah yang tinggal di kota-kota besar dapat mengambil manfaat dari nizam Jamaat dan mendirikan organisasi tambahan. Namun, mereka yang tinggal di desa tidak memiliki sumber daya yang cukup untuk menghidupkan kembali sarana pendidikan dan kesejahteraan moral yang diperlukan untuk membawa perubahan ruhani yang diajarkan Hazrat Mirza Ghulam Ahmad (as).
@@ -47,6 +51,6 @@ Maka, melalui petunjuk Allah Ta'ala, sebagai solusi atas masalah ini, Hazrat Mir
 
 [^ahmadipedia_org_waqf_e_jadid]: [ahmadipedia.org - waqf-e-jadid](https://www.ahmadipedia.org/content/scheme/19)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5Mzg5ODQ3NzksNDY3ODQ1MDExLC0xMT
-E0NjY5MjYwLC0xNDcyOTMyNzM1LC0zMzY1MjE4MDNdfQ==
+eyJoaXN0b3J5IjpbMTAwNTAxOTcwOCw0Njc4NDUwMTEsLTExMT
+Q2NjkyNjAsLTE0NzI5MzI3MzUsLTMzNjUyMTgwM119
 -->
