@@ -8,7 +8,7 @@ published: true
 
 ## {{ page.title }}
 
-### Doa 
+### Doa yang Sempurna
 
 <p class="quran">
 بِسۡمِ اللّٰہِ الرَّحۡمٰنِ الرَّحِیۡمِ
@@ -38,7 +38,12 @@ published: true
 صِرٰطَ الَّذِیۡنَ اَنۡعَمۡتَ عَلَیۡہِمۡ غَیۡرِ الۡمَغۡضُوۡبِ عَلَیۡہِمۡ وَلَا الضَّآلِّیۡنَ
 </p>
 
-QS Al-Fatihah (1): 1-7
+([QS Al-Fatihah (1): 1-7](https://openquran.com/1))
+
+### Doa Memohon Keamanan dan Rejeki
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDgzNDgyMDc0XX0=
+eyJoaXN0b3J5IjpbLTM2NTAyNjgzOF19
 -->
