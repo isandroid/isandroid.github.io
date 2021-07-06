@@ -20,7 +20,7 @@ published: true
 
 6. Mewakafkan anak-anak kalian untuk seumur hidup.
 
-7. Para pensiunan agar menyediakan diri untuk melayani Jemaat.
+7. Para pensiunan agar menyediakan diri untuk mengkhidmati Jemaat.
 
 8. Mendedikasikan sebagian dari penghasilan dan kekayaan kalian.
 
@@ -66,5 +66,5 @@ published: true
 
 Ketentuan dan Peraturan Tahrik Jadid Anjuman Ahmadiyah -revisi 2008
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0NDAyMzg2M119
+eyJoaXN0b3J5IjpbMTM2OTkzNjA1M119
 -->
