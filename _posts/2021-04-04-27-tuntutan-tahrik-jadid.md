@@ -22,7 +22,7 @@ published: true
 
 7. Para pensiunan agar menyediakan diri untuk mengkhidmati Jemaat.
 
-8. Mendedikasikan sebagian dari penghasilan dan kekayaan kalian.
+8. Mengorbankan sebagian dari penghasilan dan kekayaan kalian.
 
 9. Para Ahmadi terpelajar dan berpengaruh agar memberikan kuliah-kuliah.
 
@@ -66,5 +66,5 @@ published: true
 
 Ketentuan dan Peraturan Tahrik Jadid Anjuman Ahmadiyah -revisi 2008
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2OTkzNjA1M119
+eyJoaXN0b3J5IjpbMTM1OTAxNDQ2Nl19
 -->
