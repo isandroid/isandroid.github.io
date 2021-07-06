@@ -43,7 +43,7 @@ Dua tujuan utama dari skema ini adalah,
 
 - dan kedua, untuk mendirikan misi Ahmadiyah di luar negeri. 
 
-Hazrat Muslih Mau'ud (ra) menekan gerakan anti-Ahmadiyya dengan melintasi perbatasan India dan menyebarkan Jemaat ke setiap sudut dunia – skema baru diumumkan pada tahun 1934 dan diberi nama “Tahrik-e-Jadid”.
+Hazrat Muslih Mau'ud (ra) menekan gerakan anti-Ahmadiyya dengan melintasi perbatasan India dan menyebarkan Jemaat ke setiap sudut dunia – skema baru diumumkan pada tahun 1934 dan diberi nama “Tahrik-e-Jadid” [[^alhakam_benteng_muhammad]].
 
 Artikel terkait:
 
@@ -67,9 +67,9 @@ Maka, melalui petunjuk Allah Ta'ala, sebagai solusi atas masalah ini, Hazrat Mir
 
 [^alhakam_Taraqi_e_Islam_to_Tahrik_e_Jadid]: [Al-Hakam - Taraqi-e-Islam to Tahrik-e-Jadid: A single tree to a global orchard](https://www.alhakam.org/taraqi-e-islam-to-tahrik-e-jadid-a-single-tree-to-a-global-orchard/)
 
-[^alhakam_Taraqi_e_Islam_to_Tahrik_e_Jadid]: [Al-Hakam - Taraqi-e-Islam to Tahrik-e-Jadid: A single tree to a global orchard](https://www.alhakam.org/forts-of-muhammad-tahrik-e-jadids-foreign-mosques-and-missions/)
+[^alhakam_benteng_muhammad]: [Al-Hakam - “Forts of Muhammad”: Tahrik-e-Jadid’s foreign mosques and missions](https://www.alhakam.org/forts-of-muhammad-tahrik-e-jadids-foreign-mosques-and-missions/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTMwNzgyNTQsLTEwOTExNTY2MzEsLT
-E1NTE1NjQyMzEsNDY3ODQ1MDExLC0xMTE0NjY5MjYwLC0xNDcy
-OTMyNzM1LC0zMzY1MjE4MDNdfQ==
+eyJoaXN0b3J5IjpbNTMwNTkwNTgyLC0xMDkxMTU2NjMxLC0xNT
+UxNTY0MjMxLDQ2Nzg0NTAxMSwtMTExNDY2OTI2MCwtMTQ3Mjkz
+MjczNSwtMzM2NTIxODAzXX0=
 -->
