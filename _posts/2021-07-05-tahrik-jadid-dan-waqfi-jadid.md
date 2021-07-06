@@ -35,7 +35,7 @@ Hadhrat Khalifatul Masih II (ra) membentuk sebuah komite dan membuatnya bertangg
 
 Hadhrat Khalifatul Masih II (ra) menunjuk Hazrat Maulvi Sher Ali (ra) sebagai sekretaris komite. Semua usaha tabligh dilakukan oleh **Anjuman Taraqi-e-Islam** ini selama beberapa dekade berikutnya. Missi ke luar negeri dimulai, para mubalig dikirim ke luar negeri, literatur diterbitkan dan diedarkan ke seluruh dunia dan banyak lagi.
 
-Inisiatif inilah yang kemudian berkembang menjadi **Tahrik Jadid** pada tahun 1934 oleh Hazrat Khalifatul Masih II ra  melalui ilham. Skema ini mengambil alih tugas Anjuman Taraqi-e-Islam tetapi dikembangkan di atas skema yang jauh lebih luas; Ekspansi global Jemaat membutuhkan pandangan internasional dan itulah yang menjadi dasar Tahrik Jadid. Berbagai departemen – otonom dalam fungsinya – dikembangkan dan ditunjuk dengan tugas keuangan, publikasi, misi luar negeri, pendidikan, dll [[^alhakam_Taraqi_e_Islam_to_Tahrik_e_Jadid]].
+Inisiatif inilah yang kemudian berkembang menjadi **Tahrik Jadid** pada tahun 1934 oleh Hazrat Khalifatul Masih II ra  melalui ilham. Skema ini mengambil alih tugas Anjuman Taraqi-e-Islam tetapi dikembangkan di atas skema yang jauh lebih luas; Perluasan mendunia Jemaat membutuhkan pandangan internasional dan itulah yang menjadi dasar Tahrik Jadid. Berbagai departemen – otonom dalam fungsinya – dikembangkan dan ditunjuk dengan tugas keuangan, publikasi, misi luar negeri, pendidikan, dll. [[^alhakam_Taraqi_e_Islam_to_Tahrik_e_Jadid]].
 
 Dua tujuan utama dari skema ini adalah, 
 
@@ -69,8 +69,8 @@ Maka, melalui petunjuk Allah Ta'ala, sebagai solusi atas masalah ini, Hazrat Mir
 
 [^alhakam_benteng_muhammad]: [Al-Hakam - “Forts of Muhammad”: Tahrik-e-Jadid’s foreign mosques and missions](https://www.alhakam.org/forts-of-muhammad-tahrik-e-jadids-foreign-mosques-and-missions/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTg3OTIyOTIwLDU5NzUwNTQ5Miw1MzA1OT
-A1ODIsLTEwOTExNTY2MzEsLTE1NTE1NjQyMzEsNDY3ODQ1MDEx
-LC0xMTE0NjY5MjYwLC0xNDcyOTMyNzM1LC0zMzY1MjE4MDNdfQ
-==
+eyJoaXN0b3J5IjpbMjA3MTY0MjIwNyw1OTc1MDU0OTIsNTMwNT
+kwNTgyLC0xMDkxMTU2NjMxLC0xNTUxNTY0MjMxLDQ2Nzg0NTAx
+MSwtMTExNDY2OTI2MCwtMTQ3MjkzMjczNSwtMzM2NTIxODAzXX
+0=
 -->
