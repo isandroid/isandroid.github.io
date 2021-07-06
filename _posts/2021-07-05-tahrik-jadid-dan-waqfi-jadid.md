@@ -15,7 +15,7 @@ published: true
 
 ### Tahrik Jadid
 
-Pada tahun 1934, Majlis-e-Ahrar memulai agitasi terhadap Jemaat [Masyarakat] dan menyatakan bahwa mereka tidak akan beristirahat sampai mereka menghapus Jemaat dari muka bumi. Sebagai tanggapan, Hazrat Mirza Bashiruddin Mahmud Ahmad, Khalifatul Masih II (ra):
+Pada tahun 1934, Ada satu gerakan anti Ahmadiyah yang bernama Majlis-e-Ahrar. Mereka memulai menghasut masyarakat gerakan terhadap Jemaat [Masyarakat] dan menyatakan bahwa mereka tidak akan beristirahat sampai mereka menghapus Jemaat dari muka bumi. Sebagai tanggapan, Hazrat Mirza Bashiruddin Mahmud Ahmad, Khalifatul Masih II (ra):
 
 “Saya melihat bumi tergelincir dari bawah kaki Ahrar. Mereka mengatakan mereka akan melenyapkan Jemaat ini, tetapi Allah SWT telah memberi tahu saya tentang sebuah rencana yang dengannya Jemaat akan menyebar di semua negara di dunia dan tidak seorang pun akan mampu menghancurkannya."
 
@@ -37,5 +37,5 @@ Dia berkata:
 
 [^ahmadipedia_org_tahrik_e_jadid]: [ahmadipedia.org - tahrik-e-jadid](https://www.ahmadipedia.org/content/scheme/7)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzc3MTAyNTg4XX0=
+eyJoaXN0b3J5IjpbLTc1MzE3OTg4OV19
 -->
