@@ -35,9 +35,7 @@ Hadhrat Khalifatul Masih II (ra) membentuk sebuah komite dan membuatnya bertangg
 
 Hadhrat Khalifatul Masih II (ra) menunjuk Hazrat Maulvi Sher Ali (ra) sebagai sekretaris komite. Semua usaha tabligh dilakukan oleh **Anjuman Taraqi-e-Islam** ini selama beberapa dekade berikutnya. Misi ke luar negeri dimulai, para mubalig dikirim ke luar negeri, literatur diterbitkan dan diedarkan ke seluruh dunia dan banyak lagi.
 
-Inisiatif inilah yang kemudian berkembang menjadi **Tahrik Jadid** pada tahun 1934 oleh Hazrat Khalifatul Masih II ra  melalui ilham. Skema ini mengambil alih tugas Anjuman Taraqi-e-Islam tetapi dikembangkan di atas skema yang jauh lebih luas; Ekspansi global Jemaat membutuhkan pandangan internasional dan itulah yang menjadi dasar Tahrik Jadid. Berbagai departemen – otonom dalam fungsinya – dikembangkan dan ditunjuk dengan tugas keuangan, publikasi, misi luar negeri, pendidikan, dll.
-
- [[^alhakam_Taraqi_e_Islam_to_Tahrik_e_Jadid]].
+Inisiatif inilah yang kemudian berkembang menjadi **Tahrik Jadid** pada tahun 1934 oleh Hazrat Khalifatul Masih II ra  melalui ilham. Skema ini mengambil alih tugas Anjuman Taraqi-e-Islam tetapi dikembangkan di atas skema yang jauh lebih luas; Ekspansi global Jemaat membutuhkan pandangan internasional dan itulah yang menjadi dasar Tahrik Jadid. Berbagai departemen – otonom dalam fungsinya – dikembangkan dan ditunjuk dengan tugas keuangan, publikasi, misi luar negeri, pendidikan, dll [[^alhakam_Taraqi_e_Islam_to_Tahrik_e_Jadid]].
 
 Artikel terkait:
 
@@ -61,7 +59,7 @@ Maka, melalui petunjuk Allah Ta'ala, sebagai solusi atas masalah ini, Hazrat Mir
 
 [^alhakam_Taraqi_e_Islam_to_Tahrik_e_Jadid]: [Al-Hakam - Taraqi-e-Islam to Tahrik-e-Jadid: A single tree to a global orchard](https://www.alhakam.org/taraqi-e-islam-to-tahrik-e-jadid-a-single-tree-to-a-global-orchard/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk1NzIyNjI1NSwtMTU1MTU2NDIzMSw0Nj
-c4NDUwMTEsLTExMTQ2NjkyNjAsLTE0NzI5MzI3MzUsLTMzNjUy
-MTgwM119
+eyJoaXN0b3J5IjpbLTEwOTExNTY2MzEsLTE1NTE1NjQyMzEsND
+Y3ODQ1MDExLC0xMTE0NjY5MjYwLC0xNDcyOTMyNzM1LC0zMzY1
+MjE4MDNdfQ==
 -->
