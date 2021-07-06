@@ -37,6 +37,14 @@ Hadhrat Khalifatul Masih II (ra) menunjuk Hazrat Maulvi Sher Ali (ra) sebagai se
 
 Inisiatif inilah yang kemudian berkembang menjadi **Tahrik Jadid** pada tahun 1934 oleh Hazrat Khalifatul Masih II ra  melalui ilham. Skema ini mengambil alih tugas Anjuman Taraqi-e-Islam tetapi dikembangkan di atas skema yang jauh lebih luas; Ekspansi global Jemaat membutuhkan pandangan internasional dan itulah yang menjadi dasar Tahrik Jadid. Berbagai departemen – otonom dalam fungsinya – dikembangkan dan ditunjuk dengan tugas keuangan, publikasi, misi luar negeri, pendidikan, dll [[^alhakam_Taraqi_e_Islam_to_Tahrik_e_Jadid]].
 
+Dua tujuan utama dari skema ini adalah, 
+
+- pertama, agar semua Ahmadiyah fokus pada reformasi moral dan spiritual 
+
+- dan kedua, untuk mendirikan misi Ahmadiyah di luar negeri. 
+
+Hazrat Muslih Mau'ud (ra) menekan gerakan anti-Ahmadiyya dengan melintasi perbatasan India dan menyebarkan Jemaat ke setiap sudut dunia – skema baru diumumkan pada tahun 1934 dan diberi nama “Tahrik-e-Jadid”.
+
 Artikel terkait:
 
 - [Pustaka Isa - 27 Tuntutan Tahrik Jadid](/2021/04/04/27-tuntutan-tahrik-jadid.html)
@@ -58,8 +66,10 @@ Maka, melalui petunjuk Allah Ta'ala, sebagai solusi atas masalah ini, Hazrat Mir
 [^ahmadipedia_org_waqf_e_jadid]: [ahmadipedia.org - waqf-e-jadid](https://www.ahmadipedia.org/content/scheme/19)
 
 [^alhakam_Taraqi_e_Islam_to_Tahrik_e_Jadid]: [Al-Hakam - Taraqi-e-Islam to Tahrik-e-Jadid: A single tree to a global orchard](https://www.alhakam.org/taraqi-e-islam-to-tahrik-e-jadid-a-single-tree-to-a-global-orchard/)
+
+[^alhakam_Taraqi_e_Islam_to_Tahrik_e_Jadid]: [Al-Hakam - Taraqi-e-Islam to Tahrik-e-Jadid: A single tree to a global orchard](https://www.alhakam.org/forts-of-muhammad-tahrik-e-jadids-foreign-mosques-and-missions/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTExNTY2MzEsLTE1NTE1NjQyMzEsND
-Y3ODQ1MDExLC0xMTE0NjY5MjYwLC0xNDcyOTMyNzM1LC0zMzY1
-MjE4MDNdfQ==
+eyJoaXN0b3J5IjpbLTE0OTMwNzgyNTQsLTEwOTExNTY2MzEsLT
+E1NTE1NjQyMzEsNDY3ODQ1MDExLC0xMTE0NjY5MjYwLC0xNDcy
+OTMyNzM1LC0zMzY1MjE4MDNdfQ==
 -->
