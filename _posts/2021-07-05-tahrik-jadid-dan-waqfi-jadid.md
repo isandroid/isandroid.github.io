@@ -1,8 +1,8 @@
 ---
 title: Penjelasan tentang Tahrik Jadid dan Waqfi Jadid
 layout: post
-tags: pengorbanan tahrik-
-description: beberapa doa yang diwahyukan kepada hadhrat masih mau'ud
+tags: pengorbanan
+description: beberapa penjelasan tentang silsilah tahrik jadid dan waqfi jadid 
 published: true
 ---
 <p class="quran">
@@ -11,6 +11,11 @@ published: true
 
 ## {{ page.title }}
 
+
+
+### Tahrik Jadid
+
+### Waqfi Jadid
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0Nzk5MTcxMV19
+eyJoaXN0b3J5IjpbMTQyMTI2MzI1NF19
 -->
