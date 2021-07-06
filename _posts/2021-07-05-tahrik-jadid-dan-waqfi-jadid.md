@@ -25,9 +25,9 @@ Maka, pada saat itu beliau memulai silsilah Tahrik Jadid, yang tentangnya beliau
 
 Awalnya silsilah ini dimulai sebagai skema sementara, tetapi di akhir periode yang kesembilan belas tahun, Hazrat Muslih Ma'ud (ra) bersabda:
 
-> “Sekarang sembilan belas tahun ( akan segera berakhir, saya telah memutuskan bahwa Tahrik Jadid akan terus berlanjut hingga nafas terakhir Anda.”
+> “Sekarang sembilan belas tahun (Tahrik Jadid) akan segera berakhir, saya telah memutuskan bahwa Tahrik Jadid akan terus berlanjut hingga nafas terakhir kalian”
 
-Dia berkata:
+Beliau (ra) ju:
 
 “Saya berharap Tahrik-e-Jadid akan bertahan selama berabad-abad, seperti bintang-bintang di langit, begitu pula Allah berfirman kepada Hazrat Ibrahim bahwa keturunannya akan tak terhitung jumlahnya. Dan keturunan Hazrat Ibrahim sangat mengabdi pada iman, dan sama halnya dilakukan dengan Tahrik Jadid.” [[^ahmadipedia_org_tahrik_e_jadid]]
 
@@ -37,5 +37,5 @@ Dia berkata:
 
 [^ahmadipedia_org_tahrik_e_jadid]: [ahmadipedia.org - tahrik-e-jadid](https://www.ahmadipedia.org/content/scheme/7)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIwODYzNDg3NCwtMzM2NTIxODAzXX0=
+eyJoaXN0b3J5IjpbLTE0NzI5MzI3MzUsLTMzNjUyMTgwM119
 -->
