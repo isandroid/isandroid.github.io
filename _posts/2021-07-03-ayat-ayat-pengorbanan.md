@@ -144,6 +144,10 @@ Demikianlah, semoga petunjuk-petunjuk dari Alquran tersebut bisa menjadikan kita
 
 *Wassalamu 'alaikum wa rahmatullohi wa barokaatuh*.
 
+### Video
+
+<iframe width="360" height="200" src="https://www.youtube.com/embed/xSA2jA_h6es" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ### Catatan Kaki
 
 [^almaany_qurbaanun]: [Kamus Al-Maany - kata *qurbaanun*](https://www.almaany.com/id/dict/ar-id/%D9%82%D8%B1%D8%A8%D8%A7%D9%86/) 
@@ -156,11 +160,11 @@ Demikianlah, semoga petunjuk-petunjuk dari Alquran tersebut bisa menjadikan kita
 37:108 -- pengorbanan nabi Ibrohim
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTUwMDI3NjcsLTE1ODczODc3MzksOT
-Y4NjExODA2LC0xMjEyOTk3MDYyLDE1MTc2OTMwMzIsLTE1ODYz
-NDU0MTQsLTE1NDU0MDYwMzQsLTYzMTM3MDkzOSwtMTY4MjYxND
-U5NSwtOTAxNjA4NTA3LC0xNzE1NDYxMDc5LC0yMDMyNDI4Njk1
-LDIwMTkxODUxNDAsNDAxODE3MDE1LDE3NjIzNTM2NjUsLTE3Mz
-I1MjMwMTgsNzMzODMyNzE5LC0xMTU5NzYxNzU5LDEwNTg4MjIz
-OTgsLTE2NjM2OTUzMDNdfQ==
+eyJoaXN0b3J5IjpbLTM1MDI3MjA5NCwtMTQ5NTAwMjc2NywtMT
+U4NzM4NzczOSw5Njg2MTE4MDYsLTEyMTI5OTcwNjIsMTUxNzY5
+MzAzMiwtMTU4NjM0NTQxNCwtMTU0NTQwNjAzNCwtNjMxMzcwOT
+M5LC0xNjgyNjE0NTk1LC05MDE2MDg1MDcsLTE3MTU0NjEwNzks
+LTIwMzI0Mjg2OTUsMjAxOTE4NTE0MCw0MDE4MTcwMTUsMTc2Mj
+M1MzY2NSwtMTczMjUyMzAxOCw3MzM4MzI3MTksLTExNTk3NjE3
+NTksMTA1ODgyMjM5OF19
 -->
