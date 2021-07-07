@@ -206,7 +206,9 @@ Keterangan: Doa ini dipanjatkan oleh orang-orang yang berilmu (yang senantiasa m
 رَبَّنَا وَاٰتِنَا مَا وَعَدتَّنَا عَلٰی رُسُلِکَ وَلَا تُخۡزِنَا یَوۡمَ الۡقِیٰمَۃِ ۗ اِنَّکَ لَا تُخۡلِفُ الۡمِیۡعَادَ
 </p>
 
-“Wahai Tuhan kami, sesungguhnya kami telah mendengar seorang Penyeru memanggil kami kepada keimanan seraya berkata, “Berimanlah kamu kepada Tuhanmu”, maka kami beriman. Wahai Tuhan kami, ampunilah bagi kami dosa-dosa kami, hapuskanlah dari kami kesalahan-kesalahan kami, dan wafatkanlah kami bersama orang-orang baik.” ([QS Aali-'Imraan [3]:[194](https://openquran.com/3:194)-[195](https://openquran.com/3:195))
+“Wahai Tuhan kami, sesungguhnya kami telah mendengar seorang Penyeru memanggil *kami* kepada keimanan *seraya berkata*, “Berimanlah kamu kepada Tuhanmu”, maka kami beriman. Wahai Tuhan kami, ampunilah bagi kami dosa-dosa kami, hapuskanlah dari kami kesalahan-kesalahan kami, dan wafatkanlah kami bersama orang-orang baik.” 
+
+“Wahai Tuhan kami, karena itu berikanlah kepada kami apa yang telah Engkau janjikan kepada kami dengan perantaraan rasul-rasul Engkau; dan janganlah Engkau hinakan kami pada Hari Kiamat. Sesungguhnya, Engkau tidak *pernah* menyalahi janji.” ([QS Aali-'Imraan [3]:[194](https://openquran.com/3:194)-[195](https://openquran.com/3:195))
 
 ### 16. Doa Meminta Dipelihara dari Negeri yang Penduduknya Zhalim
 
@@ -978,7 +980,7 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1MDE4MjM4OSwtMTUzMzk4OTk5NCwtOD
+eyJoaXN0b3J5IjpbMTUwMTEyMTg2MiwtMTUzMzk4OTk5NCwtOD
 IwODA0NTk1LC0xNDA3NTI5MzMwLC0yOTQyNDI1MDMsLTExODc3
 NDIxMTEsLTQ4MTkxMzc1MCw0ODExNzMxNjgsMTc2ODI2MTg4Ny
 wxMDc5MzA0MTI5LC0xMzgwMTk0NjAwLDEyNzkyMzQ1MjcsLTE1
