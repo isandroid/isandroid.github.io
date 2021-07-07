@@ -333,8 +333,8 @@ Keterangan:
 - Nabi Musa (as) mencengkeram kepala Nabi Harun (as), bukan karena Harun (as) telah membiarkan atau menyokong perbuatan pemujaan lembu, melainkan karena Nabi Harun (as) tidak berhasil mencegah kaumnya menyembah lembu. 
 - Nabi Musa (as) menunjukkan kegusaran karena Nabi Harun (as) tidak berhasil mengelola urusan-urusan agama dengan sebaik-baiknya selagi nabi Musa (as) tidak ada di tempat. 
 - Kemarahan itu beralasan, sebab suatu penodaan besar telah dilakukan dan seluruh pekerjaan Nabi Musa (as) selama hidupnya telah terancam bahaya.
-- Ini adalah doa yang dipanjatkan oleh Nabi Musa (as) setelah kemarahan beliau mereda. Beliau memohon ampun kepada Allah atas kelemahan-kelemahan yang telah terjadi.
-- 
+- Ini adalah doa yang dipanjatkan oleh Nabi Musa (as) setelah kemarahan beliau mereda. Beliau memohon ampun kepada Allah (dan saudaranya, Nabi Harun (as)) atas kelemahan-kelemahan yang telah terjadi.
+
 ### 27. Doa Memohon Ampun dan Meminta Rahmat 
 
 <p class="quran">
@@ -1007,11 +1007,11 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3NTg0Mjg2NywxNTAxMTIxODYyLC0xNT
-MzOTg5OTk0LC04MjA4MDQ1OTUsLTE0MDc1MjkzMzAsLTI5NDI0
-MjUwMywtMTE4Nzc0MjExMSwtNDgxOTEzNzUwLDQ4MTE3MzE2OC
-wxNzY4MjYxODg3LDEwNzkzMDQxMjksLTEzODAxOTQ2MDAsMTI3
-OTIzNDUyNywtMTU2NjAxNzI4MCwtMTkyNzU5MjEyLC0xMjI5MT
-UwMDc2LC03NTMyMTE2ODcsLTEyMzMyMTYzMSwxODAyNzQ3ODg5
-LC00MzI4MzkxOTJdfQ==
+eyJoaXN0b3J5IjpbMTkyNzU0OTgyLDE1MDExMjE4NjIsLTE1Mz
+M5ODk5OTQsLTgyMDgwNDU5NSwtMTQwNzUyOTMzMCwtMjk0MjQy
+NTAzLC0xMTg3NzQyMTExLC00ODE5MTM3NTAsNDgxMTczMTY4LD
+E3NjgyNjE4ODcsMTA3OTMwNDEyOSwtMTM4MDE5NDYwMCwxMjc5
+MjM0NTI3LC0xNTY2MDE3MjgwLC0xOTI3NTkyMTIsLTEyMjkxNT
+AwNzYsLTc1MzIxMTY4NywtMTIzMzIxNjMxLDE4MDI3NDc4ODks
+LTQzMjgzOTE5Ml19
 -->
