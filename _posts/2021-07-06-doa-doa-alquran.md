@@ -684,45 +684,101 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 
 ### 65. Doa Memohon Anak yang Saleh
 
+<p class="quran">
+
+</p>
+
 (37:101)
 
 ### 66. Doa Memohon Pertolongan
+
+<p class="quran">
+
+</p>
 
 (29:31)
 
 ### 67. Doa Nabi Sulaiman (as)
 
+<p class="quran">
+
+</p>
+
 (38:36)
 
 ### 68. Menyatakan Kebesaran Tuhan
+
+<p class="quran">
+
+</p>
 
 (39:47)
 
 ### 69. Doa Meminta Dipelihara dari Api Neraka dan Doa untuk Orang-orang yang Bertobat agar Mereka Dimasukkan ke dalam Surga
 
+<p class="quran">
+
+</p>
+
+<p class="quran">
+
+</p>
+
+<p class="quran">
+
+</p>
+
 (40:8-10)
 
 ### 70. Doa Menyerahkan Segala Pekerjaan kepada Allah 
+
+<p class="quran">
+
+</p>
 
 (40:45)
 
 ### 71. Doa Naik Kendaraan
 
+<p class="quran">
+
+</p>
+
 (43:14)
 
 ### 72. Doa Bersyukur atas Nikmat Tuhan
+
+<p class="quran">
+
+</p>
 
 (46:16)
 
 ### 73. Doa Memohon Pertolongan
 
+<p class="quran">
+
+</p>
+
 (54:11)
 
 ### 74. Doa Memohon Dijauhkan dari Hasad dan Dengki serta Doa Memohon Ampunan
 
+<p class="quran">
+
+</p>
+
 (59:11)
 
 ### 75. Doa Memohon Dipelihara dari Fitnah Orang Kafir 
+
+<p class="quran">
+
+</p>
+
+<p class="quran">
+
+</p>
 
 (60:5-6)
 
@@ -755,7 +811,7 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDcxNTA2MDksLTE0MDY1MzU5NDIsLT
+eyJoaXN0b3J5IjpbLTEwMjk0MDgyNjEsLTE0MDY1MzU5NDIsLT
 k0MTY1MzE3OCwtMjA5NjA3OTM4MCwtMTk2OTk5MzE3NCw3NDM3
 NjM4MDAsLTE2MjcwMzc1NzAsMzE0OTg0MTYsNjQwMjUxOTQ1LC
 02MjAwOTk0NzYsMjA4NDA1ODQ4Nl19
