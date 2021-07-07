@@ -723,7 +723,7 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 ### 69. Doa Meminta Dipelihara dari Api Neraka dan Doa untuk Orang-orang yang Bertobat agar Mereka Dimasukkan ke dalam Surga
 
 <p class="quran">
-
+رَبَّنَا وَسِعۡتَ کُلَّ شَیۡءٍ رَّحۡمَۃً وَّعِلۡمًا فَاغۡفِرۡ لِلَّذِیۡنَ تَابُوۡا وَاتَّبَعُوۡا سَبِیۡلَکَ وَقِہِمۡ عَذَابَ الۡجَحِیۡمِ
 </p>
 
 <p class="quran">
@@ -734,7 +734,7 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 
 </p>
 
-(40:8-10)
+(QS Al-Mu-min [40]:[8](https://openquran.com/40:8), [9](https://openquran.com/40:9), [10](https://openquran.com/40))
 
 ### 70. Doa Menyerahkan Segala Pekerjaan kepada Allah 
 
@@ -963,7 +963,7 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA3MTE5MzM3MywtNDgxOTEzNzUwLDQ4MT
+eyJoaXN0b3J5IjpbLTY2MDQxNTAyOCwtNDgxOTEzNzUwLDQ4MT
 E3MzE2OCwxNzY4MjYxODg3LDEwNzkzMDQxMjksLTEzODAxOTQ2
 MDAsMTI3OTIzNDUyNywtMTU2NjAxNzI4MCwtMTkyNzU5MjEyLC
 0xMjI5MTUwMDc2LC03NTMyMTE2ODcsLTEyMzMyMTYzMSwxODAy
