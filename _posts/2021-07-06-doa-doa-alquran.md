@@ -425,11 +425,11 @@ Keterangan:
  رَبِّ قَدۡ اٰتَیۡتَنِیۡ مِنَ الۡمُلۡکِ وَعَلَّمۡتَنِیۡ مِنۡ تَاۡوِیۡلِ الۡاَحَادِیۡثِ ۚ فَاطِرَ السَّمٰوٰتِ وَالۡاَرۡضِ اَنۡتَ وَلِیّٖ فِی الدُّنۡیَا وَالۡاٰخِرَۃِ ۖ تَوَفَّنِیۡ مُسۡلِمًا وَّاَلۡحِقۡنِیۡ بِالصّٰلِحِیۡنَ
 </p>
 
-“Ya Tuhan-ku, Engkau telah menganugerahkan *sebagian* kedaulatan kepadaku, dan a mengajarku ta’wil mimpi. Wahai Pencipta seluruh langit dan bumi, Engkau-lah Penolongku di dunia dan akhirat. Wafatkanlah aku dalam *keadaan* patuh *taat kepada kehendak Engkau* dan gabungkanlah aku dengan orangorang yang saleh.” ([QS Yusuf [12]:102](https://openquran.com/12:102))
+“Ya Tuhan-ku, Engkau telah menganugerahkan *sebagian* kedaulatan kepadaku, dan a mengajarku ta’wil mimpi." ([QS Yusuf [12]:102](https://openquran.com/12:102))
 
 Keterangan: 
 - Doa ini dipanjatkan oleh Nabi Yusuf (as) ketika beliau telah menjadi bendahara khazanah kerajaan Firaun. 
-- Mimpi-mimpi (nubuwwatan) yang datang dari Allah Ta'ala telah genap-sempurna; yakni beliau (as) dipertemukan dengan keluarganya dan saudara-saudaranya.
+- Mimpi-mimpi (nubuwwatan) yang datang dari Allah Ta'ala telah genap-sempurna; yakni beliau (as) dibebaskan dari penjara dan dipertemukan dengan keluarganya dan saudara-saudaranya.
 
 ### 35. Doa Memohon Keselamatan Iman
 
@@ -437,7 +437,10 @@ Keterangan:
 فَاطِرَ السَّمٰوٰتِ وَالۡاَرۡضِ اَنۡتَ وَلِیّٖ فِی الدُّنۡیَا وَالۡاٰخِرَۃِ ۖ تَوَفَّنِیۡ مُسۡلِمًا وَّاَلۡحِقۡنِیۡ بِالصّٰلِحِیۡنَ
 </p>
 
-([QS Yusuf [12]:102](https://openquran.com/12:102))
+"Wahai Pencipta seluruh langit dan bumi, Engkau-lah Penolongku di dunia dan akhirat. Wafatkanlah aku dalam *keadaan* patuh *taat kepada kehendak Engkau* dan gabungkanlah aku dengan orang-orang yang saleh.” ([QS Yusuf [12]:102](https://openquran.com/12:102))
+
+Keterangan: 
+- Doa ini dipanjatkan oleh Nabi Yusuf (as)
 
 ### 36. Doa Memohon Dilapangkan Rejeki, Memohon agar Anak-Cucu Kita Menjadi Orang Shaleh 
 
@@ -1035,7 +1038,7 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2MDYxMDc5NiwxNTAxMTIxODYyLC0xNT
+eyJoaXN0b3J5IjpbMTM0MzY1Njk0MiwxNTAxMTIxODYyLC0xNT
 MzOTg5OTk0LC04MjA4MDQ1OTUsLTE0MDc1MjkzMzAsLTI5NDI0
 MjUwMywtMTE4Nzc0MjExMSwtNDgxOTEzNzUwLDQ4MTE3MzE2OC
 wxNzY4MjYxODg3LDEwNzkzMDQxMjksLTEzODAxOTQ2MDAsMTI3
