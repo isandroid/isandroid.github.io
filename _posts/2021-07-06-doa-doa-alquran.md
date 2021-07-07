@@ -356,8 +356,8 @@ Keterangan:
 
 “Dan tetapkanlah bagi kami kebaikan di dunia ini dan di akhirat; sesungguhnya kami telah kembali dengan bertobat kepada Engkau.” ([QS Al-A'roof [7]:157](https://openquran.com/7:157))
 
-- Doa ini dipanjatkan Nabi Musa (as) sebagai sambungan dari ayat sebelumnya ([QS Al-A'roof [7]:156](https://openquran.com/7:156))
-- Kala itu Nabi Musa sedang memilih tujuh puluh orang laki-laki dari kaumnya untuk menepati perjanjian kepada Allah Ta'ala (melaksanakan baiat) dan terjadi gempa.
+- Doa ini dipanjatkan Nabi Musa (as) sebagai sambungan dari ayat sebelumnya ([QS Al-A'roof [7]:156](https://openquran.com/7:156)) ketika terjadi gempa.
+- Setelah doa itu dipanjatkan Allah Ta'ala berfirman, ”Azab-Ku akan Ku-timpakan kepada siapa yang Aku kehendaki; tetapi rahmat-Ku meliputi segala sesuatu; maka pasti Aku akan menetapkannya bagi orang-orang yang bertakwa, mereka yang membayar zakat, dan mereka yang beriman kepada ayat-ayat Kami.”
 
 ### 29. Tawakkal dan Menyerah kepada Allah 
 
@@ -1015,7 +1015,7 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk1NDgwNzA0OCwxNTAxMTIxODYyLC0xNT
+eyJoaXN0b3J5IjpbMTA0NTk2ODQ5MywxNTAxMTIxODYyLC0xNT
 MzOTg5OTk0LC04MjA4MDQ1OTUsLTE0MDc1MjkzMzAsLTI5NDI0
 MjUwMywtMTE4Nzc0MjExMSwtNDgxOTEzNzUwLDQ4MTE3MzE2OC
 wxNzY4MjYxODg3LDEwNzkzMDQxMjksLTEzODAxOTQ2MDAsMTI3
