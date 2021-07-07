@@ -50,9 +50,15 @@ published: true
 
 ### 3. Doa Agar Kita dan Anak-anak Kita Menjadi Orang yang Benar-benar Taat kepada Allah Ta’ala
 
+<p class="quran">
+رَبَّنَا تَقَبَّلۡ مِنَّاۤ ۖ اِنَّکَ اَنۡتَ السَّمِیۡعُ الۡعَلِیۡمُ
+</p>
 
+<p class="quran">
 
- (QS Al-Baqarah [2]:[128](), [129]())
+</p>
+
+ (QS Al-Baqarah [2]:[128](https://openquran.com/2:128), [129](https://openquran.com/2:129))
 
 ### 4. Doa Memohon Kebaikan untuk Dunia dan akhirat 
 
@@ -381,7 +387,7 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2NzUzMTkxNSwtMTk2OTk5MzE3NCw3ND
-M3NjM4MDAsLTE2MjcwMzc1NzAsMzE0OTg0MTYsNjQwMjUxOTQ1
-LC02MjAwOTk0NzYsMjA4NDA1ODQ4Nl19
+eyJoaXN0b3J5IjpbLTIwOTYwNzkzODAsLTE5Njk5OTMxNzQsNz
+QzNzYzODAwLC0xNjI3MDM3NTcwLDMxNDk4NDE2LDY0MDI1MTk0
+NSwtNjIwMDk5NDc2LDIwODQwNTg0ODZdfQ==
 -->
