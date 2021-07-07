@@ -119,13 +119,14 @@ published: true
 ### 11. Memuji Kebesaran Tuhan dan Doa untuk Mencapai Kemajuan
 
 <p class="quran">
-
+اللّٰہُمَّ مٰلِکَ الۡمُلۡکِ تُؤۡتِی الۡمُلۡکَ مَنۡ تَشَآءُ وَتَنۡزِعُ الۡمُلۡکَ مِمَّنۡ تَشَآءُ وَتُعِزُّ مَنۡ تَشَآءُ وَتُذِلُّ مَنۡ تَشَآءُ ۖ بِیَدِکَ الۡخَیۡرُ ۖ اِنَّکَ عَلٰی کُلِّ شَیۡءٍ قَدِیۡرٌ
 </p>
 
 <p class="quran">
 
 </p>
 
+([QS Aali-'Imraan [3]:27](https://openquran.com/3:27)-[27]())
 (3:27- 28)
 
 ### 12. Ikrar kepada Petunjuk dan Meminta Qurub  Ilahi (Kedekatan kepada Allah)
@@ -957,8 +958,8 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwNjQ0NTczMSw2NTY1MTg0OTUsLTE0MD
-Y1MzU5NDIsLTk0MTY1MzE3OCwtMjA5NjA3OTM4MCwtMTk2OTk5
-MzE3NCw3NDM3NjM4MDAsLTE2MjcwMzc1NzAsMzE0OTg0MTYsNj
-QwMjUxOTQ1LC02MjAwOTk0NzYsMjA4NDA1ODQ4Nl19
+eyJoaXN0b3J5IjpbMjM2MjkzMTk1LDY1NjUxODQ5NSwtMTQwNj
+UzNTk0MiwtOTQxNjUzMTc4LC0yMDk2MDc5MzgwLC0xOTY5OTkz
+MTc0LDc0Mzc2MzgwMCwtMTYyNzAzNzU3MCwzMTQ5ODQxNiw2ND
+AyNTE5NDUsLTYyMDA5OTQ3NiwyMDg0MDU4NDg2XX0=
 -->
