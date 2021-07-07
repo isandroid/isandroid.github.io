@@ -846,36 +846,10 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 وَیُمۡدِدۡکُمۡ بِاَمۡوٰلٍ وَّبَنِیۡنَ وَیَجۡعَل لَّکُمۡ جَنّٰتٍ وَّیَجۡعَل لَّکُمۡ اَنۡہٰرًا
 </p>
 
-<p class="quran">
-مَّا لَکُمۡ لَا تَرۡجُوۡنَ لِلّٰہِ وَقَارًا
-</p>
+---
 
 <p class="quran">
-وَقَدۡ خَلَقَکُمۡ اَطۡوَارًا
-</p>
-
-<p class="quran">
-اَلَمۡ تَرَوۡا کَیۡفَ خَلَقَ اللّٰہُ سَبۡعَ سَمٰوٰتٍ طِبَاقًا
-</p>
-
-<p class="quran">
-وَجَعَلَ الۡقَمَرَ فِیۡہِنَّ نُوۡرًا وَّجَعَلَ الشَّمۡسَ سِرَاجًا
-</p>
-
-<p class="quran">
-وَاللّٰہُ اَنۡۢبَتَکُمۡ مِّنَ الۡاَرۡضِ نَبَاتًا
-</p>
-
-<p class="quran">
-ثُمَّ یُعِیۡدُکُمۡ فِیۡہَا وَیُخۡرِجُکُمۡ اِخۡرَاجًا
-</p>
-
-<p class="quran">
-وَاللّٰہُ جَعَلَ لَکُمُ الۡاَرۡضَ بِسَاطًا
-</p>
-
-<p class="quran">
-لِّتَسۡلُکُوۡا مِنۡہَا سُبُلًا فِجَاجًا
+رَّبِّ اِنَّہُمۡ عَصَوۡنِیۡ وَاتَّبَعُوۡا مَنۡ لَّمۡ یَزِدۡہُ مَالُہٗ وَوَلَدُہٗۤ اِلَّا خَسَارًا
 </p>
 
 <p class="quran">
@@ -906,11 +880,7 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 
 </p>
 
-<p class="quran">
-
-</p>
-
-(QS Nuuh [71]:6- 29)
+(QS Nuuh [71]:6-13,  29)
 
 ### 80. Doa Memohon Perlindungan
 
@@ -963,11 +933,11 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2Mjg5NjQ0ODgsLTExODc3NDIxMTEsLT
-Q4MTkxMzc1MCw0ODExNzMxNjgsMTc2ODI2MTg4NywxMDc5MzA0
-MTI5LC0xMzgwMTk0NjAwLDEyNzkyMzQ1MjcsLTE1NjYwMTcyOD
-AsLTE5Mjc1OTIxMiwtMTIyOTE1MDA3NiwtNzUzMjExNjg3LC0x
-MjMzMjE2MzEsMTgwMjc0Nzg4OSwtNDMyODM5MTkyLC03OTA4Nz
-kzOTgsNjU2NTE4NDk1LC0xNDA2NTM1OTQyLC05NDE2NTMxNzgs
-LTIwOTYwNzkzODBdfQ==
+eyJoaXN0b3J5IjpbLTk5ODQxMDI3NSwtMTE4Nzc0MjExMSwtND
+gxOTEzNzUwLDQ4MTE3MzE2OCwxNzY4MjYxODg3LDEwNzkzMDQx
+MjksLTEzODAxOTQ2MDAsMTI3OTIzNDUyNywtMTU2NjAxNzI4MC
+wtMTkyNzU5MjEyLC0xMjI5MTUwMDc2LC03NTMyMTE2ODcsLTEy
+MzMyMTYzMSwxODAyNzQ3ODg5LC00MzI4MzkxOTIsLTc5MDg3OT
+M5OCw2NTY1MTg0OTUsLTE0MDY1MzU5NDIsLTk0MTY1MzE3OCwt
+MjA5NjA3OTM4MF19
 -->
