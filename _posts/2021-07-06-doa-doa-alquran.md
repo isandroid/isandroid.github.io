@@ -190,9 +190,11 @@ Keterangan: Doa ini dipanjatkan oleh orang-orang sabar yang sedang berperang di 
 رَبَّنَاۤ اِنَّکَ مَنۡ تُدۡخِلِ النَّارَ فَقَدۡ اَخۡزَیۡتَہٗ ۖ وَمَا لِلظّٰلِمِیۡنَ مِنۡ اَنۡصَارٍ
 </p>
 
-“Wahai Tuhan kami, tidaklah Engkau menciptakan semua ini a sia-sia, Mahasuci Engkau dari perbuatan sia-sia; maka peliharalah kami dari azab Api.” 
+“Wahai Tuhan kami, tidaklah Engkau menciptakan semua ini a sia-sia, Mahasuci Engkau *dari perbuatan sia-sia*; maka peliharalah kami dari azab Api.” 
 
-([QS Aali-'Imraan [3]:[192](https://openquran.com/3:192)-[193](https://openquran.com/3:193))
+“Wahai Tuhan kami, barangsiapa yang Engkau masukkan ke dalam Api, maka sungguh Engkau telah menghinakannya. Dan tidak ada bagi orang-orang aniaya seorang penolong pun." ([QS Aali-'Imraan [3]:[192](https://openquran.com/3:192)-[193](https://openquran.com/3:193))
+
+Keterangan: Doa ini dipanjatkan oleh orang-orang yang berilmu, orang-orang yang selalu mengingat Allah sambil berdiri, duduk, dan berbaring atas rusuk mereka, dan mereka merenungkan tentang penciptaan
 
 ### 15. Doa Pengakuan Menerima kebenaran, Memohon Ampun, Memohon agar Dimasukkan ke dalam Golongan Orang-orang yang Shaleh
 
@@ -976,7 +978,7 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5NjMwMzg3MCwtMTUzMzk4OTk5NCwtOD
+eyJoaXN0b3J5IjpbMTYzMTM4MzI4MCwtMTUzMzk4OTk5NCwtOD
 IwODA0NTk1LC0xNDA3NTI5MzMwLC0yOTQyNDI1MDMsLTExODc3
 NDIxMTEsLTQ4MTkxMzc1MCw0ODExNzMxNjgsMTc2ODI2MTg4Ny
 wxMDc5MzA0MTI5LC0xMzgwMTk0NjAwLDEyNzkyMzQ1MjcsLTE1
