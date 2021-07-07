@@ -379,10 +379,10 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 ### 37. Doa untuk Ibu dan Bapak
 
 <p class="quran">
-
+رَّبِّ ارۡحَمۡہُمَا کَمَا رَبَّیَانِیۡ صَغِیۡرًا
 </p>
 
-(17:25)
+(QS Bani Israil [17]:25)
 
 ### 38. Doa Ketika akan Masuk dan Keluar dari Suatu Tempat
 
@@ -959,11 +959,11 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzODAxOTQ2MDAsMTI3OTIzNDUyNywtMT
-U2NjAxNzI4MCwtMTkyNzU5MjEyLC0xMjI5MTUwMDc2LC03NTMy
-MTE2ODcsLTEyMzMyMTYzMSwxODAyNzQ3ODg5LC00MzI4MzkxOT
-IsLTc5MDg3OTM5OCw2NTY1MTg0OTUsLTE0MDY1MzU5NDIsLTk0
-MTY1MzE3OCwtMjA5NjA3OTM4MCwtMTk2OTk5MzE3NCw3NDM3Nj
-M4MDAsLTE2MjcwMzc1NzAsMzE0OTg0MTYsNjQwMjUxOTQ1LC02
-MjAwOTk0NzZdfQ==
+eyJoaXN0b3J5IjpbLTI4NjA5Njc0NywtMTM4MDE5NDYwMCwxMj
+c5MjM0NTI3LC0xNTY2MDE3MjgwLC0xOTI3NTkyMTIsLTEyMjkx
+NTAwNzYsLTc1MzIxMTY4NywtMTIzMzIxNjMxLDE4MDI3NDc4OD
+ksLTQzMjgzOTE5MiwtNzkwODc5Mzk4LDY1NjUxODQ5NSwtMTQw
+NjUzNTk0MiwtOTQxNjUzMTc4LC0yMDk2MDc5MzgwLC0xOTY5OT
+kzMTc0LDc0Mzc2MzgwMCwtMTYyNzAzNzU3MCwzMTQ5ODQxNiw2
+NDAyNTE5NDVdfQ==
 -->
