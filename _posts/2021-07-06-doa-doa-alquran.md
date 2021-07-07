@@ -571,18 +571,18 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Musa (as)
 </p>
 
 <p class="quran">
-
+اِنَّہَا سَآءَتۡ مُسۡتَقَرًّا وَّمُقَامًا
 </p>
 
-(QS Al-Furqan [25]: [66](https://openquran.com/25:66)-[67])
+(QS Al-Furqan [25]: [66](https://openquran.com/25:66)-[67](https://openquran.com/25:67))
 
 ### 54. Doa Supaya Anak-Cucu Kita Menjadi Keturunan yang Shaleh
 
 <p class="quran">
-
+ رَبَّنَا ہَبۡ لَنَا مِنۡ اَزۡوٰجِنَا وَذُرِّیّٰتِنَا قُرَّۃَ اَعۡیُنٍ وَّاجۡعَلۡنَا لِلۡمُتَّقِیۡنَ اِمَامًا
 </p>
 
-(25:75)
+([QS Al-Furqan [25]:75](https://openquran.com/25:75))
 
 ### 55. Doa Memohon Dimasukkan ke dalam Golongan Orang-orang yang Saleh dan Doa untuk Ibu-Bapak 
 
@@ -606,7 +606,7 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Musa (as)
 
 </p>
 
-(26:84-88)
+(26:84, 85, 86, 8788)
 
 Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 
@@ -961,7 +961,7 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzE3MzIyNTQ3LDQ4MTE3MzE2OCwxNzY4Mj
+eyJoaXN0b3J5IjpbNzk2ODEyNzI4LDQ4MTE3MzE2OCwxNzY4Mj
 YxODg3LDEwNzkzMDQxMjksLTEzODAxOTQ2MDAsMTI3OTIzNDUy
 NywtMTU2NjAxNzI4MCwtMTkyNzU5MjEyLC0xMjI5MTUwMDc2LC
 03NTMyMTE2ODcsLTEyMzMyMTYzMSwxODAyNzQ3ODg5LC00MzI4
