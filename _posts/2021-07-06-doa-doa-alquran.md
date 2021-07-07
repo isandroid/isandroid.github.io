@@ -277,10 +277,10 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Musa (as)
 ### 28. Doa Memohon Kebaikan Dunia dan Akhirat 
 
 <p class="quran">
-
+ وَاکۡتُبۡ لَنَا فِیۡ ہٰذِہِ الدُّنۡیَا حَسَنَۃً وَّفِی الۡاٰخِرَۃِ اِنَّا ہُدۡنَاۤ اِلَیۡکَ
 </p>
 
-(7:157)
+([QS Al-A'roof [7]:157](https://openquran.com/7:157))
 
 ### 29. Tawakkal dan Menyerah kepada Allah 
 
@@ -957,10 +957,10 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDM4ODU2MTUsLTEyMjkxNTAwNzYsLT
-c1MzIxMTY4NywtMTIzMzIxNjMxLDE4MDI3NDc4ODksLTQzMjgz
-OTE5MiwtNzkwODc5Mzk4LDY1NjUxODQ5NSwtMTQwNjUzNTk0Mi
-wtOTQxNjUzMTc4LC0yMDk2MDc5MzgwLC0xOTY5OTkzMTc0LDc0
-Mzc2MzgwMCwtMTYyNzAzNzU3MCwzMTQ5ODQxNiw2NDAyNTE5ND
-UsLTYyMDA5OTQ3NiwyMDg0MDU4NDg2XX0=
+eyJoaXN0b3J5IjpbNjAwNDE0MjU0LC0xMjI5MTUwMDc2LC03NT
+MyMTE2ODcsLTEyMzMyMTYzMSwxODAyNzQ3ODg5LC00MzI4Mzkx
+OTIsLTc5MDg3OTM5OCw2NTY1MTg0OTUsLTE0MDY1MzU5NDIsLT
+k0MTY1MzE3OCwtMjA5NjA3OTM4MCwtMTk2OTk5MzE3NCw3NDM3
+NjM4MDAsLTE2MjcwMzc1NzAsMzE0OTg0MTYsNjQwMjUxOTQ1LC
+02MjAwOTk0NzYsMjA4NDA1ODQ4Nl19
 -->
