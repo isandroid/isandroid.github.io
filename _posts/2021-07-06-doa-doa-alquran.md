@@ -407,14 +407,14 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 </p>
 
 <p class="quran">
-
+وَاِنِّیۡ خِفۡتُ الۡمَوٰلِیَ مِنۡ وَّرَآءِیۡ وَکَانَتِ امۡرَاَتِیۡ عَاقِرًا فَہَبۡ لِیۡ مِنۡ لَّدُنۡکَ وَلِیًّا
 </p>
 
 <p class="quran">
-
+یَرِثُنِیۡ وَیَرِثُ مِنۡ اٰلِ یَعۡقُوۡبَ ۖ وَاجۡعَلۡہُ رَبِّ رَضِیًّا
 </p>
 
-(19:5-7)
+(QS Maryam [19]: [5](https://openquran.com/19:5), [6](https://openquran.com/19:), [7])
 
 Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Zakaria (as)
 
@@ -959,11 +959,11 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTMwMzMzMjksMTc2ODI2MTg4NywxMD
-c5MzA0MTI5LC0xMzgwMTk0NjAwLDEyNzkyMzQ1MjcsLTE1NjYw
-MTcyODAsLTE5Mjc1OTIxMiwtMTIyOTE1MDA3NiwtNzUzMjExNj
-g3LC0xMjMzMjE2MzEsMTgwMjc0Nzg4OSwtNDMyODM5MTkyLC03
-OTA4NzkzOTgsNjU2NTE4NDk1LC0xNDA2NTM1OTQyLC05NDE2NT
-MxNzgsLTIwOTYwNzkzODAsLTE5Njk5OTMxNzQsNzQzNzYzODAw
-LC0xNjI3MDM3NTcwXX0=
+eyJoaXN0b3J5IjpbNjg4OTQ2ODQ2LDE3NjgyNjE4ODcsMTA3OT
+MwNDEyOSwtMTM4MDE5NDYwMCwxMjc5MjM0NTI3LC0xNTY2MDE3
+MjgwLC0xOTI3NTkyMTIsLTEyMjkxNTAwNzYsLTc1MzIxMTY4Ny
+wtMTIzMzIxNjMxLDE4MDI3NDc4ODksLTQzMjgzOTE5MiwtNzkw
+ODc5Mzk4LDY1NjUxODQ5NSwtMTQwNjUzNTk0MiwtOTQxNjUzMT
+c4LC0yMDk2MDc5MzgwLC0xOTY5OTkzMTc0LDc0Mzc2MzgwMCwt
+MTYyNzAzNzU3MF19
 -->
