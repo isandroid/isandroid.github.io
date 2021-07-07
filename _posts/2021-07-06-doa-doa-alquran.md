@@ -104,7 +104,7 @@ Keterangan:
 
 Keterangan: 
 
-- Doa ini adalah doa seorang pemimpin yang bernama Thalut (ditafsirkan sebagai Gideon) yang berdoa ketika berperang melawan Jalut (ditafsirkan sebagaisatu kaum yang jahat)
+- Doa ini adalah doa seorang pemimpin yang bernama Thalut (ditafsirkan sebagai Gideon) yang berdoa ketika berperang melawan Jalut (ditafsirkan sebagai satu kaum yang jahat)
 
 ### 6. Doa Memohon Ampun
 
@@ -112,7 +112,7 @@ Keterangan:
 غُفۡرَانَکَ رَبَّنَا وَاِلَیۡکَ الۡمَصِیۡرُ
 </p>
 
-([QS Al-Baqarah [2]:286](https://openquran.com/2:286))
+Kami mohon ampunan Engkau wahai Tuhan kami, dan kepada Engkau-lah *kami* kembali ([QS Al-Baqarah [2]:286](https://openquran.com/2:286))
 
 ### 7. Doa Memohon agar Dipelihara dari Siksaan Allah, Memohon Ampun dan Pertolongan 
 
@@ -968,11 +968,11 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NzkwNDc0OTcsLTE0MDc1MjkzMzAsLT
-I5NDI0MjUwMywtMTE4Nzc0MjExMSwtNDgxOTEzNzUwLDQ4MTE3
-MzE2OCwxNzY4MjYxODg3LDEwNzkzMDQxMjksLTEzODAxOTQ2MD
-AsMTI3OTIzNDUyNywtMTU2NjAxNzI4MCwtMTkyNzU5MjEyLC0x
-MjI5MTUwMDc2LC03NTMyMTE2ODcsLTEyMzMyMTYzMSwxODAyNz
-Q3ODg5LC00MzI4MzkxOTIsLTc5MDg3OTM5OCw2NTY1MTg0OTUs
-LTE0MDY1MzU5NDJdfQ==
+eyJoaXN0b3J5IjpbMTIyNjM2OTM4LC0xNDA3NTI5MzMwLC0yOT
+QyNDI1MDMsLTExODc3NDIxMTEsLTQ4MTkxMzc1MCw0ODExNzMx
+NjgsMTc2ODI2MTg4NywxMDc5MzA0MTI5LC0xMzgwMTk0NjAwLD
+EyNzkyMzQ1MjcsLTE1NjYwMTcyODAsLTE5Mjc1OTIxMiwtMTIy
+OTE1MDA3NiwtNzUzMjExNjg3LC0xMjMzMjE2MzEsMTgwMjc0Nz
+g4OSwtNDMyODM5MTkyLC03OTA4NzkzOTgsNjU2NTE4NDk1LC0x
+NDA2NTM1OTQyXX0=
 -->
