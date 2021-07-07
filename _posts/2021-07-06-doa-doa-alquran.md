@@ -876,7 +876,11 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 
 (QS Nuuh [71]: [27](https://openquran.com/71:27), [28](https://openquran.com/71:28), [29](29))
 
-### 80. Doa Memohon Perlindungan
+### 80. Doa Memohon Perlindungan I
+
+<p class="quran">
+
+</p>
 
 <p class="quran">
 
@@ -896,7 +900,7 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 
 (113:2, 3, 4, 5)
 
-### 81. Doa Memohon Perlindungan yang Menyeluruh
+### 81. Doa Memohon Perlindungan II
 
 <p class="quran">
 
@@ -927,11 +931,11 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxNjQ2MDg2NCwtMTE4Nzc0MjExMSwtND
-gxOTEzNzUwLDQ4MTE3MzE2OCwxNzY4MjYxODg3LDEwNzkzMDQx
-MjksLTEzODAxOTQ2MDAsMTI3OTIzNDUyNywtMTU2NjAxNzI4MC
-wtMTkyNzU5MjEyLC0xMjI5MTUwMDc2LC03NTMyMTE2ODcsLTEy
-MzMyMTYzMSwxODAyNzQ3ODg5LC00MzI4MzkxOTIsLTc5MDg3OT
-M5OCw2NTY1MTg0OTUsLTE0MDY1MzU5NDIsLTk0MTY1MzE3OCwt
-MjA5NjA3OTM4MF19
+eyJoaXN0b3J5IjpbLTExODE3MzkxNTUsLTExODc3NDIxMTEsLT
+Q4MTkxMzc1MCw0ODExNzMxNjgsMTc2ODI2MTg4NywxMDc5MzA0
+MTI5LC0xMzgwMTk0NjAwLDEyNzkyMzQ1MjcsLTE1NjYwMTcyOD
+AsLTE5Mjc1OTIxMiwtMTIyOTE1MDA3NiwtNzUzMjExNjg3LC0x
+MjMzMjE2MzEsMTgwMjc0Nzg4OSwtNDMyODM5MTkyLC03OTA4Nz
+kzOTgsNjU2NTE4NDk1LC0xNDA2NTM1OTQyLC05NDE2NTMxNzgs
+LTIwOTYwNzkzODBdfQ==
 -->
