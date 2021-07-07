@@ -345,23 +345,23 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Musa (as)
 ### 36. Doa Memohon Dilapangkan Rejeki, Memohon agar Anak-Cucu Kita Menjadi Orang Shaleh 
 
 <p class="quran">
-
+رَبِّ اجۡعَلۡ ہٰذَا الۡبَلَدَ اٰمِنًا وَّاجۡنُبۡنِیۡ وَبَنِیَّ اَنۡ نَّعۡبُدَ الۡاَصۡنَامَ
 </p>
 
 <p class="quran">
-
+رَبِّ اِنَّہُنَّ اَضۡلَلۡنَ کَثِیۡرًا مِّنَ النَّاسِ ۖ فَمَنۡ تَبِعَنِیۡ فَاِنَّہٗ مِنِّیۡ ۖ وَمَنۡ عَصَانِیۡ فَاِنَّکَ غَفُوۡرٌ رَّحِیۡمٌ
 </p>
 
 <p class="quran">
-
+رَّبَّنَاۤ اِنِّیۡۤ اَسۡکَنۡتُ مِنۡ ذُرِّیَّتِیۡ بِوَادٍ غَیۡرِ ذِیۡ زَرۡعٍ عِنۡدَ بَیۡتِکَ الۡمُحَرَّمِ رَبَّنَا لِیُقِیۡمُوا الصَّلٰوۃَ فَاجۡعَلۡ اَفۡئِدَۃً مِّنَ النَّاسِ تَہۡوِیۡۤ اِلَیۡہِمۡ وَارۡزُقۡہُمۡ مِّنَ الثَّمَرٰتِ لَعَلَّہُمۡ یَشۡکُرُوۡنَ
 </p>
 
 <p class="quran">
-
+رَبَّنَاۤ اِنَّکَ تَعۡلَمُ مَا نُخۡفِیۡ وَمَا نُعۡلِنُ ۗ وَمَا یَخۡفٰی عَلَی اللّٰہِ مِنۡ شَیۡءٍ فِی الۡاَرۡضِ وَلَا فِی السَّمَآءِ
 </p>
 
 <p class="quran">
-
+اَلۡحَمۡدُ لِلّٰہِ الَّذِیۡ وَہَبَ لِیۡ عَلَی الۡکِبَرِ اِسۡمٰعِیۡلَ وَاِسۡحٰقَ ۚ اِنَّ رَبِّیۡ لَسَمِیۡعُ الدُّعَآءِ
 </p>
 
 <p class="quran">
@@ -373,6 +373,8 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Musa (as)
 </p>
 
 (14:36-42)
+
+Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 
 ### 37. Doa untuk Ibu dan Bapak
 
@@ -957,11 +959,11 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2OTYxNDk0LDEyNzkyMzQ1MjcsLTE1Nj
-YwMTcyODAsLTE5Mjc1OTIxMiwtMTIyOTE1MDA3NiwtNzUzMjEx
-Njg3LC0xMjMzMjE2MzEsMTgwMjc0Nzg4OSwtNDMyODM5MTkyLC
-03OTA4NzkzOTgsNjU2NTE4NDk1LC0xNDA2NTM1OTQyLC05NDE2
-NTMxNzgsLTIwOTYwNzkzODAsLTE5Njk5OTMxNzQsNzQzNzYzOD
-AwLC0xNjI3MDM3NTcwLDMxNDk4NDE2LDY0MDI1MTk0NSwtNjIw
-MDk5NDc2XX0=
+eyJoaXN0b3J5IjpbLTE3OTcxMTY4OTgsMTI3OTIzNDUyNywtMT
+U2NjAxNzI4MCwtMTkyNzU5MjEyLC0xMjI5MTUwMDc2LC03NTMy
+MTE2ODcsLTEyMzMyMTYzMSwxODAyNzQ3ODg5LC00MzI4MzkxOT
+IsLTc5MDg3OTM5OCw2NTY1MTg0OTUsLTE0MDY1MzU5NDIsLTk0
+MTY1MzE3OCwtMjA5NjA3OTM4MCwtMTk2OTk5MzE3NCw3NDM3Nj
+M4MDAsLTE2MjcwMzc1NzAsMzE0OTg0MTYsNjQwMjUxOTQ1LC02
+MjAwOTk0NzZdfQ==
 -->
