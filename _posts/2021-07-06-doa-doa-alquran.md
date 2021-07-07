@@ -482,12 +482,12 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Musa (as)
  اَنِّیۡ مَسَّنِیَ الضُّرُّ وَاَنۡتَ اَرۡحَمُ الرّٰحِمِیۡنَ
 </p>
 
-(QS Al-Anbiyaa [21]:84)
+([QS Al-Anbiyaa [21]:84](https://openquran.com/21:84))
 
 ### 44. Doa Mengakui Kesucian Allah dan Mengaku Diri Sendiri Bersalah
 
 <p class="quran">
-
+ لَّاۤ اِلٰہَ اِلَّاۤ اَنۡتَ سُبۡحٰنَکَ اِنِّیۡ کُنۡتُ مِنَ الظّٰلِمِیۡنَ
 </p>
 
 (QS Al-Anbiyaa [21]:88)
@@ -506,7 +506,7 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Musa (as)
 
 </p>
 
-(21:113)
+(QS Al-Anbiyaa [21]:113)
 
 ### 47. Doa Memohon Pertolongan dari Serangan Pihak yang Anti
 
@@ -961,7 +961,7 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjMyNDQ0NDAxLDE3NjgyNjE4ODcsMTA3OT
+eyJoaXN0b3J5IjpbNDgxMTczMTY4LDE3NjgyNjE4ODcsMTA3OT
 MwNDEyOSwtMTM4MDE5NDYwMCwxMjc5MjM0NTI3LC0xNTY2MDE3
 MjgwLC0xOTI3NTkyMTIsLTEyMjkxNTAwNzYsLTc1MzIxMTY4Ny
 wtMTIzMzIxNjMxLDE4MDI3NDc4ODksLTQzMjgzOTE5MiwtNzkw
