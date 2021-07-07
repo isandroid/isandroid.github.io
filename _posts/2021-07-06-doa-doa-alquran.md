@@ -574,10 +574,33 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Zakaria (as)
 
 ### 54. Doa Supaya Anak-Cucu Kita Menjadi Keturunan yang Shaleh
 
+<p class="quran">
+
+</p>
 
 (25:75)
 
 ### 55. Doa Memohon Dimasukkan ke dalam Golongan Orang-orang yang Saleh dan Doa untuk Ibu-Bapak 
+
+<p class="quran">
+
+</p>
+
+<p class="quran">
+
+</p>
+
+<p class="quran">
+
+</p>
+
+<p class="quran">
+
+</p>
+
+<p class="quran">
+
+</p>
 
 (26:84-88)
 
@@ -585,37 +608,77 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 
 ### 56. Doa Memohon Kemenangan dan Keputusan 
 
+<p class="quran">
+
+</p>
+
+<p class="quran">
+
+</p>
+
 (26:118,119)
 
 ### 57. Doa Memohon Dipelihara dari Tangan Musuh 
+
+<p class="quran">
+
+</p>
 
 (26:170)
 
 ### 58. Doa Memohon Taufik Agar Menjadi Pribadi yang Bersyukur
 
+<p class="quran">
+
+</p>
+
 (27:20)
 
 ### 59. Doa Pengakuan bahwa Kita Menganiaya Diri-Sendiri
+
+<p class="quran">
+
+</p>
 
 (27:45)
 
 ### 60. Doa Keselamatan
 
+<p class="quran">
+
+</p>
+
 (27:60)
 
 ### 61. Mengakui Kesalahan dan Memohon Diampuni 
+
+<p class="quran">
+
+</p>
 
 (28:17)
 
 ### 62. Doa Agar Terhindar dari Bagian Orang-orang yang Berdosa
 
+<p class="quran">
+
+</p>
+
 (28:18)
 
 ### 63. Doa Meminta Terpelihara dari Kaum yang Zalim (aniaya)
 
+<p class="quran">
+
+</p>
+
 (28:22)
 
 ### 64. Doa Waktu Tiba di Negeri Asing
+
+<p class="quran">
+
+</p>
 
 (28:25)
 
@@ -692,7 +755,7 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTAwNjg3MjEsLTE0MDY1MzU5NDIsLT
+eyJoaXN0b3J5IjpbLTIwMDcxNTA2MDksLTE0MDY1MzU5NDIsLT
 k0MTY1MzE3OCwtMjA5NjA3OTM4MCwtMTk2OTk5MzE3NCw3NDM3
 NjM4MDAsLTE2MjcwMzc1NzAsMzE0OTg0MTYsNjQwMjUxOTQ1LC
 02MjAwOTk0NzYsMjA4NDA1ODQ4Nl19
