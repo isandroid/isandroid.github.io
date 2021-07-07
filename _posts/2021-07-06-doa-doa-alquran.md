@@ -898,7 +898,7 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 
 </p>
 
-(113:2, 3, 4, 5)
+([QS Al-Falaq [113]](https://openquran.com/113))
 
 ### 81. Doa Memohon Perlindungan II
 
@@ -926,12 +926,12 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 
 </p>
 
-(114:2-7)https://openquran.com/2:127))
+([QS An-Naas [114]](https://openquran.com/114))
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODE3MzkxNTUsLTExODc3NDIxMTEsLT
+eyJoaXN0b3J5IjpbLTE3MjA2MTA0OTgsLTExODc3NDIxMTEsLT
 Q4MTkxMzc1MCw0ODExNzMxNjgsMTc2ODI2MTg4NywxMDc5MzA0
 MTI5LC0xMzgwMTk0NjAwLDEyNzkyMzQ1MjcsLTE1NjYwMTcyOD
 AsLTE5Mjc1OTIxMiwtMTIyOTE1MDA3NiwtNzUzMjExNjg3LC0x
