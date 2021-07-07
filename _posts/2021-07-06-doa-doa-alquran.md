@@ -403,7 +403,7 @@ Keterangan: Doa ini diucapkan oleh Nabi Musa (as) agar beliau bisa menyelamatkan
 
 “Naiklah ke atasnya. Dengan nama Allah pada waktu berlayar dan berlabuhnya. Sesungguhnya Tuhan-ku Maha Pengampun, Maha Penyayang.” ([QS Hud [11]:42](https://openquran.com/11:42))
 
-Keterangan: Doa ini diucapkan oleh 
+Keterangan: Doa ini diucapkan oleh Nabi Nuh (as) ketika bahteranya hendak berlayar menyelamatkan orang-orang yang beriman kepada Allah Ta'ala.
 
 ### 33. Doa Meminta Dipelihara dari Hal yang Tidak Berguna
 
@@ -1025,11 +1025,11 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxNzY1MTE4OCwxNTAxMTIxODYyLC0xNT
-MzOTg5OTk0LC04MjA4MDQ1OTUsLTE0MDc1MjkzMzAsLTI5NDI0
-MjUwMywtMTE4Nzc0MjExMSwtNDgxOTEzNzUwLDQ4MTE3MzE2OC
-wxNzY4MjYxODg3LDEwNzkzMDQxMjksLTEzODAxOTQ2MDAsMTI3
-OTIzNDUyNywtMTU2NjAxNzI4MCwtMTkyNzU5MjEyLC0xMjI5MT
-UwMDc2LC03NTMyMTE2ODcsLTEyMzMyMTYzMSwxODAyNzQ3ODg5
-LC00MzI4MzkxOTJdfQ==
+eyJoaXN0b3J5IjpbLTE3OTQzNzk5MzQsMTUwMTEyMTg2MiwtMT
+UzMzk4OTk5NCwtODIwODA0NTk1LC0xNDA3NTI5MzMwLC0yOTQy
+NDI1MDMsLTExODc3NDIxMTEsLTQ4MTkxMzc1MCw0ODExNzMxNj
+gsMTc2ODI2MTg4NywxMDc5MzA0MTI5LC0xMzgwMTk0NjAwLDEy
+NzkyMzQ1MjcsLTE1NjYwMTcyODAsLTE5Mjc1OTIxMiwtMTIyOT
+E1MDA3NiwtNzUzMjExNjg3LC0xMjMzMjE2MzEsMTgwMjc0Nzg4
+OSwtNDMyODM5MTkyXX0=
 -->
