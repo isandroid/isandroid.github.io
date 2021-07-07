@@ -186,15 +186,31 @@ published: true
 
 ### 18. Doa Memohon Rejeki
 
+<p class="quran">
+
+</p>
+
 (5:115)
 
 Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Isa (as)
 
 ### 19. Doa Memohon agar Dimasukkan ke dalam Jemaat yang Suci 
 
+<p class="quran">
+
+</p>
+
+<p class="quran">
+
+</p>
+
 (5:84,85)
 
 ### 20. Doa Memohon Ampun
+
+<p class="quran">
+
+</p>
 
 (7:24)
 
@@ -202,21 +218,41 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Isa (as)
 
 ### 21. Doa Memohon Dinyatakan Antara yang benar dan yang salah 
 
+<p class="quran">
+
+</p>
+
 (7:90) 
 
 ### 22. Doa Bersyukur atas Petunjuk dari Allah 
+
+<p class="quran">
+
+</p>
 
 (7:44)
 
 ### 23. Doa Memohon Kesabaran dan Keselamatan 
 
+<p class="quran">
+
+</p>
+
 (7:127)
 
 ### 24. Doa Memohon Dijauhkan dari Orang yang Zalim 
 
+<p class="quran">
+
+</p>
+
 (7:48)
 
 ### 25. Doa Memohon kasih saying Tuhan dan am-punan Nya
+
+<p class="quran">
+
+</p>
 
 (7:150)
 
@@ -455,8 +491,8 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2MDU3NTg1OCwtMTQwNjUzNTk0MiwtOT
-QxNjUzMTc4LC0yMDk2MDc5MzgwLC0xOTY5OTkzMTc0LDc0Mzc2
-MzgwMCwtMTYyNzAzNzU3MCwzMTQ5ODQxNiw2NDAyNTE5NDUsLT
-YyMDA5OTQ3NiwyMDg0MDU4NDg2XX0=
+eyJoaXN0b3J5IjpbLTEzNDI0NDgxMjEsLTE0MDY1MzU5NDIsLT
+k0MTY1MzE3OCwtMjA5NjA3OTM4MCwtMTk2OTk5MzE3NCw3NDM3
+NjM4MDAsLTE2MjcwMzc1NzAsMzE0OTg0MTYsNjQwMjUxOTQ1LC
+02MjAwOTk0NzYsMjA4NDA1ODQ4Nl19
 -->
