@@ -35,7 +35,7 @@ published: true
 </p>
 
 <p class="quran">
-صِرٰطَ الَّذِیۡنَ اَنۡعَۡہمۡ َلیۡ الَّاِیۡ
+صِرٰطَ الَّذِیۡنَ اَنۡعَمۡتَ عَلَیۡہِمۡ غَیۡرِ الۡمَغۡضُوۡبِ عَلَیۡہِمۡ وَلَا الضَّآلِّیۡنَ
 </p>
 
 *Aku baca* dengan nama Allah, Mahapemurah, Mahapenyayang.
@@ -1039,11 +1039,11 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNDU5NTI3NDcsMTc0NDE1MTk2NiwxNT
-AxMTIxODYyLC0xNTMzOTg5OTk0LC04MjA4MDQ1OTUsLTE0MDc1
-MjkzMzAsLTI5NDI0MjUwMywtMTE4Nzc0MjExMSwtNDgxOTEzNz
-UwLDQ4MTE3MzE2OCwxNzY4MjYxODg3LDEwNzkzMDQxMjksLTEz
-ODAxOTQ2MDAsMTI3OTIzNDUyNywtMTU2NjAxNzI4MCwtMTkyNz
-U5MjEyLC0xMjI5MTUwMDc2LC03NTMyMTE2ODcsLTEyMzMyMTYz
-MSwxODAyNzQ3ODg5XX0=
+eyJoaXN0b3J5IjpbMjAyNzY3MDYwMywtMTA0NTk1Mjc0NywxNz
+Q0MTUxOTY2LDE1MDExMjE4NjIsLTE1MzM5ODk5OTQsLTgyMDgw
+NDU5NSwtMTQwNzUyOTMzMCwtMjk0MjQyNTAzLC0xMTg3NzQyMT
+ExLC00ODE5MTM3NTAsNDgxMTczMTY4LDE3NjgyNjE4ODcsMTA3
+OTMwNDEyOSwtMTM4MDE5NDYwMCwxMjc5MjM0NTI3LC0xNTY2MD
+E3MjgwLC0xOTI3NTkyMTIsLTEyMjkxNTAwNzYsLTc1MzIxMTY4
+NywtMTIzMzIxNjMxXX0=
 -->
