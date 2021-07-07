@@ -248,10 +248,10 @@ Keterangan: Doa ini adalah doa yang dipanjatkan oleh Nabi Adam (as)
 
 ([QS Al-A'roof [7]:48](https://openquran.com/7:48))
 
-### 25. Doa Memohon kasih saying Tuhan dan am-punan Nya
+### 25. Doa Memohon Kasih Sayang Tuhan dan Ampunan Nya
 
 <p class="quran">
-
+لَئِنۡ لَّمۡ یَرۡحَمۡنَا رَبُّنَا وَیَغۡفِرۡ لَنَا لَنَکُوۡنَنَّ مِنَ الۡخٰسِرِیۡنَ
 </p>
 
 (7:150)
@@ -957,7 +957,7 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDg1ODk4NTcyLC0xMjI5MTUwMDc2LC03NT
+eyJoaXN0b3J5IjpbLTUxMDY0Nzg2LC0xMjI5MTUwMDc2LC03NT
 MyMTE2ODcsLTEyMzMyMTYzMSwxODAyNzQ3ODg5LC00MzI4Mzkx
 OTIsLTc5MDg3OTM5OCw2NTY1MTg0OTUsLTE0MDY1MzU5NDIsLT
 k0MTY1MzE3OCwtMjA5NjA3OTM4MCwtMTk2OTk5MzE3NCw3NDM3
