@@ -114,17 +114,19 @@ published: true
 
 ### 35. Doa Memohon Keselamatan Iman
 
-### 36. Doa Memohon Dilapangkan Rejeki, Memohon agar Anak-Cucu Kita Menjadi Orang shaleh 37. Doa untuk Ibu dan Bapak
+### 36. Doa Memohon Dilapangkan Rejeki, Memohon agar Anak-Cucu Kita Menjadi Orang Shaleh 
 
-38. Doa ketika mau masuk dan mau keluar suatu tempat
+### 37. Doa untuk Ibu dan Bapak
 
-39. Doa meminta rahmat dan meminta keme-
+### 38. Doa Ketika akan Masuk dan Keluar dari Suatu Tempat
 
-nangan
+### 39. Doa Memohon Rahmat dan Meminta Kemenangan
 
-40. Doa meminta anak yang shaleh
+### 40. Doa Memohon Anak yang Shaleh
 
-41. Doa meminta kemenagan dalam bertabligh 42. Doa meminta ditamah ilmu
+### 41. Doa Memohon Kemenagan dalam Bertabligh 
+
+### 42. Doa Memohon Ditamah ilmu
 
 43. Doa meminta dijauhkan dari kesusahan 44. Doa mengakui kesucian Allah dan menga-ku diri sendiri bersalah
 
@@ -185,7 +187,7 @@ nangan
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1MjA5OTYzMCwzMTQ5ODQxNiw2NDAyNT
+eyJoaXN0b3J5IjpbMTY4MDQ2OTc3NCwzMTQ5ODQxNiw2NDAyNT
 E5NDUsLTYyMDA5OTQ3NiwyMDg0MDU4NDg2LDEzMTU1MjI5NzBd
 fQ==
 -->
