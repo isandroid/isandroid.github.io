@@ -382,7 +382,7 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 رَّبِّ ارۡحَمۡہُمَا کَمَا رَبَّیَانِیۡ صَغِیۡرًا
 </p>
 
-(QS Bani Israil [17]:25)
+([QS Bani Israil [17]:25](https://openquran.com/17:25))
 
 ### 38. Doa Ketika akan Masuk dan Keluar dari Suatu Tempat
 
@@ -959,7 +959,7 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4NjA5Njc0NywtMTM4MDE5NDYwMCwxMj
+eyJoaXN0b3J5IjpbMTA3OTMwNDEyOSwtMTM4MDE5NDYwMCwxMj
 c5MjM0NTI3LC0xNTY2MDE3MjgwLC0xOTI3NTkyMTIsLTEyMjkx
 NTAwNzYsLTc1MzIxMTY4NywtMTIzMzIxNjMxLDE4MDI3NDc4OD
 ksLTQzMjgzOTE5MiwtNzkwODc5Mzk4LDY1NjUxODQ5NSwtMTQw
