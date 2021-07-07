@@ -102,6 +102,10 @@ Keterangan:
 
 “Wahai Tuhan kami, limpahkanlah kesabaran atas kami, teguhkanlah langkah-langkah kami, dan tolonglah kami terhadap kaum kafir.” ([QS Al-Baqarah [2]:251](https://openquran.com/2:251))
 
+Keterangan: 
+
+- Doa ini adalah doa seorang pemimpin yang bernama Thalut (ditafsirkan sebagai Gideon) yang berdoa ketika berperang melawan Jalut (ditafsirkan sebagaisatu kaum yang jahat)
+
 ### 6. Doa Memohon Ampun
 
 <p class="quran">
@@ -964,11 +968,11 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxMjEwNjMxNiwtMTQwNzUyOTMzMCwtMj
-k0MjQyNTAzLC0xMTg3NzQyMTExLC00ODE5MTM3NTAsNDgxMTcz
-MTY4LDE3NjgyNjE4ODcsMTA3OTMwNDEyOSwtMTM4MDE5NDYwMC
-wxMjc5MjM0NTI3LC0xNTY2MDE3MjgwLC0xOTI3NTkyMTIsLTEy
-MjkxNTAwNzYsLTc1MzIxMTY4NywtMTIzMzIxNjMxLDE4MDI3ND
-c4ODksLTQzMjgzOTE5MiwtNzkwODc5Mzk4LDY1NjUxODQ5NSwt
-MTQwNjUzNTk0Ml19
+eyJoaXN0b3J5IjpbLTE4NzkwNDc0OTcsLTE0MDc1MjkzMzAsLT
+I5NDI0MjUwMywtMTE4Nzc0MjExMSwtNDgxOTEzNzUwLDQ4MTE3
+MzE2OCwxNzY4MjYxODg3LDEwNzkzMDQxMjksLTEzODAxOTQ2MD
+AsMTI3OTIzNDUyNywtMTU2NjAxNzI4MCwtMTkyNzU5MjEyLC0x
+MjI5MTUwMDc2LC03NTMyMTE2ODcsLTEyMzMyMTYzMSwxODAyNz
+Q3ODg5LC00MzI4MzkxOTIsLTc5MDg3OTM5OCw2NTY1MTg0OTUs
+LTE0MDY1MzU5NDJdfQ==
 -->
