@@ -358,15 +358,25 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 
 ### 77. Doa Memohon Qurub Ilahi dan Memohon Dipelihara dari Kaum yang Zalim
 
+(66:12)
+ 
 ### 78. Mengaku Kesalahan Diri
+
+(68:30)
 
 ### 79. Doa Nabi Nuh (as)
 
+(71:6- 29)
+
 ### 80. Doa Memohon Perlindungan
 
+(113:2-5)
+
 ### 81. Doa Memohon Perlindungan yang Menyeluruh
+
+(114:2-7)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxMTkwNjY2LDc0Mzc2MzgwMCwtMTYyNz
-AzNzU3MCwzMTQ5ODQxNiw2NDAyNTE5NDUsLTYyMDA5OTQ3Niwy
-MDg0MDU4NDg2LDEzMTU1MjI5NzBdfQ==
+eyJoaXN0b3J5IjpbLTE5Njk5OTMxNzQsNzQzNzYzODAwLC0xNj
+I3MDM3NTcwLDMxNDk4NDE2LDY0MDI1MTk0NSwtNjIwMDk5NDc2
+LDIwODQwNTg0ODYsMTMxNTUyMjk3MF19
 -->
