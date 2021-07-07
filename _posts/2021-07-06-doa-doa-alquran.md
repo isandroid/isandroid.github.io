@@ -48,6 +48,8 @@ published: true
 
 ([QS Al-Baqarah [2]:127]())
 
+Doa diatas adalah Doa Nabi Ibrahim (as)
+
 ### 3. Doa Agar Kita dan Anak-anak Kita Menjadi Orang yang Benar-benar Taat kepada Allah Ta’ala
 
 ### 4. Doa Memohon Kebaikan untuk Dunia dan akhirat 
@@ -206,7 +208,7 @@ published: true
 
 ### 81. Doa Memohon Perlindungan yang Menyeluruh
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MjcwMzc1NzAsMzE0OTg0MTYsNjQwMj
-UxOTQ1LC02MjAwOTk0NzYsMjA4NDA1ODQ4NiwxMzE1NTIyOTcw
-XX0=
+eyJoaXN0b3J5IjpbNzQzNzYzODAwLC0xNjI3MDM3NTcwLDMxND
+k4NDE2LDY0MDI1MTk0NSwtNjIwMDk5NDc2LDIwODQwNTg0ODYs
+MTMxNTUyMjk3MF19
 -->
