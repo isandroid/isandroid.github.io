@@ -38,7 +38,15 @@ published: true
 صِرٰطَ الَّذِیۡنَ اَنۡعَۡہمۡ َلیۡ الَّاِیۡ
 </p>
 
+*Aku baca* dengan nama Allah, Mahapemurah, Mahapenyayang.
 
+Segala puji *hanya* bagi Allah, Tuhan seluruh alam,
+
+Maha Pemurah, Maha Penyayang.
+
+Pemilik Hari Pembalasan.
+
+Hanya Engkau-lah Yang kami sembah dan b hanya kepada Engkau-lah kami mohon pertolongan
 
 ([QS Al-Fatihah [1]: 1-7](https://openquran.com/1))
 
@@ -941,11 +949,11 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjkwODQ3NDUzLC0yOTQyNDI1MDMsLTExOD
-c3NDIxMTEsLTQ4MTkxMzc1MCw0ODExNzMxNjgsMTc2ODI2MTg4
-NywxMDc5MzA0MTI5LC0xMzgwMTk0NjAwLDEyNzkyMzQ1MjcsLT
-E1NjYwMTcyODAsLTE5Mjc1OTIxMiwtMTIyOTE1MDA3NiwtNzUz
-MjExNjg3LC0xMjMzMjE2MzEsMTgwMjc0Nzg4OSwtNDMyODM5MT
-kyLC03OTA4NzkzOTgsNjU2NTE4NDk1LC0xNDA2NTM1OTQyLC05
-NDE2NTMxNzhdfQ==
+eyJoaXN0b3J5IjpbLTE2MDAyNzI3MTYsLTI5NDI0MjUwMywtMT
+E4Nzc0MjExMSwtNDgxOTEzNzUwLDQ4MTE3MzE2OCwxNzY4MjYx
+ODg3LDEwNzkzMDQxMjksLTEzODAxOTQ2MDAsMTI3OTIzNDUyNy
+wtMTU2NjAxNzI4MCwtMTkyNzU5MjEyLC0xMjI5MTUwMDc2LC03
+NTMyMTE2ODcsLTEyMzMyMTYzMSwxODAyNzQ3ODg5LC00MzI4Mz
+kxOTIsLTc5MDg3OTM5OCw2NTY1MTg0OTUsLTE0MDY1MzU5NDIs
+LTk0MTY1MzE3OF19
 -->
