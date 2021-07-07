@@ -891,11 +891,15 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 </p>
 
 <p class="quran">
-
+وَمِنۡ شَرِّ غَاسِقٍ اِذَا وَقَبَ
 </p>
 
 <p class="quran">
+وَمِنۡ شَرِّ النَّفّٰثٰتِ فِی الۡعُقَدِ
+</p>
 
+<p class="quran">
+وَمِنۡ شَرِّ حَاسِدٍ اِذَا حَسَدَ
 </p>
 
 ([QS Al-Falaq [113]](https://openquran.com/113))
@@ -903,26 +907,31 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 ### 81. Doa Memohon Perlindungan II
 
 <p class="quran">
-
+بِسۡمِ اللّٰہِ الرَّحۡمٰنِ الرَّحِیۡمِ
 </p>
 
 <p class="quran">
-
+قُلۡ اَعُوۡذُ بِرَبِّ النَّاسِ
 </p>
 
 <p class="quran">
-
+مَلِکِ النَّاسِ
 </p>
 
 <p class="quran">
-
+اِلٰہِ النَّاسِ
 </p>
 
 <p class="quran">
-
+مِنۡ شَرِّ الۡوَسۡوَاسِ الۡخَنَّاسِ
 </p>
 
 <p class="quran">
+اَلَّذِیۡ یُوَسۡوِسُ فِیۡ صُدُوۡرِ النَّاسِ
+</p>
+
+<p class="quran">
+مِنَ الۡجِنَّۃِ وَالنَّاسِ
 
 </p>
 
@@ -931,7 +940,7 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2OTE5Mjc0MiwtMTE4Nzc0MjExMSwtND
+eyJoaXN0b3J5IjpbMTkwOTc0ODIzNSwtMTE4Nzc0MjExMSwtND
 gxOTEzNzUwLDQ4MTE3MzE2OCwxNzY4MjYxODg3LDEwNzkzMDQx
 MjksLTEzODAxOTQ2MDAsMTI3OTIzNDUyNywtMTU2NjAxNzI4MC
 wtMTkyNzU5MjEyLC0xMjI5MTUwMDc2LC03NTMyMTE2ODcsLTEy
