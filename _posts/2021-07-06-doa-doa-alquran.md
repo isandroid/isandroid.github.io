@@ -297,10 +297,10 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Musa (as)
 </p>
 
 <p class="quran">
-
+وَنَجِّنَا بِرَحۡمَتِکَ مِنَ الۡقَوۡمِ الۡکٰفِرِیۡنَ
 </p>
 
-(QS Yunus [10]:86](https://openquran.com/10:86)-[87](https://openquran.com/10:87))
+(QS Yunus [10]:[86](https://openquran.com/10:86)-[87](https://openquran.com/10:87))
 
 ### 31. Doa untuk Kebinasaan Orang yang Zalim
 
@@ -308,7 +308,7 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Musa (as)
 
 </p>
 
-(10:89)
+([QS Yunus [10]:89](https://openquran.com/10:89))
 
 ### 32. Doa Naik Kapal atau Kendaraan
 
@@ -957,7 +957,7 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxMjMxNzUyNywtMTkyNzU5MjEyLC0xMj
+eyJoaXN0b3J5IjpbMTEwNTU5ODc2NywtMTkyNzU5MjEyLC0xMj
 I5MTUwMDc2LC03NTMyMTE2ODcsLTEyMzMyMTYzMSwxODAyNzQ3
 ODg5LC00MzI4MzkxOTIsLTc5MDg3OTM5OCw2NTY1MTg0OTUsLT
 E0MDY1MzU5NDIsLTk0MTY1MzE3OCwtMjA5NjA3OTM4MCwtMTk2
