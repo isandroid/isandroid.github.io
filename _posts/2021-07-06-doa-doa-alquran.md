@@ -126,17 +126,19 @@ published: true
 
 ### 41. Doa Memohon Kemenagan dalam Bertabligh 
 
-### 42. Doa Memohon Ditamah ilmu
+### 42. Doa Memohon Ditambah Ilmu
 
-43. Doa meminta dijauhkan dari kesusahan 44. Doa mengakui kesucian Allah dan menga-ku diri sendiri bersalah
+### 43. Doa Memohon agar Dijauhkan dari Kesusahan 
 
-45. Doa meminta keturunan
+### 44. Doa Mengakui Kesucian Allah dan Mengaku Diri Sendiri Bersalah
 
-46. Doa meminta keputusan
+### 45. Doa Memohon Keturunan
 
-47. Doa meminta pertolongan dari serangan pihak yang anti
+### 46. Doa Memohon Keputusan
 
-48. Doa meminta disampaikan ke tempat yang berkah
+### 47. Doa Memohon Pertolongan dari Serangan Pihak yang Anti
+
+### 48. Doa Memohon Disampaikan ke Tempat yang berkah
 
 49. Doa meminta dipelihara dari azab
 
@@ -187,7 +189,7 @@ published: true
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4MDQ2OTc3NCwzMTQ5ODQxNiw2NDAyNT
-E5NDUsLTYyMDA5OTQ3NiwyMDg0MDU4NDg2LDEzMTU1MjI5NzBd
-fQ==
+eyJoaXN0b3J5IjpbMjM4NjM2NDU0LDMxNDk4NDE2LDY0MDI1MT
+k0NSwtNjIwMDk5NDc2LDIwODQwNTg0ODYsMTMxNTUyMjk3MF19
+
 -->
