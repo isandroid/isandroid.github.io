@@ -799,18 +799,18 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 ### 77. Doa Memohon Qurub Ilahi dan Memohon Dipelihara dari Kaum yang Zalim
 
 <p class="quran">
-
+رَبِّ ابۡنِ لِیۡ عِنۡدَکَ بَیۡتًا فِی الۡجَنَّۃِ وَنَجِّنِیۡ مِنۡ فِرۡعَوۡنَ وَعَمَلِہٖ وَنَجِّنِیۡ مِنَ الۡقَوۡمِ الظّٰلِمِیۡنَ
 </p>
 
-([QS At-Tahrim [66]:9](https://openquran.com/66:9))
+([QS At-Tahrim [66]:12](https://openquran.com/66:12))
  
 ### 78. Mengaku Kesalahan Diri
 
 <p class="quran">
-
+سُبۡحٰنَ رَبِّنَاۤ اِنَّا کُنَّا ظٰلِمِیۡنَ
 </p>
 
-(68:30)
+([QS Al-Qolam [68]:30](https://openquran.com/68:30))
 
 ### 79. Doa Nabi Nuh (as)
 
@@ -963,7 +963,7 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3MjIyNDczNywtNDgxOTEzNzUwLDQ4MT
+eyJoaXN0b3J5IjpbLTk5Njg2NTYwOSwtNDgxOTEzNzUwLDQ4MT
 E3MzE2OCwxNzY4MjYxODg3LDEwNzkzMDQxMjksLTEzODAxOTQ2
 MDAsMTI3OTIzNDUyNywtMTU2NjAxNzI4MCwtMTkyNzU5MjEyLC
 0xMjI5MTUwMDc2LC03NTMyMTE2ODcsLTEyMzMyMTYzMSwxODAy
