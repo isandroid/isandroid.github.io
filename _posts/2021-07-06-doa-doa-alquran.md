@@ -313,18 +313,18 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Musa (as)
 ### 32. Doa Naik Kapal atau Kendaraan
 
 <p class="quran">
-
+ اِرۡکَبُوۡا فِیۡہَا بِسۡمِ اللّٰہِ مَجۡؔرٖٮہَا وَمُرۡسٰٮہَاۤ ۚ اِنَّ رَبِّیۡ لَغَفُوۡرٌ رَّحِیۡمٌ
 </p>
 
-(11:42)
+([QS Hud [11]:42](https://openquran.com/11:42))
 
 ### 33. Doa Meminta Dipelihara dari Hal yang Tidak Berguna
 
 <p class="quran">
-
+رَبِّ اِنِّیۡۤ اَعُوۡذُ بِکَ اَنۡ اَسۡـَٔلَکَ مَا لَیۡسَ لِیۡ بِہٖ عِلۡمٌ ۖ وَّاِلَّا تَغۡفِرۡ لِیۡ وَتَرۡحَمۡنِیۡۤ اَکُنۡ مِّنَ الۡخٰسِرِیۡنَ
 </p>
 
-(11:48)
+([QS Hud [11]:48](https://openquran.com/11:48))
 
 ### 34. Bersyukur atas Karunia Ilmu dan Kerajaan 
 
@@ -957,11 +957,11 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NjYwMTcyODAsLTE5Mjc1OTIxMiwtMT
-IyOTE1MDA3NiwtNzUzMjExNjg3LC0xMjMzMjE2MzEsMTgwMjc0
-Nzg4OSwtNDMyODM5MTkyLC03OTA4NzkzOTgsNjU2NTE4NDk1LC
-0xNDA2NTM1OTQyLC05NDE2NTMxNzgsLTIwOTYwNzkzODAsLTE5
-Njk5OTMxNzQsNzQzNzYzODAwLC0xNjI3MDM3NTcwLDMxNDk4ND
-E2LDY0MDI1MTk0NSwtNjIwMDk5NDc2LDIwODQwNTg0ODZdfQ==
-
+eyJoaXN0b3J5IjpbMTUwNTgyOTUyNywtMTU2NjAxNzI4MCwtMT
+kyNzU5MjEyLC0xMjI5MTUwMDc2LC03NTMyMTE2ODcsLTEyMzMy
+MTYzMSwxODAyNzQ3ODg5LC00MzI4MzkxOTIsLTc5MDg3OTM5OC
+w2NTY1MTg0OTUsLTE0MDY1MzU5NDIsLTk0MTY1MzE3OCwtMjA5
+NjA3OTM4MCwtMTk2OTk5MzE3NCw3NDM3NjM4MDAsLTE2MjcwMz
+c1NzAsMzE0OTg0MTYsNjQwMjUxOTQ1LC02MjAwOTk0NzYsMjA4
+NDA1ODQ4Nl19
 -->
