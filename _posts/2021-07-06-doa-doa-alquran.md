@@ -111,7 +111,7 @@ published: true
 ### 10. Ikrar Iman dan Memohon Ampun dan Pemeliharaan dari Siksa Api Neraka
 
 <p class="quran">
-
+رَبَّنَاۤ اِنَّنَاۤ اٰمَنَّا فَاغۡفِرۡ لَنَا ذُنُوۡبَنَا وَقِنَا عَذَابَ النَّار
 </p>
 
 (3:17)
@@ -957,8 +957,8 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzNzE5NTU1OCw2NTY1MTg0OTUsLTE0MD
-Y1MzU5NDIsLTk0MTY1MzE3OCwtMjA5NjA3OTM4MCwtMTk2OTk5
-MzE3NCw3NDM3NjM4MDAsLTE2MjcwMzc1NzAsMzE0OTg0MTYsNj
-QwMjUxOTQ1LC02MjAwOTk0NzYsMjA4NDA1ODQ4Nl19
+eyJoaXN0b3J5IjpbLTE4MDc1MzgxNTAsNjU2NTE4NDk1LC0xND
+A2NTM1OTQyLC05NDE2NTMxNzgsLTIwOTYwNzkzODAsLTE5Njk5
+OTMxNzQsNzQzNzYzODAwLC0xNjI3MDM3NTcwLDMxNDk4NDE2LD
+Y0MDI1MTk0NSwtNjIwMDk5NDc2LDIwODQwNTg0ODZdfQ==
 -->
