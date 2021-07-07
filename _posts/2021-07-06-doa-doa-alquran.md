@@ -606,7 +606,7 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Musa (as)
 وَلَا تُخۡزِنِیۡ یَوۡمَ یُبۡعَثُوۡنَ
 </p>
 
-(QS Asy-Syu'araa [26]: [84](https://openquran.com/26:84), [85](https://openquran.com/26:85), [86], [87], [88])
+(QS Asy-Syu'araa [26]: [84](https://openquran.com/26:84), [85](https://openquran.com/26:85), [86](https://openquran.com/26:86), [87](https://openquran.com/26:87), [88](https://openquran.com/26:88))
 
 Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 
@@ -620,7 +620,7 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 
 </p>
 
-(26:118,119)
+(QS Asy-Syu'araa [26]: [118]()-[119]())
 
 ### 57. Doa Memohon Dipelihara dari Tangan Musuh 
 
@@ -628,7 +628,7 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 
 </p>
 
-(26:170)
+(QS Asy-Syu'araa [26]:170)
 
 ### 58. Doa Memohon Taufik Agar Menjadi Pribadi yang Bersyukur
 
@@ -961,11 +961,11 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1MDQ5MDAxNCw0ODExNzMxNjgsMTc2OD
-I2MTg4NywxMDc5MzA0MTI5LC0xMzgwMTk0NjAwLDEyNzkyMzQ1
-MjcsLTE1NjYwMTcyODAsLTE5Mjc1OTIxMiwtMTIyOTE1MDA3Ni
-wtNzUzMjExNjg3LC0xMjMzMjE2MzEsMTgwMjc0Nzg4OSwtNDMy
-ODM5MTkyLC03OTA4NzkzOTgsNjU2NTE4NDk1LC0xNDA2NTM1OT
-QyLC05NDE2NTMxNzgsLTIwOTYwNzkzODAsLTE5Njk5OTMxNzQs
-NzQzNzYzODAwXX0=
+eyJoaXN0b3J5IjpbLTEwODMxODk5OTksNDgxMTczMTY4LDE3Nj
+gyNjE4ODcsMTA3OTMwNDEyOSwtMTM4MDE5NDYwMCwxMjc5MjM0
+NTI3LC0xNTY2MDE3MjgwLC0xOTI3NTkyMTIsLTEyMjkxNTAwNz
+YsLTc1MzIxMTY4NywtMTIzMzIxNjMxLDE4MDI3NDc4ODksLTQz
+MjgzOTE5MiwtNzkwODc5Mzk4LDY1NjUxODQ5NSwtMTQwNjUzNT
+k0MiwtOTQxNjUzMTc4LC0yMDk2MDc5MzgwLC0xOTY5OTkzMTc0
+LDc0Mzc2MzgwMF19
 -->
