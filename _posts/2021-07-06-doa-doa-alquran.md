@@ -846,6 +846,8 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 وَیُمۡدِدۡکُمۡ بِاَمۡوٰلٍ وَّبَنِیۡنَ وَیَجۡعَل لَّکُمۡ جَنّٰتٍ وَّیَجۡعَل لَّکُمۡ اَنۡہٰرًا
 </p>
 
+(QS Nuuh [71]:6, 13)
+
 ---
 
 <p class="quran">
@@ -856,6 +858,8 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 وَمَکَرُوۡا مَکۡرًا کُبَّارًا
 </p>
 
+(QS Nuuh [71]: 22-23)
+
 ---
 
 <p class="quran">
@@ -863,26 +867,14 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 </p>
 
 <p class="quran">
-
+اِنَّکَ اِنۡ تَذَرۡہُمۡ یُضِلُّوۡا عِبَادَکَ وَلَا یَلِدُوۡۤا اِلَّا فَاجِرًا کَفَّارًا
 </p>
 
 <p class="quran">
-
+رَّبِّ اغۡفِرۡ لِیۡ وَلِوٰلِدَیَّ وَلِمَنۡ دَخَلَ بَیۡتِیَ مُؤۡمِنًا وَّلِلۡمُؤۡمِنِیۡنَ وَالۡمُؤۡمِنٰتِ وَلَا تَزِدِ الظّٰلِمِیۡنَ اِلَّا تَبَارًۢا
 </p>
 
-<p class="quran">
-
-</p>
-
-<p class="quran">
-
-</p>
-
-<p class="quran">
-
-</p>
-
-(QS Nuuh [71]:6-13,  22-23, 27-29)
+(QS Nuuh [71]: 27-29)
 
 ### 80. Doa Memohon Perlindungan
 
@@ -935,7 +927,7 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyNDkyMzYwMiwtMTE4Nzc0MjExMSwtND
+eyJoaXN0b3J5IjpbMTEyNTc1NDYyMSwtMTE4Nzc0MjExMSwtND
 gxOTEzNzUwLDQ4MTE3MzE2OCwxNzY4MjYxODg3LDEwNzkzMDQx
 MjksLTEzODAxOTQ2MDAsMTI3OTIzNDUyNywtMTU2NjAxNzI4MC
 wtMTkyNzU5MjEyLC0xMjI5MTUwMDc2LC03NTMyMTE2ODcsLTEy
