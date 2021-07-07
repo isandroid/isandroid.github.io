@@ -151,7 +151,7 @@ published: true
 </p>
 
 <p class="quran">
-
+رَبَّنَاۤ اِنَّکَ مَنۡ تُدۡخِلِ النَّارَ فَقَدۡ اَخۡزَیۡتَہٗ ۖ وَمَا لِلظّٰلِمِیۡنَ مِنۡ اَنۡصَارٍ
 </p>
 
 ([QS Aali-'Imraan [3]:[192](https://openquran.com/3:192)-[193](https://openquran.com/3:193))
@@ -166,7 +166,7 @@ published: true
 
 </p>
 
-(3:194,195)
+(3:194-195)
 
 ### 16. Doa Meminta Dipelihara dari Negeri yang Penduduknya Zhalim
 
@@ -957,9 +957,9 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzk0MjgxNzUsLTQzMjgzOTE5MiwtNz
-kwODc5Mzk4LDY1NjUxODQ5NSwtMTQwNjUzNTk0MiwtOTQxNjUz
-MTc4LC0yMDk2MDc5MzgwLC0xOTY5OTkzMTc0LDc0Mzc2MzgwMC
-wtMTYyNzAzNzU3MCwzMTQ5ODQxNiw2NDAyNTE5NDUsLTYyMDA5
-OTQ3NiwyMDg0MDU4NDg2XX0=
+eyJoaXN0b3J5IjpbMTc4NjA1NzAyOCwtNDMyODM5MTkyLC03OT
+A4NzkzOTgsNjU2NTE4NDk1LC0xNDA2NTM1OTQyLC05NDE2NTMx
+NzgsLTIwOTYwNzkzODAsLTE5Njk5OTMxNzQsNzQzNzYzODAwLC
+0xNjI3MDM3NTcwLDMxNDk4NDE2LDY0MDI1MTk0NSwtNjIwMDk5
+NDc2LDIwODQwNTg0ODZdfQ==
 -->
