@@ -172,19 +172,21 @@ published: true
 
 ### 64. Doa Waktu Tiba di Negeri Asing
 
-### 65. Doa Memohon anak yang saleh
+### 65. Doa Memohon Anak yang Saleh
 
-66. Doa meminta pertolongan
+### 66. Doa Memohon Pertolongan
 
-67. Doa nabi sulaiman a.s.
+### 67. Doa Nabi Sulaiman (as)
 
-68. Menyatakan kebesaran tuhan
+### 68. Menyatakan Kebesaran Tuhan
 
-69. Doa meminta dipelihara dari api neraka dan doa untuk orang-orang yang bertobat supaya mereka dimasukkan ke dalam surga
+### 69. Doa Meminta Dipelihara dari Api Neraka dan Doa untuk Orang-orang yang Bertobat agar Mereka Dimasukkan ke dalam Surga
 
-70. Doa menyerahkan segala pekerjaan kepada Allah 71. Doa naik kendaraan
+### 70. Doa Menyerahkan Segala Pekerjaan kepada Allah 
 
-72. Doa bersyukur atas nikmat Tuhan
+### 71. Doa Naik Kendaraan
+
+### 72. Doa Bersyukur atas nikmat Tuhan
 
 73. Doa meminta pertolongan
 
@@ -203,7 +205,7 @@ published: true
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5NjQ2MDQwMCwzMTQ5ODQxNiw2NDAyNT
+eyJoaXN0b3J5IjpbLTQzOTI1OTI0MiwzMTQ5ODQxNiw2NDAyNT
 E5NDUsLTYyMDA5OTQ3NiwyMDg0MDU4NDg2LDEzMTU1MjI5NzBd
 fQ==
 -->
