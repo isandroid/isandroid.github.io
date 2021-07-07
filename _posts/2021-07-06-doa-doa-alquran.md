@@ -879,15 +879,15 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 ### 80. Doa Memohon Perlindungan I
 
 <p class="quran">
-
+بِسۡمِ اللّٰہِ الرَّحۡمٰنِ الرَّحِیۡمِ
 </p>
 
 <p class="quran">
-
+قُلۡ اَعُوۡذُ بِرَبِّ الۡفَلَقِ
 </p>
 
 <p class="quran">
-
+مِنۡ شَرِّ مَا خَلَقَ
 </p>
 
 <p class="quran">
@@ -931,11 +931,11 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MjA2MTA0OTgsLTExODc3NDIxMTEsLT
-Q4MTkxMzc1MCw0ODExNzMxNjgsMTc2ODI2MTg4NywxMDc5MzA0
-MTI5LC0xMzgwMTk0NjAwLDEyNzkyMzQ1MjcsLTE1NjYwMTcyOD
-AsLTE5Mjc1OTIxMiwtMTIyOTE1MDA3NiwtNzUzMjExNjg3LC0x
-MjMzMjE2MzEsMTgwMjc0Nzg4OSwtNDMyODM5MTkyLC03OTA4Nz
-kzOTgsNjU2NTE4NDk1LC0xNDA2NTM1OTQyLC05NDE2NTMxNzgs
-LTIwOTYwNzkzODBdfQ==
+eyJoaXN0b3J5IjpbMTc2OTE5Mjc0MiwtMTE4Nzc0MjExMSwtND
+gxOTEzNzUwLDQ4MTE3MzE2OCwxNzY4MjYxODg3LDEwNzkzMDQx
+MjksLTEzODAxOTQ2MDAsMTI3OTIzNDUyNywtMTU2NjAxNzI4MC
+wtMTkyNzU5MjEyLC0xMjI5MTUwMDc2LC03NTMyMTE2ODcsLTEy
+MzMyMTYzMSwxODAyNzQ3ODg5LC00MzI4MzkxOTIsLTc5MDg3OT
+M5OCw2NTY1MTg0OTUsLTE0MDY1MzU5NDIsLTk0MTY1MzE3OCwt
+MjA5NjA3OTM4MF19
 -->
