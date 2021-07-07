@@ -80,21 +80,35 @@ Doa diatas adalah Doa Nabi Ibrahim (as)
 
 ### 10. Ikrar Iman dan Memohon Ampun dan Pemeliharaan dari Siksa Api Neraka
 
-
+(3:17)
 
 ### 11. Memuji Kebesaran Tuhan dan Doa untuk Mencapai Kemajuan
 
+(3:27- 28)
+
 ### 12. Ikrar kepada Petunjuk dan Meminta Qurub  Ilahi (Kedekatan kepada Allah)
+
+(3:54)
 
 ### 13. Doa Memohon Ampun dan Memohon Diberikan Ketetapan Hati
 
+(3:148)
+
 ### 14. Doa Memohon Dipelihara dari Azab Neraka 
+
+(3:192-193)
 
 ### 15. Doa Pengakuan Menerima kebenaran, Memohon Ampun, Memohon agar Dimasukkan ke dalam Golongan Orang-orang yang Shaleh
 
+(3:194,195)
+
 ### 16. Doa Meminta Dipelihara dari Negeri yang Penduduknya Zhalim
 
+(4:76)
+
 ### 17. Doa Menyatakan Kelemahan Diri, Tidak Berdaya dan Memohon Dihindarkan dari Kaum yang Fasik 
+
+(5:26)
 
 ### 18. Doa Memohon Rejeki
 
@@ -224,7 +238,7 @@ Doa diatas adalah Doa Nabi Ibrahim (as)
 
 ### 81. Doa Memohon Perlindungan yang Menyeluruh
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTA4MTg4MjEsNzQzNzYzODAwLC0xNj
-I3MDM3NTcwLDMxNDk4NDE2LDY0MDI1MTk0NSwtNjIwMDk5NDc2
-LDIwODQwNTg0ODYsMTMxNTUyMjk3MF19
+eyJoaXN0b3J5IjpbMTI0Njk0NDgsNzQzNzYzODAwLC0xNjI3MD
+M3NTcwLDMxNDk4NDE2LDY0MDI1MTk0NSwtNjIwMDk5NDc2LDIw
+ODQwNTg0ODYsMTMxNTUyMjk3MF19
 -->
