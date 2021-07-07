@@ -198,15 +198,29 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Musa (as)
 
 ### 38. Doa Ketika akan Masuk dan Keluar dari Suatu Tempat
 
+(17:81)
+
 ### 39. Doa Memohon Rahmat dan Meminta Kemenangan
+
+(18:11)
 
 ### 40. Doa Memohon Anak yang Shaleh
 
+(19:5-7)
+
+Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Zakaria (as)
+
 ### 41. Doa Memohon Kemenagan dalam Bertabligh 
+
+(20:26-36)
 
 ### 42. Doa Memohon Ditambah Ilmu
 
+(20:115)
+
 ### 43. Doa Memohon agar Dijauhkan dari Kesusahan 
+
+(21:84)
 
 ### 44. Doa Mengakui Kesucian Allah dan Mengaku Diri Sendiri Bersalah
 
@@ -284,7 +298,7 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Musa (as)
 
 ### 81. Doa Memohon Perlindungan yang Menyeluruh
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTEwNTg0MjQwLDc0Mzc2MzgwMCwtMTYyNz
-AzNzU3MCwzMTQ5ODQxNiw2NDAyNTE5NDUsLTYyMDA5OTQ3Niwy
-MDg0MDU4NDg2LDEzMTU1MjI5NzBdfQ==
+eyJoaXN0b3J5IjpbMTAxMzkxNTA3Miw3NDM3NjM4MDAsLTE2Mj
+cwMzc1NzAsMzE0OTg0MTYsNjQwMjUxOTQ1LC02MjAwOTk0NzYs
+MjA4NDA1ODQ4NiwxMzE1NTIyOTcwXX0=
 -->
