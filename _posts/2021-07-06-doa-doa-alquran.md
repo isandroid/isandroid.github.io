@@ -88,7 +88,11 @@ Keterangan: Doa diatas adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)	dan Na
 
 ([QS Al-Baqarah [2]:202](https://openquran.com/2:202))
 
-Keterangan: Dalam hadits riwayat Muslim
+Keterangan: 
+
+- Dalam Alquran diceritakan bahwa doa ini adalah doa ketika
+
+- Dalam hadits riwayat Muslim disebutkan bahwa Rasulullah (saw) sering mempergunakan doa ini.
 
 ### 5. Doa Memohon Kesabaran, Ketetapan Iman, Kekuatan Menahan Rasa Sakit dan Bahaya dari Orang-orang Kafir
 
@@ -960,11 +964,11 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAwNTg3MTA4NywtMTQwNzUyOTMzMCwtMj
-k0MjQyNTAzLC0xMTg3NzQyMTExLC00ODE5MTM3NTAsNDgxMTcz
-MTY4LDE3NjgyNjE4ODcsMTA3OTMwNDEyOSwtMTM4MDE5NDYwMC
-wxMjc5MjM0NTI3LC0xNTY2MDE3MjgwLC0xOTI3NTkyMTIsLTEy
-MjkxNTAwNzYsLTc1MzIxMTY4NywtMTIzMzIxNjMxLDE4MDI3ND
-c4ODksLTQzMjgzOTE5MiwtNzkwODc5Mzk4LDY1NjUxODQ5NSwt
-MTQwNjUzNTk0Ml19
+eyJoaXN0b3J5IjpbMTQ1ODczNDYxLC0xNDA3NTI5MzMwLC0yOT
+QyNDI1MDMsLTExODc3NDIxMTEsLTQ4MTkxMzc1MCw0ODExNzMx
+NjgsMTc2ODI2MTg4NywxMDc5MzA0MTI5LC0xMzgwMTk0NjAwLD
+EyNzkyMzQ1MjcsLTE1NjYwMTcyODAsLTE5Mjc1OTIxMiwtMTIy
+OTE1MDA3NiwtNzUzMjExNjg3LC0xMjMzMjE2MzEsMTgwMjc0Nz
+g4OSwtNDMyODM5MTkyLC03OTA4NzkzOTgsNjU2NTE4NDk1LC0x
+NDA2NTM1OTQyXX0=
 -->
