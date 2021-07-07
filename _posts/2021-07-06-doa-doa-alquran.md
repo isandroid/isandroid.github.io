@@ -230,15 +230,15 @@ Keterangan: Doa ini adalah doa yang dipanjatkan oleh Nabi Adam (as)
 اَلۡحَمۡدُ لِلّٰہِ الَّذِیۡ ہَدٰٮنَا لِہٰذَا وَمَا کُنَّا لِنَہۡتَدِیَ لَوۡلَاۤ اَنۡ ہَدٰٮنَا اللّٰہُ
 </p>
 
-(7:44)
+([QS Al-A'roof [7]:44](https://openquran.com/7:44))
 
 ### 23. Doa Memohon Kesabaran dan Keselamatan 
 
 <p class="quran">
-
+رَبَّنَاۤ اَفۡرِغۡ عَلَیۡنَا صَبۡرًا وَّتَوَفَّنَا مُسۡلِمِیۡنَ
 </p>
 
-(7:127)
+([7:127](https://openquran.com/7:127))
 
 ### 24. Doa Memohon Dijauhkan dari Orang yang Zalim 
 
@@ -957,10 +957,10 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyNDA5Njc5NCwtNzUzMjExNjg3LC0xMj
-MzMjE2MzEsMTgwMjc0Nzg4OSwtNDMyODM5MTkyLC03OTA4Nzkz
-OTgsNjU2NTE4NDk1LC0xNDA2NTM1OTQyLC05NDE2NTMxNzgsLT
-IwOTYwNzkzODAsLTE5Njk5OTMxNzQsNzQzNzYzODAwLC0xNjI3
-MDM3NTcwLDMxNDk4NDE2LDY0MDI1MTk0NSwtNjIwMDk5NDc2LD
-IwODQwNTg0ODZdfQ==
+eyJoaXN0b3J5IjpbNTc4ODQ3NzY4LC03NTMyMTE2ODcsLTEyMz
+MyMTYzMSwxODAyNzQ3ODg5LC00MzI4MzkxOTIsLTc5MDg3OTM5
+OCw2NTY1MTg0OTUsLTE0MDY1MzU5NDIsLTk0MTY1MzE3OCwtMj
+A5NjA3OTM4MCwtMTk2OTk5MzE3NCw3NDM3NjM4MDAsLTE2Mjcw
+Mzc1NzAsMzE0OTg0MTYsNjQwMjUxOTQ1LC02MjAwOTk0NzYsMj
+A4NDA1ODQ4Nl19
 -->
