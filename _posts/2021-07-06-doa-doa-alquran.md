@@ -131,7 +131,7 @@ published: true
 ### 12. Ikrar kepada Petunjuk dan Meminta Qurub  Ilahi (Kedekatan kepada Allah)
 
 <p class="quran">
-
+رَبَّنَاۤ اٰمَنَّا بِمَاۤ اَنۡزَلۡتَ وَاتَّبَعۡنَا الرَّسُوۡلَ فَاکۡتُبۡنَا مَعَ الشّٰہِدِیۡنَ
 </p>
 
 ([QS Aali-'Imraan [3]:54](https://openquran.com/3:54))
@@ -139,10 +139,10 @@ published: true
 ### 13. Doa Memohon Ampun dan Memohon Diberikan Ketetapan Hati
 
 <p class="quran">
-
+رَبَّنَا اغۡفِرۡ لَنَا ذُنُوۡبَنَا وَاِسۡرَافَنَا فِیۡۤ اَمۡرِنَا وَثَبِّتۡ اَقۡدَامَنَا وَانۡصُرۡنَا عَلَی الۡقَوۡمِ الۡکٰفِرِیۡنَ
 </p>
 
-(3:148)
+([QS Aali-'Imraan [3]:148](https://openquran.com/3:148))
 
 ### 14. Doa Memohon Dipelihara dari Azab Neraka 
 
@@ -957,8 +957,8 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODA5ODI0NTY1LDY1NjUxODQ5NSwtMTQwNj
-UzNTk0MiwtOTQxNjUzMTc4LC0yMDk2MDc5MzgwLC0xOTY5OTkz
-MTc0LDc0Mzc2MzgwMCwtMTYyNzAzNzU3MCwzMTQ5ODQxNiw2ND
-AyNTE5NDUsLTYyMDA5OTQ3NiwyMDg0MDU4NDg2XX0=
+eyJoaXN0b3J5IjpbLTc5MDg3OTM5OCw2NTY1MTg0OTUsLTE0MD
+Y1MzU5NDIsLTk0MTY1MzE3OCwtMjA5NjA3OTM4MCwtMTk2OTk5
+MzE3NCw3NDM3NjM4MDAsLTE2MjcwMzc1NzAsMzE0OTg0MTYsNj
+QwMjUxOTQ1LC02MjAwOTk0NzYsMjA4NDA1ODQ4Nl19
 -->
