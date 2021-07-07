@@ -330,8 +330,9 @@ Keterangan:
 
 - Ini adalah doa yang dipanjatkan oleh Nabi Musa (as).
 - Nabi Musa (as) kembali dari kepada kaumnya dengan perasaan marah dan sedih karena mereka telah menyembah lembu.
-- Nabi Musa (as) memarahi Nabi Harun (as) sebagai seorang wakil yang diberikan amanat untuk menjaga Bani Israil. Beliau berkata bahwa apakah Nabi Harun (as) ingin mempercepat turunnya azab kepada Bani Israil. 
-- Nabi Musa (as) meletakkan *loh* (kitab berupa lempengan keras) sambil memegang kepala Nabi Harun (as)   
+- Nabi Musa (as) memarahi Nabi Harun (as) sebagai seorang wakil yang diberikan amanat untuk menjaga Bani Israil. 
+- Nabi Musa (as) mencengkeram kepala Nabi Harun (as), bukan karena Harun (as) telah membiarkan atau menyokong perbuatan pemujaan lembu, melainkan karena Nabi Harun (as) tidak berhasil mencegah kaumnya menyembah lembu. 
+- Nabi Musa (as) menunjukkan kegusaran karena Nabi Harun (as) tidak berhasil mengelola urusan-urusan agama dengan sebaikbaiknya selagi nabi Musa As tidak ada di tempat. Kemarahan itu beralasan, sebab suatu penodaan besar telah dilakukan dan seluruh pekerjaan Nabi Musa As selama hidupnya telah terancam bahaya.
 
 ### 27. Doa Memohon Ampun dan Meminta Rahmat 
 
@@ -1005,7 +1006,7 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0MzU1MzM0OCwxNTAxMTIxODYyLC0xNT
+eyJoaXN0b3J5IjpbLTMwMjM4MzA5NCwxNTAxMTIxODYyLC0xNT
 MzOTg5OTk0LC04MjA4MDQ1OTUsLTE0MDc1MjkzMzAsLTI5NDI0
 MjUwMywtMTE4Nzc0MjExMSwtNDgxOTEzNzUwLDQ4MTE3MzE2OC
 wxNzY4MjYxODg3LDEwNzkzMDQxMjksLTEzODAxOTQ2MDAsMTI3
