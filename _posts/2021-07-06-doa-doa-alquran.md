@@ -657,18 +657,18 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 ### 61. Mengakui Kesalahan dan Memohon Diampuni 
 
 <p class="quran">
-
+رَبِّ اِنِّیۡ ظَلَمۡتُ نَفۡسِیۡ فَاغۡفِرۡ لِیۡ فَغَفَرَ لَہٗۤ ۚ اِنَّہٗ ہُوَ الۡغَفُوۡرُ الرَّحِیۡمُ
 </p>
 
-(QS Al-Qoshosh [28]:17)
+([QS Al-Qoshosh [28]:17](https://openquran.com/28:17))
 
 ### 62. Doa Agar Terhindar dari Bagian Orang-orang yang Berdosa
 
 <p class="quran">
-
+رَبِّ بِمَاۤ اَنۡعَمۡتَ عَلَیَّ فَلَنۡ اَکُوۡنَ ظَہِیۡرًا لِّلۡمُجۡرِمِیۡنَ
 </p>
 
-(28:18)
+([QS Al-Qoshosh [28]:18](https://openquran.com/28:18))
 
 ### 63. Doa Meminta Terpelihara dari Kaum yang Zalim (aniaya)
 
@@ -676,7 +676,8 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 
 </p>
 
-(28:22)
+([QS Al-Qoshosh [28]:22](https://openquran.com/28:22))
+
 
 ### 64. Doa Waktu Tiba di Negeri Asing
 
@@ -684,7 +685,7 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 
 </p>
 
-(28:25)
+([QS Al-Qoshosh [28]:25](https://openquran.com/28:25))
 
 ### 65. Doa Memohon Anak yang Saleh
 
@@ -961,11 +962,11 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4MjU3MjYyOSw0ODExNzMxNjgsMTc2OD
-I2MTg4NywxMDc5MzA0MTI5LC0xMzgwMTk0NjAwLDEyNzkyMzQ1
-MjcsLTE1NjYwMTcyODAsLTE5Mjc1OTIxMiwtMTIyOTE1MDA3Ni
-wtNzUzMjExNjg3LC0xMjMzMjE2MzEsMTgwMjc0Nzg4OSwtNDMy
-ODM5MTkyLC03OTA4NzkzOTgsNjU2NTE4NDk1LC0xNDA2NTM1OT
-QyLC05NDE2NTMxNzgsLTIwOTYwNzkzODAsLTE5Njk5OTMxNzQs
-NzQzNzYzODAwXX0=
+eyJoaXN0b3J5IjpbMjM2NTM2MjM4LDQ4MTE3MzE2OCwxNzY4Mj
+YxODg3LDEwNzkzMDQxMjksLTEzODAxOTQ2MDAsMTI3OTIzNDUy
+NywtMTU2NjAxNzI4MCwtMTkyNzU5MjEyLC0xMjI5MTUwMDc2LC
+03NTMyMTE2ODcsLTEyMzMyMTYzMSwxODAyNzQ3ODg5LC00MzI4
+MzkxOTIsLTc5MDg3OTM5OCw2NTY1MTg0OTUsLTE0MDY1MzU5ND
+IsLTk0MTY1MzE3OCwtMjA5NjA3OTM4MCwtMTk2OTk5MzE3NCw3
+NDM3NjM4MDBdfQ==
 -->
