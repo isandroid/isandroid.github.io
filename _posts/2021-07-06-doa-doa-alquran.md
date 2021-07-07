@@ -254,15 +254,15 @@ Keterangan: Doa ini adalah doa yang dipanjatkan oleh Nabi Adam (as)
 لَئِنۡ لَّمۡ یَرۡحَمۡنَا رَبُّنَا وَیَغۡفِرۡ لَنَا لَنَکُوۡنَنَّ مِنَ الۡخٰسِرِیۡنَ
 </p>
 
-(7:150)
+([QS Al-A'roof [7]:150](https://openquran.com/7:150))
 
 ### 26. Doa Memohon Ampun
 
 <p class="quran">
-
+رَبِّ اغۡفِرۡ لِیۡ وَلِاَخِیۡ وَاَدۡخِلۡنَا فِیۡ رَحۡمَتِکَ ۖ وَاَنۡتَ اَرۡحَمُ الرّٰحِمِیۡنَ
 </p>
 
-(7:152) 
+([QS Al-A'roof [7]:152](https://openquran.com/7:152))
 
 Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Musa (as)
 
@@ -957,10 +957,10 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxMDY0Nzg2LC0xMjI5MTUwMDc2LC03NT
-MyMTE2ODcsLTEyMzMyMTYzMSwxODAyNzQ3ODg5LC00MzI4Mzkx
-OTIsLTc5MDg3OTM5OCw2NTY1MTg0OTUsLTE0MDY1MzU5NDIsLT
-k0MTY1MzE3OCwtMjA5NjA3OTM4MCwtMTk2OTk5MzE3NCw3NDM3
-NjM4MDAsLTE2MjcwMzc1NzAsMzE0OTg0MTYsNjQwMjUxOTQ1LC
-02MjAwOTk0NzYsMjA4NDA1ODQ4Nl19
+eyJoaXN0b3J5IjpbLTIxMzI0MzM1NTYsLTEyMjkxNTAwNzYsLT
+c1MzIxMTY4NywtMTIzMzIxNjMxLDE4MDI3NDc4ODksLTQzMjgz
+OTE5MiwtNzkwODc5Mzk4LDY1NjUxODQ5NSwtMTQwNjUzNTk0Mi
+wtOTQxNjUzMTc4LC0yMDk2MDc5MzgwLC0xOTY5OTkzMTc0LDc0
+Mzc2MzgwMCwtMTYyNzAzNzU3MCwzMTQ5ODQxNiw2NDAyNTE5ND
+UsLTYyMDA5OTQ3NiwyMDg0MDU4NDg2XX0=
 -->
