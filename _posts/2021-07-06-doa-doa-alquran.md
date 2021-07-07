@@ -136,7 +136,7 @@ Wahai Tuhan kami, janganlah Engkau bengkokkan hati kami setelah Engkau memberi k
 رَبَّنَاۤ اِنَّکَ جَامِعُ النَّاسِ لِیَوۡمٍ لَّا رَیۡبَ فِیۡہِ ۚ اِنَّ اللّٰہَ لَا یُخۡلِفُ الۡمِیۡعَادَ
 </p>
 
-([QS Aali-'Imraan [3]:10](https://openquran.com/3:10))
+"Wahai Tuhan kami, sesungguhnya Engkau akan menghimpun manusia pada Hari yang di dalamnya tidak ada keraguan, sungguh Allah tidak akan menyalahi janji.” ([QS Aali-'Imraan [3]:10](https://openquran.com/3:10))
 
 ### 10. Ikrar Iman dan Memohon Ampun dan Pemeliharaan dari Siksa Api Neraka
 
@@ -968,11 +968,11 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyMDgwNDU5NSwtMTQwNzUyOTMzMCwtMj
-k0MjQyNTAzLC0xMTg3NzQyMTExLC00ODE5MTM3NTAsNDgxMTcz
-MTY4LDE3NjgyNjE4ODcsMTA3OTMwNDEyOSwtMTM4MDE5NDYwMC
-wxMjc5MjM0NTI3LC0xNTY2MDE3MjgwLC0xOTI3NTkyMTIsLTEy
-MjkxNTAwNzYsLTc1MzIxMTY4NywtMTIzMzIxNjMxLDE4MDI3ND
-c4ODksLTQzMjgzOTE5MiwtNzkwODc5Mzk4LDY1NjUxODQ5NSwt
-MTQwNjUzNTk0Ml19
+eyJoaXN0b3J5IjpbLTE1MzM5ODk5OTQsLTgyMDgwNDU5NSwtMT
+QwNzUyOTMzMCwtMjk0MjQyNTAzLC0xMTg3NzQyMTExLC00ODE5
+MTM3NTAsNDgxMTczMTY4LDE3NjgyNjE4ODcsMTA3OTMwNDEyOS
+wtMTM4MDE5NDYwMCwxMjc5MjM0NTI3LC0xNTY2MDE3MjgwLC0x
+OTI3NTkyMTIsLTEyMjkxNTAwNzYsLTc1MzIxMTY4NywtMTIzMz
+IxNjMxLDE4MDI3NDc4ODksLTQzMjgzOTE5MiwtNzkwODc5Mzk4
+LDY1NjUxODQ5NV19
 -->
