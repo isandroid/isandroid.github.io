@@ -120,7 +120,7 @@ Kami mohon ampunan Engkau wahai Tuhan kami, dan kepada Engkau-lah *kami* kembali
 رَبَّنَا لَا تُؤَاخِذۡنَاۤ اِنۡ نَّسِیۡنَاۤ اَوۡ اَخۡطَاۡنَا ۚ رَبَّنَا وَلَا تَحۡمِلۡ عَلَیۡنَاۤ اِصۡرًا کَمَا حَمَلۡتَہٗ عَلَی الَّذِیۡنَ مِنۡ قَبۡلِنَا ۚ رَبَّنَا وَلَا تُحَمِّلۡنَا مَا لَا طَاقَۃَ لَنَا بِہٖ ۖ وَاعۡفُ عَنَّا وَاغۡفِرۡ لَنَا وَارۡحَمۡنَاۤ ۚ اَنۡتَ مَوۡلٰٮنَا فَانۡصُرۡنَا عَلَی الۡقَوۡمِ الۡکٰفِرِیۡنَ
 </p>
 
-([QS Al-Baqarah [2]:287](https://openquran.com/2:287))
+“Wahai Tuhan kami, janganlah Engkau menghukum kami jika kami lupa atau kami salah. Wahai Tuhan kami, janganlah Engkau membebani kami tanggung jawab seperti telah Engkau bebankan atas orang-orang sebelum kami. Wahai Tuhan kami, janganlah Engkau membebani kami dengan apa yang kami tidak kuat menanggungnya, maafkanlah kami, ampunilah kami, dan kasihilah kami karena Engkaulah Pelindung kami, maka tolonglah kami terhadap kaum kafir.” ([QS Al-Baqarah [2]:287](https://openquran.com/2:287))
 
 ### 8. Doa untuk Ketetapan Iman dan agar Hati Tidak Menyimpang
 
@@ -968,7 +968,7 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyNjM2OTM4LC0xNDA3NTI5MzMwLC0yOT
+eyJoaXN0b3J5IjpbMTY3NDM5MjYzLC0xNDA3NTI5MzMwLC0yOT
 QyNDI1MDMsLTExODc3NDIxMTEsLTQ4MTkxMzc1MCw0ODExNzMx
 NjgsMTc2ODI2MTg4NywxMDc5MzA0MTI5LC0xMzgwMTk0NjAwLD
 EyNzkyMzQ1MjcsLTE1NjYwMTcyODAsLTE5Mjc1OTIxMiwtMTIy
