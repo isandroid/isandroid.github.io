@@ -531,7 +531,7 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Musa (as)
 </p>
 
 <p class="quran">
-
+رَبِّ فَلَا تَجۡعَلۡنِیۡ فِی الۡقَوۡمِ الظّٰلِمِیۡنَ
 </p>
 
 (QS Al-Mu-minuun [23]:[94](https://openquran.com/23:94)-[95](https://openquran.com/23:95))
@@ -539,11 +539,11 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Musa (as)
 ### 50. Doa Memohon Dijauhkan dari Was-was Setan 
 
 <p class="quran">
-
+رَّبِّ اَعُوۡذُ بِکَ مِنۡ ہَمَزٰتِ الشَّیٰطِیۡنِ
 </p>
 
 <p class="quran">
-
+وَاَعُوۡذُ بِکَ رَبِّ اَنۡ یَّحۡضُرُوۡنِ
 </p>
 
 (QS Al-Mu-minuun [23]:[98](https://openquran.com/23:98)-[99](https://openquran.com/23:99))
@@ -961,7 +961,7 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzk0NTA2MzY3LDQ4MTE3MzE2OCwxNzY4Mj
+eyJoaXN0b3J5IjpbODU2NjI4MzU4LDQ4MTE3MzE2OCwxNzY4Mj
 YxODg3LDEwNzkzMDQxMjksLTEzODAxOTQ2MDAsMTI3OTIzNDUy
 NywtMTU2NjAxNzI4MCwtMTkyNzU5MjEyLC0xMjI5MTUwMDc2LC
 03NTMyMTE2ODcsLTEyMzMyMTYzMSwxODAyNzQ3ODg5LC00MzI4
