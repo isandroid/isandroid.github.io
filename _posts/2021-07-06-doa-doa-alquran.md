@@ -224,19 +224,35 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Zakaria (as)
 
 ### 44. Doa Mengakui Kesucian Allah dan Mengaku Diri Sendiri Bersalah
 
+(21:88)
+
 ### 45. Doa Memohon Keturunan
+
+(21:90)
 
 ### 46. Doa Memohon Keputusan
 
+(21:113)
+
 ### 47. Doa Memohon Pertolongan dari Serangan Pihak yang Anti
+
+(23:27)
 
 ### 48. Doa Memohon Disampaikan ke Tempat yang Berkah
 
+(23:30)
+
 ### 49. Doa Memohon Dipelihara dari Azab
+
+(23:94,95)
 
 ### 50. Doa Memohon Dijauhkan dari Was-was Setan 
 
+(23:98,99)
+
 ### 51. Doa Memohon Ampun dan Kasih Sayang Tuhan 
+
+(23:119)
 
 ### 52. Doa Memohon Ampun
 
@@ -298,7 +314,7 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Zakaria (as)
 
 ### 81. Doa Memohon Perlindungan yang Menyeluruh
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxMzkxNTA3Miw3NDM3NjM4MDAsLTE2Mj
+eyJoaXN0b3J5IjpbMTkwMzc3MjQ3Myw3NDM3NjM4MDAsLTE2Mj
 cwMzc1NzAsMzE0OTg0MTYsNjQwMjUxOTQ1LC02MjAwOTk0NzYs
 MjA4NDA1ODQ4NiwxMzE1NTIyOTcwXX0=
 -->
