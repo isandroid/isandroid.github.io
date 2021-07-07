@@ -166,19 +166,35 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Musa (as)
 
 ### 30. Doa Memohon Dijauhkan dari Kejahatan Musuh 
 
+(10:86,87)
+
 ### 31. Doa untuk Kebinasaan Orang yang Zalim
+
+(10:89)
 
 ### 32. Doa Naik Kapal atau Kendaraan
 
+(11:42)
+
 ### 33. Doa Meminta Dipelihara dari Hal yang Tidak Berguna
+
+(11:48)
 
 ### 34. Bersyukur atas Karunia Ilmu dan Kerajaan 
 
+(12:102)
+
 ### 35. Doa Memohon Keselamatan Iman
+
+(12:102)
 
 ### 36. Doa Memohon Dilapangkan Rejeki, Memohon agar Anak-Cucu Kita Menjadi Orang Shaleh 
 
+(14:36-42)
+
 ### 37. Doa untuk Ibu dan Bapak
+
+(17:25)
 
 ### 38. Doa Ketika akan Masuk dan Keluar dari Suatu Tempat
 
@@ -268,7 +284,7 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Musa (as)
 
 ### 81. Doa Memohon Perlindungan yang Menyeluruh
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ4NjY4MzE4Miw3NDM3NjM4MDAsLTE2Mj
-cwMzc1NzAsMzE0OTg0MTYsNjQwMjUxOTQ1LC02MjAwOTk0NzYs
-MjA4NDA1ODQ4NiwxMzE1NTIyOTcwXX0=
+eyJoaXN0b3J5IjpbOTEwNTg0MjQwLDc0Mzc2MzgwMCwtMTYyNz
+AzNzU3MCwzMTQ5ODQxNiw2NDAyNTE5NDUsLTYyMDA5OTQ3Niwy
+MDg0MDU4NDg2LDEzMTU1MjI5NzBdfQ==
 -->
