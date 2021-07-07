@@ -346,7 +346,8 @@ Keterangan:
 Keterangan: 
 
 - Doa ini dipanjatkan Nabi Musa (as).
-- Ketika itu Nabi Musa sedang memilih tujuh puluh orang laki-laki dari kaumnya untuk menepati perjanjian kepada Allah Ta'ala (melaksanakan baiat)
+- Kala itu Nabi Musa sedang memilih tujuh puluh orang laki-laki dari kaumnya untuk menepati perjanjian kepada Allah Ta'ala (melaksanakan baiat)
+- Allah Ta'ala memerintahkan bumi agar berguncang (gempa).
 - 
 
 ### 28. Doa Memohon Kebaikan Dunia dan Akhirat 
@@ -1013,11 +1014,11 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzMjU4ODc2MiwxNTAxMTIxODYyLC0xNT
-MzOTg5OTk0LC04MjA4MDQ1OTUsLTE0MDc1MjkzMzAsLTI5NDI0
-MjUwMywtMTE4Nzc0MjExMSwtNDgxOTEzNzUwLDQ4MTE3MzE2OC
-wxNzY4MjYxODg3LDEwNzkzMDQxMjksLTEzODAxOTQ2MDAsMTI3
-OTIzNDUyNywtMTU2NjAxNzI4MCwtMTkyNzU5MjEyLC0xMjI5MT
-UwMDc2LC03NTMyMTE2ODcsLTEyMzMyMTYzMSwxODAyNzQ3ODg5
-LC00MzI4MzkxOTJdfQ==
+eyJoaXN0b3J5IjpbNDMxODg2MTM4LDE1MDExMjE4NjIsLTE1Mz
+M5ODk5OTQsLTgyMDgwNDU5NSwtMTQwNzUyOTMzMCwtMjk0MjQy
+NTAzLC0xMTg3NzQyMTExLC00ODE5MTM3NTAsNDgxMTczMTY4LD
+E3NjgyNjE4ODcsMTA3OTMwNDEyOSwtMTM4MDE5NDYwMCwxMjc5
+MjM0NTI3LC0xNTY2MDE3MjgwLC0xOTI3NTkyMTIsLTEyMjkxNT
+AwNzYsLTc1MzIxMTY4NywtMTIzMzIxNjMxLDE4MDI3NDc4ODks
+LTQzMjgzOTE5Ml19
 -->
