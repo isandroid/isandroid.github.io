@@ -715,10 +715,10 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 ### 68. Menyatakan Kebesaran Tuhan
 
 <p class="quran">
-
+اَللّٰہُمَّ فَاطِرَ السَّمٰوٰتِ وَالۡاَرۡضِ عٰلِمَ الۡغَیۡبِ وَالشَّہٰدَۃِ اَنۡتَ تَحۡکُمُ بَیۡنَ عِبَادِکَ فِیۡ مَا کَانُوۡا فِیۡہِ یَخۡتَلِفُوۡنَ
 </p>
 
-(39:47)
+([QS Az-Zumar [39]:47](https://openquran.com/39:47))
 
 ### 69. Doa Meminta Dipelihara dari Api Neraka dan Doa untuk Orang-orang yang Bertobat agar Mereka Dimasukkan ke dalam Surga
 
@@ -963,11 +963,11 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4MTkxMzc1MCw0ODExNzMxNjgsMTc2OD
-I2MTg4NywxMDc5MzA0MTI5LC0xMzgwMTk0NjAwLDEyNzkyMzQ1
-MjcsLTE1NjYwMTcyODAsLTE5Mjc1OTIxMiwtMTIyOTE1MDA3Ni
-wtNzUzMjExNjg3LC0xMjMzMjE2MzEsMTgwMjc0Nzg4OSwtNDMy
-ODM5MTkyLC03OTA4NzkzOTgsNjU2NTE4NDk1LC0xNDA2NTM1OT
-QyLC05NDE2NTMxNzgsLTIwOTYwNzkzODAsLTE5Njk5OTMxNzQs
-NzQzNzYzODAwXX0=
+eyJoaXN0b3J5IjpbMTA3MTE5MzM3MywtNDgxOTEzNzUwLDQ4MT
+E3MzE2OCwxNzY4MjYxODg3LDEwNzkzMDQxMjksLTEzODAxOTQ2
+MDAsMTI3OTIzNDUyNywtMTU2NjAxNzI4MCwtMTkyNzU5MjEyLC
+0xMjI5MTUwMDc2LC03NTMyMTE2ODcsLTEyMzMyMTYzMSwxODAy
+NzQ3ODg5LC00MzI4MzkxOTIsLTc5MDg3OTM5OCw2NTY1MTg0OT
+UsLTE0MDY1MzU5NDIsLTk0MTY1MzE3OCwtMjA5NjA3OTM4MCwt
+MTk2OTk5MzE3NF19
 -->
