@@ -80,9 +80,13 @@ published: true
 
 ### 18. Doa Memohon Rejeki
 
-### 19. Doa Memohon agar Dimasukkan ke dalam Jemaat yang suci 20. Doa meminta ampun
+### 19. Doa Memohon agar Dimasukkan ke dalam Jemaat yang Suci 
 
-21. Doa meminta dinyatakan antara hak dan bathil 22. Doa bersyukur atas mendapat petunjuk 23. Doa meminta kesabaran dan keselamatan 24. Doa meminta dijauhkan dari orang yang zalim 25. Doa meminta kasih saying Tuhan dan am-punan Nya
+### 20. Doa Memohon Ampun
+
+### 21. Doa Memohon Dinyatakan Antara yang benar dan yang salah 
+
+### 22. Doa bersyukur atas mendapat petunjuk 23. Doa meminta kesabaran dan keselamatan 24. Doa meminta dijauhkan dari orang yang zalim 25. Doa meminta kasih saying Tuhan dan am-punan Nya
 
 26. Doa meminta ampun
 
@@ -165,7 +169,7 @@ nangan
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTc0NTcxMDYsMzE0OTg0MTYsNjQwMj
-UxOTQ1LC02MjAwOTk0NzYsMjA4NDA1ODQ4NiwxMzE1NTIyOTcw
-XX0=
+eyJoaXN0b3J5IjpbOTc4OTM3OTgwLDMxNDk4NDE2LDY0MDI1MT
+k0NSwtNjIwMDk5NDc2LDIwODQwNTg0ODYsMTMxNTUyMjk3MF19
+
 -->
