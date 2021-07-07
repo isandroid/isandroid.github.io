@@ -144,7 +144,7 @@ Wahai Tuhan kami, janganlah Engkau bengkokkan hati kami setelah Engkau memberi k
 رَبَّنَاۤ اِنَّنَاۤ اٰمَنَّا فَاغۡفِرۡ لَنَا ذُنُوۡبَنَا وَقِنَا عَذَابَ النَّار
 </p>
 
-([QS Aali-'Imraan [3]:17](https://openquran.com/3:17))
+“Wahai Tuhan kami, sesungguhnya kami telah beriman, maka ampunilah dosa-dosa kami, dan peliharalah kami dari azab Api.” ([QS Aali-'Imraan [3]:17](https://openquran.com/3:17))
 
 ### 11. Memuji Kebesaran Tuhan dan Doa untuk Mencapai Kemajuan
 
@@ -968,11 +968,11 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MzM5ODk5OTQsLTgyMDgwNDU5NSwtMT
-QwNzUyOTMzMCwtMjk0MjQyNTAzLC0xMTg3NzQyMTExLC00ODE5
-MTM3NTAsNDgxMTczMTY4LDE3NjgyNjE4ODcsMTA3OTMwNDEyOS
-wtMTM4MDE5NDYwMCwxMjc5MjM0NTI3LC0xNTY2MDE3MjgwLC0x
-OTI3NTkyMTIsLTEyMjkxNTAwNzYsLTc1MzIxMTY4NywtMTIzMz
-IxNjMxLDE4MDI3NDc4ODksLTQzMjgzOTE5MiwtNzkwODc5Mzk4
-LDY1NjUxODQ5NV19
+eyJoaXN0b3J5IjpbODA2ODgwOTU4LC0xNTMzOTg5OTk0LC04Mj
+A4MDQ1OTUsLTE0MDc1MjkzMzAsLTI5NDI0MjUwMywtMTE4Nzc0
+MjExMSwtNDgxOTEzNzUwLDQ4MTE3MzE2OCwxNzY4MjYxODg3LD
+EwNzkzMDQxMjksLTEzODAxOTQ2MDAsMTI3OTIzNDUyNywtMTU2
+NjAxNzI4MCwtMTkyNzU5MjEyLC0xMjI5MTUwMDc2LC03NTMyMT
+E2ODcsLTEyMzMyMTYzMSwxODAyNzQ3ODg5LC00MzI4MzkxOTIs
+LTc5MDg3OTM5OF19
 -->
