@@ -78,7 +78,11 @@ published: true
 
 ### 6. Doa Memohon Ampun
 
-(2:286)
+<p class="quran">
+غُفۡرَانَکَ رَبَّنَا وَاِلَیۡکَ الۡمَصِیۡرُ
+</p>
+
+([QS Al-Baqarah [2]:286](https://openquran.com/2:286))
 
 ### 7. Doa Memohon agar Dipelihara dari Siksaan Allah, Memohon Ampun dan Pertolongan 
 
@@ -395,8 +399,8 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODg2MTczLC05NDE2NTMxNzgsLTIwOT
-YwNzkzODAsLTE5Njk5OTMxNzQsNzQzNzYzODAwLC0xNjI3MDM3
-NTcwLDMxNDk4NDE2LDY0MDI1MTk0NSwtNjIwMDk5NDc2LDIwOD
-QwNTg0ODZdfQ==
+eyJoaXN0b3J5IjpbLTE0MDY1MzU5NDIsLTk0MTY1MzE3OCwtMj
+A5NjA3OTM4MCwtMTk2OTk5MzE3NCw3NDM3NjM4MDAsLTE2Mjcw
+Mzc1NzAsMzE0OTg0MTYsNjQwMjUxOTQ1LC02MjAwOTk0NzYsMj
+A4NDA1ODQ4Nl19
 -->
