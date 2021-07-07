@@ -739,10 +739,10 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 ### 70. Doa Menyerahkan Segala Pekerjaan kepada Allah 
 
 <p class="quran">
-
+وَاُفَوِّضُ اَمۡرِیۡۤ اِلَی اللّٰہِ ۚ اِنَّ اللّٰہَ بَصِیۡرٌۢ بِالۡعِبَادِ
 </p>
 
-(QS Al-Mu-min [40]:45]())
+([QS Al-Mu-min [40]:45](https://openquran.com/40:45))
 
 ### 71. Doa Naik Kendaraan
 
@@ -750,7 +750,7 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 
 </p>
 
-(43:14)
+([QS Az-Zukhruf [43]:14](https://openquran.com/43:14))
 
 ### 72. Doa Bersyukur atas Nikmat Tuhan
 
@@ -963,7 +963,7 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTQxNDQxNjIsLTQ4MTkxMzc1MCw0OD
+eyJoaXN0b3J5IjpbLTE4NzU4OTQzMTEsLTQ4MTkxMzc1MCw0OD
 ExNzMxNjgsMTc2ODI2MTg4NywxMDc5MzA0MTI5LC0xMzgwMTk0
 NjAwLDEyNzkyMzQ1MjcsLTE1NjYwMTcyODAsLTE5Mjc1OTIxMi
 wtMTIyOTE1MDA3NiwtNzUzMjExNjg3LC0xMjMzMjE2MzEsMTgw
