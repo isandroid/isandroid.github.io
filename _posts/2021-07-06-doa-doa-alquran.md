@@ -464,17 +464,17 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Zakaria (as)
 اِنَّکَ کُنۡتَ بِنَا بَصِیۡرًا
 </p>
 
-(QS Toha [20] :[26](https://openquran.com/20:26), [27](https://openquran.com/20:27), [28](https://openquran.com/20:28), [29](https://openquran.com/20:29), [30](https://openquran.com/20:30), [31](https://openquran.com/20:31), [32](https://openquran.com/20:32), [33](https://openquran.com/20:33), [34](https://openquran.com/20:34), [35](https://openquran.com/20:35), [36](https://openquran.com/20:27))
+(QS Toha [20] :[26](https://openquran.com/20:26), [27](https://openquran.com/20:27), [28](https://openquran.com/20:28), [29](https://openquran.com/20:29), [30](https://openquran.com/20:30), [31](https://openquran.com/20:31), [32](https://openquran.com/20:32), [33](https://openquran.com/20:33), [34](https://openquran.com/20:34), [35](https://openquran.com/20:35), [36](https://openquran.com/20:36))
 
 Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Musa (as)
 
 ### 42. Doa Memohon Ditambah Ilmu
 
 <p class="quran">
-
+ رَّبِّ زِدۡنِیۡ عِلۡمًا
 </p>
 
-(20:115)
+([QS Toha [20]:115](https://openquran.com/20:115))
 
 ### 43. Doa Memohon agar Dijauhkan dari Kesusahan 
 
@@ -961,7 +961,7 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MzA4MzQ1ODksMTc2ODI2MTg4NywxMD
+eyJoaXN0b3J5IjpbLTE0OTAwMTIxMzAsMTc2ODI2MTg4NywxMD
 c5MzA0MTI5LC0xMzgwMTk0NjAwLDEyNzkyMzQ1MjcsLTE1NjYw
 MTcyODAsLTE5Mjc1OTIxMiwtMTIyOTE1MDA3NiwtNzUzMjExNj
 g3LC0xMjMzMjE2MzEsMTgwMjc0Nzg4OSwtNDMyODM5MTkyLC03
