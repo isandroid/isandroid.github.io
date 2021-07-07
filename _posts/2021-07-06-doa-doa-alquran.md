@@ -727,14 +727,14 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 </p>
 
 <p class="quran">
-
+رَبَّنَا وَاَدۡخِلۡہُمۡ جَنّٰتِ عَدۡنِۣ الَّتِیۡ وَعَدتَّہُمۡ وَمَنۡ صَلَحَ مِنۡ اٰبَآئِہِمۡ وَاَزۡوٰجِہِمۡ وَذُرِّیّٰتِہِمۡ ۚ اِنَّکَ اَنۡتَ الۡعَزِیۡزُ الۡحَکِیۡمُ
 </p>
 
 <p class="quran">
-
+وَقِہِمُ السَّیِّاٰتِ ۚ وَمَنۡ تَقِ السَّیِّاٰتِ یَوۡمَئِذٍ فَقَدۡ رَحِمۡتَہٗ ۚ وَذٰلِکَ ہُوَ الۡفَوۡزُ الۡعَظِیۡمُ
 </p>
 
-(QS Al-Mu-min [40]:[8](https://openquran.com/40:8), [9](https://openquran.com/40:9), [10](https://openquran.com/40))
+(QS Al-Mu-min [40]:[8](https://openquran.com/40:8), [9](https://openquran.com/40:9), [10](https://openquran.com/40:10))
 
 ### 70. Doa Menyerahkan Segala Pekerjaan kepada Allah 
 
@@ -742,7 +742,7 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 
 </p>
 
-(40:45)
+(QS Al-Mu-min [40]:45]())
 
 ### 71. Doa Naik Kendaraan
 
@@ -963,11 +963,11 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2MDQxNTAyOCwtNDgxOTEzNzUwLDQ4MT
-E3MzE2OCwxNzY4MjYxODg3LDEwNzkzMDQxMjksLTEzODAxOTQ2
-MDAsMTI3OTIzNDUyNywtMTU2NjAxNzI4MCwtMTkyNzU5MjEyLC
-0xMjI5MTUwMDc2LC03NTMyMTE2ODcsLTEyMzMyMTYzMSwxODAy
-NzQ3ODg5LC00MzI4MzkxOTIsLTc5MDg3OTM5OCw2NTY1MTg0OT
-UsLTE0MDY1MzU5NDIsLTk0MTY1MzE3OCwtMjA5NjA3OTM4MCwt
-MTk2OTk5MzE3NF19
+eyJoaXN0b3J5IjpbLTE5OTQxNDQxNjIsLTQ4MTkxMzc1MCw0OD
+ExNzMxNjgsMTc2ODI2MTg4NywxMDc5MzA0MTI5LC0xMzgwMTk0
+NjAwLDEyNzkyMzQ1MjcsLTE1NjYwMTcyODAsLTE5Mjc1OTIxMi
+wtMTIyOTE1MDA3NiwtNzUzMjExNjg3LC0xMjMzMjE2MzEsMTgw
+Mjc0Nzg4OSwtNDMyODM5MTkyLC03OTA4NzkzOTgsNjU2NTE4ND
+k1LC0xNDA2NTM1OTQyLC05NDE2NTMxNzgsLTIwOTYwNzkzODAs
+LTE5Njk5OTMxNzRdfQ==
 -->
