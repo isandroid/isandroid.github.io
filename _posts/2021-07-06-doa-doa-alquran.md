@@ -60,13 +60,15 @@ published: true
 
 ### 8. Doa untuk Ketetapan Iman dan agar Hati Tidak Menyimpang
 
-### 9. Ikrar kepada Hari Kiamat, Allah Tidak menya-lahi janji
+### 9. Ikrar kepada Hari Kiamat
 
-10. Ikrar iman dan mohon ampun dan peme-liharaan dari siksa api neraka
+### 10. Ikrar Iman dan Memohon Ampun dan Pemeliharaan dari Siksa Api Neraka
 
-11. memuji kebesaran Tuhan dan doa untuk mencapai kemajuan
+### 11. Memuji Kebesaran Tuhan dan Doa untuk Mencapai Kemajuan
 
-12. Ikrar kepada petunjuk dan meminta qurub Ilahi 13. Doa meminta ampun dan meminta ditetapkan hati
+### 12. Ikrar kepada Petunjuk dan Meminta Qurub  Ilahi (Kedekatan kepada Allah)
+
+### 13. Doa meminta ampun dan meminta ditetapkan hati
 
 14. Doa meminta dipelihara dari azab neraka 15. Doa pengakuan menerima kebenaran, me-minta ampun, meminta dimasukkan dalam golongan orang-orang yang shaleh
 
@@ -159,6 +161,6 @@ nangan
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODE2MjUwNjEyLDY0MDI1MTk0NSwtNjIwMD
-k5NDc2LDIwODQwNTg0ODYsMTMxNTUyMjk3MF19
+eyJoaXN0b3J5IjpbMzE0OTg0MTYsNjQwMjUxOTQ1LC02MjAwOT
+k0NzYsMjA4NDA1ODQ4NiwxMzE1NTIyOTcwXX0=
 -->
