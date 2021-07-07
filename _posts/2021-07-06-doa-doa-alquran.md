@@ -329,7 +329,8 @@ Keterangan: Doa ini dipanjatkan oleh Kaum Bani Israil yang bertaubat dari menyem
 Keterangan: 
 
 - Ini adalah doa yang dipanjatkan oleh Nabi Musa (as).
-- Ketika nabi Musa (as) kembali dari kepada kaumnya yang telah menyembah sapi
+- Nabi Musa (as) kembali dari kepada kaumnya dengan perasaan marah dan sedih karena mereka telah menyembah lembu.
+- Nabi Musa (as) memarahi Nabi Harun (as) sebagai s
 
 ### 27. Doa Memohon Ampun dan Meminta Rahmat 
 
@@ -1003,11 +1004,11 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0MzMyMDQ3MCwxNTAxMTIxODYyLC0xNT
-MzOTg5OTk0LC04MjA4MDQ1OTUsLTE0MDc1MjkzMzAsLTI5NDI0
-MjUwMywtMTE4Nzc0MjExMSwtNDgxOTEzNzUwLDQ4MTE3MzE2OC
-wxNzY4MjYxODg3LDEwNzkzMDQxMjksLTEzODAxOTQ2MDAsMTI3
-OTIzNDUyNywtMTU2NjAxNzI4MCwtMTkyNzU5MjEyLC0xMjI5MT
-UwMDc2LC03NTMyMTE2ODcsLTEyMzMyMTYzMSwxODAyNzQ3ODg5
-LC00MzI4MzkxOTJdfQ==
+eyJoaXN0b3J5IjpbLTE3NzYyMDY2MTIsMTUwMTEyMTg2MiwtMT
+UzMzk4OTk5NCwtODIwODA0NTk1LC0xNDA3NTI5MzMwLC0yOTQy
+NDI1MDMsLTExODc3NDIxMTEsLTQ4MTkxMzc1MCw0ODExNzMxNj
+gsMTc2ODI2MTg4NywxMDc5MzA0MTI5LC0xMzgwMTk0NjAwLDEy
+NzkyMzQ1MjcsLTE1NjYwMTcyODAsLTE5Mjc1OTIxMiwtMTIyOT
+E1MDA3NiwtNzUzMjExNjg3LC0xMjMzMjE2MzEsMTgwMjc0Nzg4
+OSwtNDMyODM5MTkyXX0=
 -->
