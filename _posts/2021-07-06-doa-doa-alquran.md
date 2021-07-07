@@ -74,8 +74,11 @@ Keterangan: Doa diatas adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 
 “Wahai Tuhan kami, terimalah *amal* ini dari kami, sesungguhnya Engkaulah Yang Maha Mendengar, Maha Mengetahui.” 
 
+“Wahai Tuhan kami, jadikanlah kami berdua orang yang berserah diri kepada Engkau, dan jadikanlah dari antara keturunan kami satu umat yang berserah diri kepada Engkau. Dan perlihatkanlah kepada kami caracara ibadah kami dan terimalah taubat kami, sesungguhnya Engkau Maha Penerima tobat, Maha Penyayang.”
 
 (QS Al-Baqarah [2]:[128](https://openquran.com/2:128)-[129](https://openquran.com/2:129))
+
+Keterangan: Doa diatas adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)	dan Nabi Ismail (as)
 
 ### 4. Doa Memohon Kebaikan untuk Dunia dan akhirat 
 
@@ -84,6 +87,8 @@ Keterangan: Doa diatas adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 </p>
 
 ([QS Al-Baqarah [2]:202](https://openquran.com/2:202))
+
+Keterangan: Dalam hadits riwayat Muslim
 
 ### 5. Doa Memohon Kesabaran, Ketetapan Iman, Kekuatan Menahan Rasa Sakit dan Bahaya dari Orang-orang Kafir
 
@@ -955,7 +960,7 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5OTE1MjM2NCwtMTQwNzUyOTMzMCwtMj
+eyJoaXN0b3J5IjpbMTAwNTg3MTA4NywtMTQwNzUyOTMzMCwtMj
 k0MjQyNTAzLC0xMTg3NzQyMTExLC00ODE5MTM3NTAsNDgxMTcz
 MTY4LDE3NjgyNjE4ODcsMTA3OTMwNDEyOSwtMTM4MDE5NDYwMC
 wxMjc5MjM0NTI3LC0xNTY2MDE3MjgwLC0xOTI3NTkyMTIsLTEy
