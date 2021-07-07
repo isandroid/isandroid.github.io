@@ -305,7 +305,7 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Musa (as)
 ### 31. Doa untuk Kebinasaan Orang yang Zalim
 
 <p class="quran">
-
+رَبَّنَاۤ اِنَّکَ اٰتَیۡتَ فِرۡعَوۡنَ وَمَلَاَہٗ زِیۡنَۃً وَّاَمۡوٰلًا فِی الۡحَیٰوۃِ الدُّنۡیَا رَبَّنَا لِیُضِلُّوۡا عَنۡ سَبِیۡلِکَ ۖ رَبَّنَا اطۡمِسۡ عَلٰۤی اَمۡوٰلِہِمۡ وَاشۡدُدۡ عَلٰی قُلُوۡبِہِمۡ فَلَا یُؤۡمِنُوۡا حَتّٰی یَرَوُا الۡعَذَابَ الۡاَلِیۡمَ
 </p>
 
 ([QS Yunus [10]:89](https://openquran.com/10:89))
@@ -957,10 +957,11 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEwNTU5ODc2NywtMTkyNzU5MjEyLC0xMj
-I5MTUwMDc2LC03NTMyMTE2ODcsLTEyMzMyMTYzMSwxODAyNzQ3
-ODg5LC00MzI4MzkxOTIsLTc5MDg3OTM5OCw2NTY1MTg0OTUsLT
-E0MDY1MzU5NDIsLTk0MTY1MzE3OCwtMjA5NjA3OTM4MCwtMTk2
-OTk5MzE3NCw3NDM3NjM4MDAsLTE2MjcwMzc1NzAsMzE0OTg0MT
-YsNjQwMjUxOTQ1LC02MjAwOTk0NzYsMjA4NDA1ODQ4Nl19
+eyJoaXN0b3J5IjpbLTE1NjYwMTcyODAsLTE5Mjc1OTIxMiwtMT
+IyOTE1MDA3NiwtNzUzMjExNjg3LC0xMjMzMjE2MzEsMTgwMjc0
+Nzg4OSwtNDMyODM5MTkyLC03OTA4NzkzOTgsNjU2NTE4NDk1LC
+0xNDA2NTM1OTQyLC05NDE2NTMxNzgsLTIwOTYwNzkzODAsLTE5
+Njk5OTMxNzQsNzQzNzYzODAwLC0xNjI3MDM3NTcwLDMxNDk4ND
+E2LDY0MDI1MTk0NSwtNjIwMDk5NDc2LDIwODQwNTg0ODZdfQ==
+
 -->
