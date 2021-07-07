@@ -154,7 +154,7 @@ published: true
 
 </p>
 
-(3:192-193)
+([QS Aali-'Imraan [3]:[192](https://openquran.com/3:192)-[193](https://openquran.com/3:193))
 
 ### 15. Doa Pengakuan Menerima kebenaran, Memohon Ampun, Memohon agar Dimasukkan ke dalam Golongan Orang-orang yang Shaleh
 
@@ -957,9 +957,9 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzMjgzOTE5MiwtNzkwODc5Mzk4LDY1Nj
-UxODQ5NSwtMTQwNjUzNTk0MiwtOTQxNjUzMTc4LC0yMDk2MDc5
-MzgwLC0xOTY5OTkzMTc0LDc0Mzc2MzgwMCwtMTYyNzAzNzU3MC
-wzMTQ5ODQxNiw2NDAyNTE5NDUsLTYyMDA5OTQ3NiwyMDg0MDU4
-NDg2XX0=
+eyJoaXN0b3J5IjpbLTEyMzk0MjgxNzUsLTQzMjgzOTE5MiwtNz
+kwODc5Mzk4LDY1NjUxODQ5NSwtMTQwNjUzNTk0MiwtOTQxNjUz
+MTc4LC0yMDk2MDc5MzgwLC0xOTY5OTkzMTc0LDc0Mzc2MzgwMC
+wtMTYyNzAzNzU3MCwzMTQ5ODQxNiw2NDAyNTE5NDUsLTYyMDA5
+OTQ3NiwyMDg0MDU4NDg2XX0=
 -->
