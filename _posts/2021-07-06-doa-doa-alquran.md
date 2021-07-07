@@ -298,6 +298,8 @@ Keterangan:
 
 "Wahai Tuhan kami, limpahkanlah kesabaran kepada kami dan wafatkanlah kami *dalam keadaan* berserah diri *kepada Engkau*.” ([QS Al-A'roof [7]:127](https://openquran.com/7:127))
 
+Keterangan: Doa ini dipanjatkan para penyihir yang telah kalah melawan Nabi Musa (as). Mereka diberikan ancaman oleh Raja Firaun 
+
 ### 24. Doa Memohon Dijauhkan dari Orang yang Zalim 
 
 <p class="quran">
@@ -996,11 +998,11 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcwNzkxNTExNCwxNTAxMTIxODYyLC0xNT
-MzOTg5OTk0LC04MjA4MDQ1OTUsLTE0MDc1MjkzMzAsLTI5NDI0
-MjUwMywtMTE4Nzc0MjExMSwtNDgxOTEzNzUwLDQ4MTE3MzE2OC
-wxNzY4MjYxODg3LDEwNzkzMDQxMjksLTEzODAxOTQ2MDAsMTI3
-OTIzNDUyNywtMTU2NjAxNzI4MCwtMTkyNzU5MjEyLC0xMjI5MT
-UwMDc2LC03NTMyMTE2ODcsLTEyMzMyMTYzMSwxODAyNzQ3ODg5
-LC00MzI4MzkxOTJdfQ==
+eyJoaXN0b3J5IjpbMzU0ODY4OTY3LDE1MDExMjE4NjIsLTE1Mz
+M5ODk5OTQsLTgyMDgwNDU5NSwtMTQwNzUyOTMzMCwtMjk0MjQy
+NTAzLC0xMTg3NzQyMTExLC00ODE5MTM3NTAsNDgxMTczMTY4LD
+E3NjgyNjE4ODcsMTA3OTMwNDEyOSwtMTM4MDE5NDYwMCwxMjc5
+MjM0NTI3LC0xNTY2MDE3MjgwLC0xOTI3NTkyMTIsLTEyMjkxNT
+AwNzYsLTc1MzIxMTY4NywtMTIzMzIxNjMxLDE4MDI3NDc4ODks
+LTQzMjgzOTE5Ml19
 -->
