@@ -87,10 +87,10 @@ published: true
 ### 7. Doa Memohon agar Dipelihara dari Siksaan Allah, Memohon Ampun dan Pertolongan 
 
 <p class="quran">
-
+رَبَّنَا لَا تُؤَاخِذۡنَاۤ اِنۡ نَّسِیۡنَاۤ اَوۡ اَخۡطَاۡنَا ۚ رَبَّنَا وَلَا تَحۡمِلۡ عَلَیۡنَاۤ اِصۡرًا کَمَا حَمَلۡتَہٗ عَلَی الَّذِیۡنَ مِنۡ قَبۡلِنَا ۚ رَبَّنَا وَلَا تُحَمِّلۡنَا مَا لَا طَاقَۃَ لَنَا بِہٖ ۖ وَاعۡفُ عَنَّا وَاغۡفِرۡ لَنَا وَارۡحَمۡنَاۤ ۚ اَنۡتَ مَوۡلٰٮنَا فَانۡصُرۡنَا عَلَی الۡقَوۡمِ الۡکٰفِرِیۡنَ
 </p>
 
-(2:287)
+([QS Al-Baqarah [2]:287](https://openquran.com/2:287))
 
 ### 8. Doa untuk Ketetapan Iman dan agar Hati Tidak Menyimpang
 
@@ -957,8 +957,8 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjU2NTE4NDk1LC0xNDA2NTM1OTQyLC05ND
-E2NTMxNzgsLTIwOTYwNzkzODAsLTE5Njk5OTMxNzQsNzQzNzYz
-ODAwLC0xNjI3MDM3NTcwLDMxNDk4NDE2LDY0MDI1MTk0NSwtNj
-IwMDk5NDc2LDIwODQwNTg0ODZdfQ==
+eyJoaXN0b3J5IjpbLTIxMDgwMjkyOTksNjU2NTE4NDk1LC0xND
+A2NTM1OTQyLC05NDE2NTMxNzgsLTIwOTYwNzkzODAsLTE5Njk5
+OTMxNzQsNzQzNzYzODAwLC0xNjI3MDM3NTcwLDMxNDk4NDE2LD
+Y0MDI1MTk0NSwtNjIwMDk5NDc2LDIwODQwNTg0ODZdfQ==
 -->
