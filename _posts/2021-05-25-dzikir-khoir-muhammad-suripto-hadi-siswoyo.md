@@ -332,9 +332,9 @@ Bapak Suradi mengaku bahwa ia mendapatkan 'suara' pada tanggal 23-Mei-2021,
 
 Bapak Suradi juga menyatakan, 
 
-> "Mbah Ripto adalah termasuk guru (spiritual) saya. (Setelah pak Ripto meninggal,) kewibawaan desa luntur. Harus membangun bibit baru lagi." [[wa_iksan_hidayatullah_20210603]]
+> "Mbah Ripto adalah termasuk guru (spiritual) saya. (Setelah pak Ripto meninggal,) kewibawaan desa luntur. Harus membangun bibit baru lagi." [[^wa_iksan_hidayatullah_20210603]]
 
-[wa_iksan_hidayatullah_20210603]: Teks Whatsapp dari bapak Iksan Hidayatullah secara pribadi tanggal 3-Juni-2021
+[^wa_iksan_hidayatullah_20210603]: Teks Whatsapp dari bapak Iksan Hidayatullah secara pribadi tanggal 3-Juni-2021
 
 [^kertasentana_limbangan]: Bapak Kertasentana (sudah meninggal) dianggap oleh warga desa Limbangan sebagai "orang pintar" yang banyak dimintai bantuan orang-orang hingga di luar. Dan kemampuannya turun kepada bapak Suradi.
 
@@ -568,5 +568,5 @@ Mln. Ahmad Suparja Hidayat, mubda Jateng-2 menceritakan,
 
 ### Catatan Kaki
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzMjgyMjAyN119
+eyJoaXN0b3J5IjpbNzY2NDgxNzk3LC0zMzI4MjIwMjddfQ==
 -->
