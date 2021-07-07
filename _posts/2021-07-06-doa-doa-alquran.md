@@ -393,7 +393,7 @@ Keterangan: Doa ini dipanjatkan oleh kaum Bani Israil yang ketika itu menjadi bu
 
 “Ya Tuhan kami, sesungguhnya Engkau telah memberikan kepada Fir‘aun dan pembesar-pembesarnya kemegahan dan kekayaan dalam kehidupan dunia, ya Tuhan kami, akibatnya mereka menyesatkan *orang* dari jalan Engkau. Ya Tuhan kami! Musnahkanlah kekayaan mereka dan keraskanlah hati mereka; maka  mereka tidak akan beriman, sehingga mereka melihat azab yang pedih.” ([QS Yunus [10]:89](https://openquran.com/10:89))
 
-Keterangan: Doa ini diucapkan oleh Nabi Musa (as) 
+Keterangan: Doa ini diucapkan oleh Nabi Musa (as) setelah mendapatkan perintah 
 
 ### 32. Doa Naik Kapal atau Kendaraan
 
@@ -1023,7 +1023,7 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNDA5NDQ1ODAsMTUwMTEyMTg2MiwtMT
+eyJoaXN0b3J5IjpbLTIwNTUyNzk4NzUsMTUwMTEyMTg2MiwtMT
 UzMzk4OTk5NCwtODIwODA0NTk1LC0xNDA3NTI5MzMwLC0yOTQy
 NDI1MDMsLTExODc3NDIxMTEsLTQ4MTkxMzc1MCw0ODExNzMxNj
 gsMTc2ODI2MTg4NywxMDc5MzA0MTI5LC0xMzgwMTk0NjAwLDEy
