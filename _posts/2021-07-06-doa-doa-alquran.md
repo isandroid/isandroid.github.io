@@ -421,23 +421,23 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Zakaria (as)
 ### 41. Doa Memohon Kemenangan dalam Bertabligh 
 
 <p class="quran">
-
+قَالَ رَبِّ اشۡرَحۡ لِیۡ صَدۡرِیۡ
 </p>
 
 <p class="quran">
-
+وَیَسِّرۡ لِیۡۤ اَمۡرِیۡ
 </p>
 
 <p class="quran">
-
+وَاحۡلُلۡ عُقۡدَۃً مِّنۡ لِّسَانِیۡ
 </p>
 
 <p class="quran">
-
+یَفۡقَہُوۡا قَوۡلِیۡ
 </p>
 
 <p class="quran">
-
+وَاجۡعَل لِّیۡ وَزِیۡرًا مِّنۡ اَہۡلِیۡ
 </p>
 
 <p class="quran">
@@ -465,6 +465,8 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Zakaria (as)
 </p>
 
 (20:26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36)
+
+Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Musa (as)
 
 ### 42. Doa Memohon Ditambah Ilmu
 
@@ -959,7 +961,7 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4NTQzMzk5NiwxNzY4MjYxODg3LDEwNz
+eyJoaXN0b3J5IjpbLTYzOTc2NDE4NCwxNzY4MjYxODg3LDEwNz
 kzMDQxMjksLTEzODAxOTQ2MDAsMTI3OTIzNDUyNywtMTU2NjAx
 NzI4MCwtMTkyNzU5MjEyLC0xMjI5MTUwMDc2LC03NTMyMTE2OD
 csLTEyMzMyMTYzMSwxODAyNzQ3ODg5LC00MzI4MzkxOTIsLTc5
