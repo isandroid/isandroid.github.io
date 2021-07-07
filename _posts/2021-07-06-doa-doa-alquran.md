@@ -932,7 +932,6 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 
 <p class="quran">
 مِنَ الۡجِنَّۃِ وَالنَّاسِ
-
 </p>
 
 ([QS An-Naas [114]](https://openquran.com/114))
@@ -940,7 +939,7 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwOTc0ODIzNSwtMTE4Nzc0MjExMSwtND
+eyJoaXN0b3J5IjpbLTI5NDI0MjUwMywtMTE4Nzc0MjExMSwtND
 gxOTEzNzUwLDQ4MTE3MzE2OCwxNzY4MjYxODg3LDEwNzkzMDQx
 MjksLTEzODAxOTQ2MDAsMTI3OTIzNDUyNywtMTU2NjAxNzI4MC
 wtMTkyNzU5MjEyLC0xMjI5MTUwMDc2LC03NTMyMTE2ODcsLTEy
