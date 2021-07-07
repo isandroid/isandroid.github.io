@@ -411,7 +411,9 @@ Keterangan: Doa ini diucapkan oleh Nabi Nuh (as) ketika bahteranya hendak berlay
 رَبِّ اِنِّیۡۤ اَعُوۡذُ بِکَ اَنۡ اَسۡـَٔلَکَ مَا لَیۡسَ لِیۡ بِہٖ عِلۡمٌ ۖ وَّاِلَّا تَغۡفِرۡ لِیۡ وَتَرۡحَمۡنِیۡۤ اَکُنۡ مِّنَ الۡخٰسِرِیۡنَ
 </p>
 
-([QS Hud [11]:48](https://openquran.com/11:48))
+“Ya Tuhanku, sesungguhnya aku berlindung kepada Engkau dari memohon kepada Engkau sesuatu yang aku tidak mengetahuinya. Dan a sekiranya Engkau tidak mengampuniku dan tidak mengasihiku, niscaya aku akan termasuk orang-orang yang merugi.”([QS Hud [11]:48](https://openquran.com/11:48))
+
+Keterangan: Doa itu dipa
 
 ### 34. Bersyukur atas Karunia Ilmu dan Kerajaan 
 
@@ -1025,7 +1027,7 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTQzNzk5MzQsMTUwMTEyMTg2MiwtMT
+eyJoaXN0b3J5IjpbLTEwNDkxNjk5MDAsMTUwMTEyMTg2MiwtMT
 UzMzk4OTk5NCwtODIwODA0NTk1LC0xNDA3NTI5MzMwLC0yOTQy
 NDI1MDMsLTExODc3NDIxMTEsLTQ4MTkxMzc1MCw0ODExNzMxNj
 gsMTc2ODI2MTg4NywxMDc5MzA0MTI5LC0xMzgwMTk0NjAwLDEy
