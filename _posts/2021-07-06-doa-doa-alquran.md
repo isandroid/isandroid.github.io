@@ -282,7 +282,11 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Syuaib (as) ketika penenta
 اَلۡحَمۡدُ لِلّٰہِ الَّذِیۡ ہَدٰٮنَا لِہٰذَا وَمَا کُنَّا لِنَہۡتَدِیَ لَوۡلَاۤ اَنۡ ہَدٰٮنَا اللّٰہُ
 </p>
 
-([QS Al-A'roof [7]:44](https://openquran.com/7:44))
+”Segala puji bagi Allah Yang telah menunjuki kami pada surga ini, dan kami tidak akan mendapat petunjuk seandainya Allah tidak memberi kami petunjuk." ([QS Al-A'roof [7]:44](https://openquran.com/7:44))
+
+Keterangan: 
+
+- Doa tersebut adalah doa yang dipanjatkan oleh 
 
 ### 23. Doa Memohon Kesabaran dan Keselamatan 
 
@@ -990,11 +994,11 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5NjY2NTk5NSwxNTAxMTIxODYyLC0xNT
-MzOTg5OTk0LC04MjA4MDQ1OTUsLTE0MDc1MjkzMzAsLTI5NDI0
-MjUwMywtMTE4Nzc0MjExMSwtNDgxOTEzNzUwLDQ4MTE3MzE2OC
-wxNzY4MjYxODg3LDEwNzkzMDQxMjksLTEzODAxOTQ2MDAsMTI3
-OTIzNDUyNywtMTU2NjAxNzI4MCwtMTkyNzU5MjEyLC0xMjI5MT
-UwMDc2LC03NTMyMTE2ODcsLTEyMzMyMTYzMSwxODAyNzQ3ODg5
-LC00MzI4MzkxOTJdfQ==
+eyJoaXN0b3J5IjpbLTE2MTA5MDE1ODMsMTUwMTEyMTg2MiwtMT
+UzMzk4OTk5NCwtODIwODA0NTk1LC0xNDA3NTI5MzMwLC0yOTQy
+NDI1MDMsLTExODc3NDIxMTEsLTQ4MTkxMzc1MCw0ODExNzMxNj
+gsMTc2ODI2MTg4NywxMDc5MzA0MTI5LC0xMzgwMTk0NjAwLDEy
+NzkyMzQ1MjcsLTE1NjYwMTcyODAsLTE5Mjc1OTIxMiwtMTIyOT
+E1MDA3NiwtNzUzMjExNjg3LC0xMjMzMjE2MzEsMTgwMjc0Nzg4
+OSwtNDMyODM5MTkyXX0=
 -->
