@@ -48,7 +48,7 @@ published: true
 
 ([QS Al-Baqarah [2]:127]())
 
-Doa diatas adalah Doa Nabi Ibrahim (as)	
+Keterangan: Doa diatas adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)	
 
 ### 3. Doa Agar Kita dan Anak-anak Kita Menjadi Orang yang Benar-benar Taat kepada Allah Ta’ala
 
@@ -111,6 +111,10 @@ Doa diatas adalah Doa Nabi Ibrahim (as)
 (5:26)
 
 ### 18. Doa Memohon Rejeki
+
+(5:115)
+
+Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Isa (as)
 
 ### 19. Doa Memohon agar Dimasukkan ke dalam Jemaat yang Suci 
 
@@ -238,7 +242,7 @@ Doa diatas adalah Doa Nabi Ibrahim (as)
 
 ### 81. Doa Memohon Perlindungan yang Menyeluruh
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0Njk0NDgsNzQzNzYzODAwLC0xNjI3MD
-M3NTcwLDMxNDk4NDE2LDY0MDI1MTk0NSwtNjIwMDk5NDc2LDIw
-ODQwNTg0ODYsMTMxNTUyMjk3MF19
+eyJoaXN0b3J5IjpbLTc3MTUwNjk4MCw3NDM3NjM4MDAsLTE2Mj
+cwMzc1NzAsMzE0OTg0MTYsNjQwMjUxOTQ1LC02MjAwOTk0NzYs
+MjA4NDA1ODQ4NiwxMzE1NTIyOTcwXX0=
 -->
