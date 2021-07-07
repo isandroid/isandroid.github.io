@@ -8,7 +8,7 @@ published: true
 
 ## {{ page.title }}
 
-### 1. Surat Al-Fatihah doa yang empurna
+### 1. Surat Al-Fatihah doa yang Sempurna
 
 <p class="quran">
 بِسۡمِ اللّٰہِ الرَّحۡمٰنِ الرَّحِیۡمِ
@@ -1039,11 +1039,11 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0NDE1MTk2NiwxNTAxMTIxODYyLC0xNT
-MzOTg5OTk0LC04MjA4MDQ1OTUsLTE0MDc1MjkzMzAsLTI5NDI0
-MjUwMywtMTE4Nzc0MjExMSwtNDgxOTEzNzUwLDQ4MTE3MzE2OC
-wxNzY4MjYxODg3LDEwNzkzMDQxMjksLTEzODAxOTQ2MDAsMTI3
-OTIzNDUyNywtMTU2NjAxNzI4MCwtMTkyNzU5MjEyLC0xMjI5MT
-UwMDc2LC03NTMyMTE2ODcsLTEyMzMyMTYzMSwxODAyNzQ3ODg5
-LC00MzI4MzkxOTJdfQ==
+eyJoaXN0b3J5IjpbLTEwNDU5NTI3NDcsMTc0NDE1MTk2NiwxNT
+AxMTIxODYyLC0xNTMzOTg5OTk0LC04MjA4MDQ1OTUsLTE0MDc1
+MjkzMzAsLTI5NDI0MjUwMywtMTE4Nzc0MjExMSwtNDgxOTEzNz
+UwLDQ4MTE3MzE2OCwxNzY4MjYxODg3LDEwNzkzMDQxMjksLTEz
+ODAxOTQ2MDAsMTI3OTIzNDUyNywtMTU2NjAxNzI4MCwtMTkyNz
+U5MjEyLC0xMjI5MTUwMDc2LC03NTMyMTE2ODcsLTEyMzMyMTYz
+MSwxODAyNzQ3ODg5XX0=
 -->
