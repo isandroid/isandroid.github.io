@@ -390,15 +390,15 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
  رَّبِّ اَدۡخِلۡنِیۡ مُدۡخَلَ صِدۡقٍ وَّاَخۡرِجۡنِیۡ مُخۡرَجَ صِدۡقٍ وَّاجۡعَل لِّیۡ مِنۡ لَّدُنۡکَ سُلۡطٰنًا نَّصِیۡرًا
 </p>
 
-([QS Bani Israil [17]:81](https://openquran.com/17:81)))
+([QS Bani Israil [17]:81](https://openquran.com/17:81))
 
 ### 39. Doa Memohon Rahmat dan Meminta Kemenangan
 
 <p class="quran">
-
+رَبَّنَاۤ اٰتِنَا مِنۡ لَّدُنۡکَ رَحۡمَۃً وَّہَیِّئۡ لَنَا مِنۡ اَمۡرِنَا رَشَدًا
 </p>
 
-(18:11)
+(18:11](https://openquran.com/18:11))
 
 ### 40. Doa Memohon Anak yang Shaleh
 
@@ -959,11 +959,11 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQxNjE0Mzk5LDEwNzkzMDQxMjksLTEzOD
-AxOTQ2MDAsMTI3OTIzNDUyNywtMTU2NjAxNzI4MCwtMTkyNzU5
-MjEyLC0xMjI5MTUwMDc2LC03NTMyMTE2ODcsLTEyMzMyMTYzMS
-wxODAyNzQ3ODg5LC00MzI4MzkxOTIsLTc5MDg3OTM5OCw2NTY1
-MTg0OTUsLTE0MDY1MzU5NDIsLTk0MTY1MzE3OCwtMjA5NjA3OT
-M4MCwtMTk2OTk5MzE3NCw3NDM3NjM4MDAsLTE2MjcwMzc1NzAs
-MzE0OTg0MTZdfQ==
+eyJoaXN0b3J5IjpbMTc2ODI2MTg4NywxMDc5MzA0MTI5LC0xMz
+gwMTk0NjAwLDEyNzkyMzQ1MjcsLTE1NjYwMTcyODAsLTE5Mjc1
+OTIxMiwtMTIyOTE1MDA3NiwtNzUzMjExNjg3LC0xMjMzMjE2Mz
+EsMTgwMjc0Nzg4OSwtNDMyODM5MTkyLC03OTA4NzkzOTgsNjU2
+NTE4NDk1LC0xNDA2NTM1OTQyLC05NDE2NTMxNzgsLTIwOTYwNz
+kzODAsLTE5Njk5OTMxNzQsNzQzNzYzODAwLC0xNjI3MDM3NTcw
+LDMxNDk4NDE2XX0=
 -->
