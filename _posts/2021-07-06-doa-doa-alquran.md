@@ -226,7 +226,7 @@ Keterangan: Doa ini dipanjatkan oleh orang-orang yang berilmu (yang senantiasa m
 
 “Wahai Tuhanku, sesungguhnya aku tidak berkuasa kecuali terhadap diriku dan saudara laki-lakiku, maka bedakanlah antara kami dengan kaum yang durhaka itu.” ([QS Al-Maaidah [5]:26](https://openquran.com/5:26))
 
-Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Musa (as) ketika kaumnya 
+Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Musa (as) ketika kaumnya tidak mau berperang di jalan Allah Ta'ala.
 
 ### 18. Doa Memohon Rejeki
 
@@ -234,9 +234,9 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Musa (as) ketika kaumnya
  رَبَّنَاۤ اَنۡزِلۡ عَلَیۡنَا مَآئِدَۃً مِّنَ السَّمَآءِ تَکُوۡنُ لَنَا عِیۡدًا لِّاَوَّلِنَا وَاٰخِرِنَا وَاٰیَۃً مِّنۡکَ ۖ وَارۡزُقۡنَا وَاَنۡتَ خَیۡرُ الرّٰزِقِیۡنَ
 </p>
 
-([QS Al-Maidah [5]:115](https://openquran.com/5:115))
+“Ya Allah, Tuhan kami, turunkanlah kepada kami hidangan dari langit supaya menjadi suatu Hari Raya bagi kami, bagi orang-orang yang awal dari kami, juga bagi yang datang di belakang kami, dan sebagai tanda kebenaran dari Engkau, berilah kami rezeki, dan Engkau sebaik-baik Pemberi rezeki. ([QS Al-Maidah [5]:115](https://openquran.com/5:115))
 
-Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Isa (as)
+Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Isa (as) ketika kaumnya ingin mendapatkan satu tanda dari Nabi Isa (as)
 
 ### 19. Doa Memohon agar Dimasukkan ke dalam Jemaat yang Suci 
 
@@ -982,11 +982,11 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNDE1ODE2MDAsMTUwMTEyMTg2MiwtMT
-UzMzk4OTk5NCwtODIwODA0NTk1LC0xNDA3NTI5MzMwLC0yOTQy
-NDI1MDMsLTExODc3NDIxMTEsLTQ4MTkxMzc1MCw0ODExNzMxNj
-gsMTc2ODI2MTg4NywxMDc5MzA0MTI5LC0xMzgwMTk0NjAwLDEy
-NzkyMzQ1MjcsLTE1NjYwMTcyODAsLTE5Mjc1OTIxMiwtMTIyOT
-E1MDA3NiwtNzUzMjExNjg3LC0xMjMzMjE2MzEsMTgwMjc0Nzg4
-OSwtNDMyODM5MTkyXX0=
+eyJoaXN0b3J5IjpbMTg3NTQxNTc3NiwxNTAxMTIxODYyLC0xNT
+MzOTg5OTk0LC04MjA4MDQ1OTUsLTE0MDc1MjkzMzAsLTI5NDI0
+MjUwMywtMTE4Nzc0MjExMSwtNDgxOTEzNzUwLDQ4MTE3MzE2OC
+wxNzY4MjYxODg3LDEwNzkzMDQxMjksLTEzODAxOTQ2MDAsMTI3
+OTIzNDUyNywtMTU2NjAxNzI4MCwtMTkyNzU5MjEyLC0xMjI5MT
+UwMDc2LC03NTMyMTE2ODcsLTEyMzMyMTYzMSwxODAyNzQ3ODg5
+LC00MzI4MzkxOTJdfQ==
 -->
