@@ -114,7 +114,7 @@ published: true
 رَبَّنَاۤ اِنَّنَاۤ اٰمَنَّا فَاغۡفِرۡ لَنَا ذُنُوۡبَنَا وَقِنَا عَذَابَ النَّار
 </p>
 
-(3:17)
+([QS Aali-'Imraan [3]:17](https://openquran.com/3:17))
 
 ### 11. Memuji Kebesaran Tuhan dan Doa untuk Mencapai Kemajuan
 
@@ -957,8 +957,8 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDc1MzgxNTAsNjU2NTE4NDk1LC0xND
-A2NTM1OTQyLC05NDE2NTMxNzgsLTIwOTYwNzkzODAsLTE5Njk5
-OTMxNzQsNzQzNzYzODAwLC0xNjI3MDM3NTcwLDMxNDk4NDE2LD
-Y0MDI1MTk0NSwtNjIwMDk5NDc2LDIwODQwNTg0ODZdfQ==
+eyJoaXN0b3J5IjpbMjAwNjQ0NTczMSw2NTY1MTg0OTUsLTE0MD
+Y1MzU5NDIsLTk0MTY1MzE3OCwtMjA5NjA3OTM4MCwtMTk2OTk5
+MzE3NCw3NDM3NjM4MDAsLTE2MjcwMzc1NzAsMzE0OTg0MTYsNj
+QwMjUxOTQ1LC02MjAwOTk0NzYsMjA4NDA1ODQ4Nl19
 -->
