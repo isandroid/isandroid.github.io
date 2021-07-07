@@ -288,7 +288,7 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Musa (as)
 حَسۡبِیَ اللّٰہُ لَاۤ اِلٰہَ اِلَّا ہُوَ ۖ عَلَیۡہِ تَوَکَّلۡتُ ۖ وَہُوَ رَبُّ الۡعَرۡشِ الۡعَظِیۡمِ
 </p>
 
-(9:129)
+([QS At-Taubah [9]:129](https://openquran.com/9:129))
 
 ### 30. Doa Memohon Dijauhkan dari Kejahatan Musuh 
 
@@ -957,7 +957,7 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3MTUxMjM5MywtMTIyOTE1MDA3NiwtNz
+eyJoaXN0b3J5IjpbLTE5Mjc1OTIxMiwtMTIyOTE1MDA3NiwtNz
 UzMjExNjg3LC0xMjMzMjE2MzEsMTgwMjc0Nzg4OSwtNDMyODM5
 MTkyLC03OTA4NzkzOTgsNjU2NTE4NDk1LC0xNDA2NTM1OTQyLC
 05NDE2NTMxNzgsLTIwOTYwNzkzODAsLTE5Njk5OTMxNzQsNzQz
