@@ -551,7 +551,7 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Musa (as)
 ### 51. Doa Memohon Ampun dan Kasih Sayang Tuhan 
 
 <p class="quran">
-
+ رَّبِّ اغۡفِرۡ وَارۡحَمۡ وَاَنۡتَ خَیۡرُ الرّٰحِمِیۡنَ
 </p>
 
 ([QS Al-Mu-minuun [23]:119](https://openquran.com/23:119))
@@ -559,7 +559,7 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Musa (as)
 ### 52. Doa Memohon Ampun
 
 <p class="quran">
-
+ رَبَّنَاۤ اٰمَنَّا فَاغۡفِرۡ لَنَا وَارۡحَمۡنَا وَاَنۡتَ خَیۡرُ الرّٰحِمِیۡنَ
 </p>
 
 ([QS Al-Mu-minuun [23]:110](https://openquran.com/23:110))
@@ -567,14 +567,14 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Musa (as)
 ### 53. Doa Memohon Dipelihara dari Api Neraka 
 
 <p class="quran">
-
+رَبَّنَا اصۡرِفۡ عَنَّا عَذَابَ جَہَنَّمَ ۖ اِنَّ عَذَابَہَا کَانَ غَرَامًا
 </p>
 
 <p class="quran">
 
 </p>
 
-(25:66,67)
+(QS Al-Furqan [25]: [66](https://openquran.com/25:66)-[67])
 
 ### 54. Doa Supaya Anak-Cucu Kita Menjadi Keturunan yang Shaleh
 
@@ -961,7 +961,7 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODU2NjI4MzU4LDQ4MTE3MzE2OCwxNzY4Mj
+eyJoaXN0b3J5IjpbMzE3MzIyNTQ3LDQ4MTE3MzE2OCwxNzY4Mj
 YxODg3LDEwNzkzMDQxMjksLTEzODAxOTQ2MDAsMTI3OTIzNDUy
 NywtMTU2NjAxNzI4MCwtMTkyNzU5MjEyLC0xMjI5MTUwMDc2LC
 03NTMyMTE2ODcsLTEyMzMyMTYzMSwxODAyNzQ3ODg5LC00MzI4
