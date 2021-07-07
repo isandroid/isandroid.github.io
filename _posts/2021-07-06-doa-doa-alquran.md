@@ -974,7 +974,7 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 رَّبِّ اغۡفِرۡ لِیۡ وَلِوٰلِدَیَّ وَلِمَنۡ دَخَلَ بَیۡتِیَ مُؤۡمِنًا وَّلِلۡمُؤۡمِنِیۡنَ وَالۡمُؤۡمِنٰتِ وَلَا تَزِدِ الظّٰلِمِیۡنَ اِلَّا تَبَارًۢا
 </p>
 
-(QS Nuuh [71]: [27](https://openquran.com/71:27), [28](https://openquran.com/71:28), [29](29))
+(QS Nuuh [71]: [27](https://openquran.com/71:27), [28](https://openquran.com/71:28), [29](https://openquran.com/71:29))
 
 ### 80. Doa Memohon Perlindungan I
 
@@ -1039,11 +1039,11 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyNzY3MDYwMywtMTA0NTk1Mjc0NywxNz
-Q0MTUxOTY2LDE1MDExMjE4NjIsLTE1MzM5ODk5OTQsLTgyMDgw
-NDU5NSwtMTQwNzUyOTMzMCwtMjk0MjQyNTAzLC0xMTg3NzQyMT
-ExLC00ODE5MTM3NTAsNDgxMTczMTY4LDE3NjgyNjE4ODcsMTA3
-OTMwNDEyOSwtMTM4MDE5NDYwMCwxMjc5MjM0NTI3LC0xNTY2MD
-E3MjgwLC0xOTI3NTkyMTIsLTEyMjkxNTAwNzYsLTc1MzIxMTY4
-NywtMTIzMzIxNjMxXX0=
+eyJoaXN0b3J5IjpbMzQyMTk3NjMzLDIwMjc2NzA2MDMsLTEwND
+U5NTI3NDcsMTc0NDE1MTk2NiwxNTAxMTIxODYyLC0xNTMzOTg5
+OTk0LC04MjA4MDQ1OTUsLTE0MDc1MjkzMzAsLTI5NDI0MjUwMy
+wtMTE4Nzc0MjExMSwtNDgxOTEzNzUwLDQ4MTE3MzE2OCwxNzY4
+MjYxODg3LDEwNzkzMDQxMjksLTEzODAxOTQ2MDAsMTI3OTIzND
+UyNywtMTU2NjAxNzI4MCwtMTkyNzU5MjEyLC0xMjI5MTUwMDc2
+LC03NTMyMTE2ODddfQ==
 -->
