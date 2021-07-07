@@ -194,7 +194,7 @@ Keterangan: Doa ini dipanjatkan oleh orang-orang sabar yang sedang berperang di 
 
 “Wahai Tuhan kami, barangsiapa yang Engkau masukkan ke dalam Api, maka sungguh Engkau telah menghinakannya. Dan tidak ada bagi orang-orang aniaya seorang penolong pun." ([QS Aali-'Imraan [3]:[192](https://openquran.com/3:192)-[193](https://openquran.com/3:193))
 
-Keterangan: Doa ini dipanjatkan oleh orang-orang yang berilmu, orang-orang yang selalu mengingat Allah sambil berdiri, duduk, dan berbaring atas rusuk mereka, dan mereka merenungkan tentang penciptaan
+Keterangan: Doa ini dipanjatkan oleh orang-orang yang berilmu (yang senantiasa menggunakan akalnya) yang selalu mengingat Allah, baik sambil berdiri, duduk, dan berbaring atas rusuk mereka, dan mereka merenungkan tentang penciptaan seluruh langit dan bumi.
 
 ### 15. Doa Pengakuan Menerima kebenaran, Memohon Ampun, Memohon agar Dimasukkan ke dalam Golongan Orang-orang yang Shaleh
 
@@ -206,7 +206,7 @@ Keterangan: Doa ini dipanjatkan oleh orang-orang yang berilmu, orang-orang yang 
 رَبَّنَا وَاٰتِنَا مَا وَعَدتَّنَا عَلٰی رُسُلِکَ وَلَا تُخۡزِنَا یَوۡمَ الۡقِیٰمَۃِ ۗ اِنَّکَ لَا تُخۡلِفُ الۡمِیۡعَادَ
 </p>
 
-([QS Aali-'Imraan [3]:[194](https://openquran.com/3:194)-[195](https://openquran.com/3:195))
+“Wahai Tuhan kami, sesungguhnya kami telah mendengar seorang Penyeru memanggil kami kepada keimanan seraya berkata, “Berimanlah kamu kepada Tuhanmu”, maka kami beriman. Wahai Tuhan kami, ampunilah bagi kami dosa-dosa kami, hapuskanlah dari kami kesalahan-kesalahan kami, dan wafatkanlah kami bersama orang-orang baik.” ([QS Aali-'Imraan [3]:[194](https://openquran.com/3:194)-[195](https://openquran.com/3:195))
 
 ### 16. Doa Meminta Dipelihara dari Negeri yang Penduduknya Zhalim
 
@@ -978,7 +978,7 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYzMTM4MzI4MCwtMTUzMzk4OTk5NCwtOD
+eyJoaXN0b3J5IjpbLTU1MDE4MjM4OSwtMTUzMzk4OTk5NCwtOD
 IwODA0NTk1LC0xNDA3NTI5MzMwLC0yOTQyNDI1MDMsLTExODc3
 NDIxMTEsLTQ4MTkxMzc1MCw0ODExNzMxNjgsMTc2ODI2MTg4Ny
 wxMDc5MzA0MTI5LC0xMzgwMTk0NjAwLDEyNzkyMzQ1MjcsLTE1
