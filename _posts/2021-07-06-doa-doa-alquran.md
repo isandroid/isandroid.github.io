@@ -256,15 +256,29 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Zakaria (as)
 
 ### 52. Doa Memohon Ampun
 
+(23:110)
+
 ### 53. Doa Memohon Dipelihara dari Api Neraka 
+
+(25:66,67)
 
 ### 54. Doa Supaya Anak-Cucu Kita Menjadi Keturunan yang Shaleh
 
-### 55. Doa Memohon Dimasukkan ke dalam Golongan Orang-orang yang Saleh dan Doa untuk Ibu-bapak 
+(25:75)
+
+### 55. Doa Memohon Dimasukkan ke dalam Golongan Orang-orang yang Saleh dan Doa untuk Ibu-Bapak 
+
+(26:84-88)
+
+Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 
 ### 56. Doa Memohon Kemenangan dan Keputusan 
 
+(26:118,119)
+
 ### 57. Doa Memohon Dipelihara dari Tangan Musuh 
+
+(26:170)
 
 ### 58. Doa Memohon Taufik Agar Menjadi Pribadi yang Bersyukur
 
@@ -314,7 +328,7 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Zakaria (as)
 
 ### 81. Doa Memohon Perlindungan yang Menyeluruh
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwMzc3MjQ3Myw3NDM3NjM4MDAsLTE2Mj
-cwMzc1NzAsMzE0OTg0MTYsNjQwMjUxOTQ1LC02MjAwOTk0NzYs
-MjA4NDA1ODQ4NiwxMzE1NTIyOTcwXX0=
+eyJoaXN0b3J5IjpbLTE4OTY0ODIyOTksNzQzNzYzODAwLC0xNj
+I3MDM3NTcwLDMxNDk4NDE2LDY0MDI1MTk0NSwtNjIwMDk5NDc2
+LDIwODQwNTg0ODYsMTMxNTUyMjk3MF19
 -->
