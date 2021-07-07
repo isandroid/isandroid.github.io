@@ -304,7 +304,7 @@ Keterangan:
 رَبَّنَا لَا تَجۡعَلۡنَا مَعَ الۡقَوۡمِ الظّٰلِمِیۡنَ
 </p>
 
-([QS Al-A'roof [7]:48](https://openquran.com/7:48))
+“Wahai Tuhan kami, janganlah Engkau jadikan kami termasuk orang-orang aniaya.” ([QS Al-A'roof [7]:48](https://openquran.com/7:48))
 
 ### 25. Doa Memohon Kasih Sayang Tuhan dan Ampunan Nya
 
@@ -996,7 +996,7 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2ODE1NTA1OCwxNTAxMTIxODYyLC0xNT
+eyJoaXN0b3J5IjpbLTcwNzkxNTExNCwxNTAxMTIxODYyLC0xNT
 MzOTg5OTk0LC04MjA4MDQ1OTUsLTE0MDc1MjkzMzAsLTI5NDI0
 MjUwMywtMTE4Nzc0MjExMSwtNDgxOTEzNzUwLDQ4MTE3MzE2OC
 wxNzY4MjYxODg3LDEwNzkzMDQxMjksLTEzODAxOTQ2MDAsMTI3
