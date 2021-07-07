@@ -90,11 +90,21 @@ published: true
 
 ### 23. Doa Memohon Kesabaran dan Keselamatan 
 
-### 24. Doa Memohon Dijauhkan dari Orang yang Zalim 25. Doa meminta kasih saying Tuhan dan am-punan Nya
+### 24. Doa Memohon Dijauhkan dari Orang yang Zalim 
 
-26. Doa meminta ampun
+### 25. Doa Memohon kasih saying Tuhan dan am-punan Nya
 
-27. Doa meminta ampun dan meminta rahmat 28. Doa meminta kebaikan dunia dan akhirat 29. Tawakkal dan menyerah kepada Allah 30. Doa meminta dijauhkan dari kejahatan mu-suh 31. Doa kebinasaan orang yang zalim
+### 26. Doa Memohon Ampun
+
+### 27. Doa Memohon Ampun dan Meminta Rahmat 
+
+### 28. Doa Memohon Kebaikan Dunia dan Akhirat 
+
+### 29. Tawakkal dan Menyerah kepada Allah 
+
+### 30. Doa Memohon Dijauhkan dari Kejahatan Musuh 
+
+### 31. Doa untuk Kebinasaan Orang yang Zalim
 
 32. Doa naik kapal/kendaraan
 
@@ -173,7 +183,7 @@ nangan
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2MjM2NTM0LDMxNDk4NDE2LDY0MDI1MT
+eyJoaXN0b3J5IjpbLTc1ODA2NzkxLDMxNDk4NDE2LDY0MDI1MT
 k0NSwtNjIwMDk5NDc2LDIwODQwNTg0ODYsMTMxNTUyMjk3MF19
 
 -->
