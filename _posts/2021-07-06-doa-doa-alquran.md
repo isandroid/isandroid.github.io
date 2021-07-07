@@ -52,7 +52,7 @@ published: true
 
 ### 4. Doa Memohon Kebaikan untuk Dunia dan akhirat 
 
-### 5. Doa meminta kesabaran, ketetapan iman, kekuatan menahan rasa sakit dan bahaya dari orang-orang kafir
+### 5. Doa Memohon Kesabaran, Ketetapan Iman, Kekuatan Menahan Rasa Sakit dan Bahaya dari Orang-orang Kafir
 
 6. Doa meminta ampun
 
@@ -157,6 +157,6 @@ nangan
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMjMxNjM2NiwyMDg0MDU4NDg2LDEzMT
+eyJoaXN0b3J5IjpbLTYyMDA5OTQ3NiwyMDg0MDU4NDg2LDEzMT
 U1MjI5NzBdfQ==
 -->
