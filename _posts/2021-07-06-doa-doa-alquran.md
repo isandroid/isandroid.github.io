@@ -74,7 +74,7 @@ published: true
 رَبَّنَاۤ اَفۡرِغۡ عَلَیۡنَا صَبۡرًا وَّثَبِّتۡ اَقۡدَامَنَا وَانۡصُرۡنَا عَلَی الۡقَوۡمِ الۡکٰفِرِیۡنَ
 </p>
 
-([QS Al-Baqarah [2]:251]())
+([QS Al-Baqarah [2]:251](https://openquran.com/2:251))
 
 ### 6. Doa Memohon Ampun
 
@@ -395,8 +395,8 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAzNTM1MDIyOSwtOTQxNjUzMTc4LC0yMD
-k2MDc5MzgwLC0xOTY5OTkzMTc0LDc0Mzc2MzgwMCwtMTYyNzAz
-NzU3MCwzMTQ5ODQxNiw2NDAyNTE5NDUsLTYyMDA5OTQ3NiwyMD
-g0MDU4NDg2XX0=
+eyJoaXN0b3J5IjpbLTE1ODg2MTczLC05NDE2NTMxNzgsLTIwOT
+YwNzkzODAsLTE5Njk5OTMxNzQsNzQzNzYzODAwLC0xNjI3MDM3
+NTcwLDMxNDk4NDE2LDY0MDI1MTk0NSwtNjIwMDk5NDc2LDIwOD
+QwNTg0ODZdfQ==
 -->
