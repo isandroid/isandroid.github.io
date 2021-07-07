@@ -441,30 +441,30 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Zakaria (as)
 </p>
 
 <p class="quran">
-
+ہٰرُوۡنَ اَخِیۡ
 </p>
 
 <p class="quran">
-
+اُشۡدُدۡ بِہٖۤ اَزۡرِیۡ
 </p>
 
 <p class="quran">
-
+وَاَشۡرِکۡہُ فِیۡۤ اَمۡرِیۡ
 </p>
 
 <p class="quran">
-
+کَیۡ نُسَبِّحَکَ کَثِیۡرًا
 </p>
 
 <p class="quran">
-
+وَنَذۡکُرَکَ کَثِیۡرًا
 </p>
 
 <p class="quran">
-
+اِنَّکَ کُنۡتَ بِنَا بَصِیۡرًا
 </p>
 
-(20:26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36)
+(QS Toha [20] :[26](https://openquran.com/20:), 27, 28, 29, 30, 31, 32, 33, 34, 35, 36)
 
 Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Musa (as)
 
@@ -961,7 +961,7 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzOTc2NDE4NCwxNzY4MjYxODg3LDEwNz
+eyJoaXN0b3J5IjpbLTIzNDI3MTc3MywxNzY4MjYxODg3LDEwNz
 kzMDQxMjksLTEzODAxOTQ2MDAsMTI3OTIzNDUyNywtMTU2NjAx
 NzI4MCwtMTkyNzU5MjEyLC0xMjI5MTUwMDc2LC03NTMyMTE2OD
 csLTEyMzMyMTYzMSwxODAyNzQ3ODg5LC00MzI4MzkxOTIsLTc5
