@@ -106,13 +106,15 @@ published: true
 
 ### 31. Doa untuk Kebinasaan Orang yang Zalim
 
-32. Doa naik kapal/kendaraan
+### 32. Doa Naik Kapal atau Kendaraan
 
-33. Doa meminta dipelihara dari hal yang tidak ada gunanya
+### 33. Doa Meminta Dipelihara dari Hal yang Tidak Berguna
 
-34. Bersyukur atas karunia ilmu dan kerajaan 35. Doa meminta keselamatan iman
+### 34. Bersyukur atas Karunia Ilmu dan Kerajaan 
 
-36. Doa meminta dilapangkan rezeki, meminta supaya anak cucu kita menjadi orang shaleh 37. Doa untuk Ibu dan Bapak
+### 35. Doa Memohon Keselamatan Iman
+
+### 36. Doa Memohon Dilapangkan Rejeki, Memohon agar Anak-Cucu Kita Menjadi Orang shaleh 37. Doa untuk Ibu dan Bapak
 
 38. Doa ketika mau masuk dan mau keluar suatu tempat
 
@@ -183,7 +185,7 @@ nangan
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1ODA2NzkxLDMxNDk4NDE2LDY0MDI1MT
-k0NSwtNjIwMDk5NDc2LDIwODQwNTg0ODYsMTMxNTUyMjk3MF19
-
+eyJoaXN0b3J5IjpbLTI1MjA5OTYzMCwzMTQ5ODQxNiw2NDAyNT
+E5NDUsLTYyMDA5OTQ3NiwyMDg0MDU4NDg2LDEzMTU1MjI5NzBd
+fQ==
 -->
