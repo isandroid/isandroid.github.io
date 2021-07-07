@@ -150,9 +150,15 @@ published: true
 
 ### 53. Doa Memohon Dipelihara dari Api Neraka 
 
-### 54. Doa Supaya Anak-Cucu Kita Menjadi Keturunan yang shaleh
+### 54. Doa Supaya Anak-Cucu Kita Menjadi Keturunan yang Shaleh
 
-55. Doa meminta dimasukkan ke dalam golongan orang yang saleh dan doa untuk ibu bapak 56. Doa meminta kemenangan dan keputusan 57. Doa meminta dipelihara dari tangan musuh 58. Doa meminta taufik bersyukur
+### 55. Doa Memohon Dimasukkan ke dalam Golongan Orang-orang yang Saleh dan Doa untuk Ibu-bapak 
+
+### 56. Doa Memohon Kemenangan dan Keputusan 
+
+### 57. Doa Memohon Dipelihara dari Tangan Musuh 
+
+### 58. Doa Memohon Taufik Agar Menjadi Pribadi yang Bersyukur
 
 59. Doa pengakuan menganiaya diri
 
@@ -195,7 +201,7 @@ published: true
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzkzMTgyNDIsMzE0OTg0MTYsNjQwMj
+eyJoaXN0b3J5IjpbLTE0OTQxMjI3NDQsMzE0OTg0MTYsNjQwMj
 UxOTQ1LC02MjAwOTk0NzYsMjA4NDA1ODQ4NiwxMzE1NTIyOTcw
 XX0=
 -->
