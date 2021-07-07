@@ -168,6 +168,8 @@ Wahai Tuhan kami, janganlah Engkau bengkokkan hati kami setelah Engkau memberi k
 
 “Wahai Tuhan kami, kami beriman kepada apa yang telah Engkau turunkan dan kami mengikuti Rasul ini maka catatlah kami bersama orang-orang yang menjadi saksi.” ([QS Aali-'Imraan [3]:54](https://openquran.com/3:54))
 
+Keterangan: Ini adalah doa para hawari, yaitu para pengikut Nabi Isa (as) setelah mengikrarkan kesetiaannya kepada Nabi Isa (as) untuk menjadi *Anshoorullooh*, atau penolong agama Allah.
+
 ### 13. Doa Memohon Ampun dan Memohon Diberikan Ketetapan Hati
 
 <p class="quran">
@@ -970,11 +972,11 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTYwNTY5ODksLTE1MzM5ODk5OTQsLT
-gyMDgwNDU5NSwtMTQwNzUyOTMzMCwtMjk0MjQyNTAzLC0xMTg3
-NzQyMTExLC00ODE5MTM3NTAsNDgxMTczMTY4LDE3NjgyNjE4OD
-csMTA3OTMwNDEyOSwtMTM4MDE5NDYwMCwxMjc5MjM0NTI3LC0x
-NTY2MDE3MjgwLC0xOTI3NTkyMTIsLTEyMjkxNTAwNzYsLTc1Mz
-IxMTY4NywtMTIzMzIxNjMxLDE4MDI3NDc4ODksLTQzMjgzOTE5
-MiwtNzkwODc5Mzk4XX0=
+eyJoaXN0b3J5IjpbNzE1NzAzNTMwLC0xNTMzOTg5OTk0LC04Mj
+A4MDQ1OTUsLTE0MDc1MjkzMzAsLTI5NDI0MjUwMywtMTE4Nzc0
+MjExMSwtNDgxOTEzNzUwLDQ4MTE3MzE2OCwxNzY4MjYxODg3LD
+EwNzkzMDQxMjksLTEzODAxOTQ2MDAsMTI3OTIzNDUyNywtMTU2
+NjAxNzI4MCwtMTkyNzU5MjEyLC0xMjI5MTUwMDc2LC03NTMyMT
+E2ODcsLTEyMzMyMTYzMSwxODAyNzQ3ODg5LC00MzI4MzkxOTIs
+LTc5MDg3OTM5OF19
 -->
