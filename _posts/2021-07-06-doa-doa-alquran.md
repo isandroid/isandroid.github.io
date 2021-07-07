@@ -70,6 +70,10 @@ published: true
 
 ### 5. Doa Memohon Kesabaran, Ketetapan Iman, Kekuatan Menahan Rasa Sakit dan Bahaya dari Orang-orang Kafir
 
+<p class="quran">
+رَبَّنَاۤ اَفۡرِغۡ عَلَیۡنَا صَبۡرًا وَّثَبِّتۡ اَقۡدَامَنَا وَانۡصُرۡنَا عَلَی الۡقَوۡمِ الۡکٰفِرِیۡنَ
+</p>
+
 ([QS Al-Baqarah [2]:251]())
 
 ### 6. Doa Memohon Ampun
@@ -391,7 +395,7 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4NDM1MjY1OCwtOTQxNjUzMTc4LC0yMD
+eyJoaXN0b3J5IjpbMjAzNTM1MDIyOSwtOTQxNjUzMTc4LC0yMD
 k2MDc5MzgwLC0xOTY5OTkzMTc0LDc0Mzc2MzgwMCwtMTYyNzAz
 NzU3MCwzMTQ5ODQxNiw2NDAyNTE5NDUsLTYyMDA5OTQ3NiwyMD
 g0MDU4NDg2XX0=
