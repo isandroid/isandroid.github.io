@@ -86,7 +86,11 @@ published: true
 
 ### 21. Doa Memohon Dinyatakan Antara yang benar dan yang salah 
 
-### 22. Doa bersyukur atas mendapat petunjuk 23. Doa meminta kesabaran dan keselamatan 24. Doa meminta dijauhkan dari orang yang zalim 25. Doa meminta kasih saying Tuhan dan am-punan Nya
+### 22. Doa Bersyukur atas Petunjuk dari Allah 
+
+### 23. Doa Memohon Kesabaran dan Keselamatan 
+
+### 24. Doa Memohon Dijauhkan dari Orang yang Zalim 25. Doa meminta kasih saying Tuhan dan am-punan Nya
 
 26. Doa meminta ampun
 
@@ -169,7 +173,7 @@ nangan
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTc4OTM3OTgwLDMxNDk4NDE2LDY0MDI1MT
+eyJoaXN0b3J5IjpbMTY2MjM2NTM0LDMxNDk4NDE2LDY0MDI1MT
 k0NSwtNjIwMDk5NDc2LDIwODQwNTg0ODYsMTMxNTUyMjk3MF19
 
 -->
