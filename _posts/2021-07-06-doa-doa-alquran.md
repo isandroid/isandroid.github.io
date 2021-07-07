@@ -417,8 +417,7 @@ Keterangan:
 
 - Doa tersebut dilatarbelakangi oleh Nabi Nuh (as) yang ingin menyelamatkan putranya yang jelas-jelas menentang dan ingkar kepada Allah Ta'ala. 
 - Allah Ta'ala berfirman, “Hai Nuh! sesungguhnya ia bukanlah dari keluarga engkau; sebenarnya ia *orang* yang amalnya tidak baik. Maka janganlah meminta kepada-Ku sesuatu yang engkau tidak mengetahuinya. Sesungguhnya Aku nasihati engkau, supaya engkau tidak termasuk orang-orang yang bodoh.”
-- - Doa itu dipanjatkan oleh Nabi Nuh (as) setelah "ditegur" Allah Ta'ala.
-
+- Setelah turun teguran itu dari ALlah Ta'ala, maka Nabi Nuh (as) segera memanjatkan doa tersebut kepada Allah Ta'ala.
 
 ### 34. Bersyukur atas Karunia Ilmu dan Kerajaan 
 
@@ -1032,11 +1031,11 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTI0ODc4MTcsMTUwMTEyMTg2MiwtMT
-UzMzk4OTk5NCwtODIwODA0NTk1LC0xNDA3NTI5MzMwLC0yOTQy
-NDI1MDMsLTExODc3NDIxMTEsLTQ4MTkxMzc1MCw0ODExNzMxNj
-gsMTc2ODI2MTg4NywxMDc5MzA0MTI5LC0xMzgwMTk0NjAwLDEy
-NzkyMzQ1MjcsLTE1NjYwMTcyODAsLTE5Mjc1OTIxMiwtMTIyOT
-E1MDA3NiwtNzUzMjExNjg3LC0xMjMzMjE2MzEsMTgwMjc0Nzg4
-OSwtNDMyODM5MTkyXX0=
+eyJoaXN0b3J5IjpbMTc5OTgyNzE0MSwxNTAxMTIxODYyLC0xNT
+MzOTg5OTk0LC04MjA4MDQ1OTUsLTE0MDc1MjkzMzAsLTI5NDI0
+MjUwMywtMTE4Nzc0MjExMSwtNDgxOTEzNzUwLDQ4MTE3MzE2OC
+wxNzY4MjYxODg3LDEwNzkzMDQxMjksLTEzODAxOTQ2MDAsMTI3
+OTIzNDUyNywtMTU2NjAxNzI4MCwtMTkyNzU5MjEyLC0xMjI5MT
+UwMDc2LC03NTMyMTE2ODcsLTEyMzMyMTYzMSwxODAyNzQ3ODg5
+LC00MzI4MzkxOTJdfQ==
 -->
