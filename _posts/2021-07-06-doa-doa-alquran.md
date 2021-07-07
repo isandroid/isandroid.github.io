@@ -128,7 +128,7 @@ Kami mohon ampunan Engkau wahai Tuhan kami, dan kepada Engkau-lah *kami* kembali
 رَبَّنَا لَا تُزِغۡ قُلُوۡبَنَا بَعۡدَ اِذۡ ہَدَیۡتَنَا وَہَبۡ لَنَا مِنۡ لَّدُنۡکَ رَحۡمَۃً ۚ اِنَّکَ اَنۡتَ الۡوَہَّابُ
 </p>
 
-([QS Aali-'Imraan [3]:9](https://openquran.com/3:9))
+Wahai Tuhan kami, janganlah Engkau bengkokkan hati kami setelah Engkau memberi kami petunjuk, dan limpahkanlah kepada kami rahmat dari sisi Engkau, sesungguhnya Engkau Maha Pemberi. ([QS Aali-'Imraan [3]:9](https://openquran.com/3:9))
 
 ### 9. Ikrar kepada Hari Kiamat
 
@@ -968,7 +968,7 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1MTQ3MTA2NSwtMTQwNzUyOTMzMCwtMj
+eyJoaXN0b3J5IjpbLTgyMDgwNDU5NSwtMTQwNzUyOTMzMCwtMj
 k0MjQyNTAzLC0xMTg3NzQyMTExLC00ODE5MTM3NTAsNDgxMTcz
 MTY4LDE3NjgyNjE4ODcsMTA3OTMwNDEyOSwtMTM4MDE5NDYwMC
 wxMjc5MjM0NTI3LC0xNTY2MDE3MjgwLC0xOTI3NTkyMTIsLTEy
