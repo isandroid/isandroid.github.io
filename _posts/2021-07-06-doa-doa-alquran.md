@@ -224,7 +224,9 @@ Keterangan: Doa ini dipanjatkan oleh orang-orang yang berilmu (yang senantiasa m
 رَبِّ اِنِّیۡ لَاۤ اَمۡلِکُ اِلَّا نَفۡسِیۡ وَاَخِیۡ ۖ فَافۡرُقۡ بَیۡنَنَا وَبَیۡنَ الۡقَوۡمِ الۡفٰسِقِیۡنَ
 </p>
 
-([QS Al-Maaidah [5]:26](https://openquran.com/5:26))
+“Wahai Tuhanku, sesungguhnya aku tidak berkuasa kecuali terhadap diriku dan saudara laki-lakiku, maka bedakanlah antara kami dengan kaum yang durhaka itu.” ([QS Al-Maaidah [5]:26](https://openquran.com/5:26))
+
+Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Musa (as) ketika kaumnya 
 
 ### 18. Doa Memohon Rejeki
 
@@ -980,7 +982,7 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTY4ODY1NjcsMTUwMTEyMTg2MiwtMT
+eyJoaXN0b3J5IjpbLTIxNDE1ODE2MDAsMTUwMTEyMTg2MiwtMT
 UzMzk4OTk5NCwtODIwODA0NTk1LC0xNDA3NTI5MzMwLC0yOTQy
 NDI1MDMsLTExODc3NDIxMTEsLTQ4MTkxMzc1MCw0ODExNzMxNj
 gsMTc2ODI2MTg4NywxMDc5MzA0MTI5LC0xMzgwMTk0NjAwLDEy
