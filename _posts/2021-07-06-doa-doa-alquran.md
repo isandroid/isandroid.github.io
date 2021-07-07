@@ -425,7 +425,7 @@ Keterangan:
  رَبِّ قَدۡ اٰتَیۡتَنِیۡ مِنَ الۡمُلۡکِ وَعَلَّمۡتَنِیۡ مِنۡ تَاۡوِیۡلِ الۡاَحَادِیۡثِ
 </p>
 
-([QS Yusuf [12]:102](https://openquran.com/12:102))
+“Ya Tuhan-ku, Engkau telah menganugerahkan *sebagian* kedaulatan kepadaku, dan a mengajarku ta’wil mimpi. Wahai Pencipta seluruh langit dan bumi, Engkau-lah Penolongku di dunia dan akhirat. Wafatkanlah aku dalam *keadaan* patuh *taat kepada kehendak Engkau* dan gabungkanlah aku dengan orangorang yang saleh.” ([QS Yusuf [12]:102](https://openquran.com/12:102))
 
 ### 35. Doa Memohon Keselamatan Iman
 
@@ -1031,7 +1031,7 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5OTgyNzE0MSwxNTAxMTIxODYyLC0xNT
+eyJoaXN0b3J5IjpbLTY0NzQxNzAzMywxNTAxMTIxODYyLC0xNT
 MzOTg5OTk0LC04MjA4MDQ1OTUsLTE0MDc1MjkzMzAsLTI5NDI0
 MjUwMywtMTE4Nzc0MjExMSwtNDgxOTEzNzUwLDQ4MTE3MzE2OC
 wxNzY4MjYxODg3LDEwNzkzMDQxMjksLTEzODAxOTQ2MDAsMTI3
