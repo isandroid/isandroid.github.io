@@ -212,9 +212,9 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Isa (as)
  رَبَّنَا ظَلَمۡنَاۤ اَنۡفُسَنَا وَاِنۡ لَّمۡ تَغۡفِرۡ لَنَا وَتَرۡحَمۡنَا لَنَکُوۡنَنَّ مِنَ الۡخٰسِرِیۡنَ
 </p>
 
-(7:24)
+([QS Al-A'roof [7]:24](https://openquran.com/7:24))
 
-Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Isa (as)
+Keterangan: Doa ini adalah doa yang dipanjatkan oleh Nabi Adam (as)
 
 ### 21. Doa Memohon Dinyatakan Antara yang benar dan yang salah 
 
@@ -957,7 +957,7 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3ODUwODcyMCwtNzUzMjExNjg3LC0xMj
+eyJoaXN0b3J5IjpbMjA5NTQ5NTI4OCwtNzUzMjExNjg3LC0xMj
 MzMjE2MzEsMTgwMjc0Nzg4OSwtNDMyODM5MTkyLC03OTA4Nzkz
 OTgsNjU2NTE4NDk1LC0xNDA2NTM1OTQyLC05NDE2NTMxNzgsLT
 IwOTYwNzkzODAsLTE5Njk5OTMxNzQsNzQzNzYzODAwLC0xNjI3
