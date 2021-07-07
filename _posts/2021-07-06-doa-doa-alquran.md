@@ -122,19 +122,35 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Isa (as)
 
 ### 20. Doa Memohon Ampun
 
+(7:24)
+
 Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Isa (as)
 
 ### 21. Doa Memohon Dinyatakan Antara yang benar dan yang salah 
 
+(7:90) 
+
 ### 22. Doa Bersyukur atas Petunjuk dari Allah 
+
+(7:44)
 
 ### 23. Doa Memohon Kesabaran dan Keselamatan 
 
+(7:127)
+
 ### 24. Doa Memohon Dijauhkan dari Orang yang Zalim 
+
+(7:48)
 
 ### 25. Doa Memohon kasih saying Tuhan dan am-punan Nya
 
+(7:150)
+
 ### 26. Doa Memohon Ampun
+
+(7:152) 
+
+Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Musa (as)
 
 ### 27. Doa Memohon Ampun dan Meminta Rahmat 
 
@@ -246,7 +262,7 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Isa (as)
 
 ### 81. Doa Memohon Perlindungan yang Menyeluruh
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODMzNzA2MjIsNzQzNzYzODAwLC0xNj
-I3MDM3NTcwLDMxNDk4NDE2LDY0MDI1MTk0NSwtNjIwMDk5NDc2
-LDIwODQwNTg0ODYsMTMxNTUyMjk3MF19
+eyJoaXN0b3J5IjpbMTk0NTYzNzczNyw3NDM3NjM4MDAsLTE2Mj
+cwMzc1NzAsMzE0OTg0MTYsNjQwMjUxOTQ1LC02MjAwOTk0NzYs
+MjA4NDA1ODQ4NiwxMzE1NTIyOTcwXX0=
 -->
