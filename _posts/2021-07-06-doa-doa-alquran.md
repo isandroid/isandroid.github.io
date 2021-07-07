@@ -282,21 +282,39 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 
 ### 58. Doa Memohon Taufik Agar Menjadi Pribadi yang Bersyukur
 
+(27:20)
+
 ### 59. Doa Pengakuan bahwa Kita Menganiaya Diri-Sendiri
+
+(27:45)
 
 ### 60. Doa Keselamatan
 
+(27:60)
+
 ### 61. Mengakui Kesalahan dan Memohon Diampuni 
+
+(28:17)
 
 ### 62. Doa Agar Terhindar dari Bagian Orang-orang yang Berdosa
 
+(28:18)
+
 ### 63. Doa Meminta Terpelihara dari Kaum yang Zalim (aniaya)
+
+(28:22)
 
 ### 64. Doa Waktu Tiba di Negeri Asing
 
+(28:25)
+
 ### 65. Doa Memohon Anak yang Saleh
 
+(37:101)
+
 ### 66. Doa Memohon Pertolongan
+
+(29:31)
 
 ### 67. Doa Nabi Sulaiman (as)
 
@@ -328,7 +346,7 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 
 ### 81. Doa Memohon Perlindungan yang Menyeluruh
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTY0ODIyOTksNzQzNzYzODAwLC0xNj
-I3MDM3NTcwLDMxNDk4NDE2LDY0MDI1MTk0NSwtNjIwMDk5NDc2
-LDIwODQwNTg0ODYsMTMxNTUyMjk3MF19
+eyJoaXN0b3J5IjpbMTA5MTAwODkyOSw3NDM3NjM4MDAsLTE2Mj
+cwMzc1NzAsMzE0OTg0MTYsNjQwMjUxOTQ1LC02MjAwOTk0NzYs
+MjA4NDA1ODQ4NiwxMzE1NTIyOTcwXX0=
 -->
