@@ -171,7 +171,7 @@ published: true
 ### 16. Doa Meminta Dipelihara dari Negeri yang Penduduknya Zhalim
 
 <p class="quran">
-
+رَبَّنَاۤ اَخۡرِجۡنَا مِنۡ ہٰذِہِ الۡقَرۡیَۃِ الظَّالِمِ اَہۡلُہَا وَاجۡعَل لَّنَا مِنۡ لَّدُنۡکَ وَلِیًّا وَّاجۡعَل لَّنَا مِنۡ لَّدُنۡکَ نَصِیۡرًا
 </p>
 
 (4:76)
@@ -957,9 +957,9 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgwMjc0Nzg4OSwtNDMyODM5MTkyLC03OT
-A4NzkzOTgsNjU2NTE4NDk1LC0xNDA2NTM1OTQyLC05NDE2NTMx
-NzgsLTIwOTYwNzkzODAsLTE5Njk5OTMxNzQsNzQzNzYzODAwLC
-0xNjI3MDM3NTcwLDMxNDk4NDE2LDY0MDI1MTk0NSwtNjIwMDk5
-NDc2LDIwODQwNTg0ODZdfQ==
+eyJoaXN0b3J5IjpbLTEyMzMyMTYzMSwxODAyNzQ3ODg5LC00Mz
+I4MzkxOTIsLTc5MDg3OTM5OCw2NTY1MTg0OTUsLTE0MDY1MzU5
+NDIsLTk0MTY1MzE3OCwtMjA5NjA3OTM4MCwtMTk2OTk5MzE3NC
+w3NDM3NjM4MDAsLTE2MjcwMzc1NzAsMzE0OTg0MTYsNjQwMjUx
+OTQ1LC02MjAwOTk0NzYsMjA4NDA1ODQ4Nl19
 -->
