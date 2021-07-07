@@ -387,10 +387,10 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 ### 38. Doa Ketika akan Masuk dan Keluar dari Suatu Tempat
 
 <p class="quran">
-
+ رَّبِّ اَدۡخِلۡنِیۡ مُدۡخَلَ صِدۡقٍ وَّاَخۡرِجۡنِیۡ مُخۡرَجَ صِدۡقٍ وَّاجۡعَل لِّیۡ مِنۡ لَّدُنۡکَ سُلۡطٰنًا نَّصِیۡرًا
 </p>
 
-(17:81)
+([QS Bani Israil [17]:81](https://openquran.com/17:81)))
 
 ### 39. Doa Memohon Rahmat dan Meminta Kemenangan
 
@@ -959,11 +959,11 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA3OTMwNDEyOSwtMTM4MDE5NDYwMCwxMj
-c5MjM0NTI3LC0xNTY2MDE3MjgwLC0xOTI3NTkyMTIsLTEyMjkx
-NTAwNzYsLTc1MzIxMTY4NywtMTIzMzIxNjMxLDE4MDI3NDc4OD
-ksLTQzMjgzOTE5MiwtNzkwODc5Mzk4LDY1NjUxODQ5NSwtMTQw
-NjUzNTk0MiwtOTQxNjUzMTc4LC0yMDk2MDc5MzgwLC0xOTY5OT
-kzMTc0LDc0Mzc2MzgwMCwtMTYyNzAzNzU3MCwzMTQ5ODQxNiw2
-NDAyNTE5NDVdfQ==
+eyJoaXN0b3J5IjpbNjQxNjE0Mzk5LDEwNzkzMDQxMjksLTEzOD
+AxOTQ2MDAsMTI3OTIzNDUyNywtMTU2NjAxNzI4MCwtMTkyNzU5
+MjEyLC0xMjI5MTUwMDc2LC03NTMyMTE2ODcsLTEyMzMyMTYzMS
+wxODAyNzQ3ODg5LC00MzI4MzkxOTIsLTc5MDg3OTM5OCw2NTY1
+MTg0OTUsLTE0MDY1MzU5NDIsLTk0MTY1MzE3OCwtMjA5NjA3OT
+M4MCwtMTk2OTk5MzE3NCw3NDM3NjM4MDAsLTE2MjcwMzc1NzAs
+MzE0OTg0MTZdfQ==
 -->
