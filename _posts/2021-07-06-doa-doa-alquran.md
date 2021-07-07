@@ -8,7 +8,7 @@ published: true
 
 ## {{ page.title }}
 
-### Doa yang Sempurna
+### 1. Surat Al-Fatihah doa yang sempurna
 
 <p class="quran">
 بِسۡمِ اللّٰہِ الرَّحۡمٰنِ الرَّحِیۡمِ
@@ -40,7 +40,7 @@ published: true
 
 ([QS Al-Fatihah [1]: 1-7](https://openquran.com/1))
 
-### Doa Memohon Keamanan dan Rejeki
+### 2. Doa Memohon Keamanan dan Rejeki
 
 <p class="quran">
 صِرٰطَ الَّذِیۡنَ اَنۡعَمۡتَ عَلَیۡہِمۡ غَیۡرِ الۡمَغۡضُوۡبِ عَلَیۡہِمۡ وَلَا الضَّآلِّیۡنَ
@@ -48,13 +48,11 @@ published: true
 
 ([QS Al-Baqarah [2]:127]())
 
-1. Surat Al-Fatihah doa yang sempurna
+### 3. Doa Agar Kita dan Anak-anak Kita Menjadi Orang yang Benar-benar Taat kepada Allah Ta’ala
 
-2. Meminta keamanan dan rezeki
+### 4. Doa Memohon Kebaikan untuk Dunia dan akhirat 
 
-3. Doa meminta dikabulkan supaya kita dan anak anak kita menjadi orang yang benar-benar taat kepada Allah Ta’ala
-
-4. Doa meminta kebaikan untuk dunia dan akhirat 5. Doa meminta kesabaran, ketetapan iman, kekuatan menahan rasa sakit dan bahaya dari orang-orang kafir
+### 5. Doa meminta kesabaran, ketetapan iman, kekuatan menahan rasa sakit dan bahaya dari orang-orang kafir
 
 6. Doa meminta ampun
 
@@ -159,6 +157,6 @@ nangan
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQ4NDA1OTExLDIwODQwNTg0ODYsMTMxNT
-UyMjk3MF19
+eyJoaXN0b3J5IjpbLTEwMjMxNjM2NiwyMDg0MDU4NDg2LDEzMT
+U1MjI5NzBdfQ==
 -->
