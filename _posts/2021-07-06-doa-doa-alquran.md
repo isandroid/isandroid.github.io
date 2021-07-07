@@ -46,9 +46,11 @@ Maha Pemurah, Maha Penyayang.
 
 Pemilik Hari Pembalasan.
 
-Hanya Engkau-lah Yang kami sembah dan b hanya kepada Engkau-lah kami mohon pertolongan
+Hanya Engkau-lah Yang kami sembah dan hanya kepada Engkau-lah kami mohon pertolongan.
 
-([QS Al-Fatihah [1]: 1-7](https://openquran.com/1))
+Tunjukilah kami jalan yang lurus,
+
+*Yaitu* jalan orang-orang yang telah Engkau beri nikmat atas mereka, bukan *jalan* mereka yang dimurkai dan bukan pula *jalan mereka* yang sesat ([QS Al-Fatihah [1]: 1-7](https://openquran.com/1)).
 
 ### 2. Doa Memohon Keamanan dan Rejeki
 
@@ -949,11 +951,11 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDAyNzI3MTYsLTI5NDI0MjUwMywtMT
-E4Nzc0MjExMSwtNDgxOTEzNzUwLDQ4MTE3MzE2OCwxNzY4MjYx
-ODg3LDEwNzkzMDQxMjksLTEzODAxOTQ2MDAsMTI3OTIzNDUyNy
-wtMTU2NjAxNzI4MCwtMTkyNzU5MjEyLC0xMjI5MTUwMDc2LC03
-NTMyMTE2ODcsLTEyMzMyMTYzMSwxODAyNzQ3ODg5LC00MzI4Mz
-kxOTIsLTc5MDg3OTM5OCw2NTY1MTg0OTUsLTE0MDY1MzU5NDIs
-LTk0MTY1MzE3OF19
+eyJoaXN0b3J5IjpbLTEzMzM2MjkwNywtMjk0MjQyNTAzLC0xMT
+g3NzQyMTExLC00ODE5MTM3NTAsNDgxMTczMTY4LDE3NjgyNjE4
+ODcsMTA3OTMwNDEyOSwtMTM4MDE5NDYwMCwxMjc5MjM0NTI3LC
+0xNTY2MDE3MjgwLC0xOTI3NTkyMTIsLTEyMjkxNTAwNzYsLTc1
+MzIxMTY4NywtMTIzMzIxNjMxLDE4MDI3NDc4ODksLTQzMjgzOT
+E5MiwtNzkwODc5Mzk4LDY1NjUxODQ5NSwtMTQwNjUzNTk0Miwt
+OTQxNjUzMTc4XX0=
 -->
