@@ -55,7 +55,7 @@ published: true
 </p>
 
 <p class="quran">
-
+رَبَّنَا وَاجۡعَلۡنَا مُسۡلِمَیۡنِ لَکَ وَمِنۡ ذُرِّیَّتِنَاۤ اُمَّۃً مُّسۡلِمَۃً لَّکَ وَاَرِنَا مَنَاسِکَنَا وَتُبۡ عَلَیۡنَاۤ ۖ اِنَّکَ اَنۡتَ التَّوَّابُ الرَّحِیۡمُ
 </p>
 
  (QS Al-Baqarah [2]:[128](https://openquran.com/2:128), [129](https://openquran.com/2:129))
@@ -387,7 +387,7 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTYwNzkzODAsLTE5Njk5OTMxNzQsNz
-QzNzYzODAwLC0xNjI3MDM3NTcwLDMxNDk4NDE2LDY0MDI1MTk0
-NSwtNjIwMDk5NDc2LDIwODQwNTg0ODZdfQ==
+eyJoaXN0b3J5IjpbLTk0MTY1MzE3OCwtMjA5NjA3OTM4MCwtMT
+k2OTk5MzE3NCw3NDM3NjM4MDAsLTE2MjcwMzc1NzAsMzE0OTg0
+MTYsNjQwMjUxOTQ1LC02MjAwOTk0NzYsMjA4NDA1ODQ4Nl19
 -->
