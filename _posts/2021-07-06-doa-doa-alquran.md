@@ -815,23 +815,23 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 ### 79. Doa Nabi Nuh (as)
 
 <p class="quran">
-
+رَبِّ اِنِّیۡ دَعَوۡتُ قَوۡمِیۡ لَیۡلًا وَّنَہَارًا
 </p>
 
 <p class="quran">
-
+فَلَمۡ یَزِدۡہُمۡ دُعَآءِیۡۤ اِلَّا فِرَارًا
 </p>
 
 <p class="quran">
-
+وَاِنِّیۡ کُلَّمَا دَعَوۡتُہُمۡ لِتَغۡفِرَ لَہُمۡ جَعَلُوۡۤا اَصٰبِعَہُمۡ فِیۡۤ اٰذَانِہِمۡ وَاسۡتَغۡشَوۡا ثِیَابَہُمۡ وَاَصَرُّوۡا وَاسۡتَکۡبَرُوا اسۡتِکۡبَارًا
 </p>
 
 <p class="quran">
-
+ثُمَّ اِنِّیۡ دَعَوۡتُہُمۡ جِہَارًا
 </p>
 
 <p class="quran">
-
+ثُمَّ اِنِّیۡۤ اَعۡلَنۡتُ لَہُمۡ وَاَسۡرَرۡتُ لَہُمۡ اِسۡرَارًا
 </p>
 
 <p class="quran">
@@ -963,11 +963,11 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODc3NDIxMTEsLTQ4MTkxMzc1MCw0OD
-ExNzMxNjgsMTc2ODI2MTg4NywxMDc5MzA0MTI5LC0xMzgwMTk0
-NjAwLDEyNzkyMzQ1MjcsLTE1NjYwMTcyODAsLTE5Mjc1OTIxMi
-wtMTIyOTE1MDA3NiwtNzUzMjExNjg3LC0xMjMzMjE2MzEsMTgw
-Mjc0Nzg4OSwtNDMyODM5MTkyLC03OTA4NzkzOTgsNjU2NTE4ND
-k1LC0xNDA2NTM1OTQyLC05NDE2NTMxNzgsLTIwOTYwNzkzODAs
-LTE5Njk5OTMxNzRdfQ==
+eyJoaXN0b3J5IjpbLTk5NDkzNzQwOSwtMTE4Nzc0MjExMSwtND
+gxOTEzNzUwLDQ4MTE3MzE2OCwxNzY4MjYxODg3LDEwNzkzMDQx
+MjksLTEzODAxOTQ2MDAsMTI3OTIzNDUyNywtMTU2NjAxNzI4MC
+wtMTkyNzU5MjEyLC0xMjI5MTUwMDc2LC03NTMyMTE2ODcsLTEy
+MzMyMTYzMSwxODAyNzQ3ODg5LC00MzI4MzkxOTIsLTc5MDg3OT
+M5OCw2NTY1MTg0OTUsLTE0MDY1MzU5NDIsLTk0MTY1MzE3OCwt
+MjA5NjA3OTM4MF19
 -->
