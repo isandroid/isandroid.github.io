@@ -176,7 +176,9 @@ Keterangan: Ini adalah doa para hawari, yaitu para pengikut Nabi Isa (as) setela
 رَبَّنَا اغۡفِرۡ لَنَا ذُنُوۡبَنَا وَاِسۡرَافَنَا فِیۡۤ اَمۡرِنَا وَثَبِّتۡ اَقۡدَامَنَا وَانۡصُرۡنَا عَلَی الۡقَوۡمِ الۡکٰفِرِیۡنَ
 </p>
 
-([QS Aali-'Imraan [3]:148](https://openquran.com/3:148))
+”Wahai Tuhan kami, ampunilah dosa-dosa kami, dan perbuatan kami yang berlebih-lebihan dalam urusan kami, teguhkanlah langkahlangkah kami dan tolonglah kami terhadap kaum kafir.” ([QS Aali-'Imraan [3]:148](https://openquran.com/3:148))
+
+Keterangan: Doa ini dipanjatkan oleh orang-orang sabar yang sedang berperang di jalan Allah Ta'ala
 
 ### 14. Doa Memohon Dipelihara dari Azab Neraka 
 
@@ -972,11 +974,11 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzE1NzAzNTMwLC0xNTMzOTg5OTk0LC04Mj
-A4MDQ1OTUsLTE0MDc1MjkzMzAsLTI5NDI0MjUwMywtMTE4Nzc0
-MjExMSwtNDgxOTEzNzUwLDQ4MTE3MzE2OCwxNzY4MjYxODg3LD
-EwNzkzMDQxMjksLTEzODAxOTQ2MDAsMTI3OTIzNDUyNywtMTU2
-NjAxNzI4MCwtMTkyNzU5MjEyLC0xMjI5MTUwMDc2LC03NTMyMT
-E2ODcsLTEyMzMyMTYzMSwxODAyNzQ3ODg5LC00MzI4MzkxOTIs
-LTc5MDg3OTM5OF19
+eyJoaXN0b3J5IjpbMTk3NDc4MDk1MiwtMTUzMzk4OTk5NCwtOD
+IwODA0NTk1LC0xNDA3NTI5MzMwLC0yOTQyNDI1MDMsLTExODc3
+NDIxMTEsLTQ4MTkxMzc1MCw0ODExNzMxNjgsMTc2ODI2MTg4Ny
+wxMDc5MzA0MTI5LC0xMzgwMTk0NjAwLDEyNzkyMzQ1MjcsLTE1
+NjYwMTcyODAsLTE5Mjc1OTIxMiwtMTIyOTE1MDA3NiwtNzUzMj
+ExNjg3LC0xMjMzMjE2MzEsMTgwMjc0Nzg4OSwtNDMyODM5MTky
+LC03OTA4NzkzOThdfQ==
 -->
