@@ -174,12 +174,12 @@ published: true
 رَبَّنَاۤ اَخۡرِجۡنَا مِنۡ ہٰذِہِ الۡقَرۡیَۃِ الظَّالِمِ اَہۡلُہَا وَاجۡعَل لَّنَا مِنۡ لَّدُنۡکَ وَلِیًّا وَّاجۡعَل لَّنَا مِنۡ لَّدُنۡکَ نَصِیۡرًا
 </p>
 
-(4:76)
+([QS An-Nisaa [4]:76](https://openquran.com/4:76))
 
 ### 17. Doa Menyatakan Kelemahan Diri, Tidak Berdaya dan Memohon Dihindarkan dari Kaum yang Fasik 
 
 <p class="quran">
-
+رَبِّ اِنِّیۡ لَاۤ اَمۡلِکُ اِلَّا نَفۡسِیۡ وَاَخِیۡ ۖ فَافۡرُقۡ بَیۡنَنَا وَبَیۡنَ الۡقَوۡمِ الۡفٰسِقِیۡنَ
 </p>
 
 (5:26)
@@ -957,9 +957,10 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzMyMTYzMSwxODAyNzQ3ODg5LC00Mz
-I4MzkxOTIsLTc5MDg3OTM5OCw2NTY1MTg0OTUsLTE0MDY1MzU5
-NDIsLTk0MTY1MzE3OCwtMjA5NjA3OTM4MCwtMTk2OTk5MzE3NC
-w3NDM3NjM4MDAsLTE2MjcwMzc1NzAsMzE0OTg0MTYsNjQwMjUx
-OTQ1LC02MjAwOTk0NzYsMjA4NDA1ODQ4Nl19
+eyJoaXN0b3J5IjpbMTE1NTUxNDc5MCwtMTIzMzIxNjMxLDE4MD
+I3NDc4ODksLTQzMjgzOTE5MiwtNzkwODc5Mzk4LDY1NjUxODQ5
+NSwtMTQwNjUzNTk0MiwtOTQxNjUzMTc4LC0yMDk2MDc5MzgwLC
+0xOTY5OTkzMTc0LDc0Mzc2MzgwMCwtMTYyNzAzNzU3MCwzMTQ5
+ODQxNiw2NDAyNTE5NDUsLTYyMDA5OTQ3NiwyMDg0MDU4NDg2XX
+0=
 -->
