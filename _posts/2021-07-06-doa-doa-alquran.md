@@ -779,14 +779,14 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 ### 75. Doa Memohon Dipelihara dari Fitnah Orang Kafir 
 
 <p class="quran">
-
+ رَّبَّنَا عَلَیۡکَ تَوَکَّلۡنَا وَاِلَیۡکَ اَنَبۡنَا وَاِلَیۡکَ الۡمَصِیۡرُ
 </p>
 
 <p class="quran">
-
+رَبَّنَا لَا تَجۡعَلۡنَا فِتۡنَۃً لِّلَّذِیۡنَ کَفَرُوۡا وَاغۡفِرۡ لَنَا رَبَّنَاۤ ۖ اِنَّکَ اَنۡتَ الۡعَزِیۡزُ الۡحَکِیۡمُ
 </p>
 
-(QS Al-Mumtahinah [60]:[5]()-[6]())
+(QS Al-Mumtahinah [60]:[5](https://openquran.com/60:5)-[6](https://openquran.com/60:6))
 
 ### 76. Doa Memohon Kesempurnaan Karunia Tuhan 
 
@@ -963,11 +963,11 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5ODUzMDM5MCwtNDgxOTEzNzUwLDQ4MT
-E3MzE2OCwxNzY4MjYxODg3LDEwNzkzMDQxMjksLTEzODAxOTQ2
-MDAsMTI3OTIzNDUyNywtMTU2NjAxNzI4MCwtMTkyNzU5MjEyLC
-0xMjI5MTUwMDc2LC03NTMyMTE2ODcsLTEyMzMyMTYzMSwxODAy
-NzQ3ODg5LC00MzI4MzkxOTIsLTc5MDg3OTM5OCw2NTY1MTg0OT
-UsLTE0MDY1MzU5NDIsLTk0MTY1MzE3OCwtMjA5NjA3OTM4MCwt
-MTk2OTk5MzE3NF19
+eyJoaXN0b3J5IjpbMjcyODA1NzQzLC00ODE5MTM3NTAsNDgxMT
+czMTY4LDE3NjgyNjE4ODcsMTA3OTMwNDEyOSwtMTM4MDE5NDYw
+MCwxMjc5MjM0NTI3LC0xNTY2MDE3MjgwLC0xOTI3NTkyMTIsLT
+EyMjkxNTAwNzYsLTc1MzIxMTY4NywtMTIzMzIxNjMxLDE4MDI3
+NDc4ODksLTQzMjgzOTE5MiwtNzkwODc5Mzk4LDY1NjUxODQ5NS
+wtMTQwNjUzNTk0MiwtOTQxNjUzMTc4LC0yMDk2MDc5MzgwLC0x
+OTY5OTkzMTc0XX0=
 -->
