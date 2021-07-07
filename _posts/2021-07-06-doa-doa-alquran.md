@@ -86,6 +86,7 @@ published: true
 
 ### 7. Doa Memohon agar Dipelihara dari Siksaan Allah, Memohon Ampun dan Pertolongan 
 
+
 (2:287)
 
 ### 8. Doa untuk Ketetapan Iman dan agar Hati Tidak Menyimpang
@@ -399,8 +400,8 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDY1MzU5NDIsLTk0MTY1MzE3OCwtMj
-A5NjA3OTM4MCwtMTk2OTk5MzE3NCw3NDM3NjM4MDAsLTE2Mjcw
-Mzc1NzAsMzE0OTg0MTYsNjQwMjUxOTQ1LC02MjAwOTk0NzYsMj
-A4NDA1ODQ4Nl19
+eyJoaXN0b3J5IjpbLTEzNzgzNzM4MTIsLTE0MDY1MzU5NDIsLT
+k0MTY1MzE3OCwtMjA5NjA3OTM4MCwtMTk2OTk5MzE3NCw3NDM3
+NjM4MDAsLTE2MjcwMzc1NzAsMzE0OTg0MTYsNjQwMjUxOTQ1LC
+02MjAwOTk0NzYsMjA4NDA1ODQ4Nl19
 -->
