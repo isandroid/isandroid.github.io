@@ -187,17 +187,17 @@ published: true
 ### 18. Doa Memohon Rejeki
 
 <p class="quran">
-
+ رَبَّنَاۤ اَنۡزِلۡ عَلَیۡنَا مَآئِدَۃً مِّنَ السَّمَآءِ تَکُوۡنُ لَنَا عِیۡدًا لِّاَوَّلِنَا وَاٰخِرِنَا وَاٰیَۃً مِّنۡکَ ۖ وَارۡزُقۡنَا وَاَنۡتَ خَیۡرُ الرّٰزِقِیۡنَ
 </p>
 
-(5:115)
+([QS Al-Maidah [5]:115](https://openquran.com/5:115))
 
 Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Isa (as)
 
 ### 19. Doa Memohon agar Dimasukkan ke dalam Jemaat yang Suci 
 
 <p class="quran">
-
+رَبَّنَاۤ اٰمَنَّا فَاکۡتُبۡنَا مَعَ الشّٰہِدِیۡنَ
 </p>
 
 <p class="quran">
@@ -957,7 +957,7 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0MzUzNDA5MywtMTIzMzIxNjMxLDE4MD
+eyJoaXN0b3J5IjpbMTUyNDIxNTcyOCwtMTIzMzIxNjMxLDE4MD
 I3NDc4ODksLTQzMjgzOTE5MiwtNzkwODc5Mzk4LDY1NjUxODQ5
 NSwtMTQwNjUzNTk0MiwtOTQxNjUzMTc4LC0yMDk2MDc5MzgwLC
 0xOTY5OTkzMTc0LDc0Mzc2MzgwMCwtMTYyNzAzNzU3MCwzMTQ5
