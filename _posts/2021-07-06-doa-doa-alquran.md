@@ -8,7 +8,7 @@ published: true
 
 ## {{ page.title }}
 
-### 1. Surat Al-Fatihah doa yang sempurna
+### 1. Surat Al-Fatihah doa yang empurna
 
 <p class="quran">
 بِسۡمِ اللّٰہِ الرَّحۡمٰنِ الرَّحِیۡمِ
@@ -35,7 +35,7 @@ published: true
 </p>
 
 <p class="quran">
-صِرٰطَ الَّذِیۡنَ اَنۡعَمۡتَ عَلَیۡہِمۡ غَیۡرِ الۡمَغۡضُوۡبِ عَلَیۡہِمۡ وَلَا الضَّآلِّیۡنَ
+صِرٰطَ الَّذِیۡنَ اَنۡعَۡہمۡ َلیۡ الَّاِیۡ
 </p>
 
 ([QS Al-Fatihah [1]: 1-7](https://openquran.com/1))
@@ -43,12 +43,10 @@ published: true
 ### 2. Doa Memohon Keamanan dan Rejeki
 
 <p class="quran">
-صِرٰطَ الَّذِیۡنَ اَنۡعَمۡتَ عَلَیۡہِمۡ غَیۡرِ الۡمَغۡضُوۡبِ عَلَیۡہِمۡ وَلَا الضَّآلِّیۡنَ
+مۡتَ عَلَیرَبِّ اجۡعَلۡ ہٰذَا بَلَدًا اٰمِنًا وَّارۡزُقۡ اَہۡلَہٗ مِنَ الثَّمَرٰتِ مَنۡ اٰمَنَ مِنۡہُِمۡ غَیۡرِ الۡمَغۡضُوۡبِ عبِاللّٰہِ وَالۡیَوۡمِ الۡاٰخِرِ ۖ قَالَ وَمَنۡ کَفَرَ فَاُمَتِّعُہٗ قَلَِیۡہِمۡ وَلَالًا ثُمَّ اَضۡطَرُّہٗۤ اِلٰی عَذَابِ الضنَّآلّرِ ۖ وَبِئۡسَ الۡمَصِیۡنَرُ
 </p>
 
-([QS Al-Baqarah [2]:127]())
-
-Keterangan: Doa diatas adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)	
+([QS Al-Baqarah [2]:127](Keterangan: Doa diatas adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)	
 
 ### 3. Doa Agar Kita dan Anak-anak Kita Menjadi Orang yang Benar-benar Taat kepada Allah Ta’ala
 
@@ -374,9 +372,14 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 
 ### 81. Doa Memohon Perlindungan yang Menyeluruh
 
-(114:2-7)
+(114:2-7)https://openquran.com/2:127))
+
+### 
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5Njk5OTMxNzQsNzQzNzYzODAwLC0xNj
-I3MDM3NTcwLDMxNDk4NDE2LDY0MDI1MTk0NSwtNjIwMDk5NDc2
-LDIwODQwNTg0ODYsMTMxNTUyMjk3MF19
+eyJoaXN0b3J5IjpbLTE4Mjc4MzgyMzcsLTE5Njk5OTMxNzQsNz
+QzNzYzODAwLC0xNjI3MDM3NTcwLDMxNDk4NDE2LDY0MDI1MTk0
+NSwtNjIwMDk5NDc2LDIwODQwNTg0ODZdfQ==
 -->
