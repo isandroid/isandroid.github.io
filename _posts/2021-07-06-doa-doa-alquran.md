@@ -693,23 +693,23 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 رَبِّ ہَبۡ لِیۡ مِنَ الصّٰلِحِیۡنَ
 </p>
 
-(QS Ash-Shooffaat [37]:101)
+([QS Ash-Shooffaat [37]:101](https://openquran.com/37:101))
 
 ### 66. Doa Memohon Pertolongan
 
 <p class="quran">
-
+رَبِّ انۡصُرۡنِیۡ عَلَی الۡقَوۡمِ الۡمُفۡسِدِیۡنَ
 </p>
 
-(QS Al-'Ankabuut [29]:31)
+([QS Al-'Ankabuut [29]:31](https://openquran.com/29:31))
 
 ### 67. Doa Nabi Sulaiman (as)
 
 <p class="quran">
-
+رَبِّ اغۡفِرۡ لِیۡ وَہَبۡ لِیۡ مُلۡکًا لَّا یَنۡۢبَغِیۡ لِاَحَدٍ مِّنۡۢ بَعۡدِیۡۤ ۖ اِنَّکَ اَنۡتَ الۡوَہَّابُ
 </p>
 
-(38:36)
+(QS Shaad [38]:36())
 
 ### 68. Menyatakan Kebesaran Tuhan
 
@@ -962,11 +962,11 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxOTcwNjMzLDQ4MTE3MzE2OCwxNzY4Mj
-YxODg3LDEwNzkzMDQxMjksLTEzODAxOTQ2MDAsMTI3OTIzNDUy
-NywtMTU2NjAxNzI4MCwtMTkyNzU5MjEyLC0xMjI5MTUwMDc2LC
-03NTMyMTE2ODcsLTEyMzMyMTYzMSwxODAyNzQ3ODg5LC00MzI4
-MzkxOTIsLTc5MDg3OTM5OCw2NTY1MTg0OTUsLTE0MDY1MzU5ND
-IsLTk0MTY1MzE3OCwtMjA5NjA3OTM4MCwtMTk2OTk5MzE3NCw3
-NDM3NjM4MDBdfQ==
+eyJoaXN0b3J5IjpbMTEzMDc0Nzc1Miw0ODExNzMxNjgsMTc2OD
+I2MTg4NywxMDc5MzA0MTI5LC0xMzgwMTk0NjAwLDEyNzkyMzQ1
+MjcsLTE1NjYwMTcyODAsLTE5Mjc1OTIxMiwtMTIyOTE1MDA3Ni
+wtNzUzMjExNjg3LC0xMjMzMjE2MzEsMTgwMjc0Nzg4OSwtNDMy
+ODM5MTkyLC03OTA4NzkzOTgsNjU2NTE4NDk1LC0xNDA2NTM1OT
+QyLC05NDE2NTMxNzgsLTIwOTYwNzkzODAsLTE5Njk5OTMxNzQs
+NzQzNzYzODAwXX0=
 -->
