@@ -219,10 +219,10 @@ Keterangan: Doa ini adalah doa yang dipanjatkan oleh Nabi Adam (as)
 ### 21. Doa Memohon Dinyatakan Antara yang benar dan yang salah 
 
 <p class="quran">
-
+ رَبَّنَا افۡتَحۡ بَیۡنَنَا وَبَیۡنَ قَوۡمِنَا بِالۡحَقِّ وَاَنۡتَ خَیۡرُ الۡفٰتِحِیۡنَ
 </p>
 
-(7:90) 
+([QS Al-A'roof [7]:90](https://openquran.com/7:90)) 
 
 ### 22. Doa Bersyukur atas Petunjuk dari Allah 
 
@@ -957,10 +957,10 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5NTQ5NTI4OCwtNzUzMjExNjg3LC0xMj
-MzMjE2MzEsMTgwMjc0Nzg4OSwtNDMyODM5MTkyLC03OTA4Nzkz
-OTgsNjU2NTE4NDk1LC0xNDA2NTM1OTQyLC05NDE2NTMxNzgsLT
-IwOTYwNzkzODAsLTE5Njk5OTMxNzQsNzQzNzYzODAwLC0xNjI3
-MDM3NTcwLDMxNDk4NDE2LDY0MDI1MTk0NSwtNjIwMDk5NDc2LD
-IwODQwNTg0ODZdfQ==
+eyJoaXN0b3J5IjpbODIyOTI5NTE3LC03NTMyMTE2ODcsLTEyMz
+MyMTYzMSwxODAyNzQ3ODg5LC00MzI4MzkxOTIsLTc5MDg3OTM5
+OCw2NTY1MTg0OTUsLTE0MDY1MzU5NDIsLTk0MTY1MzE3OCwtMj
+A5NjA3OTM4MCwtMTk2OTk5MzE3NCw3NDM3NjM4MDAsLTE2Mjcw
+Mzc1NzAsMzE0OTg0MTYsNjQwMjUxOTQ1LC02MjAwOTk0NzYsMj
+A4NDA1ODQ4Nl19
 -->
