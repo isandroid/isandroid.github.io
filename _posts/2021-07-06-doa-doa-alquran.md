@@ -853,7 +853,13 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 </p>
 
 <p class="quran">
+وَمَکَرُوۡا مَکۡرًا کُبَّارًا
+</p>
 
+---
+
+<p class="quran">
+رَّبِّ لَا تَذَرۡ عَلَی الۡاَرۡضِ مِنَ الۡکٰفِرِیۡنَ دَیَّارًا
 </p>
 
 <p class="quran">
@@ -876,11 +882,7 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 
 </p>
 
-<p class="quran">
-
-</p>
-
-(QS Nuuh [71]:6-13,  29)
+(QS Nuuh [71]:6-13,  22-23, 27-29)
 
 ### 80. Doa Memohon Perlindungan
 
@@ -933,7 +935,7 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5ODQxMDI3NSwtMTE4Nzc0MjExMSwtND
+eyJoaXN0b3J5IjpbMTgyNDkyMzYwMiwtMTE4Nzc0MjExMSwtND
 gxOTEzNzUwLDQ4MTE3MzE2OCwxNzY4MjYxODg3LDEwNzkzMDQx
 MjksLTEzODAxOTQ2MDAsMTI3OTIzNDUyNywtMTU2NjAxNzI4MC
 wtMTkyNzU5MjEyLC0xMjI5MTUwMDc2LC03NTMyMTE2ODcsLTEy
