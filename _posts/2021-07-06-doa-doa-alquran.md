@@ -216,7 +216,7 @@ Keterangan: Doa ini dipanjatkan oleh orang-orang yang berilmu (yang senantiasa m
 رَبَّنَاۤ اَخۡرِجۡنَا مِنۡ ہٰذِہِ الۡقَرۡیَۃِ الظَّالِمِ اَہۡلُہَا وَاجۡعَل لَّنَا مِنۡ لَّدُنۡکَ وَلِیًّا وَّاجۡعَل لَّنَا مِنۡ لَّدُنۡکَ نَصِیۡرًا
 </p>
 
-([QS An-Nisaa [4]:76](https://openquran.com/4:76))
+“Wahai Tuhan kami, keluarkanlah kami dari negeri yang penduduknya kejam ini, dan jadikanlah bagi kami pelindung dari sisi Engkau, dan jadikanlah bagi kami penolong dari sisi Engkau.” ([QS An-Nisaa [4]:76](https://openquran.com/4:76))
 
 ### 17. Doa Menyatakan Kelemahan Diri, Tidak Berdaya dan Memohon Dihindarkan dari Kaum yang Fasik 
 
@@ -980,11 +980,11 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwMTEyMTg2MiwtMTUzMzk4OTk5NCwtOD
-IwODA0NTk1LC0xNDA3NTI5MzMwLC0yOTQyNDI1MDMsLTExODc3
-NDIxMTEsLTQ4MTkxMzc1MCw0ODExNzMxNjgsMTc2ODI2MTg4Ny
-wxMDc5MzA0MTI5LC0xMzgwMTk0NjAwLDEyNzkyMzQ1MjcsLTE1
-NjYwMTcyODAsLTE5Mjc1OTIxMiwtMTIyOTE1MDA3NiwtNzUzMj
-ExNjg3LC0xMjMzMjE2MzEsMTgwMjc0Nzg4OSwtNDMyODM5MTky
-LC03OTA4NzkzOThdfQ==
+eyJoaXN0b3J5IjpbLTEzOTY4ODY1NjcsMTUwMTEyMTg2MiwtMT
+UzMzk4OTk5NCwtODIwODA0NTk1LC0xNDA3NTI5MzMwLC0yOTQy
+NDI1MDMsLTExODc3NDIxMTEsLTQ4MTkxMzc1MCw0ODExNzMxNj
+gsMTc2ODI2MTg4NywxMDc5MzA0MTI5LC0xMzgwMTk0NjAwLDEy
+NzkyMzQ1MjcsLTE1NjYwMTcyODAsLTE5Mjc1OTIxMiwtMTIyOT
+E1MDA3NiwtNzUzMjExNjg3LC0xMjMzMjE2MzEsMTgwMjc0Nzg4
+OSwtNDMyODM5MTkyXX0=
 -->
