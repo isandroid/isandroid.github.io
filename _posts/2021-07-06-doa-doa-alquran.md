@@ -86,46 +86,101 @@ published: true
 
 ### 7. Doa Memohon agar Dipelihara dari Siksaan Allah, Memohon Ampun dan Pertolongan 
 
+<p class="quran">
+
+</p>
 
 (2:287)
 
 ### 8. Doa untuk Ketetapan Iman dan agar Hati Tidak Menyimpang
 
+<p class="quran">
+
+</p>
+
 (3:9)
 
 ### 9. Ikrar kepada Hari Kiamat
+
+<p class="quran">
+
+</p>
 
 (3:10)
 
 ### 10. Ikrar Iman dan Memohon Ampun dan Pemeliharaan dari Siksa Api Neraka
 
+<p class="quran">
+
+</p>
+
 (3:17)
 
 ### 11. Memuji Kebesaran Tuhan dan Doa untuk Mencapai Kemajuan
+
+<p class="quran">
+
+</p>
+
+<p class="quran">
+
+</p>
 
 (3:27- 28)
 
 ### 12. Ikrar kepada Petunjuk dan Meminta Qurub  Ilahi (Kedekatan kepada Allah)
 
+<p class="quran">
+
+</p>
+
 (3:54)
 
 ### 13. Doa Memohon Ampun dan Memohon Diberikan Ketetapan Hati
+
+<p class="quran">
+
+</p>
 
 (3:148)
 
 ### 14. Doa Memohon Dipelihara dari Azab Neraka 
 
+<p class="quran">
+
+</p>
+
+<p class="quran">
+
+</p>
+
 (3:192-193)
 
 ### 15. Doa Pengakuan Menerima kebenaran, Memohon Ampun, Memohon agar Dimasukkan ke dalam Golongan Orang-orang yang Shaleh
+
+<p class="quran">
+
+</p>
+
+<p class="quran">
+
+</p>
 
 (3:194,195)
 
 ### 16. Doa Meminta Dipelihara dari Negeri yang Penduduknya Zhalim
 
+<p class="quran">
+
+</p>
+
 (4:76)
 
 ### 17. Doa Menyatakan Kelemahan Diri, Tidak Berdaya dan Memohon Dihindarkan dari Kaum yang Fasik 
+
+<p class="quran">
+
+</p>
 
 (5:26)
 
@@ -400,8 +455,8 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzgzNzM4MTIsLTE0MDY1MzU5NDIsLT
-k0MTY1MzE3OCwtMjA5NjA3OTM4MCwtMTk2OTk5MzE3NCw3NDM3
-NjM4MDAsLTE2MjcwMzc1NzAsMzE0OTg0MTYsNjQwMjUxOTQ1LC
-02MjAwOTk0NzYsMjA4NDA1ODQ4Nl19
+eyJoaXN0b3J5IjpbMTI2MDU3NTg1OCwtMTQwNjUzNTk0MiwtOT
+QxNjUzMTc4LC0yMDk2MDc5MzgwLC0xOTY5OTkzMTc0LDc0Mzc2
+MzgwMCwtMTYyNzAzNzU3MCwzMTQ5ODQxNiw2NDAyNTE5NDUsLT
+YyMDA5OTQ3NiwyMDg0MDU4NDg2XX0=
 -->
