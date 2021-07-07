@@ -415,8 +415,10 @@ Keterangan: Doa ini diucapkan oleh Nabi Nuh (as) ketika bahteranya hendak berlay
 
 Keterangan: 
 
-- Doa itu dipanjatkan oleh Nabi Nuh (as) setelah "ditegur" Allah Ta'ala.
-- Nabi Nuh (as) ingin menyelamatkan putranya yang jelas-jelas menentang dan ingkar kepada Allah Ta'ala. 
+- Doa tersebut dilatarbelakangi oleh Nabi Nuh (as) yang ingin menyelamatkan putranya yang jelas-jelas menentang dan ingkar kepada Allah Ta'ala. 
+- Allah Ta'ala berfirman, “Hai Nuh! sesungguhnya ia bukanlah dari keluarga engkau; sebenarnya ia *orang* yang amalnya tidak baik. Maka janganlah meminta kepada-Ku sesuatu yang engkau tidak mengetahuinya. Sesungguhnya Aku nasihati engkau, supaya engkau tidak termasuk orang-orang yang bodoh.”
+- - Doa itu dipanjatkan oleh Nabi Nuh (as) setelah "ditegur" Allah Ta'ala.
+
 
 ### 34. Bersyukur atas Karunia Ilmu dan Kerajaan 
 
@@ -1030,7 +1032,7 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MzgwMjExNTMsMTUwMTEyMTg2MiwtMT
+eyJoaXN0b3J5IjpbLTIwNTI0ODc4MTcsMTUwMTEyMTg2MiwtMT
 UzMzk4OTk5NCwtODIwODA0NTk1LC0xNDA3NTI5MzMwLC0yOTQy
 NDI1MDMsLTExODc3NDIxMTEsLTQ4MTkxMzc1MCw0ODExNzMxNj
 gsMTc2ODI2MTg4NywxMDc5MzA0MTI5LC0xMzgwMTk0NjAwLDEy
