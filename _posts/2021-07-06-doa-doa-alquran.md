@@ -68,9 +68,11 @@ published: true
 
 ### 12. Ikrar kepada Petunjuk dan Meminta Qurub  Ilahi (Kedekatan kepada Allah)
 
-### 13. Doa meminta ampun dan meminta ditetapkan hati
+### 13. Doa Memohon Ampun dan Memohon Diberikan Ketetapan Hati
 
-###14. Doa meminta dipelihara dari azab neraka 15. Doa pengakuan menerima kebenaran, me-minta ampun, meminta dimasukkan dalam golongan orang-orang yang shaleh
+### 14. Doa Memohon Dipelihara dari Azab Neraka 
+
+### 15. Doa Pengakuan Menerima kebenaran, Memohon Ampun, Memohon agar Dimasukkan ke dalam Golongan Orang-orang yang Shaleh
 
 16. Doa meminta dipelihara dari negeri yang penduduknya zalim
 
@@ -161,7 +163,7 @@ nangan
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjkxMjMyMDA5LDMxNDk4NDE2LDY0MDI1MT
-k0NSwtNjIwMDk5NDc2LDIwODQwNTg0ODYsMTMxNTUyMjk3MF19
-
+eyJoaXN0b3J5IjpbMjAwNzM5OTQyMywzMTQ5ODQxNiw2NDAyNT
+E5NDUsLTYyMDA5OTQ3NiwyMDg0MDU4NDg2LDEzMTU1MjI5NzBd
+fQ==
 -->
