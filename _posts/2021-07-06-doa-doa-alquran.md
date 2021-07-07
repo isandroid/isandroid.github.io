@@ -103,10 +103,10 @@ published: true
 ### 9. Ikrar kepada Hari Kiamat
 
 <p class="quran">
-
+رَبَّنَاۤ اِنَّکَ جَامِعُ النَّاسِ لِیَوۡمٍ لَّا رَیۡبَ فِیۡہِ ۚ اِنَّ اللّٰہَ لَا یُخۡلِفُ الۡمِیۡعَادَ
 </p>
 
-(3:10)
+([QS Aali-'Imraan [3]:10](https://openquran.com/3:10))
 
 ### 10. Ikrar Iman dan Memohon Ampun dan Pemeliharaan dari Siksa Api Neraka
 
@@ -957,7 +957,7 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMxMzY1MDgyMyw2NTY1MTg0OTUsLTE0MD
+eyJoaXN0b3J5IjpbMTkzNzE5NTU1OCw2NTY1MTg0OTUsLTE0MD
 Y1MzU5NDIsLTk0MTY1MzE3OCwtMjA5NjA3OTM4MCwtMTk2OTk5
 MzE3NCw3NDM3NjM4MDAsLTE2MjcwMzc1NzAsMzE0OTg0MTYsNj
 QwMjUxOTQ1LC02MjAwOTk0NzYsMjA4NDA1ODQ4Nl19
