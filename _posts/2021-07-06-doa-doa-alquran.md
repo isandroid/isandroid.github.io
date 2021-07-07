@@ -38,6 +38,8 @@ published: true
 صِرٰطَ الَّذِیۡنَ اَنۡعَۡہمۡ َلیۡ الَّاِیۡ
 </p>
 
+
+
 ([QS Al-Fatihah [1]: 1-7](https://openquran.com/1))
 
 ### 2. Doa Memohon Keamanan dan Rejeki
@@ -939,11 +941,11 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5NDI0MjUwMywtMTE4Nzc0MjExMSwtND
-gxOTEzNzUwLDQ4MTE3MzE2OCwxNzY4MjYxODg3LDEwNzkzMDQx
-MjksLTEzODAxOTQ2MDAsMTI3OTIzNDUyNywtMTU2NjAxNzI4MC
-wtMTkyNzU5MjEyLC0xMjI5MTUwMDc2LC03NTMyMTE2ODcsLTEy
-MzMyMTYzMSwxODAyNzQ3ODg5LC00MzI4MzkxOTIsLTc5MDg3OT
-M5OCw2NTY1MTg0OTUsLTE0MDY1MzU5NDIsLTk0MTY1MzE3OCwt
-MjA5NjA3OTM4MF19
+eyJoaXN0b3J5IjpbNjkwODQ3NDUzLC0yOTQyNDI1MDMsLTExOD
+c3NDIxMTEsLTQ4MTkxMzc1MCw0ODExNzMxNjgsMTc2ODI2MTg4
+NywxMDc5MzA0MTI5LC0xMzgwMTk0NjAwLDEyNzkyMzQ1MjcsLT
+E1NjYwMTcyODAsLTE5Mjc1OTIxMiwtMTIyOTE1MDA3NiwtNzUz
+MjExNjg3LC0xMjMzMjE2MzEsMTgwMjc0Nzg4OSwtNDMyODM5MT
+kyLC03OTA4NzkzOTgsNjU2NTE4NDk1LC0xNDA2NTM1OTQyLC05
+NDE2NTMxNzhdfQ==
 -->
