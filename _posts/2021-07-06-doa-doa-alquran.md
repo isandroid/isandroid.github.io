@@ -54,7 +54,7 @@ published: true
 
 ### 5. Doa Memohon Kesabaran, Ketetapan Iman, Kekuatan Menahan Rasa Sakit dan Bahaya dari Orang-orang Kafir
 
-6. Doa meminta ampun
+### 6. Doa Meminta Ampun
 
 7. Doa meminta agar dipelihara dari tang-kapan (siksaan) allah, mohon ampun dan pertolongan 8. Doa untuk ketetapan iman dan hati jangan menyimpang
 
@@ -157,6 +157,6 @@ nangan
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYyMDA5OTQ3NiwyMDg0MDU4NDg2LDEzMT
-U1MjI5NzBdfQ==
+eyJoaXN0b3J5IjpbNjQwMjUxOTQ1LC02MjAwOTk0NzYsMjA4ND
+A1ODQ4NiwxMzE1NTIyOTcwXX0=
 -->
