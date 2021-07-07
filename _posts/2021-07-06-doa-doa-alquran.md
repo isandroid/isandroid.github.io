@@ -367,7 +367,7 @@ Keterangan:
 
 “Cukuplah Allah bagiku, tiada tuhan selain Dia, kepada-Nya aku bertawakkal, dan Dia-lah Tuhan ‘Arasy yang agung." ([QS At-Taubah [9]:129](https://openquran.com/9:129))
 
-Keterangan: Doa ini dipanjatkan tatkala orang-orang menolak datangnya seorang
+Keterangan: Doa ini dipanjatkan tatkala orang-orang menolak datangnya seorang rasul yang telah diutus oleh Allah Ta'ala
 
 ### 30. Doa Memohon Dijauhkan dari Kejahatan Musuh 
 
@@ -379,7 +379,9 @@ Keterangan: Doa ini dipanjatkan tatkala orang-orang menolak datangnya seorang
 وَنَجِّنَا بِرَحۡمَتِکَ مِنَ الۡقَوۡمِ الۡکٰفِرِیۡنَ
 </p>
 
-(QS Yunus [10]:[86](https://openquran.com/10:86)-[87](https://openquran.com/10:87))
+“Kepada Allah kami bertawakkal. Ya Tuhan kami! Janganlah Engkau jadikan kami sasaran fitnah bagi kaum yang aniaya."
+
+"" (QS Yunus [10]:[86](https://openquran.com/10:86)-[87](https://openquran.com/10:87))
 
 ### 31. Doa untuk Kebinasaan Orang yang Zalim
 
@@ -1017,11 +1019,11 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MzkwMjQyNDAsMTUwMTEyMTg2MiwtMT
-UzMzk4OTk5NCwtODIwODA0NTk1LC0xNDA3NTI5MzMwLC0yOTQy
-NDI1MDMsLTExODc3NDIxMTEsLTQ4MTkxMzc1MCw0ODExNzMxNj
-gsMTc2ODI2MTg4NywxMDc5MzA0MTI5LC0xMzgwMTk0NjAwLDEy
-NzkyMzQ1MjcsLTE1NjYwMTcyODAsLTE5Mjc1OTIxMiwtMTIyOT
-E1MDA3NiwtNzUzMjExNjg3LC0xMjMzMjE2MzEsMTgwMjc0Nzg4
-OSwtNDMyODM5MTkyXX0=
+eyJoaXN0b3J5IjpbODAwNTQyNzA5LDE1MDExMjE4NjIsLTE1Mz
+M5ODk5OTQsLTgyMDgwNDU5NSwtMTQwNzUyOTMzMCwtMjk0MjQy
+NTAzLC0xMTg3NzQyMTExLC00ODE5MTM3NTAsNDgxMTczMTY4LD
+E3NjgyNjE4ODcsMTA3OTMwNDEyOSwtMTM4MDE5NDYwMCwxMjc5
+MjM0NTI3LC0xNTY2MDE3MjgwLC0xOTI3NTkyMTIsLTEyMjkxNT
+AwNzYsLTc1MzIxMTY4NywtMTIzMzIxNjMxLDE4MDI3NDc4ODks
+LTQzMjgzOTE5Ml19
 -->
