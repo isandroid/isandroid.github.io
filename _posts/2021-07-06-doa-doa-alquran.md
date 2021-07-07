@@ -54,11 +54,13 @@ published: true
 
 ### 5. Doa Memohon Kesabaran, Ketetapan Iman, Kekuatan Menahan Rasa Sakit dan Bahaya dari Orang-orang Kafir
 
-### 6. Doa Meminta Ampun
+### 6. Doa Memohon Ampun
 
-7. Doa meminta agar dipelihara dari tang-kapan (siksaan) allah, mohon ampun dan pertolongan 8. Doa untuk ketetapan iman dan hati jangan menyimpang
+### 7. Doa Memohon agar Dipelihara dari Siksaan Allah, Memohon Ampun dan Pertolongan 
 
-9. Ikrar kepada hari kiamat, Allah tidak menya-lahi janji
+### 8. Doa untuk Ketetapan Iman dan agar Hati Tidak Menyimpang
+
+### 9. Ikrar kepada Hari Kiamat, Allah Tidak menya-lahi janji
 
 10. Ikrar iman dan mohon ampun dan peme-liharaan dari siksa api neraka
 
@@ -157,6 +159,6 @@ nangan
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQwMjUxOTQ1LC02MjAwOTk0NzYsMjA4ND
-A1ODQ4NiwxMzE1NTIyOTcwXX0=
+eyJoaXN0b3J5IjpbODE2MjUwNjEyLDY0MDI1MTk0NSwtNjIwMD
+k5NDc2LDIwODQwNTg0ODYsMTMxNTUyMjk3MF19
 -->
