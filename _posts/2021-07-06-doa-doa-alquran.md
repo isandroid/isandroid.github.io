@@ -154,9 +154,15 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Musa (as)
 
 ### 27. Doa Memohon Ampun dan Meminta Rahmat 
 
+(7:156)
+
 ### 28. Doa Memohon Kebaikan Dunia dan Akhirat 
 
+(7:157)
+
 ### 29. Tawakkal dan Menyerah kepada Allah 
+
+(9:129)
 
 ### 30. Doa Memohon Dijauhkan dari Kejahatan Musuh 
 
@@ -262,7 +268,7 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Musa (as)
 
 ### 81. Doa Memohon Perlindungan yang Menyeluruh
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0NTYzNzczNyw3NDM3NjM4MDAsLTE2Mj
+eyJoaXN0b3J5IjpbMTQ4NjY4MzE4Miw3NDM3NjM4MDAsLTE2Mj
 cwMzc1NzAsMzE0OTg0MTYsNjQwMjUxOTQ1LC02MjAwOTk0NzYs
 MjA4NDA1ODQ4NiwxMzE1NTIyOTcwXX0=
 -->
