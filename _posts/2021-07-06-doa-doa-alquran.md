@@ -186,13 +186,17 @@ published: true
 
 ### 71. Doa Naik Kendaraan
 
-### 72. Doa Bersyukur atas nikmat Tuhan
+### 72. Doa Bersyukur atas Nikmat Tuhan
 
-73. Doa meminta pertolongan
+### 73. Doa Memohon Pertolongan
 
-74. Doa meminta dijauhkan dari hasad dengki dan meminta ampun
+### 74. Doa Memohon Dijauhkan dari Hasad dan Dengki serta Doa Memohon Ampunan
 
-75. Doa meminta dipelihara dari fitnah orang kafir 76. Doa meminta kesempurnaan karunia tuhan 77. Doa meminta qurub ilahi dan memin-ta dipelihara dari kaum yang zalim
+### 75. Doa Memohon Dipelihara dari Fitnah Orang Kafir 
+
+### 76. Doa Memohon Kesempurnaan Karunia Tuhan 
+
+### 77. Doa Memohon Qurub Ilahi dan memin-ta dipelihara dari kaum yang zalim
 
 78. Mengaku kesalahan diri
 
@@ -205,7 +209,7 @@ published: true
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzOTI1OTI0MiwzMTQ5ODQxNiw2NDAyNT
-E5NDUsLTYyMDA5OTQ3NiwyMDg0MDU4NDg2LDEzMTU1MjI5NzBd
-fQ==
+eyJoaXN0b3J5IjpbLTIxMzUxMTMzMzMsMzE0OTg0MTYsNjQwMj
+UxOTQ1LC02MjAwOTk0NzYsMjA4NDA1ODQ4NiwxMzE1NTIyOTcw
+XX0=
 -->
