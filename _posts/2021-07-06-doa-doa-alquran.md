@@ -332,7 +332,7 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Musa (as)
  رَبِّ قَدۡ اٰتَیۡتَنِیۡ مِنَ الۡمُلۡکِ وَعَلَّمۡتَنِیۡ مِنۡ تَاۡوِیۡلِ الۡاَحَادِیۡثِ ۚ فَاطِرَ السَّمٰوٰتِ وَالۡاَرۡضِ اَنۡتَ وَلِیّٖ فِی الدُّنۡیَا وَالۡاٰخِرَۃِ ۖ تَوَفَّنِیۡ مُسۡلِمًا وَّاَلۡحِقۡنِیۡ بِالصّٰلِحِیۡنَ
 </p>
 
-([QS Yusuf [12]:102]())
+([QS Yusuf [12]:102](https://openquran.com/12:102))
 
 ### 35. Doa Memohon Keselamatan Iman
 
@@ -957,11 +957,11 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzIxMTg1NDU5LC0xNTY2MDE3MjgwLC0xOT
-I3NTkyMTIsLTEyMjkxNTAwNzYsLTc1MzIxMTY4NywtMTIzMzIx
-NjMxLDE4MDI3NDc4ODksLTQzMjgzOTE5MiwtNzkwODc5Mzk4LD
-Y1NjUxODQ5NSwtMTQwNjUzNTk0MiwtOTQxNjUzMTc4LC0yMDk2
-MDc5MzgwLC0xOTY5OTkzMTc0LDc0Mzc2MzgwMCwtMTYyNzAzNz
-U3MCwzMTQ5ODQxNiw2NDAyNTE5NDUsLTYyMDA5OTQ3NiwyMDg0
-MDU4NDg2XX0=
+eyJoaXN0b3J5IjpbMTI3OTIzNDUyNywtMTU2NjAxNzI4MCwtMT
+kyNzU5MjEyLC0xMjI5MTUwMDc2LC03NTMyMTE2ODcsLTEyMzMy
+MTYzMSwxODAyNzQ3ODg5LC00MzI4MzkxOTIsLTc5MDg3OTM5OC
+w2NTY1MTg0OTUsLTE0MDY1MzU5NDIsLTk0MTY1MzE3OCwtMjA5
+NjA3OTM4MCwtMTk2OTk5MzE3NCw3NDM3NjM4MDAsLTE2MjcwMz
+c1NzAsMzE0OTg0MTYsNjQwMjUxOTQ1LC02MjAwOTk0NzYsMjA4
+NDA1ODQ4Nl19
 -->
