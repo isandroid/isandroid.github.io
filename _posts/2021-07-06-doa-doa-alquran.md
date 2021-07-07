@@ -414,7 +414,7 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 یَرِثُنِیۡ وَیَرِثُ مِنۡ اٰلِ یَعۡقُوۡبَ ۖ وَاجۡعَلۡہُ رَبِّ رَضِیًّا
 </p>
 
-(QS Maryam [19]: [5](https://openquran.com/19:5), [6](https://openquran.com/19:), [7])
+(QS Maryam [19]: [5](https://openquran.com/19:5), [6](https://openquran.com/19:6), [7](https://openquran.com/19:7))
 
 Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Zakaria (as)
 
@@ -464,7 +464,7 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Zakaria (as)
 
 </p>
 
-(20:26-36)
+(20:26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36)
 
 ### 42. Doa Memohon Ditambah Ilmu
 
@@ -959,11 +959,11 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjg4OTQ2ODQ2LDE3NjgyNjE4ODcsMTA3OT
-MwNDEyOSwtMTM4MDE5NDYwMCwxMjc5MjM0NTI3LC0xNTY2MDE3
-MjgwLC0xOTI3NTkyMTIsLTEyMjkxNTAwNzYsLTc1MzIxMTY4Ny
-wtMTIzMzIxNjMxLDE4MDI3NDc4ODksLTQzMjgzOTE5MiwtNzkw
-ODc5Mzk4LDY1NjUxODQ5NSwtMTQwNjUzNTk0MiwtOTQxNjUzMT
-c4LC0yMDk2MDc5MzgwLC0xOTY5OTkzMTc0LDc0Mzc2MzgwMCwt
-MTYyNzAzNzU3MF19
+eyJoaXN0b3J5IjpbMTg4NTQzMzk5NiwxNzY4MjYxODg3LDEwNz
+kzMDQxMjksLTEzODAxOTQ2MDAsMTI3OTIzNDUyNywtMTU2NjAx
+NzI4MCwtMTkyNzU5MjEyLC0xMjI5MTUwMDc2LC03NTMyMTE2OD
+csLTEyMzMyMTYzMSwxODAyNzQ3ODg5LC00MzI4MzkxOTIsLTc5
+MDg3OTM5OCw2NTY1MTg0OTUsLTE0MDY1MzU5NDIsLTk0MTY1Mz
+E3OCwtMjA5NjA3OTM4MCwtMTk2OTk5MzE3NCw3NDM3NjM4MDAs
+LTE2MjcwMzc1NzBdfQ==
 -->
