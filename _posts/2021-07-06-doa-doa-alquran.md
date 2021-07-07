@@ -709,7 +709,7 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 رَبِّ اغۡفِرۡ لِیۡ وَہَبۡ لِیۡ مُلۡکًا لَّا یَنۡۢبَغِیۡ لِاَحَدٍ مِّنۡۢ بَعۡدِیۡۤ ۖ اِنَّکَ اَنۡتَ الۡوَہَّابُ
 </p>
 
-(QS Shaad [38]:36())
+([QS Shaad [38]:36](https://openquran.com/38:36))
 
 ### 68. Menyatakan Kebesaran Tuhan
 
@@ -962,11 +962,11 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzMDc0Nzc1Miw0ODExNzMxNjgsMTc2OD
-I2MTg4NywxMDc5MzA0MTI5LC0xMzgwMTk0NjAwLDEyNzkyMzQ1
-MjcsLTE1NjYwMTcyODAsLTE5Mjc1OTIxMiwtMTIyOTE1MDA3Ni
-wtNzUzMjExNjg3LC0xMjMzMjE2MzEsMTgwMjc0Nzg4OSwtNDMy
-ODM5MTkyLC03OTA4NzkzOTgsNjU2NTE4NDk1LC0xNDA2NTM1OT
-QyLC05NDE2NTMxNzgsLTIwOTYwNzkzODAsLTE5Njk5OTMxNzQs
-NzQzNzYzODAwXX0=
+eyJoaXN0b3J5IjpbODg2MzUzNDgwLDQ4MTE3MzE2OCwxNzY4Mj
+YxODg3LDEwNzkzMDQxMjksLTEzODAxOTQ2MDAsMTI3OTIzNDUy
+NywtMTU2NjAxNzI4MCwtMTkyNzU5MjEyLC0xMjI5MTUwMDc2LC
+03NTMyMTE2ODcsLTEyMzMyMTYzMSwxODAyNzQ3ODg5LC00MzI4
+MzkxOTIsLTc5MDg3OTM5OCw2NTY1MTg0OTUsLTE0MDY1MzU5ND
+IsLTk0MTY1MzE3OCwtMjA5NjA3OTM4MCwtMTk2OTk5MzE3NCw3
+NDM3NjM4MDBdfQ==
 -->
