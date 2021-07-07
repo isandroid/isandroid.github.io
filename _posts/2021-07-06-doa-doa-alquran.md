@@ -641,7 +641,7 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 ### 59. Doa Pengakuan bahwa Kita Menganiaya Diri-Sendiri
 
 <p class="quran">
-
+رَبِّ اِنِّیۡ ظَلَمۡتُ نَفۡسِیۡ وَاَسۡلَمۡتُ مَعَ سُلَیۡمٰنَ لِلّٰہِ رَبِّ الۡعٰلَمِیۡنَ
 </p>
 
 ([QS An-Naml [27]:45](https://openquran.com/27:45))
@@ -649,7 +649,7 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 ### 60. Doa Keselamatan
 
 <p class="quran">
-
+اَلۡحَمۡدُ لِلّٰہِ وَسَلٰمٌ عَلٰی عِبَادِہِ الَّذِیۡنَ اصۡطَفٰۤی ۗ آٰللّٰہُ خَیۡرٌ اَمَّا یُشۡرِکُوۡنَ
 </p>
 
 ([QS An-Naml [27]:60](https://openquran.com/27:60))
@@ -660,7 +660,7 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 
 </p>
 
-(28:17)
+(QS Al-Qoshosh [28]:17)
 
 ### 62. Doa Agar Terhindar dari Bagian Orang-orang yang Berdosa
 
@@ -961,7 +961,7 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2NDI4MzUzMyw0ODExNzMxNjgsMTc2OD
+eyJoaXN0b3J5IjpbLTg4MjU3MjYyOSw0ODExNzMxNjgsMTc2OD
 I2MTg4NywxMDc5MzA0MTI5LC0xMzgwMTk0NjAwLDEyNzkyMzQ1
 MjcsLTE1NjYwMTcyODAsLTE5Mjc1OTIxMiwtMTIyOTE1MDA3Ni
 wtNzUzMjExNjg3LC0xMjMzMjE2MzEsMTgwMjc0Nzg4OSwtNDMy
