@@ -288,7 +288,7 @@ Keterangan:
 
 - Doa tersebut adalah doa yang dipanjatkan oleh orang yang di dalam dada mereka telah Allah Ta'ala hilangkan segala dendam.
 
-- S
+- Setelah itu Allah Ta'ala menyeru kepada mereka, “Inilah surga yang telah diwariskan kepadamu sebagai ganjaran atas apa yang telah kamu kerjakan.”
 
 ### 23. Doa Memohon Kesabaran dan Keselamatan 
 
@@ -296,7 +296,7 @@ Keterangan:
 رَبَّنَاۤ اَفۡرِغۡ عَلَیۡنَا صَبۡرًا وَّتَوَفَّنَا مُسۡلِمِیۡنَ
 </p>
 
-([QS Al-A'roof [7]:127](https://openquran.com/7:127))
+"Wahai Tuhan kami, limpahkanlah kesabaran kepada kami dan wafatkanlah kami *dalam keadaan* berserah diri *kepada Engkau*.” ([QS Al-A'roof [7]:127](https://openquran.com/7:127))
 
 ### 24. Doa Memohon Dijauhkan dari Orang yang Zalim 
 
@@ -996,7 +996,7 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1NjIyOTYzMSwxNTAxMTIxODYyLC0xNT
+eyJoaXN0b3J5IjpbMTY2ODE1NTA1OCwxNTAxMTIxODYyLC0xNT
 MzOTg5OTk0LC04MjA4MDQ1OTUsLTE0MDc1MjkzMzAsLTI5NDI0
 MjUwMywtMTE4Nzc0MjExMSwtNDgxOTEzNzUwLDQ4MTE3MzE2OC
 wxNzY4MjYxODg3LDEwNzkzMDQxMjksLTEzODAxOTQ2MDAsMTI3
