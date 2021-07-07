@@ -201,7 +201,7 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Isa (as)
 </p>
 
 <p class="quran">
-
+وَمَا لَنَا لَا نُؤۡمِنُ بِاللّٰہِ وَمَا جَآءَنَا مِنَ الۡحَقِّ وَنَطۡمَعُ اَنۡ یُّدۡخِلَنَا رَبُّنَا مَعَ الۡقَوۡمِ الصّٰلِحِیۡنَ
 </p>
 
 (QS Al-Maaidah [5]:[84](https://openquran.com/5:84)-[85](https://openquran.com/5:85))
@@ -209,7 +209,7 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Isa (as)
 ### 20. Doa Memohon Ampun
 
 <p class="quran">
-
+ رَبَّنَا ظَلَمۡنَاۤ اَنۡفُسَنَا وَاِنۡ لَّمۡ تَغۡفِرۡ لَنَا وَتَرۡحَمۡنَا لَنَکُوۡنَنَّ مِنَ الۡخٰسِرِیۡنَ
 </p>
 
 (7:24)
@@ -957,10 +957,10 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1MzIxMTY4NywtMTIzMzIxNjMxLDE4MD
-I3NDc4ODksLTQzMjgzOTE5MiwtNzkwODc5Mzk4LDY1NjUxODQ5
-NSwtMTQwNjUzNTk0MiwtOTQxNjUzMTc4LC0yMDk2MDc5MzgwLC
-0xOTY5OTkzMTc0LDc0Mzc2MzgwMCwtMTYyNzAzNzU3MCwzMTQ5
-ODQxNiw2NDAyNTE5NDUsLTYyMDA5OTQ3NiwyMDg0MDU4NDg2XX
-0=
+eyJoaXN0b3J5IjpbMTc3ODUwODcyMCwtNzUzMjExNjg3LC0xMj
+MzMjE2MzEsMTgwMjc0Nzg4OSwtNDMyODM5MTkyLC03OTA4Nzkz
+OTgsNjU2NTE4NDk1LC0xNDA2NTM1OTQyLC05NDE2NTMxNzgsLT
+IwOTYwNzkzODAsLTE5Njk5OTMxNzQsNzQzNzYzODAwLC0xNjI3
+MDM3NTcwLDMxNDk4NDE2LDY0MDI1MTk0NSwtNjIwMDk5NDc2LD
+IwODQwNTg0ODZdfQ==
 -->
