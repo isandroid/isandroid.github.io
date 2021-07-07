@@ -464,7 +464,7 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Zakaria (as)
 اِنَّکَ کُنۡتَ بِنَا بَصِیۡرًا
 </p>
 
-(QS Toha [20] :[26](https://openquran.com/20:), 27, 28, 29, 30, 31, 32, 33, 34, 35, 36)
+(QS Toha [20] :[26](https://openquran.com/20:26), [27](https://openquran.com/20:27), [28](https://openquran.com/20:28), [29](https://openquran.com/20:29), [30](https://openquran.com/20:30), [31](https://openquran.com/20:31), [32](https://openquran.com/20:32), [33](https://openquran.com/20:33), [34](https://openquran.com/20:34), [35](https://openquran.com/20:35), [36](https://openquran.com/20:27))
 
 Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Musa (as)
 
@@ -961,11 +961,11 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIzNDI3MTc3MywxNzY4MjYxODg3LDEwNz
-kzMDQxMjksLTEzODAxOTQ2MDAsMTI3OTIzNDUyNywtMTU2NjAx
-NzI4MCwtMTkyNzU5MjEyLC0xMjI5MTUwMDc2LC03NTMyMTE2OD
-csLTEyMzMyMTYzMSwxODAyNzQ3ODg5LC00MzI4MzkxOTIsLTc5
-MDg3OTM5OCw2NTY1MTg0OTUsLTE0MDY1MzU5NDIsLTk0MTY1Mz
-E3OCwtMjA5NjA3OTM4MCwtMTk2OTk5MzE3NCw3NDM3NjM4MDAs
-LTE2MjcwMzc1NzBdfQ==
+eyJoaXN0b3J5IjpbLTE4MzA4MzQ1ODksMTc2ODI2MTg4NywxMD
+c5MzA0MTI5LC0xMzgwMTk0NjAwLDEyNzkyMzQ1MjcsLTE1NjYw
+MTcyODAsLTE5Mjc1OTIxMiwtMTIyOTE1MDA3NiwtNzUzMjExNj
+g3LC0xMjMzMjE2MzEsMTgwMjc0Nzg4OSwtNDMyODM5MTkyLC03
+OTA4NzkzOTgsNjU2NTE4NDk1LC0xNDA2NTM1OTQyLC05NDE2NT
+MxNzgsLTIwOTYwNzkzODAsLTE5Njk5OTMxNzQsNzQzNzYzODAw
+LC0xNjI3MDM3NTcwXX0=
 -->
