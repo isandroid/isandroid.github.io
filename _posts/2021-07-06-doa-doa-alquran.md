@@ -74,11 +74,13 @@ published: true
 
 ### 15. Doa Pengakuan Menerima kebenaran, Memohon Ampun, Memohon agar Dimasukkan ke dalam Golongan Orang-orang yang Shaleh
 
-16. Doa meminta dipelihara dari negeri yang penduduknya zalim
+### 16. Doa Meminta Dipelihara dari Negeri yang Penduduknya Zhalim
 
-17. Doa menyatakan kelemahan diri, tidak ber-daya dan meminta dihindarkan dari kaum yang fasik 18. Doa meminta rezeki
+### 17. Doa Menyatakan Kelemahan Diri, Tidak Berdaya dan Memohon Dihindarkan dari Kaum yang Fasik 
 
-19. Doa meminta masuk ke dalam jemaat yang suci 20. Doa meminta ampun
+### 18. Doa Memohon Rejeki
+
+### 19. Doa Memohon agar Dimasukkan ke dalam Jemaat yang suci 20. Doa meminta ampun
 
 21. Doa meminta dinyatakan antara hak dan bathil 22. Doa bersyukur atas mendapat petunjuk 23. Doa meminta kesabaran dan keselamatan 24. Doa meminta dijauhkan dari orang yang zalim 25. Doa meminta kasih saying Tuhan dan am-punan Nya
 
@@ -163,7 +165,7 @@ nangan
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwNzM5OTQyMywzMTQ5ODQxNiw2NDAyNT
-E5NDUsLTYyMDA5OTQ3NiwyMDg0MDU4NDg2LDEzMTU1MjI5NzBd
-fQ==
+eyJoaXN0b3J5IjpbLTE4OTc0NTcxMDYsMzE0OTg0MTYsNjQwMj
+UxOTQ1LC02MjAwOTk0NzYsMjA4NDA1ODQ4NiwxMzE1NTIyOTcw
+XX0=
 -->
