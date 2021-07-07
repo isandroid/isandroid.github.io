@@ -156,11 +156,9 @@ Wahai Tuhan kami, janganlah Engkau bengkokkan hati kami setelah Engkau memberi k
 تُوۡلِجُ الَّیۡلَ فِی النَّہَارِ وَتُوۡلِجُ النَّہَارَ فِی الَّیۡلِ ۖ وَتُخۡرِجُ الۡحَیَّ مِنَ الۡمَیِّتِ وَتُخۡرِجُ الۡمَیِّتَ مِنَ الۡحَیِّ ۖ وَتَرۡزُقُ مَنۡ تَشَآءُ بِغَیۡرِ حِسَابٍ
 </p>
 
-“ Wahai Allah, Pemilik kerajaan, Engkau memberi kerajaan kepada siapa yang Engkau kehendaki, dan Engkau cabut kerajaan dari siapa yang Engkau kehendaki, Engkau muliakan siapa yang Engkau kehendaki, dan Engkau hinakan siapa yang Engkau kehendaki, *hanya* di tangan Engkaulah segala kebaikan, sesungguhnya Engkau Mahakuasa atas segala sesuatu."
+"Wahai Allah, Pemilik kerajaan, Engkau memberi kerajaan kepada siapa yang Engkau kehendaki, dan Engkau cabut kerajaan dari siapa yang Engkau kehendaki, Engkau muliakan siapa yang Engkau kehendaki, dan Engkau hinakan siapa yang Engkau kehendaki, *hanya* di tangan Engkaulah segala kebaikan, sesungguhnya Engkau Mahakuasa atas segala sesuatu."
 
-
-
-(QS Aali-'Imraan [3]:[27](https://openquran.com/3:27)-[28](https://openquran.com/3:28))
+"Engkau memasukkan malam ke dalam siang dan Engkau memasukkan siang ke dalam malam. Engkau mengeluarkan yang hidup dari yang mati dan Engkau mengeluarkan yang mati dari yang hidup, dan Engkau memberi rezeki kepada siapa yang Engkau kehendaki tanpa perhitungan.” (QS Aali-'Imraan [3]:[27](https://openquran.com/3:27)-[28](https://openquran.com/3:28))
 
 ### 12. Ikrar kepada Petunjuk dan Meminta Qurub  Ilahi (Kedekatan kepada Allah)
 
@@ -168,7 +166,7 @@ Wahai Tuhan kami, janganlah Engkau bengkokkan hati kami setelah Engkau memberi k
 رَبَّنَاۤ اٰمَنَّا بِمَاۤ اَنۡزَلۡتَ وَاتَّبَعۡنَا الرَّسُوۡلَ فَاکۡتُبۡنَا مَعَ الشّٰہِدِیۡنَ
 </p>
 
-([QS Aali-'Imraan [3]:54](https://openquran.com/3:54))
+“Wahai Tuhan kami, kami beriman kepada apa yang telah Engkau turunkan dan kami mengikuti Rasul ini maka catatlah kami bersama orang-orang yang menjadi saksi.” ([QS Aali-'Imraan [3]:54](https://openquran.com/3:54))
 
 ### 13. Doa Memohon Ampun dan Memohon Diberikan Ketetapan Hati
 
@@ -972,11 +970,11 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzAyNDMyMiwtMTUzMzk4OTk5NCwtOD
-IwODA0NTk1LC0xNDA3NTI5MzMwLC0yOTQyNDI1MDMsLTExODc3
-NDIxMTEsLTQ4MTkxMzc1MCw0ODExNzMxNjgsMTc2ODI2MTg4Ny
-wxMDc5MzA0MTI5LC0xMzgwMTk0NjAwLDEyNzkyMzQ1MjcsLTE1
-NjYwMTcyODAsLTE5Mjc1OTIxMiwtMTIyOTE1MDA3NiwtNzUzMj
-ExNjg3LC0xMjMzMjE2MzEsMTgwMjc0Nzg4OSwtNDMyODM5MTky
-LC03OTA4NzkzOThdfQ==
+eyJoaXN0b3J5IjpbLTEzMTYwNTY5ODksLTE1MzM5ODk5OTQsLT
+gyMDgwNDU5NSwtMTQwNzUyOTMzMCwtMjk0MjQyNTAzLC0xMTg3
+NzQyMTExLC00ODE5MTM3NTAsNDgxMTczMTY4LDE3NjgyNjE4OD
+csMTA3OTMwNDEyOSwtMTM4MDE5NDYwMCwxMjc5MjM0NTI3LC0x
+NTY2MDE3MjgwLC0xOTI3NTkyMTIsLTEyMjkxNTAwNzYsLTc1Mz
+IxMTY4NywtMTIzMzIxNjMxLDE4MDI3NDc4ODksLTQzMjgzOTE5
+MiwtNzkwODc5Mzk4XX0=
 -->
