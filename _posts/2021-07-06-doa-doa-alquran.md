@@ -147,7 +147,7 @@ published: true
 ### 14. Doa Memohon Dipelihara dari Azab Neraka 
 
 <p class="quran">
-
+ رَبَّنَا مَا خَلَقۡتَ ہٰذَا بٰطِلًا سُبۡحٰنَکَ فَقِنَا عَذَابَ النَّارِ
 </p>
 
 <p class="quran">
@@ -957,8 +957,9 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc5MDg3OTM5OCw2NTY1MTg0OTUsLTE0MD
-Y1MzU5NDIsLTk0MTY1MzE3OCwtMjA5NjA3OTM4MCwtMTk2OTk5
-MzE3NCw3NDM3NjM4MDAsLTE2MjcwMzc1NzAsMzE0OTg0MTYsNj
-QwMjUxOTQ1LC02MjAwOTk0NzYsMjA4NDA1ODQ4Nl19
+eyJoaXN0b3J5IjpbLTQzMjgzOTE5MiwtNzkwODc5Mzk4LDY1Nj
+UxODQ5NSwtMTQwNjUzNTk0MiwtOTQxNjUzMTc4LC0yMDk2MDc5
+MzgwLC0xOTY5OTkzMTc0LDc0Mzc2MzgwMCwtMTYyNzAzNzU3MC
+wzMTQ5ODQxNiw2NDAyNTE5NDUsLTYyMDA5OTQ3NiwyMDg0MDU4
+NDg2XX0=
 -->
