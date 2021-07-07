@@ -426,57 +426,154 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Zakaria (as)
 
 </p>
 
+<p class="quran">
+
+</p>
+
+<p class="quran">
+
+</p>
+
+<p class="quran">
+
+</p>
+
+<p class="quran">
+
+</p>
+
+<p class="quran">
+
+</p>
+
+<p class="quran">
+
+</p>
+
+<p class="quran">
+
+</p>
+
+<p class="quran">
+
+</p>
+
+<p class="quran">
+
+</p>
+
 (20:26-36)
 
 ### 42. Doa Memohon Ditambah Ilmu
+
+<p class="quran">
+
+</p>
 
 (20:115)
 
 ### 43. Doa Memohon agar Dijauhkan dari Kesusahan 
 
+<p class="quran">
+
+</p>
+
 (21:84)
 
 ### 44. Doa Mengakui Kesucian Allah dan Mengaku Diri Sendiri Bersalah
+
+<p class="quran">
+
+</p>
 
 (21:88)
 
 ### 45. Doa Memohon Keturunan
 
+<p class="quran">
+
+</p>
+
 (21:90)
 
 ### 46. Doa Memohon Keputusan
+
+<p class="quran">
+
+</p>
 
 (21:113)
 
 ### 47. Doa Memohon Pertolongan dari Serangan Pihak yang Anti
 
+<p class="quran">
+
+</p>
+
 (23:27)
 
 ### 48. Doa Memohon Disampaikan ke Tempat yang Berkah
+
+<p class="quran">
+
+</p>
 
 (23:30)
 
 ### 49. Doa Memohon Dipelihara dari Azab
 
+<p class="quran">
+
+</p>
+
+<p class="quran">
+
+</p>
+
 (23:94,95)
 
 ### 50. Doa Memohon Dijauhkan dari Was-was Setan 
+
+<p class="quran">
+
+</p>
+
+<p class="quran">
+
+</p>
 
 (23:98,99)
 
 ### 51. Doa Memohon Ampun dan Kasih Sayang Tuhan 
 
+<p class="quran">
+
+</p>
+
 (23:119)
 
 ### 52. Doa Memohon Ampun
+
+<p class="quran">
+
+</p>
 
 (23:110)
 
 ### 53. Doa Memohon Dipelihara dari Api Neraka 
 
+<p class="quran">
+
+</p>
+
+<p class="quran">
+
+</p>
+
 (25:66,67)
 
 ### 54. Doa Supaya Anak-Cucu Kita Menjadi Keturunan yang Shaleh
+
 
 (25:75)
 
@@ -595,7 +692,7 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NDIwNDM5MDMsLTE0MDY1MzU5NDIsLT
+eyJoaXN0b3J5IjpbLTEzMTAwNjg3MjEsLTE0MDY1MzU5NDIsLT
 k0MTY1MzE3OCwtMjA5NjA3OTM4MCwtMTk2OTk5MzE3NCw3NDM3
 NjM4MDAsLTE2MjcwMzc1NzAsMzE0OTg0MTYsNjQwMjUxOTQ1LC
 02MjAwOTk0NzYsMjA4NDA1ODQ4Nl19
