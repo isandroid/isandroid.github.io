@@ -160,17 +160,19 @@ published: true
 
 ### 58. Doa Memohon Taufik Agar Menjadi Pribadi yang Bersyukur
 
-59. Doa pengakuan menganiaya diri
+### 59. Doa Pengakuan bahwa Kita Menganiaya Diri-Sendiri
 
-60. Doa keselamatan
+### 60. Doa Keselamatan
 
-61. Mengakui kesalahan dan mohon diampuni 62. Doa agar terhindar dari bagian orang-orang berdosa
+### 61. Mengakui Kesalahan dan Memohon Diampuni 
 
-63. Doa meminta terpelihara dari kaum yang zalim (aniaya)
+### 62. Doa Agar Terhindar dari Bagian Orang-orang yang Berdosa
 
-64. Doa waktu tiba di negeri asing
+### 63. Doa Meminta Terpelihara dari Kaum yang Zalim (aniaya)
 
-65. Doa meminta amak yang saleh
+### 64. Doa Waktu Tiba di Negeri Asing
+
+### 65. Doa Memohon anak yang saleh
 
 66. Doa meminta pertolongan
 
@@ -201,7 +203,7 @@ published: true
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTQxMjI3NDQsMzE0OTg0MTYsNjQwMj
-UxOTQ1LC02MjAwOTk0NzYsMjA4NDA1ODQ4NiwxMzE1NTIyOTcw
-XX0=
+eyJoaXN0b3J5IjpbMTk5NjQ2MDQwMCwzMTQ5ODQxNiw2NDAyNT
+E5NDUsLTYyMDA5OTQ3NiwyMDg0MDU4NDg2LDEzMTU1MjI5NzBd
+fQ==
 -->
