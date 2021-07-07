@@ -70,7 +70,7 @@ published: true
 
 ### 13. Doa meminta ampun dan meminta ditetapkan hati
 
-14. Doa meminta dipelihara dari azab neraka 15. Doa pengakuan menerima kebenaran, me-minta ampun, meminta dimasukkan dalam golongan orang-orang yang shaleh
+###14. Doa meminta dipelihara dari azab neraka 15. Doa pengakuan menerima kebenaran, me-minta ampun, meminta dimasukkan dalam golongan orang-orang yang shaleh
 
 16. Doa meminta dipelihara dari negeri yang penduduknya zalim
 
@@ -161,6 +161,7 @@ nangan
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzE0OTg0MTYsNjQwMjUxOTQ1LC02MjAwOT
-k0NzYsMjA4NDA1ODQ4NiwxMzE1NTIyOTcwXX0=
+eyJoaXN0b3J5IjpbNjkxMjMyMDA5LDMxNDk4NDE2LDY0MDI1MT
+k0NSwtNjIwMDk5NDc2LDIwODQwNTg0ODYsMTMxNTUyMjk3MF19
+
 -->
