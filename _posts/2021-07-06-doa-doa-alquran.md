@@ -123,11 +123,10 @@ published: true
 </p>
 
 <p class="quran">
-
+تُوۡلِجُ الَّیۡلَ فِی النَّہَارِ وَتُوۡلِجُ النَّہَارَ فِی الَّیۡلِ ۖ وَتُخۡرِجُ الۡحَیَّ مِنَ الۡمَیِّتِ وَتُخۡرِجُ الۡمَیِّتَ مِنَ الۡحَیِّ ۖ وَتَرۡزُقُ مَنۡ تَشَآءُ بِغَیۡرِ حِسَابٍ
 </p>
 
-([QS Aali-'Imraan [3]:27](https://openquran.com/3:27)-[27]())
-(3:27- 28)
+(QS Aali-'Imraan [3]:[27](https://openquran.com/3:27)-[28](https://openquran.com/3:28))
 
 ### 12. Ikrar kepada Petunjuk dan Meminta Qurub  Ilahi (Kedekatan kepada Allah)
 
@@ -135,7 +134,7 @@ published: true
 
 </p>
 
-(3:54)
+([QS Aali-'Imraan [3]:54](https://openquran.com/3:54))
 
 ### 13. Doa Memohon Ampun dan Memohon Diberikan Ketetapan Hati
 
@@ -958,7 +957,7 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjM2MjkzMTk1LDY1NjUxODQ5NSwtMTQwNj
+eyJoaXN0b3J5IjpbODA5ODI0NTY1LDY1NjUxODQ5NSwtMTQwNj
 UzNTk0MiwtOTQxNjUzMTc4LC0yMDk2MDc5MzgwLC0xOTY5OTkz
 MTc0LDc0Mzc2MzgwMCwtMTYyNzAzNzU3MCwzMTQ5ODQxNiw2ND
 AyNTE5NDUsLTYyMDA5OTQ3NiwyMDg0MDU4NDg2XX0=
