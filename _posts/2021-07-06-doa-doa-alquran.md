@@ -398,7 +398,7 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 رَبَّنَاۤ اٰتِنَا مِنۡ لَّدُنۡکَ رَحۡمَۃً وَّہَیِّئۡ لَنَا مِنۡ اَمۡرِنَا رَشَدًا
 </p>
 
-(18:11](https://openquran.com/18:11))
+([QS Al-Kahfi [18]:11](https://openquran.com/18:11))
 
 ### 40. Doa Memohon Anak yang Shaleh
 
@@ -959,11 +959,11 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2ODI2MTg4NywxMDc5MzA0MTI5LC0xMz
-gwMTk0NjAwLDEyNzkyMzQ1MjcsLTE1NjYwMTcyODAsLTE5Mjc1
-OTIxMiwtMTIyOTE1MDA3NiwtNzUzMjExNjg3LC0xMjMzMjE2Mz
-EsMTgwMjc0Nzg4OSwtNDMyODM5MTkyLC03OTA4NzkzOTgsNjU2
-NTE4NDk1LC0xNDA2NTM1OTQyLC05NDE2NTMxNzgsLTIwOTYwNz
-kzODAsLTE5Njk5OTMxNzQsNzQzNzYzODAwLC0xNjI3MDM3NTcw
-LDMxNDk4NDE2XX0=
+eyJoaXN0b3J5IjpbNjU4NTQ5OTU1LDE3NjgyNjE4ODcsMTA3OT
+MwNDEyOSwtMTM4MDE5NDYwMCwxMjc5MjM0NTI3LC0xNTY2MDE3
+MjgwLC0xOTI3NTkyMTIsLTEyMjkxNTAwNzYsLTc1MzIxMTY4Ny
+wtMTIzMzIxNjMxLDE4MDI3NDc4ODksLTQzMjgzOTE5MiwtNzkw
+ODc5Mzk4LDY1NjUxODQ5NSwtMTQwNjUzNTk0MiwtOTQxNjUzMT
+c4LC0yMDk2MDc5MzgwLC0xOTY5OTkzMTc0LDc0Mzc2MzgwMCwt
+MTYyNzAzNzU3MF19
 -->
