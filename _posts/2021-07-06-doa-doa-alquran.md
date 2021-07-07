@@ -381,7 +381,9 @@ Keterangan: Doa ini dipanjatkan tatkala orang-orang menolak datangnya seorang ra
 
 “Kepada Allah kami bertawakkal. Ya Tuhan kami! Janganlah Engkau jadikan kami sasaran fitnah bagi kaum yang aniaya."
 
-"" (QS Yunus [10]:[86](https://openquran.com/10:86)-[87](https://openquran.com/10:87))
+"Dan selamatkanlah kami dengan rahmat Engkau dari *keaniayaan* orang-orang kafir.”" (QS Yunus [10]:[86](https://openquran.com/10:86)-[87](https://openquran.com/10:87))
+
+Keterangan: Doa ini dipanjatkan oleh kaum Bani Israil yang ketika itu menjadi 
 
 ### 31. Doa untuk Kebinasaan Orang yang Zalim
 
@@ -1019,11 +1021,11 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODAwNTQyNzA5LDE1MDExMjE4NjIsLTE1Mz
-M5ODk5OTQsLTgyMDgwNDU5NSwtMTQwNzUyOTMzMCwtMjk0MjQy
-NTAzLC0xMTg3NzQyMTExLC00ODE5MTM3NTAsNDgxMTczMTY4LD
-E3NjgyNjE4ODcsMTA3OTMwNDEyOSwtMTM4MDE5NDYwMCwxMjc5
-MjM0NTI3LC0xNTY2MDE3MjgwLC0xOTI3NTkyMTIsLTEyMjkxNT
-AwNzYsLTc1MzIxMTY4NywtMTIzMzIxNjMxLDE4MDI3NDc4ODks
-LTQzMjgzOTE5Ml19
+eyJoaXN0b3J5IjpbLTg4MjA2ODQ1NSwxNTAxMTIxODYyLC0xNT
+MzOTg5OTk0LC04MjA4MDQ1OTUsLTE0MDc1MjkzMzAsLTI5NDI0
+MjUwMywtMTE4Nzc0MjExMSwtNDgxOTEzNzUwLDQ4MTE3MzE2OC
+wxNzY4MjYxODg3LDEwNzkzMDQxMjksLTEzODAxOTQ2MDAsMTI3
+OTIzNDUyNywtMTU2NjAxNzI4MCwtMTkyNzU5MjEyLC0xMjI5MT
+UwMDc2LC03NTMyMTE2ODcsLTEyMzMyMTYzMSwxODAyNzQ3ODg5
+LC00MzI4MzkxOTJdfQ==
 -->
