@@ -329,7 +329,7 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Musa (as)
 ### 34. Bersyukur atas Karunia Ilmu dan Kerajaan 
 
 <p class="quran">
- رَبِّ قَدۡ اٰتَیۡتَنِیۡ مِنَ الۡمُلۡکِ وَعَلَّمۡتَنِیۡ مِنۡ تَاۡوِیۡلِ الۡاَحَادِیۡثِ ۚ فَاطِرَ السَّمٰوٰتِ وَالۡاَرۡضِ اَنۡتَ وَلِیّٖ فِی الدُّنۡیَا وَالۡاٰخِرَۃِ ۖ تَوَفَّنِیۡ مُسۡلِمًا وَّاَلۡحِقۡنِیۡ بِالصّٰلِحِیۡنَ
+ رَبِّ قَدۡ اٰتَیۡتَنِیۡ مِنَ الۡمُلۡکِ وَعَلَّمۡتَنِیۡ مِنۡ تَاۡوِیۡلِ الۡاَحَادِیۡثِ
 </p>
 
 ([QS Yusuf [12]:102](https://openquran.com/12:102))
@@ -337,10 +337,10 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Musa (as)
 ### 35. Doa Memohon Keselamatan Iman
 
 <p class="quran">
-
+فَاطِرَ السَّمٰوٰتِ وَالۡاَرۡضِ اَنۡتَ وَلِیّٖ فِی الدُّنۡیَا وَالۡاٰخِرَۃِ ۖ تَوَفَّنِیۡ مُسۡلِمًا وَّاَلۡحِقۡنِیۡ بِالصّٰلِحِیۡنَ
 </p>
 
-(12:102)
+([QS Yusuf [12]:102](https://openquran.com/12:102))
 
 ### 36. Doa Memohon Dilapangkan Rejeki, Memohon agar Anak-Cucu Kita Menjadi Orang Shaleh 
 
@@ -957,11 +957,11 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3OTIzNDUyNywtMTU2NjAxNzI4MCwtMT
-kyNzU5MjEyLC0xMjI5MTUwMDc2LC03NTMyMTE2ODcsLTEyMzMy
-MTYzMSwxODAyNzQ3ODg5LC00MzI4MzkxOTIsLTc5MDg3OTM5OC
-w2NTY1MTg0OTUsLTE0MDY1MzU5NDIsLTk0MTY1MzE3OCwtMjA5
-NjA3OTM4MCwtMTk2OTk5MzE3NCw3NDM3NjM4MDAsLTE2MjcwMz
-c1NzAsMzE0OTg0MTYsNjQwMjUxOTQ1LC02MjAwOTk0NzYsMjA4
-NDA1ODQ4Nl19
+eyJoaXN0b3J5IjpbLTQ2OTYxNDk0LDEyNzkyMzQ1MjcsLTE1Nj
+YwMTcyODAsLTE5Mjc1OTIxMiwtMTIyOTE1MDA3NiwtNzUzMjEx
+Njg3LC0xMjMzMjE2MzEsMTgwMjc0Nzg4OSwtNDMyODM5MTkyLC
+03OTA4NzkzOTgsNjU2NTE4NDk1LC0xNDA2NTM1OTQyLC05NDE2
+NTMxNzgsLTIwOTYwNzkzODAsLTE5Njk5OTMxNzQsNzQzNzYzOD
+AwLC0xNjI3MDM3NTcwLDMxNDk4NDE2LDY0MDI1MTk0NSwtNjIw
+MDk5NDc2XX0=
 -->
