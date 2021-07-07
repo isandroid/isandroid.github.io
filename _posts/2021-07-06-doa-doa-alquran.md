@@ -613,19 +613,19 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 ### 56. Doa Memohon Kemenangan dan Keputusan 
 
 <p class="quran">
-
+رَبِّ اِنَّ قَوۡمِیۡ کَذَّبُوۡنِ
 </p>
 
 <p class="quran">
-
+فَافۡتَحۡ بَیۡنِیۡ وَبَیۡنَہُمۡ فَتۡحًا وَّنَجِّنِیۡ وَمَنۡ مَّعِیَ مِنَ الۡمُؤۡمِنِیۡنَ
 </p>
 
-(QS Asy-Syu'araa [26]: [118]()-[119]())
+(QS Asy-Syu'araa [26]: [118](https://openquran.com/26:118)-[119](https://openquran.com/26:119))
 
 ### 57. Doa Memohon Dipelihara dari Tangan Musuh 
 
 <p class="quran">
-
+رَبِّ نَجِّنِیۡ وَاَہۡلِیۡ مِمَّا یَعۡمَلُوۡنَ
 </p>
 
 (QS Asy-Syu'araa [26]:170)
@@ -961,11 +961,11 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODMxODk5OTksNDgxMTczMTY4LDE3Nj
-gyNjE4ODcsMTA3OTMwNDEyOSwtMTM4MDE5NDYwMCwxMjc5MjM0
-NTI3LC0xNTY2MDE3MjgwLC0xOTI3NTkyMTIsLTEyMjkxNTAwNz
-YsLTc1MzIxMTY4NywtMTIzMzIxNjMxLDE4MDI3NDc4ODksLTQz
-MjgzOTE5MiwtNzkwODc5Mzk4LDY1NjUxODQ5NSwtMTQwNjUzNT
-k0MiwtOTQxNjUzMTc4LC0yMDk2MDc5MzgwLC0xOTY5OTkzMTc0
-LDc0Mzc2MzgwMF19
+eyJoaXN0b3J5IjpbNTc0ODg2MTI0LDQ4MTE3MzE2OCwxNzY4Mj
+YxODg3LDEwNzkzMDQxMjksLTEzODAxOTQ2MDAsMTI3OTIzNDUy
+NywtMTU2NjAxNzI4MCwtMTkyNzU5MjEyLC0xMjI5MTUwMDc2LC
+03NTMyMTE2ODcsLTEyMzMyMTYzMSwxODAyNzQ3ODg5LC00MzI4
+MzkxOTIsLTc5MDg3OTM5OCw2NTY1MTg0OTUsLTE0MDY1MzU5ND
+IsLTk0MTY1MzE3OCwtMjA5NjA3OTM4MCwtMTk2OTk5MzE3NCw3
+NDM3NjM4MDBdfQ==
 -->
