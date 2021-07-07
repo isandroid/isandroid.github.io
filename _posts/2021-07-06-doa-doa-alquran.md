@@ -835,43 +835,43 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 </p>
 
 <p class="quran">
-
+فَقُلۡتُ اسۡتَغۡفِرُوۡا رَبَّکُمۡ اِنَّہٗ کَانَ غَفَّارًا
 </p>
 
 <p class="quran">
-
+یُرۡسِلِ السَّمَآءَ عَلَیۡکُمۡ مِّدۡرَارًا
 </p>
 
 <p class="quran">
-
+وَیُمۡدِدۡکُمۡ بِاَمۡوٰلٍ وَّبَنِیۡنَ وَیَجۡعَل لَّکُمۡ جَنّٰتٍ وَّیَجۡعَل لَّکُمۡ اَنۡہٰرًا
 </p>
 
 <p class="quran">
-
+مَّا لَکُمۡ لَا تَرۡجُوۡنَ لِلّٰہِ وَقَارًا
 </p>
 
 <p class="quran">
-
+وَقَدۡ خَلَقَکُمۡ اَطۡوَارًا
 </p>
 
 <p class="quran">
-
+اَلَمۡ تَرَوۡا کَیۡفَ خَلَقَ اللّٰہُ سَبۡعَ سَمٰوٰتٍ طِبَاقًا
 </p>
 
 <p class="quran">
-
+وَجَعَلَ الۡقَمَرَ فِیۡہِنَّ نُوۡرًا وَّجَعَلَ الشَّمۡسَ سِرَاجًا
 </p>
 
 <p class="quran">
-
+وَاللّٰہُ اَنۡۢبَتَکُمۡ مِّنَ الۡاَرۡضِ نَبَاتًا
 </p>
 
 <p class="quran">
-
+ثُمَّ یُعِیۡدُکُمۡ فِیۡہَا وَیُخۡرِجُکُمۡ اِخۡرَاجًا
 </p>
 
 <p class="quran">
-
+وَاللّٰہُ جَعَلَ لَکُمُ الۡاَرۡضَ بِسَاطًا
 </p>
 
 <p class="quran">
@@ -963,7 +963,7 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5NDkzNzQwOSwtMTE4Nzc0MjExMSwtND
+eyJoaXN0b3J5IjpbLTY3MzAwNDQwNSwtMTE4Nzc0MjExMSwtND
 gxOTEzNzUwLDQ4MTE3MzE2OCwxNzY4MjYxODg3LDEwNzkzMDQx
 MjksLTEzODAxOTQ2MDAsMTI3OTIzNDUyNywtMTU2NjAxNzI4MC
 wtMTkyNzU5MjEyLC0xMjI5MTUwMDc2LC03NTMyMTE2ODcsLTEy
