@@ -118,7 +118,11 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Isa (as)
 
 ### 19. Doa Memohon agar Dimasukkan ke dalam Jemaat yang Suci 
 
+(5:84,85)
+
 ### 20. Doa Memohon Ampun
+
+Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Isa (as)
 
 ### 21. Doa Memohon Dinyatakan Antara yang benar dan yang salah 
 
@@ -242,7 +246,7 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Isa (as)
 
 ### 81. Doa Memohon Perlindungan yang Menyeluruh
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3MTUwNjk4MCw3NDM3NjM4MDAsLTE2Mj
-cwMzc1NzAsMzE0OTg0MTYsNjQwMjUxOTQ1LC02MjAwOTk0NzYs
-MjA4NDA1ODQ4NiwxMzE1NTIyOTcwXX0=
+eyJoaXN0b3J5IjpbLTExODMzNzA2MjIsNzQzNzYzODAwLC0xNj
+I3MDM3NTcwLDMxNDk4NDE2LDY0MDI1MTk0NSwtNjIwMDk5NDc2
+LDIwODQwNTg0ODYsMTMxNTUyMjk3MF19
 -->
