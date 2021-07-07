@@ -440,7 +440,8 @@ Keterangan:
 "Wahai Pencipta seluruh langit dan bumi, Engkau-lah Penolongku di dunia dan akhirat. Wafatkanlah aku dalam *keadaan* patuh *taat kepada kehendak Engkau* dan gabungkanlah aku dengan orang-orang yang saleh.” ([QS Yusuf [12]:102](https://openquran.com/12:102))
 
 Keterangan: 
-- Doa ini dipanjatkan oleh Nabi Yusuf (as)
+- Doa ini dipanjatkan oleh Nabi Yusuf (as) 
+- Doa ini masih sambungan dari [poin sebelumnya](#35-doa-memohon-keselamatan-iman)
 
 ### 36. Doa Memohon Dilapangkan Rejeki, Memohon agar Anak-Cucu Kita Menjadi Orang Shaleh 
 
@@ -1038,7 +1039,7 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0MzY1Njk0MiwxNTAxMTIxODYyLC0xNT
+eyJoaXN0b3J5IjpbMTc0NDE1MTk2NiwxNTAxMTIxODYyLC0xNT
 MzOTg5OTk0LC04MjA4MDQ1OTUsLTE0MDc1MjkzMzAsLTI5NDI0
 MjUwMywtMTE4Nzc0MjExMSwtNDgxOTEzNzUwLDQ4MTE3MzE2OC
 wxNzY4MjYxODg3LDEwNzkzMDQxMjksLTEzODAxOTQ2MDAsMTI3
