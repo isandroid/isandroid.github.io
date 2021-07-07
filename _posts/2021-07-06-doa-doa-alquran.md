@@ -62,7 +62,11 @@ published: true
 
 ### 4. Doa Memohon Kebaikan untuk Dunia dan akhirat 
 
-(2:202)
+<p class="quran">
+رَبَّنَاۤ اٰتِنَا فِی الدُّنۡیَا حَسَنَۃً وَّفِی الۡاٰخِرَۃِ حَسَنَۃً وَّقِنَا عَذَابَ النَّارِ
+</p>
+
+ ([QS Al-Baqarah [2]:202](https://openquran.com/2:202))
 
 ### 5. Doa Memohon Kesabaran, Ketetapan Iman, Kekuatan Menahan Rasa Sakit dan Bahaya dari Orang-orang Kafir
 
@@ -387,7 +391,8 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0MTY1MzE3OCwtMjA5NjA3OTM4MCwtMT
-k2OTk5MzE3NCw3NDM3NjM4MDAsLTE2MjcwMzc1NzAsMzE0OTg0
-MTYsNjQwMjUxOTQ1LC02MjAwOTk0NzYsMjA4NDA1ODQ4Nl19
+eyJoaXN0b3J5IjpbMTc2Njc3NDc4NywtOTQxNjUzMTc4LC0yMD
+k2MDc5MzgwLC0xOTY5OTkzMTc0LDc0Mzc2MzgwMCwtMTYyNzAz
+NzU3MCwzMTQ5ODQxNiw2NDAyNTE5NDUsLTYyMDA5OTQ3NiwyMD
+g0MDU4NDg2XX0=
 -->
