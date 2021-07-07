@@ -238,7 +238,7 @@ Keterangan: Doa ini adalah doa yang dipanjatkan oleh Nabi Adam (as)
 رَبَّنَاۤ اَفۡرِغۡ عَلَیۡنَا صَبۡرًا وَّتَوَفَّنَا مُسۡلِمِیۡنَ
 </p>
 
-([7:127](https://openquran.com/7:127))
+([QS Al-A'roof [7]:127](https://openquran.com/7:127))
 
 ### 24. Doa Memohon Dijauhkan dari Orang yang Zalim 
 
@@ -957,10 +957,10 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTc4ODQ3NzY4LC03NTMyMTE2ODcsLTEyMz
-MyMTYzMSwxODAyNzQ3ODg5LC00MzI4MzkxOTIsLTc5MDg3OTM5
-OCw2NTY1MTg0OTUsLTE0MDY1MzU5NDIsLTk0MTY1MzE3OCwtMj
-A5NjA3OTM4MCwtMTk2OTk5MzE3NCw3NDM3NjM4MDAsLTE2Mjcw
-Mzc1NzAsMzE0OTg0MTYsNjQwMjUxOTQ1LC02MjAwOTk0NzYsMj
-A4NDA1ODQ4Nl19
+eyJoaXN0b3J5IjpbLTEyMjkxNTAwNzYsLTc1MzIxMTY4NywtMT
+IzMzIxNjMxLDE4MDI3NDc4ODksLTQzMjgzOTE5MiwtNzkwODc5
+Mzk4LDY1NjUxODQ5NSwtMTQwNjUzNTk0MiwtOTQxNjUzMTc4LC
+0yMDk2MDc5MzgwLC0xOTY5OTkzMTc0LDc0Mzc2MzgwMCwtMTYy
+NzAzNzU3MCwzMTQ5ODQxNiw2NDAyNTE5NDUsLTYyMDA5OTQ3Ni
+wyMDg0MDU4NDg2XX0=
 -->
