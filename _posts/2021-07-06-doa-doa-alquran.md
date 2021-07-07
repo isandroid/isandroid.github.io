@@ -479,10 +479,10 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Musa (as)
 ### 43. Doa Memohon agar Dijauhkan dari Kesusahan 
 
 <p class="quran">
-
+ اَنِّیۡ مَسَّنِیَ الضُّرُّ وَاَنۡتَ اَرۡحَمُ الرّٰحِمِیۡنَ
 </p>
 
-(21:84)
+(QS Al-Anbiyaa [21]:84)
 
 ### 44. Doa Mengakui Kesucian Allah dan Mengaku Diri Sendiri Bersalah
 
@@ -490,7 +490,7 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Musa (as)
 
 </p>
 
-(21:88)
+(QS Al-Anbiyaa [21]:88)
 
 ### 45. Doa Memohon Keturunan
 
@@ -498,7 +498,7 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Musa (as)
 
 </p>
 
-(21:90)
+(QS Al-Anbiyaa [21]:90)
 
 ### 46. Doa Memohon Keputusan
 
@@ -961,11 +961,11 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTAwMTIxMzAsMTc2ODI2MTg4NywxMD
-c5MzA0MTI5LC0xMzgwMTk0NjAwLDEyNzkyMzQ1MjcsLTE1NjYw
-MTcyODAsLTE5Mjc1OTIxMiwtMTIyOTE1MDA3NiwtNzUzMjExNj
-g3LC0xMjMzMjE2MzEsMTgwMjc0Nzg4OSwtNDMyODM5MTkyLC03
-OTA4NzkzOTgsNjU2NTE4NDk1LC0xNDA2NTM1OTQyLC05NDE2NT
-MxNzgsLTIwOTYwNzkzODAsLTE5Njk5OTMxNzQsNzQzNzYzODAw
-LC0xNjI3MDM3NTcwXX0=
+eyJoaXN0b3J5IjpbNjMyNDQ0NDAxLDE3NjgyNjE4ODcsMTA3OT
+MwNDEyOSwtMTM4MDE5NDYwMCwxMjc5MjM0NTI3LC0xNTY2MDE3
+MjgwLC0xOTI3NTkyMTIsLTEyMjkxNTAwNzYsLTc1MzIxMTY4Ny
+wtMTIzMzIxNjMxLDE4MDI3NDc4ODksLTQzMjgzOTE5MiwtNzkw
+ODc5Mzk4LDY1NjUxODQ5NSwtMTQwNjUzNTk0MiwtOTQxNjUzMT
+c4LC0yMDk2MDc5MzgwLC0xOTY5OTkzMTc0LDc0Mzc2MzgwMCwt
+MTYyNzAzNzU3MF19
 -->
