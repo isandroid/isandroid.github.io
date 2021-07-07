@@ -258,69 +258,173 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Isa (as)
 
 ### 26. Doa Memohon Ampun
 
+<p class="quran">
+
+</p>
+
 (7:152) 
 
 Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Musa (as)
 
 ### 27. Doa Memohon Ampun dan Meminta Rahmat 
 
+<p class="quran">
+
+</p>
+
 (7:156)
 
 ### 28. Doa Memohon Kebaikan Dunia dan Akhirat 
+
+<p class="quran">
+
+</p>
 
 (7:157)
 
 ### 29. Tawakkal dan Menyerah kepada Allah 
 
+<p class="quran">
+
+</p>
+
 (9:129)
 
 ### 30. Doa Memohon Dijauhkan dari Kejahatan Musuh 
+
+<p class="quran">
+
+</p>
+
+<p class="quran">
+
+</p>
 
 (10:86,87)
 
 ### 31. Doa untuk Kebinasaan Orang yang Zalim
 
+<p class="quran">
+
+</p>
+
 (10:89)
 
 ### 32. Doa Naik Kapal atau Kendaraan
+
+<p class="quran">
+
+</p>
 
 (11:42)
 
 ### 33. Doa Meminta Dipelihara dari Hal yang Tidak Berguna
 
+<p class="quran">
+
+</p>
+
 (11:48)
 
 ### 34. Bersyukur atas Karunia Ilmu dan Kerajaan 
+
+<p class="quran">
+
+</p>
 
 (12:102)
 
 ### 35. Doa Memohon Keselamatan Iman
 
+<p class="quran">
+
+</p>
+
 (12:102)
 
 ### 36. Doa Memohon Dilapangkan Rejeki, Memohon agar Anak-Cucu Kita Menjadi Orang Shaleh 
+
+<p class="quran">
+
+</p>
+
+<p class="quran">
+
+</p>
+
+<p class="quran">
+
+</p>
+
+<p class="quran">
+
+</p>
+
+<p class="quran">
+
+</p>
+
+<p class="quran">
+
+</p>
+
+<p class="quran">
+
+</p>
 
 (14:36-42)
 
 ### 37. Doa untuk Ibu dan Bapak
 
+<p class="quran">
+
+</p>
+
 (17:25)
 
 ### 38. Doa Ketika akan Masuk dan Keluar dari Suatu Tempat
+
+<p class="quran">
+
+</p>
 
 (17:81)
 
 ### 39. Doa Memohon Rahmat dan Meminta Kemenangan
 
+<p class="quran">
+
+</p>
+
 (18:11)
 
 ### 40. Doa Memohon Anak yang Shaleh
+
+<p class="quran">
+
+</p>
+
+<p class="quran">
+
+</p>
+
+<p class="quran">
+
+</p>
 
 (19:5-7)
 
 Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Zakaria (as)
 
-### 41. Doa Memohon Kemenagan dalam Bertabligh 
+### 41. Doa Memohon Kemenangan dalam Bertabligh 
+
+<p class="quran">
+
+</p>
+
+<p class="quran">
+
+</p>
 
 (20:26-36)
 
@@ -491,7 +595,7 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDI0NDgxMjEsLTE0MDY1MzU5NDIsLT
+eyJoaXN0b3J5IjpbLTE2NDIwNDM5MDMsLTE0MDY1MzU5NDIsLT
 k0MTY1MzE3OCwtMjA5NjA3OTM4MCwtMTk2OTk5MzE3NCw3NDM3
 NjM4MDAsLTE2MjcwMzc1NzAsMzE0OTg0MTYsNjQwMjUxOTQ1LC
 02MjAwOTk0NzYsMjA4NDA1ODQ4Nl19
