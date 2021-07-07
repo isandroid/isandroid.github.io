@@ -55,9 +55,10 @@ Tunjukilah kami jalan yang lurus,
 ### 2. Doa Memohon Keamanan dan Rejeki
 
 <p class="quran">
-رَبِّ اجۡعَلۡ ہٰذَا بَلَدًا اٰمِنًا وَّارۡزُقۡ اَہۡلَہٗ مِنَ الثَّمَرٰتِ مَنۡ اٰمَنَ مِنۡہُمۡ بِاللّٰہِ وَالۡیَوۡمِ الۡاٰخِرِ ۖ قَالَ وَمَنۡ کَفَرَ فَاُمَتِّعُہٗ قَلِیۡلًا ثُمَّ اَضۡطَرُّہٗۤ اِلٰی عَذَابِ النَّارِ ۖ وَبِئۡسَ الۡمَصِیۡرُ</p>
+رَبِّ اجۡعَلۡ ہٰذَا بَلَدًا اٰمِنًا وَّارۡزُقۡ اَہۡلَہٗ مِنَ الثَّمَرٰتِ مَنۡ اٰمَنَ مِنۡہُمۡ بِاللّٰہِ وَالۡیَوۡمِ الۡاٰخِرِ ۖ قَالَ وَمَنۡ کَفَرَ فَاُمَتِّعُہٗ قَلِیۡلًا ثُمَّ اَضۡطَرُّہٗۤ اِلٰی عَذَابِ النَّارِ ۖ وَبِئۡسَ الۡمَصِیۡرُ
+</p>
 
-([QS Al-Baqarah [2]:127](https://openquran.com/2:127))
+“Wahai Tuhanku! Jadikan-lah *tempat* ini kota yang aman dan berikanlah rezeki berupa buah-buahan kepada penduduknya dari antara mereka yang beriman kepada Allah dan Hari Kemudian.” Dia berfirman, “Dan kepada orang yang ingkar pun, Aku akan memberi sedikit kesenangan kepadanya, kemudian Aku akan memaksanya masuk ke dalam azab Api, dan inilah seburuk-buruk tempat kembali.” ([QS Al-Baqarah [2]:127](https://openquran.com/2:127))
 
 Keterangan: Doa diatas adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)	
 
@@ -951,11 +952,11 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzM2MjkwNywtMjk0MjQyNTAzLC0xMT
-g3NzQyMTExLC00ODE5MTM3NTAsNDgxMTczMTY4LDE3NjgyNjE4
-ODcsMTA3OTMwNDEyOSwtMTM4MDE5NDYwMCwxMjc5MjM0NTI3LC
-0xNTY2MDE3MjgwLC0xOTI3NTkyMTIsLTEyMjkxNTAwNzYsLTc1
-MzIxMTY4NywtMTIzMzIxNjMxLDE4MDI3NDc4ODksLTQzMjgzOT
-E5MiwtNzkwODc5Mzk4LDY1NjUxODQ5NSwtMTQwNjUzNTk0Miwt
-OTQxNjUzMTc4XX0=
+eyJoaXN0b3J5IjpbLTE0MDc1MjkzMzAsLTI5NDI0MjUwMywtMT
+E4Nzc0MjExMSwtNDgxOTEzNzUwLDQ4MTE3MzE2OCwxNzY4MjYx
+ODg3LDEwNzkzMDQxMjksLTEzODAxOTQ2MDAsMTI3OTIzNDUyNy
+wtMTU2NjAxNzI4MCwtMTkyNzU5MjEyLC0xMjI5MTUwMDc2LC03
+NTMyMTE2ODcsLTEyMzMyMTYzMSwxODAyNzQ3ODg5LC00MzI4Mz
+kxOTIsLTc5MDg3OTM5OCw2NTY1MTg0OTUsLTE0MDY1MzU5NDIs
+LTk0MTY1MzE3OF19
 -->
