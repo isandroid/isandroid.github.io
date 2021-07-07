@@ -383,7 +383,7 @@ Keterangan: Doa ini dipanjatkan tatkala orang-orang menolak datangnya seorang ra
 
 "Dan selamatkanlah kami dengan rahmat Engkau dari *keaniayaan* orang-orang kafir.”" (QS Yunus [10]:[86](https://openquran.com/10:86)-[87](https://openquran.com/10:87))
 
-Keterangan: Doa ini dipanjatkan oleh kaum Bani Israil yang ketika itu menjadi 
+Keterangan: Doa ini dipanjatkan oleh kaum Bani Israil yang ketika itu menjadi budak orang-orang Mesir. Mereka meminta perlindungan kepada Allah Ta'ala.
 
 ### 31. Doa untuk Kebinasaan Orang yang Zalim
 
@@ -391,7 +391,7 @@ Keterangan: Doa ini dipanjatkan oleh kaum Bani Israil yang ketika itu menjadi
 رَبَّنَاۤ اِنَّکَ اٰتَیۡتَ فِرۡعَوۡنَ وَمَلَاَہٗ زِیۡنَۃً وَّاَمۡوٰلًا فِی الۡحَیٰوۃِ الدُّنۡیَا رَبَّنَا لِیُضِلُّوۡا عَنۡ سَبِیۡلِکَ ۖ رَبَّنَا اطۡمِسۡ عَلٰۤی اَمۡوٰلِہِمۡ وَاشۡدُدۡ عَلٰی قُلُوۡبِہِمۡ فَلَا یُؤۡمِنُوۡا حَتّٰی یَرَوُا الۡعَذَابَ الۡاَلِیۡمَ
 </p>
 
-([QS Yunus [10]:89](https://openquran.com/10:89))
+“Ya Tuhan kami, sesungguhnya Engkau telah memberikan kepada Fir‘aun dan pembesar-pembesarnya kemegahan dan kekayaan dalam kehidupan dunia, ya Tuhan kami, akibatnya mereka menye-- satkan orang dari jalan Engkau. Ya Tuhan kami! Musnahkanlah12 kekayaan mereka dan keraskan-lah1284B hati mereka; maka a mereka tidak akan beriman, sehingga mereka melihat azab yang pedih.” ([QS Yunus [10]:89](https://openquran.com/10:89))
 
 ### 32. Doa Naik Kapal atau Kendaraan
 
@@ -1021,11 +1021,11 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4MjA2ODQ1NSwxNTAxMTIxODYyLC0xNT
-MzOTg5OTk0LC04MjA4MDQ1OTUsLTE0MDc1MjkzMzAsLTI5NDI0
-MjUwMywtMTE4Nzc0MjExMSwtNDgxOTEzNzUwLDQ4MTE3MzE2OC
-wxNzY4MjYxODg3LDEwNzkzMDQxMjksLTEzODAxOTQ2MDAsMTI3
-OTIzNDUyNywtMTU2NjAxNzI4MCwtMTkyNzU5MjEyLC0xMjI5MT
-UwMDc2LC03NTMyMTE2ODcsLTEyMzMyMTYzMSwxODAyNzQ3ODg5
-LC00MzI4MzkxOTJdfQ==
+eyJoaXN0b3J5IjpbLTE3NjgwNTk5MzksMTUwMTEyMTg2MiwtMT
+UzMzk4OTk5NCwtODIwODA0NTk1LC0xNDA3NTI5MzMwLC0yOTQy
+NDI1MDMsLTExODc3NDIxMTEsLTQ4MTkxMzc1MCw0ODExNzMxNj
+gsMTc2ODI2MTg4NywxMDc5MzA0MTI5LC0xMzgwMTk0NjAwLDEy
+NzkyMzQ1MjcsLTE1NjYwMTcyODAsLTE5Mjc1OTIxMiwtMTIyOT
+E1MDA3NiwtNzUzMjExNjg3LC0xMjMzMjE2MzEsMTgwMjc0Nzg4
+OSwtNDMyODM5MTkyXX0=
 -->
