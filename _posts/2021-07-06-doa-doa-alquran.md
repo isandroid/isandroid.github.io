@@ -495,7 +495,7 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Musa (as)
 ### 45. Doa Memohon Keturunan
 
 <p class="quran">
-
+ رَبِّ لَا تَذَرۡنِیۡ فَرۡدًا وَّاَنۡتَ خَیۡرُ الۡوٰرِثِیۡنَ
 </p>
 
 ([QS Al-Anbiyaa [21]:90](https://openquran.com/21:90))
@@ -503,7 +503,7 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Musa (as)
 ### 46. Doa Memohon Keputusan
 
 <p class="quran">
-
+ رَبِّ احۡکُمۡ بِالۡحَقِّ ۗ وَرَبُّنَا الرَّحۡمٰنُ الۡمُسۡتَعَانُ عَلٰی مَا تَصِفُوۡنَ
 </p>
 
 ([QS Al-Anbiyaa [21]:113](https://openquran.com/21:113))
@@ -511,10 +511,10 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Musa (as)
 ### 47. Doa Memohon Pertolongan dari Serangan Pihak yang Anti
 
 <p class="quran">
-
+ رَبِّ انۡصُرۡنِیۡ بِمَا کَذَّبُوۡنِ
 </p>
 
-(23:27)
+(23:27](https://openquran.com/23:27))
 
 ### 48. Doa Memohon Disampaikan ke Tempat yang Berkah
 
@@ -961,7 +961,7 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDEzNzgwNzIsNDgxMTczMTY4LDE3Nj
+eyJoaXN0b3J5IjpbLTEyMDc4MTE1NTUsNDgxMTczMTY4LDE3Nj
 gyNjE4ODcsMTA3OTMwNDEyOSwtMTM4MDE5NDYwMCwxMjc5MjM0
 NTI3LC0xNTY2MDE3MjgwLC0xOTI3NTkyMTIsLTEyMjkxNTAwNz
 YsLTc1MzIxMTY4NywtMTIzMzIxNjMxLDE4MDI3NDc4ODksLTQz
