@@ -314,7 +314,9 @@ Keterangan: Doa ini dipanjatkan para penyihir yang telah kalah melawan Nabi Musa
 لَئِنۡ لَّمۡ یَرۡحَمۡنَا رَبُّنَا وَیَغۡفِرۡ لَنَا لَنَکُوۡنَنَّ مِنَ الۡخٰسِرِیۡنَ
 </p>
 
-([QS Al-A'roof [7]:150](https://openquran.com/7:150))
+“Seandainya Tuhan kami tidak mengasihani kami dan tidak mengampuni kami, pasti kami akan menjadi di antara orang-orang yang merugi.” ([QS Al-A'roof [7]:150](https://openquran.com/7:150))
+
+Keterangan: Doa ini 
 
 ### 26. Doa Memohon Ampun
 
@@ -998,7 +1000,7 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM5NDMyODA4MywxNTAxMTIxODYyLC0xNT
+eyJoaXN0b3J5IjpbLTM3OTY1NjAxOCwxNTAxMTIxODYyLC0xNT
 MzOTg5OTk0LC04MjA4MDQ1OTUsLTE0MDc1MjkzMzAsLTI5NDI0
 MjUwMywtMTE4Nzc0MjExMSwtNDgxOTEzNzUwLDQ4MTE3MzE2OC
 wxNzY4MjYxODg3LDEwNzkzMDQxMjksLTEzODAxOTQ2MDAsMTI3
