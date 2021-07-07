@@ -166,7 +166,7 @@ published: true
 
 </p>
 
-(3:194-195)
+([QS Aali-'Imraan [3]:[194](https://openquran.com/3:194)-[195](https://openquran.com/3:195))
 
 ### 16. Doa Meminta Dipelihara dari Negeri yang Penduduknya Zhalim
 
@@ -957,9 +957,9 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4NjA1NzAyOCwtNDMyODM5MTkyLC03OT
-A4NzkzOTgsNjU2NTE4NDk1LC0xNDA2NTM1OTQyLC05NDE2NTMx
-NzgsLTIwOTYwNzkzODAsLTE5Njk5OTMxNzQsNzQzNzYzODAwLC
-0xNjI3MDM3NTcwLDMxNDk4NDE2LDY0MDI1MTk0NSwtNjIwMDk5
-NDc2LDIwODQwNTg0ODZdfQ==
+eyJoaXN0b3J5IjpbNDY5NTAyMzA3LC00MzI4MzkxOTIsLTc5MD
+g3OTM5OCw2NTY1MTg0OTUsLTE0MDY1MzU5NDIsLTk0MTY1MzE3
+OCwtMjA5NjA3OTM4MCwtMTk2OTk5MzE3NCw3NDM3NjM4MDAsLT
+E2MjcwMzc1NzAsMzE0OTg0MTYsNjQwMjUxOTQ1LC02MjAwOTk0
+NzYsMjA4NDA1ODQ4Nl19
 -->
