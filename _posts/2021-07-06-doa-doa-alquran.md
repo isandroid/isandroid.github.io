@@ -204,7 +204,7 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Isa (as)
 
 </p>
 
-(5:84,85)
+(QS Al-Maaidah [5]:[84](https://openquran.com/5:84)-[85](https://openquran.com/5:85))
 
 ### 20. Doa Memohon Ampun
 
@@ -957,7 +957,7 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyNDIxNTcyOCwtMTIzMzIxNjMxLDE4MD
+eyJoaXN0b3J5IjpbLTc1MzIxMTY4NywtMTIzMzIxNjMxLDE4MD
 I3NDc4ODksLTQzMjgzOTE5MiwtNzkwODc5Mzk4LDY1NjUxODQ5
 NSwtMTQwNjUzNTk0MiwtOTQxNjUzMTc4LC0yMDk2MDc5MzgwLC
 0xOTY5OTkzMTc0LDc0Mzc2MzgwMCwtMTYyNzAzNzU3MCwzMTQ5
