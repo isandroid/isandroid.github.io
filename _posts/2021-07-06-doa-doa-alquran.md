@@ -156,6 +156,10 @@ Wahai Tuhan kami, janganlah Engkau bengkokkan hati kami setelah Engkau memberi k
 تُوۡلِجُ الَّیۡلَ فِی النَّہَارِ وَتُوۡلِجُ النَّہَارَ فِی الَّیۡلِ ۖ وَتُخۡرِجُ الۡحَیَّ مِنَ الۡمَیِّتِ وَتُخۡرِجُ الۡمَیِّتَ مِنَ الۡحَیِّ ۖ وَتَرۡزُقُ مَنۡ تَشَآءُ بِغَیۡرِ حِسَابٍ
 </p>
 
+“ Wahai Allah, Pemilik kerajaan, Engkau memberi kerajaan kepada siapa yang Engkau kehendaki, dan Engkau cabut kerajaan dari siapa yang Engkau kehendaki, Engkau muliakan siapa yang Engkau kehendaki, dan Engkau hinakan siapa yang Engkau kehendaki, *hanya* di tangan Engkaulah segala kebaikan, sesungguhnya Engkau Mahakuasa atas segala sesuatu."
+
+
+
 (QS Aali-'Imraan [3]:[27](https://openquran.com/3:27)-[28](https://openquran.com/3:28))
 
 ### 12. Ikrar kepada Petunjuk dan Meminta Qurub  Ilahi (Kedekatan kepada Allah)
@@ -968,11 +972,11 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODA2ODgwOTU4LC0xNTMzOTg5OTk0LC04Mj
-A4MDQ1OTUsLTE0MDc1MjkzMzAsLTI5NDI0MjUwMywtMTE4Nzc0
-MjExMSwtNDgxOTEzNzUwLDQ4MTE3MzE2OCwxNzY4MjYxODg3LD
-EwNzkzMDQxMjksLTEzODAxOTQ2MDAsMTI3OTIzNDUyNywtMTU2
-NjAxNzI4MCwtMTkyNzU5MjEyLC0xMjI5MTUwMDc2LC03NTMyMT
-E2ODcsLTEyMzMyMTYzMSwxODAyNzQ3ODg5LC00MzI4MzkxOTIs
-LTc5MDg3OTM5OF19
+eyJoaXN0b3J5IjpbLTEzMzAyNDMyMiwtMTUzMzk4OTk5NCwtOD
+IwODA0NTk1LC0xNDA3NTI5MzMwLC0yOTQyNDI1MDMsLTExODc3
+NDIxMTEsLTQ4MTkxMzc1MCw0ODExNzMxNjgsMTc2ODI2MTg4Ny
+wxMDc5MzA0MTI5LC0xMzgwMTk0NjAwLDEyNzkyMzQ1MjcsLTE1
+NjYwMTcyODAsLTE5Mjc1OTIxMiwtMTIyOTE1MDA3NiwtNzUzMj
+ExNjg3LC0xMjMzMjE2MzEsMTgwMjc0Nzg4OSwtNDMyODM5MTky
+LC03OTA4NzkzOThdfQ==
 -->
