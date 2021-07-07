@@ -274,6 +274,8 @@ Keterangan:
 
 "Wahai Tuhan kami, berilah keputusan di antara kami dan kaum kami dengan benar, dan Engkau adalah sebaik-baik Pemberi Keputusan.” ([QS Al-A'roof [7]:90](https://openquran.com/7:90)) 
 
+Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Syuaib (as) ketika penentangan kaumnya telah memuncak. 
+
 ### 22. Doa Bersyukur atas Petunjuk dari Allah 
 
 <p class="quran">
@@ -988,11 +990,11 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxNjU2NDI5MCwxNTAxMTIxODYyLC0xNT
-MzOTg5OTk0LC04MjA4MDQ1OTUsLTE0MDc1MjkzMzAsLTI5NDI0
-MjUwMywtMTE4Nzc0MjExMSwtNDgxOTEzNzUwLDQ4MTE3MzE2OC
-wxNzY4MjYxODg3LDEwNzkzMDQxMjksLTEzODAxOTQ2MDAsMTI3
-OTIzNDUyNywtMTU2NjAxNzI4MCwtMTkyNzU5MjEyLC0xMjI5MT
-UwMDc2LC03NTMyMTE2ODcsLTEyMzMyMTYzMSwxODAyNzQ3ODg5
-LC00MzI4MzkxOTJdfQ==
+eyJoaXN0b3J5IjpbMzUyMzAzNzc4LDE1MDExMjE4NjIsLTE1Mz
+M5ODk5OTQsLTgyMDgwNDU5NSwtMTQwNzUyOTMzMCwtMjk0MjQy
+NTAzLC0xMTg3NzQyMTExLC00ODE5MTM3NTAsNDgxMTczMTY4LD
+E3NjgyNjE4ODcsMTA3OTMwNDEyOSwtMTM4MDE5NDYwMCwxMjc5
+MjM0NTI3LC0xNTY2MDE3MjgwLC0xOTI3NTkyMTIsLTEyMjkxNT
+AwNzYsLTc1MzIxMTY4NywtMTIzMzIxNjMxLDE4MDI3NDc4ODks
+LTQzMjgzOTE5Ml19
 -->
