@@ -285,7 +285,7 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Musa (as)
 ### 29. Tawakkal dan Menyerah kepada Allah 
 
 <p class="quran">
-
+حَسۡبِیَ اللّٰہُ لَاۤ اِلٰہَ اِلَّا ہُوَ ۖ عَلَیۡہِ تَوَکَّلۡتُ ۖ وَہُوَ رَبُّ الۡعَرۡشِ الۡعَظِیۡمِ
 </p>
 
 (9:129)
@@ -957,10 +957,10 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjAwNDE0MjU0LC0xMjI5MTUwMDc2LC03NT
-MyMTE2ODcsLTEyMzMyMTYzMSwxODAyNzQ3ODg5LC00MzI4Mzkx
-OTIsLTc5MDg3OTM5OCw2NTY1MTg0OTUsLTE0MDY1MzU5NDIsLT
-k0MTY1MzE3OCwtMjA5NjA3OTM4MCwtMTk2OTk5MzE3NCw3NDM3
-NjM4MDAsLTE2MjcwMzc1NzAsMzE0OTg0MTYsNjQwMjUxOTQ1LC
-02MjAwOTk0NzYsMjA4NDA1ODQ4Nl19
+eyJoaXN0b3J5IjpbMTk3MTUxMjM5MywtMTIyOTE1MDA3NiwtNz
+UzMjExNjg3LC0xMjMzMjE2MzEsMTgwMjc0Nzg4OSwtNDMyODM5
+MTkyLC03OTA4NzkzOTgsNjU2NTE4NDk1LC0xNDA2NTM1OTQyLC
+05NDE2NTMxNzgsLTIwOTYwNzkzODAsLTE5Njk5OTMxNzQsNzQz
+NzYzODAwLC0xNjI3MDM3NTcwLDMxNDk4NDE2LDY0MDI1MTk0NS
+wtNjIwMDk5NDc2LDIwODQwNTg0ODZdfQ==
 -->
