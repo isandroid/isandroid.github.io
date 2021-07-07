@@ -326,7 +326,10 @@ Keterangan: Doa ini dipanjatkan oleh Kaum Bani Israil yang bertaubat dari menyem
 
 ([QS Al-A'roof [7]:152](https://openquran.com/7:152))
 
-Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Musa (as)
+Keterangan: 
+
+- Ini adalah doa yang dipanjatkan oleh Nabi Musa (as).
+- Ketika nabi Musa (as) kembali dari kepada kaumnya yang telah menyembah sapi
 
 ### 27. Doa Memohon Ampun dan Meminta Rahmat 
 
@@ -1000,7 +1003,7 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgwNTY2NjU4MSwxNTAxMTIxODYyLC0xNT
+eyJoaXN0b3J5IjpbLTI0MzMyMDQ3MCwxNTAxMTIxODYyLC0xNT
 MzOTg5OTk0LC04MjA4MDQ1OTUsLTE0MDc1MjkzMzAsLTI5NDI0
 MjUwMywtMTE4Nzc0MjExMSwtNDgxOTEzNzUwLDQ4MTE3MzE2OC
 wxNzY4MjYxODg3LDEwNzkzMDQxMjksLTEzODAxOTQ2MDAsMTI3
