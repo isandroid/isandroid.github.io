@@ -120,7 +120,7 @@ Kami mohon ampunan Engkau wahai Tuhan kami, dan kepada Engkau-lah *kami* kembali
 رَبَّنَا لَا تُؤَاخِذۡنَاۤ اِنۡ نَّسِیۡنَاۤ اَوۡ اَخۡطَاۡنَا ۚ رَبَّنَا وَلَا تَحۡمِلۡ عَلَیۡنَاۤ اِصۡرًا کَمَا حَمَلۡتَہٗ عَلَی الَّذِیۡنَ مِنۡ قَبۡلِنَا ۚ رَبَّنَا وَلَا تُحَمِّلۡنَا مَا لَا طَاقَۃَ لَنَا بِہٖ ۖ وَاعۡفُ عَنَّا وَاغۡفِرۡ لَنَا وَارۡحَمۡنَاۤ ۚ اَنۡتَ مَوۡلٰٮنَا فَانۡصُرۡنَا عَلَی الۡقَوۡمِ الۡکٰفِرِیۡنَ
 </p>
 
-“Wahai Tuhan kami, janganlah Engkau menghukum kami jika kami lupa atau kami salah. Wahai Tuhan kami, janganlah Engkau membebani kami tanggung jawab seperti telah Engkau bebankan atas orang-orang sebelum kami. Wahai Tuhan kami, janganlah Engkau membebani kami dengan apa yang kami tidak kuat menanggungnya, maafkanlah kami, ampunilah kami, dan kasihilah kami karena Engkaulah Pelindung kami, maka tolonglah kami terhadap kaum kafir.” ([QS Al-Baqarah [2]:287](https://openquran.com/2:287))
+“Wahai Tuhan kami, janganlah Engkau menghukum kami jika kami lupa atau kami salah. Wahai Tuhan kami, janganlah Engkau membebani kami tanggung jawab seperti telah Engkau bebankan atas orang-orang sebelum kami. Wahai Tuhan kami, janganlah Engkau membebani kami dengan apa yang kami tidak kuat menanggungnya, maafkanlah kami, ampunilah kami, dan kasihilah kami *karena* Engkaulah Pelindung kami, maka tolonglah kami terhadap kaum kafir.” ([QS Al-Baqarah [2]:287](https://openquran.com/2:287))
 
 ### 8. Doa untuk Ketetapan Iman dan agar Hati Tidak Menyimpang
 
@@ -968,11 +968,11 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3NDM5MjYzLC0xNDA3NTI5MzMwLC0yOT
-QyNDI1MDMsLTExODc3NDIxMTEsLTQ4MTkxMzc1MCw0ODExNzMx
-NjgsMTc2ODI2MTg4NywxMDc5MzA0MTI5LC0xMzgwMTk0NjAwLD
-EyNzkyMzQ1MjcsLTE1NjYwMTcyODAsLTE5Mjc1OTIxMiwtMTIy
-OTE1MDA3NiwtNzUzMjExNjg3LC0xMjMzMjE2MzEsMTgwMjc0Nz
-g4OSwtNDMyODM5MTkyLC03OTA4NzkzOTgsNjU2NTE4NDk1LC0x
-NDA2NTM1OTQyXX0=
+eyJoaXN0b3J5IjpbLTI1MTQ3MTA2NSwtMTQwNzUyOTMzMCwtMj
+k0MjQyNTAzLC0xMTg3NzQyMTExLC00ODE5MTM3NTAsNDgxMTcz
+MTY4LDE3NjgyNjE4ODcsMTA3OTMwNDEyOSwtMTM4MDE5NDYwMC
+wxMjc5MjM0NTI3LC0xNTY2MDE3MjgwLC0xOTI3NTkyMTIsLTEy
+MjkxNTAwNzYsLTc1MzIxMTY4NywtMTIzMzIxNjMxLDE4MDI3ND
+c4ODksLTQzMjgzOTE5MiwtNzkwODc5Mzk4LDY1NjUxODQ5NSwt
+MTQwNjUzNTk0Ml19
 -->
