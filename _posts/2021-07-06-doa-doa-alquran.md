@@ -784,35 +784,181 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 
 ### 76. Doa Memohon Kesempurnaan Karunia Tuhan 
 
+<p class="quran">
+
+</p>
+
 (66:9)
 
 ### 77. Doa Memohon Qurub Ilahi dan Memohon Dipelihara dari Kaum yang Zalim
+
+<p class="quran">
+
+</p>
 
 (66:12)
  
 ### 78. Mengaku Kesalahan Diri
 
+<p class="quran">
+
+</p>
+
 (68:30)
 
 ### 79. Doa Nabi Nuh (as)
+
+<p class="quran">
+
+</p>
+
+<p class="quran">
+
+</p>
+
+<p class="quran">
+
+</p>
+
+<p class="quran">
+
+</p>
+
+<p class="quran">
+
+</p>
+
+<p class="quran">
+
+</p>
+
+<p class="quran">
+
+</p>
+
+<p class="quran">
+
+</p>
+
+<p class="quran">
+
+</p>
+
+<p class="quran">
+
+</p>
+
+<p class="quran">
+
+</p>
+
+<p class="quran">
+
+</p>
+
+<p class="quran">
+
+</p>
+
+<p class="quran">
+
+</p>
+
+<p class="quran">
+
+</p>
+
+<p class="quran">
+
+</p>
+
+<p class="quran">
+
+</p>
+
+<p class="quran">
+
+</p>
+
+<p class="quran">
+
+</p>
+
+<p class="quran">
+
+</p>
+
+<p class="quran">
+
+</p>
+
+<p class="quran">
+
+</p>
+
+<p class="quran">
+
+</p>
+
+<p class="quran">
+
+</p>
 
 (71:6- 29)
 
 ### 80. Doa Memohon Perlindungan
 
+<p class="quran">
+
+</p>
+
+<p class="quran">
+
+</p>
+
+<p class="quran">
+
+</p>
+
+<p class="quran">
+
+</p>
+
 (113:2-5)
 
 ### 81. Doa Memohon Perlindungan yang Menyeluruh
 
-(114:2-7)https://openquran.com/2:127))
+<p class="quran">
 
-### 
+</p>
+
+<p class="quran">
+
+</p>
+
+<p class="quran">
+
+</p>
+
+<p class="quran">
+
+</p>
+
+<p class="quran">
+
+</p>
+
+<p class="quran">
+
+</p>
+
+(114:2-7)https://openquran.com/2:127))
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMjk0MDgyNjEsLTE0MDY1MzU5NDIsLT
-k0MTY1MzE3OCwtMjA5NjA3OTM4MCwtMTk2OTk5MzE3NCw3NDM3
-NjM4MDAsLTE2MjcwMzc1NzAsMzE0OTg0MTYsNjQwMjUxOTQ1LC
-02MjAwOTk0NzYsMjA4NDA1ODQ4Nl19
+eyJoaXN0b3J5IjpbNjU2NTE4NDk1LC0xNDA2NTM1OTQyLC05ND
+E2NTMxNzgsLTIwOTYwNzkzODAsLTE5Njk5OTMxNzQsNzQzNzYz
+ODAwLC0xNjI3MDM3NTcwLDMxNDk4NDE2LDY0MDI1MTk0NSwtNj
+IwMDk5NDc2LDIwODQwNTg0ODZdfQ==
 -->
