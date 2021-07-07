@@ -747,7 +747,7 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 ### 71. Doa Naik Kendaraan
 
 <p class="quran">
-
+سُبۡحٰنَ الَّذِیۡ سَخَّرَ لَنَا ہٰذَا وَمَا کُنَّا لَہٗ مُقۡرِنِیۡنَ
 </p>
 
 ([QS Az-Zukhruf [43]:14](https://openquran.com/43:14))
@@ -755,10 +755,10 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 ### 72. Doa Bersyukur atas Nikmat Tuhan
 
 <p class="quran">
-
+ رَبِّ اَوۡزِعۡنِیۡۤ اَنۡ اَشۡکُرَ نِعۡمَتَکَ الَّتِیۡۤ اَنۡعَمۡتَ عَلَیَّ وَعَلٰی وٰلِدَیَّ وَاَنۡ اَعۡمَلَ صٰلِحًا تَرۡضٰٮہُ وَاَصۡلِحۡ لِیۡ فِیۡ ذُرِّیَّتِیۡۤ ۖ اِنِّیۡ تُبۡتُ اِلَیۡکَ وَاِنِّیۡ مِنَ الۡمُسۡلِمِیۡنَ
 </p>
 
-(46:16)
+([QS Al-Ahqoof [46]:16](https://openquran.com/46:16))
 
 ### 73. Doa Memohon Pertolongan
 
@@ -963,11 +963,11 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NzU4OTQzMTEsLTQ4MTkxMzc1MCw0OD
-ExNzMxNjgsMTc2ODI2MTg4NywxMDc5MzA0MTI5LC0xMzgwMTk0
-NjAwLDEyNzkyMzQ1MjcsLTE1NjYwMTcyODAsLTE5Mjc1OTIxMi
-wtMTIyOTE1MDA3NiwtNzUzMjExNjg3LC0xMjMzMjE2MzEsMTgw
-Mjc0Nzg4OSwtNDMyODM5MTkyLC03OTA4NzkzOTgsNjU2NTE4ND
-k1LC0xNDA2NTM1OTQyLC05NDE2NTMxNzgsLTIwOTYwNzkzODAs
-LTE5Njk5OTMxNzRdfQ==
+eyJoaXN0b3J5IjpbMTM5NzI3MzA5OCwtNDgxOTEzNzUwLDQ4MT
+E3MzE2OCwxNzY4MjYxODg3LDEwNzkzMDQxMjksLTEzODAxOTQ2
+MDAsMTI3OTIzNDUyNywtMTU2NjAxNzI4MCwtMTkyNzU5MjEyLC
+0xMjI5MTUwMDc2LC03NTMyMTE2ODcsLTEyMzMyMTYzMSwxODAy
+NzQ3ODg5LC00MzI4MzkxOTIsLTc5MDg3OTM5OCw2NTY1MTg0OT
+UsLTE0MDY1MzU5NDIsLTk0MTY1MzE3OCwtMjA5NjA3OTM4MCwt
+MTk2OTk5MzE3NF19
 -->
