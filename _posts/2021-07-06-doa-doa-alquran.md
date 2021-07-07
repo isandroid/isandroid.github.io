@@ -293,14 +293,14 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Musa (as)
 ### 30. Doa Memohon Dijauhkan dari Kejahatan Musuh 
 
 <p class="quran">
-
+رَبَّنَا لَا تَجۡعَلۡنَا فِتۡنَۃً لِّلۡقَوۡمِ الظّٰلِمِیۡنَ
 </p>
 
 <p class="quran">
 
 </p>
 
-(10:86,87)
+(QS Yunus [10]:86](https://openquran.com/10:86)-[87](https://openquran.com/10:87))
 
 ### 31. Doa untuk Kebinasaan Orang yang Zalim
 
@@ -957,10 +957,10 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5Mjc1OTIxMiwtMTIyOTE1MDA3NiwtNz
-UzMjExNjg3LC0xMjMzMjE2MzEsMTgwMjc0Nzg4OSwtNDMyODM5
-MTkyLC03OTA4NzkzOTgsNjU2NTE4NDk1LC0xNDA2NTM1OTQyLC
-05NDE2NTMxNzgsLTIwOTYwNzkzODAsLTE5Njk5OTMxNzQsNzQz
-NzYzODAwLC0xNjI3MDM3NTcwLDMxNDk4NDE2LDY0MDI1MTk0NS
-wtNjIwMDk5NDc2LDIwODQwNTg0ODZdfQ==
+eyJoaXN0b3J5IjpbLTYxMjMxNzUyNywtMTkyNzU5MjEyLC0xMj
+I5MTUwMDc2LC03NTMyMTE2ODcsLTEyMzMyMTYzMSwxODAyNzQ3
+ODg5LC00MzI4MzkxOTIsLTc5MDg3OTM5OCw2NTY1MTg0OTUsLT
+E0MDY1MzU5NDIsLTk0MTY1MzE3OCwtMjA5NjA3OTM4MCwtMTk2
+OTk5MzE3NCw3NDM3NjM4MDAsLTE2MjcwMzc1NzAsMzE0OTg0MT
+YsNjQwMjUxOTQ1LC02MjAwOTk0NzYsMjA4NDA1ODQ4Nl19
 -->
