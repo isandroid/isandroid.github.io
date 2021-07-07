@@ -269,10 +269,10 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Musa (as)
 ### 27. Doa Memohon Ampun dan Meminta Rahmat 
 
 <p class="quran">
-
+ اَنۡتَ وَلِیُّنَا فَاغۡفِرۡ لَنَا وَارۡحَمۡنَا ۖ وَاَنۡتَ خَیۡرُ الۡغٰفِرِیۡنَ
 </p>
 
-(7:156)
+([QS Al-A'roof [7]:156](https://openquran.com/7:156))
 
 ### 28. Doa Memohon Kebaikan Dunia dan Akhirat 
 
@@ -957,7 +957,7 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzI0MzM1NTYsLTEyMjkxNTAwNzYsLT
+eyJoaXN0b3J5IjpbLTExMDM4ODU2MTUsLTEyMjkxNTAwNzYsLT
 c1MzIxMTY4NywtMTIzMzIxNjMxLDE4MDI3NDc4ODksLTQzMjgz
 OTE5MiwtNzkwODc5Mzk4LDY1NjUxODQ5NSwtMTQwNjUzNTk0Mi
 wtOTQxNjUzMTc4LC0yMDk2MDc5MzgwLC0xOTY5OTkzMTc0LDc0
