@@ -196,20 +196,17 @@ published: true
 
 ### 76. Doa Memohon Kesempurnaan Karunia Tuhan 
 
-### 77. Doa Memohon Qurub Ilahi dan memin-ta dipelihara dari kaum yang zalim
+### 77. Doa Memohon Qurub Ilahi dan Memohon Dipelihara dari Kaum yang Zalim
 
-78. Mengaku kesalahan diri
+### 78. Mengaku Kesalahan Diri
 
-79. Doa nabi nuh a. S.
+### 79. Doa Nabi Nuh (as)
 
-80. Doa meminta perlindungan
+### 80. Doa Memohon Perlindungan
 
-81. Doa perlindungan yang menyeluruh
-
-
-
+### 81. Doa Memohon Perlindungan yang Menyeluruh
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzUxMTMzMzMsMzE0OTg0MTYsNjQwMj
+eyJoaXN0b3J5IjpbLTE2MjcwMzc1NzAsMzE0OTg0MTYsNjQwMj
 UxOTQ1LC02MjAwOTk0NzYsMjA4NDA1ODQ4NiwxMzE1NTIyOTcw
 XX0=
 -->
