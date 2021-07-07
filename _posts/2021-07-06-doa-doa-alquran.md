@@ -43,10 +43,9 @@ published: true
 ### 2. Doa Memohon Keamanan dan Rejeki
 
 <p class="quran">
-مۡتَ عَلَیرَبِّ اجۡعَلۡ ہٰذَا بَلَدًا اٰمِنًا وَّارۡزُقۡ اَہۡلَہٗ مِنَ الثَّمَرٰتِ مَنۡ اٰمَنَ مِنۡہُِمۡ غَیۡرِ الۡمَغۡضُوۡبِ عبِاللّٰہِ وَالۡیَوۡمِ الۡاٰخِرِ ۖ قَالَ وَمَنۡ کَفَرَ فَاُمَتِّعُہٗ قَلَِیۡہِمۡ وَلَالًا ثُمَّ اَضۡطَرُّہٗۤ اِلٰی عَذَابِ الضنَّآلّرِ ۖ وَبِئۡسَ الۡمَصِیۡنَرُ
-</p>
+رَبِّ اجۡعَلۡ ہٰذَا بَلَدًا اٰمِنًا وَّارۡزُقۡ اَہۡلَہٗ مِنَ الثَّمَرٰتِ مَنۡ اٰمَنَ مِنۡہُمۡ بِاللّٰہِ وَالۡیَوۡمِ الۡاٰخِرِ ۖ قَالَ وَمَنۡ کَفَرَ فَاُمَتِّعُہٗ قَلِیۡلًا ثُمَّ اَضۡطَرُّہٗۤ اِلٰی عَذَابِ النَّارِ ۖ وَبِئۡسَ الۡمَصِیۡرُ</p>
 
-([QS Al-Baqarah [2]:127](https://openquran.com/2:))
+([QS Al-Baqarah [2]:127](https://openquran.com/2:127))
 
 Keterangan: Doa diatas adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)	
 
@@ -964,11 +963,11 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NjQ5NTQ4NzgsNDgxMTczMTY4LDE3Nj
-gyNjE4ODcsMTA3OTMwNDEyOSwtMTM4MDE5NDYwMCwxMjc5MjM0
-NTI3LC0xNTY2MDE3MjgwLC0xOTI3NTkyMTIsLTEyMjkxNTAwNz
-YsLTc1MzIxMTY4NywtMTIzMzIxNjMxLDE4MDI3NDc4ODksLTQz
-MjgzOTE5MiwtNzkwODc5Mzk4LDY1NjUxODQ5NSwtMTQwNjUzNT
-k0MiwtOTQxNjUzMTc4LC0yMDk2MDc5MzgwLC0xOTY5OTkzMTc0
-LDc0Mzc2MzgwMF19
+eyJoaXN0b3J5IjpbLTQ4MTkxMzc1MCw0ODExNzMxNjgsMTc2OD
+I2MTg4NywxMDc5MzA0MTI5LC0xMzgwMTk0NjAwLDEyNzkyMzQ1
+MjcsLTE1NjYwMTcyODAsLTE5Mjc1OTIxMiwtMTIyOTE1MDA3Ni
+wtNzUzMjExNjg3LC0xMjMzMjE2MzEsMTgwMjc0Nzg4OSwtNDMy
+ODM5MTkyLC03OTA4NzkzOTgsNjU2NTE4NDk1LC0xNDA2NTM1OT
+QyLC05NDE2NTMxNzgsLTIwOTYwNzkzODAsLTE5Njk5OTMxNzQs
+NzQzNzYzODAwXX0=
 -->
