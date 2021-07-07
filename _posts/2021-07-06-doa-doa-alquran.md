@@ -250,7 +250,7 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Isa (as) ketika kaumnya in
 
 ”Wahai Tuhan kami, kami telah beriman, maka catatlah kami diantara orang-orang yang menjadi saksi." (QS Al-Maaidah [5]:[84](https://openquran.com/5:84)-[85](https://openquran.com/5:85))
 
-Keterangan: Ayat itu telah dikenakan pula teristimewa kepada Najasyi. Ketika Ja’far r.a., saudara misan Rasulullah Saw dan juru bicara untuk para pengungsi kaum Muslimin di Abesinia membacakan padanya ayat-ayat permulaan surah Maryam, nampak sekali hati Najasyi tergerak; dan air mata menetes di pipinya. Ia berkata dengan suara lirih penuh haru; seperti itulah kepercayaannya tentang Nabi Isa As. dan ia menganggap beliau sedikit pun
+Keterangan: Ayat itu telah dikenakan pula teristimewa kepada Raja Najasyi. Ketika Ja’far (ra), saudara misan Rasulullah (saw) dan juru bicara untuk para pengungsi kaum Muslimin di Abesinia membacakan padanya ayat-ayat permulaan surah Maryam, nampak sekali hati Raja Najasyi tergerak; dan air mata menetes di pipinya. Ia berkata dengan suara lirih penuh haru; seperti itulah kepercayaannya tentang Nabi Isa (as) dan ia menganggap beliau sedikit pun tidak lebih dari itu.
 
 ### 20. Doa Memohon Ampun
 
@@ -984,7 +984,7 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzEwODM4MDA2LDE1MDExMjE4NjIsLTE1Mz
+eyJoaXN0b3J5IjpbODAzMjUwNTEyLDE1MDExMjE4NjIsLTE1Mz
 M5ODk5OTQsLTgyMDgwNDU5NSwtMTQwNzUyOTMzMCwtMjk0MjQy
 NTAzLC0xMTg3NzQyMTExLC00ODE5MTM3NTAsNDgxMTczMTY4LD
 E3NjgyNjE4ODcsMTA3OTMwNDEyOSwtMTM4MDE5NDYwMCwxMjc5
