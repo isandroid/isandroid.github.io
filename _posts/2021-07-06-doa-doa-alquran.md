@@ -365,14 +365,14 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Musa (as)
 </p>
 
 <p class="quran">
-
+رَبِّ اجۡعَلۡنِیۡ مُقِیۡمَ الصَّلٰوۃِ وَمِنۡ ذُرِّیَّتِیۡ ۚ رَبَّنَا وَتَقَبَّلۡ دُعَآءِ
 </p>
 
 <p class="quran">
-
+رَبَّنَا اغۡفِرۡ لِیۡ وَلِوٰلِدَیَّ وَلِلۡمُؤۡمِنِیۡنَ یَوۡمَ یَقُوۡمُ الۡحِسَابُ
 </p>
 
-(14:36-42)
+(QS Ibrahim [14]: [36](https://openquran.com/14:36), 37, 38, 39, 40, 41, 42)
 
 Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 
@@ -959,7 +959,7 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTcxMTY4OTgsMTI3OTIzNDUyNywtMT
+eyJoaXN0b3J5IjpbLTIxMDI3OTIwNzAsMTI3OTIzNDUyNywtMT
 U2NjAxNzI4MCwtMTkyNzU5MjEyLC0xMjI5MTUwMDc2LC03NTMy
 MTE2ODcsLTEyMzMyMTYzMSwxODAyNzQ3ODg5LC00MzI4MzkxOT
 IsLTc5MDg3OTM5OCw2NTY1MTg0OTUsLTE0MDY1MzU5NDIsLTk0
