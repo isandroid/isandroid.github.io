@@ -138,13 +138,19 @@ published: true
 
 ### 47. Doa Memohon Pertolongan dari Serangan Pihak yang Anti
 
-### 48. Doa Memohon Disampaikan ke Tempat yang berkah
+### 48. Doa Memohon Disampaikan ke Tempat yang Berkah
 
-49. Doa meminta dipelihara dari azab
+### 49. Doa Memohon Dipelihara dari Azab
 
-50. Doa meminta dijauhkan dari was-was syaitan 51. Doa meminta ampun dan kasih sayang Tu-han 52. Doa meminta ampun
+### 50. Doa Memohon Dijauhkan dari Was-was Setan 
 
-53. Doa meminta dipelihara dari api neraka 54. Doa supaya anak cucu kita menjadi orang yang shaleh
+### 51. Doa Memohon Ampun dan Kasih Sayang Tuhan 
+
+### 52. Doa Memohon Ampun
+
+### 53. Doa Memohon Dipelihara dari Api Neraka 
+
+### 54. Doa Supaya Anak-Cucu Kita Menjadi Keturunan yang shaleh
 
 55. Doa meminta dimasukkan ke dalam golongan orang yang saleh dan doa untuk ibu bapak 56. Doa meminta kemenangan dan keputusan 57. Doa meminta dipelihara dari tangan musuh 58. Doa meminta taufik bersyukur
 
@@ -189,7 +195,7 @@ published: true
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjM4NjM2NDU0LDMxNDk4NDE2LDY0MDI1MT
-k0NSwtNjIwMDk5NDc2LDIwODQwNTg0ODYsMTMxNTUyMjk3MF19
-
+eyJoaXN0b3J5IjpbLTEwMzkzMTgyNDIsMzE0OTg0MTYsNjQwMj
+UxOTQ1LC02MjAwOTk0NzYsMjA4NDA1ODQ4NiwxMzE1NTIyOTcw
+XX0=
 -->
