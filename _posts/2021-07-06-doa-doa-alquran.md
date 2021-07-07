@@ -52,21 +52,35 @@ Doa diatas adalah Doa Nabi Ibrahim (as)
 
 ### 3. Doa Agar Kita dan Anak-anak Kita Menjadi Orang yang Benar-benar Taat kepada Allah Ta’ala
 
-
+ (2:128, 129)
 
 ### 4. Doa Memohon Kebaikan untuk Dunia dan akhirat 
 
+(2:202)
+
 ### 5. Doa Memohon Kesabaran, Ketetapan Iman, Kekuatan Menahan Rasa Sakit dan Bahaya dari Orang-orang Kafir
+
+(2:251)
 
 ### 6. Doa Memohon Ampun
 
+(2:286)
+
 ### 7. Doa Memohon agar Dipelihara dari Siksaan Allah, Memohon Ampun dan Pertolongan 
+
+(2:287)
 
 ### 8. Doa untuk Ketetapan Iman dan agar Hati Tidak Menyimpang
 
+(3:9)
+
 ### 9. Ikrar kepada Hari Kiamat
 
+(3:10)
+
 ### 10. Ikrar Iman dan Memohon Ampun dan Pemeliharaan dari Siksa Api Neraka
+
+
 
 ### 11. Memuji Kebesaran Tuhan dan Doa untuk Mencapai Kemajuan
 
@@ -210,7 +224,7 @@ Doa diatas adalah Doa Nabi Ibrahim (as)
 
 ### 81. Doa Memohon Perlindungan yang Menyeluruh
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0NjA0NTY2MCw3NDM3NjM4MDAsLTE2Mj
-cwMzc1NzAsMzE0OTg0MTYsNjQwMjUxOTQ1LC02MjAwOTk0NzYs
-MjA4NDA1ODQ4NiwxMzE1NTIyOTcwXX0=
+eyJoaXN0b3J5IjpbLTE4NTA4MTg4MjEsNzQzNzYzODAwLC0xNj
+I3MDM3NTcwLDMxNDk4NDE2LDY0MDI1MTk0NSwtNjIwMDk5NDc2
+LDIwODQwNTg0ODYsMTMxNTUyMjk3MF19
 -->
