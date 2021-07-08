@@ -348,13 +348,7 @@ Wahai Tuhan kami, janganlah Engkau bengkokkan hati kami setelah Engkau memberi k
 رَبِّ اِنِّیۡۤ اَعُوۡذُ بِکَ اَنۡ اَسۡـَٔلَکَ مَا لَیۡسَ لِیۡ بِہٖ عِلۡمٌ ۖ وَّاِلَّا تَغۡفِرۡ لِیۡ وَتَرۡحَمۡنِیۡۤ اَکُنۡ مِّنَ الۡخٰسِرِیۡنَ
 </p>
 
-“Ya Tuhanku, sesungguhnya aku berlindung kepada Engkau dari memohon kepada Engkau sesuatu yang aku tidak mengetahuinya. Dan a sekiranya Engkau tidak mengampuniku dan tidak mengasihiku, niscaya aku akan termasuk orang-orang yang merugi.”([QS Hud [11]:48](https://openquran.com/11:48))
-
-Keterangan: 
-
-- Doa tersebut dilatarbelakangi oleh Nabi Nuh (as) yang ingin menyelamatkan putranya yang jelas-jelas menentang dan ingkar kepada Allah Ta'ala. 
-- Allah Ta'ala berfirman, “Hai Nuh! sesungguhnya ia bukanlah dari keluarga engkau; sebenarnya ia *orang* yang amalnya tidak baik. Maka janganlah meminta kepada-Ku sesuatu yang engkau tidak mengetahuinya. Sesungguhnya Aku nasihati engkau, supaya engkau tidak termasuk orang-orang yang bodoh.”
-- Setelah turun teguran itu dari ALlah Ta'ala, maka Nabi Nuh (as) segera memanjatkan doa tersebut kepada Allah Ta'ala.
+“Ya Tuhanku, sesungguhnya aku berlindung kepada Engkau dari memohon kepada Engkau sesuatu yang aku tidak mengetahuinya. Dan a sekiranya Engkau tidak mengampuniku dan tidak mengasihiku, niscaya aku akan termasuk orang-orang yang merugi.”([QS Hud [11]:48](https://openquran.com/11:48)) [[^011_048_keterangan]]
 
 ### 34. Bersyukur atas Karunia Ilmu dan Kerajaan 
 
@@ -1065,13 +1059,21 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 
 [^010_089_keterangan]: Doa ini diucapkan oleh Nabi Musa (as) agar beliau bisa menyelamatkan kaum Bani Israil (as) yang tertindas oleh Raja Firaun di Mesir.
 
+[^011_042_keterangan]: Doa ini diucapkan oleh Nabi Nuh (as) ketika bahteranya hendak berlayar menyelamatkan orang-orang yang beriman kepada Allah Ta'ala.
+
+[^011_048_keterangan]: Doa tersebut dilatarbelakangi oleh Nabi Nuh (as) yang ingin menyelamatkan putranya yang jelas-jelas menentang dan ingkar kepada Allah Ta'ala. 
+
+	Allah Ta'ala berfirman, “Hai Nuh! sesungguhnya ia bukanlah dari keluarga engkau; sebenarnya ia *orang* yang amalnya tidak baik. Maka janganlah meminta kepada-Ku sesuatu yang engkau tidak mengetahuinya. Sesungguhnya Aku nasihati engkau, supaya engkau tidak termasuk orang-orang yang bodoh.”
+
+	Setelah turun teguran itu dari ALlah Ta'ala, maka Nabi Nuh (as) segera memanjatkan doa tersebut kepada Allah Ta'ala.
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODAwMjU5MzEsLTExMjc4NTcwODUsLT
-EyNjQwODI3MywxNDYzNTUwNTg4LC0yMDE3ODYwMDc3LDEwNzEx
-ODQyNywtNDQ3MjcxOTYxLC0xMTI1NDg4ODUwLDIyMDQwMzA3OC
-wtNjEzNjE4MTE2LC0xOTc3MTY1NDA5LDE3NDU4OTc5MTcsMTY2
-MzM4ODYwMywzNDIxOTc2MzMsMjAyNzY3MDYwMywtMTA0NTk1Mj
-c0NywxNzQ0MTUxOTY2LDE1MDExMjE4NjIsLTE1MzM5ODk5OTQs
-LTgyMDgwNDU5NV19
+eyJoaXN0b3J5IjpbNjE0NjE5MTk2LC0xMTI3ODU3MDg1LC0xMj
+Y0MDgyNzMsMTQ2MzU1MDU4OCwtMjAxNzg2MDA3NywxMDcxMTg0
+MjcsLTQ0NzI3MTk2MSwtMTEyNTQ4ODg1MCwyMjA0MDMwNzgsLT
+YxMzYxODExNiwtMTk3NzE2NTQwOSwxNzQ1ODk3OTE3LDE2NjMz
+ODg2MDMsMzQyMTk3NjMzLDIwMjc2NzA2MDMsLTEwNDU5NTI3ND
+csMTc0NDE1MTk2NiwxNTAxMTIxODYyLC0xNTMzOTg5OTk0LC04
+MjA4MDQ1OTVdfQ==
 -->
