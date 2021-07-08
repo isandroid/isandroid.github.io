@@ -447,7 +447,7 @@ Keterangan:
 
 <p class="quran">
 رَبِّ اجۡعَلۡ ہٰذَا الۡبَلَدَ اٰمِنًا وَّاجۡنُبۡنِیۡ وَبَنِیَّ اَنۡ نَّعۡبُدَ الۡاَصۡنَامَ
-</p>
+</p> [[^014_036]]
 
 <p class="quran">
 رَبِّ اِنَّہُنَّ اَضۡلَلۡنَ کَثِیۡرًا مِّنَ النَّاسِ ۖ فَمَنۡ تَبِعَنِیۡ فَاِنَّہٗ مِنِّیۡ ۖ وَمَنۡ عَصَانِیۡ فَاِنَّکَ غَفُوۡرٌ رَّحِیۡمٌ
@@ -493,7 +493,7 @@ Keterangan:
 
 - Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 
-- Doa Nabi Ibrahim (as), yang disinggung dalam ayat ini menunjukkan, bahwa beliau tahu, bahwa kemusyrikan pada suatu hari akan merajalela di Mekah dan di negeri sekitarnya. Jadi doa itu merupakan cetusan hasrat beliau untuk memelihara keturunan beliau dari kemusyrikan; dan doa itu dipanjatkan beratus-ratus tahun yang silam.
+[^014_036]: Doa Nabi Ibrahim (as), yang disinggung dalam ayat ini menunjukkan, bahwa beliau tahu, bahwa kemusyrikan pada suatu hari akan merajalela di Mekah dan di negeri sekitarnya. Jadi doa itu merupakan cetusan hasrat beliau untuk memelihara keturunan beliau dari kemusyrikan; dan doa itu dipanjatkan beratus-ratus tahun yang silam.
 
 - Doa Nabi Ibrahim (as) ini telah memperoleh perwujudan yang sempurna dalam diri Rasulullah Saw, sebab sebelum beliau hanya orang-orang Arab-lah yang berkunjung ke Mekah untuk mempersembahkan kurban-kurban mereka, tetapi sesudah kedatangan beliau, bangsa-bangsa dari seluruh dunia mulai berkunjung ke kota itu.
 
@@ -1058,14 +1058,16 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 
 ([QS An-Naas [114]](https://openquran.com/114))
 
+### Catatan Kaki
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2MzM4ODYwMywzNDIxOTc2MzMsMjAyNz
-Y3MDYwMywtMTA0NTk1Mjc0NywxNzQ0MTUxOTY2LDE1MDExMjE4
-NjIsLTE1MzM5ODk5OTQsLTgyMDgwNDU5NSwtMTQwNzUyOTMzMC
-wtMjk0MjQyNTAzLC0xMTg3NzQyMTExLC00ODE5MTM3NTAsNDgx
-MTczMTY4LDE3NjgyNjE4ODcsMTA3OTMwNDEyOSwtMTM4MDE5ND
-YwMCwxMjc5MjM0NTI3LC0xNTY2MDE3MjgwLC0xOTI3NTkyMTIs
-LTEyMjkxNTAwNzZdfQ==
+eyJoaXN0b3J5IjpbNDE2OTU4NjIxLDE2NjMzODg2MDMsMzQyMT
+k3NjMzLDIwMjc2NzA2MDMsLTEwNDU5NTI3NDcsMTc0NDE1MTk2
+NiwxNTAxMTIxODYyLC0xNTMzOTg5OTk0LC04MjA4MDQ1OTUsLT
+E0MDc1MjkzMzAsLTI5NDI0MjUwMywtMTE4Nzc0MjExMSwtNDgx
+OTEzNzUwLDQ4MTE3MzE2OCwxNzY4MjYxODg3LDEwNzkzMDQxMj
+ksLTEzODAxOTQ2MDAsMTI3OTIzNDUyNywtMTU2NjAxNzI4MCwt
+MTkyNzU5MjEyXX0=
 -->
