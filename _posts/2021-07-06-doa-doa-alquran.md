@@ -278,9 +278,7 @@ Wahai Tuhan kami, janganlah Engkau bengkokkan hati kami setelah Engkau memberi k
 لَئِنۡ لَّمۡ یَرۡحَمۡنَا رَبُّنَا وَیَغۡفِرۡ لَنَا لَنَکُوۡنَنَّ مِنَ الۡخٰسِرِیۡنَ
 </p>
 
-“Seandainya Tuhan kami tidak mengasihani kami dan tidak mengampuni kami, pasti kami akan menjadi di antara orang-orang yang merugi.” ([QS Al-A'roof [7]:150](https://openquran.com/7:150))
-
-Keterangan: Doa ini dipanjatkan oleh Kaum Bani Israil yang bertaubat dari menyembah Sapi. Mereka meremas-remas tangan mereka karena mengakui kesalahan dan kesesatan mereka. 
+“Seandainya Tuhan kami tidak mengasihani kami dan tidak mengampuni kami, pasti kami akan menjadi di antara orang-orang yang merugi.” ([QS Al-A'roof [7]:150](https://openquran.com/7:150)) [[^007_150_keterangan]]
 
 ### 26. Doa Memohon Ampun
 
@@ -288,11 +286,9 @@ Keterangan: Doa ini dipanjatkan oleh Kaum Bani Israil yang bertaubat dari menyem
 رَبِّ اغۡفِرۡ لِیۡ وَلِاَخِیۡ وَاَدۡخِلۡنَا فِیۡ رَحۡمَتِکَ ۖ وَاَنۡتَ اَرۡحَمُ الرّٰحِمِیۡنَ
 </p>
 
-([QS Al-A'roof [7]:152](https://openquran.com/7:152))
+“Wahai Tuhan-ku, ampunilah aku dan saudaraku, dan masukkanlah kami ke dalam rahmat Engkau, dan Engkau Yang Maha Penyayang dari semua yang penyayang.” ([QS Al-A'roof [7]:152](https://openquran.com/7:152))
 
-Keterangan: 
-
-- Nabi Musa (as) kembali dari kepada kaumnya dengan perasaan marah dan sedih karena mereka telah menyembah lembu.
+[^00] Nabi Musa (as) kembali dari kepada kaumnya dengan perasaan marah dan sedih karena mereka telah menyembah lembu.
 - Nabi Musa (as) memarahi Nabi Harun (as) sebagai seorang wakil yang diberikan amanat untuk menjaga Bani Israil. 
 - Nabi Musa (as) mencengkeram kepala Nabi Harun (as), bukan karena Harun (as) telah membiarkan atau menyokong perbuatan pemujaan lembu, melainkan karena Nabi Harun (as) tidak berhasil mencegah kaumnya menyembah lembu. 
 - Nabi Musa (as) menunjukkan kegusaran karena Nabi Harun (as) tidak berhasil mengelola urusan-urusan agama dengan sebaik-baiknya selagi nabi Musa (as) tidak ada di tempat. 
@@ -1076,13 +1072,14 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 
 [^007_044]: Pada hakikatnya, kehidupan surgawi dimulai sejak dari dunia ini juga (QS.55:47) dan seseorang dikatakan sedang menikmati kehidupan surgawi apabila hatinya bebas dari rasa permusuhan, irihati, dendam-kesumat, dan kegelisahan mental. 
 
+[^007_150_keterangan]: Doa ini dipanjatkan oleh Kaum Bani Israil yang bertaubat dari menyembah Sapi. Mereka meremas-remas tangan mereka karena mengakui kesalahan dan kesesatan mereka. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ2MzU1MDU4OCwtMjAxNzg2MDA3NywxMD
-cxMTg0MjcsLTQ0NzI3MTk2MSwtMTEyNTQ4ODg1MCwyMjA0MDMw
-NzgsLTYxMzYxODExNiwtMTk3NzE2NTQwOSwxNzQ1ODk3OTE3LD
-E2NjMzODg2MDMsMzQyMTk3NjMzLDIwMjc2NzA2MDMsLTEwNDU5
-NTI3NDcsMTc0NDE1MTk2NiwxNTAxMTIxODYyLC0xNTMzOTg5OT
-k0LC04MjA4MDQ1OTUsLTE0MDc1MjkzMzAsLTI5NDI0MjUwMywt
-MTE4Nzc0MjExMV19
+eyJoaXN0b3J5IjpbLTY4MzE4OTM0MywxNDYzNTUwNTg4LC0yMD
+E3ODYwMDc3LDEwNzExODQyNywtNDQ3MjcxOTYxLC0xMTI1NDg4
+ODUwLDIyMDQwMzA3OCwtNjEzNjE4MTE2LC0xOTc3MTY1NDA5LD
+E3NDU4OTc5MTcsMTY2MzM4ODYwMywzNDIxOTc2MzMsMjAyNzY3
+MDYwMywtMTA0NTk1Mjc0NywxNzQ0MTUxOTY2LDE1MDExMjE4Nj
+IsLTE1MzM5ODk5OTQsLTgyMDgwNDU5NSwtMTQwNzUyOTMzMCwt
+Mjk0MjQyNTAzXX0=
 -->
