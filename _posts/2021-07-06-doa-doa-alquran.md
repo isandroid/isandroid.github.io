@@ -206,9 +206,7 @@ Wahai Tuhan kami, janganlah Engkau bengkokkan hati kami setelah Engkau memberi k
 رَبِّ اِنِّیۡ لَاۤ اَمۡلِکُ اِلَّا نَفۡسِیۡ وَاَخِیۡ ۖ فَافۡرُقۡ بَیۡنَنَا وَبَیۡنَ الۡقَوۡمِ الۡفٰسِقِیۡنَ
 </p>
 
-“Wahai Tuhanku, sesungguhnya aku tidak berkuasa kecuali terhadap diriku dan saudara laki-lakiku, maka bedakanlah antara kami dengan kaum yang durhaka itu.” ([QS Al-Maaidah [5]:26](https://openquran.com/5:26))
-
-Ini adalah doa yang dipanjatkan oleh Nabi Musa (as) ketika kaumnya, yakni Bani Israil yang tidak mau berperang di jalan Allah Ta'ala.
+“Wahai Tuhanku, sesungguhnya aku tidak berkuasa kecuali terhadap diriku dan saudara laki-lakiku, maka bedakanlah antara kami dengan kaum yang durhaka itu.” ([QS Al-Maaidah [5]:26](https://openquran.com/5:26)) [[^005_026]]
 
 ### 18. Doa Memohon Rejeki
 
@@ -218,7 +216,7 @@ Ini adalah doa yang dipanjatkan oleh Nabi Musa (as) ketika kaumnya, yakni Bani I
 
 “Ya Allah, Tuhan kami, turunkanlah kepada kami hidangan dari langit supaya menjadi suatu Hari Raya bagi kami, bagi orang-orang yang awal dari kami, juga bagi yang datang di belakang kami, dan sebagai tanda kebenaran dari Engkau, berilah kami rezeki, dan Engkau sebaik-baik Pemberi rezeki. ([QS Al-Maidah [5]:115](https://openquran.com/5:115))
 
-Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Isa (as) ketika kaumnya ingin mendapatkan satu tanda dari Nabi Isa (as)
+[^005_115]: Ini adalah doa yang dipanjatkan oleh Nabi Isa (as) ketika kaumnya ingin melihat tanda dari Allah Ta'ala melalui utusannya, yakni Nabi Isa (as).
 
 ### 19. Doa Memohon agar Dimasukkan ke dalam Jemaat yang Suci 
 
@@ -1076,12 +1074,14 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 
 [^003_192_193]: Doa ini dipanjatkan oleh orang-orang yang berilmu (yang senantiasa menggunakan akalnya) yang selalu mengingat Allah, baik sambil berdiri, duduk, dan berbaring atas rusuk mereka, dan mereka merenungkan tentang penciptaan seluruh langit dan bumi.
 
+[^005_026]: Ini adalah doa yang dipanjatkan oleh Nabi Musa (as) ketika kaumnya, yakni Bani Israil yang tidak mau berperang di jalan Allah Ta'ala.
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxODQzNTIzLC0xMTI1NDg4ODUwLDIyMD
-QwMzA3OCwtNjEzNjE4MTE2LC0xOTc3MTY1NDA5LDE3NDU4OTc5
-MTcsMTY2MzM4ODYwMywzNDIxOTc2MzMsMjAyNzY3MDYwMywtMT
-A0NTk1Mjc0NywxNzQ0MTUxOTY2LDE1MDExMjE4NjIsLTE1MzM5
-ODk5OTQsLTgyMDgwNDU5NSwtMTQwNzUyOTMzMCwtMjk0MjQyNT
-AzLC0xMTg3NzQyMTExLC00ODE5MTM3NTAsNDgxMTczMTY4LDE3
-NjgyNjE4ODddfQ==
+eyJoaXN0b3J5IjpbLTIwNzY5MjYwNzAsLTExMjU0ODg4NTAsMj
+IwNDAzMDc4LC02MTM2MTgxMTYsLTE5NzcxNjU0MDksMTc0NTg5
+NzkxNywxNjYzMzg4NjAzLDM0MjE5NzYzMywyMDI3NjcwNjAzLC
+0xMDQ1OTUyNzQ3LDE3NDQxNTE5NjYsMTUwMTEyMTg2MiwtMTUz
+Mzk4OTk5NCwtODIwODA0NTk1LC0xNDA3NTI5MzMwLC0yOTQyND
+I1MDMsLTExODc3NDIxMTEsLTQ4MTkxMzc1MCw0ODExNzMxNjgs
+MTc2ODI2MTg4N119
 -->
