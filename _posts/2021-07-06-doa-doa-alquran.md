@@ -485,11 +485,17 @@ Keterangan:
 
 ”Wahai Tuhan-ku! Jadikanlah aku dan keturunanku orang yang *tetap* mendirikan shalat, Wahai Tuhan kami! *Karuniailah aku dengan rahmat Engkau* dan kabulkanlah doaku."
 
-”Wahai Tuhan kami! Ampunilah1472 aku, kedua orangtuaku dan orang-orang mukmin pada Hari diadakannya perhitungan.”
+”Wahai Tuhan kami! Ampunilah aku, kedua orangtuaku dan orang-orang mukmin pada Hari diadakannya perhitungan.”
 
 (QS Ibrahim [14]: [36](https://openquran.com/14:36), [37](https://openquran.com/14:37), [38](https://openquran.com/14:38), [39](https://openquran.com/14:39), [40](https://openquran.com/14:40), [41](https://openquran.com/14:41), [42](https://openquran.com/14:42))
 
-Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
+Keterangan: 
+
+- Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
+
+- Doa Nabi Ibrahim (as), yang disinggung dalam ayat ini menunjukkan, bahwa beliau tahu, bahwa kemusyrikan pada suatu hari akan merajalela di Mekah dan di negeri sekitarnya. Jadi doa itu merupakan cetusan hasrat beliau untuk memelihara keturunan beliau dari kemusyrikan; dan doa itu dipanjatkan beratus-ratus tahun yang silam.
+
+- 
 
 ### 37. Doa untuk Ibu dan Bapak
 
@@ -1053,11 +1059,11 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTYyMjIwMDUsMzQyMTk3NjMzLDIwMj
-c2NzA2MDMsLTEwNDU5NTI3NDcsMTc0NDE1MTk2NiwxNTAxMTIx
-ODYyLC0xNTMzOTg5OTk0LC04MjA4MDQ1OTUsLTE0MDc1MjkzMz
-AsLTI5NDI0MjUwMywtMTE4Nzc0MjExMSwtNDgxOTEzNzUwLDQ4
-MTE3MzE2OCwxNzY4MjYxODg3LDEwNzkzMDQxMjksLTEzODAxOT
-Q2MDAsMTI3OTIzNDUyNywtMTU2NjAxNzI4MCwtMTkyNzU5MjEy
-LC0xMjI5MTUwMDc2XX0=
+eyJoaXN0b3J5IjpbNjQxODQ1NDY0LDM0MjE5NzYzMywyMDI3Nj
+cwNjAzLC0xMDQ1OTUyNzQ3LDE3NDQxNTE5NjYsMTUwMTEyMTg2
+MiwtMTUzMzk4OTk5NCwtODIwODA0NTk1LC0xNDA3NTI5MzMwLC
+0yOTQyNDI1MDMsLTExODc3NDIxMTEsLTQ4MTkxMzc1MCw0ODEx
+NzMxNjgsMTc2ODI2MTg4NywxMDc5MzA0MTI5LC0xMzgwMTk0Nj
+AwLDEyNzkyMzQ1MjcsLTE1NjYwMTcyODAsLTE5Mjc1OTIxMiwt
+MTIyOTE1MDA3Nl19
 -->
