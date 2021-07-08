@@ -304,8 +304,6 @@ Wahai Tuhan kami, janganlah Engkau bengkokkan hati kami setelah Engkau memberi k
 
 “Dan tetapkanlah bagi kami kebaikan di dunia ini dan di akhirat; sesungguhnya kami telah kembali dengan bertobat kepada Engkau.” ([QS Al-A'roof [7]:157](https://openquran.com/7:157)) [[^007_157_keterangan]]
 
-[^007_157_keterangan]: Doa ini dipanjatkan Nabi Musa (as) sebagai sambungan dari ayat sebelumnya ([QS Al-A'roof [7]:156](https://openquran.com/7:156)) ketika terjadi gempa. Setelah doa itu dipanjatkan Allah Ta'ala berfirman, ”Azab-Ku akan Ku-timpakan kepada siapa yang Aku kehendaki; tetapi rahmat-Ku meliputi segala sesuatu; maka pasti Aku akan menetapkannya bagi orang-orang yang bertakwa, mereka yang membayar zakat, dan mereka yang beriman kepada ayat-ayat Kami.”
-
 ### 29. Tawakkal dan Menyerah kepada Allah 
 
 <p class="quran">
@@ -1067,13 +1065,15 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 
 [^007_156_keterangan]: Doa ini dipanjatkan Nabi Musa (as). Kala itu Nabi Musa sedang memilih tujuh puluh orang laki-laki dari kaumnya untuk menepati perjanjian kepada Allah Ta'ala (melaksanakan baiat) dan terjadi gempa.
 
+[^007_157_keterangan]: Doa ini dipanjatkan Nabi Musa (as) sebagai sambungan dari ayat sebelumnya ([QS Al-A'roof [7]:156](https://openquran.com/7:156)) ketika terjadi gempa. Setelah doa itu dipanjatkan Allah Ta'ala berfirman, ”Azab-Ku akan Ku-timpakan kepada siapa yang Aku kehendaki; tetapi rahmat-Ku meliputi segala sesuatu; maka pasti Aku akan menetapkannya bagi orang-orang yang bertakwa, mereka yang membayar zakat, dan mereka yang beriman kepada ayat-ayat Kami.”
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNDA4MzQ4OTksMTQ2MzU1MDU4OCwtMj
-AxNzg2MDA3NywxMDcxMTg0MjcsLTQ0NzI3MTk2MSwtMTEyNTQ4
-ODg1MCwyMjA0MDMwNzgsLTYxMzYxODExNiwtMTk3NzE2NTQwOS
-wxNzQ1ODk3OTE3LDE2NjMzODg2MDMsMzQyMTk3NjMzLDIwMjc2
-NzA2MDMsLTEwNDU5NTI3NDcsMTc0NDE1MTk2NiwxNTAxMTIxOD
-YyLC0xNTMzOTg5OTk0LC04MjA4MDQ1OTUsLTE0MDc1MjkzMzAs
-LTI5NDI0MjUwM119
+eyJoaXN0b3J5IjpbMjUyMjcxODQxLDE0NjM1NTA1ODgsLTIwMT
+c4NjAwNzcsMTA3MTE4NDI3LC00NDcyNzE5NjEsLTExMjU0ODg4
+NTAsMjIwNDAzMDc4LC02MTM2MTgxMTYsLTE5NzcxNjU0MDksMT
+c0NTg5NzkxNywxNjYzMzg4NjAzLDM0MjE5NzYzMywyMDI3Njcw
+NjAzLC0xMDQ1OTUyNzQ3LDE3NDQxNTE5NjYsMTUwMTEyMTg2Mi
+wtMTUzMzk4OTk5NCwtODIwODA0NTk1LC0xNDA3NTI5MzMwLC0y
+OTQyNDI1MDNdfQ==
 -->
