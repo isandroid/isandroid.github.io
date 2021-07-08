@@ -447,7 +447,7 @@ Keterangan:
 
 <p class="quran">
 رَبِّ اجۡعَلۡ ہٰذَا الۡبَلَدَ اٰمِنًا وَّاجۡنُبۡنِیۡ وَبَنِیَّ اَنۡ نَّعۡبُدَ الۡاَصۡنَامَ
-</p> [[^014_036]]
+</p>  
 
 <p class="quran">
 رَبِّ اِنَّہُنَّ اَضۡلَلۡنَ کَثِیۡرًا مِّنَ النَّاسِ ۖ فَمَنۡ تَبِعَنِیۡ فَاِنَّہٗ مِنِّیۡ ۖ وَمَنۡ عَصَانِیۡ فَاِنَّکَ غَفُوۡرٌ رَّحِیۡمٌ
@@ -1063,11 +1063,11 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDE2OTU4NjIxLDE2NjMzODg2MDMsMzQyMT
-k3NjMzLDIwMjc2NzA2MDMsLTEwNDU5NTI3NDcsMTc0NDE1MTk2
-NiwxNTAxMTIxODYyLC0xNTMzOTg5OTk0LC04MjA4MDQ1OTUsLT
-E0MDc1MjkzMzAsLTI5NDI0MjUwMywtMTE4Nzc0MjExMSwtNDgx
-OTEzNzUwLDQ4MTE3MzE2OCwxNzY4MjYxODg3LDEwNzkzMDQxMj
-ksLTEzODAxOTQ2MDAsMTI3OTIzNDUyNywtMTU2NjAxNzI4MCwt
-MTkyNzU5MjEyXX0=
+eyJoaXN0b3J5IjpbLTE0NjA0OTYyNCwxNjYzMzg4NjAzLDM0Mj
+E5NzYzMywyMDI3NjcwNjAzLC0xMDQ1OTUyNzQ3LDE3NDQxNTE5
+NjYsMTUwMTEyMTg2MiwtMTUzMzk4OTk5NCwtODIwODA0NTk1LC
+0xNDA3NTI5MzMwLC0yOTQyNDI1MDMsLTExODc3NDIxMTEsLTQ4
+MTkxMzc1MCw0ODExNzMxNjgsMTc2ODI2MTg4NywxMDc5MzA0MT
+I5LC0xMzgwMTk0NjAwLDEyNzkyMzQ1MjcsLTE1NjYwMTcyODAs
+LTE5Mjc1OTIxMl19
 -->
