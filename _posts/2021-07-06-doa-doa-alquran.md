@@ -64,6 +64,8 @@ Tunjukilah kami jalan yang lurus,  [[^001_006]]
 
 	Orang-orang yang telah mendapat nikmat itu telah disebut dalam QS.4:70. Doa itu umum dan tidak untuk sesuatu karunia tertentu. Orang beriman memohon kepada Allah Swt agar menganugerahkan karunia rohani yang tertinggi kepadanya, dan terserah kepada Dia untuk menganugerahkan kepadanya karunia yang dianggap-Nya pantas dan layak bagi orang beriman itu menerimanya.
 
+	Sifat khusus lainnya pada doa yang terkandung dalam surah ini yaitu doa tersebut mengimbau naluri-naluri manusia yang dalam dengan cara yang wajar sekali. Dalam fitrat manusia ada dua pendorong yang merangsangnya untuk berserah diri yaitu cinta dan takut. Sebagian orang tergerak oleh cinta, sedangkan yang lain terdorong oleh takut. Dorongan cinta memang lebih mulia, tetapi mungkin ada – dan sungguhsungguh ada – orang-orang yang hatinya tidak tergerak oleh cinta, mereka hanya menyerah karena pengaruh takut.
+
 ### 2. Doa Memohon Keamanan dan Rejeki
 
 <p class="quran">
@@ -1075,7 +1077,7 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1OTUzNDI3OSwxNjYzMzg4NjAzLDM0Mj
+eyJoaXN0b3J5IjpbMTk1MjU5Njc3MiwxNjYzMzg4NjAzLDM0Mj
 E5NzYzMywyMDI3NjcwNjAzLC0xMDQ1OTUyNzQ3LDE3NDQxNTE5
 NjYsMTUwMTEyMTg2MiwtMTUzMzk4OTk5NCwtODIwODA0NTk1LC
 0xNDA3NTI5MzMwLC0yOTQyNDI1MDMsLTExODc3NDIxMTEsLTQ4
