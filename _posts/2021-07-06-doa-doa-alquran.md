@@ -296,20 +296,15 @@ Wahai Tuhan kami, janganlah Engkau bengkokkan hati kami setelah Engkau memberi k
 
 “Wahai Tuhan-ku, jika Engkau menghendaki, Engkau dapat membinasakan mereka dan *juga* diriku sebelum ini. Akankah Engkau membinasakan kami atas apa yang telah diperbuat oleh orang-orang bodoh di antara kami? Tidak lain ini hanyalah suatu cobaan dari Engkau, dengannya Engkau membiarkan sesat siapa yang Engkau kehendaki dan Engkau memberi petunjuk kepada siapa yang Engkau kehendaki. Engkau-lah Pelindung kami; maka ampunilah kami dan kasihanilah kami dan Engkau-lah sebaik-baik Pemberi ampunan." [[^007_156]] ([QS Al-A'roof [7]:156](https://openquran.com/7:156)) [[^007_156_keterangan]]
 
-[^007_156]: Gempa bumi tersebut hanyalah satu gejala alam biasa. Nabi Musa (as) merasa cemas kalau-kalau gempa itu merupakan azab Tuhan untuk menghukum dosa-dosa yang telah dilakukan oleh kaumnya.
-
-[^007_156_keterangan]: Doa ini dipanjatkan Nabi Musa (as). Kala itu Nabi Musa sedang memilih tujuh puluh orang laki-laki dari kaumnya untuk menepati perjanjian kepada Allah Ta'ala (melaksanakan baiat) dan terjadi gempa.
-
 ### 28. Doa Memohon Kebaikan Dunia dan Akhirat 
 
 <p class="quran">
  وَاکۡتُبۡ لَنَا فِیۡ ہٰذِہِ الدُّنۡیَا حَسَنَۃً وَّفِی الۡاٰخِرَۃِ اِنَّا ہُدۡنَاۤ اِلَیۡکَ
 </p>
 
-“Dan tetapkanlah bagi kami kebaikan di dunia ini dan di akhirat; sesungguhnya kami telah kembali dengan bertobat kepada Engkau.” ([QS Al-A'roof [7]:157](https://openquran.com/7:157))
+“Dan tetapkanlah bagi kami kebaikan di dunia ini dan di akhirat; sesungguhnya kami telah kembali dengan bertobat kepada Engkau.” ([QS Al-A'roof [7]:157](https://openquran.com/7:157)) [[^007_157_keterangan]]
 
-- Doa ini dipanjatkan Nabi Musa (as) sebagai sambungan dari ayat sebelumnya ([QS Al-A'roof [7]:156](https://openquran.com/7:156)) ketika terjadi gempa.
-- Setelah doa itu dipanjatkan Allah Ta'ala berfirman, ”Azab-Ku akan Ku-timpakan kepada siapa yang Aku kehendaki; tetapi rahmat-Ku meliputi segala sesuatu; maka pasti Aku akan menetapkannya bagi orang-orang yang bertakwa, mereka yang membayar zakat, dan mereka yang beriman kepada ayat-ayat Kami.”
+[^007_157_keterangan]: Doa ini dipanjatkan Nabi Musa (as) sebagai sambungan dari ayat sebelumnya ([QS Al-A'roof [7]:156](https://openquran.com/7:156)) ketika terjadi gempa. Setelah doa itu dipanjatkan Allah Ta'ala berfirman, ”Azab-Ku akan Ku-timpakan kepada siapa yang Aku kehendaki; tetapi rahmat-Ku meliputi segala sesuatu; maka pasti Aku akan menetapkannya bagi orang-orang yang bertakwa, mereka yang membayar zakat, dan mereka yang beriman kepada ayat-ayat Kami.”
 
 ### 29. Tawakkal dan Menyerah kepada Allah 
 
@@ -1068,13 +1063,17 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 
 [^007_152_keterangan]: Nabi Musa (as) kembali dari kepada kaumnya dengan perasaan marah dan sedih karena mereka telah menyembah lembu. Nabi Musa (as) memarahi Nabi Harun (as) sebagai seorang wakil yang diberikan amanat untuk menjaga Bani Israil. Nabi Musa (as) mencengkeram kepala Nabi Harun (as), bukan karena Harun (as) telah membiarkan atau menyokong perbuatan pemujaan lembu, melainkan karena Nabi Harun (as) tidak berhasil mencegah kaumnya menyembah lembu. Nabi Musa (as) menunjukkan kegusaran karena Nabi Harun (as) tidak berhasil mengelola urusan-urusan agama dengan sebaik-baiknya selagi nabi Musa (as) tidak ada di tempat. Kemarahan itu beralasan, sebab suatu penodaan besar telah dilakukan dan seluruh pekerjaan Nabi Musa (as) selama hidupnya telah terancam bahaya. Ini adalah doa yang dipanjatkan oleh Nabi Musa (as) setelah kemarahan beliau mereda. Beliau memohon ampun kepada Allah (dan saudaranya, Nabi Harun (as)) atas kelemahan-kelemahan yang telah terjadi.
 
+[^007_156]: Gempa bumi tersebut hanyalah satu gejala alam biasa. Nabi Musa (as) merasa cemas kalau-kalau gempa itu merupakan azab Tuhan untuk menghukum dosa-dosa yang telah dilakukan oleh kaumnya.
+
+[^007_156_keterangan]: Doa ini dipanjatkan Nabi Musa (as). Kala itu Nabi Musa sedang memilih tujuh puluh orang laki-laki dari kaumnya untuk menepati perjanjian kepada Allah Ta'ala (melaksanakan baiat) dan terjadi gempa.
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjEzMTE4NjAzLDE0NjM1NTA1ODgsLTIwMT
-c4NjAwNzcsMTA3MTE4NDI3LC00NDcyNzE5NjEsLTExMjU0ODg4
-NTAsMjIwNDAzMDc4LC02MTM2MTgxMTYsLTE5NzcxNjU0MDksMT
-c0NTg5NzkxNywxNjYzMzg4NjAzLDM0MjE5NzYzMywyMDI3Njcw
-NjAzLC0xMDQ1OTUyNzQ3LDE3NDQxNTE5NjYsMTUwMTEyMTg2Mi
-wtMTUzMzk4OTk5NCwtODIwODA0NTk1LC0xNDA3NTI5MzMwLC0y
-OTQyNDI1MDNdfQ==
+eyJoaXN0b3J5IjpbLTEwNDA4MzQ4OTksMTQ2MzU1MDU4OCwtMj
+AxNzg2MDA3NywxMDcxMTg0MjcsLTQ0NzI3MTk2MSwtMTEyNTQ4
+ODg1MCwyMjA0MDMwNzgsLTYxMzYxODExNiwtMTk3NzE2NTQwOS
+wxNzQ1ODk3OTE3LDE2NjMzODg2MDMsMzQyMTk3NjMzLDIwMjc2
+NzA2MDMsLTEwNDU5NTI3NDcsMTc0NDE1MTk2NiwxNTAxMTIxOD
+YyLC0xNTMzOTg5OTk0LC04MjA4MDQ1OTUsLTE0MDc1MjkzMzAs
+LTI5NDI0MjUwM119
 -->
