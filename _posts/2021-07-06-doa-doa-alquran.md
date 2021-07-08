@@ -54,22 +54,6 @@ Tunjukilah kami jalan yang lurus,  [[^001_006]]
 
 ([QS Al-Fatihah [1]: 1-7](https://openquran.com/1)).
 
-[^001_006]: Doa ini meliputi seluruh keperluan manusia – kebendaan dan rohani, untuk masa ini dan masa yang akan datang. Orang beriman berdoa agar kepadanya ditunjukkan jalan lurus – jalan terpendek. Kadang-kadang kepada manusia diperlihatkan jalan yang benar dan lurus itu, tetapi ia tidak dibimbing kepadanya, atau jika pun dibimbing ke sana, ia tidak teguh pada jalan itu dan tidak mengikutinya hingga akhir. 
-
-	Doa tersebut menghendaki agar orang beriman tidak merasa puas dengan hanya diperlihatkan kepadanya suatu jalan, atau juga dengan dibimbing pada jalan itu, tetapi ia harus senantiasa terus menerus mengikutinya hingga mencapai tujuannya, dan inilah makna Hidayah, yang berarti menunjukkan jalan yang lurus (QS.90:11), membimbing ke jalan yang lurus (QS.29:70), dan membuat orang mengikuti jalan yang lurus (QS.7:44) (Mufradāt dan Baqa).
-	 
-	Pada hakikatnya, manusia memerlukan pertolongan Allah Swt pada tiap-tiap langkah dan pada setiap saat, dan sangat perlu sekali baginya agar ia senantiasa mengajukan kepada-Nya permohonan yang terkandung dalam ayat ini. Oleh karena itu doa terus-menerus itu memang sangat perlu. Selama kita mempunyai keperluankeperluan yang belum kesampaian dan keperluan-keperluan yang belum terpenuhi dan tujuan-tujuan yang belum tercapai maka kita selamanya memerlukan doa.
-
-[^001_007]: Orang beriman sejati tidak akan puas hanya dengan dibimbing ke jalan yang lurus atau dengan melakukan beberapa amal saleh tertentu saja. Ia menempatkan tujuannya jauh lebih tinggi dan berusaha mencapai kedudukan saat Allah Swt mulai menganugerahkan karunia-karunia istimewa kepada hamba-hamba-Nya. Ia melihat kepada contoh-contoh karunia Ilahi yang dianugerahkan kepada para hamba pilihan Ilahi, lalu memperoleh dorongan semangat dari mereka. Ia bahkan tidak berhenti sampai di situ saja, tetapi ia berusaha keras dan berdoa supaya digolongkan di antara “orang-orang yang telah mendapat nikmat” dan menjadi seorang dari antara mereka.
-
-	Orang-orang yang telah mendapat nikmat itu telah disebut dalam QS.4:70. Doa itu umum dan tidak untuk sesuatu karunia tertentu. Orang beriman memohon kepada Allah Swt agar menganugerahkan karunia rohani yang tertinggi kepadanya, dan terserah kepada Dia untuk menganugerahkan kepadanya karunia yang dianggap-Nya pantas dan layak bagi orang beriman itu menerimanya.
-
-	Sifat khusus lainnya pada doa yang terkandung dalam surah ini yaitu doa tersebut mengimbau naluri-naluri manusia yang dalam dengan cara yang wajar sekali. Dalam fitrat manusia ada dua pendorong yang merangsangnya untuk berserah diri yaitu cinta dan takut. Sebagian orang tergerak oleh cinta, sedangkan yang lain terdorong oleh takut. Dorongan cinta memang lebih mulia, tetapi mungkin ada – dan sungguhsungguh ada – orang-orang yang hatinya tidak tergerak oleh cinta, mereka hanya menyerah karena pengaruh takut.
-
-	Allah Swt mengetahui bahwa manusia itu lemah dan mudah keliru serta tergelincir, maka Dia mendorong hamba-hamba-Nya agar mohon pertolongan-Nya pada setiap derap langkah majunya dan setiap keperluan yang dihadapinya. Akhirnya datanglah doa yang padat dan berjangkauan jauh, suatu doa yang di dalamnya manusia memohon kepada Khāliq-nya, untuk membimbingnya ke jalan yang lurus dalam segala urusan rohani dan duniawi, baik mengenai keperluan-keperluannya sekarang atau pun di hari depan. Ia berdoa kepada Allah Swt agar ia bukan saja dapat menghadapi segala cobaan dan ujian dengan tabah, tetapi juga selaku “orang-orang terpilih” menghadapinya dengan cara yang sebaik-baiknya dan menjadi penerima karunia dan berkat Allah Swt yang paling banyak dan paling besar, agar ia selamanya terus melangkah maju pada jalan yang lurus, maju terus makin dekat dan lebih dekat lagi kepada Allah Swt dan Junjungannya, tanpa terantuk-antuk di perjalanannya seperti telah terjadi pada banyak dari antara mereka yang hidup di masa yang lampau. 
-
-	Itulah pokok surah pembukaan Al-Qur’an yang dengan suatu bentuk atau cara lain senantiasa diulangi dalam seluruh kandungan batang tubuh kitab suci itu (AlQur’an).
-
 ### 2. Doa Memohon Keamanan dan Rejeki
 
 <p class="quran">
@@ -1078,14 +1062,29 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 
 ### Catatan Kaki
 
+[^001_006]: Doa ini meliputi seluruh keperluan manusia – kebendaan dan rohani, untuk masa ini dan masa yang akan datang. Orang beriman berdoa agar kepadanya ditunjukkan jalan lurus – jalan terpendek. Kadang-kadang kepada manusia diperlihatkan jalan yang benar dan lurus itu, tetapi ia tidak dibimbing kepadanya, atau jika pun dibimbing ke sana, ia tidak teguh pada jalan itu dan tidak mengikutinya hingga akhir. 
+
+	Doa tersebut menghendaki agar orang beriman tidak merasa puas dengan hanya diperlihatkan kepadanya suatu jalan, atau juga dengan dibimbing pada jalan itu, tetapi ia harus senantiasa terus menerus mengikutinya hingga mencapai tujuannya, dan inilah makna Hidayah, yang berarti menunjukkan jalan yang lurus (QS.90:11), membimbing ke jalan yang lurus (QS.29:70), dan membuat orang mengikuti jalan yang lurus (QS.7:44) (Mufradāt dan Baqa).
+	 
+	Pada hakikatnya, manusia memerlukan pertolongan Allah Swt pada tiap-tiap langkah dan pada setiap saat, dan sangat perlu sekali baginya agar ia senantiasa mengajukan kepada-Nya permohonan yang terkandung dalam ayat ini. Oleh karena itu doa terus-menerus itu memang sangat perlu. Selama kita mempunyai keperluankeperluan yang belum kesampaian dan keperluan-keperluan yang belum terpenuhi dan tujuan-tujuan yang belum tercapai maka kita selamanya memerlukan doa.
+
+[^001_007]: Orang beriman sejati tidak akan puas hanya dengan dibimbing ke jalan yang lurus atau dengan melakukan beberapa amal saleh tertentu saja. Ia menempatkan tujuannya jauh lebih tinggi dan berusaha mencapai kedudukan saat Allah Swt mulai menganugerahkan karunia-karunia istimewa kepada hamba-hamba-Nya. Ia melihat kepada contoh-contoh karunia Ilahi yang dianugerahkan kepada para hamba pilihan Ilahi, lalu memperoleh dorongan semangat dari mereka. Ia bahkan tidak berhenti sampai di situ saja, tetapi ia berusaha keras dan berdoa supaya digolongkan di antara “orang-orang yang telah mendapat nikmat” dan menjadi seorang dari antara mereka.
+
+	Orang-orang yang telah mendapat nikmat itu telah disebut dalam QS.4:70. Doa itu umum dan tidak untuk sesuatu karunia tertentu. Orang beriman memohon kepada Allah Swt agar menganugerahkan karunia rohani yang tertinggi kepadanya, dan terserah kepada Dia untuk menganugerahkan kepadanya karunia yang dianggap-Nya pantas dan layak bagi orang beriman itu menerimanya.
+
+	Sifat khusus lainnya pada doa yang terkandung dalam surah ini yaitu doa tersebut mengimbau naluri-naluri manusia yang dalam dengan cara yang wajar sekali. Dalam fitrat manusia ada dua pendorong yang merangsangnya untuk berserah diri yaitu cinta dan takut. Sebagian orang tergerak oleh cinta, sedangkan yang lain terdorong oleh takut. Dorongan cinta memang lebih mulia, tetapi mungkin ada – dan sungguhsungguh ada – orang-orang yang hatinya tidak tergerak oleh cinta, mereka hanya menyerah karena pengaruh takut.
+
+	Allah Swt mengetahui bahwa manusia itu lemah dan mudah keliru serta tergelincir, maka Dia mendorong hamba-hamba-Nya agar mohon pertolongan-Nya pada setiap derap langkah majunya dan setiap keperluan yang dihadapinya. Akhirnya datanglah doa yang padat dan berjangkauan jauh, suatu doa yang di dalamnya manusia memohon kepada Khāliq-nya, untuk membimbingnya ke jalan yang lurus dalam segala urusan rohani dan duniawi, baik mengenai keperluan-keperluannya sekarang atau pun di hari depan. Ia berdoa kepada Allah Swt agar ia bukan saja dapat menghadapi segala cobaan dan ujian dengan tabah, tetapi juga selaku “orang-orang terpilih” menghadapinya dengan cara yang sebaik-baiknya dan menjadi penerima karunia dan berkat Allah Swt yang paling banyak dan paling besar, agar ia selamanya terus melangkah maju pada jalan yang lurus, maju terus makin dekat dan lebih dekat lagi kepada Allah Swt dan Junjungannya, tanpa terantuk-antuk di perjalanannya seperti telah terjadi pada banyak dari antara mereka yang hidup di masa yang lampau. 
+
+	Itulah pokok surah pembukaan Al-Qur’an yang dengan suatu bentuk atau cara lain senantiasa diulangi dalam seluruh kandungan batang tubuh kitab suci itu (AlQur’an).
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0NTg5NzkxNywxNjYzMzg4NjAzLDM0Mj
-E5NzYzMywyMDI3NjcwNjAzLC0xMDQ1OTUyNzQ3LDE3NDQxNTE5
-NjYsMTUwMTEyMTg2MiwtMTUzMzk4OTk5NCwtODIwODA0NTk1LC
-0xNDA3NTI5MzMwLC0yOTQyNDI1MDMsLTExODc3NDIxMTEsLTQ4
-MTkxMzc1MCw0ODExNzMxNjgsMTc2ODI2MTg4NywxMDc5MzA0MT
-I5LC0xMzgwMTk0NjAwLDEyNzkyMzQ1MjcsLTE1NjYwMTcyODAs
-LTE5Mjc1OTIxMl19
+eyJoaXN0b3J5IjpbLTE5NzcxNjU0MDksMTc0NTg5NzkxNywxNj
+YzMzg4NjAzLDM0MjE5NzYzMywyMDI3NjcwNjAzLC0xMDQ1OTUy
+NzQ3LDE3NDQxNTE5NjYsMTUwMTEyMTg2MiwtMTUzMzk4OTk5NC
+wtODIwODA0NTk1LC0xNDA3NTI5MzMwLC0yOTQyNDI1MDMsLTEx
+ODc3NDIxMTEsLTQ4MTkxMzc1MCw0ODExNzMxNjgsMTc2ODI2MT
+g4NywxMDc5MzA0MTI5LC0xMzgwMTk0NjAwLDEyNzkyMzQ1Mjcs
+LTE1NjYwMTcyODBdfQ==
 -->
