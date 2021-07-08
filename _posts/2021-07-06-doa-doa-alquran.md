@@ -132,8 +132,6 @@ Wahai Tuhan kami, janganlah Engkau bengkokkan hati kami setelah Engkau memberi k
 
 “Wahai Tuhan kami, sesungguhnya kami telah beriman, maka ampunilah dosa-dosa kami, dan peliharalah kami dari azab Api.” ([QS Aali-'Imraan [3]:17](https://openquran.com/3:17)) [[^003_017]]
 
-[^003_017]: Dzunūb adalah jamak dari Dzanb yang berarti kealpaan, perbuatan salah, pelanggaran, sesuatu yang patut dicela jika dilakukan dengan sengaja. Perbedaannya dengan Itsm adalah bahwa Dzanb itu boleh jadi disengaja atau dilakukan karena kealpaan, sedangkan Itsm yang khusus dilakukan dengan sengaja. Atau Dzanb berarti kekeliruan-kekeliruan dan kesalahan-kesalahan yang membawa akibat buruk atau menjadikan si pelakunya layak dituntut. Sesungguhnya Dzanb berarti kelemahan-kelemahan atau kekurangankekurangan yang melekat pada fitrat manusia, seperti halnya Dzanb (ekor,
-
 ### 11. Memuji Kebesaran Tuhan dan Doa untuk Mencapai Kemajuan
 
 <p class="quran">
@@ -1072,8 +1070,10 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 
 [^002_251]: Doa ini adalah doa seorang pemimpin yang bernama Thalut (ditafsirkan sebagai Gideon) yang berdoa ketika berperang melawan Jalut (ditafsirkan sebagai satu kaum yang jahat)
 
+[^003_017]: Dzunūb adalah jamak dari Dzanb yang berarti kealpaan, perbuatan salah, pelanggaran, sesuatu yang patut dicela jika dilakukan dengan sengaja. Perbedaannya dengan Itsm adalah bahwa Dzanb itu boleh jadi disengaja atau dilakukan karena kealpaan, sedangkan Itsm yang khusus dilakukan dengan sengaja. Atau Dzanb berarti kekeliruan-kekeliruan dan kesalahan-kesalahan yang membawa akibat buruk atau menjadikan si pelakunya layak dituntut. Sesungguhnya Dzanb berarti kelemahan-kelemahan atau kekurangankekurangan yang melekat pada fitrat manusia, seperti halnya Dzanb (ekor, atau bagian tubuh yang seperti itu pada manusia) melekat pada tubuh, artinya kelemahan-kelemahan dan kekurangan-kekurangan alami pada diri manusia (Lane dan Mufradāt).
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzNjk0OTg5MCwtNjEzNjE4MTE2LC0xOT
+eyJoaXN0b3J5IjpbLTMzMTQ1MzcxMywtNjEzNjE4MTE2LC0xOT
 c3MTY1NDA5LDE3NDU4OTc5MTcsMTY2MzM4ODYwMywzNDIxOTc2
 MzMsMjAyNzY3MDYwMywtMTA0NTk1Mjc0NywxNzQ0MTUxOTY2LD
 E1MDExMjE4NjIsLTE1MzM5ODk5OTQsLTgyMDgwNDU5NSwtMTQw
