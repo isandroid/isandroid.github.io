@@ -248,7 +248,7 @@ Wahai Tuhan kami, janganlah Engkau bengkokkan hati kami setelah Engkau memberi k
 
 "Wahai Tuhan kami, berilah keputusan di antara kami dan kaum kami dengan benar, dan Engkau adalah sebaik-baik Pemberi Keputusan.” ([QS Al-A'roof [7]:90](https://openquran.com/7:90)) 
 
-Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Syuaib (as) ketika penentangan kaumnya telah memuncak. Setelah itu kaumnya diberikan azab berupa gempa bumi.
+[^007_090] Ini adalah doa yang dipanjatkan oleh Nabi Syuaib (as) ketika penentangan kaumnya telah memuncak. Setelah itu kaumnya diberikan azab berupa gempa bumi.
 
 ### 22. Doa Bersyukur atas Petunjuk dari Allah 
 
@@ -1081,11 +1081,11 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTc4NjAwNzcsMTA3MTE4NDI3LC00ND
-cyNzE5NjEsLTExMjU0ODg4NTAsMjIwNDAzMDc4LC02MTM2MTgx
-MTYsLTE5NzcxNjU0MDksMTc0NTg5NzkxNywxNjYzMzg4NjAzLD
-M0MjE5NzYzMywyMDI3NjcwNjAzLC0xMDQ1OTUyNzQ3LDE3NDQx
-NTE5NjYsMTUwMTEyMTg2MiwtMTUzMzk4OTk5NCwtODIwODA0NT
-k1LC0xNDA3NTI5MzMwLC0yOTQyNDI1MDMsLTExODc3NDIxMTEs
-LTQ4MTkxMzc1MF19
+eyJoaXN0b3J5IjpbNzkxNTk0MTE0LC0yMDE3ODYwMDc3LDEwNz
+ExODQyNywtNDQ3MjcxOTYxLC0xMTI1NDg4ODUwLDIyMDQwMzA3
+OCwtNjEzNjE4MTE2LC0xOTc3MTY1NDA5LDE3NDU4OTc5MTcsMT
+Y2MzM4ODYwMywzNDIxOTc2MzMsMjAyNzY3MDYwMywtMTA0NTk1
+Mjc0NywxNzQ0MTUxOTY2LDE1MDExMjE4NjIsLTE1MzM5ODk5OT
+QsLTgyMDgwNDU5NSwtMTQwNzUyOTMzMCwtMjk0MjQyNTAzLC0x
+MTg3NzQyMTExXX0=
 -->
