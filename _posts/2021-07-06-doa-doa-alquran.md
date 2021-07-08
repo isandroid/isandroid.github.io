@@ -312,8 +312,6 @@ Wahai Tuhan kami, janganlah Engkau bengkokkan hati kami setelah Engkau memberi k
 
 “Cukuplah Allah bagiku, tiada tuhan selain Dia, kepada-Nya aku bertawakkal, dan Dia-lah Tuhan ‘Arasy yang agung." ([QS At-Taubah [9]:129](https://openquran.com/9:129)) [[^009_129_keterangan]]
 
-[^009_129_keterangan]: Doa ini dipanjatkan tatkala orang-orang menolak datangnya seorang rasul yang telah diutus oleh Allah Ta'ala
-
 ### 30. Doa Memohon Dijauhkan dari Kejahatan Musuh 
 
 <p class="quran">
@@ -326,9 +324,9 @@ Wahai Tuhan kami, janganlah Engkau bengkokkan hati kami setelah Engkau memberi k
 
 “Kepada Allah kami bertawakkal. Ya Tuhan kami! Janganlah Engkau jadikan kami sasaran fitnah bagi kaum yang aniaya."
 
-"Dan selamatkanlah kami dengan rahmat Engkau dari *keaniayaan* orang-orang kafir.”" (QS Yunus [10]:[86](https://openquran.com/10:86)-[87](https://openquran.com/10:87))
+"Dan selamatkanlah kami dengan rahmat Engkau dari *keaniayaan* orang-orang kafir.” (QS Yunus [10]:[86](https://openquran.com/10:86)-[87](https://openquran.com/10:87))
 
-Keterangan: Doa ini dipanjatkan oleh kaum Bani Israil yang ketika itu menjadi budak orang-orang Mesir. Mereka meminta perlindungan kepada Allah Ta'ala.
+[^010_]: Doa ini dipanjatkan oleh kaum Bani Israil yang ketika itu menjadi budak orang-orang Mesir. Mereka meminta perlindungan kepada Allah Ta'ala.
 
 ### 31. Doa untuk Kebinasaan Orang yang Zalim
 
@@ -1067,13 +1065,15 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 
 [^007_157_keterangan]: Doa ini dipanjatkan Nabi Musa (as) sebagai sambungan dari ayat sebelumnya ([QS Al-A'roof [7]:156](https://openquran.com/7:156)) ketika terjadi gempa. Setelah doa itu dipanjatkan Allah Ta'ala berfirman, ”Azab-Ku akan Ku-timpakan kepada siapa yang Aku kehendaki; tetapi rahmat-Ku meliputi segala sesuatu; maka pasti Aku akan menetapkannya bagi orang-orang yang bertakwa, mereka yang membayar zakat, dan mereka yang beriman kepada ayat-ayat Kami.”
 
+[^009_129_keterangan]: Doa ini dipanjatkan tatkala orang-orang menolak datangnya seorang rasul yang telah diutus oleh Allah Ta'ala
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3NTA0NzY2NywxNDYzNTUwNTg4LC0yMD
-E3ODYwMDc3LDEwNzExODQyNywtNDQ3MjcxOTYxLC0xMTI1NDg4
-ODUwLDIyMDQwMzA3OCwtNjEzNjE4MTE2LC0xOTc3MTY1NDA5LD
-E3NDU4OTc5MTcsMTY2MzM4ODYwMywzNDIxOTc2MzMsMjAyNzY3
-MDYwMywtMTA0NTk1Mjc0NywxNzQ0MTUxOTY2LDE1MDExMjE4Nj
-IsLTE1MzM5ODk5OTQsLTgyMDgwNDU5NSwtMTQwNzUyOTMzMCwt
-Mjk0MjQyNTAzXX0=
+eyJoaXN0b3J5IjpbLTE3MDg1NDg0MzEsMTQ2MzU1MDU4OCwtMj
+AxNzg2MDA3NywxMDcxMTg0MjcsLTQ0NzI3MTk2MSwtMTEyNTQ4
+ODg1MCwyMjA0MDMwNzgsLTYxMzYxODExNiwtMTk3NzE2NTQwOS
+wxNzQ1ODk3OTE3LDE2NjMzODg2MDMsMzQyMTk3NjMzLDIwMjc2
+NzA2MDMsLTEwNDU5NTI3NDcsMTc0NDE1MTk2NiwxNTAxMTIxOD
+YyLC0xNTMzOTg5OTk0LC04MjA4MDQ1OTUsLTE0MDc1MjkzMzAs
+LTI5NDI0MjUwM119
 -->
