@@ -156,7 +156,9 @@ Wahai Tuhan kami, janganlah Engkau bengkokkan hati kami setelah Engkau memberi k
 
 “Wahai Tuhan kami, kami beriman kepada apa yang telah Engkau turunkan dan kami mengikuti Rasul ini maka catatlah kami bersama orang-orang yang menjadi saksi.” ([QS Aali-'Imraan [3]:54](https://openquran.com/3:54))
 
-Keterangan: Ini adalah doa para hawari, yaitu para pengikut atau sahabat Nabi Isa (as) setelah mengikrarkan kesetiaannya kepada Nabi Isa (as) untuk menjadi *Anshoorullooh*, atau penolong agama Allah.
+Keterangan: Doa tersebut tatkala Nabi Isa (as) merasa ada kekufuran pada kaumnya, beliau  ia berkata, a ”Siapakah penolongpenolongku422 di jalan Allah?” Para Hawari berkata, “Kamilah para penolong di jalan Allah. Kami beriman kepada Allah, dan saksikanlah bahwa kami adalah orang-orang yang berserah diri.
+
+Ini adalah doa para hawari, yaitu para pengikut atau sahabat Nabi Isa (as) setelah mengikrarkan kesetiaannya kepada Nabi Isa (as) untuk menjadi *Anshoorullooh*, atau penolong agama Allah. 
 
 ### 13. Doa Memohon Ampun dan Memohon Diberikan Ketetapan Hati
 
@@ -1076,11 +1078,11 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 
 [^003_028]: Kata “siang” di sini menggambarkan kesejahteraan dan kekuasaan suatu kaum dan kata “malam” melukiskan kemunduran dan kemerosotan mereka. Ayat ini dan yang mendahuluinya mengisyaratkan kepada hukum Ilahi yang tak berubah bahwa bangsa-bangsa bangkit atau jatuh, karena mereka menyesuaikan diri dengan atau menentang kehendak Ilahi yang merupakan sumber segala kekuasaan dan kebesaran.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1Mjg5NDkxNjMsLTYxMzYxODExNiwtMT
-k3NzE2NTQwOSwxNzQ1ODk3OTE3LDE2NjMzODg2MDMsMzQyMTk3
-NjMzLDIwMjc2NzA2MDMsLTEwNDU5NTI3NDcsMTc0NDE1MTk2Ni
-wxNTAxMTIxODYyLC0xNTMzOTg5OTk0LC04MjA4MDQ1OTUsLTE0
-MDc1MjkzMzAsLTI5NDI0MjUwMywtMTE4Nzc0MjExMSwtNDgxOT
-EzNzUwLDQ4MTE3MzE2OCwxNzY4MjYxODg3LDEwNzkzMDQxMjks
-LTEzODAxOTQ2MDBdfQ==
+eyJoaXN0b3J5IjpbNzIzMDYwNDM2LC02MTM2MTgxMTYsLTE5Nz
+cxNjU0MDksMTc0NTg5NzkxNywxNjYzMzg4NjAzLDM0MjE5NzYz
+MywyMDI3NjcwNjAzLC0xMDQ1OTUyNzQ3LDE3NDQxNTE5NjYsMT
+UwMTEyMTg2MiwtMTUzMzk4OTk5NCwtODIwODA0NTk1LC0xNDA3
+NTI5MzMwLC0yOTQyNDI1MDMsLTExODc3NDIxMTEsLTQ4MTkxMz
+c1MCw0ODExNzMxNjgsMTc2ODI2MTg4NywxMDc5MzA0MTI5LC0x
+MzgwMTk0NjAwXX0=
 -->
