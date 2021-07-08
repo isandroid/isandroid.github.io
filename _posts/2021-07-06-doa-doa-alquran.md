@@ -48,9 +48,14 @@ Pemilik Hari Pembalasan.
 
 Hanya Engkau-lah Yang kami sembah dan hanya kepada Engkau-lah kami mohon pertolongan.
 
-Tunjukilah kami jalan yang lurus,
+Tunjukilah kami jalan yang lurus,  [[^001_006]]
 
 *Yaitu* jalan orang-orang yang telah Engkau beri nikmat atas mereka, bukan *jalan* mereka yang dimurkai dan bukan pula *jalan mereka* yang sesat ([QS Al-Fatihah [1]: 1-7](https://openquran.com/1)).
+
+[^001_006]: Doa ini meliputi seluruh keperluan manusia – kebendaan dan rohani, untuk masa ini dan masa yang akan datang. Orang beriman berdoa agar kepadanya ditunjukkan jalan lurus – jalan terpendek. Kadang-kadang kepada manusia diperlihatkan jalan yang benar dan lurus itu, tetapi ia tidak dibimbing kepadanya, atau jika pun dibimbing ke sana, ia tidak teguh pada jalan itu dan tidak mengikutinya hingga akhir. 
+
+	Doa tersebut menghendaki agar orang beriman tidak merasa puas dengan hanya diperlihatkan kepadanya suatu jalan, atau juga dengan dibimbing pada jalan itu, tetapi ia harus senantiasa terus menerus mengikutinya hingga mencapai tujuannya, dan inilah makna Hidayah, yang berarti menunjukkan jalan yang lurus (QS.90:11), membimbing ke jalan yang lurus (QS.29:70), dan membuat orang mengikuti jalan yang lurus (QS.7:44) (Mufradāt dan Baqa). 
+	Pada hakikatnya, manusia memerlukan pertolongan Allah Swt pada tiap-tiap langkah dan pada setiap saat, dan sangat perlu sekali baginya agar ia senantiasa mengajukan kepada-Nya permohonan yang terkandung dalam ayat ini. Oleh karena itu doa terus-menerus itu memang sangat perlu. Selama kita mempunyai keperluankeperluan yang belum kesampaian dan keperluan-keperluan yang belum terpenuhi dan tujuan-tujuan yang belum tercapai maka kita selamanya memerlukan doa.
 
 ### 2. Doa Memohon Keamanan dan Rejeki
 
@@ -1063,11 +1068,11 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTA3NTQyNzE0LDE2NjMzODg2MDMsMzQyMT
-k3NjMzLDIwMjc2NzA2MDMsLTEwNDU5NTI3NDcsMTc0NDE1MTk2
-NiwxNTAxMTIxODYyLC0xNTMzOTg5OTk0LC04MjA4MDQ1OTUsLT
-E0MDc1MjkzMzAsLTI5NDI0MjUwMywtMTE4Nzc0MjExMSwtNDgx
-OTEzNzUwLDQ4MTE3MzE2OCwxNzY4MjYxODg3LDEwNzkzMDQxMj
-ksLTEzODAxOTQ2MDAsMTI3OTIzNDUyNywtMTU2NjAxNzI4MCwt
-MTkyNzU5MjEyXX0=
+eyJoaXN0b3J5IjpbLTU2NzQ2MTQ3NCwxNjYzMzg4NjAzLDM0Mj
+E5NzYzMywyMDI3NjcwNjAzLC0xMDQ1OTUyNzQ3LDE3NDQxNTE5
+NjYsMTUwMTEyMTg2MiwtMTUzMzk4OTk5NCwtODIwODA0NTk1LC
+0xNDA3NTI5MzMwLC0yOTQyNDI1MDMsLTExODc3NDIxMTEsLTQ4
+MTkxMzc1MCw0ODExNzMxNjgsMTc2ODI2MTg4NywxMDc5MzA0MT
+I5LC0xMzgwMTk0NjAwLDEyNzkyMzQ1MjcsLTE1NjYwMTcyODAs
+LTE5Mjc1OTIxMl19
 -->
