@@ -162,9 +162,7 @@ Wahai Tuhan kami, janganlah Engkau bengkokkan hati kami setelah Engkau memberi k
 رَبَّنَا اغۡفِرۡ لَنَا ذُنُوۡبَنَا وَاِسۡرَافَنَا فِیۡۤ اَمۡرِنَا وَثَبِّتۡ اَقۡدَامَنَا وَانۡصُرۡنَا عَلَی الۡقَوۡمِ الۡکٰفِرِیۡنَ
 </p>
 
-”Wahai Tuhan kami, ampunilah dosa-dosa kami, dan perbuatan kami yang berlebih-lebihan dalam urusan kami, teguhkanlah langkahlangkah kami dan tolonglah kami terhadap kaum kafir.” ([QS Aali-'Imraan [3]:148](https://openquran.com/3:148))
-
-Keterangan: Doa ini dipanjatkan oleh orang-orang sabar yang sedang berperang di jalan Allah Ta'ala. Walaupun mereka sedikit dalam jumlah tapi Allah Ta'ala memberikan karunia kemenangan kepada mereka.
+”Wahai Tuhan kami, ampunilah dosa-dosa kami, dan perbuatan kami yang berlebih-lebihan dalam urusan kami, teguhkanlah langkahlangkah kami dan tolonglah kami terhadap kaum kafir.” ([QS Aali-'Imraan [3]:148](https://openquran.com/3:148)) [[^003_148]]
 
 ### 14. Doa Memohon Dipelihara dari Azab Neraka 
 
@@ -1075,12 +1073,15 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 [^003_028]: Kata “siang” di sini menggambarkan kesejahteraan dan kekuasaan suatu kaum dan kata “malam” melukiskan kemunduran dan kemerosotan mereka. Ayat ini dan yang mendahuluinya mengisyaratkan kepada hukum Ilahi yang tak berubah bahwa bangsa-bangsa bangkit atau jatuh, karena mereka menyesuaikan diri dengan atau menentang kehendak Ilahi yang merupakan sumber segala kekuasaan dan kebesaran.
 
 [^003_054]: Tatkala Nabi Isa (as) merasa ada kekufuran pada kaumnya, beliau (as) bersabda, ”Siapakah penolong-penolongku di jalan Allah?” Para Hawari atau para sahabat Nabi Isa (as), mereka berkata, “Kamilah para penolong di jalan Allah. Kami beriman kepada Allah, dan saksikanlah bahwa kami adalah orang-orang yang berserah diri. Setelah mereka mengikrarkan kesetiaannya keapda Nabi Isa (as), mereka berdoa dengan doa diatas.
+
+[^003_148]: Doa ini dipanjatkan oleh orang-orang sabar yang sedang berperang di jalan Allah Ta'ala. Walaupun mereka sedikit dalam jumlah tapi Allah Ta'ala memberikan karunia kemenangan kepada mereka.
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjIwNDAzMDc4LC02MTM2MTgxMTYsLTE5Nz
-cxNjU0MDksMTc0NTg5NzkxNywxNjYzMzg4NjAzLDM0MjE5NzYz
-MywyMDI3NjcwNjAzLC0xMDQ1OTUyNzQ3LDE3NDQxNTE5NjYsMT
-UwMTEyMTg2MiwtMTUzMzk4OTk5NCwtODIwODA0NTk1LC0xNDA3
-NTI5MzMwLC0yOTQyNDI1MDMsLTExODc3NDIxMTEsLTQ4MTkxMz
-c1MCw0ODExNzMxNjgsMTc2ODI2MTg4NywxMDc5MzA0MTI5LC0x
-MzgwMTk0NjAwXX0=
+eyJoaXN0b3J5IjpbMTkyOTM4MDIxNCwyMjA0MDMwNzgsLTYxMz
+YxODExNiwtMTk3NzE2NTQwOSwxNzQ1ODk3OTE3LDE2NjMzODg2
+MDMsMzQyMTk3NjMzLDIwMjc2NzA2MDMsLTEwNDU5NTI3NDcsMT
+c0NDE1MTk2NiwxNTAxMTIxODYyLC0xNTMzOTg5OTk0LC04MjA4
+MDQ1OTUsLTE0MDc1MjkzMzAsLTI5NDI0MjUwMywtMTE4Nzc0Mj
+ExMSwtNDgxOTEzNzUwLDQ4MTE3MzE2OCwxNzY4MjYxODg3LDEw
+NzkzMDQxMjldfQ==
 -->
