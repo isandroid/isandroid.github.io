@@ -1064,12 +1064,14 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 [^014_038]: Doa Nabi Ibrahim (as) ini telah memperoleh perwujudan yang sempurna dalam diri Rasulullah Saw, sebab sebelum beliau hanya orang-orang Arab-lah yang berkunjung ke Mekah untuk mempersembahkan kurban-kurban mereka, tetapi sesudah kedatangan beliau, bangsa-bangsa dari seluruh dunia mulai berkunjung ke kota itu.
 
 	Doa itu diucapkan pada saat, ketika tiada sehelai pun rumput nampak tumbuh dalam jarak bermil-mil di sekitar Mekah. Namun nubuatan itu telah menjadi sempurna dengan cara yang menakjubkan, sebab buahbuahan yang paling terpilih didatangkan orang berlimpah-limpah ke Mekah pada setiap musim.([QS Al-Fatihah [1]: 1-7](https://openquran.com/1))
+
+[^017_025]: 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2MDQyNjI2MCwxNDA5MjIzNzkzLDE1Nz
-Q2MTMxNjksLTE0MzI1NTYzMTcsODYwMDY0NjE2LC0xMTI3ODU3
-MDg1LC0xMjY0MDgyNzMsMTQ2MzU1MDU4OCwtMjAxNzg2MDA3Ny
-wxMDcxMTg0MjcsLTQ0NzI3MTk2MSwtMTEyNTQ4ODg1MCwyMjA0
-MDMwNzgsLTYxMzYxODExNiwtMTk3NzE2NTQwOSwxNzQ1ODk3OT
-E3LDE2NjMzODg2MDMsMzQyMTk3NjMzLDIwMjc2NzA2MDMsLTEw
-NDU5NTI3NDddfQ==
+eyJoaXN0b3J5IjpbMTI0NzI5MDQ0LDE4NjA0MjYyNjAsMTQwOT
+IyMzc5MywxNTc0NjEzMTY5LC0xNDMyNTU2MzE3LDg2MDA2NDYx
+NiwtMTEyNzg1NzA4NSwtMTI2NDA4MjczLDE0NjM1NTA1ODgsLT
+IwMTc4NjAwNzcsMTA3MTE4NDI3LC00NDcyNzE5NjEsLTExMjU0
+ODg4NTAsMjIwNDAzMDc4LC02MTM2MTgxMTYsLTE5NzcxNjU0MD
+ksMTc0NTg5NzkxNywxNjYzMzg4NjAzLDM0MjE5NzYzMywyMDI3
+NjcwNjAzXX0=
 -->
