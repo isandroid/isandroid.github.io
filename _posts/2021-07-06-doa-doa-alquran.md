@@ -254,9 +254,7 @@ Wahai Tuhan kami, janganlah Engkau bengkokkan hati kami setelah Engkau memberi k
 اَلۡحَمۡدُ لِلّٰہِ الَّذِیۡ ہَدٰٮنَا لِہٰذَا وَمَا کُنَّا لِنَہۡتَدِیَ لَوۡلَاۤ اَنۡ ہَدٰٮنَا اللّٰہُ
 </p>
 
-”Segala puji bagi Allah Yang telah menunjuki kami pada surga ini, dan kami tidak akan mendapat petunjuk seandainya Allah tidak memberi kami petunjuk." ([QS Al-A'roof [7]:44](https://openquran.com/7:44)) []
-
-[^007_044_keterangan]: Doa tersebut adalah doa yang dipanjatkan oleh orang yang di dalam dada mereka telah Allah Ta'ala hilangkan segala dendam. Setelah itu Allah Ta'ala menyeru kepada mereka, “Inilah surga yang telah diwariskan kepadamu sebagai ganjaran atas apa yang telah kamu kerjakan.”
+”Segala puji bagi Allah Yang telah menunjuki kami pada surga ini, dan kami tidak akan mendapat petunjuk seandainya Allah tidak memberi kami petunjuk." ([QS Al-A'roof [7]:44](https://openquran.com/7:44)) [[^007_044_keterangan]]
 
 ### 23. Doa Memohon Kesabaran dan Keselamatan 
 
@@ -1074,9 +1072,10 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 
 [^007_090_keterangan]: Ini adalah doa yang dipanjatkan oleh Nabi Syuaib (as) ketika penentangan kaumnya telah memuncak. Setelah itu kaumnya diberikan azab berupa gempa bumi.
 
+[^007_044_keterangan]: Doa tersebut adalah doa yang dipanjatkan oleh orang yang di dalam dada mereka telah Allah Ta'ala hilangkan segala dendam. Setelah itu Allah Ta'ala menyeru kepada mereka, “Inilah surga yang telah diwariskan kepadamu sebagai ganjaran atas apa yang telah kamu kerjakan.”
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2NTAwMjk0LC0yMDE3ODYwMDc3LDEwNz
+eyJoaXN0b3J5IjpbOTU1MjY3MzcxLC0yMDE3ODYwMDc3LDEwNz
 ExODQyNywtNDQ3MjcxOTYxLC0xMTI1NDg4ODUwLDIyMDQwMzA3
 OCwtNjEzNjE4MTE2LC0xOTc3MTY1NDA5LDE3NDU4OTc5MTcsMT
 Y2MzM4ODYwMywzNDIxOTc2MzMsMjAyNzY3MDYwMywtMTA0NTk1
