@@ -516,13 +516,19 @@ Wahai Tuhan kami, janganlah Engkau bengkokkan hati kami setelah Engkau memberi k
 
 “Teguhkanlah kekuatanku dengannya"
 
+“Dan ikut sertakanlah ia dalam tugasku;"
 
+“Supaya kami banyak bertasbih kepada Engkau."
 
-(QS Toha [20] :[26](https://openquran.com/20:26), [27](https://openquran.com/20:27), [28](https://openquran.com/20:28), [29](https://openquran.com/20:29), [30](https://openquran.com/20:30), [31](https://openquran.com/20:31), [32](https://openquran.com/20:32), [33](https://openquran.com/20:33), [34](https://openquran.com/20:34), [35](https://openquran.com/20:35), [36](https://openquran.com/20:36))
+“Dan kami banyak mengingat Engkau;"
 
-[^020_030]:
+“Sesungguhnya Engkau Maha Melihat kepada kami.” 
 
-Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Musa (as) ketika diperintah Allah Ta'ala menghadapi Raja Firaun.
+(QS Toha [20] :[26](https://openquran.com/20:26), [27](https://openquran.com/20:27), [28](https://openquran.com/20:28), [29](https://openquran.com/20:29), [30](https://openquran.com/20:30), [31](https://openquran.com/20:31), [32](https://openquran.com/20:32), [33](https://openquran.com/20:33), [34](https://openquran.com/20:34), [35](https://openquran.com/20:35), [36](https://openquran.com/20:36)) [[^020_030_036_keterangan]]
+
+[^020_030]: Nabi Musa As tidak menganggap diri beliau layak menghadapi tugas berat yang diserahkan kepadanya. Ia memohon diberi seorang penolong untuk membantunya. Rasulullah Saw yang kepada beliau diserahkan tugas yang jauh lebih berat dan sulit, tidak pernah berdoa untuk diberi seorang pembantu. Beliau sendiri, tanpa dibantu dan tanpa ditolong, menjalankan sepenuhnya dan selengkapnya tugas dan tanggung jawab untuk mengangkat martabat suatu kaum yang telah terbenam ke dalam lumpur kejahatan moral paling rendah ke puncak kemajuan rohani paling tinggi.
+
+[^020_030_036_keterangan]: Ini adalah doa yang dipanjatkan oleh Nabi Musa (as) ketika diperintah Allah Ta'ala menghadapi Raja Firaun.
 
 ### 42. Doa Memohon Ditambah Ilmu
 
@@ -1095,11 +1101,11 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 
 [^019_005_007_keterangan]: Ini adalah doa yang dipanjatkan oleh Nabi Zakaria (as)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1OTk1NTI5NiwzNDA3NjA0NzAsMTA0OD
-cyMTcxMCwxODYwNDI2MjYwLDE0MDkyMjM3OTMsMTU3NDYxMzE2
-OSwtMTQzMjU1NjMxNyw4NjAwNjQ2MTYsLTExMjc4NTcwODUsLT
-EyNjQwODI3MywxNDYzNTUwNTg4LC0yMDE3ODYwMDc3LDEwNzEx
-ODQyNywtNDQ3MjcxOTYxLC0xMTI1NDg4ODUwLDIyMDQwMzA3OC
-wtNjEzNjE4MTE2LC0xOTc3MTY1NDA5LDE3NDU4OTc5MTcsMTY2
-MzM4ODYwM119
+eyJoaXN0b3J5IjpbLTIxMjcxNDEwMzgsMzQwNzYwNDcwLDEwND
+g3MjE3MTAsMTg2MDQyNjI2MCwxNDA5MjIzNzkzLDE1NzQ2MTMx
+NjksLTE0MzI1NTYzMTcsODYwMDY0NjE2LC0xMTI3ODU3MDg1LC
+0xMjY0MDgyNzMsMTQ2MzU1MDU4OCwtMjAxNzg2MDA3NywxMDcx
+MTg0MjcsLTQ0NzI3MTk2MSwtMTEyNTQ4ODg1MCwyMjA0MDMwNz
+gsLTYxMzYxODExNiwtMTk3NzE2NTQwOSwxNzQ1ODk3OTE3LDE2
+NjMzODg2MDNdfQ==
 -->
