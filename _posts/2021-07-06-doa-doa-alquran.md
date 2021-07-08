@@ -418,7 +418,9 @@ Wahai Tuhan kami, janganlah Engkau bengkokkan hati kami setelah Engkau memberi k
 رَّبِّ ارۡحَمۡہُمَا کَمَا رَبَّیَانِیۡ صَغِیۡرًا
 </p>
 
-”Wahai Tuhan! Kasihilah mereka berdua sebagaimana mereka berdua telah mendidikku semasa aku kecil.” ([QS Bani Israil [17]:25](https://openquran.com/17:25)) 
+”Wahai Tuhan! Kasihilah mereka berdua sebagaimana mereka berdua telah mendidikku semasa aku kecil.” [[^017_025]]
+
+([QS Bani Israil [17]:25](https://openquran.com/17:25)) 
 
 ### 38. Doa Ketika akan Masuk dan Keluar dari Suatu Tempat
 
@@ -1399,7 +1401,7 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 
 (114:2-7)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyMDU3NzMxMywtMTQzMjU1NjMxNyw4Nj
+eyJoaXN0b3J5IjpbMTU3NDYxMzE2OSwtMTQzMjU1NjMxNyw4Nj
 AwNjQ2MTYsLTExMjc4NTcwODUsLTEyNjQwODI3MywxNDYzNTUw
 NTg4LC0yMDE3ODYwMDc3LDEwNzExODQyNywtNDQ3MjcxOTYxLC
 0xMTI1NDg4ODUwLDIyMDQwMzA3OCwtNjEzNjE4MTE2LC0xOTc3
