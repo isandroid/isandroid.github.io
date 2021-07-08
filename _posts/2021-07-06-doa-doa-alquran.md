@@ -262,9 +262,7 @@ Wahai Tuhan kami, janganlah Engkau bengkokkan hati kami setelah Engkau memberi k
 رَبَّنَاۤ اَفۡرِغۡ عَلَیۡنَا صَبۡرًا وَّتَوَفَّنَا مُسۡلِمِیۡنَ
 </p>
 
-"Wahai Tuhan kami, limpahkanlah kesabaran kepada kami dan wafatkanlah kami *dalam keadaan* berserah diri *kepada Engkau*.” ([QS Al-A'roof [7]:127](https://openquran.com/7:127))
-
-Keterangan: Doa ini dipanjatkan para penyihir yang telah kalah melawan Nabi Musa (as). Mereka diberikan ancaman oleh Raja Firaun karena mereka serta merta beriman kepada Nabi Musa (as). Mereka diancam akan dipotong tangan dan kakinya serta disalibkan.
+"Wahai Tuhan kami, limpahkanlah kesabaran kepada kami dan wafatkanlah kami *dalam keadaan* berserah diri *kepada Engkau*.” ([QS Al-A'roof [7]:127](https://openquran.com/7:127)) [[^007_127_keterangan]]
 
 ### 24. Doa Memohon Dijauhkan dari Orang yang Zalim 
 
@@ -1075,7 +1073,7 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 [^007_044_keterangan]: Doa tersebut adalah doa yang dipanjatkan oleh orang yang di dalam dada mereka telah Allah Ta'ala hilangkan segala dendam. Setelah itu Allah Ta'ala menyeru kepada mereka, “Inilah surga yang telah diwariskan kepadamu sebagai ganjaran atas apa yang telah kamu kerjakan.”
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTU1MjY3MzcxLC0yMDE3ODYwMDc3LDEwNz
+eyJoaXN0b3J5IjpbNTI2MDcxODQzLC0yMDE3ODYwMDc3LDEwNz
 ExODQyNywtNDQ3MjcxOTYxLC0xMTI1NDg4ODUwLDIyMDQwMzA3
 OCwtNjEzNjE4MTE2LC0xOTc3MTY1NDA5LDE3NDU4OTc5MTcsMT
 Y2MzM4ODYwMywzNDIxOTc2MzMsMjAyNzY3MDYwMywtMTA0NTk1
