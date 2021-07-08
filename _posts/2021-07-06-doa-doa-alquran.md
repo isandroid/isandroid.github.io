@@ -66,6 +66,10 @@ Tunjukilah kami jalan yang lurus,  [[^001_006]]
 
 	Sifat khusus lainnya pada doa yang terkandung dalam surah ini yaitu doa tersebut mengimbau naluri-naluri manusia yang dalam dengan cara yang wajar sekali. Dalam fitrat manusia ada dua pendorong yang merangsangnya untuk berserah diri yaitu cinta dan takut. Sebagian orang tergerak oleh cinta, sedangkan yang lain terdorong oleh takut. Dorongan cinta memang lebih mulia, tetapi mungkin ada – dan sungguhsungguh ada – orang-orang yang hatinya tidak tergerak oleh cinta, mereka hanya menyerah karena pengaruh takut.
 
+	Allah Swt mengetahui bahwa manusia itu lemah dan mudah keliru serta tergelincir, maka Dia mendorong hamba-hamba-Nya agar mohon pertolongan-Nya pada setiap derap langkah majunya dan setiap keperluan yang dihadapinya. Akhirnya datanglah doa yang padat dan berjangkauan jauh, suatu doa yang di dalamnya manusia memohon kepada Khāliq-nya, untuk membimbingnya ke jalan yang lurus dalam segala urusan rohani dan duniawi, baik mengenai keperluan-keperluannya sekarang atau pun di hari depan. Ia berdoa kepada Allah Swt agar ia bukan saja dapat menghadapi segala cobaan dan ujian dengan tabah, tetapi juga selaku “orang-orang terpilih” menghadapinya dengan cara yang sebaik-baiknya dan menjadi penerima karunia dan berkat Allah Swt yang paling banyak dan paling besar, agar ia selamanya terus melangkah maju pada jalan yang lurus, maju terus makin dekat dan lebih dekat lagi kepada Allah Swt dan Junjungannya, tanpa terantuk-antuk di perjalanannya seperti telah terjadi pada banyak dari antara mereka yang hidup di masa yang lampau. 
+
+	Itulah pokok surah pembukaan Al-Qur’an yang dengan suatu bentuk atau cara lain senantiasa diulangi dalam seluruh kandungan batang tubuh kitab suci itu (AlQur’an).
+
 ### 2. Doa Memohon Keamanan dan Rejeki
 
 <p class="quran">
@@ -1077,7 +1081,7 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk1MjU5Njc3MiwxNjYzMzg4NjAzLDM0Mj
+eyJoaXN0b3J5IjpbMTc0NTg5NzkxNywxNjYzMzg4NjAzLDM0Mj
 E5NzYzMywyMDI3NjcwNjAzLC0xMDQ1OTUyNzQ3LDE3NDQxNTE5
 NjYsMTUwMTEyMTg2MiwtMTUzMzk4OTk5NCwtODIwODA0NTk1LC
 0xNDA3NTI5MzMwLC0yOTQyNDI1MDMsLTExODc3NDIxMTEsLTQ4
