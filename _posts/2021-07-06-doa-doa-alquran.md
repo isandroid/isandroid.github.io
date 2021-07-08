@@ -408,9 +408,7 @@ Wahai Tuhan kami, janganlah Engkau bengkokkan hati kami setelah Engkau memberi k
 
 ”Wahai Tuhan-ku! Jadikanlah aku dan keturunanku orang yang *tetap* mendirikan shalat, Wahai Tuhan kami! *Karuniailah aku dengan rahmat Engkau* dan kabulkanlah doaku."
 
-”Wahai Tuhan kami! Ampunilah aku, kedua orangtuaku dan orang-orang mukmin pada Hari diadakannya perhitungan.”
-
-(QS Ibrahim [14]: [36](https://openquran.com/14:36), [37](https://openquran.com/14:37), [38](https://openquran.com/14:38), [39](https://openquran.com/14:39), [40](https://openquran.com/14:40), [41](https://openquran.com/14:41), [42](https://openquran.com/14:42)) [[^014_036_042_keterangan]]
+”Wahai Tuhan kami! Ampunilah aku, kedua orangtuaku dan orang-orang mukmin pada Hari diadakannya perhitungan.” (QS Ibrahim [14]: [36](https://openquran.com/14:36), [37](https://openquran.com/14:37), [38](https://openquran.com/14:38), [39](https://openquran.com/14:39), [40](https://openquran.com/14:40), [41](https://openquran.com/14:41), [42](https://openquran.com/14:42)) [[^014_036_042_keterangan]]
 
 ### 37. Doa untuk Ibu dan Bapak
 
@@ -418,9 +416,7 @@ Wahai Tuhan kami, janganlah Engkau bengkokkan hati kami setelah Engkau memberi k
 رَّبِّ ارۡحَمۡہُمَا کَمَا رَبَّیَانِیۡ صَغِیۡرًا
 </p>
 
-”Wahai Tuhan! Kasihilah mereka berdua sebagaimana mereka berdua telah mendidikku semasa aku kecil.” [[^017_025]]
-
-([QS Bani Israil [17]:25](https://openquran.com/17:25)) 
+”Wahai Tuhan! Kasihilah mereka berdua sebagaimana mereka berdua telah mendidikku semasa aku kecil.” [[^017_025]] ([QS Bani Israil [17]:25](https://openquran.com/17:25)) 
 
 ### 38. Doa Ketika akan Masuk dan Keluar dari Suatu Tempat
 
@@ -428,9 +424,7 @@ Wahai Tuhan kami, janganlah Engkau bengkokkan hati kami setelah Engkau memberi k
  رَّبِّ اَدۡخِلۡنِیۡ مُدۡخَلَ صِدۡقٍ وَّاَخۡرِجۡنِیۡ مُخۡرَجَ صِدۡقٍ وَّاجۡعَل لِّیۡ مِنۡ لَّدُنۡکَ سُلۡطٰنًا نَّصِیۡرًا
 </p>
 
-“Wahai Tuhan-ku! Masukkanlah aku *dengan cara* masuk yang baik dan keluarkanlah aku *dengan cara* keluar yang baik. Dan jadikanlah bagiku dari hadirat Engkau kekuatan yang menolong.” [[^017_081]]
-
-([QS Bani Israil [17]:81](https://openquran.com/17:81))
+“Wahai Tuhan-ku! Masukkanlah aku *dengan cara* masuk yang baik dan keluarkanlah aku *dengan cara* keluar yang baik. Dan jadikanlah bagiku dari hadirat Engkau kekuatan yang menolong.” [[^017_081]] ([QS Bani Israil [17]:81](https://openquran.com/17:81))
 
 ### 39. Doa Memohon Rahmat dan Meminta Kemenangan
 
@@ -1071,11 +1065,11 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 
 [^017_081]: Sebagai kemakbulan doa-doa dan permohonan-permohonan beliau, Rasulullah Saw dalam ayat ini diberi khabar suka, bahwa untuk menggenapi nubuatan dalam kata-kata “Mahasuci Dia, yang telah memperjalankan hamba-Nya pada waktu malam hari dari Masjid al-Haram ke Masjid alAqsa” (QS.17: 2), beliau akan dibawa ke Medinah. Untuk mendahului dan menyambut penyempurnaan nubuatan ini, beliau diperintahkan berdoa supaya masuk beliau ke Medinah dan begitu pula keberangkatan beliau dari kota Mekah, di mana beliau tinggal pada saat itu, akan dianugerahi keberkatan yang berlimpah-limpah.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjg2NjMxODE3LDE4NjA0MjYyNjAsMTQwOT
-IyMzc5MywxNTc0NjEzMTY5LC0xNDMyNTU2MzE3LDg2MDA2NDYx
-NiwtMTEyNzg1NzA4NSwtMTI2NDA4MjczLDE0NjM1NTA1ODgsLT
-IwMTc4NjAwNzcsMTA3MTE4NDI3LC00NDcyNzE5NjEsLTExMjU0
-ODg4NTAsMjIwNDAzMDc4LC02MTM2MTgxMTYsLTE5NzcxNjU0MD
-ksMTc0NTg5NzkxNywxNjYzMzg4NjAzLDM0MjE5NzYzMywyMDI3
-NjcwNjAzXX0=
+eyJoaXN0b3J5IjpbMTA1NTU4Mzk4NywxODYwNDI2MjYwLDE0MD
+kyMjM3OTMsMTU3NDYxMzE2OSwtMTQzMjU1NjMxNyw4NjAwNjQ2
+MTYsLTExMjc4NTcwODUsLTEyNjQwODI3MywxNDYzNTUwNTg4LC
+0yMDE3ODYwMDc3LDEwNzExODQyNywtNDQ3MjcxOTYxLC0xMTI1
+NDg4ODUwLDIyMDQwMzA3OCwtNjEzNjE4MTE2LC0xOTc3MTY1ND
+A5LDE3NDU4OTc5MTcsMTY2MzM4ODYwMywzNDIxOTc2MzMsMjAy
+NzY3MDYwM119
 -->
