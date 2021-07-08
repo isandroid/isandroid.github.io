@@ -456,10 +456,6 @@ Wahai Tuhan kami, janganlah Engkau bengkokkan hati kami setelah Engkau memberi k
 
 (QS Maryam [19]: [5](https://openquran.com/19:5), [6](https://openquran.com/19:6), [7](https://openquran.com/19:7)) [[^019_005_007_keterangan]]
 
-[^019_006]: Doa Nabi Zakaria As memiliki semua unsur dalam suatu doa yang lengkap dan mustajab (manjur). Doa yang mustajab harus diucapkan dengan khusyuk dan merendahkan diri. Orang yang berdoa harus mengakui kelemahan dan ketidakmampuan dirinya. Ia harus memiliki keyakinan membaja akan kekuatan Tuhan untuk mengabulkan doanya. Doa Zakaria As memenuhi semua syarat tersebut. 
-
-[^019_005_007_keterangan]: Ini adalah doa yang dipanjatkan oleh Nabi Zakaria (as)
-
 ### 41. Doa Memohon Kemenangan dalam Bertabligh 
 
 <p class="quran">
@@ -506,9 +502,11 @@ Wahai Tuhan kami, janganlah Engkau bengkokkan hati kami setelah Engkau memberi k
 اِنَّکَ کُنۡتَ بِنَا بَصِیۡرًا
 </p>
 
+“Wahai Tuhan-ku! Lapangkanlah bagiku dadaku,
+
 (QS Toha [20] :[26](https://openquran.com/20:26), [27](https://openquran.com/20:27), [28](https://openquran.com/20:28), [29](https://openquran.com/20:29), [30](https://openquran.com/20:30), [31](https://openquran.com/20:31), [32](https://openquran.com/20:32), [33](https://openquran.com/20:33), [34](https://openquran.com/20:34), [35](https://openquran.com/20:35), [36](https://openquran.com/20:36))
 
-Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Musa (as)
+Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Musa (as) ketika diperintah Allah Ta'ala menghadapi Raja Firaun.
 
 ### 42. Doa Memohon Ditambah Ilmu
 
@@ -1076,12 +1074,16 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 [^018_011]: Doa ini dipanjatkan oleh para pemuda yang menjaga keimanan mereka kepada Allah. Mereka dikejar-kejar oleh raja Decius sehingga bersembunyi ke dalam Kahfi (gua) yang luas di pinggir sebuah gunung, di mana mereka dibiarkan menjadi musnah oleh raja zalim itu dengan memberi perintah untuk menutup pintu masuk gua itu rapat-rapat dengan tumpukan batu-batu besar. Sekarang. ini merupakan kenyataan sejarah yang cukup dikenal. bahwa kaum Kristen awal mengalami penindasan yang tak terkatakan dari Kaisar-kaisar Roma musyrik, karena keimanan mereka kepada tauhid Ilahi.
 
 	Untuk menyelamatkan diri dari penindasan kejam dan di luar perikemanu siaan itu, para korban yang tidak berdaya itu mencari perlindungan dengan bersembunyi dalam katakombakatakomba (rongga-rongga di bawah tanah tempat menyimpan mayat-mayat) di Roma. Untuk memenuhi tujuan tersebut katakomba- katakomba itu sangat cocok, pertama oleh karena sangat berliku-likunya jalan ke ruangan-ruangan gua yang sangat menyesatkan itu; dan kedua, oleh karena tak terhitung banyaknya ruangan-ruangan kecil dan persembunyian-persembunyian pada tingkat-tingkat berlainan, yang boleh jadi tetap tidak dapat ditemukan dalam kegelapan oleh para pengejar. Nampak dari tulisan-tulisan pada batu-batu nisan kuburan di katakomba-katakomba tersebut, bahwa kaum Kristen di jaman permulaan itu berpegang pada tauhid dengan kuat. Nabi Isa As disebut dalam tulisan-tulisan itu hanya sebagai gembala atau nabi Allah; sedangkan ibunda beliau, Siti Maryam, tidak lebih dari seorang wanita yang saleh. Nampak pula, bahwa orang Kristen yang mencari perlindungan di katakomba-katakomba tersebut gemar menempatkan anjing di pintu-pintu masuk mereka, yang dengan menyalaknyalak akan memberitahukan kedatangan orang-orang asing. Dengan demikian kisah para penghuni gua itu pada hakikatnya melukiskan sejarah orang-orang Kristen di jaman permulaan, dan menunjukkan betapa mereka menderita penindasan -penindasan tak terkatakan, demi keimanan mereka kepada tauhid Ilahi.
+
+[^019_006]: Doa Nabi Zakaria As memiliki semua unsur dalam suatu doa yang lengkap dan mustajab (manjur). Doa yang mustajab harus diucapkan dengan khusyuk dan merendahkan diri. Orang yang berdoa harus mengakui kelemahan dan ketidakmampuan dirinya. Ia harus memiliki keyakinan membaja akan kekuatan Tuhan untuk mengabulkan doanya. Doa Zakaria As memenuhi semua syarat tersebut. 
+
+[^019_005_007_keterangan]: Ini adalah doa yang dipanjatkan oleh Nabi Zakaria (as)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQwNzYwNDcwLDEwNDg3MjE3MTAsMTg2MD
-QyNjI2MCwxNDA5MjIzNzkzLDE1NzQ2MTMxNjksLTE0MzI1NTYz
-MTcsODYwMDY0NjE2LC0xMTI3ODU3MDg1LC0xMjY0MDgyNzMsMT
-Q2MzU1MDU4OCwtMjAxNzg2MDA3NywxMDcxMTg0MjcsLTQ0NzI3
-MTk2MSwtMTEyNTQ4ODg1MCwyMjA0MDMwNzgsLTYxMzYxODExNi
-wtMTk3NzE2NTQwOSwxNzQ1ODk3OTE3LDE2NjMzODg2MDMsMzQy
-MTk3NjMzXX0=
+eyJoaXN0b3J5IjpbMTYxOTg1OTk0MSwzNDA3NjA0NzAsMTA0OD
+cyMTcxMCwxODYwNDI2MjYwLDE0MDkyMjM3OTMsMTU3NDYxMzE2
+OSwtMTQzMjU1NjMxNyw4NjAwNjQ2MTYsLTExMjc4NTcwODUsLT
+EyNjQwODI3MywxNDYzNTUwNTg4LC0yMDE3ODYwMDc3LDEwNzEx
+ODQyNywtNDQ3MjcxOTYxLC0xMTI1NDg4ODUwLDIyMDQwMzA3OC
+wtNjEzNjE4MTE2LC0xOTc3MTY1NDA5LDE3NDU4OTc5MTcsMTY2
+MzM4ODYwM119
 -->
