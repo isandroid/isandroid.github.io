@@ -54,7 +54,8 @@ Tunjukilah kami jalan yang lurus,  [[^001_006]]
 
 [^001_006]: Doa ini meliputi seluruh keperluan manusia – kebendaan dan rohani, untuk masa ini dan masa yang akan datang. Orang beriman berdoa agar kepadanya ditunjukkan jalan lurus – jalan terpendek. Kadang-kadang kepada manusia diperlihatkan jalan yang benar dan lurus itu, tetapi ia tidak dibimbing kepadanya, atau jika pun dibimbing ke sana, ia tidak teguh pada jalan itu dan tidak mengikutinya hingga akhir. 
 
-	Doa tersebut menghendaki agar orang beriman tidak merasa puas dengan hanya diperlihatkan kepadanya suatu jalan, atau juga dengan dibimbing pada jalan itu, tetapi ia harus senantiasa terus menerus mengikutinya hingga mencapai tujuannya, dan inilah makna Hidayah, yang berarti menunjukkan jalan yang lurus (QS.90:11), membimbing ke jalan yang lurus (QS.29:70), dan membuat orang mengikuti jalan yang lurus (QS.7:44) (Mufradāt dan Baqa). 
+	Doa tersebut menghendaki agar orang beriman tidak merasa puas dengan hanya diperlihatkan kepadanya suatu jalan, atau juga dengan dibimbing pada jalan itu, tetapi ia harus senantiasa terus menerus mengikutinya hingga mencapai tujuannya, dan inilah makna Hidayah, yang berarti menunjukkan jalan yang lurus (QS.90:11), membimbing ke jalan yang lurus (QS.29:70), dan membuat orang mengikuti jalan yang lurus (QS.7:44) (Mufradāt dan Baqa).
+	 
 	Pada hakikatnya, manusia memerlukan pertolongan Allah Swt pada tiap-tiap langkah dan pada setiap saat, dan sangat perlu sekali baginya agar ia senantiasa mengajukan kepada-Nya permohonan yang terkandung dalam ayat ini. Oleh karena itu doa terus-menerus itu memang sangat perlu. Selama kita mempunyai keperluankeperluan yang belum kesampaian dan keperluan-keperluan yang belum terpenuhi dan tujuan-tujuan yang belum tercapai maka kita selamanya memerlukan doa.
 
 ### 2. Doa Memohon Keamanan dan Rejeki
@@ -1068,7 +1069,7 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2NzQ2MTQ3NCwxNjYzMzg4NjAzLDM0Mj
+eyJoaXN0b3J5IjpbLTI0NDUwNzA2NCwxNjYzMzg4NjAzLDM0Mj
 E5NzYzMywyMDI3NjcwNjAzLC0xMDQ1OTUyNzQ3LDE3NDQxNTE5
 NjYsMTUwMTEyMTg2MiwtMTUzMzk4OTk5NCwtODIwODA0NTk1LC
 0xNDA3NTI5MzMwLC0yOTQyNDI1MDMsLTExODc3NDIxMTEsLTQ4
