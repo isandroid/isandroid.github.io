@@ -418,7 +418,7 @@ Wahai Tuhan kami, janganlah Engkau bengkokkan hati kami setelah Engkau memberi k
 رَّبِّ ارۡحَمۡہُمَا کَمَا رَبَّیَانِیۡ صَغِیۡرًا
 </p>
 
-([QS Bani Israil [17]:25](https://openquran.com/17:25))
+”Wahai Tuhan! Kasihilah mereka berdua sebagaimana mereka berdua telah mendidikku semasa aku kecil.” ([QS Bani Israil [17]:25](https://openquran.com/17:25)) 
 
 ### 38. Doa Ketika akan Masuk dan Keluar dari Suatu Tempat
 
@@ -1399,11 +1399,11 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 
 (114:2-7)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MzI1NTYzMTcsODYwMDY0NjE2LC0xMT
-I3ODU3MDg1LC0xMjY0MDgyNzMsMTQ2MzU1MDU4OCwtMjAxNzg2
-MDA3NywxMDcxMTg0MjcsLTQ0NzI3MTk2MSwtMTEyNTQ4ODg1MC
-wyMjA0MDMwNzgsLTYxMzYxODExNiwtMTk3NzE2NTQwOSwxNzQ1
-ODk3OTE3LDE2NjMzODg2MDMsMzQyMTk3NjMzLDIwMjc2NzA2MD
-MsLTEwNDU5NTI3NDcsMTc0NDE1MTk2NiwxNTAxMTIxODYyLC0x
-NTMzOTg5OTk0XX0=
+eyJoaXN0b3J5IjpbMTMyMDU3NzMxMywtMTQzMjU1NjMxNyw4Nj
+AwNjQ2MTYsLTExMjc4NTcwODUsLTEyNjQwODI3MywxNDYzNTUw
+NTg4LC0yMDE3ODYwMDc3LDEwNzExODQyNywtNDQ3MjcxOTYxLC
+0xMTI1NDg4ODUwLDIyMDQwMzA3OCwtNjEzNjE4MTE2LC0xOTc3
+MTY1NDA5LDE3NDU4OTc5MTcsMTY2MzM4ODYwMywzNDIxOTc2Mz
+MsMjAyNzY3MDYwMywtMTA0NTk1Mjc0NywxNzQ0MTUxOTY2LDE1
+MDExMjE4NjJdfQ==
 -->
