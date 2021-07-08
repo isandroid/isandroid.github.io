@@ -154,9 +154,7 @@ Wahai Tuhan kami, janganlah Engkau bengkokkan hati kami setelah Engkau memberi k
 رَبَّنَاۤ اٰمَنَّا بِمَاۤ اَنۡزَلۡتَ وَاتَّبَعۡنَا الرَّسُوۡلَ فَاکۡتُبۡنَا مَعَ الشّٰہِدِیۡنَ
 </p>
 
-“Wahai Tuhan kami, kami beriman kepada apa yang telah Engkau turunkan dan kami mengikuti Rasul ini maka catatlah kami bersama orang-orang yang menjadi saksi.” ([QS Aali-'Imraan [3]:54](https://openquran.com/3:54))
-
-Keterangan: Tatkala Nabi Isa (as) merasa ada kekufuran pada kaumnya, beliau (as) bersabda, ”Siapakah penolong-penolongku di jalan Allah?” Para Hawari atau para sahabat Nabi Isa (as), mereka berkata, “Kamilah para penolong di jalan Allah. Kami beriman kepada Allah, dan saksikanlah bahwa kami adalah orang-orang yang berserah diri. Setelah mereka mengikra
+“Wahai Tuhan kami, kami beriman kepada apa yang telah Engkau turunkan dan kami mengikuti Rasul ini maka catatlah kami bersama orang-orang yang menjadi saksi.” ([QS Aali-'Imraan [3]:54](https://openquran.com/3:54)) [[^003_054]]
 
 ### 13. Doa Memohon Ampun dan Memohon Diberikan Ketetapan Hati
 
@@ -1075,8 +1073,10 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 [^003_017]: Dzunūb adalah jamak dari Dzanb yang berarti kealpaan, perbuatan salah, pelanggaran, sesuatu yang patut dicela jika dilakukan dengan sengaja. Perbedaannya dengan Itsm adalah bahwa Dzanb itu boleh jadi disengaja atau dilakukan karena kealpaan, sedangkan Itsm yang khusus dilakukan dengan sengaja. Atau Dzanb berarti kekeliruan-kekeliruan dan kesalahan-kesalahan yang membawa akibat buruk atau menjadikan si pelakunya layak dituntut. Sesungguhnya Dzanb berarti kelemahan-kelemahan atau kekurangankekurangan yang melekat pada fitrat manusia, seperti halnya Dzanb (ekor, atau bagian tubuh yang seperti itu pada manusia) melekat pada tubuh, artinya kelemahan-kelemahan dan kekurangan-kekurangan alami pada diri manusia (Lane dan Mufradāt).
 
 [^003_028]: Kata “siang” di sini menggambarkan kesejahteraan dan kekuasaan suatu kaum dan kata “malam” melukiskan kemunduran dan kemerosotan mereka. Ayat ini dan yang mendahuluinya mengisyaratkan kepada hukum Ilahi yang tak berubah bahwa bangsa-bangsa bangkit atau jatuh, karena mereka menyesuaikan diri dengan atau menentang kehendak Ilahi yang merupakan sumber segala kekuasaan dan kebesaran.
+
+[^003_054]: Tatkala Nabi Isa (as) merasa ada kekufuran pada kaumnya, beliau (as) bersabda, ”Siapakah penolong-penolongku di jalan Allah?” Para Hawari atau para sahabat Nabi Isa (as), mereka berkata, “Kamilah para penolong di jalan Allah. Kami beriman kepada Allah, dan saksikanlah bahwa kami adalah orang-orang yang berserah diri. Setelah mereka mengikrarkan kesetiaannya keapda Nabi Isa (as), mereka berdoa dengan doa diatas.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1NTM5NzkyLC02MTM2MTgxMTYsLTE5Nz
+eyJoaXN0b3J5IjpbMjIwNDAzMDc4LC02MTM2MTgxMTYsLTE5Nz
 cxNjU0MDksMTc0NTg5NzkxNywxNjYzMzg4NjAzLDM0MjE5NzYz
 MywyMDI3NjcwNjAzLC0xMDQ1OTUyNzQ3LDE3NDQxNTE5NjYsMT
 UwMTEyMTg2MiwtMTUzMzk4OTk5NCwtODIwODA0NTk1LC0xNDA3
