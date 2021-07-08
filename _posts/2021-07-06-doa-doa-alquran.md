@@ -246,9 +246,7 @@ Wahai Tuhan kami, janganlah Engkau bengkokkan hati kami setelah Engkau memberi k
  رَبَّنَا افۡتَحۡ بَیۡنَنَا وَبَیۡنَ قَوۡمِنَا بِالۡحَقِّ وَاَنۡتَ خَیۡرُ الۡفٰتِحِیۡنَ
 </p>
 
-"Wahai Tuhan kami, berilah keputusan di antara kami dan kaum kami dengan benar, dan Engkau adalah sebaik-baik Pemberi Keputusan.” ([QS Al-A'roof [7]:90](https://openquran.com/7:90)) 
-
-[^007_090] Ini adalah doa yang dipanjatkan oleh Nabi Syuaib (as) ketika penentangan kaumnya telah memuncak. Setelah itu kaumnya diberikan azab berupa gempa bumi.
+"Wahai Tuhan kami, berilah keputusan di antara kami dan kaum kami dengan benar, dan Engkau adalah sebaik-baik Pemberi Keputusan.” ([QS Al-A'roof [7]:90](https://openquran.com/7:90)) [[^007_090_keterangan]]
 
 ### 22. Doa Bersyukur atas Petunjuk dari Allah 
 
@@ -256,13 +254,9 @@ Wahai Tuhan kami, janganlah Engkau bengkokkan hati kami setelah Engkau memberi k
 اَلۡحَمۡدُ لِلّٰہِ الَّذِیۡ ہَدٰٮنَا لِہٰذَا وَمَا کُنَّا لِنَہۡتَدِیَ لَوۡلَاۤ اَنۡ ہَدٰٮنَا اللّٰہُ
 </p>
 
-”Segala puji bagi Allah Yang telah menunjuki kami pada surga ini, dan kami tidak akan mendapat petunjuk seandainya Allah tidak memberi kami petunjuk." ([QS Al-A'roof [7]:44](https://openquran.com/7:44))
+”Segala puji bagi Allah Yang telah menunjuki kami pada surga ini, dan kami tidak akan mendapat petunjuk seandainya Allah tidak memberi kami petunjuk." ([QS Al-A'roof [7]:44](https://openquran.com/7:44)) []
 
-Keterangan: 
-
-- Doa tersebut adalah doa yang dipanjatkan oleh orang yang di dalam dada mereka telah Allah Ta'ala hilangkan segala dendam.
-
-- Setelah itu Allah Ta'ala menyeru kepada mereka, “Inilah surga yang telah diwariskan kepadamu sebagai ganjaran atas apa yang telah kamu kerjakan.”
+[^007_044_keterangan]: Doa tersebut adalah doa yang dipanjatkan oleh orang yang di dalam dada mereka telah Allah Ta'ala hilangkan segala dendam. Setelah itu Allah Ta'ala menyeru kepada mereka, “Inilah surga yang telah diwariskan kepadamu sebagai ganjaran atas apa yang telah kamu kerjakan.”
 
 ### 23. Doa Memohon Kesabaran dan Keselamatan 
 
@@ -1078,10 +1072,11 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 
 [^007_024]: Nabi Adam (as) segera menyadari kekeliruannya lalu cepat-cepat kembali rujuk kepada Allah (swt), bertaubat. Sesungguhnya kesalahan Adam (as) terletak pada anggapannya bahwa “manusia Syaitān” itu bermaksud baik, sungguhpun Allah (swt) telah memperingatkan dirinya agar jangan berurusan dengan orang itu.
 
+[^007_090_keterangan]: Ini adalah doa yang dipanjatkan oleh Nabi Syuaib (as) ketika penentangan kaumnya telah memuncak. Setelah itu kaumnya diberikan azab berupa gempa bumi.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzkxNTk0MTE0LC0yMDE3ODYwMDc3LDEwNz
+eyJoaXN0b3J5IjpbMTE2NTAwMjk0LC0yMDE3ODYwMDc3LDEwNz
 ExODQyNywtNDQ3MjcxOTYxLC0xMTI1NDg4ODUwLDIyMDQwMzA3
 OCwtNjEzNjE4MTE2LC0xOTc3MTY1NDA5LDE3NDU4OTc5MTcsMT
 Y2MzM4ODYwMywzNDIxOTc2MzMsMjAyNzY3MDYwMywtMTA0NTk1
