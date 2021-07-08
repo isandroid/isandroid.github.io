@@ -473,6 +473,8 @@ Keterangan:
 رَبَّنَا اغۡفِرۡ لِیۡ وَلِوٰلِدَیَّ وَلِلۡمُؤۡمِنِیۡنَ یَوۡمَ یَقُوۡمُ الۡحِسَابُ
 </p>
 
+“Wahai Tuhanku! Jadikanlah kota ini *tempat* 
+
 (QS Ibrahim [14]: [36](https://openquran.com/14:36), [37](https://openquran.com/14:37), [38](https://openquran.com/14:38), [39](https://openquran.com/14:39), [40](https://openquran.com/14:40), [41](https://openquran.com/14:41), [42](https://openquran.com/14:42))
 
 Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
@@ -1039,11 +1041,11 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQyMTk3NjMzLDIwMjc2NzA2MDMsLTEwND
-U5NTI3NDcsMTc0NDE1MTk2NiwxNTAxMTIxODYyLC0xNTMzOTg5
-OTk0LC04MjA4MDQ1OTUsLTE0MDc1MjkzMzAsLTI5NDI0MjUwMy
-wtMTE4Nzc0MjExMSwtNDgxOTEzNzUwLDQ4MTE3MzE2OCwxNzY4
-MjYxODg3LDEwNzkzMDQxMjksLTEzODAxOTQ2MDAsMTI3OTIzND
-UyNywtMTU2NjAxNzI4MCwtMTkyNzU5MjEyLC0xMjI5MTUwMDc2
-LC03NTMyMTE2ODddfQ==
+eyJoaXN0b3J5IjpbLTgzMzE1MjY3NSwzNDIxOTc2MzMsMjAyNz
+Y3MDYwMywtMTA0NTk1Mjc0NywxNzQ0MTUxOTY2LDE1MDExMjE4
+NjIsLTE1MzM5ODk5OTQsLTgyMDgwNDU5NSwtMTQwNzUyOTMzMC
+wtMjk0MjQyNTAzLC0xMTg3NzQyMTExLC00ODE5MTM3NTAsNDgx
+MTczMTY4LDE3NjgyNjE4ODcsMTA3OTMwNDEyOSwtMTM4MDE5ND
+YwMCwxMjc5MjM0NTI3LC0xNTY2MDE3MjgwLC0xOTI3NTkyMTIs
+LTEyMjkxNTAwNzZdfQ==
 -->
