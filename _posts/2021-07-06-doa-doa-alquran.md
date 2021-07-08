@@ -434,7 +434,7 @@ Wahai Tuhan kami, janganlah Engkau bengkokkan hati kami setelah Engkau memberi k
 
 “Wahai Tuhan kami, anugerahilah kami rahmat dari sisi Engkau; dan lengkapilah kami dengan petunjuk yang benar dalam urusan kami.” ([QS Al-Kahfi [18]:11](https://openquran.com/18:11)) [[^018_011]]
 
-[^018_011]: Doa ini dipanjatkan oleh para pemuda yang menjaga keimanan mereka kepada Allah. Mereka dikejar-kejar oleh raja Decius sehingga bersembunyi ke dalam Kahfi (gua). yang luas di pinggir sebuah gunung, di mana mereka dibiarkan menjadi musnah oleh raja zalim itu dengan memberi perintah untuk menutup pintu masuk gua itu rapatrapat dengan tumpukan batu-batu besar. Sekarang. ini merupakan kenyataan sejarah yang cukup dikenal. bahwa kaum Kristen awal mengalami penindasan yang tak terkatakan dari Kaisar-kaisar Roma musyrik, karena keimanan mereka 
+[^018_011]: Doa ini dipanjatkan oleh para pemuda yang menjaga keimanan mereka kepada Allah. Mereka dikejar-kejar oleh raja Decius sehingga bersembunyi ke dalam Kahfi (gua) yang luas di pinggir sebuah gunung, di mana mereka dibiarkan menjadi musnah oleh raja zalim itu dengan memberi perintah untuk menutup pintu masuk gua itu rapat-rapat dengan tumpukan batu-batu besar. Sekarang. ini merupakan kenyataan sejarah yang cukup dikenal. bahwa kaum Kristen awal mengalami penindasan yang tak terkatakan dari Kaisar-kaisar Roma musyrik, karena keimanan mereka kepada tauhid Ilahi.
 
 ### 40. Doa Memohon Anak yang Shaleh
 
@@ -1067,7 +1067,7 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 
 [^017_081]: Sebagai kemakbulan doa-doa dan permohonan-permohonan beliau, Rasulullah Saw dalam ayat ini diberi khabar suka, bahwa untuk menggenapi nubuatan dalam kata-kata “Mahasuci Dia, yang telah memperjalankan hamba-Nya pada waktu malam hari dari Masjid al-Haram ke Masjid alAqsa” (QS.17: 2), beliau akan dibawa ke Medinah. Untuk mendahului dan menyambut penyempurnaan nubuatan ini, beliau diperintahkan berdoa supaya masuk beliau ke Medinah dan begitu pula keberangkatan beliau dari kota Mekah, di mana beliau tinggal pada saat itu, akan dianugerahi keberkatan yang berlimpah-limpah.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4Mjc5NTAyMiwxODYwNDI2MjYwLDE0MD
+eyJoaXN0b3J5IjpbMTI2MTgzMjc0MywxODYwNDI2MjYwLDE0MD
 kyMjM3OTMsMTU3NDYxMzE2OSwtMTQzMjU1NjMxNyw4NjAwNjQ2
 MTYsLTExMjc4NTcwODUsLTEyNjQwODI3MywxNDYzNTUwNTg4LC
 0yMDE3ODYwMDc3LDEwNzExODQyNywtNDQ3MjcxOTYxLC0xMTI1
