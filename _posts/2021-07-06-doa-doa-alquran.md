@@ -502,9 +502,25 @@ Wahai Tuhan kami, janganlah Engkau bengkokkan hati kami setelah Engkau memberi k
 اِنَّکَ کُنۡتَ بِنَا بَصِیۡرًا
 </p>
 
-“Wahai Tuhan-ku! Lapangkanlah bagiku dadaku,
+“Wahai Tuhan-ku! Lapangkanlah bagiku dadaku,"
+
+“Dan mudahkanlah bagiku tugasku;"
+
+“Dan lepaskanlah kekakuan dari lidahku;"
+
+“Supaya mereka dapat memahami perkataanku;"
+
+“Dan jadikanlah bagiku seorang penolong dari antara keluargaku," [[^020_030]]
+
+“Harun saudaraku;"
+
+“Teguhkanlah kekuatanku dengannya"
+
+
 
 (QS Toha [20] :[26](https://openquran.com/20:26), [27](https://openquran.com/20:27), [28](https://openquran.com/20:28), [29](https://openquran.com/20:29), [30](https://openquran.com/20:30), [31](https://openquran.com/20:31), [32](https://openquran.com/20:32), [33](https://openquran.com/20:33), [34](https://openquran.com/20:34), [35](https://openquran.com/20:35), [36](https://openquran.com/20:36))
+
+[^020_030]:
 
 Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Musa (as) ketika diperintah Allah Ta'ala menghadapi Raja Firaun.
 
@@ -1079,7 +1095,7 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 
 [^019_005_007_keterangan]: Ini adalah doa yang dipanjatkan oleh Nabi Zakaria (as)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxOTg1OTk0MSwzNDA3NjA0NzAsMTA0OD
+eyJoaXN0b3J5IjpbLTI1OTk1NTI5NiwzNDA3NjA0NzAsMTA0OD
 cyMTcxMCwxODYwNDI2MjYwLDE0MDkyMjM3OTMsMTU3NDYxMzE2
 OSwtMTQzMjU1NjMxNyw4NjAwNjQ2MTYsLTExMjc4NTcwODUsLT
 EyNjQwODI3MywxNDYzNTUwNTg4LC0yMDE3ODYwMDc3LDEwNzEx
