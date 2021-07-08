@@ -74,11 +74,7 @@ Tunjukilah kami jalan yang lurus,  [[^001_006]]
 
 “Wahai Tuhan kami, terimalah *amal* ini dari kami, sesungguhnya Engkaulah Yang Maha Mendengar, Maha Mengetahui.” 
 
-“Wahai Tuhan kami, jadikanlah kami berdua orang yang berserah diri kepada Engkau, dan jadikanlah dari antara keturunan kami satu umat yang berserah diri kepada Engkau. Dan perlihatkanlah kepada kami caracara ibadah kami dan terimalah taubat kami, sesungguhnya Engkau Maha Penerima tobat, Maha Penyayang.”
-
-(QS Al-Baqarah [2]:[128](https://openquran.com/2:128)-[129](https://openquran.com/2:129)) [^002_128_129]
-
-[]: Doa diatas adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)	dan Nabi Ismail (as) yang ketika mereka berdua meninggikan pondasi Ka'bah di Mekah.
+“Wahai Tuhan kami, jadikanlah kami berdua orang yang berserah diri kepada Engkau, dan jadikanlah dari antara keturunan kami satu umat yang berserah diri kepada Engkau. Dan perlihatkanlah kepada kami caracara ibadah kami dan terimalah taubat kami, sesungguhnya Engkau Maha Penerima tobat, Maha Penyayang.” (QS Al-Baqarah [2]:[128](https://openquran.com/2:128)-[129](https://openquran.com/2:129)) [[^002_128_129]]
 
 ### 4. Doa Memohon Kebaikan untuk Dunia dan akhirat 
 
@@ -1076,10 +1072,12 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 
 	Itulah pokok surah pembukaan Al-Qur’an yang dengan suatu bentuk atau cara lain senantiasa diulangi dalam seluruh kandungan batang tubuh kitab suci itu (AlQur’an).
 
-[^002_127]: Doa diatas adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)	
+[^002_127]: Doa diatas adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)	.
+
+[^002_128_129]: Doa diatas adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)	dan Nabi Ismail (as) yang ketika mereka berdua meninggikan pondasi Ka'bah di Mekah.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3NTU2NzE5MywtMTk3NzE2NTQwOSwxNz
+eyJoaXN0b3J5IjpbLTYxMzYxODExNiwtMTk3NzE2NTQwOSwxNz
 Q1ODk3OTE3LDE2NjMzODg2MDMsMzQyMTk3NjMzLDIwMjc2NzA2
 MDMsLTEwNDU5NTI3NDcsMTc0NDE1MTk2NiwxNTAxMTIxODYyLC
 0xNTMzOTg5OTk0LC04MjA4MDQ1OTUsLTE0MDc1MjkzMzAsLTI5
