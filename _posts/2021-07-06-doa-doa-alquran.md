@@ -340,9 +340,7 @@ Wahai Tuhan kami, janganlah Engkau bengkokkan hati kami setelah Engkau memberi k
  اِرۡکَبُوۡا فِیۡہَا بِسۡمِ اللّٰہِ مَجۡؔرٖٮہَا وَمُرۡسٰٮہَاۤ ۚ اِنَّ رَبِّیۡ لَغَفُوۡرٌ رَّحِیۡمٌ
 </p>
 
-“Naiklah ke atasnya. Dengan nama Allah pada waktu berlayar dan berlabuhnya. Sesungguhnya Tuhan-ku Maha Pengampun, Maha Penyayang.” ([QS Hud [11]:42](https://openquran.com/11:42))
-
-Keterangan: Doa ini diucapkan oleh Nabi Nuh (as) ketika bahteranya hendak berlayar menyelamatkan orang-orang yang beriman kepada Allah Ta'ala.
+“Naiklah ke atasnya. Dengan nama Allah pada waktu berlayar dan berlabuhnya. Sesungguhnya Tuhan-ku Maha Pengampun, Maha Penyayang.” ([QS Hud [11]:42](https://openquran.com/11:42)) [[^011_042_keterangan]]
 
 ### 33. Doa Meminta Dipelihara dari Hal yang Tidak Berguna
 
@@ -1069,11 +1067,11 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjc4NTcwODUsLTEyNjQwODI3MywxND
-YzNTUwNTg4LC0yMDE3ODYwMDc3LDEwNzExODQyNywtNDQ3Mjcx
-OTYxLC0xMTI1NDg4ODUwLDIyMDQwMzA3OCwtNjEzNjE4MTE2LC
-0xOTc3MTY1NDA5LDE3NDU4OTc5MTcsMTY2MzM4ODYwMywzNDIx
-OTc2MzMsMjAyNzY3MDYwMywtMTA0NTk1Mjc0NywxNzQ0MTUxOT
-Y2LDE1MDExMjE4NjIsLTE1MzM5ODk5OTQsLTgyMDgwNDU5NSwt
-MTQwNzUyOTMzMF19
+eyJoaXN0b3J5IjpbLTE5ODAwMjU5MzEsLTExMjc4NTcwODUsLT
+EyNjQwODI3MywxNDYzNTUwNTg4LC0yMDE3ODYwMDc3LDEwNzEx
+ODQyNywtNDQ3MjcxOTYxLC0xMTI1NDg4ODUwLDIyMDQwMzA3OC
+wtNjEzNjE4MTE2LC0xOTc3MTY1NDA5LDE3NDU4OTc5MTcsMTY2
+MzM4ODYwMywzNDIxOTc2MzMsMjAyNzY3MDYwMywtMTA0NTk1Mj
+c0NywxNzQ0MTUxOTY2LDE1MDExMjE4NjIsLTE1MzM5ODk5OTQs
+LTgyMDgwNDU5NV19
 -->
