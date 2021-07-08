@@ -82,11 +82,11 @@ Tunjukilah kami jalan yang lurus,  [[^001_006]]
 رَبَّنَاۤ اٰتِنَا فِی الدُّنۡیَا حَسَنَۃً وَّفِی الۡاٰخِرَۃِ حَسَنَۃً وَّقِنَا عَذَابَ النَّارِ
 </p>
 
-([QS Al-Baqarah [2]:202](https://openquran.com/2:202))
+“Wahai Tuhan kami, berilah kami kebaikan *dalam kehidupan* di dunia dan berilah kami kebaikan di akhirat dan peliharalah kami dari azab Api.” ([QS Al-Baqarah [2]:202](https://openquran.com/2:202))
 
 Keterangan: 
 
-- Dalam Alquran diceritakan bahwa doa ini adalah doa ketika seseorang sedang menunaikan ibadah haji.
+- Dalam Alquran diceritakan bahwa doa ini adalah doa ketika seseorang sedang menunaikan ibadah haji. Ayat ini menyebut golongan orang dengan upaya-upaya dan hasrat-hasratnya tidak hanya terbatas pada dunia ini. Mereka mencari segala yang baik dari dunia ini dan pula segala yang baik dari alam ukhrawi. Hasanah berarti pula sukses (Tāj). Doa ini sangat padat dan Rasulullah Saw amat sering mempergunakannya (Muslim).
 
 - Dalam hadits riwayat Muslim disebutkan bahwa Rasulullah (saw) sering mempergunakan doa ini.
 
@@ -1077,11 +1077,11 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 [^002_128_129]: Doa diatas adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)	dan Nabi Ismail (as) yang ketika mereka berdua meninggikan pondasi Ka'bah di Mekah.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxMzYxODExNiwtMTk3NzE2NTQwOSwxNz
-Q1ODk3OTE3LDE2NjMzODg2MDMsMzQyMTk3NjMzLDIwMjc2NzA2
-MDMsLTEwNDU5NTI3NDcsMTc0NDE1MTk2NiwxNTAxMTIxODYyLC
-0xNTMzOTg5OTk0LC04MjA4MDQ1OTUsLTE0MDc1MjkzMzAsLTI5
-NDI0MjUwMywtMTE4Nzc0MjExMSwtNDgxOTEzNzUwLDQ4MTE3Mz
-E2OCwxNzY4MjYxODg3LDEwNzkzMDQxMjksLTEzODAxOTQ2MDAs
-MTI3OTIzNDUyN119
+eyJoaXN0b3J5IjpbMTkwMDk5ODc2MCwtNjEzNjE4MTE2LC0xOT
+c3MTY1NDA5LDE3NDU4OTc5MTcsMTY2MzM4ODYwMywzNDIxOTc2
+MzMsMjAyNzY3MDYwMywtMTA0NTk1Mjc0NywxNzQ0MTUxOTY2LD
+E1MDExMjE4NjIsLTE1MzM5ODk5OTQsLTgyMDgwNDU5NSwtMTQw
+NzUyOTMzMCwtMjk0MjQyNTAzLC0xMTg3NzQyMTExLC00ODE5MT
+M3NTAsNDgxMTczMTY4LDE3NjgyNjE4ODcsMTA3OTMwNDEyOSwt
+MTM4MDE5NDYwMF19
 -->
