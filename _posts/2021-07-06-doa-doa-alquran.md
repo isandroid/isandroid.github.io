@@ -254,7 +254,7 @@ Wahai Tuhan kami, janganlah Engkau bengkokkan hati kami setelah Engkau memberi k
 اَلۡحَمۡدُ لِلّٰہِ الَّذِیۡ ہَدٰٮنَا لِہٰذَا وَمَا کُنَّا لِنَہۡتَدِیَ لَوۡلَاۤ اَنۡ ہَدٰٮنَا اللّٰہُ
 </p>
 
-”Segala puji bagi Allah Yang telah menunjuki kami pada surga ini, dan kami tidak akan mendapat petunjuk seandainya Allah tidak memberi kami petunjuk." ([QS Al-A'roof [7]:44](https://openquran.com/7:44)) [[^007_044_keterangan]]
+”Segala puji bagi Allah Yang telah menunjuki kami pada surga ini, dan kami tidak akan mendapat petunjuk seandainya Allah tidak memberi kami petunjuk." [[^007_044]] ([QS Al-A'roof [7]:44](https://openquran.com/7:44)) [[^007_044_keterangan]]
 
 ### 23. Doa Memohon Kesabaran dan Keselamatan 
 
@@ -1074,13 +1074,15 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 
 [^007_127_keterangan]: Doa ini dipanjatkan para penyihir yang telah kalah melawan Nabi Musa (as). Mereka diberikan ancaman oleh Raja Firaun karena mereka serta merta beriman kepada Nabi Musa (as). Mereka diancam akan dipotong tangan dan kakinya serta disalibkan.
 
+[^007_044]: Pada hakikatnya, kehidupan surgawi dimulai sejak dari dunia ini juga (QS.55:47) dan seseorang dikatakan sedang menikmati kehidupan surgawi apabila hatinya bebas dari rasa permusuhan, irihati, dendam-kesumat, dan kegelisahan mental. 
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDA5MjI5NjEsLTIwMTc4NjAwNzcsMT
-A3MTE4NDI3LC00NDcyNzE5NjEsLTExMjU0ODg4NTAsMjIwNDAz
-MDc4LC02MTM2MTgxMTYsLTE5NzcxNjU0MDksMTc0NTg5NzkxNy
-wxNjYzMzg4NjAzLDM0MjE5NzYzMywyMDI3NjcwNjAzLC0xMDQ1
-OTUyNzQ3LDE3NDQxNTE5NjYsMTUwMTEyMTg2MiwtMTUzMzk4OT
-k5NCwtODIwODA0NTk1LC0xNDA3NTI5MzMwLC0yOTQyNDI1MDMs
-LTExODc3NDIxMTFdfQ==
+eyJoaXN0b3J5IjpbMTQ2MzU1MDU4OCwtMjAxNzg2MDA3NywxMD
+cxMTg0MjcsLTQ0NzI3MTk2MSwtMTEyNTQ4ODg1MCwyMjA0MDMw
+NzgsLTYxMzYxODExNiwtMTk3NzE2NTQwOSwxNzQ1ODk3OTE3LD
+E2NjMzODg2MDMsMzQyMTk3NjMzLDIwMjc2NzA2MDMsLTEwNDU5
+NTI3NDcsMTc0NDE1MTk2NiwxNTAxMTIxODYyLC0xNTMzOTg5OT
+k0LC04MjA4MDQ1OTUsLTE0MDc1MjkzMzAsLTI5NDI0MjUwMywt
+MTE4Nzc0MjExMV19
 -->
