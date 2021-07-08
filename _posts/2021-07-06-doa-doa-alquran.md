@@ -1067,12 +1067,15 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 [^002_128_129]: Doa diatas adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)	dan Nabi Ismail (as) yang ketika mereka berdua meninggikan pondasi Ka'bah di Mekah.
 
 [^002_202]: Dalam Alquran diceritakan bahwa doa ini adalah doa ketika seseorang sedang menunaikan ibadah haji. Ayat ini menyebut golongan orang dengan upaya-upaya dan hasrat-hasratnya tidak hanya terbatas pada dunia ini. Mereka mencari segala yang baik dari dunia ini dan pula segala yang baik dari alam ukhrawi. Hasanah berarti pula sukses (Tāj). Doa ini sangat padat dan Rasulullah Saw amat sering mempergunakannya (Hadits riwayat Muslim).
+
+[^002_251]: Doa ini adalah doa seorang pemimpin yang bernama Thalut (ditafsirkan sebagai Gideon) yang berdoa ketika berperang melawan Jalut (ditafsirkan sebagai satu kaum yang jahat)
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQwNTgxNDUzLC02MTM2MTgxMTYsLTE5Nz
-cxNjU0MDksMTc0NTg5NzkxNywxNjYzMzg4NjAzLDM0MjE5NzYz
-MywyMDI3NjcwNjAzLC0xMDQ1OTUyNzQ3LDE3NDQxNTE5NjYsMT
-UwMTEyMTg2MiwtMTUzMzk4OTk5NCwtODIwODA0NTk1LC0xNDA3
-NTI5MzMwLC0yOTQyNDI1MDMsLTExODc3NDIxMTEsLTQ4MTkxMz
-c1MCw0ODExNzMxNjgsMTc2ODI2MTg4NywxMDc5MzA0MTI5LC0x
-MzgwMTk0NjAwXX0=
+eyJoaXN0b3J5IjpbMTYxMjE2ODU3MiwtNjEzNjE4MTE2LC0xOT
+c3MTY1NDA5LDE3NDU4OTc5MTcsMTY2MzM4ODYwMywzNDIxOTc2
+MzMsMjAyNzY3MDYwMywtMTA0NTk1Mjc0NywxNzQ0MTUxOTY2LD
+E1MDExMjE4NjIsLTE1MzM5ODk5OTQsLTgyMDgwNDU5NSwtMTQw
+NzUyOTMzMCwtMjk0MjQyNTAzLC0xMTg3NzQyMTExLC00ODE5MT
+M3NTAsNDgxMTczMTY4LDE3NjgyNjE4ODcsMTA3OTMwNDEyOSwt
+MTM4MDE5NDYwMF19
 -->
