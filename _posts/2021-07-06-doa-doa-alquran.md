@@ -434,7 +434,7 @@ Wahai Tuhan kami, janganlah Engkau bengkokkan hati kami setelah Engkau memberi k
 
 “Wahai Tuhan kami, anugerahilah kami rahmat dari sisi Engkau; dan lengkapilah kami dengan petunjuk yang benar dalam urusan kami.” ([QS Al-Kahfi [18]:11](https://openquran.com/18:11)) [[^018_011]]
 
-[^018_011]: Doa ini dipanjatkan oleh para pemuda 
+[^018_011]: Doa ini dipanjatkan oleh para pemuda yang menjaga keimanan mereka ke dalam Kahfi (gua). 
 
 ### 40. Doa Memohon Anak yang Shaleh
 
@@ -1067,11 +1067,11 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 
 [^017_081]: Sebagai kemakbulan doa-doa dan permohonan-permohonan beliau, Rasulullah Saw dalam ayat ini diberi khabar suka, bahwa untuk menggenapi nubuatan dalam kata-kata “Mahasuci Dia, yang telah memperjalankan hamba-Nya pada waktu malam hari dari Masjid al-Haram ke Masjid alAqsa” (QS.17: 2), beliau akan dibawa ke Medinah. Untuk mendahului dan menyambut penyempurnaan nubuatan ini, beliau diperintahkan berdoa supaya masuk beliau ke Medinah dan begitu pula keberangkatan beliau dari kota Mekah, di mana beliau tinggal pada saat itu, akan dianugerahi keberkatan yang berlimpah-limpah.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDAxODQ3NzUsMTg2MDQyNjI2MCwxND
-A5MjIzNzkzLDE1NzQ2MTMxNjksLTE0MzI1NTYzMTcsODYwMDY0
-NjE2LC0xMTI3ODU3MDg1LC0xMjY0MDgyNzMsMTQ2MzU1MDU4OC
-wtMjAxNzg2MDA3NywxMDcxMTg0MjcsLTQ0NzI3MTk2MSwtMTEy
-NTQ4ODg1MCwyMjA0MDMwNzgsLTYxMzYxODExNiwtMTk3NzE2NT
-QwOSwxNzQ1ODk3OTE3LDE2NjMzODg2MDMsMzQyMTk3NjMzLDIw
-Mjc2NzA2MDNdfQ==
+eyJoaXN0b3J5IjpbMTAyNzE3NzYwLDE4NjA0MjYyNjAsMTQwOT
+IyMzc5MywxNTc0NjEzMTY5LC0xNDMyNTU2MzE3LDg2MDA2NDYx
+NiwtMTEyNzg1NzA4NSwtMTI2NDA4MjczLDE0NjM1NTA1ODgsLT
+IwMTc4NjAwNzcsMTA3MTE4NDI3LC00NDcyNzE5NjEsLTExMjU0
+ODg4NTAsMjIwNDAzMDc4LC02MTM2MTgxMTYsLTE5NzcxNjU0MD
+ksMTc0NTg5NzkxNywxNjYzMzg4NjAzLDM0MjE5NzYzMywyMDI3
+NjcwNjAzXX0=
 -->
