@@ -495,7 +495,7 @@ Keterangan:
 
 [^014_036]: Doa Nabi Ibrahim (as), yang disinggung dalam ayat ini menunjukkan, bahwa beliau tahu, bahwa kemusyrikan pada suatu hari akan merajalela di Mekah dan di negeri sekitarnya. Jadi doa itu merupakan cetusan hasrat beliau untuk memelihara keturunan beliau dari kemusyrikan; dan doa itu dipanjatkan beratus-ratus tahun yang silam.
 
-- Doa Nabi Ibrahim (as) ini telah memperoleh perwujudan yang sempurna dalam diri Rasulullah Saw, sebab sebelum beliau hanya orang-orang Arab-lah yang berkunjung ke Mekah untuk mempersembahkan kurban-kurban mereka, tetapi sesudah kedatangan beliau, bangsa-bangsa dari seluruh dunia mulai berkunjung ke kota itu.
+[^014_038]: Doa Nabi Ibrahim (as) ini telah memperoleh perwujudan yang sempurna dalam diri Rasulullah Saw, sebab sebelum beliau hanya orang-orang Arab-lah yang berkunjung ke Mekah untuk mempersembahkan kurban-kurban mereka, tetapi sesudah kedatangan beliau, bangsa-bangsa dari seluruh dunia mulai berkunjung ke kota itu.
 
 - Doa itu diucapkan pada saat, ketika tiada sehelai pun rumput nampak tumbuh dalam jarak bermil-mil di sekitar Mekah. Namun nubuatan itu telah menjadi sempurna dengan cara yang menakjubkan, sebab buahbuahan yang paling terpilih didatangkan orang berlimpah-limpah ke Mekah pada setiap musim.
 
@@ -1063,11 +1063,11 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxNjcwNjYyMCwxNjYzMzg4NjAzLDM0Mj
-E5NzYzMywyMDI3NjcwNjAzLC0xMDQ1OTUyNzQ3LDE3NDQxNTE5
-NjYsMTUwMTEyMTg2MiwtMTUzMzk4OTk5NCwtODIwODA0NTk1LC
-0xNDA3NTI5MzMwLC0yOTQyNDI1MDMsLTExODc3NDIxMTEsLTQ4
-MTkxMzc1MCw0ODExNzMxNjgsMTc2ODI2MTg4NywxMDc5MzA0MT
-I5LC0xMzgwMTk0NjAwLDEyNzkyMzQ1MjcsLTE1NjYwMTcyODAs
-LTE5Mjc1OTIxMl19
+eyJoaXN0b3J5IjpbOTA3NTQyNzE0LDE2NjMzODg2MDMsMzQyMT
+k3NjMzLDIwMjc2NzA2MDMsLTEwNDU5NTI3NDcsMTc0NDE1MTk2
+NiwxNTAxMTIxODYyLC0xNTMzOTg5OTk0LC04MjA4MDQ1OTUsLT
+E0MDc1MjkzMzAsLTI5NDI0MjUwMywtMTE4Nzc0MjExMSwtNDgx
+OTEzNzUwLDQ4MTE3MzE2OCwxNzY4MjYxODg3LDEwNzkzMDQxMj
+ksLTEzODAxOTQ2MDAsMTI3OTIzNDUyNywtMTU2NjAxNzI4MCwt
+MTkyNzU5MjEyXX0=
 -->
