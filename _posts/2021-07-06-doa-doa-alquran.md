@@ -238,13 +238,16 @@ Wahai Tuhan kami, janganlah Engkau bengkokkan hati kami setelah Engkau memberi k
  رَبَّنَا ظَلَمۡنَاۤ اَنۡفُسَنَا وَاِنۡ لَّمۡ تَغۡفِرۡ لَنَا وَتَرۡحَمۡنَا لَنَکُوۡنَنَّ مِنَ الۡخٰسِرِیۡنَ
 </p>
 
-”Wahai Tuhan kami, kami telah berlaku aniaya terhadap diri kami, dan jika Engkau tidak mengampuni kami dan mengasihi kami, niscaya kami akan termasuk orang-orang yang merugi.” ([QS Al-A'roof [7]:24](https://openquran.com/7:24))
+”Wahai Tuhan kami, kami telah berlaku aniaya terhadap diri kami, dan jika Engkau tidak mengampuni kami dan mengasihi kami, niscaya kami akan termasuk orang-orang yang merugi.” [[^007_024]] 
+
+([QS Al-A'roof [7]:24](https://openquran.com/7:24)) 
 
 Keterangan: 
 
-- Doa ini adalah doa yang dipanjatkan oleh Nabi Adam (as) dan istrinya
+[^007_024_keterangan]: Doa ini adalah doa yang dipanjatkan oleh Nabi Adam (as) dan istrinya
 
-- Nabi Adam (as) segera menyadari kekeliruannya lalu cepat-cepat kembali rujuk kepada Allah (swt), bertaubat. Sesungguhnya kesalahan Adam (as) terletak pada anggapannya bahwa “manusia Syaitān” itu bermaksud baik, sungguhpun Allah (swt) telah memperingatkan dirinya agar jangan berurusan dengan orang itu.
+[^007_024]: Nabi Adam (as) segera menyadari kekeliruannya lalu cepat-cepat kembali rujuk kepada Allah (swt), bertaubat. Sesungguhnya kesalahan Adam (as) terletak pada anggapannya bahwa “manusia Syaitān” itu bermaksud baik, sungguhpun Allah (swt) telah memperingatkan dirinya agar jangan berurusan dengan orang itu.
+
 
 ### 21. Doa Memohon Dinyatakan Antara yang benar dan yang salah 
 
@@ -1083,11 +1086,11 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA3MTE4NDI3LC00NDcyNzE5NjEsLTExMj
-U0ODg4NTAsMjIwNDAzMDc4LC02MTM2MTgxMTYsLTE5NzcxNjU0
-MDksMTc0NTg5NzkxNywxNjYzMzg4NjAzLDM0MjE5NzYzMywyMD
-I3NjcwNjAzLC0xMDQ1OTUyNzQ3LDE3NDQxNTE5NjYsMTUwMTEy
-MTg2MiwtMTUzMzk4OTk5NCwtODIwODA0NTk1LC0xNDA3NTI5Mz
-MwLC0yOTQyNDI1MDMsLTExODc3NDIxMTEsLTQ4MTkxMzc1MCw0
-ODExNzMxNjhdfQ==
+eyJoaXN0b3J5IjpbOTg0NTA2Njc2LDEwNzExODQyNywtNDQ3Mj
+cxOTYxLC0xMTI1NDg4ODUwLDIyMDQwMzA3OCwtNjEzNjE4MTE2
+LC0xOTc3MTY1NDA5LDE3NDU4OTc5MTcsMTY2MzM4ODYwMywzND
+IxOTc2MzMsMjAyNzY3MDYwMywtMTA0NTk1Mjc0NywxNzQ0MTUx
+OTY2LDE1MDExMjE4NjIsLTE1MzM5ODk5OTQsLTgyMDgwNDU5NS
+wtMTQwNzUyOTMzMCwtMjk0MjQyNTAzLC0xMTg3NzQyMTExLC00
+ODE5MTM3NTBdfQ==
 -->
