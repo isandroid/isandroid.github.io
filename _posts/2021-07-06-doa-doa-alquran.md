@@ -428,6 +428,8 @@ Wahai Tuhan kami, janganlah Engkau bengkokkan hati kami setelah Engkau memberi k
  رَّبِّ اَدۡخِلۡنِیۡ مُدۡخَلَ صِدۡقٍ وَّاَخۡرِجۡنِیۡ مُخۡرَجَ صِدۡقٍ وَّاجۡعَل لِّیۡ مِنۡ لَّدُنۡکَ سُلۡطٰنًا نَّصِیۡرًا
 </p>
 
+“Wahai Tuhan-ku! Masukkanlah aku *dengan cara* masuk yang baik dan keluarkanlah aku *dengan cara* keluar yang baik. Dan jadikanlah bagiku dari hadirat Engkau kekuatan yang menolong.” [[^017_8]]
+
 ([QS Bani Israil [17]:81](https://openquran.com/17:81))
 
 ### 39. Doa Memohon Rahmat dan Meminta Kemenangan
@@ -1067,11 +1069,11 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 
 [^017_025]: Ayat ini dengan suatu perumpamaan yang indah mengajarkan dan menanamkan kasih-sayang terhadap kedua orang tua. Oleh karena cinta-kasih orang tua tidak dapat dibalas dengan sepadan, maka dianjurkan supaya kekurangan dalam hal ini ditutup dengan jalan berdoa bagi mereka. Doa ini menunjukkan, bahwa dalam usia lanjut orangtua memerlukan perlakuan dengan penuh perhatian dan kasih-sayang seperti layaknya anak-anak kecil dijaga dan diperhatikan dalam masa kanak-kanaknya oleh orang tua mereka
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODA5NTQ5NzIsMTg2MDQyNjI2MCwxND
-A5MjIzNzkzLDE1NzQ2MTMxNjksLTE0MzI1NTYzMTcsODYwMDY0
-NjE2LC0xMTI3ODU3MDg1LC0xMjY0MDgyNzMsMTQ2MzU1MDU4OC
-wtMjAxNzg2MDA3NywxMDcxMTg0MjcsLTQ0NzI3MTk2MSwtMTEy
-NTQ4ODg1MCwyMjA0MDMwNzgsLTYxMzYxODExNiwtMTk3NzE2NT
-QwOSwxNzQ1ODk3OTE3LDE2NjMzODg2MDMsMzQyMTk3NjMzLDIw
-Mjc2NzA2MDNdfQ==
+eyJoaXN0b3J5IjpbOTgyMzM2NDQ2LDE4NjA0MjYyNjAsMTQwOT
+IyMzc5MywxNTc0NjEzMTY5LC0xNDMyNTU2MzE3LDg2MDA2NDYx
+NiwtMTEyNzg1NzA4NSwtMTI2NDA4MjczLDE0NjM1NTA1ODgsLT
+IwMTc4NjAwNzcsMTA3MTE4NDI3LC00NDcyNzE5NjEsLTExMjU0
+ODg4NTAsMjIwNDAzMDc4LC02MTM2MTgxMTYsLTE5NzcxNjU0MD
+ksMTc0NTg5NzkxNywxNjYzMzg4NjAzLDM0MjE5NzYzMywyMDI3
+NjcwNjAzXX0=
 -->
