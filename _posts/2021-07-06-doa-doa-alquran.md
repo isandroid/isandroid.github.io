@@ -428,7 +428,7 @@ Wahai Tuhan kami, janganlah Engkau bengkokkan hati kami setelah Engkau memberi k
  رَّبِّ اَدۡخِلۡنِیۡ مُدۡخَلَ صِدۡقٍ وَّاَخۡرِجۡنِیۡ مُخۡرَجَ صِدۡقٍ وَّاجۡعَل لِّیۡ مِنۡ لَّدُنۡکَ سُلۡطٰنًا نَّصِیۡرًا
 </p>
 
-“Wahai Tuhan-ku! Masukkanlah aku *dengan cara* masuk yang baik dan keluarkanlah aku *dengan cara* keluar yang baik. Dan jadikanlah bagiku dari hadirat Engkau kekuatan yang menolong.” [[^017_8]]
+“Wahai Tuhan-ku! Masukkanlah aku *dengan cara* masuk yang baik dan keluarkanlah aku *dengan cara* keluar yang baik. Dan jadikanlah bagiku dari hadirat Engkau kekuatan yang menolong.” [[^017_081]]
 
 ([QS Bani Israil [17]:81](https://openquran.com/17:81))
 
@@ -1067,9 +1067,11 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 
 	Doa itu diucapkan pada saat, ketika tiada sehelai pun rumput nampak tumbuh dalam jarak bermil-mil di sekitar Mekah. Namun nubuatan itu telah menjadi sempurna dengan cara yang menakjubkan, sebab buahbuahan yang paling terpilih didatangkan orang berlimpah-limpah ke Mekah pada setiap musim.([QS Al-Fatihah [1]: 1-7](https://openquran.com/1))
 
-[^017_025]: Ayat ini dengan suatu perumpamaan yang indah mengajarkan dan menanamkan kasih-sayang terhadap kedua orang tua. Oleh karena cinta-kasih orang tua tidak dapat dibalas dengan sepadan, maka dianjurkan supaya kekurangan dalam hal ini ditutup dengan jalan berdoa bagi mereka. Doa ini menunjukkan, bahwa dalam usia lanjut orangtua memerlukan perlakuan dengan penuh perhatian dan kasih-sayang seperti layaknya anak-anak kecil dijaga dan diperhatikan dalam masa kanak-kanaknya oleh orang tua mereka
+[^017_025]: Ayat ini dengan suatu perumpamaan yang indah mengajarkan dan menanamkan kasih-sayang terhadap kedua orang tua. Oleh karena cinta-kasih orang tua tidak dapat dibalas dengan sepadan, maka dianjurkan supaya kekurangan dalam hal ini ditutup dengan jalan berdoa bagi mereka. Doa ini menunjukkan, bahwa dalam usia lanjut orangtua memerlukan perlakuan dengan penuh perhatian dan kasih-sayang seperti layaknya anak-anak kecil dijaga dan diperhatikan dalam masa kanak-kanaknya oleh orang tua mereka.
+
+[^017_081]: Sebagai kemakbulan doa-doa dan permohonan-permohonan beliau, Rasulullah Saw dalam ayat ini diberi khabar suka, bahwa untuk menggenapi nubuatan dalam kata-kata “Mahasuci Dia, yang telah memperjalankan hamba-Nya pada waktu malam hari dari Masjid al-Haram ke Masjid alAqsa” (QS.17: 2), beliau akan dibawa ke Medinah. Untuk mendahului dan menyambut penyempurnaan nubuatan ini, beliau diperintahkan berdoa supaya masuk beliau ke Medinah dan begitu pula keberangkatan beliau dari kota Mekah, di mana beliau tinggal pada saat itu, akan dianugerahi keberkatan yang berlimpah-limpah.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTgyMzM2NDQ2LDE4NjA0MjYyNjAsMTQwOT
+eyJoaXN0b3J5IjpbNjg2NjMxODE3LDE4NjA0MjYyNjAsMTQwOT
 IyMzc5MywxNTc0NjEzMTY5LC0xNDMyNTU2MzE3LDg2MDA2NDYx
 NiwtMTEyNzg1NzA4NSwtMTI2NDA4MjczLDE0NjM1NTA1ODgsLT
 IwMTc4NjAwNzcsMTA3MTE4NDI3LC00NDcyNzE5NjEsLTExMjU0
