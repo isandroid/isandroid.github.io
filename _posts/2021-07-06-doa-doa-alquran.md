@@ -144,7 +144,9 @@ Wahai Tuhan kami, janganlah Engkau bengkokkan hati kami setelah Engkau memberi k
 
 "Wahai Allah, Pemilik kerajaan, Engkau memberi kerajaan kepada siapa yang Engkau kehendaki, dan Engkau cabut kerajaan dari siapa yang Engkau kehendaki, Engkau muliakan siapa yang Engkau kehendaki, dan Engkau hinakan siapa yang Engkau kehendaki, *hanya* di tangan Engkaulah segala kebaikan, sesungguhnya Engkau Mahakuasa atas segala sesuatu."
 
-"Engkau memasukkan malam ke dalam siang dan Engkau memasukkan siang ke dalam malam. Engkau mengeluarkan yang hidup dari yang mati dan Engkau mengeluarkan yang mati dari yang hidup, dan Engkau memberi rezeki kepada siapa yang Engkau kehendaki tanpa perhitungan.” (QS Aali-'Imraan [3]:[27](https://openquran.com/3:27)-[28](https://openquran.com/3:28))
+"Engkau memasukkan malam ke dalam siang dan Engkau memasukkan siang ke dalam malam. Engkau mengeluarkan yang hidup dari yang mati dan Engkau mengeluarkan yang mati dari yang hidup, dan Engkau memberi rezeki kepada siapa yang Engkau kehendaki tanpa perhitungan.” [[^003_028]]
+
+(QS Aali-'Imraan [3]:[27](https://openquran.com/3:27)-[28](https://openquran.com/3:28)) 
 
 ### 12. Ikrar kepada Petunjuk dan Meminta Qurub  Ilahi (Kedekatan kepada Allah)
 
@@ -1073,11 +1075,11 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 [^003_017]: Dzunūb adalah jamak dari Dzanb yang berarti kealpaan, perbuatan salah, pelanggaran, sesuatu yang patut dicela jika dilakukan dengan sengaja. Perbedaannya dengan Itsm adalah bahwa Dzanb itu boleh jadi disengaja atau dilakukan karena kealpaan, sedangkan Itsm yang khusus dilakukan dengan sengaja. Atau Dzanb berarti kekeliruan-kekeliruan dan kesalahan-kesalahan yang membawa akibat buruk atau menjadikan si pelakunya layak dituntut. Sesungguhnya Dzanb berarti kelemahan-kelemahan atau kekurangankekurangan yang melekat pada fitrat manusia, seperti halnya Dzanb (ekor, atau bagian tubuh yang seperti itu pada manusia) melekat pada tubuh, artinya kelemahan-kelemahan dan kekurangan-kekurangan alami pada diri manusia (Lane dan Mufradāt).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzMTQ1MzcxMywtNjEzNjE4MTE2LC0xOT
-c3MTY1NDA5LDE3NDU4OTc5MTcsMTY2MzM4ODYwMywzNDIxOTc2
-MzMsMjAyNzY3MDYwMywtMTA0NTk1Mjc0NywxNzQ0MTUxOTY2LD
-E1MDExMjE4NjIsLTE1MzM5ODk5OTQsLTgyMDgwNDU5NSwtMTQw
-NzUyOTMzMCwtMjk0MjQyNTAzLC0xMTg3NzQyMTExLC00ODE5MT
-M3NTAsNDgxMTczMTY4LDE3NjgyNjE4ODcsMTA3OTMwNDEyOSwt
-MTM4MDE5NDYwMF19
+eyJoaXN0b3J5IjpbLTkxMjYxMTYzLC02MTM2MTgxMTYsLTE5Nz
+cxNjU0MDksMTc0NTg5NzkxNywxNjYzMzg4NjAzLDM0MjE5NzYz
+MywyMDI3NjcwNjAzLC0xMDQ1OTUyNzQ3LDE3NDQxNTE5NjYsMT
+UwMTEyMTg2MiwtMTUzMzk4OTk5NCwtODIwODA0NTk1LC0xNDA3
+NTI5MzMwLC0yOTQyNDI1MDMsLTExODc3NDIxMTEsLTQ4MTkxMz
+c1MCw0ODExNzMxNjgsMTc2ODI2MTg4NywxMDc5MzA0MTI5LC0x
+MzgwMTk0NjAwXX0=
 -->
