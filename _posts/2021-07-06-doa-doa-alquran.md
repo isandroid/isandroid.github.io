@@ -214,9 +214,7 @@ Wahai Tuhan kami, janganlah Engkau bengkokkan hati kami setelah Engkau memberi k
  رَبَّنَاۤ اَنۡزِلۡ عَلَیۡنَا مَآئِدَۃً مِّنَ السَّمَآءِ تَکُوۡنُ لَنَا عِیۡدًا لِّاَوَّلِنَا وَاٰخِرِنَا وَاٰیَۃً مِّنۡکَ ۖ وَارۡزُقۡنَا وَاَنۡتَ خَیۡرُ الرّٰزِقِیۡنَ
 </p>
 
-“Ya Allah, Tuhan kami, turunkanlah kepada kami hidangan dari langit supaya menjadi suatu Hari Raya bagi kami, bagi orang-orang yang awal dari kami, juga bagi yang datang di belakang kami, dan sebagai tanda kebenaran dari Engkau, berilah kami rezeki, dan Engkau sebaik-baik Pemberi rezeki. ([QS Al-Maidah [5]:115](https://openquran.com/5:115))
-
-[^005_115]: Ini adalah doa yang dipanjatkan oleh Nabi Isa (as) ketika kaumnya ingin melihat tanda dari Allah Ta'ala melalui utusannya, yakni Nabi Isa (as).
+“Ya Allah, Tuhan kami, turunkanlah kepada kami hidangan dari langit supaya menjadi suatu Hari Raya bagi kami, bagi orang-orang yang awal dari kami, juga bagi yang datang di belakang kami, dan sebagai tanda kebenaran dari Engkau, berilah kami rezeki, dan Engkau sebaik-baik Pemberi rezeki. ([QS Al-Maidah [5]:115](https://openquran.com/5:115)) [[^005_115]]
 
 ### 19. Doa Memohon agar Dimasukkan ke dalam Jemaat yang Suci 
 
@@ -1076,12 +1074,15 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 
 [^005_026]: Ini adalah doa yang dipanjatkan oleh Nabi Musa (as) ketika kaumnya, yakni Bani Israil yang tidak mau berperang di jalan Allah Ta'ala.
 
+[^005_115]: Ini adalah doa yang dipanjatkan oleh Nabi Isa (as) ketika kaumnya ingin melihat tanda dari Allah Ta'ala melalui utusannya, yakni Nabi Isa (as).
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzY5MjYwNzAsLTExMjU0ODg4NTAsMj
-IwNDAzMDc4LC02MTM2MTgxMTYsLTE5NzcxNjU0MDksMTc0NTg5
-NzkxNywxNjYzMzg4NjAzLDM0MjE5NzYzMywyMDI3NjcwNjAzLC
-0xMDQ1OTUyNzQ3LDE3NDQxNTE5NjYsMTUwMTEyMTg2MiwtMTUz
-Mzk4OTk5NCwtODIwODA0NTk1LC0xNDA3NTI5MzMwLC0yOTQyND
-I1MDMsLTExODc3NDIxMTEsLTQ4MTkxMzc1MCw0ODExNzMxNjgs
-MTc2ODI2MTg4N119
+eyJoaXN0b3J5IjpbLTQ0NzI3MTk2MSwtMTEyNTQ4ODg1MCwyMj
+A0MDMwNzgsLTYxMzYxODExNiwtMTk3NzE2NTQwOSwxNzQ1ODk3
+OTE3LDE2NjMzODg2MDMsMzQyMTk3NjMzLDIwMjc2NzA2MDMsLT
+EwNDU5NTI3NDcsMTc0NDE1MTk2NiwxNTAxMTIxODYyLC0xNTMz
+OTg5OTk0LC04MjA4MDQ1OTUsLTE0MDc1MjkzMzAsLTI5NDI0Mj
+UwMywtMTE4Nzc0MjExMSwtNDgxOTEzNzUwLDQ4MTE3MzE2OCwx
+NzY4MjYxODg3XX0=
 -->
