@@ -310,9 +310,9 @@ Wahai Tuhan kami, janganlah Engkau bengkokkan hati kami setelah Engkau memberi k
 حَسۡبِیَ اللّٰہُ لَاۤ اِلٰہَ اِلَّا ہُوَ ۖ عَلَیۡہِ تَوَکَّلۡتُ ۖ وَہُوَ رَبُّ الۡعَرۡشِ الۡعَظِیۡمِ
 </p>
 
-“Cukuplah Allah bagiku, tiada tuhan selain Dia, kepada-Nya aku bertawakkal, dan Dia-lah Tuhan ‘Arasy yang agung." ([QS At-Taubah [9]:129](https://openquran.com/9:129))
+“Cukuplah Allah bagiku, tiada tuhan selain Dia, kepada-Nya aku bertawakkal, dan Dia-lah Tuhan ‘Arasy yang agung." ([QS At-Taubah [9]:129](https://openquran.com/9:129)) [[^009_129_keterangan]]
 
-Keterangan: Doa ini dipanjatkan tatkala orang-orang menolak datangnya seorang rasul yang telah diutus oleh Allah Ta'ala
+[^009_129_keterangan]: Doa ini dipanjatkan tatkala orang-orang menolak datangnya seorang rasul yang telah diutus oleh Allah Ta'ala
 
 ### 30. Doa Memohon Dijauhkan dari Kejahatan Musuh 
 
@@ -1069,11 +1069,11 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjUyMjcxODQxLDE0NjM1NTA1ODgsLTIwMT
-c4NjAwNzcsMTA3MTE4NDI3LC00NDcyNzE5NjEsLTExMjU0ODg4
-NTAsMjIwNDAzMDc4LC02MTM2MTgxMTYsLTE5NzcxNjU0MDksMT
-c0NTg5NzkxNywxNjYzMzg4NjAzLDM0MjE5NzYzMywyMDI3Njcw
-NjAzLC0xMDQ1OTUyNzQ3LDE3NDQxNTE5NjYsMTUwMTEyMTg2Mi
-wtMTUzMzk4OTk5NCwtODIwODA0NTk1LC0xNDA3NTI5MzMwLC0y
-OTQyNDI1MDNdfQ==
+eyJoaXN0b3J5IjpbMTI3NTA0NzY2NywxNDYzNTUwNTg4LC0yMD
+E3ODYwMDc3LDEwNzExODQyNywtNDQ3MjcxOTYxLC0xMTI1NDg4
+ODUwLDIyMDQwMzA3OCwtNjEzNjE4MTE2LC0xOTc3MTY1NDA5LD
+E3NDU4OTc5MTcsMTY2MzM4ODYwMywzNDIxOTc2MzMsMjAyNzY3
+MDYwMywtMTA0NTk1Mjc0NywxNzQ0MTUxOTY2LDE1MDExMjE4Nj
+IsLTE1MzM5ODk5OTQsLTgyMDgwNDU5NSwtMTQwNzUyOTMzMCwt
+Mjk0MjQyNTAzXX0=
 -->
