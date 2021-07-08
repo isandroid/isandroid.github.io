@@ -332,9 +332,7 @@ Wahai Tuhan kami, janganlah Engkau bengkokkan hati kami setelah Engkau memberi k
 رَبَّنَاۤ اِنَّکَ اٰتَیۡتَ فِرۡعَوۡنَ وَمَلَاَہٗ زِیۡنَۃً وَّاَمۡوٰلًا فِی الۡحَیٰوۃِ الدُّنۡیَا رَبَّنَا لِیُضِلُّوۡا عَنۡ سَبِیۡلِکَ ۖ رَبَّنَا اطۡمِسۡ عَلٰۤی اَمۡوٰلِہِمۡ وَاشۡدُدۡ عَلٰی قُلُوۡبِہِمۡ فَلَا یُؤۡمِنُوۡا حَتّٰی یَرَوُا الۡعَذَابَ الۡاَلِیۡمَ
 </p>
 
-“Ya Tuhan kami, sesungguhnya Engkau telah memberikan kepada Fir‘aun dan pembesar-pembesarnya kemegahan dan kekayaan dalam kehidupan dunia, ya Tuhan kami, akibatnya mereka menyesatkan *orang* dari jalan Engkau. Ya Tuhan kami! Musnahkanlah kekayaan mereka dan keraskanlah hati mereka; maka  mereka tidak akan beriman, sehingga mereka melihat azab yang pedih.” ([QS Yunus [10]:89](https://openquran.com/10:89))
-
-Keterangan: Doa ini diucapkan oleh Nabi Musa (as) agar beliau bisa menyelamatkan kaum Bani Israil (as) yang tertindas.
+“Ya Tuhan kami, sesungguhnya Engkau telah memberikan kepada Fir‘aun dan pembesar-pembesarnya kemegahan dan kekayaan dalam kehidupan dunia, ya Tuhan kami, akibatnya mereka menyesatkan *orang* dari jalan Engkau. Ya Tuhan kami! Musnahkanlah kekayaan mereka dan keraskanlah hati mereka; maka  mereka tidak akan beriman, sehingga mereka melihat azab yang pedih.” ([QS Yunus [10]:89](https://openquran.com/10:89)) [[^010_089_keterangan]]
 
 ### 32. Doa Naik Kapal atau Kendaraan
 
@@ -1067,12 +1065,15 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 
 [^010_086_087_keterangan]: Doa ini dipanjatkan oleh kaum Bani Israil yang ketika itu menjadi budak orang-orang Mesir. Mereka meminta perlindungan kepada Allah Ta'ala.
 
+[^010_089_keterangan]: Doa ini diucapkan oleh Nabi Musa (as) agar beliau bisa menyelamatkan kaum Bani Israil (as) yang tertindas oleh Raja Firaun di Mesir.
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjQwODI3MywxNDYzNTUwNTg4LC0yMD
-E3ODYwMDc3LDEwNzExODQyNywtNDQ3MjcxOTYxLC0xMTI1NDg4
-ODUwLDIyMDQwMzA3OCwtNjEzNjE4MTE2LC0xOTc3MTY1NDA5LD
-E3NDU4OTc5MTcsMTY2MzM4ODYwMywzNDIxOTc2MzMsMjAyNzY3
-MDYwMywtMTA0NTk1Mjc0NywxNzQ0MTUxOTY2LDE1MDExMjE4Nj
-IsLTE1MzM5ODk5OTQsLTgyMDgwNDU5NSwtMTQwNzUyOTMzMCwt
-Mjk0MjQyNTAzXX0=
+eyJoaXN0b3J5IjpbLTExMjc4NTcwODUsLTEyNjQwODI3MywxND
+YzNTUwNTg4LC0yMDE3ODYwMDc3LDEwNzExODQyNywtNDQ3Mjcx
+OTYxLC0xMTI1NDg4ODUwLDIyMDQwMzA3OCwtNjEzNjE4MTE2LC
+0xOTc3MTY1NDA5LDE3NDU4OTc5MTcsMTY2MzM4ODYwMywzNDIx
+OTc2MzMsMjAyNzY3MDYwMywtMTA0NTk1Mjc0NywxNzQ0MTUxOT
+Y2LDE1MDExMjE4NjIsLTE1MzM5ODk5OTQsLTgyMDgwNDU5NSwt
+MTQwNzUyOTMzMF19
 -->
