@@ -228,7 +228,7 @@ Wahai Tuhan kami, janganlah Engkau bengkokkan hati kami setelah Engkau memberi k
 
 ”Wahai Tuhan kami, kami telah beriman, maka catatlah kami diantara orang-orang yang menjadi saksi." (QS Al-Maaidah [5]:[84](https://openquran.com/5:84)-[85](https://openquran.com/5:85))
 
-Keterangan: Ayat itu telah dikenakan pula teristimewa kepada Raja Najasyi. Ketika Ja’far (ra), saudara misan Rasulullah (saw) dan juru bicara untuk para pengungsi kaum Muslimin di Abesinia membacakan padanya ayat-ayat permulaan surah Maryam, nampak sekali hati Raja Najasyi tergerak; dan air mata menetes di pipinya. Ia berkata dengan suara lirih penuh haru; seperti itulah kepercayaannya tentang Nabi Isa (as) dan ia menganggap beliau sedikit pun tidak lebih dari itu.
+[^005_085]: Ayat ini telah dikenakan pula teristimewa kepada Raja Najasyi. Ketika Ja’far (ra), saudara misan Rasulullah (saw) dan juru bicara untuk para pengungsi kaum Muslimin di Abesinia membacakan padanya ayat-ayat permulaan surah Maryam, nampak sekali hati Raja Najasyi tergerak; dan air mata menetes di pipinya. Ia berkata dengan suara lirih penuh haru; seperti itulah kepercayaannya tentang Nabi Isa (as) dan ia menganggap beliau sedikit pun tidak lebih dari itu (Hisyam).
 
 ### 20. Doa Memohon Ampun
 
@@ -1078,11 +1078,11 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ0NzI3MTk2MSwtMTEyNTQ4ODg1MCwyMj
-A0MDMwNzgsLTYxMzYxODExNiwtMTk3NzE2NTQwOSwxNzQ1ODk3
-OTE3LDE2NjMzODg2MDMsMzQyMTk3NjMzLDIwMjc2NzA2MDMsLT
-EwNDU5NTI3NDcsMTc0NDE1MTk2NiwxNTAxMTIxODYyLC0xNTMz
-OTg5OTk0LC04MjA4MDQ1OTUsLTE0MDc1MjkzMzAsLTI5NDI0Mj
-UwMywtMTE4Nzc0MjExMSwtNDgxOTEzNzUwLDQ4MTE3MzE2OCwx
-NzY4MjYxODg3XX0=
+eyJoaXN0b3J5IjpbMTQ4NzQ0MDQ4NiwtNDQ3MjcxOTYxLC0xMT
+I1NDg4ODUwLDIyMDQwMzA3OCwtNjEzNjE4MTE2LC0xOTc3MTY1
+NDA5LDE3NDU4OTc5MTcsMTY2MzM4ODYwMywzNDIxOTc2MzMsMj
+AyNzY3MDYwMywtMTA0NTk1Mjc0NywxNzQ0MTUxOTY2LDE1MDEx
+MjE4NjIsLTE1MzM5ODk5OTQsLTgyMDgwNDU5NSwtMTQwNzUyOT
+MzMCwtMjk0MjQyNTAzLC0xMTg3NzQyMTExLC00ODE5MTM3NTAs
+NDgxMTczMTY4XX0=
 -->
