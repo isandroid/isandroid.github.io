@@ -495,7 +495,9 @@ Keterangan:
 
 - Doa Nabi Ibrahim (as), yang disinggung dalam ayat ini menunjukkan, bahwa beliau tahu, bahwa kemusyrikan pada suatu hari akan merajalela di Mekah dan di negeri sekitarnya. Jadi doa itu merupakan cetusan hasrat beliau untuk memelihara keturunan beliau dari kemusyrikan; dan doa itu dipanjatkan beratus-ratus tahun yang silam.
 
-- 
+- Doa Nabi Ibrahim (as) ini telah memperoleh perwujudan yang sempurna dalam diri Rasulullah Saw, sebab sebelum beliau hanya orang-orang Arab-lah yang berkunjung ke Mekah untuk mempersembahkan kurban-kurban mereka, tetapi sesudah kedatangan beliau, bangsa-bangsa dari seluruh dunia mulai berkunjung ke kota itu.
+
+- Doa itu diucapkan pada saat, ketika tiada sehelai pun rumput nampak tumbuh dalam jarak bermil-mil di sekitar Mekah. Namun nubuatan itu telah menjadi sempurna dengan cara yang menakjubkan, sebab buahbuahan yang paling terpilih didatangkan orang berlimpah-limpah ke Mekah pada setiap musim.
 
 ### 37. Doa untuk Ibu dan Bapak
 
@@ -1059,11 +1061,11 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQxODQ1NDY0LDM0MjE5NzYzMywyMDI3Nj
-cwNjAzLC0xMDQ1OTUyNzQ3LDE3NDQxNTE5NjYsMTUwMTEyMTg2
-MiwtMTUzMzk4OTk5NCwtODIwODA0NTk1LC0xNDA3NTI5MzMwLC
-0yOTQyNDI1MDMsLTExODc3NDIxMTEsLTQ4MTkxMzc1MCw0ODEx
-NzMxNjgsMTc2ODI2MTg4NywxMDc5MzA0MTI5LC0xMzgwMTk0Nj
-AwLDEyNzkyMzQ1MjcsLTE1NjYwMTcyODAsLTE5Mjc1OTIxMiwt
-MTIyOTE1MDA3Nl19
+eyJoaXN0b3J5IjpbMTY2MzM4ODYwMywzNDIxOTc2MzMsMjAyNz
+Y3MDYwMywtMTA0NTk1Mjc0NywxNzQ0MTUxOTY2LDE1MDExMjE4
+NjIsLTE1MzM5ODk5OTQsLTgyMDgwNDU5NSwtMTQwNzUyOTMzMC
+wtMjk0MjQyNTAzLC0xMTg3NzQyMTExLC00ODE5MTM3NTAsNDgx
+MTczMTY4LDE3NjgyNjE4ODcsMTA3OTMwNDEyOSwtMTM4MDE5ND
+YwMCwxMjc5MjM0NTI3LC0xNTY2MDE3MjgwLC0xOTI3NTkyMTIs
+LTEyMjkxNTAwNzZdfQ==
 -->
