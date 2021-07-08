@@ -434,8 +434,6 @@ Wahai Tuhan kami, janganlah Engkau bengkokkan hati kami setelah Engkau memberi k
 
 “Wahai Tuhan kami, anugerahilah kami rahmat dari sisi Engkau; dan lengkapilah kami dengan petunjuk yang benar dalam urusan kami.” ([QS Al-Kahfi [18]:11](https://openquran.com/18:11)) [[^018_011]]
 
-[^018_011]: Doa ini dipanjatkan oleh para pemuda yang menjaga keimanan mereka kepada Allah. Mereka dikejar-kejar oleh raja Decius sehingga bersembunyi ke dalam Kahfi (gua) yang luas di pinggir sebuah gunung, di mana mereka dibiarkan menjadi musnah oleh raja zalim itu dengan memberi perintah untuk menutup pintu masuk gua itu rapat-rapat dengan tumpukan batu-batu besar. Sekarang. ini merupakan kenyataan sejarah yang cukup dikenal. bahwa kaum Kristen awal mengalami penindasan yang tak terkatakan dari Kaisar-kaisar Roma musyrik, karena keimanan mereka kepada tauhid Ilahi.
-
 ### 40. Doa Memohon Anak yang Shaleh
 
 <p class="quran">
@@ -1066,12 +1064,16 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 [^017_025]: Ayat ini dengan suatu perumpamaan yang indah mengajarkan dan menanamkan kasih-sayang terhadap kedua orang tua. Oleh karena cinta-kasih orang tua tidak dapat dibalas dengan sepadan, maka dianjurkan supaya kekurangan dalam hal ini ditutup dengan jalan berdoa bagi mereka. Doa ini menunjukkan, bahwa dalam usia lanjut orangtua memerlukan perlakuan dengan penuh perhatian dan kasih-sayang seperti layaknya anak-anak kecil dijaga dan diperhatikan dalam masa kanak-kanaknya oleh orang tua mereka.
 
 [^017_081]: Sebagai kemakbulan doa-doa dan permohonan-permohonan beliau, Rasulullah Saw dalam ayat ini diberi khabar suka, bahwa untuk menggenapi nubuatan dalam kata-kata “Mahasuci Dia, yang telah memperjalankan hamba-Nya pada waktu malam hari dari Masjid al-Haram ke Masjid alAqsa” (QS.17: 2), beliau akan dibawa ke Medinah. Untuk mendahului dan menyambut penyempurnaan nubuatan ini, beliau diperintahkan berdoa supaya masuk beliau ke Medinah dan begitu pula keberangkatan beliau dari kota Mekah, di mana beliau tinggal pada saat itu, akan dianugerahi keberkatan yang berlimpah-limpah.
+
+[^018_011]: Doa ini dipanjatkan oleh para pemuda yang menjaga keimanan mereka kepada Allah. Mereka dikejar-kejar oleh raja Decius sehingga bersembunyi ke dalam Kahfi (gua) yang luas di pinggir sebuah gunung, di mana mereka dibiarkan menjadi musnah oleh raja zalim itu dengan memberi perintah untuk menutup pintu masuk gua itu rapat-rapat dengan tumpukan batu-batu besar. Sekarang. ini merupakan kenyataan sejarah yang cukup dikenal. bahwa kaum Kristen awal mengalami penindasan yang tak terkatakan dari Kaisar-kaisar Roma musyrik, karena keimanan mereka kepada tauhid Ilahi.
+
+	Untuk menyelamatkan diri dari penindasan kejam dan di luar perikemanu siaan itu, para korban yang tidak berdaya itu mencari perlindungan dengan bersembunyi dalam katakombakatakomba (rongga-rongga di bawah tanah tempat menyimpan mayat-mayat) di Roma. Untuk memenuhi tujuan tersebut katakomba- katakomba itu sangat cocok, pertama oleh karena sangat berliku-likunya jalan ke ruangan-ruangan gua yang sangat menyesatkan itu; dan kedua, oleh karena tak terhitung banyaknya ruangan-ruangan kecil dan persembunyian-persembunyian pada tingkat-tingkat berlainan, yang boleh jadi tetap tidak dapat ditemukan dalam kegelapan oleh para pengejar. Nampak dari tulisan-tulisan pada batu-batu nisan kuburan di katakomba-katakomba tersebut, bahwa kaum Kristen di jaman permulaan itu berpegang pada tauhid dengan kuat. Nabi Isa As disebut dalam tulisan-tulisan itu hanya sebagai gembala atau nabi Allah; sedangkan ibunda beliau, Siti Maryam, tidak lebih dari seorang wanita yang saleh. Nampak pula, bahwa orang Kristen yang mencari perlindungan di katakomba-katakomba tersebut gemar menempatkan anjing di pintu-pintu masuk mereka, yang dengan menyalaknyalak akan memberitahukan kedatangan orang-orang asing. Dengan demikian kisah para penghuni gua itu pada hakikatnya melukiskan sejarah orang-orang Kristen di jaman permulaan, dan menunjukkan betapa mereka menderita penindasan -penindasan tak terkatakan, demi keimanan mereka kepada tauhid Ilahi.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2MTgzMjc0MywxODYwNDI2MjYwLDE0MD
-kyMjM3OTMsMTU3NDYxMzE2OSwtMTQzMjU1NjMxNyw4NjAwNjQ2
-MTYsLTExMjc4NTcwODUsLTEyNjQwODI3MywxNDYzNTUwNTg4LC
-0yMDE3ODYwMDc3LDEwNzExODQyNywtNDQ3MjcxOTYxLC0xMTI1
-NDg4ODUwLDIyMDQwMzA3OCwtNjEzNjE4MTE2LC0xOTc3MTY1ND
-A5LDE3NDU4OTc5MTcsMTY2MzM4ODYwMywzNDIxOTc2MzMsMjAy
-NzY3MDYwM119
+eyJoaXN0b3J5IjpbNzU4MDc2NDYxLDE4NjA0MjYyNjAsMTQwOT
+IyMzc5MywxNTc0NjEzMTY5LC0xNDMyNTU2MzE3LDg2MDA2NDYx
+NiwtMTEyNzg1NzA4NSwtMTI2NDA4MjczLDE0NjM1NTA1ODgsLT
+IwMTc4NjAwNzcsMTA3MTE4NDI3LC00NDcyNzE5NjEsLTExMjU0
+ODg4NTAsMjIwNDAzMDc4LC02MTM2MTgxMTYsLTE5NzcxNjU0MD
+ksMTc0NTg5NzkxNywxNjYzMzg4NjAzLDM0MjE5NzYzMywyMDI3
+NjcwNjAzXX0=
 -->
