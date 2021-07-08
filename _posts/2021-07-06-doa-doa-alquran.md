@@ -208,7 +208,7 @@ Wahai Tuhan kami, janganlah Engkau bengkokkan hati kami setelah Engkau memberi k
 
 “Wahai Tuhanku, sesungguhnya aku tidak berkuasa kecuali terhadap diriku dan saudara laki-lakiku, maka bedakanlah antara kami dengan kaum yang durhaka itu.” ([QS Al-Maaidah [5]:26](https://openquran.com/5:26))
 
-Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Musa (as) ketika kaumnya tidak mau berperang di jalan Allah Ta'ala.
+Ini adalah doa yang dipanjatkan oleh Nabi Musa (as) ketika kaumnya, yakni Bani Israil yang tidak mau berperang di jalan Allah Ta'ala.
 
 ### 18. Doa Memohon Rejeki
 
@@ -1077,11 +1077,11 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 [^003_192_193]: Doa ini dipanjatkan oleh orang-orang yang berilmu (yang senantiasa menggunakan akalnya) yang selalu mengingat Allah, baik sambil berdiri, duduk, dan berbaring atas rusuk mereka, dan mereka merenungkan tentang penciptaan seluruh langit dan bumi.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjU0ODg4NTAsMjIwNDAzMDc4LC02MT
-M2MTgxMTYsLTE5NzcxNjU0MDksMTc0NTg5NzkxNywxNjYzMzg4
-NjAzLDM0MjE5NzYzMywyMDI3NjcwNjAzLC0xMDQ1OTUyNzQ3LD
-E3NDQxNTE5NjYsMTUwMTEyMTg2MiwtMTUzMzk4OTk5NCwtODIw
-ODA0NTk1LC0xNDA3NTI5MzMwLC0yOTQyNDI1MDMsLTExODc3ND
-IxMTEsLTQ4MTkxMzc1MCw0ODExNzMxNjgsMTc2ODI2MTg4Nywx
-MDc5MzA0MTI5XX0=
+eyJoaXN0b3J5IjpbLTkxODQzNTIzLC0xMTI1NDg4ODUwLDIyMD
+QwMzA3OCwtNjEzNjE4MTE2LC0xOTc3MTY1NDA5LDE3NDU4OTc5
+MTcsMTY2MzM4ODYwMywzNDIxOTc2MzMsMjAyNzY3MDYwMywtMT
+A0NTk1Mjc0NywxNzQ0MTUxOTY2LDE1MDExMjE4NjIsLTE1MzM5
+ODk5OTQsLTgyMDgwNDU5NSwtMTQwNzUyOTMzMCwtMjk0MjQyNT
+AzLC0xMTg3NzQyMTExLC00ODE5MTM3NTAsNDgxMTczMTY4LDE3
+NjgyNjE4ODddfQ==
 -->
