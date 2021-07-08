@@ -473,11 +473,11 @@ Keterangan:
 رَبَّنَا اغۡفِرۡ لِیۡ وَلِوٰلِدَیَّ وَلِلۡمُؤۡمِنِیۡنَ یَوۡمَ یَقُوۡمُ الۡحِسَابُ
 </p>
 
-“Wahai Tuhanku! Jadikanlah kota ini *tempat* yang aman, dan lindungilah aku dan anak-anakku dari menyembah berhala-berhala.
+“Wahai Tuhanku! Jadikanlah kota ini *tempat* yang aman, dan lindungilah aku dan anak-anakku dari menyembah berhala-berhala." [[^014_036]]
 
 “Wahai Tuhan-ku! Sesungguhnya berhala-berhala itu telah menyesatkan banyak dari antara manusia. Barangsiapa mengikutiku, maka sesungguhnya ia dari ku; dan siapa yang durhaka kepadaku, maka sesungguhnya Engkau Maha Pengampun, Maha Penyayang."
 
-”Wahai Tuhan kami! Sesungguhnya aku telah menempatkan sebagian keturunanku di lembah yang tandus dekat rumah Engkau yang suci. Wahai Tuhan kami! Supaya mereka dapat mendirikan shalat. Maka jadikanlah hati manusia cenderung kepada mereka dan a berilah mereka rezeki berupa buahbuahan, supaya mereka selalu bersyukur."
+”Wahai Tuhan kami! Sesungguhnya aku telah menempatkan sebagian keturunanku di lembah yang tandus dekat rumah Engkau yang suci. Wahai Tuhan kami! Supaya mereka dapat mendirikan shalat. Maka jadikanlah hati manusia cenderung kepada mereka dan a berilah mereka rezeki berupa buahbuahan, supaya mereka selalu bersyukur." [[^014_038]]
 
 “Wahai Tuhan kami! Sesungguhnya Engkau mengetahui apa yang kami sembunyikan dan apa yang kami nyatakan. Dan tiada sesuatu pun yang tersembunyi bagi Allah di bumi dan tidak *pula* di langit;"
 
@@ -1063,7 +1063,7 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NjA0OTYyNCwxNjYzMzg4NjAzLDM0Mj
+eyJoaXN0b3J5IjpbLTYxNjcwNjYyMCwxNjYzMzg4NjAzLDM0Mj
 E5NzYzMywyMDI3NjcwNjAzLC0xMDQ1OTUyNzQ3LDE3NDQxNTE5
 NjYsMTUwMTEyMTg2MiwtMTUzMzk4OTk5NCwtODIwODA0NTk1LC
 0xNDA3NTI5MzMwLC0yOTQyNDI1MDMsLTExODc3NDIxMTEsLTQ4
