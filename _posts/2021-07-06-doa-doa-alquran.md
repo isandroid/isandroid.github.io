@@ -410,15 +410,7 @@ Wahai Tuhan kami, janganlah Engkau bengkokkan hati kami setelah Engkau memberi k
 
 ”Wahai Tuhan kami! Ampunilah aku, kedua orangtuaku dan orang-orang mukmin pada Hari diadakannya perhitungan.”
 
-(QS Ibrahim [14]: [36](https://openquran.com/14:36), [37](https://openquran.com/14:37), [38](https://openquran.com/14:38), [39](https://openquran.com/14:39), [40](https://openquran.com/14:40), [41](https://openquran.com/14:41), [42](https://openquran.com/14:42))
-
-[]: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
-
-[^014_036]: Doa Nabi Ibrahim (as), yang disinggung dalam ayat ini menunjukkan, bahwa beliau tahu, bahwa kemusyrikan pada suatu hari akan merajalela di Mekah dan di negeri sekitarnya. Jadi doa itu merupakan cetusan hasrat beliau untuk memelihara keturunan beliau dari kemusyrikan; dan doa itu dipanjatkan beratus-ratus tahun yang silam.
-
-[^014_038]: Doa Nabi Ibrahim (as) ini telah memperoleh perwujudan yang sempurna dalam diri Rasulullah Saw, sebab sebelum beliau hanya orang-orang Arab-lah yang berkunjung ke Mekah untuk mempersembahkan kurban-kurban mereka, tetapi sesudah kedatangan beliau, bangsa-bangsa dari seluruh dunia mulai berkunjung ke kota itu.
-
-- Doa itu diucapkan pada saat, ketika tiada sehelai pun rumput nampak tumbuh dalam jarak bermil-mil di sekitar Mekah. Namun nubuatan itu telah menjadi sempurna dengan cara yang menakjubkan, sebab buahbuahan yang paling terpilih didatangkan orang berlimpah-limpah ke Mekah pada setiap musim.
+(QS Ibrahim [14]: [36](https://openquran.com/14:36), [37](https://openquran.com/14:37), [38](https://openquran.com/14:38), [39](https://openquran.com/14:39), [40](https://openquran.com/14:40), [41](https://openquran.com/14:41), [42](https://openquran.com/14:42)) [[^014_036_042_keterangan]]
 
 ### 37. Doa untuk Ibu dan Bapak
 
@@ -1062,12 +1054,20 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 	Mimpi-mimpi (nubuwwatan) yang datang dari Allah Ta'ala telah genap-sempurna; yakni beliau (as) dibebaskan dari penjara dan dipertemukan dengan keluarganya dan saudara-saudaranya.
 
 [^012_102_keterangan2]: Doa ini dipanjatkan oleh Nabi Yusuf (as), Doa ini masih sambungan dari [poin sebelumnya](#35-doa-memohon-keselamatan-iman)
+
+[^014_036_042_keterangan]: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
+
+[^014_036]: Doa Nabi Ibrahim (as), yang disinggung dalam ayat ini menunjukkan, bahwa beliau tahu, bahwa kemusyrikan pada suatu hari akan merajalela di Mekah dan di negeri sekitarnya. Jadi doa itu merupakan cetusan hasrat beliau untuk memelihara keturunan beliau dari kemusyrikan; dan doa itu dipanjatkan beratus-ratus tahun yang silam.
+
+[^014_038]: Doa Nabi Ibrahim (as) ini telah memperoleh perwujudan yang sempurna dalam diri Rasulullah Saw, sebab sebelum beliau hanya orang-orang Arab-lah yang berkunjung ke Mekah untuk mempersembahkan kurban-kurban mereka, tetapi sesudah kedatangan beliau, bangsa-bangsa dari seluruh dunia mulai berkunjung ke kota itu.
+
+	Doa itu diucapkan pada saat, ketika tiada sehelai pun rumput nampak tumbuh dalam jarak bermil-mil di sekitar Mekah. Namun nubuatan itu telah menjadi sempurna dengan cara yang menakjubkan, sebab buahbuahan yang paling terpilih didatangkan orang berlimpah-limpah ke Mekah pada setiap musim.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA3MDUzNTM2MywtMTEyNzg1NzA4NSwtMT
-I2NDA4MjczLDE0NjM1NTA1ODgsLTIwMTc4NjAwNzcsMTA3MTE4
-NDI3LC00NDcyNzE5NjEsLTExMjU0ODg4NTAsMjIwNDAzMDc4LC
-02MTM2MTgxMTYsLTE5NzcxNjU0MDksMTc0NTg5NzkxNywxNjYz
-Mzg4NjAzLDM0MjE5NzYzMywyMDI3NjcwNjAzLC0xMDQ1OTUyNz
-Q3LDE3NDQxNTE5NjYsMTUwMTEyMTg2MiwtMTUzMzk4OTk5NCwt
-ODIwODA0NTk1XX0=
+eyJoaXN0b3J5IjpbODYwMDY0NjE2LC0xMTI3ODU3MDg1LC0xMj
+Y0MDgyNzMsMTQ2MzU1MDU4OCwtMjAxNzg2MDA3NywxMDcxMTg0
+MjcsLTQ0NzI3MTk2MSwtMTEyNTQ4ODg1MCwyMjA0MDMwNzgsLT
+YxMzYxODExNiwtMTk3NzE2NTQwOSwxNzQ1ODk3OTE3LDE2NjMz
+ODg2MDMsMzQyMTk3NjMzLDIwMjc2NzA2MDMsLTEwNDU5NTI3ND
+csMTc0NDE1MTk2NiwxNTAxMTIxODYyLC0xNTMzOTg5OTk0LC04
+MjA4MDQ1OTVdfQ==
 -->
