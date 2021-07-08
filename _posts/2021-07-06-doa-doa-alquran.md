@@ -475,11 +475,17 @@ Keterangan:
 
 “Wahai Tuhanku! Jadikanlah kota ini *tempat* yang aman, dan lindungilah aku dan anak-anakku dari menyembah berhala-berhala.
 
-“Wahai Tuhan-ku! Sesungguhnya berhala-berhala itu telah menyesatkan banyak dari antara manusia. Barangsiapa mengikutiku, maka sesungguhnya ia dari ku; dan siapa yang durhaka kepadaku, maka sesungguhnya Engkau Maha Pengampun, Maha Penyayang.
+“Wahai Tuhan-ku! Sesungguhnya berhala-berhala itu telah menyesatkan banyak dari antara manusia. Barangsiapa mengikutiku, maka sesungguhnya ia dari ku; dan siapa yang durhaka kepadaku, maka sesungguhnya Engkau Maha Pengampun, Maha Penyayang."
 
-”Wahai Tuhan kami! Sesungguhnya aku telah menempatkan sebagian keturunanku di lembah yang tandus dekat rumah Engkau yang suci. Wahai Tuhan kami! Supaya mereka dapat mendirikan shalat. Maka jadikanlah hati manusia cenderung kepada mereka dan a berilah mereka rezeki berupa buahbuahan, supaya mereka selalu bersyukur.
+”Wahai Tuhan kami! Sesungguhnya aku telah menempatkan sebagian keturunanku di lembah yang tandus dekat rumah Engkau yang suci. Wahai Tuhan kami! Supaya mereka dapat mendirikan shalat. Maka jadikanlah hati manusia cenderung kepada mereka dan a berilah mereka rezeki berupa buahbuahan, supaya mereka selalu bersyukur."
 
-“Wahai Tuhan kami! Sesungguhnya b Engkau mengetahui apa yang kami sembunyikan dan apa yang kami nyatakan. Dan tiada sesuatu pun yang tersembunyi bagi Allah di bumi dan tidak pula di langit;
+“Wahai Tuhan kami! Sesungguhnya Engkau mengetahui apa yang kami sembunyikan dan apa yang kami nyatakan. Dan tiada sesuatu pun yang tersembunyi bagi Allah di bumi dan tidak *pula* di langit;"
+
+. “Segala puji bagi Allah, Yang telah menganugerahkan kepadaku Ismail dan Ishak walaupun usiaku telah lanjut. Sesungguhnya Tuhan-ku Maha Mendengar doa."
+
+”Wahai Tuhan-ku! Jadikanlah aku dan keturunanku orang yang *tetap* mendirikan shalat, Wahai Tuhan kami! *Karuniailah aku dengan rahmat Engkau* dan kabulkanlah doaku."
+
+”Wahai Tuhan kami! Ampunilah1472 aku, kedua orangtuaku dan orang-orang mukmin pada Hari diadakannya perhitungan.”
 
 (QS Ibrahim [14]: [36](https://openquran.com/14:36), [37](https://openquran.com/14:37), [38](https://openquran.com/14:38), [39](https://openquran.com/14:39), [40](https://openquran.com/14:40), [41](https://openquran.com/14:41), [42](https://openquran.com/14:42))
 
@@ -1047,11 +1053,11 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQwNjU2MDU0OSwzNDIxOTc2MzMsMjAyNz
-Y3MDYwMywtMTA0NTk1Mjc0NywxNzQ0MTUxOTY2LDE1MDExMjE4
-NjIsLTE1MzM5ODk5OTQsLTgyMDgwNDU5NSwtMTQwNzUyOTMzMC
-wtMjk0MjQyNTAzLC0xMTg3NzQyMTExLC00ODE5MTM3NTAsNDgx
-MTczMTY4LDE3NjgyNjE4ODcsMTA3OTMwNDEyOSwtMTM4MDE5ND
-YwMCwxMjc5MjM0NTI3LC0xNTY2MDE3MjgwLC0xOTI3NTkyMTIs
-LTEyMjkxNTAwNzZdfQ==
+eyJoaXN0b3J5IjpbLTEwOTYyMjIwMDUsMzQyMTk3NjMzLDIwMj
+c2NzA2MDMsLTEwNDU5NTI3NDcsMTc0NDE1MTk2NiwxNTAxMTIx
+ODYyLC0xNTMzOTg5OTk0LC04MjA4MDQ1OTUsLTE0MDc1MjkzMz
+AsLTI5NDI0MjUwMywtMTE4Nzc0MjExMSwtNDgxOTEzNzUwLDQ4
+MTE3MzE2OCwxNzY4MjYxODg3LDEwNzkzMDQxMjksLTEzODAxOT
+Q2MDAsMTI3OTIzNDUyNywtMTU2NjAxNzI4MCwtMTkyNzU5MjEy
+LC0xMjI5MTUwMDc2XX0=
 -->
