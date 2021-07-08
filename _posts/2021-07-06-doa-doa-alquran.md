@@ -364,9 +364,7 @@ Wahai Tuhan kami, janganlah Engkau bengkokkan hati kami setelah Engkau memberi k
 فَاطِرَ السَّمٰوٰتِ وَالۡاَرۡضِ اَنۡتَ وَلِیّٖ فِی الدُّنۡیَا وَالۡاٰخِرَۃِ ۖ تَوَفَّنِیۡ مُسۡلِمًا وَّاَلۡحِقۡنِیۡ بِالصّٰلِحِیۡنَ
 </p>
 
-"Wahai Pencipta seluruh langit dan bumi, Engkau-lah Penolongku di dunia dan akhirat. Wafatkanlah aku dalam *keadaan* patuh *taat kepada kehendak Engkau* dan gabungkanlah aku dengan orang-orang yang saleh.” ([QS Yusuf [12]:102](https://openquran.com/12:102)) [[^012_102_keterangan]]
-
-[^012_102_keterangan]: Doa ini dipanjatkan oleh Nabi Yusuf (as), Doa ini masih sambungan dari [poin sebelumnya](#35-doa-memohon-keselamatan-iman)
+"Wahai Pencipta seluruh langit dan bumi, Engkau-lah Penolongku di dunia dan akhirat. Wafatkanlah aku dalam *keadaan* patuh *taat kepada kehendak Engkau* dan gabungkanlah aku dengan orang-orang yang saleh.” ([QS Yusuf [12]:102](https://openquran.com/12:102)) [[^012_102_keterangan2]]
 
 ### 36. Doa Memohon Dilapangkan Rejeki, Memohon agar Anak-Cucu Kita Menjadi Orang Shaleh 
 
@@ -414,9 +412,7 @@ Wahai Tuhan kami, janganlah Engkau bengkokkan hati kami setelah Engkau memberi k
 
 (QS Ibrahim [14]: [36](https://openquran.com/14:36), [37](https://openquran.com/14:37), [38](https://openquran.com/14:38), [39](https://openquran.com/14:39), [40](https://openquran.com/14:40), [41](https://openquran.com/14:41), [42](https://openquran.com/14:42))
 
-Keterangan: 
-
-- Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
+[]: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 
 [^014_036]: Doa Nabi Ibrahim (as), yang disinggung dalam ayat ini menunjukkan, bahwa beliau tahu, bahwa kemusyrikan pada suatu hari akan merajalela di Mekah dan di negeri sekitarnya. Jadi doa itu merupakan cetusan hasrat beliau untuk memelihara keturunan beliau dari kemusyrikan; dan doa itu dipanjatkan beratus-ratus tahun yang silam.
 
@@ -1065,12 +1061,13 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 
 	Mimpi-mimpi (nubuwwatan) yang datang dari Allah Ta'ala telah genap-sempurna; yakni beliau (as) dibebaskan dari penjara dan dipertemukan dengan keluarganya dan saudara-saudaranya.
 
+[^012_102_keterangan2]: Doa ini dipanjatkan oleh Nabi Yusuf (as), Doa ini masih sambungan dari [poin sebelumnya](#35-doa-memohon-keselamatan-iman)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MjM2NjQyOTYsLTExMjc4NTcwODUsLT
-EyNjQwODI3MywxNDYzNTUwNTg4LC0yMDE3ODYwMDc3LDEwNzEx
-ODQyNywtNDQ3MjcxOTYxLC0xMTI1NDg4ODUwLDIyMDQwMzA3OC
-wtNjEzNjE4MTE2LC0xOTc3MTY1NDA5LDE3NDU4OTc5MTcsMTY2
-MzM4ODYwMywzNDIxOTc2MzMsMjAyNzY3MDYwMywtMTA0NTk1Mj
-c0NywxNzQ0MTUxOTY2LDE1MDExMjE4NjIsLTE1MzM5ODk5OTQs
-LTgyMDgwNDU5NV19
+eyJoaXN0b3J5IjpbMTA3MDUzNTM2MywtMTEyNzg1NzA4NSwtMT
+I2NDA4MjczLDE0NjM1NTA1ODgsLTIwMTc4NjAwNzcsMTA3MTE4
+NDI3LC00NDcyNzE5NjEsLTExMjU0ODg4NTAsMjIwNDAzMDc4LC
+02MTM2MTgxMTYsLTE5NzcxNjU0MDksMTc0NTg5NzkxNywxNjYz
+Mzg4NjAzLDM0MjE5NzYzMywyMDI3NjcwNjAzLC0xMDQ1OTUyNz
+Q3LDE3NDQxNTE5NjYsMTUwMTEyMTg2MiwtMTUzMzk4OTk5NCwt
+ODIwODA0NTk1XX0=
 -->
