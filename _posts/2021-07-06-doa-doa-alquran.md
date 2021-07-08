@@ -1072,12 +1072,15 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 
 [^007_044_keterangan]: Doa tersebut adalah doa yang dipanjatkan oleh orang yang di dalam dada mereka telah Allah Ta'ala hilangkan segala dendam. Setelah itu Allah Ta'ala menyeru kepada mereka, “Inilah surga yang telah diwariskan kepadamu sebagai ganjaran atas apa yang telah kamu kerjakan.”
 
+[^007_127_keterangan]: Doa ini dipanjatkan para penyihir yang telah kalah melawan Nabi Musa (as). Mereka diberikan ancaman oleh Raja Firaun karena mereka serta merta beriman kepada Nabi Musa (as). Mereka diancam akan dipotong tangan dan kakinya serta disalibkan.
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTI2MDcxODQzLC0yMDE3ODYwMDc3LDEwNz
-ExODQyNywtNDQ3MjcxOTYxLC0xMTI1NDg4ODUwLDIyMDQwMzA3
-OCwtNjEzNjE4MTE2LC0xOTc3MTY1NDA5LDE3NDU4OTc5MTcsMT
-Y2MzM4ODYwMywzNDIxOTc2MzMsMjAyNzY3MDYwMywtMTA0NTk1
-Mjc0NywxNzQ0MTUxOTY2LDE1MDExMjE4NjIsLTE1MzM5ODk5OT
-QsLTgyMDgwNDU5NSwtMTQwNzUyOTMzMCwtMjk0MjQyNTAzLC0x
-MTg3NzQyMTExXX0=
+eyJoaXN0b3J5IjpbLTEwMDA5MjI5NjEsLTIwMTc4NjAwNzcsMT
+A3MTE4NDI3LC00NDcyNzE5NjEsLTExMjU0ODg4NTAsMjIwNDAz
+MDc4LC02MTM2MTgxMTYsLTE5NzcxNjU0MDksMTc0NTg5NzkxNy
+wxNjYzMzg4NjAzLDM0MjE5NzYzMywyMDI3NjcwNjAzLC0xMDQ1
+OTUyNzQ3LDE3NDQxNTE5NjYsMTUwMTEyMTg2MiwtMTUzMzk4OT
+k5NCwtODIwODA0NTk1LC0xNDA3NTI5MzMwLC0yOTQyNDI1MDMs
+LTExODc3NDIxMTFdfQ==
 -->
