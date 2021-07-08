@@ -356,11 +356,7 @@ Wahai Tuhan kami, janganlah Engkau bengkokkan hati kami setelah Engkau memberi k
  رَبِّ قَدۡ اٰتَیۡتَنِیۡ مِنَ الۡمُلۡکِ وَعَلَّمۡتَنِیۡ مِنۡ تَاۡوِیۡلِ الۡاَحَادِیۡثِ ۚ فَاطِرَ السَّمٰوٰتِ وَالۡاَرۡضِ اَنۡتَ وَلِیّٖ فِی الدُّنۡیَا وَالۡاٰخِرَۃِ ۖ تَوَفَّنِیۡ مُسۡلِمًا وَّاَلۡحِقۡنِیۡ بِالصّٰلِحِیۡنَ
 </p>
 
-“Ya Tuhan-ku, Engkau telah menganugerahkan *sebagian* kedaulatan kepadaku, dan a mengajarku ta’wil mimpi." ([QS Yusuf [12]:102](https://openquran.com/12:102))
-
-Keterangan: 
-- Doa ini dipanjatkan oleh Nabi Yusuf (as) ketika beliau telah menjadi bendahara khazanah kerajaan Firaun. 
-- Mimpi-mimpi (nubuwwatan) yang datang dari Allah Ta'ala telah genap-sempurna; yakni beliau (as) dibebaskan dari penjara dan dipertemukan dengan keluarganya dan saudara-saudaranya.
+“Ya Tuhan-ku, Engkau telah menganugerahkan *sebagian* kedaulatan kepadaku, dan a mengajarku ta’wil mimpi." ([QS Yusuf [12]:102](https://openquran.com/12:102)) [[^012_102_keterangan]]
 
 ### 35. Doa Memohon Keselamatan Iman
 
@@ -368,11 +364,9 @@ Keterangan:
 فَاطِرَ السَّمٰوٰتِ وَالۡاَرۡضِ اَنۡتَ وَلِیّٖ فِی الدُّنۡیَا وَالۡاٰخِرَۃِ ۖ تَوَفَّنِیۡ مُسۡلِمًا وَّاَلۡحِقۡنِیۡ بِالصّٰلِحِیۡنَ
 </p>
 
-"Wahai Pencipta seluruh langit dan bumi, Engkau-lah Penolongku di dunia dan akhirat. Wafatkanlah aku dalam *keadaan* patuh *taat kepada kehendak Engkau* dan gabungkanlah aku dengan orang-orang yang saleh.” ([QS Yusuf [12]:102](https://openquran.com/12:102))
+"Wahai Pencipta seluruh langit dan bumi, Engkau-lah Penolongku di dunia dan akhirat. Wafatkanlah aku dalam *keadaan* patuh *taat kepada kehendak Engkau* dan gabungkanlah aku dengan orang-orang yang saleh.” ([QS Yusuf [12]:102](https://openquran.com/12:102)) [[^012_102_keterangan]]
 
-Keterangan: 
-- Doa ini dipanjatkan oleh Nabi Yusuf (as) 
-- Doa ini masih sambungan dari [poin sebelumnya](#35-doa-memohon-keselamatan-iman)
+[^012_102_keterangan]: Doa ini dipanjatkan oleh Nabi Yusuf (as), Doa ini masih sambungan dari [poin sebelumnya](#35-doa-memohon-keselamatan-iman)
 
 ### 36. Doa Memohon Dilapangkan Rejeki, Memohon agar Anak-Cucu Kita Menjadi Orang Shaleh 
 
@@ -1067,13 +1061,16 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 
 	Setelah turun teguran itu dari ALlah Ta'ala, maka Nabi Nuh (as) segera memanjatkan doa tersebut kepada Allah Ta'ala.
 
+[^012_102_keterangan]: Doa ini dipanjatkan oleh Nabi Yusuf (as) ketika beliau telah menjadi bendahara khazanah kerajaan Firaun. 
+
+	Mimpi-mimpi (nubuwwatan) yang datang dari Allah Ta'ala telah genap-sempurna; yakni beliau (as) dibebaskan dari penjara dan dipertemukan dengan keluarganya dan saudara-saudaranya.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjE0NjE5MTk2LC0xMTI3ODU3MDg1LC0xMj
-Y0MDgyNzMsMTQ2MzU1MDU4OCwtMjAxNzg2MDA3NywxMDcxMTg0
-MjcsLTQ0NzI3MTk2MSwtMTEyNTQ4ODg1MCwyMjA0MDMwNzgsLT
-YxMzYxODExNiwtMTk3NzE2NTQwOSwxNzQ1ODk3OTE3LDE2NjMz
-ODg2MDMsMzQyMTk3NjMzLDIwMjc2NzA2MDMsLTEwNDU5NTI3ND
-csMTc0NDE1MTk2NiwxNTAxMTIxODYyLC0xNTMzOTg5OTk0LC04
-MjA4MDQ1OTVdfQ==
+eyJoaXN0b3J5IjpbLTE2MjM2NjQyOTYsLTExMjc4NTcwODUsLT
+EyNjQwODI3MywxNDYzNTUwNTg4LC0yMDE3ODYwMDc3LDEwNzEx
+ODQyNywtNDQ3MjcxOTYxLC0xMTI1NDg4ODUwLDIyMDQwMzA3OC
+wtNjEzNjE4MTE2LC0xOTc3MTY1NDA5LDE3NDU4OTc5MTcsMTY2
+MzM4ODYwMywzNDIxOTc2MzMsMjAyNzY3MDYwMywtMTA0NTk1Mj
+c0NywxNzQ0MTUxOTY2LDE1MDExMjE4NjIsLTE1MzM5ODk5OTQs
+LTgyMDgwNDU5NV19
 -->
