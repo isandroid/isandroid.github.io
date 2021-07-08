@@ -286,14 +286,7 @@ Wahai Tuhan kami, janganlah Engkau bengkokkan hati kami setelah Engkau memberi k
 رَبِّ اغۡفِرۡ لِیۡ وَلِاَخِیۡ وَاَدۡخِلۡنَا فِیۡ رَحۡمَتِکَ ۖ وَاَنۡتَ اَرۡحَمُ الرّٰحِمِیۡنَ
 </p>
 
-“Wahai Tuhan-ku, ampunilah aku dan saudaraku, dan masukkanlah kami ke dalam rahmat Engkau, dan Engkau Yang Maha Penyayang dari semua yang penyayang.” ([QS Al-A'roof [7]:152](https://openquran.com/7:152))
-
-[^00] Nabi Musa (as) kembali dari kepada kaumnya dengan perasaan marah dan sedih karena mereka telah menyembah lembu.
-- Nabi Musa (as) memarahi Nabi Harun (as) sebagai seorang wakil yang diberikan amanat untuk menjaga Bani Israil. 
-- Nabi Musa (as) mencengkeram kepala Nabi Harun (as), bukan karena Harun (as) telah membiarkan atau menyokong perbuatan pemujaan lembu, melainkan karena Nabi Harun (as) tidak berhasil mencegah kaumnya menyembah lembu. 
-- Nabi Musa (as) menunjukkan kegusaran karena Nabi Harun (as) tidak berhasil mengelola urusan-urusan agama dengan sebaik-baiknya selagi nabi Musa (as) tidak ada di tempat. 
-- Kemarahan itu beralasan, sebab suatu penodaan besar telah dilakukan dan seluruh pekerjaan Nabi Musa (as) selama hidupnya telah terancam bahaya.
-- Ini adalah doa yang dipanjatkan oleh Nabi Musa (as) setelah kemarahan beliau mereda. Beliau memohon ampun kepada Allah (dan saudaranya, Nabi Harun (as)) atas kelemahan-kelemahan yang telah terjadi.
+“Wahai Tuhan-ku, ampunilah aku dan saudaraku, dan masukkanlah kami ke dalam rahmat Engkau, dan Engkau Yang Maha Penyayang dari semua yang penyayang.” ([QS Al-A'roof [7]:152](https://openquran.com/7:152)) [[^007_152_keterangan]]
 
 ### 27. Doa Memohon Ampun dan Meminta Rahmat Ketika terjadi Gempa
 
@@ -305,8 +298,7 @@ Wahai Tuhan kami, janganlah Engkau bengkokkan hati kami setelah Engkau memberi k
 
 Keterangan: 
 
-- Doa ini dipanjatkan Nabi Musa (as).
-- Kala itu Nabi Musa sedang memilih tujuh puluh orang laki-laki dari kaumnya untuk menepati perjanjian kepada Allah Ta'ala (melaksanakan baiat) dan terjadi gempa.
+- Doa ini dipanjatkan Nabi Musa (as). Kala itu Nabi Musa sedang memilih tujuh puluh orang laki-laki dari kaumnya untuk menepati perjanjian kepada Allah Ta'ala (melaksanakan baiat) dan terjadi gempa.
 
 ### 28. Doa Memohon Kebaikan Dunia dan Akhirat 
 
@@ -1074,12 +1066,15 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 
 [^007_150_keterangan]: Doa ini dipanjatkan oleh Kaum Bani Israil yang bertaubat dari menyembah Sapi. Mereka meremas-remas tangan mereka karena mengakui kesalahan dan kesesatan mereka. 
 
+[^007_152_keterangan]: Nabi Musa (as) kembali dari kepada kaumnya dengan perasaan marah dan sedih karena mereka telah menyembah lembu. Nabi Musa (as) memarahi Nabi Harun (as) sebagai seorang wakil yang diberikan amanat untuk menjaga Bani Israil. Nabi Musa (as) mencengkeram kepala Nabi Harun (as), bukan karena Harun (as) telah membiarkan atau menyokong perbuatan pemujaan lembu, melainkan karena Nabi Harun (as) tidak berhasil mencegah kaumnya menyembah lembu. Nabi Musa (as) menunjukkan kegusaran karena Nabi Harun (as) tidak berhasil mengelola urusan-urusan agama dengan sebaik-baiknya selagi nabi Musa (as) tidak ada di tempat. Kemarahan itu beralasan, sebab suatu penodaan besar telah dilakukan dan seluruh pekerjaan Nabi Musa (as) selama hidupnya telah terancam bahaya. Ini adalah doa yang dipanjatkan oleh Nabi Musa (as) setelah kemarahan beliau mereda. Beliau memohon ampun kepada Allah (dan saudaranya, Nabi Harun (as)) atas kelemahan-kelemahan yang telah terjadi.
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4MzE4OTM0MywxNDYzNTUwNTg4LC0yMD
-E3ODYwMDc3LDEwNzExODQyNywtNDQ3MjcxOTYxLC0xMTI1NDg4
-ODUwLDIyMDQwMzA3OCwtNjEzNjE4MTE2LC0xOTc3MTY1NDA5LD
-E3NDU4OTc5MTcsMTY2MzM4ODYwMywzNDIxOTc2MzMsMjAyNzY3
-MDYwMywtMTA0NTk1Mjc0NywxNzQ0MTUxOTY2LDE1MDExMjE4Nj
-IsLTE1MzM5ODk5OTQsLTgyMDgwNDU5NSwtMTQwNzUyOTMzMCwt
-Mjk0MjQyNTAzXX0=
+eyJoaXN0b3J5IjpbLTE1MjA1MjM2NjcsMTQ2MzU1MDU4OCwtMj
+AxNzg2MDA3NywxMDcxMTg0MjcsLTQ0NzI3MTk2MSwtMTEyNTQ4
+ODg1MCwyMjA0MDMwNzgsLTYxMzYxODExNiwtMTk3NzE2NTQwOS
+wxNzQ1ODk3OTE3LDE2NjMzODg2MDMsMzQyMTk3NjMzLDIwMjc2
+NzA2MDMsLTEwNDU5NTI3NDcsMTc0NDE1MTk2NiwxNTAxMTIxOD
+YyLC0xNTMzOTg5OTk0LC04MjA4MDQ1OTUsLTE0MDc1MjkzMzAs
+LTI5NDI0MjUwM119
 -->
