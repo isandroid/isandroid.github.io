@@ -448,6 +448,10 @@ Wahai Tuhan kami, janganlah Engkau bengkokkan hati kami setelah Engkau memberi k
 یَرِثُنِیۡ وَیَرِثُ مِنۡ اٰلِ یَعۡقُوۡبَ ۖ وَاجۡعَلۡہُ رَبِّ رَضِیًّا
 </p>
 
+“Wahai, Tuhanku! Sesungguhnya tulang-tulangku telah menjadi lemah, dan kepala*ku seluruhnya* telah dipenuhi uban. Tetapi ya Tuhanku, tidak pernah aku kecewa dalam berdoa kepada Engkau."
+
+“Dan sesungguhnya aku khawatir akan kaum-keluargaku sesudahku, sedang  istriku mandul. Maka, anugerakanlah kepada-ku seorang penerus1741 dari sisi Engkau.
+
 (QS Maryam [19]: [5](https://openquran.com/19:5), [6](https://openquran.com/19:6), [7](https://openquran.com/19:7))
 
 Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Zakaria (as)
@@ -1069,7 +1073,7 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 
 	Untuk menyelamatkan diri dari penindasan kejam dan di luar perikemanu siaan itu, para korban yang tidak berdaya itu mencari perlindungan dengan bersembunyi dalam katakombakatakomba (rongga-rongga di bawah tanah tempat menyimpan mayat-mayat) di Roma. Untuk memenuhi tujuan tersebut katakomba- katakomba itu sangat cocok, pertama oleh karena sangat berliku-likunya jalan ke ruangan-ruangan gua yang sangat menyesatkan itu; dan kedua, oleh karena tak terhitung banyaknya ruangan-ruangan kecil dan persembunyian-persembunyian pada tingkat-tingkat berlainan, yang boleh jadi tetap tidak dapat ditemukan dalam kegelapan oleh para pengejar. Nampak dari tulisan-tulisan pada batu-batu nisan kuburan di katakomba-katakomba tersebut, bahwa kaum Kristen di jaman permulaan itu berpegang pada tauhid dengan kuat. Nabi Isa As disebut dalam tulisan-tulisan itu hanya sebagai gembala atau nabi Allah; sedangkan ibunda beliau, Siti Maryam, tidak lebih dari seorang wanita yang saleh. Nampak pula, bahwa orang Kristen yang mencari perlindungan di katakomba-katakomba tersebut gemar menempatkan anjing di pintu-pintu masuk mereka, yang dengan menyalaknyalak akan memberitahukan kedatangan orang-orang asing. Dengan demikian kisah para penghuni gua itu pada hakikatnya melukiskan sejarah orang-orang Kristen di jaman permulaan, dan menunjukkan betapa mereka menderita penindasan -penindasan tak terkatakan, demi keimanan mereka kepada tauhid Ilahi.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzU4MDc2NDYxLDE4NjA0MjYyNjAsMTQwOT
+eyJoaXN0b3J5IjpbMzYwMzkwNzc3LDE4NjA0MjYyNjAsMTQwOT
 IyMzc5MywxNTc0NjEzMTY5LC0xNDMyNTU2MzE3LDg2MDA2NDYx
 NiwtMTEyNzg1NzA4NSwtMTI2NDA4MjczLDE0NjM1NTA1ODgsLT
 IwMTc4NjAwNzcsMTA3MTE4NDI3LC00NDcyNzE5NjEsLTExMjU0
