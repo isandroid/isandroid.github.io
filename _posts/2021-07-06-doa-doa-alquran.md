@@ -60,9 +60,7 @@ Tunjukilah kami jalan yang lurus,  [[^001_006]]
 رَبِّ اجۡعَلۡ ہٰذَا بَلَدًا اٰمِنًا وَّارۡزُقۡ اَہۡلَہٗ مِنَ الثَّمَرٰتِ مَنۡ اٰمَنَ مِنۡہُمۡ بِاللّٰہِ وَالۡیَوۡمِ الۡاٰخِرِ ۖ قَالَ وَمَنۡ کَفَرَ فَاُمَتِّعُہٗ قَلِیۡلًا ثُمَّ اَضۡطَرُّہٗۤ اِلٰی عَذَابِ النَّارِ ۖ وَبِئۡسَ الۡمَصِیۡرُ
 </p>
 
-“Wahai Tuhanku! Jadikan-lah *tempat* ini kota yang aman dan berikanlah rezeki berupa buah-buahan kepada penduduknya dari antara mereka yang beriman kepada Allah dan Hari Kemudian.” Dia berfirman, “Dan kepada orang yang ingkar pun, Aku akan memberi sedikit kesenangan kepadanya, kemudian Aku akan memaksanya *masuk* ke dalam azab Api, dan inilah seburuk-buruk tempat kembali.” ([QS Al-Baqarah [2]:127](https://openquran.com/2:127))
-
-Keterangan: Doa diatas adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)	
+“Wahai Tuhanku! Jadikan-lah *tempat* ini kota yang aman dan berikanlah rezeki berupa buah-buahan kepada penduduknya dari antara mereka yang beriman kepada Allah dan Hari Kemudian.” Dia berfirman, “Dan kepada orang yang ingkar pun, Aku akan memberi sedikit kesenangan kepadanya, kemudian Aku akan memaksanya *masuk* ke dalam azab Api, dan inilah seburuk-buruk tempat kembali.” ([QS Al-Baqarah [2]:127](https://openquran.com/2:127)) [[^002_127]]
 
 ### 3. Doa Agar Kita dan Anak-anak Kita Menjadi Orang yang Benar-benar Taat kepada Allah Ta’ala
 
@@ -78,9 +76,9 @@ Keterangan: Doa diatas adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 
 “Wahai Tuhan kami, jadikanlah kami berdua orang yang berserah diri kepada Engkau, dan jadikanlah dari antara keturunan kami satu umat yang berserah diri kepada Engkau. Dan perlihatkanlah kepada kami caracara ibadah kami dan terimalah taubat kami, sesungguhnya Engkau Maha Penerima tobat, Maha Penyayang.”
 
-(QS Al-Baqarah [2]:[128](https://openquran.com/2:128)-[129](https://openquran.com/2:129))
+(QS Al-Baqarah [2]:[128](https://openquran.com/2:128)-[129](https://openquran.com/2:129)) [^002_128_129]
 
-Keterangan: Doa diatas adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)	dan Nabi Ismail (as) yang ketika mereka berdua meninggikan pondasi Ka'bah di Mekah.
+[]: Doa diatas adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)	dan Nabi Ismail (as) yang ketika mereka berdua meninggikan pondasi Ka'bah di Mekah.
 
 ### 4. Doa Memohon Kebaikan untuk Dunia dan akhirat 
 
@@ -1078,9 +1076,10 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 
 	Itulah pokok surah pembukaan Al-Qur’an yang dengan suatu bentuk atau cara lain senantiasa diulangi dalam seluruh kandungan batang tubuh kitab suci itu (AlQur’an).
 
+[^002_127]: Doa diatas adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)	
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1MDIxNDEzNCwtMTk3NzE2NTQwOSwxNz
+eyJoaXN0b3J5IjpbLTM3NTU2NzE5MywtMTk3NzE2NTQwOSwxNz
 Q1ODk3OTE3LDE2NjMzODg2MDMsMzQyMTk3NjMzLDIwMjc2NzA2
 MDMsLTEwNDU5NTI3NDcsMTc0NDE1MTk2NiwxNTAxMTIxODYyLC
 0xNTMzOTg5OTk0LC04MjA4MDQ1OTUsLTE0MDc1MjkzMzAsLTI5
