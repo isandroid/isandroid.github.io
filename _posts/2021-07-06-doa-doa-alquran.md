@@ -80,7 +80,7 @@ Keterangan: Doa diatas adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 
 (QS Al-Baqarah [2]:[128](https://openquran.com/2:128)-[129](https://openquran.com/2:129))
 
-Keterangan: Doa diatas adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)	dan Nabi Ismail (as) yang ketika mereka berdua men
+Keterangan: Doa diatas adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)	dan Nabi Ismail (as) yang ketika mereka berdua meninggikan pondasi Ka'bah di Mekah.
 
 ### 4. Doa Memohon Kebaikan untuk Dunia dan akhirat 
 
@@ -1080,7 +1080,7 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2ODExNjMxMywtMTk3NzE2NTQwOSwxNz
+eyJoaXN0b3J5IjpbLTM1MDIxNDEzNCwtMTk3NzE2NTQwOSwxNz
 Q1ODk3OTE3LDE2NjMzODg2MDMsMzQyMTk3NjMzLDIwMjc2NzA2
 MDMsLTEwNDU5NTI3NDcsMTc0NDE1MTk2NiwxNTAxMTIxODYyLC
 0xNTMzOTg5OTk0LC04MjA4MDQ1OTUsLTE0MDc1MjkzMzAsLTI5
