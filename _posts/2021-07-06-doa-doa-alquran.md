@@ -294,7 +294,8 @@ Wahai Tuhan kami, janganlah Engkau bengkokkan hati kami setelah Engkau memberi k
  رَبِّ لَوۡ شِئۡتَ اَہۡلَکۡتَہُمۡ مِّنۡ قَبۡلُ وَاِیّٰیَ ۖ اَتُہۡلِکُنَا بِمَا فَعَلَ السُّفَہَآءُ مِنَّاۤ ۖ اِنۡ ہِیَ اِلَّا فِتۡنَتُکَ تُضِلُّ بِہَا مَنۡ تَشَآءُ وَتَہۡدِیۡ مَنۡ تَشَآءُ ۖ اَنۡتَ وَلِیُّنَا فَاغۡفِرۡ لَنَا وَارۡحَمۡنَا ۖ وَاَنۡتَ خَیۡرُ الۡغٰفِرِیۡنَ
 </p>
 
-“Wahai Tuhan-ku, jika Engkau menghendaki, Engkau dapat membinasakan mereka dan *juga* diriku sebelum ini. Akankah Engkau membinasakan kami atas apa yang telah diperbuat oleh orang-orang bodoh di antara kami? Tidak lain ini hanyalah suatu cobaan dari Engkau, dengannya Engkau membiarkan sesat siapa yang Engkau kehendaki dan Engkau memberi petunjuk kepada siapa yang Engkau kehendaki. Engkau-lah Pelindung kami; maka ampunilah kami dan kasihanilah kami dan Engkau-lah sebaik-baik Pemberi ampunan." [[^007_156]] ([QS Al-A'roof [7]:156](https://openquran.com/7:156)) [[^007_156_keterangan]]
+“Wahai Tuhan-ku, jika Engkau menghendaki, Engkau d[^017_025]: Ayat ini dengan suatu perumpamaan yang indah mengajarkan dan menanamkan kasih-sayang terhadap kedua orang tua. Oleh karena cinta-kasih orang tua tidak dapat dibalas dengan sepadan, maka dianjurkan supaya kekurangan dalam hal ini ditutup dengan jalan berdoa bagi mereka. Doa ini menunjukkan, bahwa dalam usia lanjut orangtua memerlukan perlakuan dengan penuh perhatian dan kasih-sayang seperti layaknya anak-anak kecil dijaga dan diperhatikan dalam masa kanak-kanaknya oleh orangtua mereka.
+apat membinasakan mereka dan *juga* diriku sebelum ini. Akankah Engkau membinasakan kami atas apa yang telah diperbuat oleh orang-orang bodoh di antara kami? Tidak lain ini hanyalah suatu cobaan dari Engkau, dengannya Engkau membiarkan sesat siapa yang Engkau kehendaki dan Engkau memberi petunjuk kepada siapa yang Engkau kehendaki. Engkau-lah Pelindung kami; maka ampunilah kami dan kasihanilah kami dan Engkau-lah sebaik-baik Pemberi ampunan." [[^007_156]] ([QS Al-A'roof [7]:156](https://openquran.com/7:156)) [[^007_156_keterangan]]
 
 ### 28. Doa Memohon Kebaikan Dunia dan Akhirat 
 
@@ -1392,6 +1393,8 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 ### 79. Doa Nabi Nuh (as)
 
 (71:6- 29)
+[^017_025]: Ayat ini dengan suatu perumpamaan yang indah mengajarkan dan menanamkan kasih-sayang terhadap kedua orang tua. Oleh karena cinta-kasih orang tua tidak dapat dibalas dengan sepadan, maka dianjurkan supaya kekurangan dalam hal ini ditutup dengan jalan berdoa bagi mereka. Doa ini menunjukkan, bahwa dalam usia lanjut orangtua memerlukan perlakuan dengan penuh perhatian dan kasih-sayang seperti layaknya anak-anak kecil dijaga dan diperhatikan dalam masa kanak-kanaknya oleh orangtua mereka.
+[^017_025]: Ayat ini dengan suatu perumpamaan yang indah mengajarkan dan menanamkan kasih-sayang terhadap kedua orang tua. Oleh karena cinta-kasih orang tua tidak dapat dibalas dengan sepadan, maka dianjurkan supaya kekurangan dalam hal ini ditutup dengan jalan berdoa bagi mereka. Doa ini menunjukkan, bahwa dalam usia lanjut orangtua memerlukan perlakuan dengan penuh perhatian dan kasih-sayang seperti layaknya anak-anak kecil dijaga dan diperhatikan dalam masa kanak-kanaknya oleh orangtua mereka.
 
 ### 80. Doa Memohon Perlindungan
 
@@ -1401,11 +1404,11 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 
 (114:2-7)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3NDYxMzE2OSwtMTQzMjU1NjMxNyw4Nj
-AwNjQ2MTYsLTExMjc4NTcwODUsLTEyNjQwODI3MywxNDYzNTUw
-NTg4LC0yMDE3ODYwMDc3LDEwNzExODQyNywtNDQ3MjcxOTYxLC
-0xMTI1NDg4ODUwLDIyMDQwMzA3OCwtNjEzNjE4MTE2LC0xOTc3
-MTY1NDA5LDE3NDU4OTc5MTcsMTY2MzM4ODYwMywzNDIxOTc2Mz
-MsMjAyNzY3MDYwMywtMTA0NTk1Mjc0NywxNzQ0MTUxOTY2LDE1
-MDExMjE4NjJdfQ==
+eyJoaXN0b3J5IjpbLTQ5NDE4NTE5MSwxNTc0NjEzMTY5LC0xND
+MyNTU2MzE3LDg2MDA2NDYxNiwtMTEyNzg1NzA4NSwtMTI2NDA4
+MjczLDE0NjM1NTA1ODgsLTIwMTc4NjAwNzcsMTA3MTE4NDI3LC
+00NDcyNzE5NjEsLTExMjU0ODg4NTAsMjIwNDAzMDc4LC02MTM2
+MTgxMTYsLTE5NzcxNjU0MDksMTc0NTg5NzkxNywxNjYzMzg4Nj
+AzLDM0MjE5NzYzMywyMDI3NjcwNjAzLC0xMDQ1OTUyNzQ3LDE3
+NDQxNTE5NjZdfQ==
 -->
