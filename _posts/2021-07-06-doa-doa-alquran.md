@@ -176,9 +176,7 @@ Wahai Tuhan kami, janganlah Engkau bengkokkan hati kami setelah Engkau memberi k
 
 “Wahai Tuhan kami, tidaklah Engkau menciptakan semua ini a sia-sia, Mahasuci Engkau *dari perbuatan sia-sia*; maka peliharalah kami dari azab Api.” 
 
-“Wahai Tuhan kami, barangsiapa yang Engkau masukkan ke dalam Api, maka sungguh Engkau telah menghinakannya. Dan tidak ada bagi orang-orang aniaya seorang penolong pun." ([QS Aali-'Imraan [3]:[192](https://openquran.com/3:192)-[193](https://openquran.com/3:193))
-
-Keterangan: Doa ini dipanjatkan oleh orang-orang yang berilmu (yang senantiasa menggunakan akalnya) yang selalu mengingat Allah, baik sambil berdiri, duduk, dan berbaring atas rusuk mereka, dan mereka merenungkan tentang penciptaan seluruh langit dan bumi.
+“Wahai Tuhan kami, barangsiapa yang Engkau masukkan ke dalam Api, maka sungguh Engkau telah menghinakannya. Dan tidak ada bagi orang-orang aniaya seorang penolong pun." ([QS Aali-'Imraan [3]:[192](https://openquran.com/3:192)-[193](https://openquran.com/3:193)) [[^003_192_193]]
 
 ### 15. Doa Pengakuan Menerima kebenaran, Memohon Ampun, Memohon agar Dimasukkan ke dalam Golongan Orang-orang yang Shaleh
 
@@ -1076,12 +1074,14 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 
 [^003_148]: Doa ini dipanjatkan oleh orang-orang sabar yang sedang berperang di jalan Allah Ta'ala. Walaupun mereka sedikit dalam jumlah tapi Allah Ta'ala memberikan karunia kemenangan kepada mereka.
 
+[^003_192_193]: Doa ini dipanjatkan oleh orang-orang yang berilmu (yang senantiasa menggunakan akalnya) yang selalu mengingat Allah, baik sambil berdiri, duduk, dan berbaring atas rusuk mereka, dan mereka merenungkan tentang penciptaan seluruh langit dan bumi.
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyOTM4MDIxNCwyMjA0MDMwNzgsLTYxMz
-YxODExNiwtMTk3NzE2NTQwOSwxNzQ1ODk3OTE3LDE2NjMzODg2
-MDMsMzQyMTk3NjMzLDIwMjc2NzA2MDMsLTEwNDU5NTI3NDcsMT
-c0NDE1MTk2NiwxNTAxMTIxODYyLC0xNTMzOTg5OTk0LC04MjA4
-MDQ1OTUsLTE0MDc1MjkzMzAsLTI5NDI0MjUwMywtMTE4Nzc0Mj
-ExMSwtNDgxOTEzNzUwLDQ4MTE3MzE2OCwxNzY4MjYxODg3LDEw
-NzkzMDQxMjldfQ==
+eyJoaXN0b3J5IjpbLTExMjU0ODg4NTAsMjIwNDAzMDc4LC02MT
+M2MTgxMTYsLTE5NzcxNjU0MDksMTc0NTg5NzkxNywxNjYzMzg4
+NjAzLDM0MjE5NzYzMywyMDI3NjcwNjAzLC0xMDQ1OTUyNzQ3LD
+E3NDQxNTE5NjYsMTUwMTEyMTg2MiwtMTUzMzk4OTk5NCwtODIw
+ODA0NTk1LC0xNDA3NTI5MzMwLC0yOTQyNDI1MDMsLTExODc3ND
+IxMTEsLTQ4MTkxMzc1MCw0ODExNzMxNjgsMTc2ODI2MTg4Nywx
+MDc5MzA0MTI5XX0=
 -->
