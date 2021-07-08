@@ -238,16 +238,7 @@ Wahai Tuhan kami, janganlah Engkau bengkokkan hati kami setelah Engkau memberi k
  رَبَّنَا ظَلَمۡنَاۤ اَنۡفُسَنَا وَاِنۡ لَّمۡ تَغۡفِرۡ لَنَا وَتَرۡحَمۡنَا لَنَکُوۡنَنَّ مِنَ الۡخٰسِرِیۡنَ
 </p>
 
-”Wahai Tuhan kami, kami telah berlaku aniaya terhadap diri kami, dan jika Engkau tidak mengampuni kami dan mengasihi kami, niscaya kami akan termasuk orang-orang yang merugi.” [[^007_024]] 
-
-([QS Al-A'roof [7]:24](https://openquran.com/7:24)) 
-
-Keterangan: 
-
-[^007_024_keterangan]: Doa ini adalah doa yang dipanjatkan oleh Nabi Adam (as) dan istrinya
-
-[^007_024]: Nabi Adam (as) segera menyadari kekeliruannya lalu cepat-cepat kembali rujuk kepada Allah (swt), bertaubat. Sesungguhnya kesalahan Adam (as) terletak pada anggapannya bahwa “manusia Syaitān” itu bermaksud baik, sungguhpun Allah (swt) telah memperingatkan dirinya agar jangan berurusan dengan orang itu.
-
+”Wahai Tuhan kami, kami telah berlaku aniaya terhadap diri kami, dan jika Engkau tidak mengampuni kami dan mengasihi kami, niscaya kami akan termasuk orang-orang yang merugi.” [[^007_024]] ([QS Al-A'roof [7]:24](https://openquran.com/7:24)) [[^007_024_keterangan]]
 
 ### 21. Doa Memohon Dinyatakan Antara yang benar dan yang salah 
 
@@ -1083,14 +1074,18 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 
 [^005_085]: Ayat ini telah dikenakan pula teristimewa kepada Raja Najasyi. Ketika Ja’far (ra), saudara misan Rasulullah (saw) dan juru bicara untuk para pengungsi kaum Muslimin di Abesinia membacakan padanya ayat-ayat permulaan surah Maryam, nampak sekali hati Raja Najasyi tergerak; dan air mata menetes di pipinya. Ia berkata dengan suara lirih penuh haru; seperti itulah kepercayaannya tentang Nabi Isa (as) dan ia menganggap beliau sedikit pun tidak lebih dari itu (Hisyam).
 
+[^007_024_keterangan]: Doa ini adalah doa yang dipanjatkan oleh Nabi Adam (as) dan istrinya. 
+
+[^007_024]: Nabi Adam (as) segera menyadari kekeliruannya lalu cepat-cepat kembali rujuk kepada Allah (swt), bertaubat. Sesungguhnya kesalahan Adam (as) terletak pada anggapannya bahwa “manusia Syaitān” itu bermaksud baik, sungguhpun Allah (swt) telah memperingatkan dirinya agar jangan berurusan dengan orang itu.
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTg0NTA2Njc2LDEwNzExODQyNywtNDQ3Mj
-cxOTYxLC0xMTI1NDg4ODUwLDIyMDQwMzA3OCwtNjEzNjE4MTE2
-LC0xOTc3MTY1NDA5LDE3NDU4OTc5MTcsMTY2MzM4ODYwMywzND
-IxOTc2MzMsMjAyNzY3MDYwMywtMTA0NTk1Mjc0NywxNzQ0MTUx
-OTY2LDE1MDExMjE4NjIsLTE1MzM5ODk5OTQsLTgyMDgwNDU5NS
-wtMTQwNzUyOTMzMCwtMjk0MjQyNTAzLC0xMTg3NzQyMTExLC00
-ODE5MTM3NTBdfQ==
+eyJoaXN0b3J5IjpbLTIwMTc4NjAwNzcsMTA3MTE4NDI3LC00ND
+cyNzE5NjEsLTExMjU0ODg4NTAsMjIwNDAzMDc4LC02MTM2MTgx
+MTYsLTE5NzcxNjU0MDksMTc0NTg5NzkxNywxNjYzMzg4NjAzLD
+M0MjE5NzYzMywyMDI3NjcwNjAzLC0xMDQ1OTUyNzQ3LDE3NDQx
+NTE5NjYsMTUwMTEyMTg2MiwtMTUzMzk4OTk5NCwtODIwODA0NT
+k1LC0xNDA3NTI5MzMwLC0yOTQyNDI1MDMsLTExODc3NDIxMTEs
+LTQ4MTkxMzc1MF19
 -->
