@@ -908,7 +908,7 @@ Dan janganlah hinakan aku pada hari ketika mereka akan dibangkitkan lagi, [[^026
 سُبۡحٰنَ رَبِّنَاۤ اِنَّا کُنَّا ظٰلِمِیۡنَ
 </p>
 
-([QS Al-Qolam [68]:30](https://openquran.com/68:30))
+“Mahasuci Tuhan kami, sesungguhnya Kami adalah orang-orang yang aniaya.” ([QS Al-Qolam [68]:30](https://openquran.com/68:30))
 
 ### 79. Doa Nabi Nuh (as)
 
@@ -1208,7 +1208,7 @@ Dan janganlah hinakan aku pada hari ketika mereka akan dibangkitkan lagi, [[^026
 
 [^066_012_keterangan]: Doa ini adalah doa yang dipanjatkan oleh orang Mukmin yang dimisalkan seperti istri Fir'aun.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTM5NTg5NywtMjExNDMyMDk5NiwtMT
+eyJoaXN0b3J5IjpbMTEwODY2OTQwOCwtMjExNDMyMDk5NiwtMT
 QxNTQ2MTUwMiwtMzg5MTA0OTA4LDk4NDc4MTU3MCw1NDIzMjcw
 MTQsNTYyODk5MzQ2LDE4NDIxOTcwNTIsLTUyMzUxMzE2NCwxMz
 U1NDAzMjg5LC04OTQ2Mjg2NDUsLTU1NDU5ODI1NCwzNDA3NjA0
