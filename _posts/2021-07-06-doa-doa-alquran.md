@@ -540,7 +540,9 @@ Wahai Tuhan kami, janganlah Engkau bengkokkan hati kami setelah Engkau memberi k
  اَنِّیۡ مَسَّنِیَ الضُّرُّ وَاَنۡتَ اَرۡحَمُ الرّٰحِمِیۡنَ
 </p>
 
-([QS Al-Anbiyaa [21]:84](https://openquran.com/21:84))
+“Sesungguh-nya aku ditimpa kesusahan, dan Engkaulah yang paling Penyayang di antara semua penyayang.” ([QS Al-Anbiyaa [21]:84](https://openquran.com/21:84)) [[^021_084_keterangan]]
+
+[^021_084_keterangan]: Doa ini dipanjatkan oleh Nabi Ayyub (as)
 
 ### 44. Doa Mengakui Kesucian Allah dan Mengaku Diri Sendiri Bersalah
 
@@ -1103,11 +1105,11 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 
 [^020_115]: Rasulullah Saw diriwayatkan pernah bersabda, “Carilah ilmu walaupun sampai ke negeri Cina.” (Shagir, jilid I). Di tempat lain dalam Al-Qur’an ilmu telah dilukiskan sebagai “Karunia Allah yang sangat besar” (QS.2:270 dan QS.4:114). Ilmu itu ada dua macam: (a) ilmu yang dianugerahkan kepada manusia dengan perantaraan wahyu dan yang telah mencapai kesempurnaan dalam wujud Al-Qur’an. (b) Ilmu yang didapatkan oleh manusia dengan usaha dan jerih-payahnya sendiri.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwNjY1NTYwOSwtNTU0NTk4MjU0LDM0MD
-c2MDQ3MCwxMDQ4NzIxNzEwLDE4NjA0MjYyNjAsMTQwOTIyMzc5
-MywxNTc0NjEzMTY5LC0xNDMyNTU2MzE3LDg2MDA2NDYxNiwtMT
-EyNzg1NzA4NSwtMTI2NDA4MjczLDE0NjM1NTA1ODgsLTIwMTc4
-NjAwNzcsMTA3MTE4NDI3LC00NDcyNzE5NjEsLTExMjU0ODg4NT
-AsMjIwNDAzMDc4LC02MTM2MTgxMTYsLTE5NzcxNjU0MDksMTc0
-NTg5NzkxN119
+eyJoaXN0b3J5IjpbNDgzMDE1Mjk4LC01NTQ1OTgyNTQsMzQwNz
+YwNDcwLDEwNDg3MjE3MTAsMTg2MDQyNjI2MCwxNDA5MjIzNzkz
+LDE1NzQ2MTMxNjksLTE0MzI1NTYzMTcsODYwMDY0NjE2LC0xMT
+I3ODU3MDg1LC0xMjY0MDgyNzMsMTQ2MzU1MDU4OCwtMjAxNzg2
+MDA3NywxMDcxMTg0MjcsLTQ0NzI3MTk2MSwtMTEyNTQ4ODg1MC
+wyMjA0MDMwNzgsLTYxMzYxODExNiwtMTk3NzE2NTQwOSwxNzQ1
+ODk3OTE3XX0=
 -->
