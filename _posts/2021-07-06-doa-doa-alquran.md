@@ -758,7 +758,7 @@ Dan janganlah hinakan aku pada hari ketika mereka akan dibangkitkan lagi, [[^026
  رَبِّ نَجِّنِیۡ مِنَ الۡقَوۡمِ الظّٰلِمِیۡنَ
 </p>
 
-“Wahai Tuhan-ku! Selamatkanlah aku dari kaum yang aniaya.” ([QS Al-Qoshosh [28]:22](https://openquran.com/28:22))
+“Wahai Tuhan-ku! Selamatkanlah aku dari kaum yang aniaya.” [[^028_022]] ([QS Al-Qoshosh [28]:22](https://openquran.com/28:22))
 
 [^028_022]: QS Al Qoshshos ayat 16-23 : Nampaknya sebelum kenabian beliau, Nabi Musa As biasa jalan-jalan diwaktu subuh. Suatu hari di jalan beliau melihat seorang Israil bertengkar dengan seorang dari kaum Fir’aun. Ketika ia minta tolong kepada Nabi Musa As, beliau memukul orang dari kaum Fir’aun dan ia mati. Pada Subuh berikutnya Nabi Musa As melewati jalan itu lagi. Beliau melihat lagi orang dari kaumnya tengah bertengkar dengan seseorang dari kaum Fir’aun. Ketika Nabi Musa As maju ke depan untuk menolong orang dari kaumnya, maka orangnya Fir’aun bicara dengan pelan, “Apakah engkau akan memperlakukan aku seperti kemarin kamu telah membunuh orang kami ?” Sesudah menerangkan kedua peristiwa itu, ayat berikutnya menjelaskan, bahwa para pemimpin kaum Fir’aun telah memutuskan untuk menghukum mati Musa As. Sebelumnya, seseorang yang tahu telah memberi tahu Musa As tentang itu. Beliau pun pergi dari sana menuju Midian.
 
@@ -1173,11 +1173,11 @@ Dan janganlah hinakan aku pada hari ketika mereka akan dibangkitkan lagi, [[^026
 [^028_018]: Ayat ini menunjukkan Nabi Musa As seolah-olah berkata, “Ya Tuhanku! Engkau selamanya berbelas kasih kepadaku, maka karena bersyukur atas nikmat Engkau aku berjanji, bahwa aku selamanya akan membela orangorang yang teraniaya, sebagaimana aku pernah lakukan pada kejadian terakhir, dan aku sama sekali tidak akan memihak orang yang zalim.” Atau dapat juga diartikan, “Ya Tuhanku, karena Engkau selamanya baik dan berkasih-sayang kepadaku, bagaimana aku dapat menjadi seorang penolong dan pembela kaum yang teraniaya?”
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4Njc1MTk0NSw5ODQ3ODE1NzAsNTQyMz
-I3MDE0LDU2Mjg5OTM0NiwxODQyMTk3MDUyLC01MjM1MTMxNjQs
-MTM1NTQwMzI4OSwtODk0NjI4NjQ1LC01NTQ1OTgyNTQsMzQwNz
-YwNDcwLDEwNDg3MjE3MTAsMTg2MDQyNjI2MCwxNDA5MjIzNzkz
-LDE1NzQ2MTMxNjksLTE0MzI1NTYzMTcsODYwMDY0NjE2LC0xMT
-I3ODU3MDg1LC0xMjY0MDgyNzMsMTQ2MzU1MDU4OCwtMjAxNzg2
-MDA3N119
+eyJoaXN0b3J5IjpbLTE5Njc3NzE5MTQsOTg0NzgxNTcwLDU0Mj
+MyNzAxNCw1NjI4OTkzNDYsMTg0MjE5NzA1MiwtNTIzNTEzMTY0
+LDEzNTU0MDMyODksLTg5NDYyODY0NSwtNTU0NTk4MjU0LDM0MD
+c2MDQ3MCwxMDQ4NzIxNzEwLDE4NjA0MjYyNjAsMTQwOTIyMzc5
+MywxNTc0NjEzMTY5LC0xNDMyNTU2MzE3LDg2MDA2NDYxNiwtMT
+EyNzg1NzA4NSwtMTI2NDA4MjczLDE0NjM1NTA1ODgsLTIwMTc4
+NjAwNzddfQ==
 -->
