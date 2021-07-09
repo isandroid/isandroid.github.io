@@ -718,9 +718,11 @@ Dan janganlah hinakan aku pada hari ketika mereka akan dibangkitkan lagi, [[^026
 رَبِّ اَوۡزِعۡنِیۡۤ اَنۡ اَشۡکُرَ نِعۡمَتَکَ الَّتِیۡۤ اَنۡعَمۡتَ عَلَیَّ وَعَلٰی وٰلِدَیَّ وَاَنۡ اَعۡمَلَ صٰلِحًا تَرۡضٰٮہُ وَاَدۡخِلۡنِیۡ بِرَحۡمَتِکَ فِیۡ عِبَادِکَ الصّٰلِحِیۡنَ
 </p>
 
-“Wahai Tuhan-ku! Anugerahkanlah kepada-ku *taufik* untuk mensyukuri nikmat Engkau yang telah Engkau anugerahkan kepadaku dan kepada orangtuaku, dan untuk berbuat amal saleh yang Engkau ridhai, dan masukkanlah aku dengan rahmat Engkau di antara hamba-hamba Engkau yang saleh.” ([QS An-Naml [27]:20](https://openquran.com/27:20))
+“Wahai Tuhan-ku! Anugerahkanlah kepada-ku *taufik* untuk mensyukuri nikmat Engkau yang telah Engkau anugerahkan kepadaku dan kepada orangtuaku, dan untuk berbuat amal saleh yang Engkau ridhai, dan masukkanlah aku dengan rahmat Engkau di antara hamba-hamba Engkau yang saleh.” [[^027_020]] ([QS An-Naml [27]:20](https://openquran.com/27:20)) [[^027_020_keterangan]]
 
-[^027_020]: Doa ini dipanjatkan oleh Nabi Sulaiman (as) ketika berdialog dengan Suku *Naml* 
+[^027_020]: Karena *dahika* maknanya, ia merasa kagum atau ia merasa senang (Lane). Ayat ini mengandung arti, bahwa Nabi Sulaiman (as) kagum dan senang sekali dengan pendapat baik yang dikemukakan oleh suku bangsa Naml tentang kekuatan dan kesalehan dirinya dan balatentaranya
+
+[^027_020_keterangan]: Doa ini dipanjatkan oleh Nabi Sulaiman (as) ketika berdialog dengan Suku atau bangsa *Naml* 
 
 ### 59. Doa Pengakuan bahwa Kita Menganiaya Diri-Sendiri
 
@@ -1159,11 +1161,11 @@ Dan janganlah hinakan aku pada hari ketika mereka akan dibangkitkan lagi, [[^026
 
 [^026_170_keterangan]: Doa ini dimohonkan Nabi Luth (as) kepada Allah Ta'ala ketika menghadapi kaum beliau.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzIwODQ1MTMsNTYyODk5MzQ2LDE4ND
-IxOTcwNTIsLTUyMzUxMzE2NCwxMzU1NDAzMjg5LC04OTQ2Mjg2
-NDUsLTU1NDU5ODI1NCwzNDA3NjA0NzAsMTA0ODcyMTcxMCwxOD
-YwNDI2MjYwLDE0MDkyMjM3OTMsMTU3NDYxMzE2OSwtMTQzMjU1
-NjMxNyw4NjAwNjQ2MTYsLTExMjc4NTcwODUsLTEyNjQwODI3My
-wxNDYzNTUwNTg4LC0yMDE3ODYwMDc3LDEwNzExODQyNywtNDQ3
-MjcxOTYxXX0=
+eyJoaXN0b3J5IjpbODQyNzU0MDE4LDU2Mjg5OTM0NiwxODQyMT
+k3MDUyLC01MjM1MTMxNjQsMTM1NTQwMzI4OSwtODk0NjI4NjQ1
+LC01NTQ1OTgyNTQsMzQwNzYwNDcwLDEwNDg3MjE3MTAsMTg2MD
+QyNjI2MCwxNDA5MjIzNzkzLDE1NzQ2MTMxNjksLTE0MzI1NTYz
+MTcsODYwMDY0NjE2LC0xMTI3ODU3MDg1LC0xMjY0MDgyNzMsMT
+Q2MzU1MDU4OCwtMjAxNzg2MDA3NywxMDcxMTg0MjcsLTQ0NzI3
+MTk2MV19
 -->
