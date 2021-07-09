@@ -35,7 +35,17 @@ Hadhrat ‘Umar (ra) meminta jumlah orang yang datang untuk makan harus dihitung
 
 ### Kepemimpinan Teladan Hadhrat ‘Umar (ra): pemasangan alas tikar atau sajadah di Masjid, Sensus (penghitungan dan pendataan penduduk), sistem penjatahan dalam pembagian makanan demi memastikan meratanya bahan makanan pada waktu kesulitan. Penegakkan praktek kesetaraan oleh Nabi (saw). Sistem pemerataan (sama rata) dipraktekkan Nabi (saw) dalam pasukan beliau di peperangan ketika situasi ekstrim dalam hal kekurangan makanan dan di awal masa di Madinah.
 
+Pada awalnya di masjid, shalat dilakukan di tanah, akibatnya dahi para jamaah sering tertutup lumpur (tanah atau debu). Tercatat bahwa Hadhrat ‘Umar (ra) adalah orang pertama yang menginstruksikan agar semacam alas tikar diletakkan di atas tanah untuk memudahkan shalat. Itu juga selama era Hadhrat ‘Umar (ra) bahwa Masjid Nabawi (Masjid Nabawi) direnovasi dan diperluas. 
+
+Hal itu juga selama era Hadhrat ‘Umar (ra) bahwa beliau (ra) berinisiatif mengambil sensus (cacah jiwa) warga, dan juga selama ini Hadhrat ‘Umar (ra) mendirikan sistem penjatahan. Hal ini sesuai dengan kesetaraan yang sama yang ditetapkan oleh Nabi (saw) segera setelah beliau (saw) tiba di Madinah. 
+
+Suatu ketika dalam pertempuran, Nabi saw mengetahui beberapa orang tidak memiliki cukup makanan, sementara ada beberapa yang memiliki banyak makanan. Melihat hal ini, Nabi (saw) memerintahkan semua orang yang memiliki sesuatu makanan untuk mengumpulkannya, dan kemudian dibagikan secara merata sehingga semua orang bisa makan. Semua orang makan secara terpisah sampai memungkinkan untuk melakukannya, tetapi ketika risiko sisa lapar muncul, Nabi (saw) memerintahkan agar semua orang makan sama rata. Hal ini bukan untuk mendirikan sosialisme atau komunisme jenis apa pun, melainkan keputusan yang dibuat berdasarkan keadaan pada saat itu. Oleh karena itu, ini adalah contoh yang ditetapkan oleh Nabi (saw). 
+
+Berdasarkan contoh yang diberikan oleh Nabi yang mulia (saw), bahwa ketika Islam mulai menyebar jauh dan luas dan berbagai negara mulai bergabung dengan Islam, Hadhrat ‘Umar (ra) menetapkan sistem sensus di untuk menentukan jumlah warga, dan kemudian mendistribusikan makanan di bawah sistem penjatahan untuk memastikan semua yang masuk Islam bisa makan. Oleh karena itu, pemerintah Islam menetapkan sistem, dimana tunjangan penghidupan setiap orang menjadi tanggungjawab pemerintah. Ada yang mengatakan bahwa Soviet-Rusia (zaman pemerintahan Komunis) adalah yang pertama menyediakan penjatahan makanan bagi warganya setelah melakukan sensus. Namun fakta membuktikan konsep ini pertama kali didirikan oleh Islam dan pemerintahnya. 
+
+### Membangun Sistem Resmi Syura
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3OTkyNjE2N119
+eyJoaXN0b3J5IjpbLTM1MzY0ODc0M119
 -->
