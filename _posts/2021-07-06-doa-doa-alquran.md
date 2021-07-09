@@ -548,7 +548,7 @@ Wahai Tuhan kami, janganlah Engkau bengkokkan hati kami setelah Engkau memberi k
  لَّاۤ اِلٰہَ اِلَّاۤ اَنۡتَ سُبۡحٰنَکَ اِنِّیۡ کُنۡتُ مِنَ الظّٰلِمِیۡنَ
 </p>
 
-([QS Al-Anbiyaa [21]:88](https://openquran.com/21:88))
+“Tiada Tuhan selain Engkau, Engkau Mahasuci. Sesungguhnya aku termasuk orang-orang yang aniaya.” ([QS Al-Anbiyaa [21]:88](https://openquran.com/21:88))
 
 ### 45. Doa Memohon Keturunan
 
@@ -1107,11 +1107,11 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 
 [^021_084_keterangan]: Doa ini dipanjatkan oleh Nabi Ayyub (as)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5NDYyODY0NSwtNTU0NTk4MjU0LDM0MD
-c2MDQ3MCwxMDQ4NzIxNzEwLDE4NjA0MjYyNjAsMTQwOTIyMzc5
-MywxNTc0NjEzMTY5LC0xNDMyNTU2MzE3LDg2MDA2NDYxNiwtMT
-EyNzg1NzA4NSwtMTI2NDA4MjczLDE0NjM1NTA1ODgsLTIwMTc4
-NjAwNzcsMTA3MTE4NDI3LC00NDcyNzE5NjEsLTExMjU0ODg4NT
-AsMjIwNDAzMDc4LC02MTM2MTgxMTYsLTE5NzcxNjU0MDksMTc0
-NTg5NzkxN119
+eyJoaXN0b3J5IjpbMjA2MzY1MzQ5NywtODk0NjI4NjQ1LC01NT
+Q1OTgyNTQsMzQwNzYwNDcwLDEwNDg3MjE3MTAsMTg2MDQyNjI2
+MCwxNDA5MjIzNzkzLDE1NzQ2MTMxNjksLTE0MzI1NTYzMTcsOD
+YwMDY0NjE2LC0xMTI3ODU3MDg1LC0xMjY0MDgyNzMsMTQ2MzU1
+MDU4OCwtMjAxNzg2MDA3NywxMDcxMTg0MjcsLTQ0NzI3MTk2MS
+wtMTEyNTQ4ODg1MCwyMjA0MDMwNzgsLTYxMzYxODExNiwtMTk3
+NzE2NTQwOV19
 -->
