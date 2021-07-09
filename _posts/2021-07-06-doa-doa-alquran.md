@@ -860,7 +860,7 @@ Dan janganlah hinakan aku pada hari ketika mereka akan dibangkitkan lagi, [[^026
  اَنِّیۡ مَغۡلُوۡبٌ فَانۡتَصِرۡ
 </p>
 
-“Sesungguhnya aku dikalahkan, maka tolonglah *aku*.” ([QS Al-Qamar [54]:11](https://openquran.com/54:11))
+“Sesungguhnya aku dikalahkan, maka tolonglah *aku*.” ([QS Al-Qamar [54]:11](https://openquran.com/54:11)) [[^023_027_keterangan]]
 
 ### 74. Doa Memohon Dijauhkan dari Hasad dan Dengki serta Doa Memohon Ampunan
 
@@ -868,7 +868,7 @@ Dan janganlah hinakan aku pada hari ketika mereka akan dibangkitkan lagi, [[^026
 رَبَّنَا اغۡفِرۡ لَنَا وَلِاِخۡوٰنِنَا الَّذِیۡنَ سَبَقُوۡنَا بِالۡاِیۡمٰنِ وَلَا تَجۡعَلۡ فِیۡ قُلُوۡبِنَا غِلًّا لِّلَّذِیۡنَ اٰمَنُوۡا رَبَّنَاۤ اِنَّکَ رَءُوۡفٌ رَّحِیۡمٌ
 </p>
 
-([QS Al-Hasyr [59]:11](https://openquran.com/59:11))
+“Wahai Tuhan kami, ampunilah kami dan saudara-saudara kami yang mendahului kami dalam keimanan, dan jangan-lah engkau tanamkan kedengkian di dalam hati kami terhadap orang-orang yang beriman. Wahai Tuhan kami, sesungguhnya Engkau Maha Penyantun, Maha Penyayang. ([QS Al-Hasyr [59]:11](https://openquran.com/59:11))
 
 ### 75. Doa Memohon Dipelihara dari Fitnah Orang Kafir 
 
@@ -1199,11 +1199,11 @@ Dan janganlah hinakan aku pada hari ketika mereka akan dibangkitkan lagi, [[^026
 [^046_016_keterangan]: Doa ini dipanjatkan oleh orang yang berumur 40 tahun. Doa ini dipanjatkan sebagai rasa syukur terhadap nikmat dari Allah Ta'ala yakni ia mendapatkan asuhan orang tua yang baik.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0MTgzODgxOCwtMjExNDMyMDk5NiwtMT
-QxNTQ2MTUwMiwtMzg5MTA0OTA4LDk4NDc4MTU3MCw1NDIzMjcw
-MTQsNTYyODk5MzQ2LDE4NDIxOTcwNTIsLTUyMzUxMzE2NCwxMz
-U1NDAzMjg5LC04OTQ2Mjg2NDUsLTU1NDU5ODI1NCwzNDA3NjA0
-NzAsMTA0ODcyMTcxMCwxODYwNDI2MjYwLDE0MDkyMjM3OTMsMT
-U3NDYxMzE2OSwtMTQzMjU1NjMxNyw4NjAwNjQ2MTYsLTExMjc4
-NTcwODVdfQ==
+eyJoaXN0b3J5IjpbLTE2MTYwMjE0NzcsLTIxMTQzMjA5OTYsLT
+E0MTU0NjE1MDIsLTM4OTEwNDkwOCw5ODQ3ODE1NzAsNTQyMzI3
+MDE0LDU2Mjg5OTM0NiwxODQyMTk3MDUyLC01MjM1MTMxNjQsMT
+M1NTQwMzI4OSwtODk0NjI4NjQ1LC01NTQ1OTgyNTQsMzQwNzYw
+NDcwLDEwNDg3MjE3MTAsMTg2MDQyNjI2MCwxNDA5MjIzNzkzLD
+E1NzQ2MTMxNjksLTE0MzI1NTYzMTcsODYwMDY0NjE2LC0xMTI3
+ODU3MDg1XX0=
 -->
