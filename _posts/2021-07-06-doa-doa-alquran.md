@@ -828,7 +828,7 @@ Dan janganlah hinakan aku pada hari ketika mereka akan dibangkitkan lagi, [[^026
 وَاُفَوِّضُ اَمۡرِیۡۤ اِلَی اللّٰہِ ۚ اِنَّ اللّٰہَ بَصِیۡرٌۢ بِالۡعِبَادِ
 </p>
 
-"Dan aku menyerahkan urusanku kepada Allah. Sesungguhnya Allah Maha Melihat hamba-hamba-Nya.” ([QS Al-Mu-min [40]:45](https://openquran.com/40:45))
+"Dan aku menyerahkan urusanku kepada Allah. Sesungguhnya Allah Maha Melihat hamba-hamba-*Nya*.” ([QS Al-Mu-min [40]:45](https://openquran.com/40:45))
 
 ### 71. Doa Naik Kendaraan
 
@@ -836,7 +836,7 @@ Dan janganlah hinakan aku pada hari ketika mereka akan dibangkitkan lagi, [[^026
 سُبۡحٰنَ الَّذِیۡ سَخَّرَ لَنَا ہٰذَا وَمَا کُنَّا لَہٗ مُقۡرِنِیۡنَ
 </p>
 
-([QS Az-Zukhruf [43]:14](https://openquran.com/43:14))
+“Mahasuci Dia Yang telah menundukkan ini bagi kami, padahal kami sendiri tidak mampu menguasainya.” ([QS Az-Zukhruf [43]:14](https://openquran.com/43:14))
 
 ### 72. Doa Bersyukur atas Nikmat Tuhan
 
@@ -1189,11 +1189,11 @@ Dan janganlah hinakan aku pada hari ketika mereka akan dibangkitkan lagi, [[^026
 [^040_008_010_keterangan]: Doa ini dipanjatkan oleh malaikat-malaikat yang memikul ‘Arasy dan mereka yang ada di sekitarnya, mereka bertasbih dengan memuji Tuhannya, dan mereka beriman kepada-Nya, dan mereka memohon ampunan bagi orang-orang yang beriman dengan doa ini.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyMDQxODk2NSwtMjExNDMyMDk5NiwtMT
-QxNTQ2MTUwMiwtMzg5MTA0OTA4LDk4NDc4MTU3MCw1NDIzMjcw
-MTQsNTYyODk5MzQ2LDE4NDIxOTcwNTIsLTUyMzUxMzE2NCwxMz
-U1NDAzMjg5LC04OTQ2Mjg2NDUsLTU1NDU5ODI1NCwzNDA3NjA0
-NzAsMTA0ODcyMTcxMCwxODYwNDI2MjYwLDE0MDkyMjM3OTMsMT
-U3NDYxMzE2OSwtMTQzMjU1NjMxNyw4NjAwNjQ2MTYsLTExMjc4
-NTcwODVdfQ==
+eyJoaXN0b3J5IjpbLTEzMDc0MzYxOTYsLTIxMTQzMjA5OTYsLT
+E0MTU0NjE1MDIsLTM4OTEwNDkwOCw5ODQ3ODE1NzAsNTQyMzI3
+MDE0LDU2Mjg5OTM0NiwxODQyMTk3MDUyLC01MjM1MTMxNjQsMT
+M1NTQwMzI4OSwtODk0NjI4NjQ1LC01NTQ1OTgyNTQsMzQwNzYw
+NDcwLDEwNDg3MjE3MTAsMTg2MDQyNjI2MCwxNDA5MjIzNzkzLD
+E1NzQ2MTMxNjksLTE0MzI1NTYzMTcsODYwMDY0NjE2LC0xMTI3
+ODU3MDg1XX0=
 -->
