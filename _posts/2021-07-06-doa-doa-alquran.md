@@ -712,8 +712,6 @@ Dan janganlah hinakan aku pada hari ketika mereka akan dibangkitkan lagi, [[^026
 
 “Wahai Tuhan-ku! Selamatkanlah aku dan keluargaku dari apa yang mereka kerjakan.” ([QS Asy-Syu'araa [26]:170](https://openquran.com/26:170))
 
-[^026]
-
 ### 58. Doa Memohon Taufik Agar Menjadi Pribadi yang Bersyukur
 
 <p class="quran">
@@ -1156,12 +1154,14 @@ Dan janganlah hinakan aku pada hari ketika mereka akan dibangkitkan lagi, [[^026
 [^026_084_088_keterangan]: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as).
 
 [^026_118_119_keterangan]: Doa ini diucapkan oleh Nabi Nuh (as).
+
+[^026_170_keterangan]: Doa ini dimohonkan Nabi Luth (as) kepada Allah Ta'ala ketika menghadapi kaum beliau.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzNTQwMzk2MywxODQyMTk3MDUyLC01Mj
-M1MTMxNjQsMTM1NTQwMzI4OSwtODk0NjI4NjQ1LC01NTQ1OTgy
-NTQsMzQwNzYwNDcwLDEwNDg3MjE3MTAsMTg2MDQyNjI2MCwxND
-A5MjIzNzkzLDE1NzQ2MTMxNjksLTE0MzI1NTYzMTcsODYwMDY0
-NjE2LC0xMTI3ODU3MDg1LC0xMjY0MDgyNzMsMTQ2MzU1MDU4OC
-wtMjAxNzg2MDA3NywxMDcxMTg0MjcsLTQ0NzI3MTk2MSwtMTEy
-NTQ4ODg1MF19
+eyJoaXN0b3J5IjpbLTE1NjM4Nzc1MjAsMTg0MjE5NzA1MiwtNT
+IzNTEzMTY0LDEzNTU0MDMyODksLTg5NDYyODY0NSwtNTU0NTk4
+MjU0LDM0MDc2MDQ3MCwxMDQ4NzIxNzEwLDE4NjA0MjYyNjAsMT
+QwOTIyMzc5MywxNTc0NjEzMTY5LC0xNDMyNTU2MzE3LDg2MDA2
+NDYxNiwtMTEyNzg1NzA4NSwtMTI2NDA4MjczLDE0NjM1NTA1OD
+gsLTIwMTc4NjAwNzcsMTA3MTE4NDI3LC00NDcyNzE5NjEsLTEx
+MjU0ODg4NTBdfQ==
 -->
