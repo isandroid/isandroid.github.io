@@ -710,7 +710,7 @@ Dan janganlah hinakan aku pada hari ketika mereka akan dibangkitkan lagi, [[^026
 رَبِّ نَجِّنِیۡ وَاَہۡلِیۡ مِمَّا یَعۡمَلُوۡنَ
 </p>
 
-“Wahai Tuhan-ku! Selamatkanlah aku dan keluargaku dari apa yang mereka kerjakan.” ([QS Asy-Syu'araa [26]:170](https://openquran.com/26:170))
+“Wahai Tuhan-ku! Selamatkanlah aku dan keluargaku dari apa yang mereka kerjakan.” ([QS Asy-Syu'araa [26]:170](https://openquran.com/26:170)) [[^026_170_keterangan]]
 
 ### 58. Doa Memohon Taufik Agar Menjadi Pribadi yang Bersyukur
 
@@ -1157,11 +1157,11 @@ Dan janganlah hinakan aku pada hari ketika mereka akan dibangkitkan lagi, [[^026
 
 [^026_170_keterangan]: Doa ini dimohonkan Nabi Luth (as) kepada Allah Ta'ala ketika menghadapi kaum beliau.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NjM4Nzc1MjAsMTg0MjE5NzA1MiwtNT
-IzNTEzMTY0LDEzNTU0MDMyODksLTg5NDYyODY0NSwtNTU0NTk4
-MjU0LDM0MDc2MDQ3MCwxMDQ4NzIxNzEwLDE4NjA0MjYyNjAsMT
-QwOTIyMzc5MywxNTc0NjEzMTY5LC0xNDMyNTU2MzE3LDg2MDA2
-NDYxNiwtMTEyNzg1NzA4NSwtMTI2NDA4MjczLDE0NjM1NTA1OD
-gsLTIwMTc4NjAwNzcsMTA3MTE4NDI3LC00NDcyNzE5NjEsLTEx
-MjU0ODg4NTBdfQ==
+eyJoaXN0b3J5IjpbNTYyODk5MzQ2LDE4NDIxOTcwNTIsLTUyMz
+UxMzE2NCwxMzU1NDAzMjg5LC04OTQ2Mjg2NDUsLTU1NDU5ODI1
+NCwzNDA3NjA0NzAsMTA0ODcyMTcxMCwxODYwNDI2MjYwLDE0MD
+kyMjM3OTMsMTU3NDYxMzE2OSwtMTQzMjU1NjMxNyw4NjAwNjQ2
+MTYsLTExMjc4NTcwODUsLTEyNjQwODI3MywxNDYzNTUwNTg4LC
+0yMDE3ODYwMDc3LDEwNzExODQyNywtNDQ3MjcxOTYxLC0xMTI1
+NDg4ODUwXX0=
 -->
