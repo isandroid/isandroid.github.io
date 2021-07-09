@@ -726,9 +726,7 @@ Dan janganlah hinakan aku pada hari ketika mereka akan dibangkitkan lagi, [[^026
 رَبِّ اِنِّیۡ ظَلَمۡتُ نَفۡسِیۡ وَاَسۡلَمۡتُ مَعَ سُلَیۡمٰنَ لِلّٰہِ رَبِّ الۡعٰلَمِیۡنَ
 </p>
 
-“Wahai Tuhan-ku! Sesungguhnya aku telah berlaku aniaya terhadap diriku sendiri dan aku tunduk bersama Sulaiman kepada Allah, Tuhan seluruh alam.” ([QS An-Naml [27]:45](https://openquran.com/27:45)) [[^027_045_keterangan]]
-
-[^027_045_keterangan]: Doa ini dipanjatkan oleh Rastu Saba yang terkagum-kagum dengan kerajaan yang dianugerahkan Allah Ta'ala kepada Nabi Sulaiman (as)
+“Wahai Tuhan-ku! Sesungguhnya aku telah berlaku aniaya terhadap diriku sendiri dan aku tunduk bersama Sulaiman kepada Allah, Tuhan seluruh alam.” [[^027_045]] ([QS An-Naml [27]:45](https://openquran.com/27:45)) [[^027_045_keterangan]]
 
 ### 60. Doa Keselamatan
 
@@ -1162,12 +1160,16 @@ Dan janganlah hinakan aku pada hari ketika mereka akan dibangkitkan lagi, [[^026
 [^027_020]: Karena *dahika* maknanya, ia merasa kagum atau ia merasa senang (Lane). Ayat ini mengandung arti, bahwa Nabi Sulaiman (as) kagum dan senang sekali dengan pendapat baik yang dikemukakan oleh suku bangsa Naml tentang kekuatan dan kesalehan dirinya dan balatentaranya
 
 [^027_020_keterangan]: Doa ini dipanjatkan oleh Nabi Sulaiman (as) ketika berdialog dengan Suku atau bangsa *Naml* 
+
+[^027_045]: Ratu Saba diizinkan untuk masuk istana. Lantainya dibuat dari potongan-potongan kaca yang sangat bening dan kilauannya nampak seperti air, padahal hanya lantai biasa dan sama sekali di sana tidak ada air. Karena menyangka itu air, Ratu Saba mengangkat pakaiannya supaya tidak basah. Waktu itu Nabi Sulaiman (as) menjelaskan kepadanya, inipun tipuan penglihatan, sebagaimana ketika kamu melihat matahari, kamu menganggap itu sebagai sumber cahaya, padahal sesungguhnya nur Allah-lah yang menjadikannya bersinar. Dengan itu ia menjadi paham, bahwa mereka telah keliru menyembah matahari.
+
+[^027_045_keterangan]: Doa ini dipanjatkan oleh Rastu Saba yang terkagum-kagum dengan kerajaan yang dianugerahkan Allah Ta'ala kepada Nabi Sulaiman (as)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTg3MjUwNDgsNTYyODk5MzQ2LDE4ND
-IxOTcwNTIsLTUyMzUxMzE2NCwxMzU1NDAzMjg5LC04OTQ2Mjg2
-NDUsLTU1NDU5ODI1NCwzNDA3NjA0NzAsMTA0ODcyMTcxMCwxOD
-YwNDI2MjYwLDE0MDkyMjM3OTMsMTU3NDYxMzE2OSwtMTQzMjU1
-NjMxNyw4NjAwNjQ2MTYsLTExMjc4NTcwODUsLTEyNjQwODI3My
-wxNDYzNTUwNTg4LC0yMDE3ODYwMDc3LDEwNzExODQyNywtNDQ3
-MjcxOTYxXX0=
+eyJoaXN0b3J5IjpbLTc1NzMwODc2OSw1NjI4OTkzNDYsMTg0Mj
+E5NzA1MiwtNTIzNTEzMTY0LDEzNTU0MDMyODksLTg5NDYyODY0
+NSwtNTU0NTk4MjU0LDM0MDc2MDQ3MCwxMDQ4NzIxNzEwLDE4Nj
+A0MjYyNjAsMTQwOTIyMzc5MywxNTc0NjEzMTY5LC0xNDMyNTU2
+MzE3LDg2MDA2NDYxNiwtMTEyNzg1NzA4NSwtMTI2NDA4MjczLD
+E0NjM1NTA1ODgsLTIwMTc4NjAwNzcsMTA3MTE4NDI3LC00NDcy
+NzE5NjFdfQ==
 -->
