@@ -640,6 +640,10 @@ Wahai Tuhan kami, janganlah Engkau bengkokkan hati kami setelah Engkau memberi k
 اِنَّہَا سَآءَتۡ مُسۡتَقَرًّا وَّمُقَامًا
 </p>
 
+“Ya Tuhan kami! Jauhkanlah dari kami azab neraka Jahanam; karena sesungguhnya azabnya itu merupakan kebinasaan yang besar.
+
+“Sesungguhnya *Jahanam* itu seburuk-buruk tempat tinggal sementara dan tempat menetap.”
+
 (QS Al-Furqan [25]: [66](https://openquran.com/25:66)-[67](https://openquran.com/25:67))
 
 ### 54. Doa Supaya Anak-Cucu Kita Menjadi Keturunan yang Shaleh
@@ -1132,11 +1136,11 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 [^023_098]: Kata-kata “Syaitān” menunjuk kepada orang-orang terkemuka di antara musuh-musuh Rasulullah Saw dan kata “hasutan-hasutan” maksudnya gerakan untuk memburuk-burukkan dan memfitnah, yang dengan itu mereka berusaha menghasut orang-orang untuk melawan beliau.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyMzUxMzE2NCwxMzU1NDAzMjg5LC04OT
-Q2Mjg2NDUsLTU1NDU5ODI1NCwzNDA3NjA0NzAsMTA0ODcyMTcx
-MCwxODYwNDI2MjYwLDE0MDkyMjM3OTMsMTU3NDYxMzE2OSwtMT
-QzMjU1NjMxNyw4NjAwNjQ2MTYsLTExMjc4NTcwODUsLTEyNjQw
-ODI3MywxNDYzNTUwNTg4LC0yMDE3ODYwMDc3LDEwNzExODQyNy
-wtNDQ3MjcxOTYxLC0xMTI1NDg4ODUwLDIyMDQwMzA3OCwtNjEz
-NjE4MTE2XX0=
+eyJoaXN0b3J5IjpbMTQ0MzI1Nzc3NSwtNTIzNTEzMTY0LDEzNT
+U0MDMyODksLTg5NDYyODY0NSwtNTU0NTk4MjU0LDM0MDc2MDQ3
+MCwxMDQ4NzIxNzEwLDE4NjA0MjYyNjAsMTQwOTIyMzc5MywxNT
+c0NjEzMTY5LC0xNDMyNTU2MzE3LDg2MDA2NDYxNiwtMTEyNzg1
+NzA4NSwtMTI2NDA4MjczLDE0NjM1NTA1ODgsLTIwMTc4NjAwNz
+csMTA3MTE4NDI3LC00NDcyNzE5NjEsLTExMjU0ODg4NTAsMjIw
+NDAzMDc4XX0=
 -->
