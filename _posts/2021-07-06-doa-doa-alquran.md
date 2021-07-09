@@ -564,7 +564,9 @@ Wahai Tuhan kami, janganlah Engkau bengkokkan hati kami setelah Engkau memberi k
  رَبِّ احۡکُمۡ بِالۡحَقِّ ۗ وَرَبُّنَا الرَّحۡمٰنُ الۡمُسۡتَعَانُ عَلٰی مَا تَصِفُوۡنَ
 </p>
 
-([QS Al-Anbiyaa [21]:113](https://openquran.com/21:113))
+“Wahai Tuhan-ku! Hakimilah dengan kebenaran, Tuhan Kami adalah Tuhan Yang Maha Pemurah, yang dimohonkan pertolonganNya terhadap apa yang kamu katakan.” [[^021_113]] ([QS Al-Anbiyaa [21]:113](https://openquran.com/21:113))
+
+[[^021_113]]: Rasulullah (saw) diperintahkan untuk memanjatkan doa yang tersebut dalam ayat ini sebagai perlindungan terhadap kekuatan-kekuatan buruk yang akan dilepaskan ke dunia di akhir zaman dalam bentuk Ya’jūj dan Ma’jūj . Ternyata dari Bibel, bahwa di masa Ya’jūj dan Ma’jūj , kekuatan fisik tidak akan merupakan satu-satunya bahaya bagi Islam. Ada faktor-faktor lain yang akan merupakan sumber bahaya yang jauh lebih besar bagi Islam. Boleh jadi juga dalam ayat ini Rasulullah Saw dilukiskan berdoa, supaya masa pendudukan Palestina oleh orang-orang Yahudi menjadi sependek mungkin; dan tanah itu dapat kembali kepada pewaris-pewarisnya yang sah, ialah orang-orang Islam.
 
 ### 47. Doa Memohon Pertolongan dari Serangan Pihak yang Anti
 
@@ -1114,11 +1116,11 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 [^021_090_keterangan]: Doa ini dipanjatkan oleh Nabi Zakaria (as). Bentuk pengabulan doa ini, beliau mendapatkan keturunan, yakni Nabi Yahya (as). Lihat ([QS Al-Anbiyaa [21]:91](https://openquran.com/21:91))
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODE0MjgzODUsLTg5NDYyODY0NSwtNT
-U0NTk4MjU0LDM0MDc2MDQ3MCwxMDQ4NzIxNzEwLDE4NjA0MjYy
-NjAsMTQwOTIyMzc5MywxNTc0NjEzMTY5LC0xNDMyNTU2MzE3LD
-g2MDA2NDYxNiwtMTEyNzg1NzA4NSwtMTI2NDA4MjczLDE0NjM1
-NTA1ODgsLTIwMTc4NjAwNzcsMTA3MTE4NDI3LC00NDcyNzE5Nj
-EsLTExMjU0ODg4NTAsMjIwNDAzMDc4LC02MTM2MTgxMTYsLTE5
-NzcxNjU0MDldfQ==
+eyJoaXN0b3J5IjpbMTQ1MjI2NzcwLC04OTQ2Mjg2NDUsLTU1ND
+U5ODI1NCwzNDA3NjA0NzAsMTA0ODcyMTcxMCwxODYwNDI2MjYw
+LDE0MDkyMjM3OTMsMTU3NDYxMzE2OSwtMTQzMjU1NjMxNyw4Nj
+AwNjQ2MTYsLTExMjc4NTcwODUsLTEyNjQwODI3MywxNDYzNTUw
+NTg4LC0yMDE3ODYwMDc3LDEwNzExODQyNywtNDQ3MjcxOTYxLC
+0xMTI1NDg4ODUwLDIyMDQwMzA3OCwtNjEzNjE4MTE2LC0xOTc3
+MTY1NDA5XX0=
 -->
