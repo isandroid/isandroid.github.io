@@ -854,15 +854,13 @@ Dan janganlah hinakan aku pada hari ketika mereka akan dibangkitkan lagi, [[^026
 
 "Wahai Tuhanku, anugerahkanlah taufik kepadaku supaya aku dapat mensyukuri nikmat Engkau yang telah Engkau anugerahkan kepadaku dan kepada kedua orang tuaku, dan supaya aku dapat beramal saleh yang Engkau meridainya. Dan perbaikilah bagiku dalam keturunanku. Sesungguhnya aku kembali kepada Engkau; dan sesungguhnya aku termasuk orang-orang yang berserah diri *kepada Engkau*.” ([QS Al-Ahqoof [46]:16](https://openquran.com/46:16)) [[^046_016_keterangan]]
 
-[^046_016_keterangan]: Doa ini dipanjatkan oleh orang yang berumur 40 tahun. Doa ini dipanjatkan sebagai rasa syukur terhadap nikmat dari Allah Ta'ala yakni ia mendapatkan asuhan orang tua yang baik.
-
 ### 73. Doa Memohon Pertolongan
 
 <p class="quran">
  اَنِّیۡ مَغۡلُوۡبٌ فَانۡتَصِرۡ
 </p>
 
-([QS Al-Qamar [54]:11](https://openquran.com/54:11))
+“Sesungguhnya aku dikalahkan, maka tolonglah *aku*.” ([QS Al-Qamar [54]:11](https://openquran.com/54:11))
 
 ### 74. Doa Memohon Dijauhkan dari Hasad dan Dengki serta Doa Memohon Ampunan
 
@@ -1198,12 +1196,14 @@ Dan janganlah hinakan aku pada hari ketika mereka akan dibangkitkan lagi, [[^026
 
 [^040_008_010_keterangan]: Doa ini dipanjatkan oleh malaikat-malaikat yang memikul ‘Arasy dan mereka yang ada di sekitarnya, mereka bertasbih dengan memuji Tuhannya, dan mereka beriman kepada-Nya, dan mereka memohon ampunan bagi orang-orang yang beriman dengan doa ini.
 
+[^046_016_keterangan]: Doa ini dipanjatkan oleh orang yang berumur 40 tahun. Doa ini dipanjatkan sebagai rasa syukur terhadap nikmat dari Allah Ta'ala yakni ia mendapatkan asuhan orang tua yang baik.
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDUzMDkyNzQsLTIxMTQzMjA5OTYsLT
-E0MTU0NjE1MDIsLTM4OTEwNDkwOCw5ODQ3ODE1NzAsNTQyMzI3
-MDE0LDU2Mjg5OTM0NiwxODQyMTk3MDUyLC01MjM1MTMxNjQsMT
-M1NTQwMzI4OSwtODk0NjI4NjQ1LC01NTQ1OTgyNTQsMzQwNzYw
-NDcwLDEwNDg3MjE3MTAsMTg2MDQyNjI2MCwxNDA5MjIzNzkzLD
-E1NzQ2MTMxNjksLTE0MzI1NTYzMTcsODYwMDY0NjE2LC0xMTI3
-ODU3MDg1XX0=
+eyJoaXN0b3J5IjpbMTM0MTgzODgxOCwtMjExNDMyMDk5NiwtMT
+QxNTQ2MTUwMiwtMzg5MTA0OTA4LDk4NDc4MTU3MCw1NDIzMjcw
+MTQsNTYyODk5MzQ2LDE4NDIxOTcwNTIsLTUyMzUxMzE2NCwxMz
+U1NDAzMjg5LC04OTQ2Mjg2NDUsLTU1NDU5ODI1NCwzNDA3NjA0
+NzAsMTA0ODcyMTcxMCwxODYwNDI2MjYwLDE0MDkyMjM3OTMsMT
+U3NDYxMzE2OSwtMTQzMjU1NjMxNyw4NjAwNjQ2MTYsLTExMjc4
+NTcwODVdfQ==
 -->
