@@ -1,5 +1,5 @@
 ---
-title: Keteladanan Khalifah Umar bin Khottob (ra) (bagian 4)
+title: Keteladanan Khalifah Umar bin Khottob (ra) (bagian 5)
 layout: post
 tags: khilafat khotbah
 description: beberapa kisah inspiratif dan teladan dari hadhrat khalifah umar bin khottob (ra)
@@ -45,7 +45,21 @@ Berdasarkan contoh yang diberikan oleh Nabi yang mulia (saw), bahwa ketika Islam
 
 ### Membangun Sistem Resmi Syura
 
+Pada era Hadhrat ‘Umar (ra), negara-negara pada masa itu dibagi menjadi provinsi-provinsi untuk membantu memfasilitasi pemerintahan. Demikian pula, selama era Hadhrat ‘Umar (ra) sistem Syura (konsultasi) didirikan. Selama pertemuan konsultatif inilah para menteri dari departemen yang berbeda dan gubernur dari berbagai daerah akan bertemu. 
 
+### Nasehat-Nasehat kepada para Pengurus Pemerintahan
+
+Hadhrat ‘Umar (ra) menetapkan aturan dan pedoman tertentu bagi para pejabat, untuk memastikan bahwa mereka tidak jatuh ke dalam kesombongan atau keduniawian. Juga pada era Hadhrat ‘Umar (ra) perpajakan dibuat lebih ringan sehingga memudahkan warga untuk membayar. 
+
+Hudhur ayyadahullaahu Ta’ala mengatakan bahwa beliau akan terus menyoroti kehidupan Hadhrat ‘Umar (ra) dalam khotbah-khotbah mendatang. 
+
+### Peluncuran Ensiklopedia Ahmadiyah Baru 
+
+Hudhur ayyadahullaahu Ta’ala mengatakan bahwa beliau akan membuat pengumuman mengenai peluncuran Ensiklopedia Ahmadiyah yang didirikan oleh Ahmadiyya Archive and Research Center (Pusat Arsip dan Penelitian Ahmadiyah). Mereka mulai mengerjakan proyek ini beberapa waktu yang lalu, dan sekarang situs web ini tersedia untuk kepentingan anggota. Website yang diluncurkan adalah https://www.ahmadipedia.org/ dimana terdapat mesin pencari untuk mencari materi dengan mudah. Hasil pencarian akan menyertakan tautan ke berbagai situs web Jemaat dan video yang relevan, dll. 
+
+Ada juga opsi di situs web ini di mana orang dapat mengirim akun historis yang mungkin belum pernah mereka rekam sebelumnya. Setelah verifikasi, akun-akun ini akan dimasukkan ke dalam situs web, sehingga menjadikannya proyek yang akan dilanjutkan dengan bantuan anggota Jemaat. Jika seseorang tidak dapat menemukan materi atau informasi tertentu di situs web, seseorang dapat menghubungi tim pusat, dan mereka akan bekerja untuk menemukan dan menyediakan informasi tersebut. Departemen TI pusat serta muballigh di Pusat Arsip dan Penelitian memainkan peran besar dalam mempersiapkan materi untuk situs web ini. 
+
+Hudhur ayyadahullaahu Ta’ala menyampaikan untuk berdoa bagi semua yang terlibat, dan mengatakan bahwa setelah salat Jumat, beliau akan meluncurkan situs web ini.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1MzY0ODc0M119
+eyJoaXN0b3J5IjpbLTE2NTQ3NzUzMzVdfQ==
 -->
