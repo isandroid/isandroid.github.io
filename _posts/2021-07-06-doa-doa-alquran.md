@@ -798,7 +798,7 @@ Dan janganlah hinakan aku pada hari ketika mereka akan dibangkitkan lagi, [[^026
 اَللّٰہُمَّ فَاطِرَ السَّمٰوٰتِ وَالۡاَرۡضِ عٰلِمَ الۡغَیۡبِ وَالشَّہٰدَۃِ اَنۡتَ تَحۡکُمُ بَیۡنَ عِبَادِکَ فِیۡ مَا کَانُوۡا فِیۡہِ یَخۡتَلِفُوۡنَ
 </p>
 
-([QS Az-Zumar [39]:47](https://openquran.com/39:47))
+“Ya, Allah! Pencipta seluruh langit dan bumi, Maha Mengetahui yang gaib dan yang nyata, Engkau-lah Yang akan menghakimi di antara hamba-hamba Engkau tentang apa yang mereka berselisih di dalamnya." ([QS Az-Zumar [39]:47](https://openquran.com/39:47))
 
 ### 69. Doa Meminta Dipelihara dari Api Neraka dan Doa untuk Orang-orang yang Bertobat agar Mereka Dimasukkan ke dalam Surga
 
@@ -1179,11 +1179,11 @@ Dan janganlah hinakan aku pada hari ketika mereka akan dibangkitkan lagi, [[^026
 [^038_036_keterangan]: Doa ini dipanjatkan oleh Nabi Sulaiman (as)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMTQzMjA5OTYsLTE0MTU0NjE1MDIsLT
-M4OTEwNDkwOCw5ODQ3ODE1NzAsNTQyMzI3MDE0LDU2Mjg5OTM0
-NiwxODQyMTk3MDUyLC01MjM1MTMxNjQsMTM1NTQwMzI4OSwtOD
-k0NjI4NjQ1LC01NTQ1OTgyNTQsMzQwNzYwNDcwLDEwNDg3MjE3
-MTAsMTg2MDQyNjI2MCwxNDA5MjIzNzkzLDE1NzQ2MTMxNjksLT
-E0MzI1NTYzMTcsODYwMDY0NjE2LC0xMTI3ODU3MDg1LC0xMjY0
-MDgyNzNdfQ==
+eyJoaXN0b3J5IjpbMTQ2ODQ2ODc1OSwtMjExNDMyMDk5NiwtMT
+QxNTQ2MTUwMiwtMzg5MTA0OTA4LDk4NDc4MTU3MCw1NDIzMjcw
+MTQsNTYyODk5MzQ2LDE4NDIxOTcwNTIsLTUyMzUxMzE2NCwxMz
+U1NDAzMjg5LC04OTQ2Mjg2NDUsLTU1NDU5ODI1NCwzNDA3NjA0
+NzAsMTA0ODcyMTcxMCwxODYwNDI2MjYwLDE0MDkyMjM3OTMsMT
+U3NDYxMzE2OSwtMTQzMjU1NjMxNyw4NjAwNjQ2MTYsLTExMjc4
+NTcwODVdfQ==
 -->
