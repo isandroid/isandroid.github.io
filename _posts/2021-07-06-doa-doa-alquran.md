@@ -620,7 +620,7 @@ Wahai Tuhan kami, janganlah Engkau bengkokkan hati kami setelah Engkau memberi k
  رَّبِّ اغۡفِرۡ وَارۡحَمۡ وَاَنۡتَ خَیۡرُ الرّٰحِمِیۡنَ
 </p>
 
-([QS Al-Mu-minuun [23]:119](https://openquran.com/23:119))
+“Wahai Tuhan-ku! Ampunilah dan kasihilah, dan Engkau adalah sebaik-baik Pemberi rahmat.” ([QS Al-Mu-minuun [23]:119](https://openquran.com/23:119))
 
 ### 52. Doa Memohon Ampun
 
@@ -1132,11 +1132,11 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 [^023_098]: Kata-kata “Syaitān” menunjuk kepada orang-orang terkemuka di antara musuh-musuh Rasulullah Saw dan kata “hasutan-hasutan” maksudnya gerakan untuk memburuk-burukkan dan memfitnah, yang dengan itu mereka berusaha menghasut orang-orang untuk melawan beliau.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5NDEyODk4MywxMzU1NDAzMjg5LC04OT
-Q2Mjg2NDUsLTU1NDU5ODI1NCwzNDA3NjA0NzAsMTA0ODcyMTcx
-MCwxODYwNDI2MjYwLDE0MDkyMjM3OTMsMTU3NDYxMzE2OSwtMT
-QzMjU1NjMxNyw4NjAwNjQ2MTYsLTExMjc4NTcwODUsLTEyNjQw
-ODI3MywxNDYzNTUwNTg4LC0yMDE3ODYwMDc3LDEwNzExODQyNy
-wtNDQ3MjcxOTYxLC0xMTI1NDg4ODUwLDIyMDQwMzA3OCwtNjEz
-NjE4MTE2XX0=
+eyJoaXN0b3J5IjpbLTk3NjM1MzA1LDEzNTU0MDMyODksLTg5ND
+YyODY0NSwtNTU0NTk4MjU0LDM0MDc2MDQ3MCwxMDQ4NzIxNzEw
+LDE4NjA0MjYyNjAsMTQwOTIyMzc5MywxNTc0NjEzMTY5LC0xND
+MyNTU2MzE3LDg2MDA2NDYxNiwtMTEyNzg1NzA4NSwtMTI2NDA4
+MjczLDE0NjM1NTA1ODgsLTIwMTc4NjAwNzcsMTA3MTE4NDI3LC
+00NDcyNzE5NjEsLTExMjU0ODg4NTAsMjIwNDAzMDc4LC02MTM2
+MTgxMTZdfQ==
 -->
