@@ -1026,7 +1026,17 @@ Maka aku berkata, “Mohonlah ampun kepada Tuhanmu. Sesungguhnya Dia Maha Pengam
 وَمِنۡ شَرِّ حَاسِدٍ اِذَا حَسَدَ
 </p>
 
+*Aku Baca* dengan nama Allah, Maha Pemurah, Maha Penyayang.
 
+Katakanlah, “Aku berlindung kepada Tuhan seluruh makhluk,”
+
+“Dari kejahatan makhluk yang Dia ciptakan,”
+
+“Dan dari kejahatan yang menjadikan kegelapan ketika meliputi,”
+
+“Dan dari kejahatan orangorang yang meniupkan *perpecahan* pada buhul-buhul *ikatan persahabatan*.”
+
+“Dan dari kejahatan pendengki apabila ia mendengki.”
 
 ([QS Al-Falaq [113]](https://openquran.com/113))
 
@@ -1242,11 +1252,11 @@ Maka aku berkata, “Mohonlah ampun kepada Tuhanmu. Sesungguhnya Dia Maha Pengam
 
 [^071_029]: Nabi-nabi Allah sarat dengan nilai-nilai kebajikan manusiawi. Doa Nabi Nuh As menunjukkan bahwa perlawanan terhadapnya tentu berlangsung sangat lama, gigih, dan tidak kunjung berkurang, dan bahwa segala usaha membawa kaumnya kepada jalan lurus telah kandas dan gagal serta tidak ada kemungkinan yang tinggal untuk penambahan lebih lanjut jumlah pengikut yang kecil itu, dan pula bahwa para penentangnya telah melampaui batas-batas yang wajar dalam menentang dan menganiaya ia dengan para pengikutnya, dan dalam berkecimpung di dalam perbuatan-perbuatan jahat. Keadaan telah begitu jauh sehingga seorang yang begitu berpembawaan kasih sayang seperti Nabi Nuh As terpaksa berdoa buruk untuk kaumnya. Dalam keadaan yang sama, sikap Rasulullah Saw terhadap para penentang beliau menunjukkan perbedaan yang sangat mencolok. Dalam pertempuran Uhud, ketika dua buah gigi beliau patah dan beliau terluka parah serta darah beliau mengucur dengan derasnya, kata-kata yang keluar dari mulut beliau hanyalah, “betapa suatu kaum akan memperoleh keselamatan, sedang mereka telah melukai nabi mereka dan melumuri mukanya dengan darah, karena kesalahan yang tidak lain selain ia telah mengajak mereka kepada Tuhan. Ya, Tuhan-ku! Ampunilah kiranya kaumku ini, sebab mereka tidak mengetahui apa yang mereka perbuat” (Zurqani dan Hisyam)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDQ2NzQxMDYsMTEwODY2OTQwOCwtMj
-ExNDMyMDk5NiwtMTQxNTQ2MTUwMiwtMzg5MTA0OTA4LDk4NDc4
-MTU3MCw1NDIzMjcwMTQsNTYyODk5MzQ2LDE4NDIxOTcwNTIsLT
-UyMzUxMzE2NCwxMzU1NDAzMjg5LC04OTQ2Mjg2NDUsLTU1NDU5
-ODI1NCwzNDA3NjA0NzAsMTA0ODcyMTcxMCwxODYwNDI2MjYwLD
-E0MDkyMjM3OTMsMTU3NDYxMzE2OSwtMTQzMjU1NjMxNyw4NjAw
-NjQ2MTZdfQ==
+eyJoaXN0b3J5IjpbNzIxODYxNTYyLDExMDg2Njk0MDgsLTIxMT
+QzMjA5OTYsLTE0MTU0NjE1MDIsLTM4OTEwNDkwOCw5ODQ3ODE1
+NzAsNTQyMzI3MDE0LDU2Mjg5OTM0NiwxODQyMTk3MDUyLC01Mj
+M1MTMxNjQsMTM1NTQwMzI4OSwtODk0NjI4NjQ1LC01NTQ1OTgy
+NTQsMzQwNzYwNDcwLDEwNDg3MjE3MTAsMTg2MDQyNjI2MCwxND
+A5MjIzNzkzLDE1NzQ2MTMxNjksLTE0MzI1NTYzMTcsODYwMDY0
+NjE2XX0=
 -->
