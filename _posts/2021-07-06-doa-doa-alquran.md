@@ -550,17 +550,15 @@ Wahai Tuhan kami, janganlah Engkau bengkokkan hati kami setelah Engkau memberi k
 
 “Tiada Tuhan selain Engkau, Engkau Mahasuci. Sesungguhnya aku termasuk orang-orang yang aniaya.” [[^021_088]] ([QS Al-Anbiyaa [21]:88](https://openquran.com/21:88)) [[^021_088_keterangan]]
 
-[^021_088]: Ketika Nabi Yunus As melihat, bahwa nubuatan tentang kehancuran kaumnya tidak sempurna – karena beliau tidak tahu, bahwa nubuatan kehancuran bisa dibatalkan dengan penyesalan (tobat) kepada Allah Swt – maka beliau pergi ke laut dengan perasaan marah. Di sana beliau ditelan oleh ikan paus, kemudian dimuntahkan dalam keadaan hidup. Dalam keadaan gelap ini, beliau berdoa : Ya Allah, selain Engkau tiada tuhan lain. Engkau Mahasuci dan saya betul-betul termasuk orang yang aniaya.
-
-[^021_088_keterangan]: Doa ini disampaikan oleh Dzun Nun, yakni julukan dari Nabi Yunus (as) ketika ada di dalam perut Ikan. Sebagai bentuk pengabulannya, beliau diselamatkan Allah Ta'ala dan kembali kepada kaumnya.  
-
 ### 45. Doa Memohon Keturunan
 
 <p class="quran">
  رَبِّ لَا تَذَرۡنِیۡ فَرۡدًا وَّاَنۡتَ خَیۡرُ الۡوٰرِثِیۡنَ
 </p>
 
-([QS Al-Anbiyaa [21]:90](https://openquran.com/21:90))
+“Wahai Tuhan! Janganlah Engkau tinggalkan aku seorang diri, dan Engkau-lah sebaik-baik Ahli Waris.” ([QS Al-Anbiyaa [21]:90](https://openquran.com/21:90)) [[^021_090_keterangan]]
+
+[^021_090_keterangan]: Doa ini dipanjatkan oleh Nabi Zakaria (as) 
 
 ### 46. Doa Memohon Keputusan
 
@@ -1110,12 +1108,16 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 [^021_084]: Nabi Ayyub As telah disebut dalam Bibel pernah tinggal di negeri ‘Uz yang agaknya terletak di suatu tempat di bagian utara Arabia, di antara Siria dan Teluk Aqabah. Konon disebutkan, bahwa Ayyub As bermukim di sana sebelum keberangkatan Bani Israil dari Mesir. Menurut sementara pengarang Yahudi, beliau hidup kurang lebih dua ratus tahun sebelum Musa As Menurut beberapa sumber lain beliau setanah air dengan Musa As, tetapi bukan seorang nabi Israili, dan bukan dari keturunan Essau, kakak lelaki Yakub As. Di antara semua kitab Perjanjian Lama, Kitab Ayyub mempunyai kekhususan dalam hal ini, bahwa – kecuali kata Yehovah, yang merupakan nama Tuhan menurut agama Yahudi, di dalamnya sejarah hukum syariat Musa As dan sejarah orang-orang Yahudi nyata sekali, tidak disebut-sebut. Al-Qur’an telah membatasi diri dengan hanya menyebutkan beberapa kenyataan saja yang bertalian dengan Ayyub As dalam ayat ini dan ayat berikutnya. Al-Qur’an menyatakan, bahwa ia seorang hamba Allah yang suci, dan bahwa beliau telah mengalami kesulitan-kesulitan dan kemalangan-kemalangan besar sebab itu, ia menjadi terpisah dari keluarga; dan pengikutnya yang di masa kemudian dapat bergabung dengan beliau dan sementara itu telah bertambah lipat ganda banyaknya. Ayyub As telah disebut-sebut dalam QS. 4: 164; 6: 85 dan QS.38: 42 bersama-sama dengan Daud As dan Sulaiman As. Hal ini menunjukkan, bahwa seperti kedua nabi besar tersebut, ia adalah seorang yang berpengaruh dan berkelimpahan, dan seperti mereka, ia pun harus melalui cobaan-cobaan dan kemalangan-kemalangan yang ditanggungnya dengan kesabaran dan ketabahan yang patut dicontoh. Keberanian dan ketabahan yang diperlihatkan Ayyub As di bawah kesusahan dan kemalangan yang sangat hebat itu, telah menjadi peribahasa. Lihat pula Jew. Enc. pada kata “Job” dan Enc. of Islam pada kata “Aiyub.”
 
 [^021_084_keterangan]: Doa ini dipanjatkan oleh Nabi Ayyub (as)
+
+[^021_088]: Ketika Nabi Yunus As melihat, bahwa nubuatan tentang kehancuran kaumnya tidak sempurna – karena beliau tidak tahu, bahwa nubuatan kehancuran bisa dibatalkan dengan penyesalan (tobat) kepada Allah Swt – maka beliau pergi ke laut dengan perasaan marah. Di sana beliau ditelan oleh ikan paus, kemudian dimuntahkan dalam keadaan hidup. Dalam keadaan gelap ini, beliau berdoa : Ya Allah, selain Engkau tiada tuhan lain. Engkau Mahasuci dan saya betul-betul termasuk orang yang aniaya.
+
+[^021_088_keterangan]: Doa ini disampaikan oleh Dzun Nun, yakni julukan dari Nabi Yunus (as) ketika ada di dalam perut Ikan. Sebagai bentuk pengabulannya, beliau diselamatkan Allah Ta'ala dan kembali kepada kaumnya.  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyMjUzMzcxMywtODk0NjI4NjQ1LC01NT
-Q1OTgyNTQsMzQwNzYwNDcwLDEwNDg3MjE3MTAsMTg2MDQyNjI2
-MCwxNDA5MjIzNzkzLDE1NzQ2MTMxNjksLTE0MzI1NTYzMTcsOD
-YwMDY0NjE2LC0xMTI3ODU3MDg1LC0xMjY0MDgyNzMsMTQ2MzU1
-MDU4OCwtMjAxNzg2MDA3NywxMDcxMTg0MjcsLTQ0NzI3MTk2MS
-wtMTEyNTQ4ODg1MCwyMjA0MDMwNzgsLTYxMzYxODExNiwtMTk3
-NzE2NTQwOV19
+eyJoaXN0b3J5IjpbLTIwMDc1Mzc1NTAsLTg5NDYyODY0NSwtNT
+U0NTk4MjU0LDM0MDc2MDQ3MCwxMDQ4NzIxNzEwLDE4NjA0MjYy
+NjAsMTQwOTIyMzc5MywxNTc0NjEzMTY5LC0xNDMyNTU2MzE3LD
+g2MDA2NDYxNiwtMTEyNzg1NzA4NSwtMTI2NDA4MjczLDE0NjM1
+NTA1ODgsLTIwMTc4NjAwNzcsMTA3MTE4NDI3LC00NDcyNzE5Nj
+EsLTExMjU0ODg4NTAsMjIwNDAzMDc4LC02MTM2MTgxMTYsLTE5
+NzcxNjU0MDldfQ==
 -->
