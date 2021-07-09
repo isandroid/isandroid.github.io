@@ -726,9 +726,9 @@ Dan janganlah hinakan aku pada hari ketika mereka akan dibangkitkan lagi, [[^026
 رَبِّ اِنِّیۡ ظَلَمۡتُ نَفۡسِیۡ وَاَسۡلَمۡتُ مَعَ سُلَیۡمٰنَ لِلّٰہِ رَبِّ الۡعٰلَمِیۡنَ
 </p>
 
-“Wahai Tuhan-ku! Sesungguhnya aku telah berlaku aniaya terhadap diriku sendiri dan aku tunduk bersama Sulaiman kepada Allah, Tuhan seluruh alam.” ([QS An-Naml [27]:45](https://openquran.com/27:45))
+“Wahai Tuhan-ku! Sesungguhnya aku telah berlaku aniaya terhadap diriku sendiri dan aku tunduk bersama Sulaiman kepada Allah, Tuhan seluruh alam.” ([QS An-Naml [27]:45](https://openquran.com/27:45)) [[^027_045_keterangan]]
 
-[[^]]
+[^027_045_keterangan]: Doa ini dipanjatkan oleh Rastu Saba yang terkagum-kagum dengan kerajaan yang dianugerahkan Allah Ta'ala kepada Nabi Sulaiman (as)
 
 ### 60. Doa Keselamatan
 
@@ -1163,7 +1163,7 @@ Dan janganlah hinakan aku pada hari ketika mereka akan dibangkitkan lagi, [[^026
 
 [^027_020_keterangan]: Doa ini dipanjatkan oleh Nabi Sulaiman (as) ketika berdialog dengan Suku atau bangsa *Naml* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTc2MjkwODIsNTYyODk5MzQ2LDE4ND
+eyJoaXN0b3J5IjpbLTE1MTg3MjUwNDgsNTYyODk5MzQ2LDE4ND
 IxOTcwNTIsLTUyMzUxMzE2NCwxMzU1NDAzMjg5LC04OTQ2Mjg2
 NDUsLTU1NDU5ODI1NCwzNDA3NjA0NzAsMTA0ODcyMTcxMCwxOD
 YwNDI2MjYwLDE0MDkyMjM3OTMsMTU3NDYxMzE2OSwtMTQzMjU1
