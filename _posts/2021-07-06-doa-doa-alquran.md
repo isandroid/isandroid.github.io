@@ -750,7 +750,9 @@ Dan janganlah hinakan aku pada hari ketika mereka akan dibangkitkan lagi, [[^026
 رَبِّ بِمَاۤ اَنۡعَمۡتَ عَلَیَّ فَلَنۡ اَکُوۡنَ ظَہِیۡرًا لِّلۡمُجۡرِمِیۡنَ
 </p>
 
-([QS Al-Qoshosh [28]:18](https://openquran.com/28:18))
+“Wahai Tuhanku! Karena nikmat yang Engkau telah anugerahkan kepadaku, aku tidak akan menjadi penolong orang-orang yang berdosa.” ([QS Al-Qoshosh [28]:18](https://openquran.com/28:18))
+
+Ayat ini menunjukkan Nabi Musa As seolah-olah berkata, “Ya Tuhanku! Engkau selamanya berbelas kasih kepadaku, maka karena bersyukur atas nikmat Engkau aku berjanji, bahwa aku selamanya akan membela orangorang yang teraniaya, sebagaimana aku pernah lakukan pada kejadian terakhir, dan aku sama sekali tidak akan memihak orang yang zalim.” Atau dapat juga diartikan, “Ya Tuhanku, karena Engkau selamanya baik dan berkasih-sayang kepadaku, bagaimana aku dapat menjadi seorang penolong dan pembela kaum yang teraniaya?”
 
 ### 63. Doa Meminta Terpelihara dari Kaum yang Zalim (aniaya)
 
@@ -759,7 +761,6 @@ Dan janganlah hinakan aku pada hari ketika mereka akan dibangkitkan lagi, [[^026
 </p>
 
 ([QS Al-Qoshosh [28]:22](https://openquran.com/28:22))
-
 
 ### 64. Doa Waktu Tiba di Negeri Asing
 
@@ -1169,11 +1170,11 @@ Dan janganlah hinakan aku pada hari ketika mereka akan dibangkitkan lagi, [[^026
 
 [^028_017_keterangan]: Doa ini diucapkan oleh Nabi Musa (as) setelah secara reflek membela seseorang yang sedang dianiaya. Salah satu penduduk Mesir yang ketika itu berseteru dengan salah satu kaum Yahudi. Nabi Musa (as) meninju penduduk Mesir itu. Dan tiba-tiba orang itu mati. Nabi Musa (as) segera meminta ampun kepada Allah Ta'ala.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODM3MzUwMjYsNTQyMzI3MDE0LDU2Mj
-g5OTM0NiwxODQyMTk3MDUyLC01MjM1MTMxNjQsMTM1NTQwMzI4
-OSwtODk0NjI4NjQ1LC01NTQ1OTgyNTQsMzQwNzYwNDcwLDEwND
-g3MjE3MTAsMTg2MDQyNjI2MCwxNDA5MjIzNzkzLDE1NzQ2MTMx
-NjksLTE0MzI1NTYzMTcsODYwMDY0NjE2LC0xMTI3ODU3MDg1LC
-0xMjY0MDgyNzMsMTQ2MzU1MDU4OCwtMjAxNzg2MDA3NywxMDcx
-MTg0MjddfQ==
+eyJoaXN0b3J5IjpbLTcyMzUwNjYxMCw1NDIzMjcwMTQsNTYyOD
+k5MzQ2LDE4NDIxOTcwNTIsLTUyMzUxMzE2NCwxMzU1NDAzMjg5
+LC04OTQ2Mjg2NDUsLTU1NDU5ODI1NCwzNDA3NjA0NzAsMTA0OD
+cyMTcxMCwxODYwNDI2MjYwLDE0MDkyMjM3OTMsMTU3NDYxMzE2
+OSwtMTQzMjU1NjMxNyw4NjAwNjQ2MTYsLTExMjc4NTcwODUsLT
+EyNjQwODI3MywxNDYzNTUwNTg4LC0yMDE3ODYwMDc3LDEwNzEx
+ODQyN119
 -->
