@@ -900,7 +900,7 @@ Dan janganlah hinakan aku pada hari ketika mereka akan dibangkitkan lagi, [[^026
 رَبِّ ابۡنِ لِیۡ عِنۡدَکَ بَیۡتًا فِی الۡجَنَّۃِ وَنَجِّنِیۡ مِنۡ فِرۡعَوۡنَ وَعَمَلِہٖ وَنَجِّنِیۡ مِنَ الۡقَوۡمِ الظّٰلِمِیۡنَ
 </p>
 
-([QS At-Tahrim [66]:12](https://openquran.com/66:12))
+“Wahai Tuhanku! Buatkanlah bagiku di sisi Engkau sebuah rumah di surga, dan selamatkanlah aku dari Fir‘aun dan perbuatannya, dan selamatkanlah aku dari kaum yang aniaya.” ([QS At-Tahrim [66]:12](https://openquran.com/66:12))
  
 ### 78. Mengaku Kesalahan Diri
 
@@ -1206,11 +1206,11 @@ Dan janganlah hinakan aku pada hari ketika mereka akan dibangkitkan lagi, [[^026
 
 	Selanjutnya tampak bahwa setelah masuk surga orang-orang mukmin akan mencapai Maghfirah – penutupan kekurangan (Lane). Mereka akan terus-menerus berdoa kepada Tuhan untuk mencapai kesempurnaan dan sama sekali tenggelam dalam Nur Ilahi dan akan terus naik kian menanjak ke atas dan memandang tiap-tiap tingkat sebagai ada kekurangan dibandingkan dengan tingkat lebih tinggi yang didambakan oleh mereka, dan karena itu akan berdoa kepada Tuhan supaya Dia menutupi ketidaksempurnaannya sehingga mereka akan mampu mencapai tingkat lebih tinggi itu. Inilah makna yang sesungguhnya tentang Istighfār, yang secara harfiah berarti “mohon ampunan atas segala kealpaan.”
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTkzNDk5OTExLC0yMTE0MzIwOTk2LC0xND
-E1NDYxNTAyLC0zODkxMDQ5MDgsOTg0NzgxNTcwLDU0MjMyNzAx
-NCw1NjI4OTkzNDYsMTg0MjE5NzA1MiwtNTIzNTEzMTY0LDEzNT
-U0MDMyODksLTg5NDYyODY0NSwtNTU0NTk4MjU0LDM0MDc2MDQ3
-MCwxMDQ4NzIxNzEwLDE4NjA0MjYyNjAsMTQwOTIyMzc5MywxNT
-c0NjEzMTY5LC0xNDMyNTU2MzE3LDg2MDA2NDYxNiwtMTEyNzg1
-NzA4NV19
+eyJoaXN0b3J5IjpbLTk4MDQxNDA1MSwtMjExNDMyMDk5NiwtMT
+QxNTQ2MTUwMiwtMzg5MTA0OTA4LDk4NDc4MTU3MCw1NDIzMjcw
+MTQsNTYyODk5MzQ2LDE4NDIxOTcwNTIsLTUyMzUxMzE2NCwxMz
+U1NDAzMjg5LC04OTQ2Mjg2NDUsLTU1NDU5ODI1NCwzNDA3NjA0
+NzAsMTA0ODcyMTcxMCwxODYwNDI2MjYwLDE0MDkyMjM3OTMsMT
+U3NDYxMzE2OSwtMTQzMjU1NjMxNyw4NjAwNjQ2MTYsLTExMjc4
+NTcwODVdfQ==
 -->
