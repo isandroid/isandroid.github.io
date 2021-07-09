@@ -718,7 +718,9 @@ Dan janganlah hinakan aku pada hari ketika mereka akan dibangkitkan lagi, [[^026
 رَبِّ اَوۡزِعۡنِیۡۤ اَنۡ اَشۡکُرَ نِعۡمَتَکَ الَّتِیۡۤ اَنۡعَمۡتَ عَلَیَّ وَعَلٰی وٰلِدَیَّ وَاَنۡ اَعۡمَلَ صٰلِحًا تَرۡضٰٮہُ وَاَدۡخِلۡنِیۡ بِرَحۡمَتِکَ فِیۡ عِبَادِکَ الصّٰلِحِیۡنَ
 </p>
 
-“Wahai Tuhan-ku! Anugerahkanlah kepada-ku taufik untuk mensyukuri nikmat Engkau yang telah Engkau anugerahkan kepadaku dan kepada orangtuaku, dan untuk berbuat amal saleh yang Engkau ridhai, dan masukkanlah aku dengan rahmat Engkau di antara hamba-hamba Engkau yang saleh.” ([QS An-Naml [27]:20](https://openquran.com/27:20))
+“Wahai Tuhan-ku! Anugerahkanlah kepada-ku *taufik* untuk mensyukuri nikmat Engkau yang telah Engkau anugerahkan kepadaku dan kepada orangtuaku, dan untuk berbuat amal saleh yang Engkau ridhai, dan masukkanlah aku dengan rahmat Engkau di antara hamba-hamba Engkau yang saleh.” ([QS An-Naml [27]:20](https://openquran.com/27:20))
+
+[^027_020]: Doa ini dipanjatkan oleh Nabi Sulaiman (as) ketika berdialog dengan Suku *Naml* 
 
 ### 59. Doa Pengakuan bahwa Kita Menganiaya Diri-Sendiri
 
@@ -1157,11 +1159,11 @@ Dan janganlah hinakan aku pada hari ketika mereka akan dibangkitkan lagi, [[^026
 
 [^026_170_keterangan]: Doa ini dimohonkan Nabi Luth (as) kepada Allah Ta'ala ketika menghadapi kaum beliau.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwOTcxODAyNiw1NjI4OTkzNDYsMTg0Mj
-E5NzA1MiwtNTIzNTEzMTY0LDEzNTU0MDMyODksLTg5NDYyODY0
-NSwtNTU0NTk4MjU0LDM0MDc2MDQ3MCwxMDQ4NzIxNzEwLDE4Nj
-A0MjYyNjAsMTQwOTIyMzc5MywxNTc0NjEzMTY5LC0xNDMyNTU2
-MzE3LDg2MDA2NDYxNiwtMTEyNzg1NzA4NSwtMTI2NDA4MjczLD
-E0NjM1NTA1ODgsLTIwMTc4NjAwNzcsMTA3MTE4NDI3LC00NDcy
-NzE5NjFdfQ==
+eyJoaXN0b3J5IjpbLTIwMzIwODQ1MTMsNTYyODk5MzQ2LDE4ND
+IxOTcwNTIsLTUyMzUxMzE2NCwxMzU1NDAzMjg5LC04OTQ2Mjg2
+NDUsLTU1NDU5ODI1NCwzNDA3NjA0NzAsMTA0ODcyMTcxMCwxOD
+YwNDI2MjYwLDE0MDkyMjM3OTMsMTU3NDYxMzE2OSwtMTQzMjU1
+NjMxNyw4NjAwNjQ2MTYsLTExMjc4NTcwODUsLTEyNjQwODI3My
+wxNDYzNTUwNTg4LC0yMDE3ODYwMDc3LDEwNzExODQyNywtNDQ3
+MjcxOTYxXX0=
 -->
