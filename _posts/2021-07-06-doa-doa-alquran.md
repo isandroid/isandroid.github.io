@@ -580,7 +580,7 @@ Wahai Tuhan kami, janganlah Engkau bengkokkan hati kami setelah Engkau memberi k
  رَّبِّ اَنۡزِلۡنِیۡ مُنۡزَلًا مُّبَارَکًا وَّاَنۡتَ خَیۡرُ الۡمُنۡزِلِیۡنَ
 </p>
 
-([QS Al-Mu-minuun [23]:30](https://openquran.com/23:30))
+"Wahai Tuhan-ku! Turunkanlah aku di tempat turun yang diberkati, karena Engkau adalah sebaik-baik yang menurunkan" ([QS Al-Mu-minuun [23]:30](https://openquran.com/23:30))
 
 ### 49. Doa Memohon Dipelihara dari Azab
 
@@ -1117,11 +1117,11 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 
 [^023_027_keterangan]: Doa ini dipanjatkan oleh Nabi Nuh (as).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzcyNjg3ODgyLDEzNTU0MDMyODksLTg5ND
-YyODY0NSwtNTU0NTk4MjU0LDM0MDc2MDQ3MCwxMDQ4NzIxNzEw
-LDE4NjA0MjYyNjAsMTQwOTIyMzc5MywxNTc0NjEzMTY5LC0xND
-MyNTU2MzE3LDg2MDA2NDYxNiwtMTEyNzg1NzA4NSwtMTI2NDA4
-MjczLDE0NjM1NTA1ODgsLTIwMTc4NjAwNzcsMTA3MTE4NDI3LC
-00NDcyNzE5NjEsLTExMjU0ODg4NTAsMjIwNDAzMDc4LC02MTM2
-MTgxMTZdfQ==
+eyJoaXN0b3J5IjpbLTM4NjkxMjY3NiwxMzU1NDAzMjg5LC04OT
+Q2Mjg2NDUsLTU1NDU5ODI1NCwzNDA3NjA0NzAsMTA0ODcyMTcx
+MCwxODYwNDI2MjYwLDE0MDkyMjM3OTMsMTU3NDYxMzE2OSwtMT
+QzMjU1NjMxNyw4NjAwNjQ2MTYsLTExMjc4NTcwODUsLTEyNjQw
+ODI3MywxNDYzNTUwNTg4LC0yMDE3ODYwMDc3LDEwNzExODQyNy
+wtNDQ3MjcxOTYxLC0xMTI1NDg4ODUwLDIyMDQwMzA3OCwtNjEz
+NjE4MTE2XX0=
 -->
