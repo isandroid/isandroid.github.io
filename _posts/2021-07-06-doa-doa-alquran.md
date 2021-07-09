@@ -868,7 +868,11 @@ Dan janganlah hinakan aku pada hari ketika mereka akan dibangkitkan lagi, [[^026
 رَبَّنَا اغۡفِرۡ لَنَا وَلِاِخۡوٰنِنَا الَّذِیۡنَ سَبَقُوۡنَا بِالۡاِیۡمٰنِ وَلَا تَجۡعَلۡ فِیۡ قُلُوۡبِنَا غِلًّا لِّلَّذِیۡنَ اٰمَنُوۡا رَبَّنَاۤ اِنَّکَ رَءُوۡفٌ رَّحِیۡمٌ
 </p>
 
-“Wahai Tuhan kami, ampunilah kami dan saudara-saudara kami yang mendahului kami dalam keimanan, dan jangan-lah engkau tanamkan kedengkian di dalam hati kami terhadap orang-orang yang beriman. Wahai Tuhan kami, sesungguhnya Engkau Maha Penyantun, Maha Penyayang. ([QS Al-Hasyr [59]:11](https://openquran.com/59:11))
+“Wahai Tuhan kami, ampunilah kami dan saudara-saudara kami yang mendahului kami dalam keimanan, dan jangan-lah engkau tanamkan kedengkian di dalam hati kami terhadap orang-orang yang beriman. Wahai Tuhan kami, sesungguhnya Engkau Maha Penyantun, Maha Penyayang." [[^059_011]] ([QS Al-Hasyr [59]:11](https://openquran.com/59:11))
+
+[^059_011]: Kata-kata itu dapat dikenakan kepada para Muhajirin yang kemudian datang ke Medinah, atau kepada semua keturunan kaum Muslimin yang datang kemudian.
+
+[^059_011]
 
 ### 75. Doa Memohon Dipelihara dari Fitnah Orang Kafir 
 
@@ -1199,7 +1203,7 @@ Dan janganlah hinakan aku pada hari ketika mereka akan dibangkitkan lagi, [[^026
 [^046_016_keterangan]: Doa ini dipanjatkan oleh orang yang berumur 40 tahun. Doa ini dipanjatkan sebagai rasa syukur terhadap nikmat dari Allah Ta'ala yakni ia mendapatkan asuhan orang tua yang baik.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MTYwMjE0NzcsLTIxMTQzMjA5OTYsLT
+eyJoaXN0b3J5IjpbLTE2Mjg0ODY5MDksLTIxMTQzMjA5OTYsLT
 E0MTU0NjE1MDIsLTM4OTEwNDkwOCw5ODQ3ODE1NzAsNTQyMzI3
 MDE0LDU2Mjg5OTM0NiwxODQyMTk3MDUyLC01MjM1MTMxNjQsMT
 M1NTQwMzI4OSwtODk0NjI4NjQ1LC01NTQ1OTgyNTQsMzQwNzYw
