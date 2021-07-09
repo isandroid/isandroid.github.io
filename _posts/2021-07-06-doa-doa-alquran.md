@@ -872,8 +872,6 @@ Dan janganlah hinakan aku pada hari ketika mereka akan dibangkitkan lagi, [[^026
 
 [^059_011]: Kata-kata itu dapat dikenakan kepada para Muhajirin yang kemudian datang ke Medinah, atau kepada semua keturunan kaum Muslimin yang datang kemudian.
 
-[^059_011]
-
 ### 75. Doa Memohon Dipelihara dari Fitnah Orang Kafir 
 
 <p class="quran">
@@ -883,6 +881,10 @@ Dan janganlah hinakan aku pada hari ketika mereka akan dibangkitkan lagi, [[^026
 <p class="quran">
 رَبَّنَا لَا تَجۡعَلۡنَا فِتۡنَۃً لِّلَّذِیۡنَ کَفَرُوۡا وَاغۡفِرۡ لَنَا رَبَّنَاۤ ۖ اِنَّکَ اَنۡتَ الۡعَزِیۡزُ الۡحَکِیۡمُ
 </p>
+
+“Wahai Tuhan kami, kepada Engkau kami bertawakkal dan kepada Engkau kami tunduk dan kepada Engkau kami akan kembali.”
+
+
 
 (QS Al-Mumtahinah [60]:[5](https://openquran.com/60:5)-[6](https://openquran.com/60:6))
 
@@ -1203,11 +1205,11 @@ Dan janganlah hinakan aku pada hari ketika mereka akan dibangkitkan lagi, [[^026
 [^046_016_keterangan]: Doa ini dipanjatkan oleh orang yang berumur 40 tahun. Doa ini dipanjatkan sebagai rasa syukur terhadap nikmat dari Allah Ta'ala yakni ia mendapatkan asuhan orang tua yang baik.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2Mjg0ODY5MDksLTIxMTQzMjA5OTYsLT
-E0MTU0NjE1MDIsLTM4OTEwNDkwOCw5ODQ3ODE1NzAsNTQyMzI3
-MDE0LDU2Mjg5OTM0NiwxODQyMTk3MDUyLC01MjM1MTMxNjQsMT
-M1NTQwMzI4OSwtODk0NjI4NjQ1LC01NTQ1OTgyNTQsMzQwNzYw
-NDcwLDEwNDg3MjE3MTAsMTg2MDQyNjI2MCwxNDA5MjIzNzkzLD
-E1NzQ2MTMxNjksLTE0MzI1NTYzMTcsODYwMDY0NjE2LC0xMTI3
-ODU3MDg1XX0=
+eyJoaXN0b3J5IjpbMTAyOTY1NDE3MCwtMjExNDMyMDk5NiwtMT
+QxNTQ2MTUwMiwtMzg5MTA0OTA4LDk4NDc4MTU3MCw1NDIzMjcw
+MTQsNTYyODk5MzQ2LDE4NDIxOTcwNTIsLTUyMzUxMzE2NCwxMz
+U1NDAzMjg5LC04OTQ2Mjg2NDUsLTU1NDU5ODI1NCwzNDA3NjA0
+NzAsMTA0ODcyMTcxMCwxODYwNDI2MjYwLDE0MDkyMjM3OTMsMT
+U3NDYxMzE2OSwtMTQzMjU1NjMxNyw4NjAwNjQ2MTYsLTExMjc4
+NTcwODVdfQ==
 -->
