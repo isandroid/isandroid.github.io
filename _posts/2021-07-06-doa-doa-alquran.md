@@ -532,7 +532,7 @@ Wahai Tuhan kami, janganlah Engkau bengkokkan hati kami setelah Engkau memberi k
  رَّبِّ زِدۡنِیۡ عِلۡمًا
 </p>
 
-“Wahai Tuhan-ku! Tambahkanlah kepadaku ilmu.” ([QS Toha [20]:115](https://openquran.com/20:115))
+“Wahai Tuhan-ku! Tambahkanlah kepadaku ilmu.” [[^020_115]] ([QS Toha [20]:115](https://openquran.com/20:115))
 
 ### 43. Doa Memohon agar Dijauhkan dari Kesusahan 
 
@@ -1100,12 +1100,14 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 [^020_030]: Nabi Musa As tidak menganggap diri beliau layak menghadapi tugas berat yang diserahkan kepadanya. Ia memohon diberi seorang penolong untuk membantunya. Rasulullah Saw yang kepada beliau diserahkan tugas yang jauh lebih berat dan sulit, tidak pernah berdoa untuk diberi seorang pembantu. Beliau sendiri, tanpa dibantu dan tanpa ditolong, menjalankan sepenuhnya dan selengkapnya tugas dan tanggung jawab untuk mengangkat martabat suatu kaum yang telah terbenam ke dalam lumpur kejahatan moral paling rendah ke puncak kemajuan rohani paling tinggi.
 
 [^020_030_036_keterangan]: Ini adalah doa yang dipanjatkan oleh Nabi Musa (as) ketika diperintah Allah Ta'ala menghadapi Raja Firaun.
+
+[^020_115]: Rasulullah Saw diriwayatkan pernah bersabda, “Carilah ilmu walaupun sampai ke negeri Cina.” (Shagir, jilid I). Di tempat lain dalam Al-Qur’an ilmu telah dilukiskan sebagai “Karunia Allah yang sangat besar” (QS.2:270 dan QS.4:114). Ilmu itu ada dua macam: (a) ilmu yang dianugerahkan kepada manusia dengan perantaraan wahyu dan yang telah mencapai kesempurnaan dalam wujud Al-Qur’an. (b) Ilmu yang didapatkan oleh manusia dengan usaha dan jerih-payahnya sendiri.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODgxMTIwNDM4LC01NTQ1OTgyNTQsMzQwNz
-YwNDcwLDEwNDg3MjE3MTAsMTg2MDQyNjI2MCwxNDA5MjIzNzkz
-LDE1NzQ2MTMxNjksLTE0MzI1NTYzMTcsODYwMDY0NjE2LC0xMT
-I3ODU3MDg1LC0xMjY0MDgyNzMsMTQ2MzU1MDU4OCwtMjAxNzg2
-MDA3NywxMDcxMTg0MjcsLTQ0NzI3MTk2MSwtMTEyNTQ4ODg1MC
-wyMjA0MDMwNzgsLTYxMzYxODExNiwtMTk3NzE2NTQwOSwxNzQ1
-ODk3OTE3XX0=
+eyJoaXN0b3J5IjpbMjEwNjY1NTYwOSwtNTU0NTk4MjU0LDM0MD
+c2MDQ3MCwxMDQ4NzIxNzEwLDE4NjA0MjYyNjAsMTQwOTIyMzc5
+MywxNTc0NjEzMTY5LC0xNDMyNTU2MzE3LDg2MDA2NDYxNiwtMT
+EyNzg1NzA4NSwtMTI2NDA4MjczLDE0NjM1NTA1ODgsLTIwMTc4
+NjAwNzcsMTA3MTE4NDI3LC00NDcyNzE5NjEsLTExMjU0ODg4NT
+AsMjIwNDAzMDc4LC02MTM2MTgxMTYsLTE5NzcxNjU0MDksMTc0
+NTg5NzkxN119
 -->
