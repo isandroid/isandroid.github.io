@@ -608,6 +608,10 @@ Wahai Tuhan kami, janganlah Engkau bengkokkan hati kami setelah Engkau memberi k
 وَاَعُوۡذُ بِکَ رَبِّ اَنۡ یَّحۡضُرُوۡنِ
 </p>
 
+“Wahai Tuhan-ku! Aku berlindung kepada Engkau dari hasutan-hasutan setan"
+
+“Dan aku berlindung kepada Engkau, Tuhan-ku, supaya jangan mereka menghampiriku.”
+
 (QS Al-Mu-minuun [23]:[98](https://openquran.com/23:98)-[99](https://openquran.com/23:99))
 
 ### 51. Doa Memohon Ampun dan Kasih Sayang Tuhan 
@@ -1123,13 +1127,14 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 
 [^023_030_keterangan]: Doa ini dipanjatkan oleh Nabi Nuh (as) atau kaumnya yang telah selamat dari banjir. Mereka hampir sampai kepada tempat yang dikehendaki Allah Ta'ala untuk berlabuh.
 
+[^023_095]: Surah ini diwahyukan menjelang akhir masa Mekah. Rasulullah (saw) ketika itu hampir meninggalkan Mekah. Keberangkatan beliau merupakan suatu isyarat dan suatu tanda, bahwa sebagai akibat penolakan yang gigih terhadap beliau, penganiayaan, dan pengusiran beliau dari Mekah yang dilakukan oleh kaum Quraisy, hukuman Tuhan tidak lama lagi akan menimpa mereka. Beliau diajarkan untuk berdoa, bahwa bila hukuman yang diancamkan itu akan menimpa mereka, beliau hendaknya tidak hadir bersama mereka di Mekah.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3NjE1NTQ4NCwxMzU1NDAzMjg5LC04OT
-Q2Mjg2NDUsLTU1NDU5ODI1NCwzNDA3NjA0NzAsMTA0ODcyMTcx
-MCwxODYwNDI2MjYwLDE0MDkyMjM3OTMsMTU3NDYxMzE2OSwtMT
-QzMjU1NjMxNyw4NjAwNjQ2MTYsLTExMjc4NTcwODUsLTEyNjQw
-ODI3MywxNDYzNTUwNTg4LC0yMDE3ODYwMDc3LDEwNzExODQyNy
-wtNDQ3MjcxOTYxLC0xMTI1NDg4ODUwLDIyMDQwMzA3OCwtNjEz
-NjE4MTE2XX0=
+eyJoaXN0b3J5IjpbOTM4OTcwNDYwLDEzNTU0MDMyODksLTg5ND
+YyODY0NSwtNTU0NTk4MjU0LDM0MDc2MDQ3MCwxMDQ4NzIxNzEw
+LDE4NjA0MjYyNjAsMTQwOTIyMzc5MywxNTc0NjEzMTY5LC0xND
+MyNTU2MzE3LDg2MDA2NDYxNiwtMTEyNzg1NzA4NSwtMTI2NDA4
+MjczLDE0NjM1NTA1ODgsLTIwMTc4NjAwNzcsMTA3MTE4NDI3LC
+00NDcyNzE5NjEsLTExMjU0ODg4NTAsMjIwNDAzMDc4LC02MTM2
+MTgxMTZdfQ==
 -->
