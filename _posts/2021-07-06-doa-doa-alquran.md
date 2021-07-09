@@ -744,9 +744,9 @@ Dan janganlah hinakan aku pada hari ketika mereka akan dibangkitkan lagi, [[^026
 
 “Wahai Tuhanku! aku telah berbuat aniaya terhadap diriku, maka ampunilah aku,” [[^028_017]] ([QS Al-Qoshosh [28]:17](https://openquran.com/28:17)) [[^028_017_keterangan]]
 
-[^028_017]:
+[^028_017]: *Zalamūhu* berarti, ia meletakkan atas pundak orang lain suatu beban yang melewati batas kekuatan atau kemampuannya untuk memikul; ia membiarkan dirinya menjadi sasaran bahaya (Lane & Mufradat). Nabi Musa As menginsyafi, bahwa dalam usaha membela seorang orang Israil yang malang itu, ia tanpa sengaja telah membunuh orang Mesir itu, dan karenanya telah menempatkan diri dalam bahaya besar dan memikul beban yang nampaknya tidak akan dapat ia pikul. Dengan demikian ia berdoa ke hadirat Ilahi agar melindunginya dari natijah (akibat) buruk, yang boleh jadi timbul dari pembunuhan secara tak sengaja atas seorang warga dari bangsa yang sedang berkuasa.
 
-[^028_017_keterangan]:
+[^028_017_keterangan]: Doa ini diucapkan oleh Nabi Musa (as) 
 
 ### 62. Doa Agar Terhindar dari Bagian Orang-orang yang Berdosa
 
@@ -1169,11 +1169,11 @@ Dan janganlah hinakan aku pada hari ketika mereka akan dibangkitkan lagi, [[^026
 
 [^027_045_keterangan]: Doa ini dipanjatkan oleh Rastu Saba yang terkagum-kagum dengan kerajaan yang dianugerahkan Allah Ta'ala kepada Nabi Sulaiman (as)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyMzU0OTI5Miw1NjI4OTkzNDYsMTg0Mj
-E5NzA1MiwtNTIzNTEzMTY0LDEzNTU0MDMyODksLTg5NDYyODY0
-NSwtNTU0NTk4MjU0LDM0MDc2MDQ3MCwxMDQ4NzIxNzEwLDE4Nj
-A0MjYyNjAsMTQwOTIyMzc5MywxNTc0NjEzMTY5LC0xNDMyNTU2
-MzE3LDg2MDA2NDYxNiwtMTEyNzg1NzA4NSwtMTI2NDA4MjczLD
-E0NjM1NTA1ODgsLTIwMTc4NjAwNzcsMTA3MTE4NDI3LC00NDcy
-NzE5NjFdfQ==
+eyJoaXN0b3J5IjpbNTQyMzI3MDE0LDU2Mjg5OTM0NiwxODQyMT
+k3MDUyLC01MjM1MTMxNjQsMTM1NTQwMzI4OSwtODk0NjI4NjQ1
+LC01NTQ1OTgyNTQsMzQwNzYwNDcwLDEwNDg3MjE3MTAsMTg2MD
+QyNjI2MCwxNDA5MjIzNzkzLDE1NzQ2MTMxNjksLTE0MzI1NTYz
+MTcsODYwMDY0NjE2LC0xMTI3ODU3MDg1LC0xMjY0MDgyNzMsMT
+Q2MzU1MDU4OCwtMjAxNzg2MDA3NywxMDcxMTg0MjcsLTQ0NzI3
+MTk2MV19
 -->
