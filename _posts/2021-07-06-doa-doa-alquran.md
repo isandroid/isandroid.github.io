@@ -532,7 +532,7 @@ Wahai Tuhan kami, janganlah Engkau bengkokkan hati kami setelah Engkau memberi k
  رَّبِّ زِدۡنِیۡ عِلۡمًا
 </p>
 
-([QS Toha [20]:115](https://openquran.com/20:115))
+“Wahai Tuhan-ku! Tambahkanlah kepadaku ilmu.” ([QS Toha [20]:115](https://openquran.com/20:115))
 
 ### 43. Doa Memohon agar Dijauhkan dari Kesusahan 
 
@@ -1101,11 +1101,11 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 
 [^020_030_036_keterangan]: Ini adalah doa yang dipanjatkan oleh Nabi Musa (as) ketika diperintah Allah Ta'ala menghadapi Raja Firaun.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1NDU5ODI1NCwzNDA3NjA0NzAsMTA0OD
-cyMTcxMCwxODYwNDI2MjYwLDE0MDkyMjM3OTMsMTU3NDYxMzE2
-OSwtMTQzMjU1NjMxNyw4NjAwNjQ2MTYsLTExMjc4NTcwODUsLT
-EyNjQwODI3MywxNDYzNTUwNTg4LC0yMDE3ODYwMDc3LDEwNzEx
-ODQyNywtNDQ3MjcxOTYxLC0xMTI1NDg4ODUwLDIyMDQwMzA3OC
-wtNjEzNjE4MTE2LC0xOTc3MTY1NDA5LDE3NDU4OTc5MTcsMTY2
-MzM4ODYwM119
+eyJoaXN0b3J5IjpbODgxMTIwNDM4LC01NTQ1OTgyNTQsMzQwNz
+YwNDcwLDEwNDg3MjE3MTAsMTg2MDQyNjI2MCwxNDA5MjIzNzkz
+LDE1NzQ2MTMxNjksLTE0MzI1NTYzMTcsODYwMDY0NjE2LC0xMT
+I3ODU3MDg1LC0xMjY0MDgyNzMsMTQ2MzU1MDU4OCwtMjAxNzg2
+MDA3NywxMDcxMTg0MjcsLTQ0NzI3MTk2MSwtMTEyNTQ4ODg1MC
+wyMjA0MDMwNzgsLTYxMzYxODExNiwtMTk3NzE2NTQwOSwxNzQ1
+ODk3OTE3XX0=
 -->
