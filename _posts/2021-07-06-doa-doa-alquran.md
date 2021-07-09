@@ -1070,6 +1070,8 @@ Katakanlah, “Aku berlindung kepada Tuhan seluruh makhluk,”
 مِنَ الۡجِنَّۃِ وَالنَّاسِ
 </p>
 
+*Aku Baca* dengan nama Allah, Maha Pemurah, Maha Penyayang.
+
 ([QS An-Naas [114]](https://openquran.com/114))
 
 ### Catatan Kaki
@@ -1252,11 +1254,11 @@ Katakanlah, “Aku berlindung kepada Tuhan seluruh makhluk,”
 
 [^071_029]: Nabi-nabi Allah sarat dengan nilai-nilai kebajikan manusiawi. Doa Nabi Nuh As menunjukkan bahwa perlawanan terhadapnya tentu berlangsung sangat lama, gigih, dan tidak kunjung berkurang, dan bahwa segala usaha membawa kaumnya kepada jalan lurus telah kandas dan gagal serta tidak ada kemungkinan yang tinggal untuk penambahan lebih lanjut jumlah pengikut yang kecil itu, dan pula bahwa para penentangnya telah melampaui batas-batas yang wajar dalam menentang dan menganiaya ia dengan para pengikutnya, dan dalam berkecimpung di dalam perbuatan-perbuatan jahat. Keadaan telah begitu jauh sehingga seorang yang begitu berpembawaan kasih sayang seperti Nabi Nuh As terpaksa berdoa buruk untuk kaumnya. Dalam keadaan yang sama, sikap Rasulullah Saw terhadap para penentang beliau menunjukkan perbedaan yang sangat mencolok. Dalam pertempuran Uhud, ketika dua buah gigi beliau patah dan beliau terluka parah serta darah beliau mengucur dengan derasnya, kata-kata yang keluar dari mulut beliau hanyalah, “betapa suatu kaum akan memperoleh keselamatan, sedang mereka telah melukai nabi mereka dan melumuri mukanya dengan darah, karena kesalahan yang tidak lain selain ia telah mengajak mereka kepada Tuhan. Ya, Tuhan-ku! Ampunilah kiranya kaumku ini, sebab mereka tidak mengetahui apa yang mereka perbuat” (Zurqani dan Hisyam)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzIxODYxNTYyLDExMDg2Njk0MDgsLTIxMT
-QzMjA5OTYsLTE0MTU0NjE1MDIsLTM4OTEwNDkwOCw5ODQ3ODE1
-NzAsNTQyMzI3MDE0LDU2Mjg5OTM0NiwxODQyMTk3MDUyLC01Mj
-M1MTMxNjQsMTM1NTQwMzI4OSwtODk0NjI4NjQ1LC01NTQ1OTgy
-NTQsMzQwNzYwNDcwLDEwNDg3MjE3MTAsMTg2MDQyNjI2MCwxND
-A5MjIzNzkzLDE1NzQ2MTMxNjksLTE0MzI1NTYzMTcsODYwMDY0
-NjE2XX0=
+eyJoaXN0b3J5IjpbLTc1NjE0Mjk3NiwxMTA4NjY5NDA4LC0yMT
+E0MzIwOTk2LC0xNDE1NDYxNTAyLC0zODkxMDQ5MDgsOTg0Nzgx
+NTcwLDU0MjMyNzAxNCw1NjI4OTkzNDYsMTg0MjE5NzA1MiwtNT
+IzNTEzMTY0LDEzNTU0MDMyODksLTg5NDYyODY0NSwtNTU0NTk4
+MjU0LDM0MDc2MDQ3MCwxMDQ4NzIxNzEwLDE4NjA0MjYyNjAsMT
+QwOTIyMzc5MywxNTc0NjEzMTY5LC0xNDMyNTU2MzE3LDg2MDA2
+NDYxNl19
 -->
