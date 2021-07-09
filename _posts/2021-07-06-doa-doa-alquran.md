@@ -734,7 +734,7 @@ Dan janganlah hinakan aku pada hari ketika mereka akan dibangkitkan lagi, [[^026
 اَلۡحَمۡدُ لِلّٰہِ وَسَلٰمٌ عَلٰی عِبَادِہِ الَّذِیۡنَ اصۡطَفٰۤی ۗ آٰللّٰہُ خَیۡرٌ اَمَّا یُشۡرِکُوۡنَ
 </p>
 
-([QS An-Naml [27]:60](https://openquran.com/27:60))
+”Segala puji bagi Allah, dan selamat sejahtera atas hamba-hamba-Nya yang telah Dia pilih. Apakah Allah lebih baik ataukah apa yang mereka persekutukan *dengan-Nya*?” ([QS An-Naml [27]:60](https://openquran.com/27:60))
 
 ### 61. Mengakui Kesalahan dan Memohon Diampuni 
 
@@ -1165,11 +1165,11 @@ Dan janganlah hinakan aku pada hari ketika mereka akan dibangkitkan lagi, [[^026
 
 [^027_045_keterangan]: Doa ini dipanjatkan oleh Rastu Saba yang terkagum-kagum dengan kerajaan yang dianugerahkan Allah Ta'ala kepada Nabi Sulaiman (as)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1NzMwODc2OSw1NjI4OTkzNDYsMTg0Mj
-E5NzA1MiwtNTIzNTEzMTY0LDEzNTU0MDMyODksLTg5NDYyODY0
-NSwtNTU0NTk4MjU0LDM0MDc2MDQ3MCwxMDQ4NzIxNzEwLDE4Nj
-A0MjYyNjAsMTQwOTIyMzc5MywxNTc0NjEzMTY5LC0xNDMyNTU2
-MzE3LDg2MDA2NDYxNiwtMTEyNzg1NzA4NSwtMTI2NDA4MjczLD
-E0NjM1NTA1ODgsLTIwMTc4NjAwNzcsMTA3MTE4NDI3LC00NDcy
-NzE5NjFdfQ==
+eyJoaXN0b3J5IjpbLTEyNTE0NzgyODksNTYyODk5MzQ2LDE4ND
+IxOTcwNTIsLTUyMzUxMzE2NCwxMzU1NDAzMjg5LC04OTQ2Mjg2
+NDUsLTU1NDU5ODI1NCwzNDA3NjA0NzAsMTA0ODcyMTcxMCwxOD
+YwNDI2MjYwLDE0MDkyMjM3OTMsMTU3NDYxMzE2OSwtMTQzMjU1
+NjMxNyw4NjAwNjQ2MTYsLTExMjc4NTcwODUsLTEyNjQwODI3My
+wxNDYzNTUwNTg4LC0yMDE3ODYwMDc3LDEwNzExODQyNywtNDQ3
+MjcxOTYxXX0=
 -->
