@@ -948,7 +948,15 @@ Dan janganlah hinakan aku pada hari ketika mereka akan dibangkitkan lagi, [[^026
 
 “Maka seruanku tidak menambah mereka, melainkan lari *menjauh.*”
 
+"Dan sesungguhnya setiap kali aku berseru kepada mereka untuk beriman supaya Engkau memaafkan mereka, mereka memasukkan jari-jarinya ke dalam telinga mereka a dan menutupi mukanya dengan pakaian mereka,3131 dan mereka bersikukuh dalam keingkaran dan mereka bersikap sangat takabur.”
+
+“Kemudian sesungguhnya aku menyeru mereka secara terang-terangan,"
+
+“Kemudian sesungguhnya aku telah menyeru mereka secara terang-terangan dan sembunyisembunyi,” [[^071_010]]
+
 (QS Nuuh [71]: [6](https://openquran.com/71:6), [7](https://openquran.com/71:7), [8](https://openquran.com/71:8), [9](https://openquran.com/71:9), [10](https://openquran.com/71:10), [11](https://openquran.com/71:11), [12](https://openquran.com/71:12), [13](https://openquran.com/71:13))
+
+[^071_010]: Nabi Nuh (as) menggunakan segala sarana yang ada pada dirinya untuk membuat kaumnya mau mendengarkan Amanat Ilahi. Tetapi kaumnya sama-sama bertekad untuk tidak menghiraukan Amanat.
 
 ---
 
@@ -1214,11 +1222,11 @@ Dan janganlah hinakan aku pada hari ketika mereka akan dibangkitkan lagi, [[^026
 
 [^066_012_keterangan]: Doa ini adalah doa yang dipanjatkan oleh orang Mukmin yang dimisalkan seperti istri Fir'aun.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzc4Mjc3ODEwLDExMDg2Njk0MDgsLTIxMT
-QzMjA5OTYsLTE0MTU0NjE1MDIsLTM4OTEwNDkwOCw5ODQ3ODE1
-NzAsNTQyMzI3MDE0LDU2Mjg5OTM0NiwxODQyMTk3MDUyLC01Mj
-M1MTMxNjQsMTM1NTQwMzI4OSwtODk0NjI4NjQ1LC01NTQ1OTgy
-NTQsMzQwNzYwNDcwLDEwNDg3MjE3MTAsMTg2MDQyNjI2MCwxND
-A5MjIzNzkzLDE1NzQ2MTMxNjksLTE0MzI1NTYzMTcsODYwMDY0
-NjE2XX0=
+eyJoaXN0b3J5IjpbLTExMjY2NDkwODMsMTEwODY2OTQwOCwtMj
+ExNDMyMDk5NiwtMTQxNTQ2MTUwMiwtMzg5MTA0OTA4LDk4NDc4
+MTU3MCw1NDIzMjcwMTQsNTYyODk5MzQ2LDE4NDIxOTcwNTIsLT
+UyMzUxMzE2NCwxMzU1NDAzMjg5LC04OTQ2Mjg2NDUsLTU1NDU5
+ODI1NCwzNDA3NjA0NzAsMTA0ODcyMTcxMCwxODYwNDI2MjYwLD
+E0MDkyMjM3OTMsMTU3NDYxMzE2OSwtMTQzMjU1NjMxNyw4NjAw
+NjQ2MTZdfQ==
 -->
