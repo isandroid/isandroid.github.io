@@ -60,6 +60,16 @@ Hudhur ayyadahullaahu Ta’ala mengatakan bahwa beliau akan membuat pengumuman m
 Ada juga opsi di situs web ini di mana orang dapat mengirim akun historis yang mungkin belum pernah mereka rekam sebelumnya. Setelah verifikasi, akun-akun ini akan dimasukkan ke dalam situs web, sehingga menjadikannya proyek yang akan dilanjutkan dengan bantuan anggota Jemaat. Jika seseorang tidak dapat menemukan materi atau informasi tertentu di situs web, seseorang dapat menghubungi tim pusat, dan mereka akan bekerja untuk menemukan dan menyediakan informasi tersebut. Departemen TI pusat serta muballigh di Pusat Arsip dan Penelitian memainkan peran besar dalam mempersiapkan materi untuk situs web ini. 
 
 Hudhur ayyadahullaahu Ta’ala menyampaikan untuk berdoa bagi semua yang terlibat, dan mengatakan bahwa setelah salat Jumat, beliau akan meluncurkan situs web ini.
+
+### Khotbah Ke-II
+
+<p class="arab">
+اَلْحَمْدُ لِلَّهْ , اَلْحَمْدُ لِلَّهِ نَحْمَدُهُ وَنَسْتَعِيْنُهُ وَنَسْتَغْفِرُهُ وَنُؤْمِنُ بِهِ وَنَتَوَكَّلُ عَلَيْه وَنَعُوْذُ بِاللَّهِ مِنْ شُرُوْرِ أَنْفُسِنَا وَمِنْ سَيِّئَاتِ أَعْمَالِنَا مَنْ يَّهْدِهِ اللَّهُ فَلَا مُضِلَّ لَهُ وَمَنْ يُّضْلِلْهُ فَلَا هَادِيَ لَهُ وَنَشْهَدُ أَنْ لَّا إِلَهَ إِلَّا اللَّهُ وَنَشْهَدُ أَنَّ مُحَمَّدًا عَبْدُهُ وَرَسُوْلُهُ عِبَادَ اللَّهِ! رَحِمَكُمُ اللَّهُ! إِنَّ اللَّهَ يَأْمُرُ بِالْعَدْلِ وَالْإِحْسَانِ وَإِيْتَاءِ ذِى الْقُرْبَى وَيَنْهَى عَنِ الْفَحْشَاءِ وَالْمُنْكَرِ وَالْبَغْيِ, يَعِظُكُمْ لَعَلَّكُمْ تَذَكَّرُوْنَ أُذْكُرُوا اللَّهَ يَذْكُرْكُمْ وَادْعُوْهُ يَسْتَجِبْ لَكُمْ وَلَذِكْرُ اللَّهِ أَكْبَرُ
+</p>
+
+*Alhamdulillâhi nahmaduhû wa nasta’înuhû wa nastaghfiruhû wa nu-minu bihî wa natawakkalu ‘alayhi wa na’ûdzubillâhi min syurûri anfusinâ wa min sayyi-âti a-’mâlinâ may-yahdihil-Lâhu fa lâ mudhilla lahû, wa may-yudhlilhû fa lâ hâdiya lah – wa nasyhadu al-lâ ilâha illal-Lôhohu wa nasyhadu annâ muhammadan ‘abduhû wa rosûluhû – ‘ibâdal-Lôh! Rohimakumul-Lôh! Innal-Lôha ya-muru bil‘adli wal-ihsâni wa iytâ-i dzil-qurbâ wa yanhâ ‘anil-fahsyâ-i wal-munkari wal-baghyi ya’idzukum la’allakum tadzakkarûn – udzkurul-Lôha yadzkurkum wad’ûhu yastajiblakum wa ladzikrul-Lôhi akbar.*
+    
+Artinya:  “Segala puji bagi Allah Ta’ala. Kami memuji-Nya dan meminta pertolongan pada-Nya dan kami memohon ampun kepada-Nya dan kami beriman kepada-Nya dan kami bertawakal atas-Nya. Dan kami berlindung kepada Allah Ta’ala dari kejahatan-kejahatan nafsu-nafsu kami dan dari amalan kami yang jahat. Barangsiapa diberi petunjuk oleh Allah Ta’ala, tak ada yang dapat menyesatkannya. Dan barangsiapa yang dinyatakan sesat oleh-Nya, maka tidak ada yang dapat memberikan petunjuk kepadanya. Dan kami bersaksi bahwa tiada Tuhan selain Allah Ta’ala dan kami bersaksi bahwa Muhammadsaw. itu adalah hamba dan utusan-Nya. Wahai hamba-hamba Allah Ta’ala! Semoga Allah Ta’ala memberi mengasihi kalian. Sesungguhnya Allah Ta’ala menyuruh supaya kalian berlaku adil dan ihsan (berbuat baik kepada manusia) dan îtâ-i dzil qurbâ (memenuhi hak kerabat dekat). Dan Dia melarang kalian berbuat fahsyâ (kejahatan yang berhubungan dengan dirimu) dan munkar (kejahatan yang berhubungan dengan masyarakat) dan dari baghyi (pemberontakan terhadap pemerintah). Dia memberi nasehat supaya kalian mengingat-Nya. Ingatlah Allah Ta’ala, maka Dia akan mengingat kalian. Berdoalah kepada-Nya, maka Dia akan mengabulkan doa kalian dan mengingat Allah Ta’ala (dzikir) itu lebih besar (pahalanya).”
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTQ3NzUzMzVdfQ==
+eyJoaXN0b3J5IjpbMTY1MTY3OTY1OSwtMTY1NDc3NTMzNV19
 -->
