@@ -840,7 +840,11 @@ Dan janganlah hinakan aku pada hari ketika mereka akan dibangkitkan lagi, [[^026
 وَاِنَّاۤ اِلٰی رَبِّنَا لَمُنۡقَلِبُوۡنَ
 </p>
 
-“Mahasuci Dia Yang telah menundukkan ini bagi kami, padahal kami sendiri tidak mampu menguasainya.” (QS Az-Zukhruf [43]:[14](https://openquran.com/43:14)-[15](https://openquran.com/43:15))
+“Mahasuci Dia Yang telah menundukkan ini bagi kami, padahal kami sendiri tidak mampu menguasainya.”
+
+“Dan kepada Tuhan kami, kami pasti akan kembali.”
+
+(QS Az-Zukhruf [43]:[14](https://openquran.com/43:14)-[15](https://openquran.com/43:15))
 
 ### 72. Doa Bersyukur atas Nikmat Tuhan
 
@@ -848,7 +852,7 @@ Dan janganlah hinakan aku pada hari ketika mereka akan dibangkitkan lagi, [[^026
  رَبِّ اَوۡزِعۡنِیۡۤ اَنۡ اَشۡکُرَ نِعۡمَتَکَ الَّتِیۡۤ اَنۡعَمۡتَ عَلَیَّ وَعَلٰی وٰلِدَیَّ وَاَنۡ اَعۡمَلَ صٰلِحًا تَرۡضٰٮہُ وَاَصۡلِحۡ لِیۡ فِیۡ ذُرِّیَّتِیۡۤ ۖ اِنِّیۡ تُبۡتُ اِلَیۡکَ وَاِنِّیۡ مِنَ الۡمُسۡلِمِیۡنَ
 </p>
 
-([QS Al-Ahqoof [46]:16](https://openquran.com/46:16))
+Wahai Tuhanku, anugerahkanlah taufik kepadaku supaya aku dapat mensyukuri nikmat Engkau yang telah Engkau anugerahkan kepadaku dan kepada kedua orang tuaku, dan supaya aku dapat beramal saleh yang Engkau meridainya. Dan perbaikilah bagiku dalam keturunanku. Sesungguhnya aku kembali kepada Engkau; dan sesungguhnya aku termasuk orang-orang yang berserah diri kepada Engkau.” ([QS Al-Ahqoof [46]:16](https://openquran.com/46:16))
 
 ### 73. Doa Memohon Pertolongan
 
@@ -1193,7 +1197,7 @@ Dan janganlah hinakan aku pada hari ketika mereka akan dibangkitkan lagi, [[^026
 [^040_008_010_keterangan]: Doa ini dipanjatkan oleh malaikat-malaikat yang memikul ‘Arasy dan mereka yang ada di sekitarnya, mereka bertasbih dengan memuji Tuhannya, dan mereka beriman kepada-Nya, dan mereka memohon ampunan bagi orang-orang yang beriman dengan doa ini.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0ODk1OTYwOCwtMjExNDMyMDk5NiwtMT
+eyJoaXN0b3J5IjpbLTYzOTI2MDg1NiwtMjExNDMyMDk5NiwtMT
 QxNTQ2MTUwMiwtMzg5MTA0OTA4LDk4NDc4MTU3MCw1NDIzMjcw
 MTQsNTYyODk5MzQ2LDE4NDIxOTcwNTIsLTUyMzUxMzE2NCwxMz
 U1NDAzMjg5LC04OTQ2Mjg2NDUsLTU1NDU5ODI1NCwzNDA3NjA0
