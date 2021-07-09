@@ -774,7 +774,9 @@ Dan janganlah hinakan aku pada hari ketika mereka akan dibangkitkan lagi, [[^026
 رَبِّ ہَبۡ لِیۡ مِنَ الصّٰلِحِیۡنَ
 </p>
 
-“Wahai Tuhan-ku anugerahkanlah kepadaku *anak-anak* yang saleh.” ([QS Ash-Shooffaat [37]:101](https://openquran.com/37:101)) []
+“Wahai Tuhan-ku anugerahkanlah kepadaku *anak-anak* yang saleh.” ([QS Ash-Shooffaat [37]:101](https://openquran.com/37:101)) [[^037_101_keterangan]]
+
+Doa ini dipanjatkan oleh Nabi Ibrohim (as). Setelah beliau berdoa, Allah Ta'ala memberikan jawaban, "Maka Kami memberi kabar suka kepadanya tentang seorang anak laki-laki yang lembut hatinya." ()
 
 ### 66. Doa Memohon Pertolongan
 
@@ -1172,7 +1174,7 @@ Dan janganlah hinakan aku pada hari ketika mereka akan dibangkitkan lagi, [[^026
 
 [^028_022]: QS Al Qoshshos ayat 16-23 : Nampaknya sebelum kenabian beliau, Nabi Musa As biasa jalan-jalan diwaktu subuh. Suatu hari di jalan beliau melihat seorang Israil bertengkar dengan seorang dari kaum Fir’aun. Ketika ia minta tolong kepada Nabi Musa As, beliau memukul orang dari kaum Fir’aun dan ia mati. Pada Subuh berikutnya Nabi Musa As melewati jalan itu lagi. Beliau melihat lagi orang dari kaumnya tengah bertengkar dengan seseorang dari kaum Fir’aun. Ketika Nabi Musa As maju ke depan untuk menolong orang dari kaumnya, maka orangnya Fir’aun bicara dengan pelan, “Apakah engkau akan memperlakukan aku seperti kemarin kamu telah membunuh orang kami ?” Sesudah menerangkan kedua peristiwa itu, ayat berikutnya menjelaskan, bahwa para pemimpin kaum Fir’aun telah memutuskan untuk menghukum mati Musa As. Sebelumnya, seseorang yang tahu telah memberi tahu Musa As tentang itu. Beliau pun pergi dari sana menuju Midian.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxMDM1OTAwLDk4NDc4MTU3MCw1NDIzMj
+eyJoaXN0b3J5IjpbNjAzMTQzMDMxLDk4NDc4MTU3MCw1NDIzMj
 cwMTQsNTYyODk5MzQ2LDE4NDIxOTcwNTIsLTUyMzUxMzE2NCwx
 MzU1NDAzMjg5LC04OTQ2Mjg2NDUsLTU1NDU5ODI1NCwzNDA3Nj
 A0NzAsMTA0ODcyMTcxMCwxODYwNDI2MjYwLDE0MDkyMjM3OTMs
