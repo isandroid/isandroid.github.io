@@ -820,9 +820,11 @@ Dan janganlah hinakan aku pada hari ketika mereka akan dibangkitkan lagi, [[^026
 
 "Dan lindungilah mereka dari segala keburukan. Dan barangsiapa Engkau pelihara dari keburukan-keburukan pada Hari itu, sesungguhnya Engkau telah mengasihinya. Dan yang demikian itu suatu kemenangan yang besar."
 
-(QS Al-Mu-min [40]:[8](https://openquran.com/40:8), [9](https://openquran.com/40:9), [10](https://openquran.com/40:10))
+(QS Al-Mu-min [40]:[8](https://openquran.com/40:8), [9](https://openquran.com/40:9), [10](https://openquran.com/40:10)) [[^040_008_010_keterangan]]
 
-[^040_008_010_keterangan]: Doa ini dipanjatkamalaikat-malaikat yang memikul ‘Arasy2595 dan mereka yang ada di sekitarnya, mereka bertasbih dengan memuji Tuhannya, dan mereka beriman kepada-Nya, dan mereka memohon ampunan bagi orangorang yang beriman,
+[^040_008]: Ayat ini meletakkan suatu asas yang agung. Tiada pekerjaan dilaksanakan dan tiada kemenangan dapat dicapai oleh seseorang di dunia ini tanpa bantuan orang lain. Orang-orang lain masing-masing dengan sadar atau tidak sadar telah memberikan sumbangan kepada pekerjaan itu. Sekutu-sekutu dan pembantupembantu yang sadar atau tidak sadar itu terutama ayah bunda, istri, dan anakanaknya. Maka anggota keluarga yang terdekat itu pun akan diizinkan ikut serta menikmati karunia-karunia yang akan dianugerahkan kepada orang-orang yang beriman, atas amal-amal salehnya.
+
+[^040_008_010_keterangan]: Doa ini dipanjatkan oleh malaikat-malaikat yang memikul ‘Arasy dan mereka yang ada di sekitarnya, mereka bertasbih dengan memuji Tuhannya, dan mereka beriman kepada-Nya, dan mereka memohon ampunan bagi orang-orang yang beriman dengan doa ini.
 
 ### 70. Doa Menyerahkan Segala Pekerjaan kepada Allah 
 
@@ -1187,7 +1189,7 @@ Dan janganlah hinakan aku pada hari ketika mereka akan dibangkitkan lagi, [[^026
 [^038_036_keterangan]: Doa ini dipanjatkan oleh Nabi Sulaiman (as)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyODU4MTYxMCwtMjExNDMyMDk5NiwtMT
+eyJoaXN0b3J5IjpbLTM5MTAwMjkyMiwtMjExNDMyMDk5NiwtMT
 QxNTQ2MTUwMiwtMzg5MTA0OTA4LDk4NDc4MTU3MCw1NDIzMjcw
 MTQsNTYyODk5MzQ2LDE4NDIxOTcwNTIsLTUyMzUxMzE2NCwxMz
 U1NDAzMjg5LC04OTQ2Mjg2NDUsLTU1NDU5ODI1NCwzNDA3NjA0
