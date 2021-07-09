@@ -742,7 +742,7 @@ Dan janganlah hinakan aku pada hari ketika mereka akan dibangkitkan lagi, [[^026
 رَبِّ اِنِّیۡ ظَلَمۡتُ نَفۡسِیۡ فَاغۡفِرۡ لِیۡ
 </p>
 
-“Wahai Tuhanku! aku telah berbuat aniaya terhadap diriku, maka ampunilah aku,” [[^028_017]] ([QS Al-Qoshosh [28]:17](https://openquran.com/28:17)) [[^028_017_keterangan]] 
+“Wahai Tuhanku! aku telah berbuat aniaya terhadap diriku, maka ampunilah aku,” [[^028_017]] ([QS Al-Qoshosh [28]:17](https://openquran.com/28:17)) [[^028_017_018_keterangan]] 
 
 ### 62. Doa Agar Terhindar dari Bagian Orang-orang yang Berdosa
 
@@ -750,9 +750,9 @@ Dan janganlah hinakan aku pada hari ketika mereka akan dibangkitkan lagi, [[^026
 رَبِّ بِمَاۤ اَنۡعَمۡتَ عَلَیَّ فَلَنۡ اَکُوۡنَ ظَہِیۡرًا لِّلۡمُجۡرِمِیۡنَ
 </p>
 
-“Wahai Tuhanku! Karena nikmat yang Engkau telah anugerahkan kepadaku, aku tidak akan menjadi penolong orang-orang yang berdosa.” ([QS Al-Qoshosh [28]:18](https://openquran.com/28:18))
+“Wahai Tuhanku! Karena nikmat yang Engkau telah anugerahkan kepadaku, aku tidak akan menjadi penolong orang-orang yang berdosa.” [[^028_018]] ([QS Al-Qoshosh [28]:18](https://openquran.com/28:18)) [[^028_017_018_keterangan]]
 
-Ayat ini menunjukkan Nabi Musa As seolah-olah berkata, “Ya Tuhanku! Engkau selamanya berbelas kasih kepadaku, maka karena bersyukur atas nikmat Engkau aku berjanji, bahwa aku selamanya akan membela orangorang yang teraniaya, sebagaimana aku pernah lakukan pada kejadian terakhir, dan aku sama sekali tidak akan memihak orang yang zalim.” Atau dapat juga diartikan, “Ya Tuhanku, karena Engkau selamanya baik dan berkasih-sayang kepadaku, bagaimana aku dapat menjadi seorang penolong dan pembela kaum yang teraniaya?”
+[^028_018]: Ayat ini menunjukkan Nabi Musa As seolah-olah berkata, “Ya Tuhanku! Engkau selamanya berbelas kasih kepadaku, maka karena bersyukur atas nikmat Engkau aku berjanji, bahwa aku selamanya akan membela orangorang yang teraniaya, sebagaimana aku pernah lakukan pada kejadian terakhir, dan aku sama sekali tidak akan memihak orang yang zalim.” Atau dapat juga diartikan, “Ya Tuhanku, karena Engkau selamanya baik dan berkasih-sayang kepadaku, bagaimana aku dapat menjadi seorang penolong dan pembela kaum yang teraniaya?”
 
 ### 63. Doa Meminta Terpelihara dari Kaum yang Zalim (aniaya)
 
@@ -1168,9 +1168,9 @@ Ayat ini menunjukkan Nabi Musa As seolah-olah berkata, “Ya Tuhanku! Engkau sel
 
 [^028_017]: *Zalamūhu* berarti, ia meletakkan atas pundak orang lain suatu beban yang melewati batas kekuatan atau kemampuannya untuk memikul; ia membiarkan dirinya menjadi sasaran bahaya (Lane & Mufradat). Nabi Musa As menginsyafi, bahwa dalam usaha membela seorang orang Israil yang malang itu, ia tanpa sengaja telah membunuh orang Mesir itu, dan karenanya telah menempatkan diri dalam bahaya besar dan memikul beban yang nampaknya tidak akan dapat ia pikul. Dengan demikian ia berdoa ke hadirat Ilahi agar melindunginya dari natijah (akibat) buruk, yang boleh jadi timbul dari pembunuhan secara tak sengaja atas seorang warga dari bangsa yang sedang berkuasa.
 
-[^028_017_keterangan]: Doa ini diucapkan oleh Nabi Musa (as) setelah secara reflek membela seseorang yang sedang dianiaya. Salah satu penduduk Mesir yang ketika itu berseteru dengan salah satu kaum Yahudi. Nabi Musa (as) meninju penduduk Mesir itu. Dan tiba-tiba orang itu mati. Nabi Musa (as) segera meminta ampun kepada Allah Ta'ala.
+[^028_017_018_keterangan]: Doa ini diucapkan oleh Nabi Musa (as) setelah secara reflek membela seseorang yang sedang dianiaya. Salah satu penduduk Mesir yang ketika itu berseteru dengan salah satu kaum Yahudi. Nabi Musa (as) meninju penduduk Mesir itu. Dan tiba-tiba orang itu mati. Nabi Musa (as) segera meminta ampun kepada Allah Ta'ala.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyMzUwNjYxMCw1NDIzMjcwMTQsNTYyOD
+eyJoaXN0b3J5IjpbLTcwNTU0ODQ4MCw1NDIzMjcwMTQsNTYyOD
 k5MzQ2LDE4NDIxOTcwNTIsLTUyMzUxMzE2NCwxMzU1NDAzMjg5
 LC04OTQ2Mjg2NDUsLTU1NDU5ODI1NCwzNDA3NjA0NzAsMTA0OD
 cyMTcxMCwxODYwNDI2MjYwLDE0MDkyMjM3OTMsMTU3NDYxMzE2
