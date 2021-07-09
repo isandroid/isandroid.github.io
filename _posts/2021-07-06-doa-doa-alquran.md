@@ -552,7 +552,7 @@ Wahai Tuhan kami, janganlah Engkau bengkokkan hati kami setelah Engkau memberi k
 
 [^021_088]: Ketika Nabi Yunus As melihat, bahwa nubuatan tentang kehancuran kaumnya tidak sempurna – karena beliau tidak tahu, bahwa nubuatan kehancuran bisa dibatalkan dengan penyesalan (tobat) kepada Allah Swt – maka beliau pergi ke laut dengan perasaan marah. Di sana beliau ditelan oleh ikan paus, kemudian dimuntahkan dalam keadaan hidup. Dalam keadaan gelap ini, beliau berdoa : Ya Allah, selain Engkau tiada tuhan lain. Engkau Mahasuci dan saya betul-betul termasuk orang yang aniaya.
 
-[^021_088_keterangan]: D
+[^021_088_keterangan]: Doa ini disampaikan oleh Dzun Nun, yakni julukan dari Nabi Yunus (as) ket
 
 ### 45. Doa Memohon Keturunan
 
@@ -1111,7 +1111,7 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 
 [^021_084_keterangan]: Doa ini dipanjatkan oleh Nabi Ayyub (as)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxMjQ2OTIzMSwtODk0NjI4NjQ1LC01NT
+eyJoaXN0b3J5IjpbMTcwMDI4NDE1NCwtODk0NjI4NjQ1LC01NT
 Q1OTgyNTQsMzQwNzYwNDcwLDEwNDg3MjE3MTAsMTg2MDQyNjI2
 MCwxNDA5MjIzNzkzLDE1NzQ2MTMxNjksLTE0MzI1NTYzMTcsOD
 YwMDY0NjE2LC0xMTI3ODU3MDg1LC0xMjY0MDgyNzMsMTQ2MzU1
