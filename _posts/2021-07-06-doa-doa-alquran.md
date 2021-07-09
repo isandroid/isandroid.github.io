@@ -952,11 +952,15 @@ Dan janganlah hinakan aku pada hari ketika mereka akan dibangkitkan lagi, [[^026
 
 “Kemudian sesungguhnya aku menyeru mereka secara terang-terangan,"
 
-“Kemudian sesungguhnya aku telah menyeru mereka secara terang-terangan dan sembunyisembunyi,” [[^071_010]]
+“Kemudian sesungguhnya aku telah menyeru mereka secara terang-terangan dan sembunyi-sembunyi,” [[^071_010]]
+
+Maka aku berkata, “Mohonlah ampun kepada Tuhanmu. Sesungguhnya Dia Maha Pengampun,"
+
+“Dia akan mengirimkan hujan lebat atasmu,”
+
+“Dan Dia akan membantu dengan harta dan anak-anak dan Dia akan menjadikan bagimu kebun-kebun dan akan menjadikan bagimu sungai-sungai.”
 
 (QS Nuuh [71]: [6](https://openquran.com/71:6), [7](https://openquran.com/71:7), [8](https://openquran.com/71:8), [9](https://openquran.com/71:9), [10](https://openquran.com/71:10), [11](https://openquran.com/71:11), [12](https://openquran.com/71:12), [13](https://openquran.com/71:13))
-
-[^071_010]: Nabi Nuh (as) menggunakan segala sarana yang ada pada dirinya untuk membuat kaumnya mau mendengarkan Amanat Ilahi. Tetapi kaumnya sama-sama bertekad untuk tidak menghiraukan Amanat.
 
 ---
 
@@ -1221,12 +1225,14 @@ Dan janganlah hinakan aku pada hari ketika mereka akan dibangkitkan lagi, [[^026
 	Selanjutnya tampak bahwa setelah masuk surga orang-orang mukmin akan mencapai Maghfirah – penutupan kekurangan (Lane). Mereka akan terus-menerus berdoa kepada Tuhan untuk mencapai kesempurnaan dan sama sekali tenggelam dalam Nur Ilahi dan akan terus naik kian menanjak ke atas dan memandang tiap-tiap tingkat sebagai ada kekurangan dibandingkan dengan tingkat lebih tinggi yang didambakan oleh mereka, dan karena itu akan berdoa kepada Tuhan supaya Dia menutupi ketidaksempurnaannya sehingga mereka akan mampu mencapai tingkat lebih tinggi itu. Inilah makna yang sesungguhnya tentang Istighfār, yang secara harfiah berarti “mohon ampunan atas segala kealpaan.”
 
 [^066_012_keterangan]: Doa ini adalah doa yang dipanjatkan oleh orang Mukmin yang dimisalkan seperti istri Fir'aun.
+
+[^071_010]: Nabi Nuh (as) menggunakan segala sarana yang ada pada dirinya untuk membuat kaumnya mau mendengarkan Amanat Ilahi. Tetapi kaumnya sama-sama bertekad untuk tidak menghiraukan Amanat.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjY2NDkwODMsMTEwODY2OTQwOCwtMj
-ExNDMyMDk5NiwtMTQxNTQ2MTUwMiwtMzg5MTA0OTA4LDk4NDc4
-MTU3MCw1NDIzMjcwMTQsNTYyODk5MzQ2LDE4NDIxOTcwNTIsLT
-UyMzUxMzE2NCwxMzU1NDAzMjg5LC04OTQ2Mjg2NDUsLTU1NDU5
-ODI1NCwzNDA3NjA0NzAsMTA0ODcyMTcxMCwxODYwNDI2MjYwLD
-E0MDkyMjM3OTMsMTU3NDYxMzE2OSwtMTQzMjU1NjMxNyw4NjAw
-NjQ2MTZdfQ==
+eyJoaXN0b3J5IjpbLTUzODUzMjM3MywxMTA4NjY5NDA4LC0yMT
+E0MzIwOTk2LC0xNDE1NDYxNTAyLC0zODkxMDQ5MDgsOTg0Nzgx
+NTcwLDU0MjMyNzAxNCw1NjI4OTkzNDYsMTg0MjE5NzA1MiwtNT
+IzNTEzMTY0LDEzNTU0MDMyODksLTg5NDYyODY0NSwtNTU0NTk4
+MjU0LDM0MDc2MDQ3MCwxMDQ4NzIxNzEwLDE4NjA0MjYyNjAsMT
+QwOTIyMzc5MywxNTc0NjEzMTY5LC0xNDMyNTU2MzE3LDg2MDA2
+NDYxNl19
 -->
