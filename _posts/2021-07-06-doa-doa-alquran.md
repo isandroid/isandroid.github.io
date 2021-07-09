@@ -892,7 +892,9 @@ Dan janganlah hinakan aku pada hari ketika mereka akan dibangkitkan lagi, [[^026
  رَبَّنَاۤ اَتۡمِمۡ لَنَا نُوۡرَنَا وَاغۡفِرۡ لَنَاۤ ۖ اِنَّکَ عَلٰی کُلِّ شَیۡءٍ قَدِیۡرٌ
 </p>
 
-([QS At-Tahrim [66]:9](https://openquran.com/66:9))
+“Wahai Tuhan kami! Sempurnakanlah bagi kami cahaya kami, dan ampunilah kami, sesungguhnya Engkau Mahakuasa atas segala sesuatu.” [[^066_009]] ([QS At-Tahrim [66]:9](https://openquran.com/66:9))
+
+Keinginan tidak kunjung padam bagi kesempurnaan pada pihak orang-orang yang beriman di surga sebagaimana diungkapkan dalam kata-kata, “Wahai, Tuhan kami, sempurnakanlah bagi kami cahaya kami,” menunjukkan bahwa kehidupan di surga itu bukanlah kehidupan menganggur. Kebalikannya, kemajuan rohani di surga tiada berhingga sebab bila orang-orang mukmin akan mencapai kesempurnaan – yang menjadi ciri tingkat tertentu – mereka tidak akan berhenti sampai di situ, melainkan serentak terlihat di hadapannya ada tingkat kesempurnaan lebih tinggi dan diketahuinya bahwa tingkat yang didapati olehnya itu bukan tingkat tertinggi, maka ia akan maju terus dan seterusnya tanpa berakhir
 
 ### 77. Doa Memohon Qurub Ilahi dan Memohon Dipelihara dari Kaum yang Zalim
 
@@ -1203,11 +1205,11 @@ Dan janganlah hinakan aku pada hari ketika mereka akan dibangkitkan lagi, [[^026
 [^046_016_keterangan]: Doa ini dipanjatkan oleh orang yang berumur 40 tahun. Doa ini dipanjatkan sebagai rasa syukur terhadap nikmat dari Allah Ta'ala yakni ia mendapatkan asuhan orang tua yang baik.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODMzODE2NDQzLC0yMTE0MzIwOTk2LC0xND
-E1NDYxNTAyLC0zODkxMDQ5MDgsOTg0NzgxNTcwLDU0MjMyNzAx
-NCw1NjI4OTkzNDYsMTg0MjE5NzA1MiwtNTIzNTEzMTY0LDEzNT
-U0MDMyODksLTg5NDYyODY0NSwtNTU0NTk4MjU0LDM0MDc2MDQ3
-MCwxMDQ4NzIxNzEwLDE4NjA0MjYyNjAsMTQwOTIyMzc5MywxNT
-c0NjEzMTY5LC0xNDMyNTU2MzE3LDg2MDA2NDYxNiwtMTEyNzg1
-NzA4NV19
+eyJoaXN0b3J5IjpbLTMyNTM2OTYyNywtMjExNDMyMDk5NiwtMT
+QxNTQ2MTUwMiwtMzg5MTA0OTA4LDk4NDc4MTU3MCw1NDIzMjcw
+MTQsNTYyODk5MzQ2LDE4NDIxOTcwNTIsLTUyMzUxMzE2NCwxMz
+U1NDAzMjg5LC04OTQ2Mjg2NDUsLTU1NDU5ODI1NCwzNDA3NjA0
+NzAsMTA0ODcyMTcxMCwxODYwNDI2MjYwLDE0MDkyMjM3OTMsMT
+U3NDYxMzE2OSwtMTQzMjU1NjMxNyw4NjAwNjQ2MTYsLTExMjc4
+NTcwODVdfQ==
 -->
