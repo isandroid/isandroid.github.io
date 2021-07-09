@@ -790,7 +790,9 @@ Dan janganlah hinakan aku pada hari ketika mereka akan dibangkitkan lagi, [[^026
 رَبِّ اغۡفِرۡ لِیۡ وَہَبۡ لِیۡ مُلۡکًا لَّا یَنۡۢبَغِیۡ لِاَحَدٍ مِّنۡۢ بَعۡدِیۡۤ ۖ اِنَّکَ اَنۡتَ الۡوَہَّابُ
 </p>
 
-([QS Shaad [38]:36](https://openquran.com/38:36))
+“Wahai Tuhanku, ampunilah aku dan anugerahkanlah kepadaku kerajaan yang tidak layak diwarisi seseorang sesudahku, sesungguhnya Engkau adalah Maha Pemberi anugerah.” [] ([QS Shaad [38]:36](https://openquran.com/38:36))
+
+Seperti nampak dari ayat sebelum ini Nabi Sulaiman As telah mempunyai firasat bahwa kerajaan duniawinya akan menjadi terpecah-belah sesudah ia wafat, disebabkan oleh mental putranya yang lemah dan tidak layak itu; maka ia berdoa supaya kerajaan rohani yang telah dianugerahkan Allah Swt kepada keturunannya dapat berjalan terus. Bila kata-kata, “suatu kerajaan yang tidak dapat diwarisi oleh seseorang sesudahku,” diartikan secara harfiah, maka doa Nabi Sulaiman As akan dipahami sudah terkabul dalam artian bahwa sesudah kewafatannya, tidak akan ada raja di antara kaum Bani Israil yang memiliki kekuasaan dan pamor seperti dirinya.
 
 ### 68. Menyatakan Kebesaran Tuhan
 
@@ -1175,7 +1177,7 @@ Dan janganlah hinakan aku pada hari ketika mereka akan dibangkitkan lagi, [[^026
 [^037_101_keterangan]: Doa ini dipanjatkan oleh Nabi Ibrohim (as). Setelah beliau berdoa, Allah Ta'ala memberikan jawaban, "Maka Kami memberi kabar suka kepadanya tentang seorang anak laki-laki yang lembut hatinya." ([QS Ash-Shooffaat [38]:101](https://openquran.com/38:101))
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTY4MzY2MjAsLTM4OTEwNDkwOCw5OD
+eyJoaXN0b3J5IjpbLTE5NTc3NzEzNDcsLTM4OTEwNDkwOCw5OD
 Q3ODE1NzAsNTQyMzI3MDE0LDU2Mjg5OTM0NiwxODQyMTk3MDUy
 LC01MjM1MTMxNjQsMTM1NTQwMzI4OSwtODk0NjI4NjQ1LC01NT
 Q1OTgyNTQsMzQwNzYwNDcwLDEwNDg3MjE3MTAsMTg2MDQyNjI2
