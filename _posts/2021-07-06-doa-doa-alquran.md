@@ -992,6 +992,12 @@ Maka aku berkata, “Mohonlah ampun kepada Tuhanmu. Sesungguhnya Dia Maha Pengam
 رَّبِّ اغۡفِرۡ لِیۡ وَلِوٰلِدَیَّ وَلِمَنۡ دَخَلَ بَیۡتِیَ مُؤۡمِنًا وَّلِلۡمُؤۡمِنِیۡنَ وَالۡمُؤۡمِنٰتِ وَلَا تَزِدِ الظّٰلِمِیۡنَ اِلَّا تَبَارًۢا
 </p>
 
+“Wahai Tuhan-ku! Janganlah engkau membiarkan seorang pun dari orang-orang kafir tinggal di atas bumi,”
+
+“Sesungguhnya, jika Engkau membiarkan mereka, mereka akan menyesatkan hamba-hamba Engkau, dan tidak ada yang akan mereka lahirkan selain orang-orang berdosa *dan* orang-orang kafir.” [^071_]
+
+”Wahai Tuhan-ku! Ampunilah aku dan ibu-bapakku, dan bagi orang-orang yang memasuki rumahku sebagai mukmin, dan bagi laki-laki mukmin dan perempuan mukmin. Dan Engkau tidak menambah kepada orang-orang yang aniaya kecuali kebinasaan.”
+
 (QS Nuuh [71]: [27](https://openquran.com/71:27), [28](https://openquran.com/71:28), [29](https://openquran.com/71:29))
 
 “Wahai Tuhanku, sesungguhnya aku telah mengajak kaumku di waktu malam dan siang,”
@@ -1232,11 +1238,11 @@ Maka aku berkata, “Mohonlah ampun kepada Tuhanmu. Sesungguhnya Dia Maha Pengam
 
 [^071_010]: Nabi Nuh (as) menggunakan segala sarana yang ada pada dirinya untuk membuat kaumnya mau mendengarkan Amanat Ilahi. Tetapi kaumnya sama-sama bertekad untuk tidak menghiraukan Amanat.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDU5NTAzMTcxLDExMDg2Njk0MDgsLTIxMT
-QzMjA5OTYsLTE0MTU0NjE1MDIsLTM4OTEwNDkwOCw5ODQ3ODE1
-NzAsNTQyMzI3MDE0LDU2Mjg5OTM0NiwxODQyMTk3MDUyLC01Mj
-M1MTMxNjQsMTM1NTQwMzI4OSwtODk0NjI4NjQ1LC01NTQ1OTgy
-NTQsMzQwNzYwNDcwLDEwNDg3MjE3MTAsMTg2MDQyNjI2MCwxND
-A5MjIzNzkzLDE1NzQ2MTMxNjksLTE0MzI1NTYzMTcsODYwMDY0
-NjE2XX0=
+eyJoaXN0b3J5IjpbMjAyNzMzNDA1MywxMTA4NjY5NDA4LC0yMT
+E0MzIwOTk2LC0xNDE1NDYxNTAyLC0zODkxMDQ5MDgsOTg0Nzgx
+NTcwLDU0MjMyNzAxNCw1NjI4OTkzNDYsMTg0MjE5NzA1MiwtNT
+IzNTEzMTY0LDEzNTU0MDMyODksLTg5NDYyODY0NSwtNTU0NTk4
+MjU0LDM0MDc2MDQ3MCwxMDQ4NzIxNzEwLDE4NjA0MjYyNjAsMT
+QwOTIyMzc5MywxNTc0NjEzMTY5LC0xNDMyNTU2MzE3LDg2MDA2
+NDYxNl19
 -->
