@@ -901,8 +901,6 @@ Dan janganlah hinakan aku pada hari ketika mereka akan dibangkitkan lagi, [[^026
 </p>
 
 “Wahai Tuhanku! Buatkanlah bagiku di sisi Engkau sebuah rumah di surga, dan selamatkanlah aku dari Fir‘aun dan perbuatannya, dan selamatkanlah aku dari kaum yang aniaya.” ([QS At-Tahrim [66]:12](https://openquran.com/66:12)) [[^066_012_keterangan]]
-
-[^066_012_keterangan]: Doa ini adalah doa yang dipanjatkan oleh 
  
 ### 78. Mengaku Kesalahan Diri
 
@@ -1207,8 +1205,10 @@ Dan janganlah hinakan aku pada hari ketika mereka akan dibangkitkan lagi, [[^026
 [^066_009]: Keinginan tidak kunjung padam bagi kesempurnaan pada pihak orang-orang yang beriman di surga sebagaimana diungkapkan dalam kata-kata, “Wahai, Tuhan kami, sempurnakanlah bagi kami cahaya kami,” menunjukkan bahwa kehidupan di surga itu bukanlah kehidupan menganggur. Kebalikannya, kemajuan rohani di surga tiada berhingga sebab bila orang-orang mukmin akan mencapai kesempurnaan – yang menjadi ciri tingkat tertentu – mereka tidak akan berhenti sampai di situ, melainkan serentak terlihat di hadapannya ada tingkat kesempurnaan lebih tinggi dan diketahuinya bahwa tingkat yang didapati olehnya itu bukan tingkat tertinggi, maka ia akan maju terus dan seterusnya tanpa berakhir.
 
 	Selanjutnya tampak bahwa setelah masuk surga orang-orang mukmin akan mencapai Maghfirah – penutupan kekurangan (Lane). Mereka akan terus-menerus berdoa kepada Tuhan untuk mencapai kesempurnaan dan sama sekali tenggelam dalam Nur Ilahi dan akan terus naik kian menanjak ke atas dan memandang tiap-tiap tingkat sebagai ada kekurangan dibandingkan dengan tingkat lebih tinggi yang didambakan oleh mereka, dan karena itu akan berdoa kepada Tuhan supaya Dia menutupi ketidaksempurnaannya sehingga mereka akan mampu mencapai tingkat lebih tinggi itu. Inilah makna yang sesungguhnya tentang Istighfār, yang secara harfiah berarti “mohon ampunan atas segala kealpaan.”
+
+[^066_012_keterangan]: Doa ini adalah doa yang dipanjatkan oleh orang Mukmin yang dimisalkan seperti istri Fir'aun.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5NzAyNDYxMiwtMjExNDMyMDk5NiwtMT
+eyJoaXN0b3J5IjpbLTExOTM5NTg5NywtMjExNDMyMDk5NiwtMT
 QxNTQ2MTUwMiwtMzg5MTA0OTA4LDk4NDc4MTU3MCw1NDIzMjcw
 MTQsNTYyODk5MzQ2LDE4NDIxOTcwNTIsLTUyMzUxMzE2NCwxMz
 U1NDAzMjg5LC04OTQ2Mjg2NDUsLTU1NDU5ODI1NCwzNDA3NjA0
