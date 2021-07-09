@@ -566,8 +566,6 @@ Wahai Tuhan kami, janganlah Engkau bengkokkan hati kami setelah Engkau memberi k
 
 “Wahai Tuhan-ku! Hakimilah dengan kebenaran, Tuhan Kami adalah Tuhan Yang Maha Pemurah, yang dimohonkan pertolonganNya terhadap apa yang kamu katakan.” [[^021_113]] ([QS Al-Anbiyaa [21]:113](https://openquran.com/21:113))
 
-[[^021_113]]: Rasulullah (saw) diperintahkan untuk memanjatkan doa yang tersebut dalam ayat ini sebagai perlindungan terhadap kekuatan-kekuatan buruk yang akan dilepaskan ke dunia di akhir zaman dalam bentuk Ya’jūj dan Ma’jūj . Ternyata dari Bibel, bahwa di masa Ya’jūj dan Ma’jūj , kekuatan fisik tidak akan merupakan satu-satunya bahaya bagi Islam. Ada faktor-faktor lain yang akan merupakan sumber bahaya yang jauh lebih besar bagi Islam. Boleh jadi juga dalam ayat ini Rasulullah Saw dilukiskan berdoa, supaya masa pendudukan Palestina oleh orang-orang Yahudi menjadi sependek mungkin; dan tanah itu dapat kembali kepada pewaris-pewarisnya yang sah, ialah orang-orang Islam.
-
 ### 47. Doa Memohon Pertolongan dari Serangan Pihak yang Anti
 
 <p class="quran">
@@ -1115,12 +1113,14 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 
 [^021_090_keterangan]: Doa ini dipanjatkan oleh Nabi Zakaria (as). Bentuk pengabulan doa ini, beliau mendapatkan keturunan, yakni Nabi Yahya (as). Lihat ([QS Al-Anbiyaa [21]:91](https://openquran.com/21:91))
 
+[^021_113]: Rasulullah (saw) diperintahkan untuk memanjatkan doa yang tersebut dalam ayat ini sebagai perlindungan terhadap kekuatan-kekuatan buruk yang akan dilepaskan ke dunia di akhir zaman dalam bentuk Ya’jūj dan Ma’jūj . Ternyata dari Bibel, bahwa di masa Ya’jūj dan Ma’jūj , kekuatan fisik tidak akan merupakan satu-satunya bahaya bagi Islam. Ada faktor-faktor lain yang akan merupakan sumber bahaya yang jauh lebih besar bagi Islam. Boleh jadi juga dalam ayat ini Rasulullah (saw) dilukiskan berdoa, supaya masa pendudukan Palestina oleh orang-orang Yahudi menjadi sependek mungkin; dan tanah itu dapat kembali kepada pewaris-pewarisnya yang sah, ialah orang-orang Islam.
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1MjI2NzcwLC04OTQ2Mjg2NDUsLTU1ND
-U5ODI1NCwzNDA3NjA0NzAsMTA0ODcyMTcxMCwxODYwNDI2MjYw
-LDE0MDkyMjM3OTMsMTU3NDYxMzE2OSwtMTQzMjU1NjMxNyw4Nj
-AwNjQ2MTYsLTExMjc4NTcwODUsLTEyNjQwODI3MywxNDYzNTUw
-NTg4LC0yMDE3ODYwMDc3LDEwNzExODQyNywtNDQ3MjcxOTYxLC
-0xMTI1NDg4ODUwLDIyMDQwMzA3OCwtNjEzNjE4MTE2LC0xOTc3
-MTY1NDA5XX0=
+eyJoaXN0b3J5IjpbMTM1NTQwMzI4OSwtODk0NjI4NjQ1LC01NT
+Q1OTgyNTQsMzQwNzYwNDcwLDEwNDg3MjE3MTAsMTg2MDQyNjI2
+MCwxNDA5MjIzNzkzLDE1NzQ2MTMxNjksLTE0MzI1NTYzMTcsOD
+YwMDY0NjE2LC0xMTI3ODU3MDg1LC0xMjY0MDgyNzMsMTQ2MzU1
+MDU4OCwtMjAxNzg2MDA3NywxMDcxMTg0MjcsLTQ0NzI3MTk2MS
+wtMTEyNTQ4ODg1MCwyMjA0MDMwNzgsLTYxMzYxODExNiwtMTk3
+NzE2NTQwOV19
 -->
