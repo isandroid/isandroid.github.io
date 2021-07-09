@@ -572,7 +572,9 @@ Wahai Tuhan kami, janganlah Engkau bengkokkan hati kami setelah Engkau memberi k
  رَبِّ انۡصُرۡنِیۡ بِمَا کَذَّبُوۡنِ
 </p>
 
-([QS Al-Mu-minuun [23]:27](https://openquran.com/23:27))
+“Wahai Tuhanku! Tolonglah aku, karena mereka telah mendustakan aku.” ([QS Al-Mu-minuun [23]:27](https://openquran.com/23:27)) [[^023_027_keterangan]]
+
+[^023_027_keterangan]: Doa ini dipanjatkan oleh Nabi Nuh (as)
 
 ### 48. Doa Memohon Disampaikan ke Tempat yang Berkah
 
@@ -1116,11 +1118,11 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 [^021_113]: Rasulullah (saw) diperintahkan untuk memanjatkan doa yang tersebut dalam ayat ini sebagai perlindungan terhadap kekuatan-kekuatan buruk yang akan dilepaskan ke dunia di akhir zaman dalam bentuk Ya’jūj dan Ma’jūj . Ternyata dari Bibel, bahwa di masa Ya’jūj dan Ma’jūj , kekuatan fisik tidak akan merupakan satu-satunya bahaya bagi Islam. Ada faktor-faktor lain yang akan merupakan sumber bahaya yang jauh lebih besar bagi Islam. Boleh jadi juga dalam ayat ini Rasulullah (saw) dilukiskan berdoa, supaya masa pendudukan Palestina oleh orang-orang Yahudi menjadi sependek mungkin; dan tanah itu dapat kembali kepada pewaris-pewarisnya yang sah, ialah orang-orang Islam.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1NTQwMzI4OSwtODk0NjI4NjQ1LC01NT
-Q1OTgyNTQsMzQwNzYwNDcwLDEwNDg3MjE3MTAsMTg2MDQyNjI2
-MCwxNDA5MjIzNzkzLDE1NzQ2MTMxNjksLTE0MzI1NTYzMTcsOD
-YwMDY0NjE2LC0xMTI3ODU3MDg1LC0xMjY0MDgyNzMsMTQ2MzU1
-MDU4OCwtMjAxNzg2MDA3NywxMDcxMTg0MjcsLTQ0NzI3MTk2MS
-wtMTEyNTQ4ODg1MCwyMjA0MDMwNzgsLTYxMzYxODExNiwtMTk3
-NzE2NTQwOV19
+eyJoaXN0b3J5IjpbLTMzMTM1ODk4MiwxMzU1NDAzMjg5LC04OT
+Q2Mjg2NDUsLTU1NDU5ODI1NCwzNDA3NjA0NzAsMTA0ODcyMTcx
+MCwxODYwNDI2MjYwLDE0MDkyMjM3OTMsMTU3NDYxMzE2OSwtMT
+QzMjU1NjMxNyw4NjAwNjQ2MTYsLTExMjc4NTcwODUsLTEyNjQw
+ODI3MywxNDYzNTUwNTg4LC0yMDE3ODYwMDc3LDEwNzExODQyNy
+wtNDQ3MjcxOTYxLC0xMTI1NDg4ODUwLDIyMDQwMzA3OCwtNjEz
+NjE4MTE2XX0=
 -->
