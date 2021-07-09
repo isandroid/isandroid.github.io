@@ -1122,12 +1122,14 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 [^023_027_keterangan]: Doa ini dipanjatkan oleh Nabi Nuh (as).
 
 [^023_030_keterangan]: Doa ini dipanjatkan oleh Nabi Nuh (as) atau kaumnya yang telah selamat dari banjir. Mereka hampir sampai kepada tempat yang dikehendaki Allah Ta'ala untuk berlabuh.
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTY3OTcwMTc2LDEzNTU0MDMyODksLTg5ND
-YyODY0NSwtNTU0NTk4MjU0LDM0MDc2MDQ3MCwxMDQ4NzIxNzEw
-LDE4NjA0MjYyNjAsMTQwOTIyMzc5MywxNTc0NjEzMTY5LC0xND
-MyNTU2MzE3LDg2MDA2NDYxNiwtMTEyNzg1NzA4NSwtMTI2NDA4
-MjczLDE0NjM1NTA1ODgsLTIwMTc4NjAwNzcsMTA3MTE4NDI3LC
-00NDcyNzE5NjEsLTExMjU0ODg4NTAsMjIwNDAzMDc4LC02MTM2
-MTgxMTZdfQ==
+eyJoaXN0b3J5IjpbMTI3NjE1NTQ4NCwxMzU1NDAzMjg5LC04OT
+Q2Mjg2NDUsLTU1NDU5ODI1NCwzNDA3NjA0NzAsMTA0ODcyMTcx
+MCwxODYwNDI2MjYwLDE0MDkyMjM3OTMsMTU3NDYxMzE2OSwtMT
+QzMjU1NjMxNyw4NjAwNjQ2MTYsLTExMjc4NTcwODUsLTEyNjQw
+ODI3MywxNDYzNTUwNTg4LC0yMDE3ODYwMDc3LDEwNzExODQyNy
+wtNDQ3MjcxOTYxLC0xMTI1NDg4ODUwLDIyMDQwMzA3OCwtNjEz
+NjE4MTE2XX0=
 -->
