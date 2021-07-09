@@ -814,6 +814,12 @@ Dan janganlah hinakan aku pada hari ketika mereka akan dibangkitkan lagi, [[^026
 وَقِہِمُ السَّیِّاٰتِ ۚ وَمَنۡ تَقِ السَّیِّاٰتِ یَوۡمَئِذٍ فَقَدۡ رَحِمۡتَہٗ ۚ وَذٰلِکَ ہُوَ الۡفَوۡزُ الۡعَظِیۡمُ
 </p>
 
+“Wahai Tuhan kami! Engkau meliputi segala sesuatu dengan rahmat dan ilmu. Maka ampunilah orang-orang yang bertobat dan mengikuti jalan Engkau, dan lindungilah mereka dari azab Jahanam."
+
+"Wahai Tuhan kami! Masukkanlah mereka ke dalam surgasurga abadi yang telah Engkau janjikan kepada mereka, dan begitu pula a orang-orang yang berbuat baik dari bapak-bapak mereka, istri-istri mereka2596 dan keturunan-keturunan mereka. Sesungguhnya Engkau adalah yang Mahaperkasa, Mahabijaksana."
+
+Dan lindungilah mereka dari segala keburukan. b Dan barangsiapa Engkau pelihara dari keburukan-keburukan pada Hari itu, sesungguhnya Engkau telah mengasihinya. Dan yang demikian itu suatu kemenangan yang besar.
+
 (QS Al-Mu-min [40]:[8](https://openquran.com/40:8), [9](https://openquran.com/40:9), [10](https://openquran.com/40:10))
 
 ### 70. Doa Menyerahkan Segala Pekerjaan kepada Allah 
@@ -1179,11 +1185,11 @@ Dan janganlah hinakan aku pada hari ketika mereka akan dibangkitkan lagi, [[^026
 [^038_036_keterangan]: Doa ini dipanjatkan oleh Nabi Sulaiman (as)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ2ODQ2ODc1OSwtMjExNDMyMDk5NiwtMT
-QxNTQ2MTUwMiwtMzg5MTA0OTA4LDk4NDc4MTU3MCw1NDIzMjcw
-MTQsNTYyODk5MzQ2LDE4NDIxOTcwNTIsLTUyMzUxMzE2NCwxMz
-U1NDAzMjg5LC04OTQ2Mjg2NDUsLTU1NDU5ODI1NCwzNDA3NjA0
-NzAsMTA0ODcyMTcxMCwxODYwNDI2MjYwLDE0MDkyMjM3OTMsMT
-U3NDYxMzE2OSwtMTQzMjU1NjMxNyw4NjAwNjQ2MTYsLTExMjc4
-NTcwODVdfQ==
+eyJoaXN0b3J5IjpbLTE0Njk5NTY2MTgsLTIxMTQzMjA5OTYsLT
+E0MTU0NjE1MDIsLTM4OTEwNDkwOCw5ODQ3ODE1NzAsNTQyMzI3
+MDE0LDU2Mjg5OTM0NiwxODQyMTk3MDUyLC01MjM1MTMxNjQsMT
+M1NTQwMzI4OSwtODk0NjI4NjQ1LC01NTQ1OTgyNTQsMzQwNzYw
+NDcwLDEwNDg3MjE3MTAsMTg2MDQyNjI2MCwxNDA5MjIzNzkzLD
+E1NzQ2MTMxNjksLTE0MzI1NTYzMTcsODYwMDY0NjE2LC0xMTI3
+ODU3MDg1XX0=
 -->
