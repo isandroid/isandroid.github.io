@@ -678,7 +678,13 @@ Wahai Tuhan kami, janganlah Engkau bengkokkan hati kami setelah Engkau memberi k
 
 Wahai Tuhan-ku! Anugerahkanlah kepadaku kebijaksanaan dan gabungkanlah aku bersama orang-orang yang saleh;
 
+Dan jadikanlah aku buah tutur yang baik di antara orangorang yang datang kemudian;
 
+Dan jadikanlah aku termasuk ahli waris surga yang penuh kenikmatan,
+
+Dan ampunilah ayahku; sesungguhnya ia termasuk orang-orang yang sesat,
+
+Dan janganlah hinakan aku pada hari ketika mereka akan dibangkitkan lagi,
 
 (QS Asy-Syu'araa [26]: [84](https://openquran.com/26:84), [85](https://openquran.com/26:85), [86](https://openquran.com/26:86), [87](https://openquran.com/26:87), [88](https://openquran.com/26:88))
 
@@ -1140,11 +1146,11 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 [^023_098]: Kata-kata “Syaitān” menunjuk kepada orang-orang terkemuka di antara musuh-musuh Rasulullah Saw dan kata “hasutan-hasutan” maksudnya gerakan untuk memburuk-burukkan dan memfitnah, yang dengan itu mereka berusaha menghasut orang-orang untuk melawan beliau.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4ODk5ODc2OCwtNTIzNTEzMTY0LDEzNT
-U0MDMyODksLTg5NDYyODY0NSwtNTU0NTk4MjU0LDM0MDc2MDQ3
-MCwxMDQ4NzIxNzEwLDE4NjA0MjYyNjAsMTQwOTIyMzc5MywxNT
-c0NjEzMTY5LC0xNDMyNTU2MzE3LDg2MDA2NDYxNiwtMTEyNzg1
-NzA4NSwtMTI2NDA4MjczLDE0NjM1NTA1ODgsLTIwMTc4NjAwNz
-csMTA3MTE4NDI3LC00NDcyNzE5NjEsLTExMjU0ODg4NTAsMjIw
-NDAzMDc4XX0=
+eyJoaXN0b3J5IjpbLTExNTk0MjY3MDUsLTUyMzUxMzE2NCwxMz
+U1NDAzMjg5LC04OTQ2Mjg2NDUsLTU1NDU5ODI1NCwzNDA3NjA0
+NzAsMTA0ODcyMTcxMCwxODYwNDI2MjYwLDE0MDkyMjM3OTMsMT
+U3NDYxMzE2OSwtMTQzMjU1NjMxNyw4NjAwNjQ2MTYsLTExMjc4
+NTcwODUsLTEyNjQwODI3MywxNDYzNTUwNTg4LC0yMDE3ODYwMD
+c3LDEwNzExODQyNywtNDQ3MjcxOTYxLC0xMTI1NDg4ODUwLDIy
+MDQwMzA3OF19
 -->
