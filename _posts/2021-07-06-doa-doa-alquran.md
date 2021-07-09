@@ -884,9 +884,7 @@ Dan janganlah hinakan aku pada hari ketika mereka akan dibangkitkan lagi, [[^026
 
 “Wahai Tuhan kami, kepada Engkau kami bertawakkal dan kepada Engkau kami tunduk dan kepada Engkau kami akan kembali.”
 
-
-
-(QS Al-Mumtahinah [60]:[5](https://openquran.com/60:5)-[6](https://openquran.com/60:6))
+“Wahai Tuhan kami, janganlah Engkau menjadikan kami fitnah bagi orang-orang yang ingkar, dan ampunilah kami wahai Tuhan kami; karena sesungguhnya Engkau Mahaperkasa, Mahabijaksana.” (QS Al-Mumtahinah [60]:[5](https://openquran.com/60:5)-[6](https://openquran.com/60:6))
 
 ### 76. Doa Memohon Kesempurnaan Karunia Tuhan 
 
@@ -1205,11 +1203,11 @@ Dan janganlah hinakan aku pada hari ketika mereka akan dibangkitkan lagi, [[^026
 [^046_016_keterangan]: Doa ini dipanjatkan oleh orang yang berumur 40 tahun. Doa ini dipanjatkan sebagai rasa syukur terhadap nikmat dari Allah Ta'ala yakni ia mendapatkan asuhan orang tua yang baik.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyOTY1NDE3MCwtMjExNDMyMDk5NiwtMT
-QxNTQ2MTUwMiwtMzg5MTA0OTA4LDk4NDc4MTU3MCw1NDIzMjcw
-MTQsNTYyODk5MzQ2LDE4NDIxOTcwNTIsLTUyMzUxMzE2NCwxMz
-U1NDAzMjg5LC04OTQ2Mjg2NDUsLTU1NDU5ODI1NCwzNDA3NjA0
-NzAsMTA0ODcyMTcxMCwxODYwNDI2MjYwLDE0MDkyMjM3OTMsMT
-U3NDYxMzE2OSwtMTQzMjU1NjMxNyw4NjAwNjQ2MTYsLTExMjc4
-NTcwODVdfQ==
+eyJoaXN0b3J5IjpbODMzODE2NDQzLC0yMTE0MzIwOTk2LC0xND
+E1NDYxNTAyLC0zODkxMDQ5MDgsOTg0NzgxNTcwLDU0MjMyNzAx
+NCw1NjI4OTkzNDYsMTg0MjE5NzA1MiwtNTIzNTEzMTY0LDEzNT
+U0MDMyODksLTg5NDYyODY0NSwtNTU0NTk4MjU0LDM0MDc2MDQ3
+MCwxMDQ4NzIxNzEwLDE4NjA0MjYyNjAsMTQwOTIyMzc5MywxNT
+c0NjEzMTY5LC0xNDMyNTU2MzE3LDg2MDA2NDYxNiwtMTEyNzg1
+NzA4NV19
 -->
