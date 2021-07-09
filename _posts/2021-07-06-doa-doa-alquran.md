@@ -742,7 +742,11 @@ Dan janganlah hinakan aku pada hari ketika mereka akan dibangkitkan lagi, [[^026
 رَبِّ اِنِّیۡ ظَلَمۡتُ نَفۡسِیۡ فَاغۡفِرۡ لِیۡ
 </p>
 
-“Wahai Tuhanku! aku telah berbuat aniaya terhadap diriku, maka ampunilah aku,” ([QS Al-Qoshosh [28]:17](https://openquran.com/28:17))
+“Wahai Tuhanku! aku telah berbuat aniaya terhadap diriku, maka ampunilah aku,” [[^028_017]] ([QS Al-Qoshosh [28]:17](https://openquran.com/28:17)) [[^028_017_keterangan]]
+
+[^028_017]:
+
+[^028_017_keterangan]:
 
 ### 62. Doa Agar Terhindar dari Bagian Orang-orang yang Berdosa
 
@@ -1165,7 +1169,7 @@ Dan janganlah hinakan aku pada hari ketika mereka akan dibangkitkan lagi, [[^026
 
 [^027_045_keterangan]: Doa ini dipanjatkan oleh Rastu Saba yang terkagum-kagum dengan kerajaan yang dianugerahkan Allah Ta'ala kepada Nabi Sulaiman (as)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc1MDIyMTMxNCw1NjI4OTkzNDYsMTg0Mj
+eyJoaXN0b3J5IjpbMTkyMzU0OTI5Miw1NjI4OTkzNDYsMTg0Mj
 E5NzA1MiwtNTIzNTEzMTY0LDEzNTU0MDMyODksLTg5NDYyODY0
 NSwtNTU0NTk4MjU0LDM0MDc2MDQ3MCwxMDQ4NzIxNzEwLDE4Nj
 A0MjYyNjAsMTQwOTIyMzc5MywxNTc0NjEzMTY5LC0xNDMyNTU2
