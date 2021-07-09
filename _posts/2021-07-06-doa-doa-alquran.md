@@ -540,9 +540,7 @@ Wahai Tuhan kami, janganlah Engkau bengkokkan hati kami setelah Engkau memberi k
  اَنِّیۡ مَسَّنِیَ الضُّرُّ وَاَنۡتَ اَرۡحَمُ الرّٰحِمِیۡنَ
 </p>
 
-“Sesungguh-nya aku ditimpa kesusahan, dan Engkaulah yang paling Penyayang di antara semua penyayang.” ([QS Al-Anbiyaa [21]:84](https://openquran.com/21:84)) [[^021_084_keterangan]]
-
-[^021_084_keterangan]: Doa ini dipanjatkan oleh Nabi Ayyub (as)
+“Sesungguh-nya aku ditimpa kesusahan, dan Engkaulah yang paling Penyayang di antara semua penyayang.” [[^021_084]] ([QS Al-Anbiyaa [21]:84](https://openquran.com/21:84)) [[^021_084_keterangan]]
 
 ### 44. Doa Mengakui Kesucian Allah dan Mengaku Diri Sendiri Bersalah
 
@@ -1104,12 +1102,16 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 [^020_030_036_keterangan]: Ini adalah doa yang dipanjatkan oleh Nabi Musa (as) ketika diperintah Allah Ta'ala menghadapi Raja Firaun.
 
 [^020_115]: Rasulullah Saw diriwayatkan pernah bersabda, “Carilah ilmu walaupun sampai ke negeri Cina.” (Shagir, jilid I). Di tempat lain dalam Al-Qur’an ilmu telah dilukiskan sebagai “Karunia Allah yang sangat besar” (QS.2:270 dan QS.4:114). Ilmu itu ada dua macam: (a) ilmu yang dianugerahkan kepada manusia dengan perantaraan wahyu dan yang telah mencapai kesempurnaan dalam wujud Al-Qur’an. (b) Ilmu yang didapatkan oleh manusia dengan usaha dan jerih-payahnya sendiri.
+
+[^021_084]: Nabi Ayyub As telah disebut dalam Bibel pernah tinggal di negeri ‘Uz yang agaknya terletak di suatu tempat di bagian utara Arabia, di antara Siria dan Teluk Aqabah. Konon disebutkan, bahwa Ayyub As bermukim di sana sebelum keberangkatan Bani Israil dari Mesir. Menurut sementara pengarang Yahudi, beliau hidup kurang lebih dua ratus tahun sebelum Musa As Menurut beberapa sumber lain beliau setanah air dengan Musa As, tetapi bukan seorang nabi Israili, dan bukan dari keturunan Essau, kakak lelaki Yakub As. Di antara semua kitab Perjanjian Lama, Kitab Ayyub mempunyai kekhususan dalam hal ini, bahwa – kecuali kata Yehovah, yang merupakan nama Tuhan menurut agama Yahudi, di dalamnya sejarah hukum syariat Musa As dan sejarah orang-orang Yahudi nyata sekali, tidak disebut-sebut. Al-Qur’an telah membatasi diri dengan hanya menyebutkan beberapa kenyataan saja yang bertalian dengan Ayyub As dalam ayat ini dan ayat berikutnya. Al-Qur’an menyatakan, bahwa ia seorang hamba Allah yang suci, dan bahwa beliau telah mengalami kesulitan-kesulitan dan kemalangan-kemalangan besar sebab itu, ia menjadi terpisah dari keluarga; dan pengikutnya yang di masa kemudian dapat bergabung dengan beliau dan sementara itu telah bertambah lipat ganda banyaknya. Ayyub As telah disebut-sebut dalam QS. 4: 164; 6: 85 dan QS.38: 42 bersama-sama dengan Daud As dan Sulaiman As. Hal ini menunjukkan, bahwa seperti kedua nabi besar tersebut, ia adalah seorang yang berpengaruh dan berkelimpahan, dan seperti mereka, ia pun harus melalui cobaan-cobaan dan kemalangan-kemalangan yang ditanggungnya dengan kesabaran dan ketabahan yang patut dicontoh. Keberanian dan ketabahan yang diperlihatkan Ayyub As di bawah kesusahan dan kemalangan yang sangat hebat itu, telah menjadi peribahasa. Lihat pula Jew. Enc. pada kata “Job” dan Enc. of Islam pada kata “Aiyub.”
+
+[^021_084_keterangan]: Doa ini dipanjatkan oleh Nabi Ayyub (as)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDgzMDE1Mjk4LC01NTQ1OTgyNTQsMzQwNz
-YwNDcwLDEwNDg3MjE3MTAsMTg2MDQyNjI2MCwxNDA5MjIzNzkz
-LDE1NzQ2MTMxNjksLTE0MzI1NTYzMTcsODYwMDY0NjE2LC0xMT
-I3ODU3MDg1LC0xMjY0MDgyNzMsMTQ2MzU1MDU4OCwtMjAxNzg2
-MDA3NywxMDcxMTg0MjcsLTQ0NzI3MTk2MSwtMTEyNTQ4ODg1MC
-wyMjA0MDMwNzgsLTYxMzYxODExNiwtMTk3NzE2NTQwOSwxNzQ1
-ODk3OTE3XX0=
+eyJoaXN0b3J5IjpbLTg5NDYyODY0NSwtNTU0NTk4MjU0LDM0MD
+c2MDQ3MCwxMDQ4NzIxNzEwLDE4NjA0MjYyNjAsMTQwOTIyMzc5
+MywxNTc0NjEzMTY5LC0xNDMyNTU2MzE3LDg2MDA2NDYxNiwtMT
+EyNzg1NzA4NSwtMTI2NDA4MjczLDE0NjM1NTA1ODgsLTIwMTc4
+NjAwNzcsMTA3MTE4NDI3LC00NDcyNzE5NjEsLTExMjU0ODg4NT
+AsMjIwNDAzMDc4LC02MTM2MTgxMTYsLTE5NzcxNjU0MDksMTc0
+NTg5NzkxN119
 -->
