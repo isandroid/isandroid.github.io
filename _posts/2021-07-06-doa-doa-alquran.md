@@ -994,13 +994,15 @@ Maka aku berkata, “Mohonlah ampun kepada Tuhanmu. Sesungguhnya Dia Maha Pengam
 
 “Wahai Tuhan-ku! Janganlah engkau membiarkan seorang pun dari orang-orang kafir tinggal di atas bumi,”
 
-“Sesungguhnya, jika Engkau membiarkan mereka, mereka akan menyesatkan hamba-hamba Engkau, dan tidak ada yang akan mereka lahirkan selain orang-orang berdosa *dan* orang-orang kafir.” [^071_]
+“Sesungguhnya, jika Engkau membiarkan mereka, mereka akan menyesatkan hamba-hamba Engkau, dan tidak ada yang akan mereka lahirkan selain orang-orang berdosa *dan* orang-orang kafir.” [^071_028]
 
 ”Wahai Tuhan-ku! Ampunilah aku dan ibu-bapakku, dan bagi orang-orang yang memasuki rumahku sebagai mukmin, dan bagi laki-laki mukmin dan perempuan mukmin. Dan Engkau tidak menambah kepada orang-orang yang aniaya kecuali kebinasaan.”
 
 (QS Nuuh [71]: [27](https://openquran.com/71:27), [28](https://openquran.com/71:28), [29](https://openquran.com/71:29))
 
-“Wahai Tuhanku, sesungguhnya aku telah mengajak kaumku di waktu malam dan siang,”
+[^071_028]: Ayat 27-28: Latar belakang doa buruk Nabi Nuh As terhadap kaumnya, adalah karena Allah Ta’ala telah memperingatkan beliau As bahwa sekarang kaum ini atau keturunannya tidak akan pernah beriman. Nabi Nuh As secara pribadi tidak dapat mengetahui hal ini. Pastinya setelah mendapat ilmu dari Allah Ta’ala Nabi Nuh As, terpaksa berdoa buruk bagi kaumnya.
+
+
 
 ### 80. Doa Memohon Perlindungan I
 
@@ -1238,7 +1240,7 @@ Maka aku berkata, “Mohonlah ampun kepada Tuhanmu. Sesungguhnya Dia Maha Pengam
 
 [^071_010]: Nabi Nuh (as) menggunakan segala sarana yang ada pada dirinya untuk membuat kaumnya mau mendengarkan Amanat Ilahi. Tetapi kaumnya sama-sama bertekad untuk tidak menghiraukan Amanat.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyNzMzNDA1MywxMTA4NjY5NDA4LC0yMT
+eyJoaXN0b3J5IjpbMTE1Nzg5NTQ0NCwxMTA4NjY5NDA4LC0yMT
 E0MzIwOTk2LC0xNDE1NDYxNTAyLC0zODkxMDQ5MDgsOTg0Nzgx
 NTcwLDU0MjMyNzAxNCw1NjI4OTkzNDYsMTg0MjE5NzA1MiwtNT
 IzNTEzMTY0LDEzNTU0MDMyODksLTg5NDYyODY0NSwtNTU0NTk4
