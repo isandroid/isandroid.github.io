@@ -558,8 +558,6 @@ Wahai Tuhan kami, janganlah Engkau bengkokkan hati kami setelah Engkau memberi k
 
 “Wahai Tuhan! Janganlah Engkau tinggalkan aku seorang diri, dan Engkau-lah sebaik-baik Ahli Waris.” ([QS Al-Anbiyaa [21]:90](https://openquran.com/21:90)) [[^021_090_keterangan]]
 
-[^021_090_keterangan]: Doa ini dipanjatkan oleh Nabi Zakaria (as) 
-
 ### 46. Doa Memohon Keputusan
 
 <p class="quran">
@@ -1112,8 +1110,11 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 [^021_088]: Ketika Nabi Yunus As melihat, bahwa nubuatan tentang kehancuran kaumnya tidak sempurna – karena beliau tidak tahu, bahwa nubuatan kehancuran bisa dibatalkan dengan penyesalan (tobat) kepada Allah Swt – maka beliau pergi ke laut dengan perasaan marah. Di sana beliau ditelan oleh ikan paus, kemudian dimuntahkan dalam keadaan hidup. Dalam keadaan gelap ini, beliau berdoa : Ya Allah, selain Engkau tiada tuhan lain. Engkau Mahasuci dan saya betul-betul termasuk orang yang aniaya.
 
 [^021_088_keterangan]: Doa ini disampaikan oleh Dzun Nun, yakni julukan dari Nabi Yunus (as) ketika ada di dalam perut Ikan. Sebagai bentuk pengabulannya, beliau diselamatkan Allah Ta'ala dan kembali kepada kaumnya.  
+
+[^021_090_keterangan]: Doa ini dipanjatkan oleh Nabi Zakaria (as). Bentuk pengabulan doa ini, beliau mendapatkan keturunan, yakni Nabi Yahya (as). Lihat ([QS Al-Anbiyaa [21]:91](https://openquran.com/21:91))
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDc1Mzc1NTAsLTg5NDYyODY0NSwtNT
+eyJoaXN0b3J5IjpbLTE0ODE0MjgzODUsLTg5NDYyODY0NSwtNT
 U0NTk4MjU0LDM0MDc2MDQ3MCwxMDQ4NzIxNzEwLDE4NjA0MjYy
 NjAsMTQwOTIyMzc5MywxNTc0NjEzMTY5LC0xNDMyNTU2MzE3LD
 g2MDA2NDYxNiwtMTEyNzg1NzA4NSwtMTI2NDA4MjczLDE0NjM1
