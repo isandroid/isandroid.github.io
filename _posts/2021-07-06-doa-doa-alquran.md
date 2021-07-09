@@ -1000,10 +1000,6 @@ Maka aku berkata, “Mohonlah ampun kepada Tuhanmu. Sesungguhnya Dia Maha Pengam
 
 (QS Nuuh [71]: [27](https://openquran.com/71:27), [28](https://openquran.com/71:28), [29](https://openquran.com/71:29))
 
-[^071_028]: Ayat 27-28: Latar belakang doa buruk Nabi Nuh As terhadap kaumnya, adalah karena Allah Ta’ala telah memperingatkan beliau As bahwa sekarang kaum ini atau keturunannya tidak akan pernah beriman. Nabi Nuh As secara pribadi tidak dapat mengetahui hal ini. Pastinya setelah mendapat ilmu dari Allah Ta’ala Nabi Nuh As, terpaksa berdoa buruk bagi kaumnya.
-
-[^071_029]: Nabi-nabi Allah sarat dengan nilai-nilai kebajikan manusiawi. Doa Nabi Nuh As menunjukkan bahwa perlawanan terhadapnya tentu berlangsung sangat lama, gigih, dan tidak kunjung berkurang, dan bahwa segala usaha membawa kaumnya kepada jalan lurus telah kandas dan gagal serta tidak ada kemungkinan yang tinggal untuk penambahan lebih lanjut jumlah pengikut yang kecil itu, dan pula bahwa para penentangnya telah melampaui batas-batas yang wajar dalam menentang dan menganiaya ia dengan para pengikutnya, dan dalam berkecimpung di dalam perbuatan-perbuatan jahat. Keadaan telah begitu jauh sehingga seorang yang begitu berpembawaan kasih sayang seperti Nabi Nuh As terpaksa berdoa buruk untuk kaumnya. Dalam keadaan yang sama, sikap Rasulullah Saw terhadap para penentang beliau menunjukkan perbedaan yang sangat mencolok. Dalam pertempuran Uhud, ketika dua buah gigi beliau patah dan beliau terluka parah serta darah beliau mengucur dengan derasnya, kata-kata yang keluar dari mulut beliau hanyalah, “betapa suatu kaum akan memperoleh keselamatan, sedang mereka telah melukai nabi mereka dan melumuri mukanya dengan darah, karena kesalahan yang tidak lain selain ia telah mengajak mereka kepada Tuhan. Ya, Tuhan-ku! Ampunilah kiranya kaumku ini, sebab mereka tidak mengetahui apa yang mereka perbuat” (Zurqani dan Hisyam)
-
 ### 80. Doa Memohon Perlindungan I
 
 <p class="quran">
@@ -1029,6 +1025,8 @@ Maka aku berkata, “Mohonlah ampun kepada Tuhanmu. Sesungguhnya Dia Maha Pengam
 <p class="quran">
 وَمِنۡ شَرِّ حَاسِدٍ اِذَا حَسَدَ
 </p>
+
+
 
 ([QS Al-Falaq [113]](https://openquran.com/113))
 
@@ -1239,12 +1237,16 @@ Maka aku berkata, “Mohonlah ampun kepada Tuhanmu. Sesungguhnya Dia Maha Pengam
 [^066_012_keterangan]: Doa ini adalah doa yang dipanjatkan oleh orang Mukmin yang dimisalkan seperti istri Fir'aun.
 
 [^071_010]: Nabi Nuh (as) menggunakan segala sarana yang ada pada dirinya untuk membuat kaumnya mau mendengarkan Amanat Ilahi. Tetapi kaumnya sama-sama bertekad untuk tidak menghiraukan Amanat.
+
+[^071_028]: Ayat 27-28: Latar belakang doa buruk Nabi Nuh As terhadap kaumnya, adalah karena Allah Ta’ala telah memperingatkan beliau As bahwa sekarang kaum ini atau keturunannya tidak akan pernah beriman. Nabi Nuh As secara pribadi tidak dapat mengetahui hal ini. Pastinya setelah mendapat ilmu dari Allah Ta’ala Nabi Nuh As, terpaksa berdoa buruk bagi kaumnya.
+
+[^071_029]: Nabi-nabi Allah sarat dengan nilai-nilai kebajikan manusiawi. Doa Nabi Nuh As menunjukkan bahwa perlawanan terhadapnya tentu berlangsung sangat lama, gigih, dan tidak kunjung berkurang, dan bahwa segala usaha membawa kaumnya kepada jalan lurus telah kandas dan gagal serta tidak ada kemungkinan yang tinggal untuk penambahan lebih lanjut jumlah pengikut yang kecil itu, dan pula bahwa para penentangnya telah melampaui batas-batas yang wajar dalam menentang dan menganiaya ia dengan para pengikutnya, dan dalam berkecimpung di dalam perbuatan-perbuatan jahat. Keadaan telah begitu jauh sehingga seorang yang begitu berpembawaan kasih sayang seperti Nabi Nuh As terpaksa berdoa buruk untuk kaumnya. Dalam keadaan yang sama, sikap Rasulullah Saw terhadap para penentang beliau menunjukkan perbedaan yang sangat mencolok. Dalam pertempuran Uhud, ketika dua buah gigi beliau patah dan beliau terluka parah serta darah beliau mengucur dengan derasnya, kata-kata yang keluar dari mulut beliau hanyalah, “betapa suatu kaum akan memperoleh keselamatan, sedang mereka telah melukai nabi mereka dan melumuri mukanya dengan darah, karena kesalahan yang tidak lain selain ia telah mengajak mereka kepada Tuhan. Ya, Tuhan-ku! Ampunilah kiranya kaumku ini, sebab mereka tidak mengetahui apa yang mereka perbuat” (Zurqani dan Hisyam)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzkxMDQzNCwxMTA4NjY5NDA4LC0yMTE0Mz
-IwOTk2LC0xNDE1NDYxNTAyLC0zODkxMDQ5MDgsOTg0NzgxNTcw
-LDU0MjMyNzAxNCw1NjI4OTkzNDYsMTg0MjE5NzA1MiwtNTIzNT
-EzMTY0LDEzNTU0MDMyODksLTg5NDYyODY0NSwtNTU0NTk4MjU0
-LDM0MDc2MDQ3MCwxMDQ4NzIxNzEwLDE4NjA0MjYyNjAsMTQwOT
-IyMzc5MywxNTc0NjEzMTY5LC0xNDMyNTU2MzE3LDg2MDA2NDYx
-Nl19
+eyJoaXN0b3J5IjpbLTEzNDQ2NzQxMDYsMTEwODY2OTQwOCwtMj
+ExNDMyMDk5NiwtMTQxNTQ2MTUwMiwtMzg5MTA0OTA4LDk4NDc4
+MTU3MCw1NDIzMjcwMTQsNTYyODk5MzQ2LDE4NDIxOTcwNTIsLT
+UyMzUxMzE2NCwxMzU1NDAzMjg5LC04OTQ2Mjg2NDUsLTU1NDU5
+ODI1NCwzNDA3NjA0NzAsMTA0ODcyMTcxMCwxODYwNDI2MjYwLD
+E0MDkyMjM3OTMsMTU3NDYxMzE2OSwtMTQzMjU1NjMxNyw4NjAw
+NjQ2MTZdfQ==
 -->
