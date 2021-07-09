@@ -652,7 +652,7 @@ Wahai Tuhan kami, janganlah Engkau bengkokkan hati kami setelah Engkau memberi k
  رَبَّنَا ہَبۡ لَنَا مِنۡ اَزۡوٰجِنَا وَذُرِّیّٰتِنَا قُرَّۃَ اَعۡیُنٍ وَّاجۡعَلۡنَا لِلۡمُتَّقِیۡنَ اِمَامًا
 </p>
 
-([QS Al-Furqan [25]:75](https://openquran.com/25:75))
+“Wahai Tuhan kami! Anugerahkanlah kepada kami dari istri-istri kami dan keturunan kami penyejuk mata kami; dan jadikanlah kami imam bagi orang-orang yang bertakwa.” ([QS Al-Furqan [25]:75](https://openquran.com/25:75))
 
 ### 55. Doa Memohon Dimasukkan ke dalam Golongan Orang-orang yang Saleh dan Doa untuk Ibu-Bapak 
 
@@ -675,6 +675,10 @@ Wahai Tuhan kami, janganlah Engkau bengkokkan hati kami setelah Engkau memberi k
 <p class="quran">
 وَلَا تُخۡزِنِیۡ یَوۡمَ یُبۡعَثُوۡنَ
 </p>
+
+Wahai Tuhan-ku! Anugerahkanlah kepadaku kebijaksanaan dan gabungkanlah aku bersama orang-orang yang saleh;
+
+
 
 (QS Asy-Syu'araa [26]: [84](https://openquran.com/26:84), [85](https://openquran.com/26:85), [86](https://openquran.com/26:86), [87](https://openquran.com/26:87), [88](https://openquran.com/26:88))
 
@@ -1136,7 +1140,7 @@ Keterangan: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 [^023_098]: Kata-kata “Syaitān” menunjuk kepada orang-orang terkemuka di antara musuh-musuh Rasulullah Saw dan kata “hasutan-hasutan” maksudnya gerakan untuk memburuk-burukkan dan memfitnah, yang dengan itu mereka berusaha menghasut orang-orang untuk melawan beliau.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0MzI1Nzc3NSwtNTIzNTEzMTY0LDEzNT
+eyJoaXN0b3J5IjpbLTQ4ODk5ODc2OCwtNTIzNTEzMTY0LDEzNT
 U0MDMyODksLTg5NDYyODY0NSwtNTU0NTk4MjU0LDM0MDc2MDQ3
 MCwxMDQ4NzIxNzEwLDE4NjA0MjYyNjAsMTQwOTIyMzc5MywxNT
 c0NjEzMTY5LC0xNDMyNTU2MzE3LDg2MDA2NDYxNiwtMTEyNzg1
