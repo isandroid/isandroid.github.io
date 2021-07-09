@@ -746,7 +746,7 @@ Dan janganlah hinakan aku pada hari ketika mereka akan dibangkitkan lagi, [[^026
 
 [^028_017]: *Zalamūhu* berarti, ia meletakkan atas pundak orang lain suatu beban yang melewati batas kekuatan atau kemampuannya untuk memikul; ia membiarkan dirinya menjadi sasaran bahaya (Lane & Mufradat). Nabi Musa As menginsyafi, bahwa dalam usaha membela seorang orang Israil yang malang itu, ia tanpa sengaja telah membunuh orang Mesir itu, dan karenanya telah menempatkan diri dalam bahaya besar dan memikul beban yang nampaknya tidak akan dapat ia pikul. Dengan demikian ia berdoa ke hadirat Ilahi agar melindunginya dari natijah (akibat) buruk, yang boleh jadi timbul dari pembunuhan secara tak sengaja atas seorang warga dari bangsa yang sedang berkuasa.
 
-[^028_017_keterangan]: Doa ini diucapkan oleh Nabi Musa (as) 
+[^028_017_keterangan]: Doa ini diucapkan oleh Nabi Musa (as) setelah secara reflek membela seseorang yang sedang dianiaya. Salah satu penduduk Mesir yang ketika itu berseteru dengan salah satu kaum Yahudi. Nabi Musa (as) 
 
 ### 62. Doa Agar Terhindar dari Bagian Orang-orang yang Berdosa
 
@@ -1169,11 +1169,11 @@ Dan janganlah hinakan aku pada hari ketika mereka akan dibangkitkan lagi, [[^026
 
 [^027_045_keterangan]: Doa ini dipanjatkan oleh Rastu Saba yang terkagum-kagum dengan kerajaan yang dianugerahkan Allah Ta'ala kepada Nabi Sulaiman (as)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQyMzI3MDE0LDU2Mjg5OTM0NiwxODQyMT
-k3MDUyLC01MjM1MTMxNjQsMTM1NTQwMzI4OSwtODk0NjI4NjQ1
-LC01NTQ1OTgyNTQsMzQwNzYwNDcwLDEwNDg3MjE3MTAsMTg2MD
-QyNjI2MCwxNDA5MjIzNzkzLDE1NzQ2MTMxNjksLTE0MzI1NTYz
-MTcsODYwMDY0NjE2LC0xMTI3ODU3MDg1LC0xMjY0MDgyNzMsMT
-Q2MzU1MDU4OCwtMjAxNzg2MDA3NywxMDcxMTg0MjcsLTQ0NzI3
-MTk2MV19
+eyJoaXN0b3J5IjpbLTE1OTExMTMwNzAsNTQyMzI3MDE0LDU2Mj
+g5OTM0NiwxODQyMTk3MDUyLC01MjM1MTMxNjQsMTM1NTQwMzI4
+OSwtODk0NjI4NjQ1LC01NTQ1OTgyNTQsMzQwNzYwNDcwLDEwND
+g3MjE3MTAsMTg2MDQyNjI2MCwxNDA5MjIzNzkzLDE1NzQ2MTMx
+NjksLTE0MzI1NTYzMTcsODYwMDY0NjE2LC0xMTI3ODU3MDg1LC
+0xMjY0MDgyNzMsMTQ2MzU1MDU4OCwtMjAxNzg2MDA3NywxMDcx
+MTg0MjddfQ==
 -->
