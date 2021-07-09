@@ -944,6 +944,10 @@ Dan janganlah hinakan aku pada hari ketika mereka akan dibangkitkan lagi, [[^026
 وَیُمۡدِدۡکُمۡ بِاَمۡوٰلٍ وَّبَنِیۡنَ وَیَجۡعَل لَّکُمۡ جَنّٰتٍ وَّیَجۡعَل لَّکُمۡ اَنۡہٰرًا
 </p>
 
+“Wahai Tuhanku, sesungguhnya aku telah mengajak kaumku di waktu malam dan siang,”
+
+“Maka seruanku tidak menambah mereka, melainkan lari *menjauh.*”
+
 (QS Nuuh [71]: [6](https://openquran.com/71:6), [7](https://openquran.com/71:7), [8](https://openquran.com/71:8), [9](https://openquran.com/71:9), [10](https://openquran.com/71:10), [11](https://openquran.com/71:11), [12](https://openquran.com/71:12), [13](https://openquran.com/71:13))
 
 ---
@@ -1210,7 +1214,7 @@ Dan janganlah hinakan aku pada hari ketika mereka akan dibangkitkan lagi, [[^026
 
 [^066_012_keterangan]: Doa ini adalah doa yang dipanjatkan oleh orang Mukmin yang dimisalkan seperti istri Fir'aun.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjcxMjIyNjg1LDExMDg2Njk0MDgsLTIxMT
+eyJoaXN0b3J5IjpbNzc4Mjc3ODEwLDExMDg2Njk0MDgsLTIxMT
 QzMjA5OTYsLTE0MTU0NjE1MDIsLTM4OTEwNDkwOCw5ODQ3ODE1
 NzAsNTQyMzI3MDE0LDU2Mjg5OTM0NiwxODQyMTk3MDUyLC01Mj
 M1MTMxNjQsMTM1NTQwMzI4OSwtODk0NjI4NjQ1LC01NTQ1OTgy
