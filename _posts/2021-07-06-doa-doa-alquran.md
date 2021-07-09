@@ -782,7 +782,7 @@ Dan janganlah hinakan aku pada hari ketika mereka akan dibangkitkan lagi, [[^026
 رَبِّ انۡصُرۡنِیۡ عَلَی الۡقَوۡمِ الۡمُفۡسِدِیۡنَ
 </p>
 
-([QS Al-'Ankabuut [29]:31](https://openquran.com/29:31))
+“Wahai Tuhan-ku! Tolonglah aku terhadap kaum yang berbuat kerusakan itu! ([QS Al-'Ankabuut [29]:31](https://openquran.com/29:31)) [[^026_170_keterangan]]
 
 ### 67. Doa Nabi Sulaiman (as)
 
@@ -1175,11 +1175,11 @@ Dan janganlah hinakan aku pada hari ketika mereka akan dibangkitkan lagi, [[^026
 [^037_101_keterangan]: Doa ini dipanjatkan oleh Nabi Ibrohim (as). Setelah beliau berdoa, Allah Ta'ala memberikan jawaban, "Maka Kami memberi kabar suka kepadanya tentang seorang anak laki-laki yang lembut hatinya." ([QS Ash-Shooffaat [38]:101](https://openquran.com/38:101))
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM4OTEwNDkwOCw5ODQ3ODE1NzAsNTQyMz
-I3MDE0LDU2Mjg5OTM0NiwxODQyMTk3MDUyLC01MjM1MTMxNjQs
-MTM1NTQwMzI4OSwtODk0NjI4NjQ1LC01NTQ1OTgyNTQsMzQwNz
-YwNDcwLDEwNDg3MjE3MTAsMTg2MDQyNjI2MCwxNDA5MjIzNzkz
-LDE1NzQ2MTMxNjksLTE0MzI1NTYzMTcsODYwMDY0NjE2LC0xMT
-I3ODU3MDg1LC0xMjY0MDgyNzMsMTQ2MzU1MDU4OCwtMjAxNzg2
-MDA3N119
+eyJoaXN0b3J5IjpbLTE3NTY4MzY2MjAsLTM4OTEwNDkwOCw5OD
+Q3ODE1NzAsNTQyMzI3MDE0LDU2Mjg5OTM0NiwxODQyMTk3MDUy
+LC01MjM1MTMxNjQsMTM1NTQwMzI4OSwtODk0NjI4NjQ1LC01NT
+Q1OTgyNTQsMzQwNzYwNDcwLDEwNDg3MjE3MTAsMTg2MDQyNjI2
+MCwxNDA5MjIzNzkzLDE1NzQ2MTMxNjksLTE0MzI1NTYzMTcsOD
+YwMDY0NjE2LC0xMTI3ODU3MDg1LC0xMjY0MDgyNzMsMTQ2MzU1
+MDU4OF19
 -->
