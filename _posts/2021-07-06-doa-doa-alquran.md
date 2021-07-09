@@ -776,8 +776,6 @@ Dan janganlah hinakan aku pada hari ketika mereka akan dibangkitkan lagi, [[^026
 
 “Wahai Tuhan-ku anugerahkanlah kepadaku *anak-anak* yang saleh.” ([QS Ash-Shooffaat [37]:101](https://openquran.com/37:101)) [[^037_101_keterangan]]
 
-Doa ini dipanjatkan oleh Nabi Ibrohim (as). Setelah beliau berdoa, Allah Ta'ala memberikan jawaban, "Maka Kami memberi kabar suka kepadanya tentang seorang anak laki-laki yang lembut hatinya." ()
-
 ### 66. Doa Memohon Pertolongan
 
 <p class="quran">
@@ -1173,12 +1171,15 @@ Doa ini dipanjatkan oleh Nabi Ibrohim (as). Setelah beliau berdoa, Allah Ta'ala 
 [^028_018]: Ayat ini menunjukkan Nabi Musa As seolah-olah berkata, “Ya Tuhanku! Engkau selamanya berbelas kasih kepadaku, maka karena bersyukur atas nikmat Engkau aku berjanji, bahwa aku selamanya akan membela orangorang yang teraniaya, sebagaimana aku pernah lakukan pada kejadian terakhir, dan aku sama sekali tidak akan memihak orang yang zalim.” Atau dapat juga diartikan, “Ya Tuhanku, karena Engkau selamanya baik dan berkasih-sayang kepadaku, bagaimana aku dapat menjadi seorang penolong dan pembela kaum yang teraniaya?”
 
 [^028_022]: QS Al Qoshshos ayat 16-23 : Nampaknya sebelum kenabian beliau, Nabi Musa As biasa jalan-jalan diwaktu subuh. Suatu hari di jalan beliau melihat seorang Israil bertengkar dengan seorang dari kaum Fir’aun. Ketika ia minta tolong kepada Nabi Musa As, beliau memukul orang dari kaum Fir’aun dan ia mati. Pada Subuh berikutnya Nabi Musa As melewati jalan itu lagi. Beliau melihat lagi orang dari kaumnya tengah bertengkar dengan seseorang dari kaum Fir’aun. Ketika Nabi Musa As maju ke depan untuk menolong orang dari kaumnya, maka orangnya Fir’aun bicara dengan pelan, “Apakah engkau akan memperlakukan aku seperti kemarin kamu telah membunuh orang kami ?” Sesudah menerangkan kedua peristiwa itu, ayat berikutnya menjelaskan, bahwa para pemimpin kaum Fir’aun telah memutuskan untuk menghukum mati Musa As. Sebelumnya, seseorang yang tahu telah memberi tahu Musa As tentang itu. Beliau pun pergi dari sana menuju Midian.
+
+[^037_101_keterangan]: Doa ini dipanjatkan oleh Nabi Ibrohim (as). Setelah beliau berdoa, Allah Ta'ala memberikan jawaban, "Maka Kami memberi kabar suka kepadanya tentang seorang anak laki-laki yang lembut hatinya." ([QS Ash-Shooffaat [38]:101](https://openquran.com/38:101))
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjAzMTQzMDMxLDk4NDc4MTU3MCw1NDIzMj
-cwMTQsNTYyODk5MzQ2LDE4NDIxOTcwNTIsLTUyMzUxMzE2NCwx
-MzU1NDAzMjg5LC04OTQ2Mjg2NDUsLTU1NDU5ODI1NCwzNDA3Nj
-A0NzAsMTA0ODcyMTcxMCwxODYwNDI2MjYwLDE0MDkyMjM3OTMs
-MTU3NDYxMzE2OSwtMTQzMjU1NjMxNyw4NjAwNjQ2MTYsLTExMj
-c4NTcwODUsLTEyNjQwODI3MywxNDYzNTUwNTg4LC0yMDE3ODYw
-MDc3XX0=
+eyJoaXN0b3J5IjpbLTM4OTEwNDkwOCw5ODQ3ODE1NzAsNTQyMz
+I3MDE0LDU2Mjg5OTM0NiwxODQyMTk3MDUyLC01MjM1MTMxNjQs
+MTM1NTQwMzI4OSwtODk0NjI4NjQ1LC01NTQ1OTgyNTQsMzQwNz
+YwNDcwLDEwNDg3MjE3MTAsMTg2MDQyNjI2MCwxNDA5MjIzNzkz
+LDE1NzQ2MTMxNjksLTE0MzI1NTYzMTcsODYwMDY0NjE2LC0xMT
+I3ODU3MDg1LC0xMjY0MDgyNzMsMTQ2MzU1MDU4OCwtMjAxNzg2
+MDA3N119
 -->
