@@ -700,9 +700,9 @@ Dan janganlah hinakan aku pada hari ketika mereka akan dibangkitkan lagi, [[^026
 
 “Wahai Tuhan-ku! Sesungguhnya kaumku telah mendustakan aku,"
 
+"Maka berilah keputusan antara aku dan mereka, keputusan yang pasti, dan selamatkanlah aku dan orang-orang mukmin yang ada besertaku.”
 
-
-(QS Asy-Syu'araa [26]: [118](https://openquran.com/26:118)-[119](https://openquran.com/26:119))
+(QS Asy-Syu'araa [26]: [118](https://openquran.com/26:118)-[119](https://openquran.com/26:119)) [[^026_118_119_keterangan]]
 
 ### 57. Doa Memohon Dipelihara dari Tangan Musuh 
 
@@ -710,7 +710,9 @@ Dan janganlah hinakan aku pada hari ketika mereka akan dibangkitkan lagi, [[^026
 رَبِّ نَجِّنِیۡ وَاَہۡلِیۡ مِمَّا یَعۡمَلُوۡنَ
 </p>
 
-([QS Asy-Syu'araa [26]:170](https://openquran.com/26:170))
+“Wahai Tuhan-ku! Selamatkanlah aku dan keluargaku dari apa yang mereka kerjakan.” ([QS Asy-Syu'araa [26]:170](https://openquran.com/26:170))
+
+[^026]
 
 ### 58. Doa Memohon Taufik Agar Menjadi Pribadi yang Bersyukur
 
@@ -1151,10 +1153,11 @@ Dan janganlah hinakan aku pada hari ketika mereka akan dibangkitkan lagi, [[^026
 
 [^026_088]: Kiamat disebut Ba‘ts, sebab sesudah mati, manusia akan dianugerahi kemampuan-kemampuan baru lagi lebih baik; dan akan dibukakan kepadanya jalan-jalan baru untuk kemajuan rohani.
 
-[^026_084_088_keterangan]: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
+[^026_084_088_keterangan]: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as).
 
+[^026_118_119_keterangan]: Doa ini diucapkan oleh Nabi Nuh (as).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxMzYwMDA4OSwxODQyMTk3MDUyLC01Mj
+eyJoaXN0b3J5IjpbLTYzNTQwMzk2MywxODQyMTk3MDUyLC01Mj
 M1MTMxNjQsMTM1NTQwMzI4OSwtODk0NjI4NjQ1LC01NTQ1OTgy
 NTQsMzQwNzYwNDcwLDEwNDg3MjE3MTAsMTg2MDQyNjI2MCwxND
 A5MjIzNzkzLDE1NzQ2MTMxNjksLTE0MzI1NTYzMTcsODYwMDY0
