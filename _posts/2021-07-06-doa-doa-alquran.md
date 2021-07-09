@@ -974,6 +974,8 @@ Dan janganlah hinakan aku pada hari ketika mereka akan dibangkitkan lagi, [[^026
 
 (QS Nuuh [71]: [27](https://openquran.com/71:27), [28](https://openquran.com/71:28), [29](https://openquran.com/71:29))
 
+“Wahai Tuhanku, sesungguhnya aku telah mengajak kaumku di waktu malam dan siang,”
+
 ### 80. Doa Memohon Perlindungan I
 
 <p class="quran">
@@ -1208,11 +1210,11 @@ Dan janganlah hinakan aku pada hari ketika mereka akan dibangkitkan lagi, [[^026
 
 [^066_012_keterangan]: Doa ini adalah doa yang dipanjatkan oleh orang Mukmin yang dimisalkan seperti istri Fir'aun.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEwODY2OTQwOCwtMjExNDMyMDk5NiwtMT
-QxNTQ2MTUwMiwtMzg5MTA0OTA4LDk4NDc4MTU3MCw1NDIzMjcw
-MTQsNTYyODk5MzQ2LDE4NDIxOTcwNTIsLTUyMzUxMzE2NCwxMz
-U1NDAzMjg5LC04OTQ2Mjg2NDUsLTU1NDU5ODI1NCwzNDA3NjA0
-NzAsMTA0ODcyMTcxMCwxODYwNDI2MjYwLDE0MDkyMjM3OTMsMT
-U3NDYxMzE2OSwtMTQzMjU1NjMxNyw4NjAwNjQ2MTYsLTExMjc4
-NTcwODVdfQ==
+eyJoaXN0b3J5IjpbMjcxMjIyNjg1LDExMDg2Njk0MDgsLTIxMT
+QzMjA5OTYsLTE0MTU0NjE1MDIsLTM4OTEwNDkwOCw5ODQ3ODE1
+NzAsNTQyMzI3MDE0LDU2Mjg5OTM0NiwxODQyMTk3MDUyLC01Mj
+M1MTMxNjQsMTM1NTQwMzI4OSwtODk0NjI4NjQ1LC01NTQ1OTgy
+NTQsMzQwNzYwNDcwLDEwNDg3MjE3MTAsMTg2MDQyNjI2MCwxND
+A5MjIzNzkzLDE1NzQ2MTMxNjksLTE0MzI1NTYzMTcsODYwMDY0
+NjE2XX0=
 -->
