@@ -766,7 +766,7 @@ Dan janganlah hinakan aku pada hari ketika mereka akan dibangkitkan lagi, [[^026
 رَبِّ اِنِّیۡ لِمَاۤ اَنۡزَلۡتَ اِلَیَّ مِنۡ خَیۡرٍ فَقِیۡرٌ
 </p>
 
-([QS Al-Qoshosh [28]:25](https://openquran.com/28:25))
+“Wahai Tuhan-ku! Sesungguhnya aku sangat memerlukan kebaikan apapun yang Engkau turunkan kepadaku.” ([QS Al-Qoshosh [28]:25](https://openquran.com/28:25)) [[^028_017_018_keterangan]] 
 
 ### 65. Doa Memohon Anak yang Saleh
 
@@ -774,7 +774,7 @@ Dan janganlah hinakan aku pada hari ketika mereka akan dibangkitkan lagi, [[^026
 رَبِّ ہَبۡ لِیۡ مِنَ الصّٰلِحِیۡنَ
 </p>
 
-([QS Ash-Shooffaat [37]:101](https://openquran.com/37:101))
+“Wahai Tuhan-ku anugerahkanlah kepadaku *anak-anak* yang saleh.” ([QS Ash-Shooffaat [37]:101](https://openquran.com/37:101)) []
 
 ### 66. Doa Memohon Pertolongan
 
@@ -1172,11 +1172,11 @@ Dan janganlah hinakan aku pada hari ketika mereka akan dibangkitkan lagi, [[^026
 
 [^028_022]: QS Al Qoshshos ayat 16-23 : Nampaknya sebelum kenabian beliau, Nabi Musa As biasa jalan-jalan diwaktu subuh. Suatu hari di jalan beliau melihat seorang Israil bertengkar dengan seorang dari kaum Fir’aun. Ketika ia minta tolong kepada Nabi Musa As, beliau memukul orang dari kaum Fir’aun dan ia mati. Pada Subuh berikutnya Nabi Musa As melewati jalan itu lagi. Beliau melihat lagi orang dari kaumnya tengah bertengkar dengan seseorang dari kaum Fir’aun. Ketika Nabi Musa As maju ke depan untuk menolong orang dari kaumnya, maka orangnya Fir’aun bicara dengan pelan, “Apakah engkau akan memperlakukan aku seperti kemarin kamu telah membunuh orang kami ?” Sesudah menerangkan kedua peristiwa itu, ayat berikutnya menjelaskan, bahwa para pemimpin kaum Fir’aun telah memutuskan untuk menghukum mati Musa As. Sebelumnya, seseorang yang tahu telah memberi tahu Musa As tentang itu. Beliau pun pergi dari sana menuju Midian.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzOTc0NzcyMCw5ODQ3ODE1NzAsNTQyMz
-I3MDE0LDU2Mjg5OTM0NiwxODQyMTk3MDUyLC01MjM1MTMxNjQs
-MTM1NTQwMzI4OSwtODk0NjI4NjQ1LC01NTQ1OTgyNTQsMzQwNz
-YwNDcwLDEwNDg3MjE3MTAsMTg2MDQyNjI2MCwxNDA5MjIzNzkz
-LDE1NzQ2MTMxNjksLTE0MzI1NTYzMTcsODYwMDY0NjE2LC0xMT
-I3ODU3MDg1LC0xMjY0MDgyNzMsMTQ2MzU1MDU4OCwtMjAxNzg2
-MDA3N119
+eyJoaXN0b3J5IjpbMjAxMDM1OTAwLDk4NDc4MTU3MCw1NDIzMj
+cwMTQsNTYyODk5MzQ2LDE4NDIxOTcwNTIsLTUyMzUxMzE2NCwx
+MzU1NDAzMjg5LC04OTQ2Mjg2NDUsLTU1NDU5ODI1NCwzNDA3Nj
+A0NzAsMTA0ODcyMTcxMCwxODYwNDI2MjYwLDE0MDkyMjM3OTMs
+MTU3NDYxMzE2OSwtMTQzMjU1NjMxNyw4NjAwNjQ2MTYsLTExMj
+c4NTcwODUsLTEyNjQwODI3MywxNDYzNTUwNTg4LC0yMDE3ODYw
+MDc3XX0=
 -->
