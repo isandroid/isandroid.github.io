@@ -698,6 +698,10 @@ Dan janganlah hinakan aku pada hari ketika mereka akan dibangkitkan lagi, [[^026
 فَافۡتَحۡ بَیۡنِیۡ وَبَیۡنَہُمۡ فَتۡحًا وَّنَجِّنِیۡ وَمَنۡ مَّعِیَ مِنَ الۡمُؤۡمِنِیۡنَ
 </p>
 
+“Wahai Tuhan-ku! Sesungguhnya kaumku telah mendustakan aku,"
+
+
+
 (QS Asy-Syu'araa [26]: [118](https://openquran.com/26:118)-[119](https://openquran.com/26:119))
 
 ### 57. Doa Memohon Dipelihara dari Tangan Musuh 
@@ -1150,11 +1154,11 @@ Dan janganlah hinakan aku pada hari ketika mereka akan dibangkitkan lagi, [[^026
 [^026_084_088_keterangan]: Ini adalah doa yang dipanjatkan oleh Nabi Ibrahim (as)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg0MjE5NzA1MiwtNTIzNTEzMTY0LDEzNT
-U0MDMyODksLTg5NDYyODY0NSwtNTU0NTk4MjU0LDM0MDc2MDQ3
-MCwxMDQ4NzIxNzEwLDE4NjA0MjYyNjAsMTQwOTIyMzc5MywxNT
-c0NjEzMTY5LC0xNDMyNTU2MzE3LDg2MDA2NDYxNiwtMTEyNzg1
-NzA4NSwtMTI2NDA4MjczLDE0NjM1NTA1ODgsLTIwMTc4NjAwNz
-csMTA3MTE4NDI3LC00NDcyNzE5NjEsLTExMjU0ODg4NTAsMjIw
-NDAzMDc4XX0=
+eyJoaXN0b3J5IjpbMTQxMzYwMDA4OSwxODQyMTk3MDUyLC01Mj
+M1MTMxNjQsMTM1NTQwMzI4OSwtODk0NjI4NjQ1LC01NTQ1OTgy
+NTQsMzQwNzYwNDcwLDEwNDg3MjE3MTAsMTg2MDQyNjI2MCwxND
+A5MjIzNzkzLDE1NzQ2MTMxNjksLTE0MzI1NTYzMTcsODYwMDY0
+NjE2LC0xMTI3ODU3MDg1LC0xMjY0MDgyNzMsMTQ2MzU1MDU4OC
+wtMjAxNzg2MDA3NywxMDcxMTg0MjcsLTQ0NzI3MTk2MSwtMTEy
+NTQ4ODg1MF19
 -->
