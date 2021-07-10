@@ -3,7 +3,7 @@ title: Keutamaan Shalawat
 layout: post
 tags: doa
 description: hal-hal berkenaan tentang shalawat
-published: false
+published: true
 ---
 
 ## {{ page.title }}
@@ -1583,16 +1583,6 @@ runia itu. [[^alhakam_7_no8_h7]] [[^khotbah_20060210]]
 
 [^khotbah_20060210]: [Khotbah Jum'at Hadhrat Khalifatul Masih V (atba) tanggal 10 Februari 2006 di Mesjid Baitul Futuh, London, UK](https://www.alislam.org/archives/sermons/summary/FSS20060210-ID.pdf)
 
-### Catatan Kaki
-
-[^almaany_sholaa]: [kata *sholaa* dalam kamus Almaany](https://www.almaany.com/id/dict/ar-id/%D8%B5%D9%84%D9%88/)
-
-[^almaany_shalawat]: [kata *sholawaat* dalam kamus Almaany](https://www.almaany.com/id/dict/ar-id/%D8%B5%D9%84%D9%88%D8%A7%D8%AA/)
-
-[^wikipedia_selawat]: [Selawat dalam Wikipedia](https://id.wikipedia.org/wiki/Selawat)
-
-[^kbbi_selawat]: [Selawat (baku) dalam Kamus Besar Bahasa Indonesia](https://kbbi.kemdikbud.go.id/entri/selawat)
-
 {% comment %}
 
 Dari https://www.merdeka.com/trending/macam-macam-shalawat-nabi-dalil-terkait-beserta-keutamaannya-kln.html
@@ -1606,6 +1596,16 @@ Selawat atau Salawat (bahasa Arab: صلوات‎) adalah bentuk jamak dari kata 
 Selawat dalam bentuk lengkap Shallallāhu 'alayhi wa as-sallām (bahasa Arab: صلى الله عليه وسلم‎ disingkat SAW) adalah ungkapan yang diucapkan oleh umat beragama Islam setiap kali mereka merujuk pada nama Nabi Muhammad.[1] Dalam bahasa apapun hal itu adalah tanda kehormatan dan penghargaan yang besar.[1] Hal ini juga digunakan setiap kali mengatakan nama orang lain dilihat sebagai nabi besar (Isa, Musa, dll).[2]
 
 {% endcomment %}
+
+### Catatan Kaki
+
+[^almaany_sholaa]: [kata *sholaa* dalam kamus Almaany](https://www.almaany.com/id/dict/ar-id/%D8%B5%D9%84%D9%88/)
+
+[^almaany_shalawat]: [kata *sholawaat* dalam kamus Almaany](https://www.almaany.com/id/dict/ar-id/%D8%B5%D9%84%D9%88%D8%A7%D8%AA/)
+
+[^wikipedia_selawat]: [Selawat dalam Wikipedia](https://id.wikipedia.org/wiki/Selawat)
+
+[^kbbi_selawat]: [Selawat (baku) dalam Kamus Besar Bahasa Indonesia](https://kbbi.kemdikbud.go.id/entri/selawat)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5NTk3NjIzMF19
+eyJoaXN0b3J5IjpbLTE4OTExMjY0NV19
 -->
