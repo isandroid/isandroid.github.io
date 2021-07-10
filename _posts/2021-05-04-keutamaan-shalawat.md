@@ -24,6 +24,20 @@ Menurut Kamus Besar Bahasa Indonesia, kata yang baku adalah selawat. Sedangkan b
 
 Secara etimologi, Selawat berarti permohonan kepada Tuhan, doa dan doa kepada Allah untuk Nabi Muhammad saw. beserta keluarga dan sahabatnya. Membaca selawat artinya berdoa memohon berkat Tuhan. [[^kbbi_selawat]]
 
+{% comment %}
+
+Dari https://www.merdeka.com/trending/macam-macam-shalawat-nabi-dalil-terkait-beserta-keutamaannya-kln.html
+
+Secara bahasa, shalawat yaitu bentuk jamak dari kata 'Salla' yang memiliki arti doa, kemuliaan, keberkahan, kesejahteraan, dan ibadah. Kemudian, shalawat menurut istilah yakni diartikan sebagai pujian kepada nabi.
+
+Dari Wikipedia https://id.wikipedia.org/wiki/Selawat
+
+Selawat atau Salawat (bahasa Arab: صلوات‎) adalah bentuk jamak dari kata salat yang berarti doa atau seruan kepada Allah. Membaca selawat untuk nabi, memiliki maksud mendoakan atau memohonkan berkah kepada Allah Swt. untuk nabi dengan ucapan, pernyataan serta pengharapan, semoga dia (nabi) sejahtera (beruntung, tak kurang suatu apapun, keadaannya tetap baik dan sehat).
+
+Selawat dalam bentuk lengkap Shallallāhu 'alayhi wa as-sallām (bahasa Arab: صلى الله عليه وسلم‎ disingkat SAW) adalah ungkapan yang diucapkan oleh umat beragama Islam setiap kali mereka merujuk pada nama Nabi Muhammad.[1] Dalam bahasa apapun hal itu adalah tanda kehormatan dan penghargaan yang besar.[1] Hal ini juga digunakan setiap kali mengatakan nama orang lain dilihat sebagai nabi besar (Isa, Musa, dll).[2]
+
+{% endcomment %}
+
 ### Perintah Bershalawat
 
 {% comment %}
@@ -1583,20 +1597,6 @@ runia itu. [[^alhakam_7_no8_h7]] [[^khotbah_20060210]]
 
 [^khotbah_20060210]: [Khotbah Jum'at Hadhrat Khalifatul Masih V (atba) tanggal 10 Februari 2006 di Mesjid Baitul Futuh, London, UK](https://www.alislam.org/archives/sermons/summary/FSS20060210-ID.pdf)
 
-{% comment %}
-
-Dari https://www.merdeka.com/trending/macam-macam-shalawat-nabi-dalil-terkait-beserta-keutamaannya-kln.html
-
-Secara bahasa, shalawat yaitu bentuk jamak dari kata 'Salla' yang memiliki arti doa, kemuliaan, keberkahan, kesejahteraan, dan ibadah. Kemudian, shalawat menurut istilah yakni diartikan sebagai pujian kepada nabi.
-
-Dari Wikipedia https://id.wikipedia.org/wiki/Selawat
-
-Selawat atau Salawat (bahasa Arab: صلوات‎) adalah bentuk jamak dari kata salat yang berarti doa atau seruan kepada Allah. Membaca selawat untuk nabi, memiliki maksud mendoakan atau memohonkan berkah kepada Allah Swt. untuk nabi dengan ucapan, pernyataan serta pengharapan, semoga dia (nabi) sejahtera (beruntung, tak kurang suatu apapun, keadaannya tetap baik dan sehat).
-
-Selawat dalam bentuk lengkap Shallallāhu 'alayhi wa as-sallām (bahasa Arab: صلى الله عليه وسلم‎ disingkat SAW) adalah ungkapan yang diucapkan oleh umat beragama Islam setiap kali mereka merujuk pada nama Nabi Muhammad.[1] Dalam bahasa apapun hal itu adalah tanda kehormatan dan penghargaan yang besar.[1] Hal ini juga digunakan setiap kali mengatakan nama orang lain dilihat sebagai nabi besar (Isa, Musa, dll).[2]
-
-{% endcomment %}
-
 ### Catatan Kaki
 
 [^almaany_sholaa]: [kata *sholaa* dalam kamus Almaany](https://www.almaany.com/id/dict/ar-id/%D8%B5%D9%84%D9%88/)
@@ -1607,5 +1607,5 @@ Selawat dalam bentuk lengkap Shallallāhu 'alayhi wa as-sallām (bahasa Arab: ص
 
 [^kbbi_selawat]: [Selawat (baku) dalam Kamus Besar Bahasa Indonesia](https://kbbi.kemdikbud.go.id/entri/selawat)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTExMjY0NV19
+eyJoaXN0b3J5IjpbLTE1NDYzNDI1NTNdfQ==
 -->
