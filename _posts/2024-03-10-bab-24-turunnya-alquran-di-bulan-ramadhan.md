@@ -22,40 +22,9 @@ Allah Ta’ala juga berfirman,
 
 "Sesungguhnya Kami telah menurunkannya pada Lailatul Qadar." (QS Al-Qadr [97]: 2)
 
-Tafsir: Pada umumnya Lail dan Lailah kedua-duanya berarti malam, tetapi
-menurut Marzuqi, penyusun kamus kenamaan, kata Lail dipakai sebagai
-lawan kata Nahār dan Lailah sebagai lawan kata Yaum. Lailah mengandung
-arti lebih luas dan berjangkauan lebih jauh daripada kata Lail, seperti kata
-Yaum, yang adalah lawan kata Lailah, mengandung arti lebih luas daripada
-Nahār yang adalah lawan kata Lail. Kata Lailah telah dipergunakan sebanyak
-delapan kali dalam Al-Qur’an (sekali dalam QS.2: 52; 2: 188; 44: 4; dua kali
-dalam QS.7: 143 dan tiga kali dalam ayat-ayat yang sedang dibahas), dan di
-setiap tempat kata itu dipergunakan sehubungan dengan turun Al-Qur’an dan
-masalah-masalah yang berkaitan dengan itu. Dengan demikian kata Lailah
-mengisyaratkan kepada kemuliaan, keagungan, dan kebesaran malam-malam
-yang di dalamnya Al-Qur’an diturunkan.
+Tafsir: Pada umumnya Lail dan Lailah kedua-duanya berarti malam, tetapi menurut Marzuqi, penyusun kamus kenamaan, kata Lail dipakai sebagai lawan kata Nahār dan Lailah sebagai lawan kata Yaum. Lailah mengandung arti lebih luas dan berjangkauan lebih jauh daripada kata Lail, seperti kata Yaum, yang adalah lawan kata Lailah, mengandung arti lebih luas daripada Nahār yang adalah lawan kata Lail. Kata Lailah telah dipergunakan sebanyak delapan kali dalam Al-Qur’an (sekali dalam QS.2: 52; 2: 188; 44: 4; dua kali dalam QS.7: 143 dan tiga kali dalam ayat-ayat yang sedang dibahas), dan di setiap tempat kata itu dipergunakan sehubungan dengan turun Al-Qur’an dan masalah-masalah yang berkaitan dengan itu. Dengan demikian kata Lailah mengisyaratkan kepada kemuliaan, keagungan, dan kebesaran malam-malam yang di dalamnya Al-Qur’an diturunkan.
 
-Qadr berarti, nilai, kecukupan, kebesaran, takdir, nasib, kekuasaan
-(Lane). Menimbang berbagai arti Qadr dan Lailah itu, maka ayat ini dapat
-diberi tafsiran sebagai berikut: Al-Qur’an telah diturunkan di dalam suatu
-malam yang secara khusus telah diperuntukkan bagi penampakan kekuasaan
-Ilahi yang istimewa, atau di dalam suatu malam yang mempunyai nilai sama
-dengan seluruh jumlah malam-malam lainnya, atau di dalam suatu malam
-yang mempunyai kebesaran, keagungan, dan kehormatan; atau, di dalam
-suatu malam yang mempunyai kecukupan, yaitu, Al-Qur’an memenuhi
-selengkapnya semua kebutuhan dan keperluan manusia, baik mengenai
-akhlak maupun ruhaninya. Atau, artinya adalah Tuhan telah menurunkannya
-dalam Malam Takdir atau Malam Nasib, yakni, Al-Qur’an diturunkan pada
-saat ketika nasib manusia ditakdirkan, pola alam semesta masa mendatang
-telah ditetapkan, dan asas-asas petunjuk yang tepat bagi umat manusia telah
-diletakkan untuk sepanjang masa mendatang. Masa kemunculan seorang
-muslih rabbani besar disebut Lailat al-Qadr, karena pada masa itu dosa dan
-kejahatan merajalela serta kekuatan kegelapan menguasai segala yang lain.
-Lailat al-Qadr telah diartikan pula sebagai suatu malam tertentu di antara
-malam-malam tanggal ganjil pada sepuluh hari terakhir di dalam bulan
-Ramadhan, tatkala Al-Qur’an pertama kali mulai diturunkan. Atau, ayat itu
-dapat berarti, seluruh jangka waktu 23 tahun yang meliputi risalat Rasulullah
-Saw, ketika selama jangka waktu itu Al-Qur’an diturunkan secara berangsur-angsur.
+Qadr berarti, nilai, kecukupan, kebesaran, takdir, nasib, kekuasaan (Lane). Menimbang berbagai arti Qadr dan Lailah itu, maka ayat ini dapat diberi tafsiran sebagai berikut: Al-Qur’an telah diturunkan di dalam suatu malam yang secara khusus telah diperuntukkan bagi penampakan kekuasaan Ilahi yang istimewa, atau di dalam suatu malam yang mempunyai nilai sama dengan seluruh jumlah malam-malam lainnya, atau di dalam suatu malam yang mempunyai kebesaran, keagungan, dan kehormatan; atau, di dalam suatu malam yang mempunyai kecukupan, yaitu, Al-Qur’an memenuhi selengkapnya semua kebutuhan dan keperluan manusia, baik mengenai akhlak maupun ruhaninya. Atau, artinya adalah Tuhan telah menurunkannya dalam Malam Takdir atau Malam Nasib, yakni, Al-Qur’an diturunkan pada saat ketika nasib manusia ditakdirkan, pola alam semesta masa mendatang telah ditetapkan, dan asas-asas petunjuk yang tepat bagi umat manusia telah diletakkan untuk sepanjang masa mendatang. Masa kemunculan seorang muslih rabbani besar disebut Lailat al-Qadr, karena pada masa itu dosa dan kejahatan merajalela serta kekuatan kegelapan menguasai segala yang lain. Lailat al-Qadr telah diartikan pula sebagai suatu malam tertentu di antara malam-malam tanggal ganjil pada sepuluh hari terakhir di dalam bulan Ramadhan, tatkala Al-Qur’an pertama kali mulai diturunkan. Atau, ayat itu dapat berarti, seluruh jangka waktu 23 tahun yang meliputi risalat Rasulullah Saw, ketika selama jangka waktu itu Al-Qur’an diturunkan secara berangsur-angsur.
 
 Dalam suatu hadits diriwayatkan bahwa Alquran diturunkan 24 Ramadhan,
 
