@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Beberapa Sabda Hadhrat Masih Mau'ud (as) tentang Puasa"
+title: "BAB 36 - Beberapa Sabda Hadhrat Masih Mau'ud (as) tentang Puasa"
 categories: puasa
 ---
 
@@ -265,27 +265,27 @@ Syekh Muhammad Cattu berkata: "Untuk itulah saya datang, supaya saya dapat menga
 
 Pada tanggal 26 Desember 1906, Hadhrat Masih Mau'ud as. menyampaikan pidato di mesjid Jami' setelah shalat Ashar dan Zhuhur, sambil berdiri. Di dalam pidato ini beliau menguraikan tentang shalat dan masalah-masalah lainnya. Di antaranya beliau as. bersabda:
 
-"...Masalah ketiga, yang merupakan Rukun Islam adalah puasa. Orang-orang tidak mengetahui akan hakikat puasa sekali pun. Pada dasarnya orang yang tidak [pernah] pergi ke suatu negeri dan tidak kenal akan alam [negeri] itu, bagaimana mungkin dia dapat menjelaskan keadaan negeri tersebut ?
+"...Masalah ketiga, yang merupakan Rukun Islam adalah **puasa**. Orang-orang tidak mengetahui akan hakikat **puasa** sekali pun. Pada dasarnya orang yang tidak [pernah] pergi ke suatu negeri dan tidak kenal akan alam [negeri] itu, bagaimana mungkin dia dapat menjelaskan keadaan negeri tersebut ?
 
-Puasa bukanlah sekedar [suatu ibadah] dimana manusia menahan lapar dan dahaga, melainkan dia memiliki sesuatu hakikat serta pengaruh yang dapat diketahui melalui pengalaman. Di dalam fitrat manusia terdapat [ketentuan] bahwa semakin sedikit dia makan maka sedemikian itu pula akan terjadi tazkiya-e-nafs (pensucian jiwa), dan potensi (kekuatan) kasyfiah (terbuka hijab) pun bertambah.
+**Puasa** bukanlah sekedar [suatu ibadah] dimana manusia menahan lapar dan dahaga, melainkan dia memiliki sesuatu hakikat serta pengaruh yang dapat diketahui melalui pengalaman. Di dalam fitrat manusia terdapat [ketentuan] bahwa semakin sedikit dia makan maka sedemikian itu pula akan terjadi tazkiya-e-nafs (pensucian jiwa), dan potensi (kekuatan) kasyfiah (terbuka hijab) pun bertambah.
 
-Maksud (tujuan) Allah Ta’ala dari hal itu adalah: kurangi satu makanan [jasmaniah] dan tingkatkanlah [makanan] lainnya (makanan ruhaniah). Orang-orang yang berpuasa hendaknya senantiasa memperhatikan bahwa hal itu bukanlah berarti supaya [menahan] lapar [saja], melainkan mereka itu hendaknya sibuk dalam berzikir kepada Allah Ta’ala, sehingga memperoleh tabattul dan inqita (pemutusan hubungan dengan selain Allah lalu mencangkokan diri dengan-Nya - pent.).
+Maksud (tujuan) Allah Ta’ala dari hal itu adalah: kurangi satu makanan [jasmaniah] dan tingkatkanlah [makanan] lainnya (makanan ruhaniah). Orang-orang yang **berpuasa** hendaknya senantiasa memperhatikan bahwa hal itu bukanlah berarti supaya [menahan] lapar [saja], melainkan mereka itu hendaknya sibuk dalam berzikir kepada Allah Ta’ala, sehingga memperoleh tabattul dan inqita (pemutusan hubungan dengan selain Allah lalu mencangkokan diri dengan-Nya - pent.).
 
-Jadi, yang dimaksud dengan puasa adalah supaya manusia meninggalkan satu roti (makanan) yang hanya memberikan kelangsungan hidup bagi tubuh dan meraih roti (makanan) kedua yang dapat memberikan ketentraman dan kekenyangan bagi ruh. Dan orang-orang yang berpuasa semata-mata demi Allah Ta’ala, serta bukan sebagai suatu adat kebiasaan, mereka itu hendaknya terus sibuk dalam sanjungan, tasbih dan tahlil kepada Allah Ta’ala,  yang dari itu mereka akan memperoleh makanan kedua". [^malfuzat-009-122-123]
+Jadi, yang dimaksud dengan **puasa** adalah supaya manusia meninggalkan satu roti (makanan) yang hanya memberikan kelangsungan hidup bagi tubuh dan meraih roti (makanan) kedua yang dapat memberikan ketentraman dan kekenyangan bagi ruh. Dan orang-orang yang **berpuasa** semata-mata demi Allah Ta’ala, serta bukan sebagai suatu adat kebiasaan, mereka itu hendaknya terus sibuk dalam sanjungan, tasbih dan tahlil kepada Allah Ta’ala,  yang dari itu mereka akan memperoleh makanan kedua". [^malfuzat-009-122-123]
 
 [^malfuzat-009-122-123]: Malfuzat, jld. IX, hlm. 122-123
 
 ### Sakit Mata dan Berpuasa
   
-0rang yang sama itu bertanya: "Apabila mata orang yang berpuasa sakit, apakah boleh memasukan obat [ke dalam mata]?
+0rang yang sama itu bertanya: "Apabila mata orang yang **berpuasa** sakit, apakah boleh memasukan obat [ke dalam mata]?
 
-Hadhrat Masih Mauud as. menjawab: "Pertanyaannya sendiri  salah. Bagi orang sakit tidak ada perintah puasa". [^malfuzat-009-171]
+Hadhrat Masih Mauud as. menjawab: "Pertanyaannya sendiri  salah. Bagi orang sakit tidak ada perintah **puasa**". [^malfuzat-009-171]
 
 [^malfuzat-009-171]: Malfuzat, jld. IX, hlm. 171
 
 ### Memakai Serbuk Celak (Tetes) Mata Ketika Puasa
 
-Ada pertanyaan: Apakah orang berpuasa boleh rnemasukan serbuk celak ke dalam mata atau tidak? Hadhrat Masih Mauud as. bersabda: 
+Ada pertanyaan: Apakah orang **berpuasa** boleh rnemasukan serbuk celak ke dalam mata atau tidak? Hadhrat Masih Mauud as. bersabda: 
 
 "Makruh (tidak disukai). Dan apa pula perlunya memakai serbuk celak di siang hari?. Serbuk celak itu dapat dipakai ketika malam hari". [^malfuzat-009-172-173]
 
@@ -293,55 +293,55 @@ Ada pertanyaan: Apakah orang berpuasa boleh rnemasukan serbuk celak ke dalam mat
 
 ### Karena Tidak Tahu Telah Siang Tetap saja Makan dan Minum Sahur
 
-Ada pertanyaan melalui surat: Seseorang yang ketika sahur di bulan Ramadhan karena tidak tahu tetap saja makan dan minum, lalu ketika dia keluar ternyata fajar Subuh telah terbit. Apakah dia wajib meneruskan puasanya atau tidak? Hadhrat  Masih Mau’ud a.s. menjawab: 
+Ada pertanyaan melalui surat: Seseorang yang ketika sahur di bulan Ramadhan karena tidak tahu tetap saja makan dan minum, lalu ketika dia keluar ternyata fajar Subuh telah terbit. Apakah dia wajib meneruskan **puasanya** atau tidak? Hadhrat  Masih Mau’ud a.s. menjawab: 
 
-"Karena tidak tahu, lalu makan dan minum, tidaklah wajib harus menggantinya dengan puasa lain". [^malfuzat-009-186]
+"Karena tidak tahu, lalu makan dan minum, tidaklah wajib harus menggantinya dengan **puasa** lain". [^malfuzat-009-186]
 
 [^malfuzat-009-186]: Malfuzat, jld. IX, hlm. 186
 
 ### Berpuasa pada hari kewafatan Rasulullah Saw.
 
-Seseorang bertanya: Apakah perlu berpuasa pada hari kewafatan Rasulullah saw. atau tidak? Hadhrat Masih Mau’ud as. menjawab: "Tidak perlu". [^malfuzat-009-214-215]
+Seseorang bertanya: Apakah perlu **berpuasa** pada hari kewafatan Rasulullah saw. atau tidak? Hadhrat Masih Mau’ud as. menjawab: "Tidak perlu". [^malfuzat-009-214-215]
 
 [^malfuzat-009-214-215]: Malfuzat, jld. IX, hlm. 214-215
 
 ### Puasa Sepuluh Muharram
 
-Seseorang bertanya: Apakah perlu  berpuasa pada sepuluh hari pertama pada bulan Muharram atau tidak? Hadhrat Masih Mauud as. menjawab:  "Tidak perlu." [^malfuzat-009-215]
+Seseorang bertanya: Apakah perlu **berpuasa** pada sepuluh hari pertama pada bulan Muharram atau tidak? Hadhrat Masih Mauud as. menjawab:  "Tidak perlu." [^malfuzat-009-215]
 
 [^malfuzat-009-215]: Malfuzat, jld. IX. hlm. 215
 
 ### Berpuasa dan Bercermin 
 
-Seseorang bertanya kepada Hadhrat  Masih Mau'ud a.s. : "Apakah orang berpuasa boleh melihat cermin? Hadhrat  Masih Mau'ud as. menjawab: "Boleh". [^malfuzat-009-x1]
+Seseorang bertanya kepada Hadhrat  Masih Mau'ud a.s. : "Apakah orang **berpuasa** boleh melihat cermin? Hadhrat  Masih Mau'ud as. menjawab: "Boleh". [^malfuzat-009-x1]
 
 [^malfuzat-009-x1]: Malfuzat, jld. IX
 
 ### Meminyaki Rambut dan Janggut Ketika Puasa
 
-0rang itu kembali bertanya: "Apakah ketika berpuasa boleh meminyaki rambut dan janggut? Hadhrat  Masih Mauud as. menjawab: "Boleh". [^malfuzat-009-x1]
+0rang itu kembali bertanya: "Apakah ketika **berpuasa** boleh meminyaki rambut dan janggut? Hadhrat  Masih Mauud as. menjawab: "Boleh". [^malfuzat-009-x1]
 
 ### Orang Berpuasa yang Memakai Wangi-wangian
 
-Seseorang bertanya, “Apakah orang yang berpuasa dibenarkan memakai wangi-wangian atau tidak?" Hadhrat Masih Mau'ud a.s. menjawab: “Dibenarkan.” [^malfuzat-009-172]
+Seseorang bertanya, “Apakah orang yang **berpuasa** dibenarkan memakai wangi-wangian atau tidak?" Hadhrat Masih Mau'ud a.s. menjawab: “Dibenarkan.” [^malfuzat-009-172]
 
 [^malfuzat-009-172]: Malfuzat, jld,. IX, hlm. 172
 
 ### Puasa Ramadhan bagi Kalangan Buruh
 
-Ditanyakan: Kadang-kadang bulan Ramadhan jatuh pada musim cocok-tanam dimana banyak sekali perkerjaan seperti penanaman benih dan sebagainya. Demikian pula halnya para buruh yang pencahariannya bergantung pada perburuhan. Jika mereka tidak berpuasa, bagaimana hukumnya? Hadhrat Masih Mau'ud a.s. bersabda:
+Ditanyakan: Kadang-kadang bulan Ramadhan jatuh pada musim cocok-tanam dimana banyak sekali perkerjaan seperti penanaman benih dan sebagainya. Demikian pula halnya para buruh yang pencahariannya bergantung pada perburuhan. Jika mereka tidak **berpuasa**, bagaimana hukumnya? Hadhrat Masih Mau'ud a.s. bersabda:
 
-Al-'Amaalu binniyaat  (amal itu berdasarkan niatnya). Orang-orang ini menyembunyikan kondisi-kondisi mereka. Setiap orang hendaknya memikirkan keadaannya masing-masing dengan takwa dan kesucian hati. Jika ada yang mampu puasa sewaktu kerja sebagai buruh, maka lakukanlah. Jika tidak, maka akan terhitung dalam [kategori] orang sakit. Dan bila sudah mendapat kesempatan lain, berpuasalah". Sedangkan berkenaan dengan [ayat] "Wa- laziina yutiquunahu" (Al-Baqarah:185), artinya adalah  "Yang tidak memiliki  kesanggupan". [^malfuzat-009-394]
+Al-'Amaalu binniyaat  (amal itu berdasarkan niatnya). Orang-orang ini menyembunyikan kondisi-kondisi mereka. Setiap orang hendaknya memikirkan keadaannya masing-masing dengan takwa dan kesucian hati. Jika ada yang mampu **puasa** sewaktu kerja sebagai buruh, maka lakukanlah. Jika tidak, maka akan terhitung dalam [kategori] orang sakit. Dan bila sudah mendapat kesempatan lain, **berpuasalah**". Sedangkan berkenaan dengan [ayat] "Wa- laziina yutiquunahu" (Al-Baqarah:185), artinya adalah  "Yang tidak memiliki  kesanggupan". [^malfuzat-009-394]
 
 [^malfuzat-009-394]: Malfuzat, jld. IX, hlm. 394
 
 ### Orang Sakit dan Musafir Jangan Berpuasa
 
-“Barangsiapa yang berpuasa di bulan Ramadhan dalam kondisi sakit dan dalam perjalanan, dia tidak mentaati perintah jelas Allah Ta'ala. Allah Ta'ala dengan jelas telah berfirman bahwa orang sakit dan musafir jangan berpuasa. Setelah sehat dan setelah selesai melakukan perjalanan (safar), [barulah] puasa. 
+“Barangsiapa yang **berpuasa** di bulan Ramadhan dalam kondisi sakit dan dalam perjalanan, dia tidak mentaati perintah jelas Allah Ta'ala. Allah Ta'ala dengan jelas telah berfirman bahwa orang sakit dan musafir jangan **berpuasa**. Setelah sehat dan setelah selesai melakukan perjalanan (safar), [barulah] **puasa**. 
 
 Hendaknya perintah Allah Ta'ala itu diamalkan, sebab najat (keselamatan) itu [diperoleh] melalui karunia [Ilahi]. Tidak ada orang yang memperoleh najat karena memperlihatkan kekuatan amal-amalnya.
 
-Allah Ta'ala tidak menerangkan apakah itu sakit ringan atau berat, serta apakah itu perjalanan pendek atau panjang, melainkan perintahnya itu umum, dan itu hendaknya harus diamalkan.  Jika orang sakit dan musafir melakukan puasa, maka atasnya lazim   (layak) fatwa ingkar". [^malfuzat-009-431]
+Allah Ta'ala tidak menerangkan apakah itu sakit ringan atau berat, serta apakah itu perjalanan pendek atau panjang, melainkan perintahnya itu umum, dan itu hendaknya harus diamalkan.  Jika orang sakit dan musafir melakukan **puasa**, maka atasnya lazim   (layak) fatwa ingkar". [^malfuzat-009-431]
 
 [^malfuzat-009-431]: Malfuzat, jld. IX, hlm. 431
 
@@ -349,15 +349,15 @@ Allah Ta'ala tidak menerangkan apakah itu sakit ringan atau berat, serta apakah 
 
 Hadhrat  Masih Mauud as. bersabda: 
 
-"Allah Ta’ala telah menetapkan lima [macam] perjuangan (mujahadah) di dalam agama Islam. Shalat, puasa, zakat, Haji, melawan musuh Islam dengan pedang maupun pena. Inilah lima perjuangan yang terbukti dari Al-Quran Syarif. Orang-orang Islam hendaknya berusaha keras di dalam hal-hal tersebut dan tekun mentaatinya.
+"Allah Ta’ala telah menetapkan lima [macam] perjuangan (mujahadah) di dalam agama Islam. Shalat, **puasa**, zakat, Haji, melawan musuh Islam dengan pedang maupun pena. Inilah lima perjuangan yang terbukti dari Al-Quran Syarif. Orang-orang Islam hendaknya berusaha keras di dalam hal-hal tersebut dan tekun mentaatinya.
 
-Puasa itu  hanyalah satu bulan dalam satu tahun. Beberapa waliullah memang secara nafal selalu melakukan puasa dan mereka melakukan mujahadah dalam hal itu. Yaa, melakukan puasa secara abadi (terus-menerus) dilarang. Yakni hendaknya janganlah seseorang itu melakukan puasa untuk selamanya, melainkan hendaknya kadang-kadang melakukan puasa nafal dan kadang kadang meninggalkannya". [^malfuzat-009-433]
+**Puasa** itu  hanyalah satu bulan dalam satu tahun. Beberapa waliullah memang secara nafal selalu melakukan **puasa** dan mereka melakukan mujahadah dalam hal itu. Yaa, melakukan **puasa** secara abadi (terus-menerus) dilarang. Yakni hendaknya janganlah seseorang itu melakukan **puasa** untuk selamanya, melainkan hendaknya kadang-kadang melakukan **puasa** nafal dan kadang kadang meninggalkannya". [^malfuzat-009-433]
 
 [^malfuzat-009-433]: Malfuzat,  jld. IX, hlm. 433
 
 ### Dua Macam Penderitaan: Penderitaan Syariat dan Penderitaan Samawi
 
-“Di jalan agama terdapat dua macam penderitaan: Pertama, penderitaan syariat, misalnya [penderitaan melaksanakan]  shalat, puasa, haji, dan zakat. Untuk shalat, seorang manusia harus menghentikan pekerjaannya (perniagaannya), dan dengan sengaja dia pergi ke mesjid. Pada musim dingin bangun di tengah malam. Di bulan Ramadhan menahan lapar dan haus seharian. Pada waktu hajji menanggung kesulitan-kesulitan di perjalanan. Sebagai zakat, pendapatan hasil jerih-payahnya sendiri dia berikan untuk orang lain.
+“Di jalan agama terdapat dua macam penderitaan: Pertama, penderitaan syariat, misalnya [penderitaan melaksanakan]  shalat, **puasa**, haji, dan zakat. Untuk shalat, seorang manusia harus menghentikan pekerjaannya (perniagaannya), dan dengan sengaja dia pergi ke mesjid. Pada musim dingin bangun di tengah malam. Di bulan Ramadhan menahan lapar dan haus seharian. Pada waktu hajji menanggung kesulitan-kesulitan di perjalanan. Sebagai zakat, pendapatan hasil jerih-payahnya sendiri dia berikan untuk orang lain.
 
 Ini semua adalah penderitaan-penderitaan syariat, dan itu semua mendatangkan pahala bagi manusia, yang karenanya langkah manusia pun menjadi lebih maju mengarah kepada Allah. Namun dalam semua hal itu manusia telah diberi keleluasaan (keringanan), dan manusia mencari jalan yang mudah bagi dirinya. Di musim  dingin, untuk berwudhu dia dapat menggunakan air hangat. Dan karena lemah, manusia tidak mampu berdiri maka dia mengerjakan shalat sambil duduk. Di bulan Ramadhan ia bangun [makan] sahur  dan benar-benar menyantap makanan. Bahkan sebagian orang di bulan uasa belanja untuk makan-minumlebih banyak daripada biasanya. 
 
@@ -371,7 +371,7 @@ Namun penderitaan-penderitaan Samawi yang turun dari Langit, manusia tidak memil
 
 “Pada hakikatnya ketakwaan manusia baru terbukti ketika suatu musibah menimpa dirinya. Ketika manusia meninggalkan segala sisi (segi)  lalu hanya mendahulukan sisi (segi) Allah Ta’ala, dan dia meninggalkan kehidupan yang penuh senang-senang lalu menerima suatu kehidupan sulit, barulah manusia akan memperoleh ketakwaan hakiki. 
 
-Perbaikan kondisi internal (jiwa) manusia tidak dapat dilakukan hanya melalui shalat-shalat dan puasa-puasa formal saja, melainkan tampilnya musibah-musibah adalah penting.” [^malfuzat-010-086]
+Perbaikan kondisi internal (jiwa) manusia tidak dapat dilakukan hanya melalui shalat-shalat dan **puasa**-**puasa** formal saja, melainkan tampilnya musibah-musibah adalah penting.” [^malfuzat-010-086]
 
 [^malfuzat-010-086]: Malfuzat, jld. X, hlm. 86
 
