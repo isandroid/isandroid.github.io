@@ -3,6 +3,8 @@ author:
   name: isandroid
 # email: your-email@domain.com
 
+url: "https://isandroid.github.io"
+
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
 description: >
@@ -21,6 +23,7 @@ theme: minima
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+  - jekyll-sitemap
 
 # Theme-specific settings
 
@@ -70,3 +73,4 @@ minima:
 
 # Google Analytics
 google_analytics: G-W5MK1ZWNHG
+
