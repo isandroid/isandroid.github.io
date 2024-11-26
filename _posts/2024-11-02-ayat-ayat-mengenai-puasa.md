@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "33 - Ayat-ayat dalam Al-Qur'an Mengenai Puasa"
+title: "33 - Ayat-ayat Puasa"
 categories: puasa
 ---
 
