@@ -71,7 +71,7 @@ Mentaati pemerintah dalam penentuan tanggal awal dan akhir bulan Ramadan merupak
 
 "Hai orang-orang yang beriman, taatlah kepada Allah, taatlah kepada Rasul-Nya dan orang-orang yang memegang kekuasaan di antaramu (pemerintah)..." (QS An-Nisaa 4: 60 dengan basmallah sebagai ayat pertama).
 
-### Riwayat Mengenai Perbedaan Idul Fitri di Tempat yang Berbeda
+### Riwayat Mengenai Perbedaan Awal Ramadan
 
 Diriwayatkan bahwa pernah terjadi perbedaan penentuan awal Ramadan antara penduduk Madinah dan Syam pada masa sahabat. Meskipun sama-sama melihat hilal, namun waktu terlihatnya berbeda. Ibnu Abbas, salah satu sahabat Nabi yang terkenal dengan pemahamannya yang mendalam tentang agama, tetap berpedoman pada ru’yat (penglihatan) hilal di Madinah, walaupun Mu’awiyah dan penduduk Syam telah memulai puasa. [[^1783a475-fbb3-459e-b442-c52e56e3c548]]
 
