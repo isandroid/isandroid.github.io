@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "02 - Tanda Awal Puasa Ramadan"
+title: "02 - Penentuan Awal dan Akhir Ramadan"
 categories: puasa
 ---
 
