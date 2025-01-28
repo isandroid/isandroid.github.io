@@ -24,7 +24,7 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-sitemap
-
+  
 # Theme-specific settings
 
 # If you want to link only specific pages in your header, use this and add the path to the pages
@@ -73,4 +73,3 @@ minima:
 
 # Google Analytics
 google_analytics: G-W5MK1ZWNHG
-

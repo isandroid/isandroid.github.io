@@ -58,4 +58,16 @@ layout: base
 
   {%- endif -%}
 
+    <!-- <ul>
+    {% for category in site.categories %}
+    <h2 class="post-list-heading"><a name="{{ category | first }}">{{ category | first }}</h2>
+        <ul>
+        {% for post in category.last %}
+          <li><a class="post-link" href="{{ post.url }}">{{ post.title }}</a></li>
+        {% endfor %}
+        </ul>
+      </li>
+    {% endfor %}
+    </ul> -->
+
 </div>
