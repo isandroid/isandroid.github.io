@@ -77,14 +77,6 @@ Diriwayatkan bahwa pernah terjadi perbedaan penentuan awal Ramadan antara pendud
 
 [^1783a475-fbb3-459e-b442-c52e56e3c548]: [Hadits At-Tirmidzi, Kitab Puasa, Setiap kawasan mempunyai hilal tersendiri](/referensi/1783a475-fbb3-459e-b442-c52e56e3c548.html)
 
-dapat disimpulkan beberapa hal penting terkait hukum penentuan awal Ramadan:
-
-- Setiap daerah memiliki kebebasan untuk menentukan awal Ramadan berdasarkan ru’yat hilal di daerah masing-masing. Ini berarti, tidak ada keharusan bagi suatu daerah untuk mengikuti penentuan awal Ramadan daerah lain, meskipun mereka berada dalam satu negara atau wilayah yang sama.
-
-- Prioritas utama dalam penentuan awal Ramadan adalah ru’yat hilal secara langsung. Meskipun hitungan astronomi dapat menjadi perkiraan, namun ru’yat hilal tetap menjadi bukti yang paling kuat untuk memulai puasa.
-
-- Perbedaan dalam penentuan awal Ramadan adalah hal yang wajar dan tidak perlu menjadi perselisihan. Setiap daerah memiliki kondisi geografis dan iklim yang berbeda, sehingga waktu terlihatnya hilal pun bisa berbeda.
-
 <!-- Kata Kunci Utama: tanda awal puasa Ramadan, hilal, penentuan awal Ramadan, bulan suci, bulan Ramadan, Islam -->
 
 ### Makruh Berpuasa Mendekati Ramadan
