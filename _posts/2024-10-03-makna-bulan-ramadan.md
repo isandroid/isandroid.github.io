@@ -34,33 +34,33 @@ Dalam Tafsir QS Al Baqarah (2) ayat 186 disebutkan bahwa Ramadan itu bulan kesem
 
 ### Keutamaan Ramadan
 
-1. **Pintu-pintu Langit Dibuka, Jaham Ditutup dan Syetan Dibelenggu**. 
+#### 1. Pintu-pintu Langit Dibuka, Jaham Ditutup dan Syetan Dibelenggu
 
-    Rasulullah (saw) bersabda: "Apabila bulan Ramadan datang, maka pintu-pintu langit dibuka sedangkan pintu-pintu jahannam ditutup dan syaitan-syaitan dibelenggu" [[^97bbe76b-6df6-4c80-8bb8-f3fd2095b8a2]] 
+Rasulullah (saw) bersabda: "Apabila bulan Ramadan datang, maka pintu-pintu langit dibuka sedangkan pintu-pintu jahannam ditutup dan syaitan-syaitan dibelenggu" [[^97bbe76b-6df6-4c80-8bb8-f3fd2095b8a2]] 
 
-    [^97bbe76b-6df6-4c80-8bb8-f3fd2095b8a2]: [Hadits Shahih Al-Bukhari, Kitab Shaum, Bab Disebut ramadan atau bulan ramadan?](/referensi/97bbe76b-6df6-4c80-8bb8-f3fd2095b8a2.html)
+[^97bbe76b-6df6-4c80-8bb8-f3fd2095b8a2]: [Hadits Shahih Al-Bukhari, Kitab Shaum, Bab Disebut ramadan atau bulan ramadan?](/referensi/97bbe76b-6df6-4c80-8bb8-f3fd2095b8a2.html)
 
-2. **Ramadhan Bulan Penuh Berkah dan Pengampunan**.
+#### 2. Ramadhan Bulan Penuh Berkah dan Pengampunan
    
-    Rasulullah (saw) bersabda: "Shalat lima waktu dan shalat Jum'at ke Jum'at berikutnya, dan Ramadan ke Ramadan berikutnya adalah penghapus untuk dosa antara keduanya apabila dia menjauhi dosa besar." [[^edc5b2df-6275-4625-b880-bc3fe207fa72]]
+Rasulullah (saw) bersabda: "Shalat lima waktu dan shalat Jum'at ke Jum'at berikutnya, dan Ramadan ke Ramadan berikutnya adalah penghapus untuk dosa antara keduanya apabila dia menjauhi dosa besar." [[^edc5b2df-6275-4625-b880-bc3fe207fa72]]
 
-    [^edc5b2df-6275-4625-b880-bc3fe207fa72]: [Hadits Shahih Muslim, Kitab Thaharah, Bab Shalat lima waktu, jumat hingga jumat berikutnya dan ramadan hingga ramadan](/referensi/edc5b2df-6275-4625-b880-bc3fe207fa72.html)
+[^edc5b2df-6275-4625-b880-bc3fe207fa72]: [Hadits Shahih Muslim, Kitab Thaharah, Bab Shalat lima waktu, jumat hingga jumat berikutnya dan ramadan hingga ramadan](/referensi/edc5b2df-6275-4625-b880-bc3fe207fa72.html)
 
-    Rasulullah (saw) bersabda, "...barangsiapa yang melaksanakan puasa Ramadan karena iman kepada Allah dan mengharapkan pahala (hanya dari-Nya) maka akan diampuni dosa-dosa yang telah dikerjakannya". [[^ed96a157-778a-4577-bb3e-9efeabd3fd2d]]
+Rasulullah (saw) bersabda, "...barangsiapa yang melaksanakan puasa Ramadan karena iman kepada Allah dan mengharapkan pahala (hanya dari-Nya) maka akan diampuni dosa-dosa yang telah dikerjakannya". [[^ed96a157-778a-4577-bb3e-9efeabd3fd2d]]
 
-    [^ed96a157-778a-4577-bb3e-9efeabd3fd2d]: [Hadits Shahih Al-Bukhari, Kitab Shaum, Bab Barangsiapa berpuasa ramadan karena iman dan mengharap pahala](/referensi/ed96a157-778a-4577-bb3e-9efeabd3fd2d.html)
+[^ed96a157-778a-4577-bb3e-9efeabd3fd2d]: [Hadits Shahih Al-Bukhari, Kitab Shaum, Bab Barangsiapa berpuasa ramadan karena iman dan mengharap pahala](/referensi/ed96a157-778a-4577-bb3e-9efeabd3fd2d.html)
 
-3. **Pahala dilipat-gandakan**. 
+#### 3. Pahala dilipat-gandakan 
    
-   Rasulullah (saw) bersabda: "Umrah di bulan Ramadan menyamai (pahala) mengerjakan haji." [[^19538356-0e0b-40ae-adae-f79272f4f667]]
+Rasulullah (saw) bersabda: "Umrah di bulan Ramadan menyamai (pahala) mengerjakan haji." [[^19538356-0e0b-40ae-adae-f79272f4f667]]
 
-    [^19538356-0e0b-40ae-adae-f79272f4f667]: [Hadits Sunan Ibnu Majah, Kitab Manasik, Bab Umrah di bulan Ramadan](/referensi/19538356-0e0b-40ae-adae-f79272f4f667.html)
+[^19538356-0e0b-40ae-adae-f79272f4f667]: [Hadits Sunan Ibnu Majah, Kitab Manasik, Bab Umrah di bulan Ramadan](/referensi/19538356-0e0b-40ae-adae-f79272f4f667.html)
 
-4. **Bulan Pengabulan Doa**
+#### 4. Bulan Pengabulan Doa
 
-    Rasulullah (saw) bersabda, "Ada tiga orang yang tidak akan ditolak doanya; imam yang adil, orang yang berpuasa hingga berbuka dan do'a orang yang teraniaya..." [[^47928e66-5c4c-4adb-801c-b1e57b98d9c3]]
+Rasulullah (saw) bersabda, "Ada tiga orang yang tidak akan ditolak doanya; imam yang adil, orang yang berpuasa hingga berbuka dan do'a orang yang teraniaya..." [[^47928e66-5c4c-4adb-801c-b1e57b98d9c3]]
 
-    [^47928e66-5c4c-4adb-801c-b1e57b98d9c3]: [Hadits Sunan Ibnu Majah, Kitab Puasa, Bab Orang yang berpuasa, doanya tidak ditolak](/referensi/47928e66-5c4c-4adb-801c-b1e57b98d9c3.html)
+[^47928e66-5c4c-4adb-801c-b1e57b98d9c3]: [Hadits Sunan Ibnu Majah, Kitab Puasa, Bab Orang yang berpuasa, doanya tidak ditolak](/referensi/47928e66-5c4c-4adb-801c-b1e57b98d9c3.html)
 
 ### Catatan Kaki
 

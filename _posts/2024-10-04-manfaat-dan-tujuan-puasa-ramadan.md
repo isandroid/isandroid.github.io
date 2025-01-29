@@ -7,7 +7,7 @@ categories: puasa
 Allah Ta'ala berfirman,
 
 <p class=quran2>
-ـ...  وَأَنْ تَصُومُوا خَيْرٌ لَكُمْ إِنْ كُنْتُمْ تَعْلَمُونَ 
+... وَاَنۡ تَصُوۡمُوۡا خَیۡرٌ لَّکُمۡ اِنۡ کُنۡتُمۡ تَعۡلَمُوۡنَ ﴿۱۸۵﴾
 </p>
 
 Yakni, seandainya kalian senantiasa berpuasa, maka di dalamnya terdapat kebaikan yang besar bagi kalian jika kalian mengetahui (QS Al Baqarah [2]: 185 basmallah dihitung sebagai ayat pertama)
@@ -48,10 +48,13 @@ Rasulullah saw bersabda, “... berpuasalah maka kalian akan sehat, dan bersafar
 
 [^ced129b6-6325-458c-9945-b5f0912f7aa6]: [H.R. Ath Thabrani](/referensi/ced129b6-6325-458c-9945-b5f0912f7aa6.html)
 
-Tujuan Ketakwaan
+### 5. Tujuan Ketakwaan
+
 Tujuan final puasa adalah ketakwaan. Allah Ta'ala berfirman dalam Alquran Surah AlBaqarah [2] ayat 184, yakni:
 
-يَا أَيُّهَا الَّذِينَ آَمَنُوا كُتِبَ عَلَيْكُمُ الصِّيَامُ كَمَا كُتِبَ عَلَى الَّذِينَ مِنْ قَبْلِكُمْ لَعَلَّكُمْ تَتَّقُونَ 
+<p class="quran2">
+یٰۤاَیُّہَا الَّذِیۡنَ اٰمَنُوۡا کُتِبَ عَلَیۡکُمُ الصِّیَامُ کَمَا کُتِبَ عَلَی الَّذِیۡنَ مِنۡ قَبۡلِکُمۡ لَعَلَّکُمۡ تَتَّقُوۡنَ ﴿۱۸۴﴾ۙ
+</p>
 
 “Hai orang-orang yang beriman, puasa diwajibkan atasmu sebagaimana telah diwajibkan atas orang-orang sebelummu, supaya kamu terpelihara dari keburukan rohani dan jasmani.” (QS Al-Baqarah [2]: 184)
 
@@ -61,16 +64,26 @@ Selain itu, puasa adalah sarana untuk memperbaiki diri karena dimana manusia men
 
 Hadhrat Khalifatul Masih Awwal r.a. Bersabda:
 
-“Orang yang meninggalkan barang-barang yang dengan menggunakannya dia tidak melanggar hukum dan akhlak, maka dia akan terbiasa tidak menggunakan barang-barang orang lain dengan cara yang tidak benar dan tidak memperhatikannya. Ketika dia meninggalkan barang-barang yang benar demi Tuhan, maka pandangannya tidak dapat terarah pada barang-barang yang tidak benar”. [] 
+“Orang yang meninggalkan barang-barang yang dengan menggunakannya dia tidak melanggar hukum dan akhlak, maka dia akan terbiasa tidak menggunakan barang-barang orang lain dengan cara yang tidak benar dan tidak memperhatikannya. Ketika dia meninggalkan barang-barang yang benar demi Tuhan, maka pandangannya tidak dapat terarah pada barang-barang yang tidak benar”. [[^alfadhl-1966-12-17-h8]] 
 
-Tujuan Ramadhan yang sebenarnya adalah dalam bulan ini seseorang siap untuk meninggalkan segala sesuatu demi Allah Taala. Laparnya adalah tanda dan lambang bahwa dia siap untuk meninggalkan segala haknya demi Tuhan. Makan minum adalah hak seseorang. Hubungan suami istri adalah haknya. Oleh karena itu, barangsiapa meninggalkan hal-hal ini, maka ia memberitahukan bahwa saya siap untuk meninggalkan hak saya demi Allah Taala. Meninggalkan yang tidak hak memang perkara yang sangat rendah dan tidak dapat diharapkan dari seorang mukmin supaya dia merampas hak seseorang. Yang dapat diharapkan dari seorang mukmin adalah dia meninggalkan haknya demi keridhaan Allah Taala. Akan tetapi, seandainya Ramadhan tiba dan berlalu begitu saja serta kita senantiasa mengatakan bahwa bagaimana kita meninggalkan hak kita, artinya kita tidak meraih apa-apa dari Ramadhan. Karena Ramadhan tiba untuk menjelaskan bahwa kita hendaknya meninggalkan hak-hak kita demi keridhaan Allah Taala”. []
+[^alfadhl-1966-12-17-h8]: Al-Fadhl, 17 Desember 1966, halaman 8
+
+Tujuan Ramadhan yang sebenarnya adalah dalam bulan ini seseorang siap untuk meninggalkan segala sesuatu demi Allah Taala. Laparnya adalah tanda dan lambang bahwa dia siap untuk meninggalkan segala haknya demi Tuhan. Makan minum adalah hak seseorang. Hubungan suami istri adalah haknya. Oleh karena itu, barangsiapa meninggalkan hal-hal ini, maka ia memberitahukan bahwa saya siap untuk meninggalkan hak saya demi Allah Taala. Meninggalkan yang tidak hak memang perkara yang sangat rendah dan tidak dapat diharapkan dari seorang mukmin supaya dia merampas hak seseorang. Yang dapat diharapkan dari seorang mukmin adalah dia meninggalkan haknya demi keridhaan Allah Taala. Akan tetapi, seandainya Ramadhan tiba dan berlalu begitu saja serta kita senantiasa mengatakan bahwa bagaimana kita meninggalkan hak kita, artinya kita tidak meraih apa-apa dari Ramadhan. Karena Ramadhan tiba untuk menjelaskan bahwa kita hendaknya meninggalkan hak-hak kita demi keridhaan Allah Taala”. [[^alfadhl-1926-03-30-h5-6]]
+
+[^alfadhl-1926-03-30-h5-6]: Al-Fadhl, 30 Maret 1926, halaman 5-6
 
 Hadhrat Masih Mau’ud ‘alaihis salaam bersabda, 
-"Tujuan puasa adalah bahwa manusia meninggalkan satu jenis makanan yang hanya memelihara tubuh jasmani dan meraih makanan lain yang merupakan sumber ketenteraman dan kebahagiaan rohaniah. Mereka yang berpuasa hanya demi Allah, bukan karena adat kebiasaan, hendaknya terus sibuk dalam tahmid (memuji Allah), tasbih (subhanallah) dan tahlil (Laa illaha illallaah) kepada Allah Ta’ala, yang melaluinya mereka akan mendapatkan makanan yang lain." [] []
+
+"Tujuan puasa adalah bahwa manusia meninggalkan satu jenis makanan yang hanya memelihara tubuh jasmani dan meraih makanan lain yang merupakan sumber ketenteraman dan kebahagiaan rohaniah. Mereka yang berpuasa hanya demi Allah, bukan karena adat kebiasaan, hendaknya terus sibuk dalam tahmid (memuji Allah), tasbih (subhanallah) dan tahlil (Laa illaha illallaah) kepada Allah Ta’ala, yang melaluinya mereka akan mendapatkan makanan yang lain." [[^malfuzhat-j9-h123]] [[^FST20140725]]
+
+[^malfuzhat-j9-h123]: Malfuzhat jilid 9 halaman 123, edisi 1984, terbitan Rabwah
+
+[^FST20140725]: [Khotbah Hadhrat Khalifatul Masih V (aba) tanggal 25 Juli 2014](https://www.alislam.org/archives/sermons/summary/FST20140725-ID.pdf)
 
 Hadhrat Khalifatul Masih V atba bersabda,
+
 Allah menyatakan, ketika seorang yang berpuasa berpola pikir ini dan juga memenuhi hak-hak manusia, puasanya menjadi demi Allah dan Allah sendiri menjadi ganjaran untuk puasanya.
 
-Kebajikan-kebajikan orang tersebut tidak bersifat sementara; mereka tidak mematuhi kebajikan-kebajian tersebut hanya selama bulan Ramadhan. Mereka memiliki wawasan yang nyata terhadap ketakwaan dan mereka menghubungkan satu Ramadhan dengan Ramadhan berikutnya. Inilah yang harus kita jadikan sebagai tujuan; tidak mencapai ketakwaan untuk sementara, tidak berpuasa hanya pada pada tingkat yang dangkal untuk tetap lapar dan haus saja. Kita harus memahami esensi dari semangat Ramadhan, bukan hanya berharap satu sama lain mengucapkan 'Ramadhan Mubarak – Selamat memasuki bulan Ramadhan' dan tetap lalai. Pencapaian ketakwaan harus hadir dalam pikiran kita di setiap hari ketika mulai berpuasa di pagi hari dan hingga saat berbuka puasa di malam hari. Kita seharusnya tidak menanggapi dengan balasan setimpal bagi siapa pun yang menyerang kita. Sebaliknya, kita harus tetap diam dan hanya mengatakan kepada mereka bahwa kita sedang berpuasa. []
+Kebajikan-kebajikan orang tersebut tidak bersifat sementara; mereka tidak mematuhi kebajikan-kebajian tersebut hanya selama bulan Ramadhan. Mereka memiliki wawasan yang nyata terhadap ketakwaan dan mereka menghubungkan satu Ramadhan dengan Ramadhan berikutnya. Inilah yang harus kita jadikan sebagai tujuan; tidak mencapai ketakwaan untuk sementara, tidak berpuasa hanya pada pada tingkat yang dangkal untuk tetap lapar dan haus saja. Kita harus memahami esensi dari semangat Ramadhan, bukan hanya berharap satu sama lain mengucapkan 'Ramadhan Mubarak – Selamat memasuki bulan Ramadhan' dan tetap lalai. Pencapaian ketakwaan harus hadir dalam pikiran kita di setiap hari ketika mulai berpuasa di pagi hari dan hingga saat berbuka puasa di malam hari. Kita seharusnya tidak menanggapi dengan balasan setimpal bagi siapa pun yang menyerang kita. Sebaliknya, kita harus tetap diam dan hanya mengatakan kepada mereka bahwa kita sedang berpuasa. [[^FST20140725]]
 
 ### Catatan Kaki
