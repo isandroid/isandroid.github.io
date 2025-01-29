@@ -4,3 +4,73 @@ title: "04 - Manfaat dan Tujuan Puasa"
 categories: puasa
 ---
 
+Allah Ta'ala berfirman,
+
+<p class=quran2>
+ـ...  وَأَنْ تَصُومُوا خَيْرٌ لَكُمْ إِنْ كُنْتُمْ تَعْلَمُونَ 
+</p>
+
+Yakni, seandainya kalian senantiasa berpuasa, maka di dalamnya terdapat kebaikan yang besar bagi kalian jika kalian mengetahui (QS Al Baqarah [2]: 185 basmallah dihitung sebagai ayat pertama)
+
+Menurut firman Allah Ta'ala, puasa mempunyai kebaikan yang besar bagi manusia. Apa saja manfaat yang terkandung dalam ibadah ini? simak uraian berikut.
+
+### 1. Menjadi Perisai (Pemutus Syahwat)
+
+Rasulullah saw bersabda, "... Barangsiapa yang belum sanggup (menikah) maka hendaklah dia berpuasa karena puasa itu akan menjadi perisai baginya". (H.R. Bukhari) [[^9550d3a0-7f04-49bd-9015-3f6e63d919b7]]
+
+[^9550d3a0-7f04-49bd-9015-3f6e63d919b7]: [Hadits Shahih Al-Bukhari, Kitab Shaum, Bab Puasa bagi orang yang khawatir atas dirinya karena (nafsu) kelajangannya](/referensi/9550d3a0-7f04-49bd-9015-3f6e63d919b7.html)
+
+### 2. Mendapatkan Kegembiraan
+
+Dalam satu hadits Qudsi, Allah Ta'ala berfirman kepada Rasulullah saw, "Puasa adalah milik-Ku, dan Aku sendirilah yang menjadi ganjarannya. Orang yang berpuasa itu meninggalkan syahwatnya, makan dan minumnya karena Aku. Puasa adalah perisai, dan bagi orang yang berpuasa mendapat dua kegembiraan, Yakni kegembiraan ketika berbuka puasa dan kegembiraan ketika bertemu Tuhan-nya. Dan sungguh, bau mulut orang yang berpuasa jauh lebih wangi di sisi Allah daripada bau minyak kesturi." [[^34fcb1cc-99ed-439c-a4e6-08a2697904d6]]
+
+[^34fcb1cc-99ed-439c-a4e6-08a2697904d6]: [Hadits Shahih Al-Bukhari, Kitab Tauhid, Bab Firman Allah Ta'ala: {mereka hendak merubah janji Allah}](/referensi/34fcb1cc-99ed-439c-a4e6-08a2697904d6.html)
+
+Menjelaskan ayat di atas, Hadhrat Masih Mau’ud (Imam Mahdi) ‘alaihis salaam (as) bersabda, 
+
+kenajisan berhala dan kenajisan dusta, haruslah dihindarkan. Kedustaan adalah berhala. Barangsiapa yang mengandalkannya berarti ia meninggalkan Allah Ta’ala. Di satu pihak – orang yang mengatakan bahwa ia berpuasa itu – taat kepada perintah Allah sebagaimana dinyatakan di dalam Al Qur’an: “Hai orang-orang yang beriman! Diwajibkan atasmu berpuasa…..,” (Al-Baqarah, 2:184); akan tetapi di lain pihak disebabkan kebohongannya, ia menempatkan kedustaan sama pentingnya dengan Wujud yang memerintahnya untuk berpuasa. Maka pernyataan bersyarat: ‘Puasa adalah bagi-Ku. Aku sendirilah yang akan menjadi ganjaran pahalanya.’ tidak akan dapat terpenuhi. Bukan hal yang mustahil orang beramal sesuatu demi Allah Ta’ala, untuk menarik kecintaanNya dan Allah Ta’ala yang menjadi ganjarannya. Akan tetapi kedustaan dicampurkan di dalam amalnya itu.  [[^FSS20120727]]
+
+[^FSS20120727]: [Khotbah Jum'at Hadhrat Khalifatul Masih V (atba) 27-Juli-2012](https://www.alislam.org/archives/sermons/summary/FSS20120727-ID.pdf)
+
+### 3. Meningkatnya Akhlak dan Ruhani
+
+Hadhrat Mushlih Mau'ud ra bersabda: 
+
+“Tujuan puasa tidak membuat seseorang mati kelaparan atau kehausan. Seandainya surga dapat diraih dengan mati kelaparan, maka saya menganggap bahwa orang-orang yang paling kafir dan munafik juga siap untuk melakukannya, karena mati kelaparan dan kehausan bukanlah perkara yang sulit. 
+
+Pada hakikatnya, perkara yang sulit adalah perubahan akhlak dan rohani. Ketika orang-orang lapar, maka mereka berada pada perkara-perkara yang biasa. Ketika mereka masuk ke dalam penjara, maka mereka mulai mati kelaparan. Alasan yang masyhur orang-orang Brahma adalah ketika orang-orang tidak mempercayai perkataan mereka, maka mereka meninggalkan makan. Jadi, menahan lapar bukanlah perkara yang agung dan bukan tujuan puasa.” [[^alfadhl-1926-03-30]]
+
+[^alfadhl-1926-03-30]: Al-Fadhl, 30 Maret 1926, halaman 5-6
+
+### 4. Mendapatkan Kesehatan Jasmani
+
+Rasulullah saw bersabda, “... berpuasalah maka kalian akan sehat, dan bersafarlah maka kalian akan kaya.” (H.R. Thabrani) [[^ced129b6-6325-458c-9945-b5f0912f7aa6]]
+
+[^ced129b6-6325-458c-9945-b5f0912f7aa6]: [H.R. Ath Thabrani](/referensi/ced129b6-6325-458c-9945-b5f0912f7aa6.html)
+
+Tujuan Ketakwaan
+Tujuan final puasa adalah ketakwaan. Allah Ta'ala berfirman dalam Alquran Surah AlBaqarah [2] ayat 184, yakni:
+
+يَا أَيُّهَا الَّذِينَ آَمَنُوا كُتِبَ عَلَيْكُمُ الصِّيَامُ كَمَا كُتِبَ عَلَى الَّذِينَ مِنْ قَبْلِكُمْ لَعَلَّكُمْ تَتَّقُونَ 
+
+“Hai orang-orang yang beriman, puasa diwajibkan atasmu sebagaimana telah diwajibkan atas orang-orang sebelummu, supaya kamu terpelihara dari keburukan rohani dan jasmani.” (QS Al-Baqarah [2]: 184)
+
+Ayat diatas menjelaskan bahwa puasa merupakan satu resep mujarab untuk menjadi orang yang bertakwa (mutaki). Yakni, seandainya kalian mengamalkan resep ini, maka kalian akan menjadi orang yang bertakwa (mutaki).
+
+Selain itu, puasa adalah sarana untuk memperbaiki diri karena dimana manusia meninggalkan kelezatan-kelezatan demi Tuhan, maka disana pun ia mendapatkan pelajaran untuk menegakkan dirinya pada kebaikan yang lebih dan berusaha untuk menghindarkan dirinya dari segala macam barang yang haram dan najis.
+
+Hadhrat Khalifatul Masih Awwal r.a. Bersabda:
+
+“Orang yang meninggalkan barang-barang yang dengan menggunakannya dia tidak melanggar hukum dan akhlak, maka dia akan terbiasa tidak menggunakan barang-barang orang lain dengan cara yang tidak benar dan tidak memperhatikannya. Ketika dia meninggalkan barang-barang yang benar demi Tuhan, maka pandangannya tidak dapat terarah pada barang-barang yang tidak benar”. [] 
+
+Tujuan Ramadhan yang sebenarnya adalah dalam bulan ini seseorang siap untuk meninggalkan segala sesuatu demi Allah Taala. Laparnya adalah tanda dan lambang bahwa dia siap untuk meninggalkan segala haknya demi Tuhan. Makan minum adalah hak seseorang. Hubungan suami istri adalah haknya. Oleh karena itu, barangsiapa meninggalkan hal-hal ini, maka ia memberitahukan bahwa saya siap untuk meninggalkan hak saya demi Allah Taala. Meninggalkan yang tidak hak memang perkara yang sangat rendah dan tidak dapat diharapkan dari seorang mukmin supaya dia merampas hak seseorang. Yang dapat diharapkan dari seorang mukmin adalah dia meninggalkan haknya demi keridhaan Allah Taala. Akan tetapi, seandainya Ramadhan tiba dan berlalu begitu saja serta kita senantiasa mengatakan bahwa bagaimana kita meninggalkan hak kita, artinya kita tidak meraih apa-apa dari Ramadhan. Karena Ramadhan tiba untuk menjelaskan bahwa kita hendaknya meninggalkan hak-hak kita demi keridhaan Allah Taala”. []
+
+Hadhrat Masih Mau’ud ‘alaihis salaam bersabda, 
+"Tujuan puasa adalah bahwa manusia meninggalkan satu jenis makanan yang hanya memelihara tubuh jasmani dan meraih makanan lain yang merupakan sumber ketenteraman dan kebahagiaan rohaniah. Mereka yang berpuasa hanya demi Allah, bukan karena adat kebiasaan, hendaknya terus sibuk dalam tahmid (memuji Allah), tasbih (subhanallah) dan tahlil (Laa illaha illallaah) kepada Allah Ta’ala, yang melaluinya mereka akan mendapatkan makanan yang lain." [] []
+
+Hadhrat Khalifatul Masih V atba bersabda,
+Allah menyatakan, ketika seorang yang berpuasa berpola pikir ini dan juga memenuhi hak-hak manusia, puasanya menjadi demi Allah dan Allah sendiri menjadi ganjaran untuk puasanya.
+
+Kebajikan-kebajikan orang tersebut tidak bersifat sementara; mereka tidak mematuhi kebajikan-kebajian tersebut hanya selama bulan Ramadhan. Mereka memiliki wawasan yang nyata terhadap ketakwaan dan mereka menghubungkan satu Ramadhan dengan Ramadhan berikutnya. Inilah yang harus kita jadikan sebagai tujuan; tidak mencapai ketakwaan untuk sementara, tidak berpuasa hanya pada pada tingkat yang dangkal untuk tetap lapar dan haus saja. Kita harus memahami esensi dari semangat Ramadhan, bukan hanya berharap satu sama lain mengucapkan 'Ramadhan Mubarak – Selamat memasuki bulan Ramadhan' dan tetap lalai. Pencapaian ketakwaan harus hadir dalam pikiran kita di setiap hari ketika mulai berpuasa di pagi hari dan hingga saat berbuka puasa di malam hari. Kita seharusnya tidak menanggapi dengan balasan setimpal bagi siapa pun yang menyerang kita. Sebaliknya, kita harus tetap diam dan hanya mengatakan kepada mereka bahwa kita sedang berpuasa. []
+
+### Catatan Kaki
