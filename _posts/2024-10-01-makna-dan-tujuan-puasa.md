@@ -35,6 +35,7 @@ Maulana Rahmat Ali, HA. OT. (r.a.) dalam karyanya, Rahasia Rukun Islam, menjelas
 Beberapa pengertian puasa
 
 - Puasa atau Saum berarti salah satu rukun Islam berupa ibadah dengan cara menahan diri atau berpantang makan, minum, dan segala yang membatalkannya mulai terbit fajar sampai terbenam Matahari. [^pengertian-puasa-kbbi]
+
 - Menahan diri dari makan, minum dan hubungan seksual di siang hari. [^etimologi-shooma-almaany]
 
 [^pengertian-puasa-kbbi]: [Puasa dalam KBBI](https://kbbi.kemdikbud.go.id/entri/puasa)
@@ -47,7 +48,7 @@ Puasa dianggap sebagai disiplin fisik, akhlak, dan ruhani untuk tujuan memajukan
 
 Berdasarkan Tafsir Alquran dari QS Al Baqarah (002) ayat 184, Puasa adalah peraturan agama, dalam bentuk atau dengan perincian bagaimana pun terdapat pada tiap-tiap agama. 
 
-> Oleh kebanyakan agama, pada kebudayaan yang tarafnya rendah, pertengahan atau lebih tinggi sekalipun, puasa itu umumnya diwajibkan; dan, walaupun bila tidak diharuskan, puasa itu dilakukan seberapa jauh oleh perorangan, sebagai jawaban kepada dorongan tabi’i (alaminya)” – (Enc. Brit). 
+Oleh kebanyakan agama, pada kebudayaan yang tarafnya rendah, pertengahan atau lebih tinggi sekalipun, puasa itu umumnya diwajibkan; dan, walaupun bila tidak diharuskan, puasa itu dilakukan seberapa jauh oleh perorangan, sebagai jawaban kepada dorongan tabi’i (alaminya)” – (Enc. Brit). 
 
 Ini adalah pengalaman umum para wali dan ahli kasyaf bahwa pemutusan hubungan jasmani atau pertalian duniawi sampai batas tertentu itu, sangat perlu untuk kemajuan rohani dan mengandung pengaruh mensucikan yang kuat sekali kepada alam pikiran. Tetapi, Islam telah memperkenalkan orientasi dan arti rohani baru dalam peraturan puasa ini. Menurut Islam, puasa merupakan lambang pengorbanan yang sempurna. Orang puasa bukan hanya menjauhi makan-minum, yang merupakan sarana hidup yang utama, dan tanpa itu orang tak dapat hidup, tetapi pula menjauhi istrinya sendiri, yang merupakan sarana untuk mendapat keturunan. Jadi, orang yang berpuasa membuktikan kesediannya yang sungguh-sungguh, bila diperlukan, mengorbankan segala-galanya untuk kepentingan Tuhan dan Khalik-nya. [^tafsir-al-quran-002-184]
 
