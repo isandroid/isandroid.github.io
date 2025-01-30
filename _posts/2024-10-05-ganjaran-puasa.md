@@ -6,7 +6,7 @@ categories: puasa
 
 Puasa adalah salah satu ibadah yang memiliki keutamaan dan ganjaran yang besar dalam agama Islam. Selain sebagai bentuk ketaatan kepada Allah SWT, puasa juga memiliki hikmah yang mendalam bagi kehidupan manusia. Dalam artikel ini, kita akan membahas lebih lanjut mengenai ganjaran puasa serta hikmah yang terkandung di dalamnya.
 
-### 1. Mendapatkan Ganjaran 10 Kali lipat hingga 700 mkali lipat
+### 1. Mendapatkan Ganjaran 10 Kali lipat hingga 700 Kali lipat
 
 Allah Ta'ala berfirman, 
 
