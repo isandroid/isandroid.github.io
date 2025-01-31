@@ -22,6 +22,12 @@ Dalam satu hadis qudsi, Rasulullah (saw) bersabda bahwa Allah Ta'ala berfirman,
 
 [^ddcffed2-5e7c-4906-817d-6795995ec114]: [Hadits Shahih Al-Bukhari, Kitab Tauhid, Bab Firman Allah Ta'ala: {mereka hendak merubah janji Allah](/referensi/ddcffed2-5e7c-4906-817d-6795995ec114.html)
 
+Dalam satu riwayat, Rasulullah (saw) memberikan nasehat,
+
+> Dan demi Dzat yang jiwaku berada di tanganNya, sungguh bau mulut orang yang sedang shaum lebih harum di sisi Allah Ta'ala dari pada harumnya minyak misik, karena dia meninggalkan makanannya, minuman dan nafsu syahwatnya karena Aku. Shaum itu untuk Aku dan Aku sendiri yang akan membalasnya dan setiap satu kebaikan dibalas dengan sepuluh kebaikan yang serupa". [[^d319c298-6082-4bfa-a4cc-fcf93860b832]]
+
+[^d319c298-6082-4bfa-a4cc-fcf93860b832]: [Hadits Shahih Al-Bukhari, Kitab Puasa, Bab Keutamaan puasa](/referensi/d319c298-6082-4bfa-a4cc-fcf93860b832.html)
+
 Secara umum, ibadah itu diberikan ganjaran sepuluh kali lipat. Namun begitu jika Allah Ta'ala telah memberikan ridho-Nya, maka bisa saja kita diberikan ganjaran 700 kali lipat bahkan lebih.
 
 ### 2. Ganjaran Puasa itu Tidak ada bandingannya
