@@ -134,6 +134,12 @@ Selain itu diriwayatkan,
 
 [^e452b6be-eee1-4e51-93fd-102ea4d03f44]: [Hadits Shahih Al-Bukhari Kitab Shaum, Bab Di bulan ramadan Nabi Shallallahu 'alaihi wa Sallam lebih banyak beramal kebaikan](/referensi/e452b6be-eee1-4e51-93fd-102ea4d03f44.html)
 
+Rasulullah (saw) juga berbagi makanan untuk berbuka puasa. Beliau (saw) bersabda: 
+
+"Barangsiapa yang memberi makan orang yang berbuka, dia mendapatkan seperti pahala orang yang berpuasa tanpa mengurangi pahala orang yang berpuasa sedikitpun" [[^5ae6a529-7c44-4e71-ba25-a738c0498267]]
+
+[^5ae6a529-7c44-4e71-ba25-a738c0498267]: [Hadits Jami' At-Tirmidzi, Kitab Puasa, Bab Keutamaan memberi makan orang yang puasa](/referensi/5ae6a529-7c44-4e71-ba25-a738c0498267.html)
+
 ### 7. Menjaga Akhlak
 
 Puasa berfungsi sebagai perisai yang melindungi seseorang dari perbuatan dosa dan maksiat. Dengan berpuasa, seseorang diharapkan mampu menahan diri dari segala perbuatan yang buruk dan meningkatkan akhlaknya. Rasulullah (saw) memberikan nasehat,

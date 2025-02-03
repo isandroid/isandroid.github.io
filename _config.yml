@@ -43,7 +43,7 @@ minima:
   # dark	             Dark variant of the classic skin.
   # auto	             Adaptive skin based on the default classic and dark skins.
   # solarized-light	   Light variant of solarized color scheme.
-  # solarized-dark	   Dark variant of solarized color scheme.
+  # solarized-dark	   Dark variant of solarized color scheme.71
   # solarized	         Adaptive skin for solarized color scheme skins.
   skin: classic
   
