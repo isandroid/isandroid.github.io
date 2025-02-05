@@ -130,7 +130,7 @@ Diriwayatkan oleh Hadhrat Ibnu 'Abbas (ra) bahwa Rasulullah (saw) menjadi lebih 
 
 Selain itu diriwayatkan,
 
-"...Apabila Jibril Alaihissalam datang menemui beliau (saw), maka beliau (saw) menjadi orang yang paling lembut dalam kebaikan (dermawan) melebihi lembutnya angin yang berhembus". [[^e452b6be-eee1-4e51-93fd-102ea4d03f44]]
+"...Apabila Jibril (as) datang menemui beliau (saw), maka beliau (saw) menjadi orang yang paling lembut dalam kebaikan (dermawan) melebihi lembutnya angin yang berhembus". [[^e452b6be-eee1-4e51-93fd-102ea4d03f44]]
 
 [^e452b6be-eee1-4e51-93fd-102ea4d03f44]: [Hadits Shahih Al-Bukhari Kitab Shaum, Bab Di bulan ramadan Nabi Shallallahu 'alaihi wa Sallam lebih banyak beramal kebaikan](/referensi/e452b6be-eee1-4e51-93fd-102ea4d03f44.html)
 
