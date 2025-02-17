@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "17 - I'tikaf"
+title: "22 - Hukum Puasa: Utang Puasa"
 categories: puasa
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "26 - Pengorbanan: Zakat Fitrah"
+title: "19 - Hukum Puasa"
 categories: puasa
 ---
 

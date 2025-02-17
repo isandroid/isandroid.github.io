@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "29 - Pengorbanan: Fidyah"
+title: "27 - Pengorbanan: Zakat Fitrah"
 categories: puasa
 ---
 

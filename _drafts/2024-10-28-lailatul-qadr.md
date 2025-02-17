@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "21 - Hukum Puasa: Utang Puasa"
+title: "28 - Lailatul Qadr"
 categories: puasa
 ---
 
