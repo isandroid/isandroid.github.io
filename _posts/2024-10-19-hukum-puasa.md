@@ -82,11 +82,13 @@ Salah satu syarat puasa adalah mampu untuk melaksanakan puasa. Secara ringkas ka
 
 3. Menurut [Al-Quran surat Al-Baqarah [2]: 185](https://www.openquran.com/search?query=2:185) bahwa orang yang **tidak mampu berpuasa**. Beberapa orang tersebut adalah:
 
+- Orang yang sudah tua renta atau lemah.
+
 - Orang hamil dam menyusui tidak diperbolehkan berpuasa. Rasulullah (saw) memerintahkan mereka untuk tidak berpuasa Ramadan. Ia bisa mengganti puasa di hari lain di luar Ramadan atau jika di tahun berikutnya masih menyusui, maka hendaknya membayar fidyah. [[^5ba8011f-3684-4cd0-a6b4-40f9b8582ee8]] 
 
 [^5ba8011f-3684-4cd0-a6b4-40f9b8582ee8]: [Hadits Jami' At-Tirmidzi, Kitab Puasa, Bab Wanita hamil dan menyusui, dirukhsahkan tidak puasa](/referensi/5ba8011f-3684-4cd0-a6b4-40f9b8582ee8.html)
 
-- Orang yang sedang berperang diperintahkan untuk tidak berpuasa. Rasulullah (saw) memerintahkan mereka untuk berbuka puasa atau tidak berpuasa Ramadan. Oleh karena itu mereka diperintahkan menggati di luar bulan Ramadan. [[^f558b51f-3e31-4834-acd3-36df56504e0e]] 
+- Orang yang sedang berperang diperintahkan untuk tidak berpuasa. Rasulullah (saw) memerintahkan mereka untuk berbuka puasa atau tidak berpuasa Ramadan. Oleh karena itu mereka diperintahkan mengganti di luar bulan Ramadan. [[^f558b51f-3e31-4834-acd3-36df56504e0e]] 
 
 [^f558b51f-3e31-4834-acd3-36df56504e0e]: [Hadits Jami' At-Tirmidzi, Kitab Puasa, Bab Orang yang berperang dirukhsahkan tidak puasa](/referensi/f558b51f-3e31-4834-acd3-36df56504e0e.html)
 
