@@ -34,6 +34,16 @@ kenajisan berhala dan kenajisan dusta, haruslah dihindarkan. Kedustaan adalah be
 
 ### 3. Meningkatnya Akhlak dan Ruhani
 
+Hadhrat Masih Mauud (as) bersabda:
+
+”Orang-orang pun tidak memahami hakekat puasa. Pada dasarnya negara mana manusia tidak kunjungi dan dengan alam mana manusia tidak kenal, maka situasi dan kondisi disana apa yang akan dia terangkan. Puasa bukanlah bahwa manusia hanya sekedar merasakan lapar dan dahaga, tetapi terdapat satu hakekat dan pengaruh yang dapat diketahui dengan pengalaman. Sudah merupakan fitrah manusia bahwa seberapa manusia sedikit makan maka sebanyak itulah timbul kesucian jiwa dalam dirinya dan daya atau potensi-potensi kasyaf akan menjadi bertambah. Kehendak Allah di dalamnya adalah supaya di satu sisi manusia mengurangi makanan dan di sisi lain meningkatkan (makanan ruhani). Orang yang berpuasa seyogianya senantiasa memperhatikan bahwa maksud puasa bukanlah manusia hanya sekedar menahan lapar belaka, tetapi seyogianya dia terus sibuk dalam berzikir pada Tuhan supaya dia dapat meraih tabattul dan pemutusan hubungan dengan benda duniawi”.
+
+Yakni timbul perhatian untuk menjalin ikatan pertalian dengan Allah, dan timbul rasa tidak tertarik pada dunia dan timbul perhatian untuk meninggalkan dunia." Jadi maksud puasa adalah supaya manusia meninggalkan satu roti (makan) yang merawat tubuh dan meraih roti (makanan) yang lain yang merupakan faktor penghibur bagi ruh dan merupakan faktor yang dapat menimbulkan rasa kenyang pada ruh. Dan orang-orang yang berpuasa hanya semata-mata untuk Tuhan dan tidak berpuasa hanya untuk sekedar tradisi belaka maka hendaknya mereka sibuk dalam bertasbih dan mengucapkan tahlil, yakni memuji-Nya serta bertasbih juga pada-Nya dan menerangkan kebesaran dan menganggap-Nya adalah segala-galannya.” Yang sebagai dampaknya dia akan meraih makanan yang lain,yaitu makanan ruhani.” [[^malfuzhat-v-102]] [[^khotbah-20041015]]
+
+[^malfuzhat-v-102]: Malfuzhat jilid V:102 Edisi baru
+
+[^khotbah-20041015]: Khotbah Jumat Sayyidina Amirul Mu’minin, Hadhrat Mirza Masrur Ahmad, Khalifatul Masih al-Khaamis (aba) tanggal 15 Oktober 2004 di Mesjid Baitulfutuh, Morden, London
+
 Hadhrat Mushlih Mau'ud ra bersabda: 
 
 “Tujuan puasa tidak membuat seseorang mati kelaparan atau kehausan. Seandainya surga dapat diraih dengan mati kelaparan, maka saya menganggap bahwa orang-orang yang paling kafir dan munafik juga siap untuk melakukannya, karena mati kelaparan dan kehausan bukanlah perkara yang sulit. 

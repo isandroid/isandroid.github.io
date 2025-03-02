@@ -52,7 +52,7 @@ Jika pada bulan Ramadhan mereka yang berpuasa mengamalkan hukum-hukum Allah Ta�
 
 Ketika Allah Ta’ala sendiri telah menjadi ganjarannya, berarti sarana  ampunan telah didapat dan jika itu telah diraih yakni Allah Ta’ala menerima ampunan dan taubatnya, berarti dia telah selamat dari api yakni api dunia dan di akhirat nanti. [[^FST20180629]]
 
-[^FST20180629]: [Khotbah Jumat Sayyidina Amirul Mu’minin, Hadhrat Mirza Masroor Ahmad, Khalifatul Masih al-Khaamis (aba) pada 08 Juni 2018 di Masjid Baitul Futuh, Morden, UK (Britania Raya)](https://www.alislam.org/archives/sermons/summary/FST20180629-ID.pdf)
+[^FST20180629]: [Khotbah Jumat Sayyidina Amirul Mu'minin, Hadhrat Mirza Masroor Ahmad, Khalifatul Masih al-Khaamis (aba) pada 08 Juni 2018 di Masjid Baitul Futuh, Morden, UK (Britania Raya)](https://www.alislam.org/archives/sermons/summary/FST20180629-ID.pdf)
 
 ### 4. Masuk Surga melalui Pintu Ar-Royyan
 

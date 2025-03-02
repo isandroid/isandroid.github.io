@@ -54,4 +54,10 @@ Ini adalah pengalaman umum para wali dan ahli kasyaf bahwa pemutusan hubungan ja
 
 [^tafsir-al-quran-002-184]: Tafsir Alquran dengan Terjemah dan Tafsir Singkat terbitan Jemaat Ahmadiyah Indonesia, QS Al Baqarah ayat 184
 
+(Dalam Al-Baqarah 186) diketahui akan kebesaran bulan Ramadhan. Para sufi menulis bahwa untuk menerangi hati sanubari bulan ini merupakan bulan yang bagus. Di dalamnya dibukakan banyak tirai-tirai kasyaf. Shalat dapat mensucikan jiwa dan puasa menerangi kalbu. Maksud pensucian jiwa adalah dapat meraih jarak yang jauh dari nafsu ammarah” Nafsu ammarah merupakan nafsu yang membawa pada keburukan. “ Dan maksud tajalli kalbi –kecemerlangan kalbu adalah pintu kasyaf terbuka baginya sehingga dia melihat Tuhan’. [[^malfuzhat-ii-561-562]] [[^khotbah-20041015]]
+
+[^malfuzhat-ii-561-562]: Malfuzhat jilid 2:561-562 Edisi Baru
+
+[^khotbah-20041015]: Khotbah Jumat Sayyidina Amirul Mu’minin, Hadhrat Mirza Masrur Ahmad, Khalifatul Masih al-Khaamis (aba) tanggal 15 Oktober 2004 di Mesjid Baitulfutuh, Morden, London
+
 ### Catatan Kaki
