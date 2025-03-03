@@ -36,35 +36,7 @@ Rasulullah (saw) pernah menyampaikan bahwa puasa Ramadhan itu belum diwajibkan b
 
 [^9c80c29a-1f8f-4625-bb07-ddee5e30deae]: [Hadits Sunan Abu Dawud, Kitab Hudud, Bab Orang gila mencuri atau melanggar hukum had](/referensi/9c80c29a-1f8f-4625-bb07-ddee5e30deae.html)
 
-Berikut adalah petunjuk berpuasa bagi anak Ahmadi berdasarkan perkembangan usia yg terdapat dalam sylabus waqf-e-nou oleh Hz Khalifatul Masih IV (r.h.) dan telah disetujui oleh Hz Khalifatul Masih V (atba.) Petunjuk ini sebagai sarana Talim dan Tarbiyat bagi para orang tua waqf-e-nou khususnya dan para orang tua Ahmadi pada umumnya.
-
-- Usia 7-8 tahun: “Jika memungkinkan, berpuasalah selama satu hari pada bulan Ramadhan.” [[^silabus-waqfenou-h17]]
-
-- Usia 8-9 tahun: “Jika memungkinkan, berpuasalah selama satu hari pada bulan Ramadhan.” [[^silabus-waqfenou-h20]]
-
-- Usia 9-10 tahun: “Jika memungkinkan, berpuasalah selama dua hari pada bulan Ramadhan.” [[^silabus-waqfenou-h23]]
-
-- Usia 10-11 tahun: “Jika memungkinkan, berpuasalah selama lima hari pada bulan Ramadhan.” [[^silabus-waqfenou-h26]]
-
-- Usia 11-12 tahun: “Jika memungkinkan, berpuasalah selama tujuh hari pada bulan Ramadhan.” [[^silabus-waqfenou-h32]]
-
-- Usia 12-13 tahun: “Jika memungkinkan, berpuasalah selama sepuluh hari pada bulan Ramadhan.” [[^silabus-waqfenou-h37]]
-
-- Usia 13-14 tahun: “Jika memungkinkan, berpuasalah selama 15 hari selama bulan Ramadhan.” [[^silabus-waqfenou-h43]]
-
-- Usia 14-15 tahun: “Jika memungkinkan, berpuasalah hingga 20 hari pada bulan Ramadhan.” [[^silabus-waqfenou-h53]]
-
-- Usia 15-16 tahun: “Cobalah berpuasa selama bulan Ramadhan” [[^silabus-waqfenou-h61]]
-
-[^silabus-waqfenou-h17]: Silabus Waqf-e-Nou Usia 1-21 tahun, Penterjemah: Mln. Hafidzurrahman, Neratja Press, Sept. 2016, hlm. 17
-[^silabus-waqfenou-h20]: Silabus Waqf-e-Nou Usia 1-21 tahun, Penterjemah: Mln. Hafidzurrahman, Neratja Press, Sept. 2016, hlm. 20
-[^silabus-waqfenou-h23]: Silabus Waqf-e-Nou Usia 1-21 tahun, Penterjemah: Mln. Hafidzurrahman, Neratja Press, Sept. 2016, hlm. 23
-[^silabus-waqfenou-h26]: Silabus Waqf-e-Nou Usia 1-21 tahun, Penterjemah: Mln. Hafidzurrahman, Neratja Press, Sept. 2016, hlm. 26
-[^silabus-waqfenou-h32]: Silabus Waqf-e-Nou Usia 1-21 tahun, Penterjemah: Mln. Hafidzurrahman, Neratja Press, Sept. 2016, hlm. 32
-[^silabus-waqfenou-h37]: Silabus Waqf-e-Nou Usia 1-21 tahun, Penterjemah: Mln. Hafidzurrahman, Neratja Press, Sept. 2016, hlm. 37
-[^silabus-waqfenou-h43]: Silabus Waqf-e-Nou Usia 1-21 tahun, Penterjemah: Mln. Hafidzurrahman, Neratja Press, Sept. 2016, hlm. 43
-[^silabus-waqfenou-h53]: Silabus Waqf-e-Nou Usia 1-21 tahun, Penterjemah: Mln. Hafidzurrahman, Neratja Press, Sept. 2016, hlm. 53
-[^silabus-waqfenou-h61]: Silabus Waqf-e-Nou Usia 1-21 tahun, Penterjemah: Mln. Hafidzurrahman, Neratja Press, Sept. 2016, hlm. 61
+Anak-anak yang belum baligh. Anak-anak yang belum mencapai usia baligh atau belum dewasa tidak diwajibkan berpuasa. Namun, mereka dianjurkan untuk mulai belajar berpuasa agar terbiasa ketika sudah dewasa. ([lebih detil klik di sini](/puasa/2024/10/24/keringanan-dalam-puasa.html))
 
 #### 3. Berakal
 
@@ -84,7 +56,7 @@ Salah satu syarat puasa adalah mampu untuk melaksanakan puasa. Secara ringkas ka
 
 - Orang yang sudah tua renta atau lemah.
 
-- Orang hamil dam menyusui tidak diperbolehkan berpuasa. Rasulullah (saw) memerintahkan mereka untuk tidak berpuasa Ramadan. Ia bisa mengganti puasa di hari lain di luar Ramadan atau jika di tahun berikutnya masih menyusui, maka hendaknya membayar fidyah. [[^5ba8011f-3684-4cd0-a6b4-40f9b8582ee8]] 
+- Orang hamil dan menyusui tidak diperbolehkan berpuasa. Rasulullah (saw) memerintahkan mereka untuk tidak berpuasa Ramadan. Ia bisa mengganti puasa di hari lain di luar Ramadan atau jika di tahun berikutnya masih menyusui, maka hendaknya membayar fidyah. [[^5ba8011f-3684-4cd0-a6b4-40f9b8582ee8]] 
 
 [^5ba8011f-3684-4cd0-a6b4-40f9b8582ee8]: [Hadits Jami' At-Tirmidzi, Kitab Puasa, Bab Wanita hamil dan menyusui, dirukhsahkan tidak puasa](/referensi/5ba8011f-3684-4cd0-a6b4-40f9b8582ee8.html)
 
