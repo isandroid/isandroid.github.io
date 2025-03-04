@@ -84,7 +84,6 @@ Dalam riwayat lain,
 
 ### Nasehat Hadhrat Khalifatul Masih V (aba)
 
-Hadhrat Khalifatul Masih V atba bersabda, 
 Karena keagungan bulan Ramadhan ini ganjaran puasanya juga sangat tinggi dan besar sekali. Namun ganjaran itu bagi orang-orang yang memenuhi hak-hak puasa berkaitan dengan Alqur’anul Karim. Dan hak-hak itu adalah sambil berpuasa harus banyak-banyak membaca Al Qur’an, merenungkan dan menela’ah arti dan tafsirnya. Sebab sejauh yang saya ketahui dan sesuai dengan penelitian saya bahwa banyak sekali orang-orang yang tidak memenuhi hak-hak Al Qur’an atau tidak membacanya dengan teratur dan sungguh-sungguh. Yang seharusnya membaca Al Qur’an dengan penuh perhatian, mereka tidak melakukannya. Jika membacanya juga namun hanya sedikit saja. Maka, perlu mendapat perhatian kearah ini. [[^khotbah-20140711]]
 
 [^khotbah-20140711]: Khotbah Jum'at Hadhrat Khalifatul Masih V atba, tgl 11-Juli-2014 di Masjid Baitul Futuh, London.
