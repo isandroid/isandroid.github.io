@@ -60,4 +60,10 @@ Ini adalah pengalaman umum para wali dan ahli kasyaf bahwa pemutusan hubungan ja
 
 [^khotbah-20041015]: Khotbah Jumat Sayyidina Amirul Mu’minin, Hadhrat Mirza Masrur Ahmad, Khalifatul Masih al-Khaamis (aba) tanggal 15 Oktober 2004 di Mesjid Baitulfutuh, Morden, London
 
+### Nasehat Puasa
+
+Orang-orang yang berpuasa semata-mata karena Allah Ta'ala, dan bukan sekadar sebagai sebuah tradisi, hendaknya mereka senantiasa sibuk dalam memuji Allah Ta'ala, bertasbih dan bertahlil. [[^malfuzhat-ix-122-123]]
+
+[^malfuzhat-ix-122-123]: Malfuzat, Jilid 9, Halaman 122-123, Edisi 1984
+
 ### Catatan Kaki
