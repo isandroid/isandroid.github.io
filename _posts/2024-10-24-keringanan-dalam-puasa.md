@@ -158,3 +158,4 @@ Diriwayatkan dari Umar bin Al Khaththab, dia berkata, kami berperang bersama Ras
 
 ### Catatan Kaki
 
+<!-- PR ambil kutipan-kutipan di sini: https://files.alislam.cloud/fs/FST20031024-ID.pdf -->
