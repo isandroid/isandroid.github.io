@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "31 - Idulfitri"
+title: "34 - Macam-macam Puasa Sunah"
 categories: puasa
 ---
 

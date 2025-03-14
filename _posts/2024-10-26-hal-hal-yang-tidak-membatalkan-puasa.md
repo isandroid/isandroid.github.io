@@ -26,6 +26,8 @@ Ibnu Abbas (ra), sahabat nabi pernah menyampaikan,
 
 [^atsar-ibnu-abbas]: [https://dorar.net/h/IBvakiAf](https://dorar.net/h/IBvakiAf)
 
+<!-- Huzur V (atba) menyampaikan bahwa tidak diperbolehkan mencicipi makanan.  https://youtube.com/shorts/SdDkakM5l84?si=cULMYBQkouoYT6-m -->
+
 ### Hal-hal yang Masuk ke Perut Karena Lupa, Tidak Sengaja, Tidak Tahu atau Terpaksa
 
 Sesuatu yang masuk ke perut karena lupa, tidak tahu, atau terpaksa tidak membatalkan puasa. Rasulullah (saw) bersabda,

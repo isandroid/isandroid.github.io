@@ -16,7 +16,9 @@ categories: puasa
 
 ### Pengertian Zakat Fitrah
 
-Zakat Fitrah adalah zakat yang diwajibkan atas setiap jiwa, baik laki-laki maupun perempuan Muslim, yang dilakukan pada bulan Ramadhan sebelum shalat Idul Fitri. 
+Zakat Fitrah Fitrah atau disebut *Sadaqatul Fitr* dalam Bahasa Arab [[^surat-jai-030-amir-iii-2025]] adalah zakat yang diwajibkan atas setiap jiwa, baik laki-laki maupun perempuan Muslim, yang dilakukan pada bulan Ramadhan sebelum shalat Idul Fitri. 
+
+[^surat-jai-030-amir-iii-2025]: Surat JAI No. 030/AMIR/III/2025 di Bogor tanggal 10 Maret 2025.
 
 ### Hukum Zakat Fitrah
 
