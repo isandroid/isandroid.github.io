@@ -52,7 +52,7 @@ Hadhrat Khalifatul Masih V atba bersabda,
 
 - Mempunyai harta yang lebih dari pada kebutuhannya sehari-hari untuk dirinya dan orang-orang di bawah tanggungan pada hari raya dan malamnya
 
-- Jika seseorang kesulitan untuk 
+- Jika seseorang kesulitan untuk mengeluarkan zakat fitrah (misalnya karena tidak ada lagi makanan atau uang yang bisa dikeluarkan), maka ia mendapat keringanan untuk tidak mengeluarkan zakat fitrah. 
 
 [^alislam-org-fitrana]: [What is Fitrana and Eid Fund?](https://www.alislam.org/question/what-is-fitrana-eid-fund/)
 
