@@ -58,7 +58,17 @@ Rasulullah saw bersabda, “... berpuasalah maka kalian akan sehat, dan bersafar
 
 [^ced129b6-6325-458c-9945-b5f0912f7aa6]: [H.R. Ath Thabrani](/referensi/ced129b6-6325-458c-9945-b5f0912f7aa6.html)
 
-### 5. Tujuan Ketakwaan
+### 5. Pensucian Jiwa dan Meningkatnya Potensi Meraih Kasyaf
+
+Hadhrat Masih Mauud (as) bersabda:
+
+(Dalam Al-Baqarah 186) diketahui akan kebesaran bulan Ramadhan. Para sufi menulis bahwa untuk menerangi hati sanubari bulan ini merupakan bulan yang bagus. Di dalamnya dibukakan banyak tirai-tirai kasyaf. Shalat dapat mensucikan jiwa dan puasa menerangi kalbu. Maksud pensucian jiwa adalah dapat meraih jarak yang jauh dari nafsu ammarah” Nafsu ammarah merupakan nafsu yang membawa pada keburukan. “ Dan maksud tajalli kalbi –kecemerlangan kalbu adalah pintu kasyaf terbuka baginya sehingga dia melihat Tuhan’. [[^malfuzhat-ii-561-562]] [[^khotbah-20041015]]
+
+[^malfuzhat-ii-561-562]: Malfuzhat jilid 2:561-562 Edisi Baru
+
+[^khotbah-20041015]: Khotbah Jumat Sayyidina Amirul Mu’minin, Hadhrat Mirza Masrur Ahmad, Khalifatul Masih al-Khaamis (aba) tanggal 15 Oktober 2004 di Mesjid Baitulfutuh, Morden, London
+
+### 6. Tujuan Ketakwaan
 
 Tujuan final puasa adalah ketakwaan. Allah Ta'ala berfirman dalam Alquran Surah AlBaqarah [2] ayat 184, yakni:
 
@@ -96,4 +106,27 @@ Allah menyatakan, ketika seorang yang berpuasa berpola pikir ini dan juga memenu
 
 Kebajikan-kebajikan orang tersebut tidak bersifat sementara; mereka tidak mematuhi kebajikan-kebajian tersebut hanya selama bulan Ramadhan. Mereka memiliki wawasan yang nyata terhadap ketakwaan dan mereka menghubungkan satu Ramadhan dengan Ramadhan berikutnya. Inilah yang harus kita jadikan sebagai tujuan; tidak mencapai ketakwaan untuk sementara, tidak berpuasa hanya pada pada tingkat yang dangkal untuk tetap lapar dan haus saja. Kita harus memahami esensi dari semangat Ramadhan, bukan hanya berharap satu sama lain mengucapkan 'Ramadhan Mubarak – Selamat memasuki bulan Ramadhan' dan tetap lalai. Pencapaian ketakwaan harus hadir dalam pikiran kita di setiap hari ketika mulai berpuasa di pagi hari dan hingga saat berbuka puasa di malam hari. Kita seharusnya tidak menanggapi dengan balasan setimpal bagi siapa pun yang menyerang kita. Sebaliknya, kita harus tetap diam dan hanya mengatakan kepada mereka bahwa kita sedang berpuasa. [[^FST20140725]]
 
+Puasa dianggap sebagai disiplin fisik, akhlak, dan ruhani untuk tujuan memajukan ketakwaan. Puasa menempatkan semua orang, baik kaya maupun miskin, pada tingkat yang sama. Orang kaya mengalami rasa lapar yang sama dengan saudara-saudara mereka yang miskin. Hasilnya adalah mereka menjadi lebih simpatik terhadap orang miskin dan yang dilanda kemiskinan. Puasa diyakini dapat meningkatkan kemauan dan mengekang keinginan jasmani. Puasa juga diakui oleh sebagian besar ahli medis sebagai cara yang sangat baik untuk menyembuhkan obesitas atau kegemukan dan mengeluarkan racun berbahaya dari tubuh manusia. Selain itu, ada pengecualian bagi orang sakit, ibu hamil, musafir, dan alasan lainnya. Jika mereka mampu, mereka dapat mengirimkan uang kepada orang miskin sebagai [fidyah](/puasa/2024/10/29/fidyah.html). [^alislamorg-mengapa-puasa-tidak-berbahaya] 
+
+[^alislamorg-mengapa-puasa-tidak-berbahaya]: [Mengapa Puasa Tidak Berbahaya bagi kaum Muslim?](https://www.alislam.org/question/why-muslims-fast-harmful/)
+
+Hadhrat Mirza Basyiruddin Mahmud Ahmad (ra) menyampaikan,
+
+Sebagaimana dijelaskan dalam Al-Baqarah [2]:3, kata _taqwa_ atau _ittaqa_ yang menjadi asal kata _tattaquun_  yang digunakan dalam ayat ini berarti menjaga diri dari:
+
+1) bahaya dan penderitaan, dan 
+2) kejahatan dan dosa. 
+
+Dengan demikian, ayat tersebut menunjukkan bahwa tujuan sebenarnya dari puasa adalah untuk terhindar dari bahaya dan penderitaan, dan kedua, untuk terhindar dari dosa dan kejahatan. [[^fasting-cleansing-soul]]
+
+[^fasting-cleansing-soul]: [Alislam.org: Fasting Cleansing Soul](https://www.alislam.org/articles/fasting-cleansing-soul/)
+
 ### Catatan Kaki
+
+<!-- Berdasarkan Tafsir Alquran dari QS Al Baqarah (002) ayat 184, Puasa adalah peraturan agama, dalam bentuk atau dengan perincian bagaimana pun terdapat pada tiap-tiap agama. 
+
+Oleh kebanyakan agama, pada kebudayaan yang tarafnya rendah, pertengahan atau lebih tinggi sekalipun, puasa itu umumnya diwajibkan; dan, walaupun bila tidak diharuskan, puasa itu dilakukan seberapa jauh oleh perorangan, sebagai jawaban kepada dorongan tabi’i (alaminya)” – (Enc. Brit). 
+
+Ini adalah pengalaman umum para wali dan ahli kasyaf bahwa pemutusan hubungan jasmani atau pertalian duniawi sampai batas tertentu itu, sangat perlu untuk kemajuan rohani dan mengandung pengaruh mensucikan yang kuat sekali kepada alam pikiran. Tetapi, Islam telah memperkenalkan orientasi dan arti rohani baru dalam peraturan puasa ini. Menurut Islam, puasa merupakan lambang pengorbanan yang sempurna. Orang puasa bukan hanya menjauhi makan-minum, yang merupakan sarana hidup yang utama, dan tanpa itu orang tak dapat hidup, tetapi pula menjauhi istrinya sendiri, yang merupakan sarana untuk mendapat keturunan. Jadi, orang yang berpuasa membuktikan kesediannya yang sungguh-sungguh, bila diperlukan, mengorbankan segala-galanya untuk kepentingan Tuhan dan Khalik-nya. [^tafsir-al-quran-002-184]
+
+[^tafsir-al-quran-002-184]: Tafsir Alquran dengan Terjemah dan Tafsir Singkat terbitan Jemaat Ahmadiyah Indonesia, QS Al Baqarah ayat 184 -->
