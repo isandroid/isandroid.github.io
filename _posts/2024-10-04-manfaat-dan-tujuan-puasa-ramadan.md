@@ -44,6 +44,10 @@ Yakni timbul perhatian untuk menjalin ikatan pertalian dengan Allah, dan timbul 
 
 [^khotbah-20041015]: Khotbah Jumat Sayyidina Amirul Mu’minin, Hadhrat Mirza Masrur Ahmad, Khalifatul Masih al-Khaamis (aba) tanggal 15 Oktober 2004 di Mesjid Baitulfutuh, Morden, London
 
+Manusia tidak hidup dari roti jasmani saja. Tubuh fisik membutuhkan makanan materi yang berasal dari tanah, sedangkan ruh membutuhkan makanan samawi yang berasal dari firman Tuhan dan dzikir.
+
+Puasa, dalam esensinya, adalah intervensi Allah Ta'ala agar secara sukarela memutus rantai pasokan makanan fisik, air, dan hubungan suami-istri—yang merupakan sarana kelangsungan hidup individu, seorang mukmin sedang memaksa tubuhnya untuk mundur dan memberi ruang bagi ruh agar maju. [[^fasting-cleansing-soul]]
+
 Hadhrat Mushlih Mau'ud ra bersabda: 
 
 “Tujuan puasa tidak membuat seseorang mati kelaparan atau kehausan. Seandainya surga dapat diraih dengan mati kelaparan, maka saya menganggap bahwa orang-orang yang paling kafir dan munafik juga siap untuk melakukannya, karena mati kelaparan dan kehausan bukanlah perkara yang sulit. 
@@ -114,8 +118,9 @@ Hadhrat Mirza Basyiruddin Mahmud Ahmad (ra) menyampaikan,
 
 Sebagaimana dijelaskan dalam Al-Baqarah [2]:3, kata _taqwa_ atau _ittaqa_ yang menjadi asal kata _tattaquun_  yang digunakan dalam ayat ini berarti menjaga diri dari:
 
-1) bahaya dan penderitaan, dan 
-2) kejahatan dan dosa. 
+1. bahaya dan penderitaan, dan 
+
+2. kejahatan dan dosa. 
 
 Dengan demikian, ayat tersebut menunjukkan bahwa tujuan sebenarnya dari puasa adalah untuk terhindar dari bahaya dan penderitaan, dan kedua, untuk terhindar dari dosa dan kejahatan. [[^fasting-cleansing-soul]]
 
